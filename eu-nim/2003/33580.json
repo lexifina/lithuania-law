@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2003 m. liepos 11 d. įsakymas Nr. 3-422 „Dėl kai kurių susisiekimo ministro įsakymų pakeitimo ir pripažinimo netekusiais galios“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "77",
+  "official_journal_page": null,
+  "official_journal_date": "2003-08-06",
+  "entry_into_force": "2003-08-07",
+  "notification_date": "2005-01-04",
+  "commission_reference": "MNE(2004)53580",
+  "nim_celex": "72002L0006LTU_33580",
+  "nim_id": "33580",
+  "transposes_celex": [
+    "32002L0006"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a66d7105-ebda-4570-b155-429bdd120786",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
