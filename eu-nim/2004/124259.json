@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2003 M. GRUODŽIO 24 D. ĮSAKYMAS NR. 685 \"DĖL INFORMACIJOS APIE VANDENS APSAUGĄ IR VALDYMĄ SURINKIMO IŠ VALSTYBĖS BEI SAVIVALDYBIŲ INSTITUCIJŲ, KITŲ VIEŠŲJŲ JURIDINIŲ ASMENŲ IR ATASKAITŲ EUROPOS BENDRIJŲ KOMISIJAI RENGIMO TVARKOS PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "8",
+  "official_journal_page": null,
+  "official_journal_date": "2004-01-15",
+  "entry_into_force": "2004-01-16",
+  "notification_date": "2005-10-06",
+  "commission_reference": "MNE(2005)54259",
+  "nim_celex": "72000L0060LTU_124259",
+  "nim_id": "124259",
+  "transposes_celex": [
+    "32000L0060"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ba726abe-8aea-4ebc-8dff-d63d5cdc46df",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
