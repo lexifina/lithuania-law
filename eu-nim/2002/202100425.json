@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatymas Nr. IX-1067 (suvestinė redakcija nuo 2011-11-05)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "91-3890",
+  "official_journal_page": null,
+  "official_journal_date": "2002-09-18",
+  "entry_into_force": "2002-09-18",
+  "notification_date": "2021-01-20",
+  "commission_reference": "MNE(2021)00425",
+  "nim_celex": "72018L1808LTU_202100425",
+  "nim_id": "202100425",
+  "transposes_celex": [
+    "32018L1808"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3366d750-003b-46ea-aaad-c8d919b687a0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
