@@ -1,0 +1,27 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos viešųjų pirkimų įstatymo 9 straipsnio pakeitimo įstatymas Nr. IX-2339",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "116",
+  "official_journal_page": null,
+  "official_journal_date": "2004-07-27",
+  "entry_into_force": "2004-07-27",
+  "notification_date": "2004-11-13",
+  "commission_reference": "MNE(2004)52597",
+  "nim_celex": "71992L0050LTU_32597",
+  "nim_id": "32597",
+  "transposes_celex": [
+    "31992L0050",
+    "31993L0036",
+    "31993L0037",
+    "31993L0038",
+    "31997L0052",
+    "31998L0004"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/67cac3a5-0bf3-41e3-a898-ef45083fa21a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
