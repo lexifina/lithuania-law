@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO PAPILDYMO 41(6), 172(17), 187(5), 188(12), 247(6) STRAIPSNIAIS IR 221, 224, 259(1) STRAIPSNIŲ PAPILDYMO IR PAKEITIMO ĮSTATYMAS NR. VIII-1017",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "11",
+  "official_journal_page": null,
+  "official_journal_date": "1999-01-27",
+  "entry_into_force": "1999-01-27",
+  "notification_date": "2005-08-02",
+  "commission_reference": "MNE(2005)53086",
+  "nim_celex": "72002L0073LTU_123086",
+  "nim_id": "123086",
+  "transposes_celex": [
+    "32002L0073"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2be0de3a-f03a-4bbe-bec1-81152c1d99b1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
