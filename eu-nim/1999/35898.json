@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Administracinių teisės pažeidimų kodekso papildymo 99(6), 99(7), 235(2) straipsniais ir 224, 259(1) staripsnių papildymo įstatymas Nr. VIII-990",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "3",
+  "official_journal_page": null,
+  "official_journal_date": "1999-01-08",
+  "entry_into_force": "1999-01-08",
+  "notification_date": "2005-03-10",
+  "commission_reference": "MNE(2005)55898",
+  "nim_celex": "72003L0055LTU_35898",
+  "nim_id": "35898",
+  "transposes_celex": [
+    "32003L0055"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d8e03624-311a-4361-aad4-2d9f1a6dbdff",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
