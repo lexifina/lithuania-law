@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos rinkliavų įstatymas Nr. VIII-1725",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "52-1484",
+  "official_journal_page": null,
+  "official_journal_date": "2000-06-28",
+  "entry_into_force": "2001-01-01",
+  "notification_date": "2024-01-29",
+  "commission_reference": "MNE(2024)00525",
+  "nim_celex": "72021L1883LTU_202400525",
+  "nim_id": "202400525",
+  "transposes_celex": [
+    "32021L1883"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2a83b530-3307-4c36-bb62-a0b2bfe32263",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
