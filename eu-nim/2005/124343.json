@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 2005 M. KOVO 14 D. NUTARIMAS NR. 266 \"DĖL DAUGUVOS, LIELUPĖS, NEMUNO IR VENTOS UPIŲ BASEINŲ RAJONŲ KOORDINAVIMO TARYBŲ SUDĖTIES IR NUOSTATŲ PATVIRTINIMO\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "35",
+  "official_journal_page": null,
+  "official_journal_date": "2005-03-17",
+  "entry_into_force": "2005-03-18",
+  "notification_date": "2005-10-06",
+  "commission_reference": "MNE(2005)54343",
+  "nim_celex": "72000L0060LTU_124343",
+  "nim_id": "124343",
+  "transposes_celex": [
+    "32000L0060"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/38b23fa6-9ecd-4055-bdf9-a7061b46e0bd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
