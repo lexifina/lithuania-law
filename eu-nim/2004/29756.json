@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS BANKO VALDYBOS N U T A R I M A S Nr. 111 ,,DĖL LIETUVOS BANKO VALDYBOS 2000 M. GRUODŽIO 21 D. NUTARIMO NR. 172 ,,DĖL KAPITALO PAKANKAMUMO SKAIČIAVIMO TAISYKLIŲ“ PAKEITIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "105",
+  "official_journal_page": null,
+  "official_journal_date": "2004-07-06",
+  "entry_into_force": "2004-07-07",
+  "notification_date": "2004-07-09",
+  "commission_reference": "MNE(2004)59756",
+  "nim_celex": "72004L0069LTU_29756",
+  "nim_id": "29756",
+  "transposes_celex": [
+    "32004L0069"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/77f9ad9f-88bb-4db8-9762-79a8551adc4c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
