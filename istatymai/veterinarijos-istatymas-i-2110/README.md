@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 1991-12-17 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/fcd0803a07b90cf1dddded58b58cea0ae6663f3a/istatymai/TAR.97BDCD719E57.md) |
+| 1999-10-27 | 2000-07-25 | Įstatymas Nr. VIII-1350 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/e47cbe15a261e7dbcfa562d6ce79f1bc21ccf418/istatymai/TAR.97BDCD719E57.md) |
