@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2003 m. vasario 6 d. nutarimas Nr. 194 „Dėl vaiko teisių apsaugos valdymo srities priskyrimo Socialinės apsaugos ir darbo ministerijai ir kitų ministerijų kompetencijos nustatymo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "15",
+  "official_journal_page": null,
+  "official_journal_date": "2003-02-12",
+  "entry_into_force": "2003-02-13",
+  "notification_date": "2015-11-13",
+  "commission_reference": "MNE(2015)58312",
+  "nim_celex": "72012L0029LTU_231705",
+  "nim_id": "231705",
+  "transposes_celex": [
+    "32012L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/91150022-c291-4e26-955c-a8723df417af",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
