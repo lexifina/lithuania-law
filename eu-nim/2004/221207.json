@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 1, 2, 8, 17 straipsnių pakeitimo bei papildymo ir Įstatymo papildymo 13(1) straipsniu ir priedu įstatymas Nr. IX-2103",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "60",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-24",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2015-01-20",
+  "commission_reference": "MNE(2014)56424",
+  "nim_celex": "72011L0098LTU_221207",
+  "nim_id": "221207",
+  "transposes_celex": [
+    "32011L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ba5ce36c-deb2-40bf-91b6-1f44d54985f5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
