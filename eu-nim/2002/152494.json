@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2001 m. gruodžio 22 d. įsakymas Nr. 666 \"Dėl Lietuvos higienos normos HN 107:2001 „Specialios paskirties maisto produktai\" patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "5",
+  "official_journal_page": null,
+  "official_journal_date": "2002-01-18",
+  "entry_into_force": "2002-01-19",
+  "notification_date": "2008-01-09",
+  "commission_reference": "MNE(2008)50165",
+  "nim_celex": "72006L0141LTU_152494",
+  "nim_id": "152494",
+  "transposes_celex": [
+    "32006L0141"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8fbf5a2b-edba-4f8c-8948-4c73491dd635",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
