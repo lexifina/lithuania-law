@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Ryšių reguliavimo tarnybos prie Lietuvos Respublikos Vyriausybės direktoriaus 2004 m. gegužės 19 d. įsakymas Nr. 1V-72 \"Dėl Ryšių reguliavimo tarnybos prie Lietuvos Respublikos Vyriausybės direktoriaus 2002 m. gruodžio 20 d.  įsakymo Nr. 199 \"Dėl Radijo dažnių (kanalų) skyrimo ir naudojimo taisyklių patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "85",
+  "official_journal_page": null,
+  "official_journal_date": "2004-05-26",
+  "entry_into_force": "2004-05-27",
+  "notification_date": "2004-12-29",
+  "commission_reference": "MNE(2004)53888",
+  "nim_celex": "72002L0020LTU_33888",
+  "nim_id": "33888",
+  "transposes_celex": [
+    "32002L0020"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8fda2b64-ab8d-4afe-9d0c-1cac35747b38",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
