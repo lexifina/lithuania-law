@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS GEOLOGIJOS TARNYBOS PRIE LIETUVOS RESPUBLIKOS APLINKOS MINISTERIJOS DIREKTORIAUS 2003 M. SPALIO 24 D. ĮSAKYMAS NR. 1-59 \"DĖL ŪKIO SUBJEKTŲ POŽEMINIO VANDENS MONITORINGO VYKDYMO TVARKOS PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "101",
+  "official_journal_page": null,
+  "official_journal_date": "2003-10-29",
+  "entry_into_force": "2003-10-30",
+  "notification_date": null,
+  "commission_reference": "MNE(2009)50883",
+  "nim_celex": "72006L0118LTU_160736",
+  "nim_id": "160736",
+  "transposes_celex": [
+    "32006L0118"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/27a5cc3a-8900-4af0-9d75-01ca84cdd252",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
