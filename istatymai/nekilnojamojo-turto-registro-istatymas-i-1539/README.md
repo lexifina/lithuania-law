@@ -13,3 +13,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 1998-01-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/923231e1d53e8dc66e922f47fdfe27d38dc0060c/istatymai/TAR.38E82AA2664C.md) |
 | 1999-11-26 | 2000-12-31 | Įstatymas Nr. VIII-453 / Įstatymas Nr. VIII-1384 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/7f72bc25df9dcf543fbc177dc074fc51e886d169/istatymai/TAR.38E82AA2664C.md) |
 | 2001-01-01 | 2001-06-30 | Įstatymas Nr. VIII-1765 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/076f71bd34ea2947a879da87bc903313237b47ae/istatymai/TAR.38E82AA2664C.md) |
+| 2001-07-01 | 2003-06-12 | Įstatymas Nr. IX-391 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/a4d4e8e45d2a1274fef70389b611d2cf49b2a5a7/istatymai/TAR.38E82AA2664C.md) |
