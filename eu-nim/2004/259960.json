@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos įstatymas dėl Roterdamo konvencijos dėl sutikimo, apie kurį pranešama iš anksto, procedūros, taikomos tam tikroms pavojingoms cheminėms medžiagoms ir pesticidams tarptautinėje prekyboje, ratifikavimo Nr. IX-1898",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "42-1368",
+  "official_journal_page": null,
+  "official_journal_date": "2004-03-19",
+  "entry_into_force": "2004-03-19",
+  "notification_date": "2018-06-29",
+  "commission_reference": "MNE(2018)53334",
+  "nim_celex": "72016L2284LTU_259960",
+  "nim_id": "259960",
+  "transposes_celex": [
+    "32016L2284"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a77bc231-6d1f-4938-94c9-21bebd367d0f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
