@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 5, 9, 10, 11, 12, 14, 20 straipsnių pakeitimo ir papildymo įstatymas Nr.IX-709",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "13",
+  "official_journal_page": null,
+  "official_journal_date": "2002-02-06",
+  "entry_into_force": "2002-04-01",
+  "notification_date": "2004-02-03",
+  "commission_reference": "MNE(2003)51076",
+  "nim_celex": "71986L0613LTU_21076",
+  "nim_id": "21076",
+  "transposes_celex": [
+    "31986L0613",
+    "32010L0018"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1c665a57-bfa3-4571-b91e-bb26f19cf663",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
