@@ -1,0 +1,29 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro įsakymas Nr. V-788 ,,Dėl mėginių ėmimo metodų teršalų koncentracijoms maisto produktuose nustatyti patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "45",
+  "official_journal_page": null,
+  "official_journal_date": "2004-03-26",
+  "entry_into_force": "2004-03-27",
+  "notification_date": "2004-04-19",
+  "commission_reference": "MNE(2003)51501",
+  "nim_celex": "71985L0591LTU_21501",
+  "nim_id": "21501",
+  "transposes_celex": [
+    "31985L0591",
+    "31998L0053",
+    "32001L0022",
+    "32002L0026",
+    "32002L0027",
+    "32002L0069",
+    "32003L0078",
+    "32004L0043"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/53bc8a05-7d06-4041-8137-bd6742cbfe68",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
