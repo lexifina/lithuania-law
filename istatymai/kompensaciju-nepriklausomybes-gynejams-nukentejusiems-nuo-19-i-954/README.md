@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 1991-01-16 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/5b0041a354aadaf75f3153a632e6a89a1a6fa401/istatymai/TAR.4C2B9F5E31B7.md) |
+| 1992-01-12 | 1992-07-14 | Įstatymas Nr. I-2198 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/4eefe9bad03033ef1ca5b27a20390ab1fa863271/istatymai/TAR.4C2B9F5E31B7.md) |
