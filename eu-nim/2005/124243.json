@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2005 M. SAUSIO 17 D. ĮSAKYMAS NR. D1-30 'DĖL APLINKOS MINISTRO 2003 M. SPALIO 23 D. ĮSAKYMO NR. 517 „DĖL APLINKOS ORO KOKYBĖS VERTINIMO PROGRAMOS PATVIRTINIMO“ PAKEITIMO'",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "14",
+  "official_journal_page": null,
+  "official_journal_date": "2005-01-29",
+  "entry_into_force": "2005-01-30",
+  "notification_date": "2005-10-04",
+  "commission_reference": "MNE(2005)54243",
+  "nim_celex": "71996L0062LTU_124243",
+  "nim_id": "124243",
+  "transposes_celex": [
+    "31996L0062",
+    "32002L0003"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/008e90de-97f2-42a9-a866-88a75109341a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
