@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro įsakymas Nr. D1-191 „Dėl aplinkos ministro 2003 m. spalio 8 d. įsakymo Nr. 493 „Dėl informacijos apie degalų taupymą ir išmetamųjų CO2 dujų kiekį pateikimo vartotojams parduodant naujus keleivinius automobilius tvarkos patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "60",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-24",
+  "entry_into_force": "2004-04-25",
+  "notification_date": "2004-05-26",
+  "commission_reference": "MNE(2004)58071",
+  "nim_celex": "71999L0094LTU_28071",
+  "nim_id": "28071",
+  "transposes_celex": [
+    "31999L0094"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/10b53a3d-12d6-4690-a628-7aa5b3a8d44e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
