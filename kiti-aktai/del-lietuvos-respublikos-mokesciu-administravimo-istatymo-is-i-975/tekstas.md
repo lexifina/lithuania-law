@@ -4,7 +4,7 @@ DĖL LIETUVOS RESPUBLIKOS MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO ĮSIGALIOJIMO
 1995 m. birželio 28 d. Nr. I-975
 Vilnius
 1. Nustatyti, kad Lietuvos Respublikos mokesčių administravimo įstatymo VI, VII, VIII ir IX (išskyrus 51 straipsnį) skyriai įsigalioja nuo 1996 m. liepos 1 dienos.
-2. Nustatyti, kad nuo 1996 m. balandžio 1 d. nebeveikia Lietuvos Respublikos įstatymų mokesčius reguliuojančios normos tiems mokesčiams, kurie išvardyti Lietuvos Respublikos mokesčių administravimo įstatymo 5 straipsnio pirmojoje dalyje, išskyrus specialius šių mokesčių įstatymus.
+2. Nustatyti, kad nuo 1996 m. liepos 1 d. nebeveikia Lietuvos Respublikos įstatymų mokesčius reguliuojančios normos tiems mokesčiams, kurie išvardyti Lietuvos Respublikos mokesčių administravimo įstatymo 5 straipsnio 1 dalyje išskyrus šių mokesčių įstatymus ir specialius mokesčių įstatymus, ir neskaičiuojamos mokesčių mokėtojams baudos ir delspinigiai už laikotarpį nuo 1996 m. balandžio 1 d. iki šio įstatymo įsigaliojimo dienos.
 3. Pasiūlyti Lietuvos Respublikos Vyriausybei iki 1996 m. sausio 1 d. pateikti Seimui:
 1) įstatymų, kurie prieštarauja Lietuvos Respublikos mokesčių administravimo įstatymui, pakeitimo projektus;
 2) programą, kuri numatytų galimybes visų šalyje mokamų mokesčių ir įmokų administravimą perduoti vienai institucijai.
