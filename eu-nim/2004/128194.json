@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės nutarimas Nr. 1441 \"Dėl įtartinų operacijų su pinigais sustabdymo ir informacijos pateikimo Finansinių nusikaltimų tyrimo tarnybai prie Vidaus reikalų ministerijos taisyklių patvirtinimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "167",
+  "official_journal_page": null,
+  "official_journal_date": "2004-11-17",
+  "entry_into_force": "2004-11-18",
+  "notification_date": "2006-02-08",
+  "commission_reference": "MNE(2006)50870",
+  "nim_celex": "71991L0308LTU_128194",
+  "nim_id": "128194",
+  "transposes_celex": [
+    "31991L0308"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8ce12fca-389a-478a-8b60-bc7848de435d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
