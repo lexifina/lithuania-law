@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos suėmimo vykdymo įstatymas Nr. I-1175 (suvestinė redakcija nuo 2017-09-01)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "12-313",
+  "official_journal_page": null,
+  "official_journal_date": "1996-02-09",
+  "entry_into_force": "1996-02-01",
+  "notification_date": "2019-06-10",
+  "commission_reference": "MNE(2019)53473",
+  "nim_celex": "72016L0800LTU_273720",
+  "nim_id": "273720",
+  "transposes_celex": [
+    "32016L0800"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e4882e25-daf3-44d8-825d-b61b84d33a1e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
