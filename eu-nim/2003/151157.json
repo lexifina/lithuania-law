@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos smulkaus ir vidutinio verslo plėtros įstatymo pakeitimo įstatymas Nr.IX-1142",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "105",
+  "official_journal_page": null,
+  "official_journal_date": "2002-11-06",
+  "entry_into_force": "2003-01-01",
+  "notification_date": "2007-11-29",
+  "commission_reference": "MNE(2007)58412",
+  "nim_celex": "72005L0032LTU_151157",
+  "nim_id": "151157",
+  "transposes_celex": [
+    "32005L0032",
+    "32009L0125"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7e5b6d7f-f0f9-408b-8d18-19b99eac1912",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
