@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2004 m. birželio 2 d. įsakymas Nr. 3D-336 „Dėl žemės ūkio ministro 2002 m. rugsėjo 23 d. įsakymo Nr. 365 „Dėl Privalomųjų reikalavimų daržovių dauginamajai medžiagai, išskyrus sėklą“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "90-3320",
+  "official_journal_page": null,
+  "official_journal_date": "2004-06-07",
+  "entry_into_force": "2004-06-08",
+  "notification_date": "2021-02-03",
+  "commission_reference": "MNE(2021)00592",
+  "nim_celex": "71992L0033LTU_202100592",
+  "nim_id": "202100592",
+  "transposes_celex": [
+    "31992L0033"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7e7dfa38-800e-4b6c-9f5c-dbf80ca85710",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
