@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 1996-10-23 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/9c90829f784acf1bf35b1cd9b3fc859cd4adc51b/istatymai/TAR.C6E4170DB704.md) |
+| 1998-06-05 | 2004-12-31 | Įstatymas Nr. VIII-755 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/b12dc38c827573391f5f4190a1096db9100a73c8/istatymai/TAR.C6E4170DB704.md) |
