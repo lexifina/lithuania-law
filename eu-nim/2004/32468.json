@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2004 m. liepos 22 d. nutarimas Nr. 931 “Dėl Lietuvos Respublikos Vyriausybės 2002 m. rugsėjo 6 d. nutarimo Nr. 1409 \"Dėl Kliento atliekamų operacijų pinigais ir sandorių registro tvarkymo taisyklių\" pakeitimo” (nauja redakcija)",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "115",
+  "official_journal_page": null,
+  "official_journal_date": "2004-07-24",
+  "entry_into_force": "2004-07-25",
+  "notification_date": "2004-11-13",
+  "commission_reference": "MNE(2004)52468",
+  "nim_celex": "71991L0308LTU_32468",
+  "nim_id": "32468",
+  "transposes_celex": [
+    "31991L0308"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/086c0bb3-fce3-4835-82d1-4758fd1aa4af",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
