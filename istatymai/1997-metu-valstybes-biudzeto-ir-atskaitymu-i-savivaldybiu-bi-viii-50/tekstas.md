@@ -1,5 +1,5 @@
 Redagavo:
-Ramunė Lūžaitė (1997.07.14)
+Ramunė Lūžaitė (1997.10.30)
 Įstatymas
 paskelbtas:
 Žin., 1996,
