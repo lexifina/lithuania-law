@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Respublikos Vyriausybės 2003 m. sausio 28 d. nutarimas Nr. 115 ,,Dėl pavyzdinės darbo sutarties su jūrininku formos patvirtinimo“ (Suvestinė redakcija nuo 2019-02-01)",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "11-412",
+  "official_journal_page": null,
+  "official_journal_date": "2003-01-31",
+  "entry_into_force": "2003-02-01",
+  "notification_date": "2022-08-02",
+  "commission_reference": "MNE(2022)05108",
+  "nim_celex": "72019L1152LTU_202205108",
+  "nim_id": "202205108",
+  "transposes_celex": [
+    "32019L1152"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c4a5db1b-b131-400e-974c-5f6c9b5293aa",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
