@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo pakeitimo įstatymas Nr. VIII-940",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "109",
+  "official_journal_page": null,
+  "official_journal_date": "1998-12-11",
+  "entry_into_force": "1998-12-11",
+  "notification_date": "2012-11-19",
+  "commission_reference": "MNE(2012)56761",
+  "nim_celex": "72010L0053LTU_198398",
+  "nim_id": "198398",
+  "transposes_celex": [
+    "32010L0053"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5edb0199-5939-4016-a107-e0b12eeeafa9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
