@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2000 m. birželio 30 d. įsakymas Nr. 215 „Dėl Rinkai tiekiamų sėklinių bulvių privalomųjų reikalavimų aprašo patvirtinimo“ (Suvestinė redakcija nuo 2020-02-01)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "56-1673",
+  "official_journal_page": null,
+  "official_journal_date": "2000-07-12",
+  "entry_into_force": "2000-07-13",
+  "notification_date": "2020-05-29",
+  "commission_reference": "MNE(2020)53928",
+  "nim_celex": "72020L0177LTU_284456",
+  "nim_id": "284456",
+  "transposes_celex": [
+    "32020L0177"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0ff005ad-a703-11ea-bb7a-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
