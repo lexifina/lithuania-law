@@ -13,3 +13,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 1994-12-14 | 1994-12-29 | Aktas Nr. I-688 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/7d669b7359656a58491c6eb0decbaba7436d5e58/istatymai/TAR.CCA48EFA01D1.md) |
 | 1994-12-30 | 1995-04-06 | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/c1ec2392d83f2296d082faf461e38edf117fa583/istatymai/TAR.CCA48EFA01D1.md) |
 | 1995-04-07 | 2000-06-27 | Aktas Nr. I-831 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/114c0ef845cb7d18dba8c0dae5b9bc47f354dc59/istatymai/TAR.CCA48EFA01D1.md) |
+| 2000-06-28 | 2006-12-31 | Aktas Nr. VIII-1719 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/046ef097266e4925f36fbe038e26ef197197c54c/istatymai/TAR.CCA48EFA01D1.md) |
