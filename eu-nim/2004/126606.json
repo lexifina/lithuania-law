@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "VIEŠOSIOS ĮSTAIGOS LIETUVOS RESPUBLIKOS APSKAITOS INSTITUTO STANDARTŲ TARYBOS 2004 M. SPALIO 27 D. NUTARIMAS NR. 11 \"DĖL VERSLO APSKAITOS STANDARTŲ PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "180",
+  "official_journal_page": null,
+  "official_journal_date": "2004-12-16",
+  "entry_into_force": "2004-12-17",
+  "notification_date": "2005-12-16",
+  "commission_reference": "MNE(2005)60548",
+  "nim_celex": "72001L0065LTU_126606",
+  "nim_id": "126606",
+  "transposes_celex": [
+    "32001L0065"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/62c6b047-73dc-419b-922f-a9374838b9c7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
