@@ -1,0 +1,5 @@
+LIETUVOS RESPUBLIKOS
+Į S T A T Y M A S
+DĖL SEIMO KOMITETŲ
+1992 m. gruodžio 8 d. Nr. I-13
+Vilnius
