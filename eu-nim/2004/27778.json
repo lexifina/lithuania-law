@@ -1,0 +1,32 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos finansų ministro 2004 m. kovo 31 d. įsakymas Nr. 1K-107 „Dėl subsidijų ar dotacijų sumos pridėjimo prie PVM mokėtojo pajamų mišrios veiklos atveju taisyklių ir atvejų patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "51",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-07",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2004-05-12",
+  "commission_reference": "MNE(2004)57778",
+  "nim_celex": "71977L0388LTU_27778",
+  "nim_id": "27778",
+  "transposes_celex": [
+    "31977L0388",
+    "31991L0680",
+    "31992L0111",
+    "31994L0076",
+    "31995L0007",
+    "31996L0042",
+    "31996L0095",
+    "31999L0059",
+    "31999L0085",
+    "32000L0065",
+    "32001L0004"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0208a1bf-fb41-41c3-b51f-f77675d9a360",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
