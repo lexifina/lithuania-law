@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Lietuvos Raudonojo Kryžiaus Draugijos, Raudonojo Kryžiaus, Raudonojo Pusmėnulio ir Raudonojo Kristalo emblemos ir pavadinimo įstatymas Nr. VIII-1978",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "1001010ISTAIII-1978",
+  "official_journal_page": null,
+  "official_journal_date": "2000-10-25",
+  "entry_into_force": "2000-10-25",
+  "notification_date": "2022-10-11",
+  "commission_reference": "MNE(2022)06546",
+  "nim_celex": "72001L0055LTU_202206546",
+  "nim_id": "202206546",
+  "transposes_celex": [
+    "32001L0055"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/db0f2ec4-0bc4-4dae-b17e-2b47834e2e71",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
