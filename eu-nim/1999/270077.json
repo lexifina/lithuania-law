@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos investicijų įstatymas Nr. VIII-1312 (suvestinė redakcija nuo 2018-03-01)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "66-2127",
+  "official_journal_page": null,
+  "official_journal_date": "1999-07-30",
+  "entry_into_force": "1999-07-30",
+  "notification_date": "2019-03-14",
+  "commission_reference": "MNE(2019)51409",
+  "nim_celex": "72016L2370LTU_270077",
+  "nim_id": "270077",
+  "transposes_celex": [
+    "32016L2370"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d63c50c5-32d9-4741-acc2-e03510842c12",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
