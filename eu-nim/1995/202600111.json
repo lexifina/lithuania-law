@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos kelių įstatymas Nr. I-891 (Suvestinė redakcija nuo 2022-01-01 iki 2022-05-31)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "44-1076",
+  "official_journal_page": null,
+  "official_journal_date": "1995-05-26",
+  "entry_into_force": "1995-05-26",
+  "notification_date": "2026-01-08",
+  "commission_reference": "MNE(2026)00111",
+  "nim_celex": "72022L0362LTU_202600111",
+  "nim_id": "202600111",
+  "transposes_celex": [
+    "32022L0362"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a3bc7186-c406-4779-89ed-b60b2b8dede9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
