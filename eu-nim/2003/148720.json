@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2003 m. sausio 6 d. nutarimas Nr. 1 „Dėl Mokslinių tyrimų įstaigų steigimo reikalavimų, šių įstaigų veiklos kvalifikacinių reikalavimų ir jų veiklos priežiūros tvarkos patvirtinimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "3",
+  "official_journal_page": null,
+  "official_journal_date": "2003-01-10",
+  "entry_into_force": "2003-01-11",
+  "notification_date": "2007-09-17",
+  "commission_reference": "MNE(2007)56672",
+  "nim_celex": "72005L0071LTU_148720",
+  "nim_id": "148720",
+  "transposes_celex": [
+    "32005L0071"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4a683f7a-dc94-433d-a457-d178d1338933",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
