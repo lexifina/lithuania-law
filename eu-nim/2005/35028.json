@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vertybinių popierių komisijos 2005 m. sausio 27 d. nutarimas Nr. 5 „Dėl Rinkos praktikos pripažinimo taisyklių\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "Žin., 2005, Nr. 16-531",
+  "official_journal_page": null,
+  "official_journal_date": "2005-02-03",
+  "entry_into_force": "2005-02-04",
+  "notification_date": "2005-02-14",
+  "commission_reference": "MNE(2005)55028",
+  "nim_celex": "72004L0072LTU_35028",
+  "nim_id": "35028",
+  "transposes_celex": [
+    "32004L0072"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c4804e69-e9fc-4825-add5-3bf71db51dcd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
