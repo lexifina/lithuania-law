@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos profesinio mokymo įstatymas Nr. VIII-450 (Suvestinė redakcija nuo 2022-01-01)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "98-2478",
+  "official_journal_page": null,
+  "official_journal_date": "1997-10-30",
+  "entry_into_force": "1997-10-30",
+  "notification_date": "2022-05-23",
+  "commission_reference": "MNE(2022)03220",
+  "nim_celex": "72018L0645LTU_202203220",
+  "nim_id": "202203220",
+  "transposes_celex": [
+    "32018L0645"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b4b5cbdc-e1a1-11ec-a534-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
