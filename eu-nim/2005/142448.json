@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2005 m. kovo 1 d. nutarimas Nr. 230 \"Dėl užsieniečių sveikatos draudimo tvarkos aprašo patvirtinimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "31",
+  "official_journal_page": null,
+  "official_journal_date": "2005-03-05",
+  "entry_into_force": "2005-03-06",
+  "notification_date": "2007-03-05",
+  "commission_reference": "MNE(2007)52062",
+  "nim_celex": "72004L0081LTU_142448",
+  "nim_id": "142448",
+  "transposes_celex": [
+    "32004L0081"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/58d34df1-e950-4d7a-8615-ad5bb6d00423",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
