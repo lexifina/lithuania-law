@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2004 m. spalio 20 d. įsakymas Nr. D1-545 'Dėl aplinkos ministro 2003 m. gruodžio 19 d. įsakymo Nr. 684 „Dėl pavojingų atliekų tvarkymo licencijavimo taisyklių bei pavojingas atliekas tvarkančių įmonių darbuotojams taikomų kvalifikacinių reikalavimų ir atestavimo tvarkos patvirtinimo“ pakeitimo'",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "157",
+  "official_journal_page": null,
+  "official_journal_date": "2004-10-28",
+  "entry_into_force": "2004-10-29",
+  "notification_date": "2007-05-22",
+  "commission_reference": "MNE(2007)54159",
+  "nim_celex": "71991L0689LTU_145217",
+  "nim_id": "145217",
+  "transposes_celex": [
+    "31991L0689",
+    "31999L0031",
+    "32000L0076"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3bc9a159-45ec-462a-968f-de14be0623e7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
