@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2002 m. rugsėjo 3 d. nutarimas Nr. 1388 „Dėl vandentiekio skirstomuoju tinklu vartotojams viešai tiekiamo geriamojo vandens programinės priežiūros tvarkos patvirtinimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "87",
+  "official_journal_page": null,
+  "official_journal_date": "2002-09-06",
+  "entry_into_force": "2003-07-01",
+  "notification_date": "2017-10-27",
+  "commission_reference": "MNE(2017)56120",
+  "nim_celex": "72015L1787LTU_252118",
+  "nim_id": "252118",
+  "transposes_celex": [
+    "32015L1787"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ad8cae1e-36f8-4fe1-ad46-a5aef626bee4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
