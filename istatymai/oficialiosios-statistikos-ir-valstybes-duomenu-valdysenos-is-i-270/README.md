@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 1993-10-20 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/4c99c82210e2118610709cbf5f0691c4d58e610f/istatymai/TAR.026F44E06A27.md) |
+| 1995-07-05 | 1997-07-08 | Įstatymas Nr. I-956 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/441150357baa98923c85a476cd36f7dfa72ec55a/istatymai/TAR.026F44E06A27.md) |
