@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2003 m. gruodžio 24 d. įsakymas Nr. V-773 „Dėl Lietuvos higienos normos HN 54:2003 \"Maisto produktai. Didžiausios leidžiamos teršalų ir pesticidų likučių koncentracijos\" patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "45",
+  "official_journal_page": null,
+  "official_journal_date": "2004-03-26",
+  "entry_into_force": "2004-03-27",
+  "notification_date": "2008-03-07",
+  "commission_reference": "MNE(2008)51714",
+  "nim_celex": "72006L0141LTU_154457",
+  "nim_id": "154457",
+  "transposes_celex": [
+    "32006L0141"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3f9c835e-5e4e-43b9-bd37-69459d468e3d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
