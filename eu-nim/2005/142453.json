@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS ŠVIETIMO IR MOKSLO MINISTRO 2005 M. VASARIO 8 D. ĮSAKYMAS NR. ISAK-190 \"DĖL PRIĖMIMO Į VALSTYBINES PROFESINES MOKYKLAS TVARKOS APRAŠO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "22",
+  "official_journal_page": null,
+  "official_journal_date": "2005-02-15",
+  "entry_into_force": "2005-02-16",
+  "notification_date": "2007-03-05",
+  "commission_reference": "MNE(2007)52067",
+  "nim_celex": "72004L0081LTU_142453",
+  "nim_id": "142453",
+  "transposes_celex": [
+    "32004L0081"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/07ca4a17-2a61-4072-bcd5-67554281510c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
