@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos valstybinės maisto ir veterinarijos tarnybos direktoriaus įsakymas Nr. B1-217 \"Dėl Reikalavimų žalio pieno, termiškai apdoroto geriamojo pieno ir pieno produktų gamybai patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "65",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-29",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2004-05-24",
+  "commission_reference": "MNE(2004)58069",
+  "nim_celex": "71989L0384LTU_28069",
+  "nim_id": "28069",
+  "transposes_celex": [
+    "31989L0384",
+    "31994L0071"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cf480507-0a3c-4500-a1fd-ee312066f6de",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
