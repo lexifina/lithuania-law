@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo proceso kodekso 65, 94, 103, 109, 139, 151, 154, 158, 168, 181, 218, 220, 225, 232, 237, 239, 240, 306, 313, 346, 360, 364, 370, 377, 403, 409, 418, 421, 422, 425, 426, 429, 446, 456, 457, 458 straipsnių ir XXXV skyriaus pavadinimo pakeitimo ir papildymo įstatymas Nr. IX-2336",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "115",
+  "official_journal_page": null,
+  "official_journal_date": "2004-07-24",
+  "entry_into_force": "2004-07-24",
+  "notification_date": "2013-04-18",
+  "commission_reference": "MNE(2013)52239",
+  "nim_celex": "72010L0064LTU_202530",
+  "nim_id": "202530",
+  "transposes_celex": [
+    "32010L0064",
+    "32011L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d33c593d-b2d3-4f37-bc0c-c0f18c6d0cd1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
