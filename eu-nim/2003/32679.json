@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Ryšių reguliavimo tarnybos prie Lietuvos Respublikos Vyriausybės direktoriaus 2003 m. spalio 31 d. įsakymas Nr. IV-138 \"Dėl Viešojo telefono ryšio paslaugų teikimo taisyklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "105",
+  "official_journal_page": null,
+  "official_journal_date": "2003-11-07",
+  "entry_into_force": "2003-11-08",
+  "notification_date": "2004-11-15",
+  "commission_reference": "MNE(2004)52679",
+  "nim_celex": "72002L0021LTU_32679",
+  "nim_id": "32679",
+  "transposes_celex": [
+    "32002L0021"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/37ad68b5-c3ed-482c-a363-5774eb1ebc73",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
