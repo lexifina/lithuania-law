@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos finansų įstaigų įstatymo 2, 4, 45 straipsnių pakeitimo ir papildymo įstatymas Nr. IX-2067",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "54",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-15",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2005-01-11",
+  "commission_reference": "MNE(2005)54190",
+  "nim_celex": "72003L0125LTU_34190",
+  "nim_id": "34190",
+  "transposes_celex": [
+    "32003L0125"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/efbcc2bd-40d8-40a1-906a-321d9c0f4c20",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
