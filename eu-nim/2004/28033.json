@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos dizaino įstatymo 1, 2, 5, 8, 9, 10, 16, 17, 21, 36, 37, 38, 39, 42, 46, 47 straipsnių ir Įstatymo priedo pakeitimo bei papildymo ir Įstatymo papildymo 51(1) straipsniu įstatymas Nr.IX-2205",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "73",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-30",
+  "entry_into_force": "2004-04-30",
+  "notification_date": "2004-05-26",
+  "commission_reference": "MNE(2004)58033",
+  "nim_celex": "71998L0071LTU_28033",
+  "nim_id": "28033",
+  "transposes_celex": [
+    "31998L0071"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/83d92491-f31b-424c-b497-928ca1cbbe59",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
