@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2002 m. rugsėjo 5 d. nutarimas Nr. 1390 \"Dėl įgaliojimų suteikimo įgyvendinant Lietuvos Respublikos energetikos įstatymą\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "89",
+  "official_journal_page": null,
+  "official_journal_date": "2002-09-11",
+  "entry_into_force": "2002-09-12",
+  "notification_date": "2006-06-29",
+  "commission_reference": "MNE(2006)54277",
+  "nim_celex": "72004L0067LTU_132962",
+  "nim_id": "132962",
+  "transposes_celex": [
+    "32004L0067"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/eb37de21-4f8c-4a0d-a12f-768952e061f7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
