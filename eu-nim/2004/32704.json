@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Ryšių reguliavimo tarnybos prie Lietuvos Respublikos Vyriausybės direktoriaus 2004 m. kovo 25 d. įsakymas Nr. 1V-44 \"Dėl Ryšių reguliavimo tarnybos direktoriaus 2002 m. gruodžio 20 d. įsakymo Nr. 201 „Dėl Aukciono suteikti teisę naudoti radijo dažnius (kanalus) ar telefono ryšio numerius taisyklių patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "51",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-07",
+  "entry_into_force": "2004-04-08",
+  "notification_date": "2004-11-15",
+  "commission_reference": "MNE(2004)52704",
+  "nim_celex": "72002L0020LTU_32704",
+  "nim_id": "32704",
+  "transposes_celex": [
+    "32002L0020",
+    "32002L0021"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/806158b8-e2a8-4360-82e0-befd34f27857",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
