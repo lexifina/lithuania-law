@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos draudimo priežiūros komisijos nutarimas Nr. N-43 \"Dėl draudimo brokerių įmonės veiklos licencijavimo taisyklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "60",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-24",
+  "entry_into_force": "2004-04-25",
+  "notification_date": "2004-06-07",
+  "commission_reference": "MNE(2004)58687",
+  "nim_celex": "72002L0092LTU_28687",
+  "nim_id": "28687",
+  "transposes_celex": [
+    "32002L0092"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e7c7adcf-2028-4590-b9dd-374e1b1a20f1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
