@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymas Nr. I-1234 (Suvestinė redakcija nuo 2019-04-20)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "33-807",
+  "official_journal_page": null,
+  "official_journal_date": "1996-04-12",
+  "entry_into_force": "1996-04-12",
+  "notification_date": "2019-06-10",
+  "commission_reference": "MNE(2019)53476",
+  "nim_celex": "72016L0800LTU_273723",
+  "nim_id": "273723",
+  "transposes_celex": [
+    "32016L0800"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/70351a9e-1c82-4ea9-9d0a-9a15fc262697",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
