@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2000 m. rugsėjo 18 d. įsakymas Nr. 248 „Dėl Būtingės naftos terminalo laivybos taisyklių patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "81",
+  "official_journal_page": null,
+  "official_journal_date": "2000-09-27",
+  "entry_into_force": "2000-09-28",
+  "notification_date": "2004-02-02",
+  "commission_reference": "MNE(2003)51032",
+  "nim_celex": "71996L0039LTU_21032",
+  "nim_id": "21032",
+  "transposes_celex": [
+    "31996L0039",
+    "31997L0034",
+    "32002L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fc117357-f125-470a-89ec-e3984e544a41",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
