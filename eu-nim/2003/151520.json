@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2003 m. spalio 14 d. įsakymas Nr. 3-567 „Dėl Lietuvos Respublikos susisiekimo ministerijos 1996 m. rugsėjo 24 d. įsakymo Nr. 304 „Dėl Valstybinės kelių transporto inspekcijos prie Susisiekimo ministerijos nuostatų patvirtinimo\" pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "100",
+  "official_journal_page": null,
+  "official_journal_date": "2003-10-24",
+  "entry_into_force": "2003-10-25",
+  "notification_date": "2007-12-10",
+  "commission_reference": "MNE(2007)58708",
+  "nim_celex": "72006L0022LTU_151520",
+  "nim_id": "151520",
+  "transposes_celex": [
+    "32006L0022"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8d5f038c-2738-48c7-af19-9cf4ddd6d065",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
