@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės gelmių įstatymo pakeitimo įstatymas Nr. IX-243 (nauja redakcija)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "35",
+  "official_journal_page": null,
+  "official_journal_date": "2001-04-25",
+  "entry_into_force": "2001-04-25",
+  "notification_date": "2004-01-13",
+  "commission_reference": "MNE(2003)50151",
+  "nim_celex": "71980L0068LTU_20151",
+  "nim_id": "20151",
+  "transposes_celex": [
+    "31980L0068",
+    "31994L0022",
+    "32006L0021"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a186b58b-8708-4290-99ad-39d2bab43797",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
