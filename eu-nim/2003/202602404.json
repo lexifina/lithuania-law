@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymas Nr. IX-1709 (Suvestinė redakcija nuo 2024-01-01 iki 2024-12-29)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "74-3424/2003",
+  "official_journal_page": null,
+  "official_journal_date": "2003-07-25",
+  "entry_into_force": "2003-07-25",
+  "notification_date": "2026-04-16",
+  "commission_reference": "MNE(2026)02404",
+  "nim_celex": "72024L0927LTU_202602404",
+  "nim_id": "202602404",
+  "transposes_celex": [
+    "32024L0927"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f1eb9371-1554-464a-852e-0b7acea06883",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
