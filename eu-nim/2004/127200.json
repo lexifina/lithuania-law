@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Mokesčių administravimo ĮSTATYMAS Nr. IX-2112",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "63",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-28",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2006-01-12",
+  "commission_reference": "MNE(2006)50145",
+  "nim_celex": "72005L0019LTU_127200",
+  "nim_id": "127200",
+  "transposes_celex": [
+    "32005L0019"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/25abec75-f908-448b-812e-07f347b46189",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
