@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Viešųjų pirkimų tarnybos prie Lietuvos Respublikos Vyriausybės direktoriaus 2004 m. rugsėjo 21 d.  įsakymas Nr. 1S-53 „Dėl reikalavimų viešosios darbų koncesijos suteikimo skelbimui ir skelbimui apie pirkimą, kaip perka koncesininkas, aprašo ir skelbimų tipinių formų patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "143",
+  "official_journal_page": null,
+  "official_journal_date": "2004-09-25",
+  "entry_into_force": "2004-10-25",
+  "notification_date": "2004-12-01",
+  "commission_reference": "MNE(2004)53420",
+  "nim_celex": "71993L0037LTU_33420",
+  "nim_id": "33420",
+  "transposes_celex": [
+    "31993L0037"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8f95f2b2-f923-4d94-b487-c679c00e86fa",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
