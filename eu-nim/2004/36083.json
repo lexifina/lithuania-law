@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos kraujo donorystės įstatymo 1, 2, 7, 11, 16 straipsnių pakeitimo ir papildymo ir IV skyriaus bei 14 straipsnio pripažinimo netekusiais galios  įstatymas Nr. IX-1755",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "101",
+  "official_journal_page": null,
+  "official_journal_date": "2003-10-29",
+  "entry_into_force": "2004-03-01",
+  "notification_date": "2005-03-15",
+  "commission_reference": "MNE(2005)56083",
+  "nim_celex": "72002L0098LTU_36083",
+  "nim_id": "36083",
+  "transposes_celex": [
+    "32002L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3b606d8e-185b-4097-91a1-cd90885ae796",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
