@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro įsakymas Nr. D1-211 “Dėl Paviršinių vandens telkinių naudojimo geriamajam vandeniui išgauti tvarkos aprašo patvirtinimo”",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "71",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-30",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2004-07-22",
+  "commission_reference": "MNE(2004)50058",
+  "nim_celex": "71975L0440LTU_30058",
+  "nim_id": "30058",
+  "transposes_celex": [
+    "31975L0440"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/56b4e141-2787-4865-a131-175c27005cfa",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
