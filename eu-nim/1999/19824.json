@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "VMVT DIREKTORIAUS ĮSAKYMAS 1999 M. BIRŽELIO 21 D. NR. 4-165 \"DĖL GYVŪNŲ VEŽIMO TAISYKLIŲ\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "58",
+  "official_journal_page": null,
+  "official_journal_date": "1999-07-02",
+  "entry_into_force": "1999-07-03",
+  "notification_date": "2003-11-14",
+  "commission_reference": "MNE(2003)59824",
+  "nim_celex": "71979L0409LTU_19824",
+  "nim_id": "19824",
+  "transposes_celex": [
+    "31979L0409",
+    "31991L0628",
+    "31995L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8136d362-c9ad-46e8-ba53-a01e40dda929",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
