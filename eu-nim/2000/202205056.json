@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymas  Nr. VIII-1649  (suvestinė redakcija nuo 2022-03-24)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "41-1162",
+  "official_journal_page": null,
+  "official_journal_date": "2000-05-19",
+  "entry_into_force": "2000-06-01",
+  "notification_date": "2022-08-01",
+  "commission_reference": "MNE(2022)05056",
+  "nim_celex": "72019L1152LTU_202205056",
+  "nim_id": "202205056",
+  "transposes_celex": [
+    "32019L1152"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ee2389e1-51bd-4257-887a-298711ed62c5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
