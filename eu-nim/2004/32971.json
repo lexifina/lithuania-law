@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "VALSTYBINĖS MAISTO IR VETERINARIJOS TARNYBOS 2004 M. LIEPOS 16 D. ĮSAKYMAS NR. B1-623 \"DĖL GYVŪNŲ, IMPORTUOJAMŲ Į LIETUVOS RESPUBLIKĄ, VETERINARINIO TIKRINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "108",
+  "official_journal_page": null,
+  "official_journal_date": "2004-07-13",
+  "entry_into_force": "2004-07-14",
+  "notification_date": "2004-11-19",
+  "commission_reference": "MNE(2004)52971",
+  "nim_celex": "71991L0496LTU_32971",
+  "nim_id": "32971",
+  "transposes_celex": [
+    "31991L0496"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a4dac589-0d07-450d-a780-ff25f0c82774",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
