@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos labdaros ir paramos įstatymo pakeitimo įstatymas Nr. VIII-1811",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "61",
+  "official_journal_page": null,
+  "official_journal_date": "2000-07-26",
+  "entry_into_force": "2001-01-01",
+  "notification_date": "2012-09-26",
+  "commission_reference": "MNE(2012)54428",
+  "nim_celex": "72009L0132LTU_195751",
+  "nim_id": "195751",
+  "transposes_celex": [
+    "32009L0132"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cda713ed-db5f-4bc9-a08b-4587c6248575",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
