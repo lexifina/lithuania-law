@@ -1,4 +1,7 @@
-# įstatymo Nr. IX-1181
+# RESPUBLIKOS PREZIDENTAS VALDAS ADAMKUS
+Lietuvos Respublikos
+dizaino įstatymo
 priedas
-Lietuvos Respublikos dizaino įstatymas suderintas su Europos Parlamento ir Tarybos 1998 m. spalio 13 d. direktyva Nr. 98/71/EB dėl teisinės dizaino apsaugos.
-______________
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+1. 1998 m. spalio 13 d. Europos Parlamento ir Tarybos direktyva dėl teisinės dizaino apsaugos 98/71/EB.
+2. 2001 m. gruodžio 12 d. Tarybos reglamentas dėl Bendrijos dizainų (EB) Nr. 6/2002.
