@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos draudimo priežiūros komisijos pirmininko 2005 m. kovo 15 d. įsakymas Nr. V-37 \"Dėl kai kurių Valstybinės draudimo priežiūros tarnybos prei Finansų ministerijos direktoriaus įsakymų pripažinimo netekusiais galios\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "37",
+  "official_journal_page": null,
+  "official_journal_date": "2005-03-22",
+  "entry_into_force": "2005-03-23",
+  "notification_date": "2005-11-07",
+  "commission_reference": "MNE(2005)55613",
+  "nim_celex": "71991L0308LTU_125613",
+  "nim_id": "125613",
+  "transposes_celex": [
+    "31991L0308"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7258fe61-92b4-452b-a3b3-77f5cc86eada",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
