@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2000 m. rugsėjo 29 d. įsakymas Nr. 274 \"Dėl Privalomųjų rinkai tiekiamos javų sėklos kokybės reikalavimų aprašo patvirtinimo\" (Suvestinė redakcija nuo 2018-12-01 iki 2018-12-30)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "86-2640",
+  "official_journal_page": null,
+  "official_journal_date": "2000-10-13",
+  "entry_into_force": "2000-11-01",
+  "notification_date": "2018-12-14",
+  "commission_reference": "MNE(2018)56591",
+  "nim_celex": "72018L1027LTU_265790",
+  "nim_id": "265790",
+  "transposes_celex": [
+    "32018L1027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/608a79f9-af77-4954-9f4b-69fcea671564",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
