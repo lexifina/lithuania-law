@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos metrologijos įstatymas Nr. I-1452 (Suvestinė redakcija nuo 2020-01-01)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "74-1768",
+  "official_journal_page": null,
+  "official_journal_date": "1996-08-02",
+  "entry_into_force": "1996-08-02",
+  "notification_date": "2020-04-30",
+  "commission_reference": "MNE(2020)53359",
+  "nim_celex": "72019L1258LTU_283763",
+  "nim_id": "283763",
+  "transposes_celex": [
+    "32019L1258"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1fbf198b-8f73-11ea-812f-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
