@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2003 m. rugpjūčio 12 d. įsakymas Nr. 3D-333 \"Dėl medaus techninio reglamento patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "81",
+  "official_journal_page": null,
+  "official_journal_date": "2003-08-22",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2004-09-06",
+  "commission_reference": "MNE(2004)50725",
+  "nim_celex": "72001L0110LTU_30725",
+  "nim_id": "30725",
+  "transposes_celex": [
+    "32001L0110"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b1ecf31d-9fbd-4edc-9ae0-0af15a0d0eb2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
