@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro įsakymas Nr. 462 \"Dėl informacijos apie paviršinius vandens telkinius, naudojamus arba numatomus naudoti geriamajam vandeniui ruošti, teikimo Europos Komisijai tvarkos patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "68",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-29",
+  "entry_into_force": "2004-01-01",
+  "notification_date": "2004-05-13",
+  "commission_reference": "MNE(2004)57829",
+  "nim_celex": "71979L0869LTU_27829",
+  "nim_id": "27829",
+  "transposes_celex": [
+    "31979L0869"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c4915d2d-9825-4443-9ccc-bf047dfe5155",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
