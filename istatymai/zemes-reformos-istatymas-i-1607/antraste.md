@@ -1,0 +1,29 @@
+Redaguota: 1995 06 28
+Redaguota: 1995
+06 28
+1. Nr.1-2138;
+1991.12.20.; Žin., 1992, Nr.1-11;
+2. Nr.1-2214;
+1992.01.16.; Žin., 1992, Nr.3-45;
+3. Nr.1-2565;
+1992.05.07.; Žin., 1992, Nr.15-404;
+4. Nr.1-230;
+1993.07.15.; Žin., 1993, Nr.32-727;
+5. Nr.1-447;
+1994.04.26.; Žin., 1994, Nr.34-621;
+6. Nr.1-476;
+1994.05.24.; Žin., 1994, Nr.43-777.
+7. Lietuvos
+Respublikos 1995 06 13
+Įstatymas
+Nr.1-940
+Žin., 1995,
+Nr.53-1295
+DĖL LIETUVOS
+RESPUBLIKOS ŽEMĖS REFORMOS ĮSTATYMO
+PAKEITIMO IR
+PAPILDYMO
+LIETUVOS RESPUBLIKOS
+ŽEMĖS REFORMOS ĮSTATYMAS
+I
+skyrius.Bendrieji nuostatai
