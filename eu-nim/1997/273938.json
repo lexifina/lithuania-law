@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos viešųjų pirkimų įstatymas Nr. I-1491(suvestinė redakcija nuo 2019-01-01 iki 2019-12-31)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "84-2000",
+  "official_journal_page": null,
+  "official_journal_date": "1996-09-06",
+  "entry_into_force": "1997-01-01",
+  "notification_date": "2019-06-11",
+  "commission_reference": "MNE(2019)53619",
+  "nim_celex": "72014L0055LTU_273938",
+  "nim_id": "273938",
+  "transposes_celex": [
+    "32014L0055"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8a188117-7433-4e59-b34c-3cecc13490f0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
