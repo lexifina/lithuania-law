@@ -1,0 +1,31 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2001 m. gruodžio 22 d. nutarimas Nr.1612 \" Dėl Lietuvos Respublikos Vyriausybės 2000 m. gegužės 1 d. nutarimo Nr. 486 „Dėl Leidimų gyventi Lietuvos Respublikoje užsieniečiams išdavimo, keitimo bei panaikinimo tvarkos patvirtinimo\" dalinio pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "108",
+  "official_journal_page": null,
+  "official_journal_date": "2001-12-28",
+  "entry_into_force": "2002-01-01",
+  "notification_date": "2003-11-06",
+  "commission_reference": "MNE(2003)59770",
+  "nim_celex": "71964L0221LTU_19770",
+  "nim_id": "19770",
+  "transposes_celex": [
+    "31964L0221",
+    "31968L0360",
+    "31973L0148",
+    "31975L0034",
+    "31975L0035",
+    "31990L0364",
+    "31990L0365",
+    "31993L0096",
+    "32003L0086",
+    "32003L0109"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/86bf7f24-a752-4814-a2d8-8adecbca5ef2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
