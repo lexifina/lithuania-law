@@ -1,0 +1,32 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos apsaugos įstatymo pakeitimo ir papildymo įstatymas Nr. I-1352",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "57",
+  "official_journal_page": null,
+  "official_journal_date": "1996-06-19",
+  "entry_into_force": "1996-06-19",
+  "notification_date": "2004-01-06",
+  "commission_reference": "MNE(2003)59979",
+  "nim_celex": "71976L0464LTU_19979",
+  "nim_id": "19979",
+  "transposes_celex": [
+    "31976L0464",
+    "31979L0409",
+    "31982L0884",
+    "31985L0203",
+    "31990L0313",
+    "31999L0030",
+    "32000L0069",
+    "32001L0042",
+    "32003L0004",
+    "32006L0021",
+    "32007L0002"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/083f3c9f-60c5-4a7b-9e6e-65b4dc55316f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
