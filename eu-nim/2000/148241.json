@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos civilinės saugos įstatymo 29 straipsnio pakeitimo įstatymas Nr. VIII-1794",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "61",
+  "official_journal_page": null,
+  "official_journal_date": "2000-07-26",
+  "entry_into_force": "2000-07-26",
+  "notification_date": "2007-08-28",
+  "commission_reference": "MNE(2007)56289",
+  "nim_celex": "71996L0082LTU_148241",
+  "nim_id": "148241",
+  "transposes_celex": [
+    "31996L0082"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c528a4a7-f76c-4d2d-a475-6578e591b0bc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
