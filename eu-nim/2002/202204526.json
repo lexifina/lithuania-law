@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2002 m. lapkričio 7 d. nutarimas Nr. 1747 „Dėl Valstybinės kainų ir energetikos kontrolės komisijos nuostatų patvirtinimo“ (suvestinė redakcija nuo 2019-07-01)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "109-4819",
+  "official_journal_page": null,
+  "official_journal_date": "2002-11-13",
+  "entry_into_force": "2002-11-14",
+  "notification_date": "2022-07-18",
+  "commission_reference": "MNE(2022)04526",
+  "nim_celex": "72019L0944LTU_202204526",
+  "nim_id": "202204526",
+  "transposes_celex": [
+    "32019L0944"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2ac0bfaa-0c39-46f9-a7a6-98e8f940030b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
