@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos švietimo ir mokslo ministro 2003 m. birželio 4 d. įsakymas Nr. ISAK-789 „Dėl užsieniečių, atvykusių dirbti arba gyventi į Lietuvos Respubliką, vaikų ugdymo bendrojo lavinimo mokyklose įgyvendinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "57",
+  "official_journal_page": null,
+  "official_journal_date": "2003-06-13",
+  "entry_into_force": "2003-06-14",
+  "notification_date": "2015-12-01",
+  "commission_reference": "MNE(2015)58728",
+  "nim_celex": "72013L0033LTU_232147",
+  "nim_id": "232147",
+  "transposes_celex": [
+    "32013L0033"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3cfc89e9-17e6-442c-af48-67877d6ba969",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
