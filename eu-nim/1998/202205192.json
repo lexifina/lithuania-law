@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas Nr. VIII-723 (suvestinė redakcija nuo 2022-08-01)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "49-1325",
+  "official_journal_page": null,
+  "official_journal_date": "1998-05-27",
+  "entry_into_force": "1998-05-27",
+  "notification_date": "2022-08-05",
+  "commission_reference": "MNE(2022)05192",
+  "nim_celex": "72019L1152LTU_202205192",
+  "nim_id": "202205192",
+  "transposes_celex": [
+    "32019L1152"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/202f4ec3-1a15-11ed-8fa0-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
