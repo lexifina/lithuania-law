@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos apsaugos įstatymas Nr. I-2223",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Informaciniai pranešimai",
+  "official_journal_reference": "Lietuvos aidas, Nr. 20",
+  "official_journal_page": null,
+  "official_journal_date": "1992-01-30",
+  "entry_into_force": "1992-01-30",
+  "notification_date": "2018-01-02",
+  "commission_reference": "MNE(2017)57237",
+  "nim_celex": "72015L2193LTU_254080",
+  "nim_id": "254080",
+  "transposes_celex": [
+    "32015L2193"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f35eab03-ad55-40b9-b95c-c335ae7be7f1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
