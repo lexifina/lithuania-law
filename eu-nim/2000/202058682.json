@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2000 m. gegužės 31 d. įsakymas Nr. 301 „Dėl profilaktinių sveikatos tikrinimų sveikatos priežiūros įstaigose“ (suvestinė redakcija nuo 2020-10-07)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "47-1365",
+  "official_journal_page": null,
+  "official_journal_date": "2000-06-09",
+  "entry_into_force": "2000-06-10",
+  "notification_date": "2020-12-17",
+  "commission_reference": "MNE(2020)58682",
+  "nim_celex": "72000L0054LTU_202058682",
+  "nim_id": "202058682",
+  "transposes_celex": [
+    "32000L0054"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0606a41e-daed-4389-bfd5-015e0f16208b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
