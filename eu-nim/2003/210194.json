@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2003 m. sausio 23 d. įsakymas Nr. V-35 \"Dėl Valstybinės ligonių kasos prie Sveikatos apsaugos ministerijos nuostatų patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "13",
+  "official_journal_page": null,
+  "official_journal_date": "2003-02-05",
+  "entry_into_force": "2003-02-06",
+  "notification_date": "2013-10-30",
+  "commission_reference": "MNE(2013)58668",
+  "nim_celex": "72011L0024LTU_210194",
+  "nim_id": "210194",
+  "transposes_celex": [
+    "32011L0024"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6c31305b-1110-4f77-ac00-4b9754b0da3c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
