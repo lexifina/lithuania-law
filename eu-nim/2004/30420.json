@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2004 m. birželio 4 d. įsakymas Nr. V-414 \"Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2004 m. gegužės 14 d. įsakymo Nr. V-365 \"Dėl Cheminių medžiagų ir preparatų fizikinių cheminių savybių tyrimo metodų patvirtinimo\" pakeitimo",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "126",
+  "official_journal_page": null,
+  "official_journal_date": "2004-08-12",
+  "entry_into_force": "2004-08-13",
+  "notification_date": "2004-08-12",
+  "commission_reference": "MNE(2004)50420",
+  "nim_celex": "71967L0548LTU_30420",
+  "nim_id": "30420",
+  "transposes_celex": [
+    "31967L0548",
+    "31992L0069",
+    "31998L0073"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a75fc5f6-e242-4640-84df-59f942423d3d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
