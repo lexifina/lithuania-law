@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRO 2004 m. BALANDŽIO 9 D. ĮSAKYMAS NR. V-216 \"DĖL BENDRŲJŲ GREITOSIOS MEDICINOS PAGALBOS PASLAUGŲ TEIKIMO REIKALAVIMŲ PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "57",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-20",
+  "entry_into_force": "2004-07-01",
+  "notification_date": "2007-03-05",
+  "commission_reference": "MNE(2007)52073",
+  "nim_celex": "72004L0081LTU_142459",
+  "nim_id": "142459",
+  "transposes_celex": [
+    "32004L0081"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/038cc79f-7fd6-4a5a-85ff-d2ef9bd86fd7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
