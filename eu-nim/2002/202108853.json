@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos finansų ministro 2002 m. birželio 5 d. įsakymas Nr. 154 „Dėl Lietuvos Respublikos akcizų įstatymo įgyvendinimo“ (suvestinė redakcija nuo 2020-11-01)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "58-2371",
+  "official_journal_page": null,
+  "official_journal_date": "2002-06-14",
+  "entry_into_force": "2002-07-01",
+  "notification_date": "2022-03-21",
+  "commission_reference": "MNE(2021)08853",
+  "nim_celex": "72020L0262LTU_202108853",
+  "nim_id": "202108853",
+  "transposes_celex": [
+    "32020L0262"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/270f5e04-ac12-11ec-83e1-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
