@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos buhalterinės apskaitos įstatymas Nr. IX-574 (Suvestinė redakcija nuo 2017-07-13)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "99",
+  "official_journal_page": null,
+  "official_journal_date": "2001-11-28",
+  "entry_into_force": "2002-01-01",
+  "notification_date": "2017-09-06",
+  "commission_reference": "MNE(2017)53856",
+  "nim_celex": "72015L0849LTU_249116",
+  "nim_id": "249116",
+  "transposes_celex": [
+    "32015L0849"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/154f448a-8d3f-450a-a391-a8a1e8edf5b2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
