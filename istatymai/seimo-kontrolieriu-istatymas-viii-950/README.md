@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 1998-12-16 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/6693802433da435299d2396ccad17db06d9b7ade/istatymai/TAR.EC01522BCE65.md) |
+| 2001-01-01 | 2001-05-08 | Įstatymas Nr. IX-123 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/1de58201310650760294006c7be21ab5cb578804/istatymai/TAR.EC01522BCE65.md) |
