@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2004 m. birželio 22 d. nutarimas Nr. 785 ,,Dėl Lietuvos Respublikos Vyriausybės 1997 m. birželio 12 d. nutarimo Nr. 594 ,,Dėl kompensacijų iš Lietuvos valstybės biudžeto mokėjimo kraujo ar kraujo sudedamųjų dalių donorams tvarkos patvirtinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "100",
+  "official_journal_page": null,
+  "official_journal_date": "2004-06-29",
+  "entry_into_force": "2004-06-30",
+  "notification_date": "2005-03-14",
+  "commission_reference": "MNE(2005)55642",
+  "nim_celex": "72002L0098LTU_35642",
+  "nim_id": "35642",
+  "transposes_celex": [
+    "32002L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/417f5f97-3e04-4c5c-9372-83a1c503956b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
