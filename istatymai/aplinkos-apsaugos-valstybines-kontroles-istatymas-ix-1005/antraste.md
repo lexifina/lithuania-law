@@ -1,0 +1,10 @@
+Įstatymas skelbtas: Žin., 2002, Nr. 72-3017
+Neoficialus įstatymo tekstas
+LIETUVOS RESPUBLIKOS
+APLINKOS APSAUGOS
+VALSTYBINĖS KONTROLĖS
+ĮSTATYMAS
+2002 m. liepos 1 d. Nr. IX-1005
+Vilnius
+I SKYRIUS
+BENDROSIOS NUOSTATOS
