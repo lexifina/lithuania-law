@@ -1,0 +1,8 @@
+Įstatymas skelbtas: Žin., 2002, Nr. 124-5619
+Neoficialus įstatymo tekstas
+LIETUVOS RESPUBLIKOS
+2003 METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ
+FINANSINIŲ RODIKLIŲ PATVIRTINIMO
+ĮSTATYMAS
+2002 m. gruodžio 10 d. Nr. IX-1227
+Vilnius
