@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo kodekso 20, 42, 63, 67, 68, 72, 75, 77, 82, 90, 91, 92, 95, 97, 128, 144, 148, 150, 178, 182, 194, 195, 201, 204, 205, 210, 211, 212, 220, 221, 222, 223, 230, 236, 246, 248, 260, 263, 287, 306 straipsnių pakeitimo ir papildymo bei kodekso papildymo 228-1 straipsniu įstatymas Nr. IX-2314",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "108",
+  "official_journal_page": null,
+  "official_journal_date": "2004-07-13",
+  "entry_into_force": "2004-07-13",
+  "notification_date": "2015-09-01",
+  "commission_reference": "MNE(2015)55894",
+  "nim_celex": "72013L0040LTU_229092",
+  "nim_id": "229092",
+  "transposes_celex": [
+    "32013L0040"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/90d14bd7-766d-46ae-aafa-f1dbc96ac1d5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
