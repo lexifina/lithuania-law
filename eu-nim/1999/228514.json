@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių teisės pažeidimų kodekso papildymo 172(18), 189(11) straipsniais ir 224, 247(4), 259(1) straipsnių pakeitimo bei papildymo įstatymas Nr. VIII-1081",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "23",
+  "official_journal_page": null,
+  "official_journal_date": "1999-03-10",
+  "entry_into_force": "1999-03-10",
+  "notification_date": "2015-07-28",
+  "commission_reference": "MNE(2015)55385",
+  "nim_celex": "72012L0034LTU_228514",
+  "nim_id": "228514",
+  "transposes_celex": [
+    "32012L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c35949b6-2ff0-4dbf-853f-1f4c05a81f50",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
