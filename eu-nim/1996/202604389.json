@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos biudžetinių įstaigų įstatymas Nr. I-1113 (suvestinė redakcija nuo 2024-01-01 iki 2024-07-05)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "104-2322",
+  "official_journal_page": null,
+  "official_journal_date": "1995-12-22",
+  "entry_into_force": "1996-01-01",
+  "notification_date": "2026-08-10",
+  "commission_reference": "MNE(2026)04389",
+  "nim_celex": "72024L1499LTU_202604389",
+  "nim_id": "202604389",
+  "transposes_celex": [
+    "32024L1499",
+    "32024L1500"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9ca878c7-75f2-4a9d-8f6c-b718d8a89e02",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
