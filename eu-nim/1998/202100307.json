@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos atitikties įvertinimo įstatymas NR. XI-1299 (Suvestinė redakcija nuo 2011-04-05 iki 2021-04-30)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "92-2542",
+  "official_journal_page": null,
+  "official_journal_date": "1998-10-21",
+  "entry_into_force": "1998-10-21",
+  "notification_date": "2021-02-01",
+  "commission_reference": "MNE(2021)00307",
+  "nim_celex": "72016L0797LTU_202100307",
+  "nim_id": "202100307",
+  "transposes_celex": [
+    "32016L0797"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5532a38a-3b82-48bb-a17e-b2beea7494a0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
