@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2005 m. kovo 10 d. nutarimas Nr. 37 „Dėl visuomenei skelbiamos informacijos reikalavimų patvirtinimo, kai kurių Lietuvos banko valdybos nutarimų, reglamentuojančių ataskaitų pateikimo periodiškumą, pakeitimo ir kai kurių Lietuvos banko valdybos nutarimų pripažinimo netekusiais galios“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "37",
+  "official_journal_page": null,
+  "official_journal_date": "2005-03-22",
+  "entry_into_force": "2005-03-23",
+  "notification_date": "2005-10-07",
+  "commission_reference": "MNE(2005)54815",
+  "nim_celex": "72000L0012LTU_124815",
+  "nim_id": "124815",
+  "transposes_celex": [
+    "32000L0012"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1c5fa2c6-afa5-48f5-ae0c-ac119a16eae9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
