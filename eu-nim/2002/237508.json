@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos valstybės tarnybos įstatymo pakeitimo įstatymas Nr. IX-855",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "45",
+  "official_journal_page": null,
+  "official_journal_date": "2002-05-04",
+  "entry_into_force": "2002-07-01",
+  "notification_date": "2016-05-17",
+  "commission_reference": "MNE(2016)53176",
+  "nim_celex": "72013L0053LTU_237508",
+  "nim_id": "237508",
+  "transposes_celex": [
+    "32013L0053"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c919f639-1ec6-4666-9931-082e2113ea4d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
