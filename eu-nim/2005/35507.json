@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2005 m. vasario 21 d. nutarimas Nr. 198",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "26",
+  "official_journal_page": null,
+  "official_journal_date": "2005-02-24",
+  "entry_into_force": "2005-02-25",
+  "notification_date": "2005-02-24",
+  "commission_reference": "MNE(2005)55507",
+  "nim_celex": "71976L0464LTU_35507",
+  "nim_id": "35507",
+  "transposes_celex": [
+    "31976L0464",
+    "32003L0004",
+    "32006L0021"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d698823e-d65b-4b57-9031-cf636ea7d74b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
