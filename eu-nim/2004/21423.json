@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro įsakymas Nr. 3-55 „Dėl laivų eismo stebėsenos ir informacijos sistemos įdiegimo taisyklių patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "28",
+  "official_journal_page": null,
+  "official_journal_date": "2004-02-21",
+  "entry_into_force": "2004-02-22",
+  "notification_date": "2004-03-16",
+  "commission_reference": "MNE(2003)51423",
+  "nim_celex": "72002L0059LTU_21423",
+  "nim_id": "21423",
+  "transposes_celex": [
+    "32002L0059",
+    "32005L0035"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c0bd9aca-607b-447c-9bba-d91df9acc3bb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
