@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2004 m. balandžio 16 d. nutarimas Nr. 442 „Dėl Pridėtinės vertės mokesčio ir akcizų taikymo prekėms ir paslaugoms, skirtoms diplomatinėms atstovybėms, konsulinėms įstaigoms, tarptautinėms organizacijoms, Šiaurės Atlanto Sutarties Organizacijos šalių kariuomenių vienetams ir Europos Sąjungos institucijoms, įstaigoms ir Europos investicijų bankui“ (suvestinė redakcija nuo 2020-07-23)",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "58-2052",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-21",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2022-03-21",
+  "commission_reference": "MNE(2021)08849",
+  "nim_celex": "72020L0262LTU_202108849",
+  "nim_id": "202108849",
+  "transposes_celex": [
+    "32020L0262"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b6e8c6d0-ac12-11ec-83e1-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
