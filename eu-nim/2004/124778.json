@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2004m. rugsėjo 2 d. nutarimas Nr. 146 „Dėl Lietuvos banko valdybos 2001 m. rugpjūčio 23 d. nutarimo Nr. 131 \"Dėl Centrinės kredito unijos finansinių ataskaitų ir veiklos riziką ribojančių normatyvų skaičiavimo taisyklių“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "139",
+  "official_journal_page": null,
+  "official_journal_date": "2004-09-16",
+  "entry_into_force": "2004-12-01",
+  "notification_date": "2005-10-06",
+  "commission_reference": "MNE(2005)54778",
+  "nim_celex": "71993L0006LTU_124778",
+  "nim_id": "124778",
+  "transposes_celex": [
+    "31993L0006"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/dcca7b8f-8fd2-4da8-87f3-bcd7a6b5bfb3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
