@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos bendrojo pagalbos centro įstatymas Nr. IX-2246",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "90",
+  "official_journal_page": null,
+  "official_journal_date": "2004-06-08",
+  "entry_into_force": "2004-09-01",
+  "notification_date": "2004-06-18",
+  "commission_reference": "MNE(2004)59042",
+  "nim_celex": "72002L0022LTU_29042",
+  "nim_id": "29042",
+  "transposes_celex": [
+    "32002L0022",
+    "32009L0136"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0f90f154-d042-401c-b3c6-b8dcf8b98458",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
