@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2003 m. liepos 4 d. įsakymas Nr. 334 \"Dėl aplinkos ministro 1999 m. gruodžio 20 d. įsakymo Nr. 408 „Dėl teršalų išmetimo į aplinką apskaitos tvarkos patvirtinimo” pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "79",
+  "official_journal_page": null,
+  "official_journal_date": "2003-08-13",
+  "entry_into_force": "2004-01-01",
+  "notification_date": "2004-01-08",
+  "commission_reference": "MNE(2003)50114",
+  "nim_celex": "71976L0464LTU_20114",
+  "nim_id": "20114",
+  "transposes_celex": [
+    "31976L0464",
+    "31991L0271"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b75b89ad-1853-49b0-9b9e-a8ddc1319374",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
