@@ -1,0 +1,29 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "VALSTYBINĖS MAISTO IR VETERINARIJOS TARNYBOS DIREKTORIAUS 2004 M. LIEPOS 21 D. ĮSAKYMAS NR. B1-662 \"DĖL MĖSOS PRODUKTŲ IR KITŲ GYVŪNINIŲ PRODUKTŲ RUOŠIMO IR TIEKIMO Į RINKĄ TAISYKLIŲ PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "122",
+  "official_journal_page": null,
+  "official_journal_date": "2004-08-05",
+  "entry_into_force": "2004-08-06",
+  "notification_date": "2004-11-19",
+  "commission_reference": "MNE(2004)52952",
+  "nim_celex": "71977L0099LTU_32952",
+  "nim_id": "32952",
+  "transposes_celex": [
+    "31977L0099",
+    "31983L0201",
+    "31983L0577",
+    "31989L0227",
+    "31991L0495",
+    "31992L0005",
+    "31995L0068",
+    "31997L0076"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c2de4ff0-b021-4fa9-96f7-acbc93202fa1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
