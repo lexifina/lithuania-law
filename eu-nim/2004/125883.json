@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2004 m. balandžio 22 d. įsakymas Nr. V-258 \"Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2002 m. gegužės 27 d. įsakymo Nr. 239 \"Dėl Lietuvos higienos normos HN 36:2002 \"Draudžiamos ir ribojamos medžiagos\" patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "74",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-30",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2005-11-21",
+  "commission_reference": "MNE(2005)60021",
+  "nim_celex": "72000L0053LTU_125883",
+  "nim_id": "125883",
+  "transposes_celex": [
+    "32000L0053"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/80fe24b0-0ddb-4cf9-951f-e738573a135b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
