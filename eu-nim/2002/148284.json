@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos kelių įstatymo pakeitimo įstatymas Nr. IX-1113",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "101",
+  "official_journal_page": null,
+  "official_journal_date": "2002-10-23",
+  "entry_into_force": "2002-10-23",
+  "notification_date": "2007-08-28",
+  "commission_reference": "MNE(2007)56331",
+  "nim_celex": "71996L0082LTU_148284",
+  "nim_id": "148284",
+  "transposes_celex": [
+    "31996L0082"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0b003f3d-d001-4a8a-b4b0-346aff143dba",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
