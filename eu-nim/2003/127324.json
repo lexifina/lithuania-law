@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos gyventojų apsirūpinimo gyvenamosiomis patalpomis įstatymo pakeitimo ĮSTATYMAS Nr. IX-1188",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "116",
+  "official_journal_page": null,
+  "official_journal_date": "2002-12-06",
+  "entry_into_force": "2003-01-01",
+  "notification_date": "2006-01-25",
+  "commission_reference": "MNE(2006)50240",
+  "nim_celex": "72003L0109LTU_127324",
+  "nim_id": "127324",
+  "transposes_celex": [
+    "32003L0109"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f33d37bf-d608-4a09-89c6-061163723dc7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
