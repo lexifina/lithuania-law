@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respulikos valstybinės maisto ir veterinarijos tarnybos 2004 m. rugpjūčio 30 d. įsakymas Nr. B1-755",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "139",
+  "official_journal_page": null,
+  "official_journal_date": "2004-09-16",
+  "entry_into_force": "2004-09-17",
+  "notification_date": "2004-09-17",
+  "commission_reference": "MNE(2004)50990",
+  "nim_celex": "71990L0423LTU_30990",
+  "nim_id": "30990",
+  "transposes_celex": [
+    "31990L0423",
+    "32003L0085"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/94cd3f7a-4b3f-49d4-a148-d6280d58278e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
