@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos ministro įsakymas Nr. V-383 \"Dėl sveikatos apsaugos ministro 2001 m. gruodžio 22 d. įsakymo Nr. 669 \"Dėl bendrųjų vaistinių preparatų registravimo taisyklių patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "87",
+  "official_journal_page": null,
+  "official_journal_date": "2004-06-01",
+  "entry_into_force": "2004-06-02",
+  "notification_date": "2004-06-07",
+  "commission_reference": "MNE(2004)58693",
+  "nim_celex": "72003L0063LTU_28693",
+  "nim_id": "28693",
+  "transposes_celex": [
+    "32003L0063"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/327697cb-f02d-48f9-b6e3-1790ccc34b67",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
