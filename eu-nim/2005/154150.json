@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro 2004 m. lapkričio 26 d. įsakymas Nr.  4-432 \"Dėl Elektros įrenginių eksploatavimo saugos taisyklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "175",
+  "official_journal_page": null,
+  "official_journal_date": "2004-12-07",
+  "entry_into_force": "2005-01-01",
+  "notification_date": "2008-02-26",
+  "commission_reference": "MNE(2008)51489",
+  "nim_celex": "72005L0089LTU_154150",
+  "nim_id": "154150",
+  "transposes_celex": [
+    "32005L0089"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0091bdec-1651-4f09-8b60-1a4f11114519",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
