@@ -1,0 +1,25 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybė 2005 m. vasario 7 d. nutarimas Nr. 130 'Dėl Valstybinės aplinkos monitoringo 2005–2010 metų programos patvirtinimo'",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "19",
+  "official_journal_page": null,
+  "official_journal_date": "2005-02-10",
+  "entry_into_force": "2005-02-11",
+  "notification_date": "2005-10-04",
+  "commission_reference": "MNE(2005)54238",
+  "nim_celex": "71979L0409LTU_124238",
+  "nim_id": "124238",
+  "transposes_celex": [
+    "31979L0409",
+    "31996L0062",
+    "32002L0003",
+    "32008L0050"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d8b22986-0b57-4e9b-b64e-a47b61395c56",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
