@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 1995-03-08 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/55454dd335f8121b77ceae6f7610a3952a63d71b/istatymai/TAR.0EC89509170B.md) |
+| 1995-12-29 | 2000-07-11 | Įstatymas Nr. I-1138 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/064048a935f5f21a04b0eb1d2d416129839a374d/istatymai/TAR.0EC89509170B.md) |
