@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS VANDENS ĮSTATYMO PAKEITIMO ĮSTATYMAS NR. IX-1388",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "36",
+  "official_journal_page": null,
+  "official_journal_date": "2003-04-16",
+  "entry_into_force": "2003-04-16",
+  "notification_date": "2009-03-12",
+  "commission_reference": "MNE(2009)50882",
+  "nim_celex": "72006L0118LTU_160735",
+  "nim_id": "160735",
+  "transposes_celex": [
+    "32006L0118"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/28a135e4-1b80-4ef8-a847-e510da21d1df",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
