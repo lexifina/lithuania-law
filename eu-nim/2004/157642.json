@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos biokuro įstatymo pakeitimo įstatymas Nr. IX-1999",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "28",
+  "official_journal_page": null,
+  "official_journal_date": "2004-02-21",
+  "entry_into_force": "2004-02-21",
+  "notification_date": "2008-08-27",
+  "commission_reference": "MNE(2008)54694",
+  "nim_celex": "72006L0032LTU_157642",
+  "nim_id": "157642",
+  "transposes_celex": [
+    "32006L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0d1838ab-63c2-4908-a169-9dc255c41cd2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
