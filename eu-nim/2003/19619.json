@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2003 m. balandžio 8 d. nutarimas Nr. 442 „Dėl Prekių, kurias perkant krašto apsaugos sistemos perkančiosioms organizacijoms taikoma tarptautinio pirkimo vertės riba, sąrašo patvirtinimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "35",
+  "official_journal_page": null,
+  "official_journal_date": "2003-04-11",
+  "entry_into_force": "2003-04-12",
+  "notification_date": "2003-10-28",
+  "commission_reference": "MNE(2003)59619",
+  "nim_celex": "71993L0036LTU_19619",
+  "nim_id": "19619",
+  "transposes_celex": [
+    "31993L0036",
+    "31997L0052",
+    "32004L0018"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0a305f43-e995-4510-b895-2624eac4156d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
