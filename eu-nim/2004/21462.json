@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS APSAUGOS ĮSTATYMO 1 IR 2 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 27 STRAIPSNIU IR PRIEDU ĮSTATYMAS Nr. IX-2032",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "36",
+  "official_journal_page": null,
+  "official_journal_date": "2004-03-07",
+  "entry_into_force": "2004-07-21",
+  "notification_date": "2004-03-22",
+  "commission_reference": "MNE(2003)51462",
+  "nim_celex": "71979L0409LTU_21462",
+  "nim_id": "21462",
+  "transposes_celex": [
+    "31979L0409",
+    "31992L0043",
+    "32001L0042"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4afa27fc-9959-4ebe-8961-efa321800203",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
