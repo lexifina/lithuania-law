@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO IR LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRO 2003 M. RUGPJŪČIO 4 D. ĮSAKYMAS Nr. 411/V-460 \"DĖL LIETUVOS RESPUBLIKOS APLINKOS MINISTRO IR LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRO 2000 M. GRUODŽIO 19 D. ĮSAKYMO NR. 532/742 „DĖL PAVOJINGŲ CHEMINIŲ MEDŽIAGŲ IR PREPARATŲ KLASIFIKAVIMO IR ŽENKLINIMO TVARKOS“ IR JĮ KEITUSIO ĮSAKYMO PAKEITIMO\".",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "81",
+  "official_journal_page": null,
+  "official_journal_date": "2003-08-22",
+  "entry_into_force": "2003-08-23",
+  "notification_date": "2004-11-17",
+  "commission_reference": "MNE(2004)52786",
+  "nim_celex": "71994L0069LTU_32786",
+  "nim_id": "32786",
+  "transposes_celex": [
+    "31994L0069"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c22f9fa2-f584-4315-a4aa-53a56346e7e0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
