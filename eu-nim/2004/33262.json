@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2003 m. gruodžio 24 d. įsakymas Nr. 3-721 „Dėl leidimų, suteikiančių teisę atlikti kelių transporto priemonių valstybinę techninę apžiūrą, išdavimo taisyklių patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "11",
+  "official_journal_page": null,
+  "official_journal_date": "2004-01-21",
+  "entry_into_force": "2004-07-01",
+  "notification_date": "2004-11-25",
+  "commission_reference": "MNE(2004)53262",
+  "nim_celex": "71996L0096LTU_33262",
+  "nim_id": "33262",
+  "transposes_celex": [
+    "31996L0096"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/440b5bf7-b343-42c1-8c94-852f444f6ca2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
