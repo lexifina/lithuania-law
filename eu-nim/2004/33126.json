@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vertybinių popierių komisijos 2004 m. lapkričio 5 d. nutarimas Nr. 19 „Dėl  Manipuliavimo rinka požymių sąrašo ir Pranešimų apie galimą pasinaudojimą viešai neatskleista informacija ar manipuliavimą rinka pateikimo Vertybinių popierių komisijai tvarkos\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "165",
+  "official_journal_page": null,
+  "official_journal_date": "2004-11-13",
+  "entry_into_force": "2004-11-14",
+  "notification_date": "2005-01-07",
+  "commission_reference": "MNE(2004)53126",
+  "nim_celex": "72003L0124LTU_33126",
+  "nim_id": "33126",
+  "transposes_celex": [
+    "32003L0124"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/55bf4c28-0bff-44f1-901f-ba579953be5c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
