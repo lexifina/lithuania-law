@@ -1,0 +1,25 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Administracinių teisės pažeidimų kodekso pakeitimo ir papildymo įstatymas Nr. IX-1049",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "75",
+  "official_journal_page": null,
+  "official_journal_date": "2002-07-26",
+  "entry_into_force": "2002-07-26",
+  "notification_date": "2005-03-10",
+  "commission_reference": "MNE(2005)55896",
+  "nim_celex": "72003L0055LTU_35896",
+  "nim_id": "35896",
+  "transposes_celex": [
+    "32003L0055",
+    "32009L0125",
+    "32009L0126",
+    "32010L0035"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/895f8245-58ef-4608-af85-39fae5bfa5ca",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
