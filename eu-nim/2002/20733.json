@@ -1,0 +1,28 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos transporto veiklos pagrindų įstatymo pakeitimo įstatymas Nr. IX-747",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "29",
+  "official_journal_page": null,
+  "official_journal_date": "2002-03-20",
+  "entry_into_force": "2002-03-20",
+  "notification_date": "2004-01-30",
+  "commission_reference": "MNE(2003)50733",
+  "nim_celex": "71992L0106LTU_20733",
+  "nim_id": "20733",
+  "transposes_celex": [
+    "31992L0106",
+    "31996L0026",
+    "31998L0076",
+    "32001L0014",
+    "32004L0082",
+    "32010L0040",
+    "32015L0719"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/07b8c481-3f72-48fb-93b0-11a904e2061c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
