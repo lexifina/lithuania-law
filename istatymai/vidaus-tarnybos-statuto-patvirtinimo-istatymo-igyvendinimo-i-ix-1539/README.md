@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2003-05-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/0ee84a6ebfe8b3f1497619d284c74ceac0d384a8/istatymai/TAR.2A8A2BA51B01.md) |
+| 2003-12-17 | 2006-10-31 | Įstatymas Nr. IX-1859 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/b609a56551d00982101c4a710afedf3582a82822/istatymai/TAR.2A8A2BA51B01.md) |
