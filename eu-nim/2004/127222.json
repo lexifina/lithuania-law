@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2004 m. vasario 23 d. nutarimas Nr. 205 ,,Dėl Lietuvos Respublikos Vyriausybės 1999 m. gegužės 25 d. nutarimo Nr. 653 „Dėl veiklos su jonizuojančiosios spinduliuotės šaltiniais licencijavimo nuostatų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "30",
+  "official_journal_page": null,
+  "official_journal_date": "2004-02-26",
+  "entry_into_force": "2004-02-27",
+  "notification_date": null,
+  "commission_reference": "MNE(2006)50158",
+  "nim_celex": "72003L0122LTU_127222",
+  "nim_id": "127222",
+  "transposes_celex": [
+    "32003L0122"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/545261c9-f4c7-413b-a113-1610390bc95f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
