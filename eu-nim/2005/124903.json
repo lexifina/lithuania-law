@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Indėlių ir įsipareigojimų investuotojams draudimo įstatymo 1, 2, 3, 4, 5, 6, 12, 16, 17, 18, 19, 20, 21, 23, 24, 26, 26(1), 27, 28, 30 straipsnių pakeitimo ir įstatymo papildymo 25(1) straipsniu bei priedu ĮSTATYMAS Nr. X-84",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "18",
+  "official_journal_page": null,
+  "official_journal_date": "2005-02-08",
+  "entry_into_force": "2005-02-08",
+  "notification_date": "2005-10-07",
+  "commission_reference": "MNE(2005)54903",
+  "nim_celex": "71994L0019LTU_124903",
+  "nim_id": "124903",
+  "transposes_celex": [
+    "31994L0019"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3813c7a6-f611-43a8-85a5-5709c051be7a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
