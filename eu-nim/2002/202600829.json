@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos nacionalinės teismų administracijos įstatymas Nr. IX-787 (suvestinė redakcija nuo 2024-01-01)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "31-1130",
+  "official_journal_page": null,
+  "official_journal_date": "2002-03-27",
+  "entry_into_force": "2002-03-27",
+  "notification_date": "2026-01-29",
+  "commission_reference": "MNE(2026)00829",
+  "nim_celex": "72024L1069LTU_202600829",
+  "nim_id": "202600829",
+  "transposes_celex": [
+    "32024L1069"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6b6f1285-d5c7-46e9-b35e-09199cb59b60",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
