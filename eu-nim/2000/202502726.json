@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas Nr. VIII-1968 (suvestinė redakcija nuo 2024-03-27 iki 2024-06-13)",
+  "type_of_act": "Kodeksas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "89-2741",
+  "official_journal_page": null,
+  "official_journal_date": "2000-10-25",
+  "entry_into_force": "2000-10-25",
+  "notification_date": "2025-05-19",
+  "commission_reference": "MNE(2025)02726",
+  "nim_celex": "72024L1226LTU_202502726",
+  "nim_id": "202502726",
+  "transposes_celex": [
+    "32024L1226"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ac38c025-5493-42ee-8798-45be1b5bbdc8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
