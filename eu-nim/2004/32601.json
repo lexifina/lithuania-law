@@ -1,0 +1,28 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Viešųjų pirkimų tarnybos prie Lietuvos Respublikos Vyriausybės direktoriaus 2004 m. balandžio 23 d. įsakymas Nr. 1S-23  „Dėl Viešųjų pirkimų tarnybos prie Lietuvos Respublikos Vyriausybės direktoriaus 2003 m. vasario 26 d. įsakymo Nr. 1S-24 „Dėl viešųjų pirkimų ataskaitų rengimo ir teikimo tvarkos ir viešųjų pirkimų ataskaitų formų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "81",
+  "official_journal_page": null,
+  "official_journal_date": "2004-05-18",
+  "entry_into_force": "2004-07-01",
+  "notification_date": "2004-11-13",
+  "commission_reference": "MNE(2004)52601",
+  "nim_celex": "71992L0050LTU_32601",
+  "nim_id": "32601",
+  "transposes_celex": [
+    "31992L0050",
+    "31993L0036",
+    "31993L0037",
+    "31993L0038",
+    "31997L0052",
+    "31998L0004",
+    "32001L0078"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1cf527e8-00fc-4fba-a592-3438ce4bebb4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
