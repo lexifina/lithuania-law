@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas Nr. IX-743 (suvestinė redakcija nuo 2021-01-01 iki 2021-12-31)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "36-1340",
+  "official_journal_page": null,
+  "official_journal_date": "2002-04-06",
+  "entry_into_force": "2002-04-06",
+  "notification_date": "2021-02-02",
+  "commission_reference": "MNE(2021)00907",
+  "nim_celex": "72019L0001LTU_202100907",
+  "nim_id": "202100907",
+  "transposes_celex": [
+    "32019L0001"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6864b178-c9d8-4849-956f-0c924025de19",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
