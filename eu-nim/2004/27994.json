@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2004 m. sausio 22 d. nutarimas Nr. 65 “Dėl Lietuvos Respublikos Vyriausybės 2002 m. birželio 13 d. nutarimo Nr. 902 „Dėl etilo alkoholio pripažinimo denatūruotu etilo alkoholiu, kuriam netaikomas akcizas, tvarkos patvirtinimo“ pakeitimo",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "14",
+  "official_journal_page": null,
+  "official_journal_date": "2004-01-21",
+  "entry_into_force": "2004-02-01",
+  "notification_date": "2004-05-25",
+  "commission_reference": "MNE(2004)57994",
+  "nim_celex": "71992L0012LTU_27994",
+  "nim_id": "27994",
+  "transposes_celex": [
+    "31992L0012",
+    "31992L0108",
+    "31994L0074"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/57a91a18-b4a9-4534-88a2-344a401d3b7a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
