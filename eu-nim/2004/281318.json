@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2004 m. balandžio 15 d. įsakymas Nr. V-232 \"Lietuvos Respublikos sveikatos apsaugos ministerijos darbo reglamento patvirtinimo“ (Suvestinė redakcija nuo 2020-01-15)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "61-2195",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-27",
+  "entry_into_force": "2004-04-28",
+  "notification_date": "2020-03-05",
+  "commission_reference": "MNE(2020)51228",
+  "nim_celex": "72017L0159LTU_281318",
+  "nim_id": "281318",
+  "transposes_celex": [
+    "32017L0159"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/184c974b-5f7b-11ea-b735-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
