@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS DARBO KODEKSO PATVIRTINIMO, ĮSIGALIOJIMO IR ĮGYVENDINIMO ĮSTATYMAS  IX-926",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "64",
+  "official_journal_page": null,
+  "official_journal_date": "2002-06-26",
+  "entry_into_force": "2003-01-01",
+  "notification_date": "2005-03-07",
+  "commission_reference": "MNE(2005)55848",
+  "nim_celex": "72002L0015LTU_35848",
+  "nim_id": "35848",
+  "transposes_celex": [
+    "32002L0015"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/72f14739-0947-4858-b828-a0c8ca258884",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
