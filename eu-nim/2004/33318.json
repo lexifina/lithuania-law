@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2004 m. lapkričio 3 d. įsakymas Nr. 3D-595 \"Dėl kombinuotųjų pašarų tiekimo įapyvartą taisyklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "163",
+  "official_journal_page": null,
+  "official_journal_date": "2004-11-09",
+  "entry_into_force": "2004-11-15",
+  "notification_date": "2004-11-26",
+  "commission_reference": "MNE(2004)53318",
+  "nim_celex": "71980L0511LTU_33318",
+  "nim_id": "33318",
+  "transposes_celex": [
+    "31980L0511"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8a534fe7-fd5c-4d1d-9cab-157af1aaf8db",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
