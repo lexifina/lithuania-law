@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Aplinkos ministro 2003 m. rugpjūčio 4 d. įsakymas Nr. 413 \"Dėl genetiškai modifikuotų mikroorganizmų riboto naudojimo Lietuvos Respublikoje tvarkos patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "80",
+  "official_journal_page": null,
+  "official_journal_date": "2003-08-16",
+  "entry_into_force": null,
+  "notification_date": "2004-01-14",
+  "commission_reference": "MNE(2003)50240",
+  "nim_celex": "71990L0219LTU_20240",
+  "nim_id": "20240",
+  "transposes_celex": [
+    "31990L0219",
+    "31998L0081",
+    "32009L0041"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/39b0862d-82a4-48be-ab10-67893d2c4aef",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
