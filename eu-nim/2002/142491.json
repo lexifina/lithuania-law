@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo 2, 4, 8, 9, 11, 12, 13, 14, 15, 17, 20, 21, 22, 23, 24, 25, 26, 27, 31, 33, 34, 36, 38 straipsnių pakeitimo ir papildymo ĮSTATYMAS NR. IX-1226",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "123",
+  "official_journal_page": null,
+  "official_journal_date": "2002-12-24",
+  "entry_into_force": "2002-12-24",
+  "notification_date": "2007-03-07",
+  "commission_reference": "MNE(2007)52094",
+  "nim_celex": "72005L0065LTU_142491",
+  "nim_id": "142491",
+  "transposes_celex": [
+    "32005L0065"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/83a0cfd9-2fbf-47aa-a264-855dd8822a0f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
