@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2001 m. vasario 19 d. įsakymas Nr. 121 „Dėl Lietuvos higienos normos HN 89:2001 „Radioaktyviųjų atliekų tvarkymas“ patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "18-565",
+  "official_journal_page": null,
+  "official_journal_date": "2001-02-28",
+  "entry_into_force": "2001-03-01",
+  "notification_date": "2018-12-10",
+  "commission_reference": "MNE(2018)56508",
+  "nim_celex": "72013L0059LTU_265701",
+  "nim_id": "265701",
+  "transposes_celex": [
+    "32013L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0dad3f07-c4fc-47d7-bc0e-edae1909b921",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
