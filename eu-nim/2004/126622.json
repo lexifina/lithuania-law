@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Viešosios įstaigos Lietuvos Respublikos apskaitos instituto standartų tarybos 2004 m. vasario 25 d. nutarimas Nr. 3 \"Dėl pavyzdinio sąskaitų plano tikslinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "43",
+  "official_journal_page": null,
+  "official_journal_date": "2004-03-23",
+  "entry_into_force": "2004-03-24",
+  "notification_date": "2005-12-28",
+  "commission_reference": "MNE(2005)60564",
+  "nim_celex": "71986L0635LTU_126622",
+  "nim_id": "126622",
+  "transposes_celex": [
+    "31986L0635"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d4ea055f-63c3-428e-8cc6-b18b6e2d4e9c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
