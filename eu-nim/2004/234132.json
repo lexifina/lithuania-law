@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos civilinio kodekso 1.3, 2.55, 2.61, 2.72, 2.79, 2.112, 2.152, 2.160, 2.167, 4.176, 6.292, 6.298, 6.299, 6.747, 6.748, 6.751, 6.753 straipsnių pakeitimo ir papildymo įstatymas Nr. IX-2172",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "72",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-30",
+  "entry_into_force": "2004-04-30",
+  "notification_date": "2016-03-07",
+  "commission_reference": "MNE(2016)50766",
+  "nim_celex": "72007L0066LTU_234132",
+  "nim_id": "234132",
+  "transposes_celex": [
+    "32007L0066"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f2bb124f-4660-4a62-900e-e461e9332622",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
