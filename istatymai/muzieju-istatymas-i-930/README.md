@@ -10,3 +10,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | --- | --- | --- | --- |
 | 1995-06-28 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/0705254ce64db76ad393637707f535fea405d13f/istatymai/TAR.863886C4199F.md) |
 | 1997-07-09 | 1999-03-18 | Įstatymas Nr. VIII-319 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/d0f61edebbd61c9231c7146973cfba06f4c0c3d1/istatymai/TAR.863886C4199F.md) |
+| 1999-03-19 | 2003-06-19 | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/21f8833a7320514d9859dc832b4a388608492f92/istatymai/TAR.863886C4199F.md) |
