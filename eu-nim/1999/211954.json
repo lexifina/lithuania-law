@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Seimo statutas Nr. VIII-1000",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "5",
+  "official_journal_page": null,
+  "official_journal_date": "1999-01-13",
+  "entry_into_force": "1999-02-01",
+  "notification_date": "2013-12-23",
+  "commission_reference": "MNE(2013)60085",
+  "nim_celex": "72011L0085LTU_211954",
+  "nim_id": "211954",
+  "transposes_celex": [
+    "32011L0085"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7f29226b-980d-49a5-911c-9380cee7f0f2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
