@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 1998-01-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/da6666ba75da5480cf55533d4549d2225e87d212/istatymai/TAR.D841592F4E8A.md) |
+| 1999-12-22 | 2005-07-13 | Įstatymas Nr. VIII-1471 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/c0e4849bda96bd1e58fb946a18e4252a3726d534/istatymai/TAR.D841592F4E8A.md) |
