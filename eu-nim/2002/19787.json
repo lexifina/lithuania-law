@@ -1,0 +1,26 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "VALSTYBINĖS MAISTO IR VETERINARIJOS TARNYBOS DIREKTORIAUS ĮSAKYMAS NR. 524 \"DĖL VETERINARIJOS REIKALAVIMŲ VANDENS GYVŪNAMS IR JŲ PRODUKTAMS PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "114",
+  "official_journal_page": null,
+  "official_journal_date": "2002-11-29",
+  "entry_into_force": "2002-11-30",
+  "notification_date": "2003-11-12",
+  "commission_reference": "MNE(2003)59787",
+  "nim_celex": "71991L0067LTU_19787",
+  "nim_id": "19787",
+  "transposes_celex": [
+    "31991L0067",
+    "31993L0054",
+    "31995L0022",
+    "31997L0079",
+    "31998L0045"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5d14df00-2a9a-4db8-bd3c-65a4cbc844ed",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
