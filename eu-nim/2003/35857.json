@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2003 m. balandžio 29 d. nutarimas Nr. 539 „Dėl Lietuvos Respublikos Vyriausybės 1992 m. gegužės 12 d. nutarimo Nr. 343 „Dėl specialiųjų žemės ir miško naudojimo sąlygų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "42",
+  "official_journal_page": null,
+  "official_journal_date": "2003-05-01",
+  "entry_into_force": "2003-05-02",
+  "notification_date": "2005-03-08",
+  "commission_reference": "MNE(2005)55857",
+  "nim_celex": "72003L0055LTU_35857",
+  "nim_id": "35857",
+  "transposes_celex": [
+    "32003L0055"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/acf87864-a5d6-42fe-928b-c299ae369357",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
