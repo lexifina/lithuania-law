@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro 2001 m. spalio 10 d. įsakymas Nr. 305 \"Dėl prekybos naftos produktais, biokuru, bioalyva ir kitais degiaisiais skystais produktais Lietuvos Respublikoje taisyklių, patvirtintų Ūkio ministro 2001 m. balandžio 26 d. įsakymu Nr. 147, dalinio pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "88",
+  "official_journal_page": null,
+  "official_journal_date": "2001-10-17",
+  "entry_into_force": "2001-10-18",
+  "notification_date": "2008-08-27",
+  "commission_reference": "MNE(2008)54713",
+  "nim_celex": "72006L0032LTU_157661",
+  "nim_id": "157661",
+  "transposes_celex": [
+    "32006L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1f250a42-4257-4b05-bb27-5349c55a1b15",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
