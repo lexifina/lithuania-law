@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos švietimo įstatymas Nr. I-1489 (Suvestinė redakcija nuo 2022-01-01)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "153-0",
+  "official_journal_page": null,
+  "official_journal_date": "1991-08-06",
+  "entry_into_force": "1991-07-01",
+  "notification_date": "2022-05-23",
+  "commission_reference": "MNE(2022)03221",
+  "nim_celex": "72018L0645LTU_202203221",
+  "nim_id": "202203221",
+  "transposes_celex": [
+    "32018L0645"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c0329f6f-e1a1-11ec-a534-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
