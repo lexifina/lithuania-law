@@ -1,0 +1,29 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymas VIII-947",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "112",
+  "official_journal_page": null,
+  "official_journal_date": "1998-12-23",
+  "entry_into_force": "1999-03-01",
+  "notification_date": "2004-02-02",
+  "commission_reference": "MNE(2003)50973",
+  "nim_celex": "71975L0117LTU_20973",
+  "nim_id": "20973",
+  "transposes_celex": [
+    "31975L0117",
+    "31976L0207",
+    "31979L0007",
+    "31986L0378",
+    "31996L0034",
+    "31997L0080",
+    "31998L0052",
+    "32006L0054"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d56d80bc-8841-4171-9751-e322eaa024ac",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
