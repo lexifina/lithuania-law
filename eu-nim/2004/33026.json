@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Akcizų įstatymo pakeitimo įstatymas, Nr. IX-1987 (nauja redakcija)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "26",
+  "official_journal_page": null,
+  "official_journal_date": "2004-02-19",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2004-11-19",
+  "commission_reference": "MNE(2004)53026",
+  "nim_celex": "72002L0010LTU_33026",
+  "nim_id": "33026",
+  "transposes_celex": [
+    "32002L0010"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9500fa6c-9f13-4659-9af1-1b7dbbe88df0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
