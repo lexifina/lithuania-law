@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymas Nr. IX-975",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "65",
+  "official_journal_page": null,
+  "official_journal_date": "2002-06-28",
+  "entry_into_force": "2002-07-01",
+  "notification_date": "2004-11-19",
+  "commission_reference": "MNE(2004)53041",
+  "nim_celex": "71994L0019LTU_33041",
+  "nim_id": "33041",
+  "transposes_celex": [
+    "31994L0019",
+    "32009L0014"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f2673272-39a8-46f4-bd1d-92b662b598a4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
