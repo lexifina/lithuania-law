@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2004 M. BIRŽELIO 18 d. ĮSAKYMAS NR. D1-344 \"DĖL LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2003 M. RUGSĖJO 26 D. ĮSAKYMO NR. 473 „DĖL POLICHLORINTŲ BIFENILŲ IR POLICHLORINTŲ TERFENILŲ (PCB/PCT) TVARKYMO TAISYKLIŲ PATVIRTINIMO“ PAKEITIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "103",
+  "official_journal_page": null,
+  "official_journal_date": "2004-07-01",
+  "entry_into_force": "2004-07-02",
+  "notification_date": "2005-01-31",
+  "commission_reference": "MNE(2005)54827",
+  "nim_celex": "71996L0059LTU_34827",
+  "nim_id": "34827",
+  "transposes_celex": [
+    "31996L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b7c63cad-fadc-4ed8-aa09-730996ecb622",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
