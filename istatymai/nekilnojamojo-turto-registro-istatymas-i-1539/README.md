@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 1997-07-09 | 1997-10-29 | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/9d566c59712257a515063f3dcbfb6d5f5d820a87/istatymai/TAR.38E82AA2664C.md) |
+| 1997-10-30 | 1999-11-25 | Įstatymas Nr. VIII-453 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/a201cce6c995a65968ef0a925956db58f5f5c93b/istatymai/TAR.38E82AA2664C.md) |
