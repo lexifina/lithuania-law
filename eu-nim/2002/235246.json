@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2002 m. birželio 19 d. nutarimas Nr. 926 „Dėl Lietuvos Respublikos Vyriausybės 1999 m. gruodžio 27 d. nutarimo Nr. 1482 „Dėl institucijų, įgaliotų tvirtinti privalomuosius produktų saugos reikalavimus, paskyrimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "64",
+  "official_journal_page": null,
+  "official_journal_date": "2002-06-26",
+  "entry_into_force": "2002-06-27",
+  "notification_date": "2016-03-04",
+  "commission_reference": "MNE(2016)51555",
+  "nim_celex": "72014L0033LTU_235246",
+  "nim_id": "235246",
+  "transposes_celex": [
+    "32014L0033"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e7d6429e-0cf5-441e-a29b-9d6ec9ddf211",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
