@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2004 m. gegužės 24 d. įsakymas Nr. 3D-316 „Dėl žemės ūkio ministro 2000 m. rugsėjo 29 d. įsakymo Nr. 274 \"Dėl Privalomųjų kokybės reikalavimų javų sėklai\" pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "88-3239",
+  "official_journal_page": null,
+  "official_journal_date": "2004-06-02",
+  "entry_into_force": "2004-06-03",
+  "notification_date": "2021-02-04",
+  "commission_reference": "MNE(2021)00613",
+  "nim_celex": "71988L0380LTU_202100613",
+  "nim_id": "202100613",
+  "transposes_celex": [
+    "31988L0380"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0c635735-6fe9-45c3-8f89-ff8bce6b9f7e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
