@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2004 m. kovo 25 d. įsakymas Nr. D1-131 “Dėl Architekto diplomų, pažymėjimų ir kitų kvalifikaciją patvirtinančių dokumentų, įgytų Europos Sąjungos valstybėje narėje, Šveicarijoje arba valstybėje, pasirašiusioje Europos ekonominės erdvės sutartį, pripažinimo Lietuvos Respublikoje taisyklių tvirtinimo”",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "55",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-16",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2005-11-03",
+  "commission_reference": "MNE(2005)55530",
+  "nim_celex": "72001L0019LTU_125530",
+  "nim_id": "125530",
+  "transposes_celex": [
+    "32001L0019"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/da8d3b90-c3f9-45f7-8f69-373515a68e80",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
