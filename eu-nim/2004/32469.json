@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2004 m. liepos 22 d. nutarimas Nr. 929 “Dėl Lietuvos Respublikos Vyriausybės 2002 m. rugsėjo 6 d. nutarimo Nr. 1411 \"Dėl kriterijų, kuriais vadovaujantis operacija pinigais laikoma įtartina, patvirtinimo\" pakeitimo” (nauja redakcija)",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "115",
+  "official_journal_page": null,
+  "official_journal_date": "2004-07-24",
+  "entry_into_force": "2004-07-25",
+  "notification_date": "2004-11-13",
+  "commission_reference": "MNE(2004)52469",
+  "nim_celex": "71991L0308LTU_32469",
+  "nim_id": "32469",
+  "transposes_celex": [
+    "31991L0308"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c26a4093-d0e9-4414-95f4-e1e3115f2368",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
