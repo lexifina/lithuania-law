@@ -1,0 +1,10 @@
+Redagavo: Ramunė Lūžaitė (1997.07.01)
+Nauja įstatymo redakcija nuo 2003-01-01:
+Nr. IX-1219, 2002-12-03, Žin., 2002, Nr. 123-5512 (2002-12-24)
+LIETUVOS RESPUBLIKOS
+SVEIKATOS DRAUDIMO
+ĮSTATYMAS
+1996 m. gegužės 21 d. Nr. I-1343
+Vilnius
+I SKYRIUS
+BENDROSIOS NUOSTATOS
