@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos geriamojo vandens įstatymas Nr. IX-433",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "64",
+  "official_journal_page": null,
+  "official_journal_date": "2001-07-25",
+  "entry_into_force": "2003-07-01",
+  "notification_date": "2015-11-27",
+  "commission_reference": "MNE(2015)58816",
+  "nim_celex": "72013L0051LTU_232237",
+  "nim_id": "232237",
+  "transposes_celex": [
+    "32013L0051"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/94c001b4-9e8c-4729-ac2b-4e5b98bd27f5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
