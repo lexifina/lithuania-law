@@ -1,3 +1,4 @@
+LIETUVOS RESPUBLIKOS ĮSTATYMAS
 LIETUVOS RESPUBLIKOS
 Į S T A T Y M A S
 DĖL 1992 M. VALSTYBĖS BIUDŽETO ASIGNAVIMŲ VALSTYBINĖS VALDŽIOS, VALDYMO IR TEISĖSAUGOS STRUKTŪROMS IŠLAIKYTI PATIKSLINIMO
@@ -12,31 +13,36 @@ ______________
 Lietuvos Respublikos
 1992 m. spalio 29 d. įstatymo
 Nr. I-3012 priedėlis
-**Lietuvos Respublikos valstybinės valdžios, valdymo ir teisėsaugos struktūrų išlaikymo papildomos išlaidos 1992 metams**
-| Valstybinės įstaigos | Iš viso išlaidų (tūkst. lt.) | Iš jų nepaprastosios |
-| --- | --- | --- |
-| I. Valstybinės valdžios, valdymo organų, atskaitingų Aukščiausiajai Tarybai, centrinis aparatas | | |
-| Aukščiausioji Taryba | 31348 | 16720 |
-| | | |
-| Aukščiausiosios Tarybos Apsaugos skyrius | 1032 | |
-| | | |
-| Aplinkos apsaugos departamentas | 630 | |
-| | | |
-| Kultūros paveldo inspekcija | 1022 | |
-| | | |
-| Valstybės kontrolės departamentas | 1988 | |
-| | | |
-| II. Lietuvos Respublikos Vyriausybės ir jos valdymo organų išlaikymo išlaidos | 87060 | 1800 |
-| | | |
-| III. Teisėsaugos organai ir įstaigos | | |
-| | | |
-| Generalinė ir teritorinės Prokuratūros | 3000 | 1500 |
-| | | |
-| Aukščiausiasis Teismas | 435 | |
-| | | |
-| Valstybinis arbitražas | 348 | |
-| | | |
-| Teismai ir notarinės kontoros | 3901 | |
-| | | |
-| Iš viso | 130764 | 20020 |
+Lietuvos Respublikos valstybinės valdžios, valdymo ir teisėsaugos struktūrų išlaikymo papildomos išlaidos 1992 metams
+Valstybinės įstaigos
+Iš viso išlaidų (tūkst. lt.)
+Iš jų nepaprastosios
+I. Valstybinės valdžios, valdymo organų, atskaitingų Aukščiausiajai Tarybai, centrinis aparatas
+Aukščiausioji Taryba
+31348
+16720
+Aukščiausiosios Tarybos Apsaugos skyrius
+1032
+Aplinkos apsaugos departamentas
+630
+Kultūros paveldo inspekcija
+1022
+Valstybės kontrolės departamentas
+1988
+II. Lietuvos Respublikos Vyriausybės ir jos valdymo organų išlaikymo išlaidos
+87060
+1800
+III. Teisėsaugos organai ir įstaigos
+Generalinė ir teritorinės Prokuratūros
+3000
+1500
+Aukščiausiasis Teismas
+435
+Valstybinis arbitražas
+348
+Teismai ir notarinės kontoros
+3901
+Iš viso
+130764
+20020
 ______________
