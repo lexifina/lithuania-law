@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Žemės ūkio ministro 1999 m. spalio 7 d. įsakymas Nr. 383 „Dėl Privalomųjų rinkai tiekiamos sodo augalų dauginamosios medžiagos ir sodo augalų reikalavimų aprašo patvirtinimo“ (suvestinė redakcija nuo 2019-07-06)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "88-2606",
+  "official_journal_page": null,
+  "official_journal_date": "1999-10-20",
+  "entry_into_force": "1999-10-21",
+  "notification_date": "2020-03-24",
+  "commission_reference": "MNE(2020)52156",
+  "nim_celex": "72019L1813LTU_282498",
+  "nim_id": "282498",
+  "transposes_celex": [
+    "32019L1813"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/41fc54db-724f-11ea-a07e-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
