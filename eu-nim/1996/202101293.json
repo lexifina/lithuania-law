@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo proceso ir kriminalinės žvalgybos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatymas Nr. I-1202 (suvestinė redakcija nuo 2017-09-01 iki 2020-08-31)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "20-520",
+  "official_journal_page": null,
+  "official_journal_date": "1996-03-05",
+  "entry_into_force": "1996-12-31",
+  "notification_date": "2021-02-17",
+  "commission_reference": "MNE(2021)01293",
+  "nim_celex": "72012L0029LTU_202101293",
+  "nim_id": "202101293",
+  "transposes_celex": [
+    "32012L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/22efb2f4-8705-4174-b7ab-5d758bd4f229",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
