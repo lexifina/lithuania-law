@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymas Nr. IX-1538 (suvestinė redakcija nuo 2025-01-01)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "42-1927",
+  "official_journal_page": null,
+  "official_journal_date": "2003-05-01",
+  "entry_into_force": "2003-05-01",
+  "notification_date": "2025-09-18",
+  "commission_reference": "MNE(2025)05083",
+  "nim_celex": "72016L0343LTU_202505083",
+  "nim_id": "202505083",
+  "transposes_celex": [
+    "32016L0343"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a8974b99-7ef4-41c3-b3b9-4998f01ff9d9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
