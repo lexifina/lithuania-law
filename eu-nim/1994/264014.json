@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vartotojų teisių gynimo įstatymas Nr. I-657 (Suvestinė redakcija nuo nuo 2018-08-01)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "94-1833",
+  "official_journal_page": null,
+  "official_journal_date": "1994-12-07",
+  "entry_into_force": "1994-12-07",
+  "notification_date": "2018-10-12",
+  "commission_reference": "MNE(2018)55531",
+  "nim_celex": "72016L0801LTU_264014",
+  "nim_id": "264014",
+  "transposes_celex": [
+    "32016L0801"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/33b47d24-d29f-4da5-b57e-28ca7e65759d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
