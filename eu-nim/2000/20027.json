@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro, Lietuvos Respublikos socialinės apsaugos ir darbo ministrės ir Lietuvos Respublikos susisiekimo ministro 2010 m. gruodžio 11 d.  įsakymas Nr. 520/104/360 „Dėl aplinkos apsaugos normatyvinio dokumento LAND 35 - 2000 \"Lakiųjų organinių junginių sklidimo į aplinkos orą ribojimo reikalavimai naujiems benzino laikymo, perpylimo bei transportavimo įrenginiams\" patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "108",
+  "official_journal_page": null,
+  "official_journal_date": "2000-12-20",
+  "entry_into_force": "2000-12-21",
+  "notification_date": "2004-01-06",
+  "commission_reference": "MNE(2003)50027",
+  "nim_celex": "71994L0063LTU_20027",
+  "nim_id": "20027",
+  "transposes_celex": [
+    "31994L0063",
+    "32009L0126"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/81cb6c58-f9cf-4f7c-9396-3a725a8fb5cd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
