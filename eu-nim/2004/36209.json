@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro  2004 m.  balandžio 19 d. įsakymas Nr. V-237 ,,Dėl statistinės ataskaitos formos tvirtinimo ir sveikatos apsaugos ministro 1999 m. lapkričio 29 d. įsakymo Nr. 515 ,,Dėl sveikatos priežiūros įstaigų veiklos apskaitos ir atskaitomybės tvarkos“ pakeitimo",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "74",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-30",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2005-03-17",
+  "commission_reference": "MNE(2005)56209",
+  "nim_celex": "72002L0098LTU_36209",
+  "nim_id": "36209",
+  "transposes_celex": [
+    "32002L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9e1fe01b-62c6-4932-99a6-086b06f3d3b8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
