@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos įstatymo 2, 3, 13, 14, 24 straipsnių, Įstatymo priedo pakeitimo bei papildymo ir 14 straipsnio 9 dalies pripažinimo netekusia galios įstatymas Nr. IX-2161",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "73",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-30",
+  "entry_into_force": "2004-04-30",
+  "notification_date": "2004-05-25",
+  "commission_reference": "MNE(2004)57943",
+  "nim_celex": "71993L0007LTU_27943",
+  "nim_id": "27943",
+  "transposes_celex": [
+    "31993L0007"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6a4b15dc-9257-4f00-8083-1dbc1b7c6a79",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
