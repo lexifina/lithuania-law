@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Statistikos departamento prie Lietuvos Respublikos Vyriausybės generalinio direktoriaus 2004 m. gruodžio 10 d. įsakymas Nr. DĮ-247 \"Dėl vietinio turizmo tyrimo anketos patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "182",
+  "official_journal_page": null,
+  "official_journal_date": "2004-12-21",
+  "entry_into_force": "2004-12-22",
+  "notification_date": "2005-01-05",
+  "commission_reference": "MNE(2005)53973",
+  "nim_celex": "71995L0057LTU_33973",
+  "nim_id": "33973",
+  "transposes_celex": [
+    "31995L0057"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/33fd895c-ce5f-4fd9-a936-0ec142bae743",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
