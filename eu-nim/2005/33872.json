@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2004 m. lapkričio 24 d. įsakymas Nr. V-832 ,,Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2003 m. gruodžio 31 d. įsakymo Nr. V-793 ,,Dėl Lietuvos higienos normos HN 53:2003 ,,Leidžiami vartoti maisto priedai“ patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "176",
+  "official_journal_page": null,
+  "official_journal_date": "2004-12-08",
+  "entry_into_force": "2005-01-29",
+  "notification_date": "2004-12-27",
+  "commission_reference": "MNE(2004)53872",
+  "nim_celex": "72003L0115LTU_33872",
+  "nim_id": "33872",
+  "transposes_celex": [
+    "32003L0115"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/02671cbb-cf98-44a2-9fd2-a4443c3c2fe4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
