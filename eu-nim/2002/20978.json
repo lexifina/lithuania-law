@@ -1,0 +1,29 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo 1, 2, 3, 8, 12, 24 straipsnių pakeitimo ir papildymo bei įstatymo papildymo 5 (1) ir 7 (1) straipsniais Nr. IX-956",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "68",
+  "official_journal_page": null,
+  "official_journal_date": "2002-07-03",
+  "entry_into_force": "2002-07-03",
+  "notification_date": "2004-02-02",
+  "commission_reference": "MNE(2003)50978",
+  "nim_celex": "71975L0117LTU_20978",
+  "nim_id": "20978",
+  "transposes_celex": [
+    "31975L0117",
+    "31976L0207",
+    "31979L0007",
+    "31986L0378",
+    "31996L0034",
+    "31997L0080",
+    "31998L0052",
+    "32004L0113"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1976740a-c59a-4d89-bc3a-6786643ca173",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
