@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos transporto saugos administracijos direktoriaus 2004 m. birželio 17 d. įsakymas Nr. 2B-175 “Vairuotojo liudijimo blanko formos patvirtinimo” (suvestinė redakcija nuo 2022-10-29)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "98-3675",
+  "official_journal_page": null,
+  "official_journal_date": "2004-06-24",
+  "entry_into_force": "2004-06-25",
+  "notification_date": "2023-06-09",
+  "commission_reference": "MNE(2023)03287",
+  "nim_celex": "72022L2561LTU_202303287",
+  "nim_id": "202303287",
+  "transposes_celex": [
+    "32022L2561"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b988ea85-0c0d-11ee-b12e-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
