@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo kodekso 13, 162, 191, 196, 197, 203, 206, 216, 219, 221, 309 straipsnių pakeitimo ir papildymo bei Kodekso papildymo 198(1) ir 198(2) straipsniais įstatymas Nr. IX-1992",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "25",
+  "official_journal_page": null,
+  "official_journal_date": "2004-02-14",
+  "entry_into_force": "2004-02-14",
+  "notification_date": "2007-11-19",
+  "commission_reference": "MNE(2007)58226",
+  "nim_celex": "72005F0222LTU_150841",
+  "nim_id": "150841",
+  "transposes_celex": [
+    "32005F0222",
+    "32005L0060"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/be3f2c13-0c3b-4e71-86ab-265533808614",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
