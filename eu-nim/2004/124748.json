@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2004 m. rugpjūčio 12 d. nutarimas Nr. 135 „Dėl Lietuvos banko valdybos 2002 m. rugsėjo 26 d. nutarimo Nr. 121 „Dėl Kliento atliekamų operacijų pinigais ir sandorių registro tvarkymo taisyklių“ pripažinimo netekusiu galios“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "127",
+  "official_journal_page": null,
+  "official_journal_date": "2004-08-14",
+  "entry_into_force": "2004-08-15",
+  "notification_date": "2005-10-06",
+  "commission_reference": "MNE(2005)54748",
+  "nim_celex": "71991L0308LTU_124748",
+  "nim_id": "124748",
+  "transposes_celex": [
+    "31991L0308"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d59c5568-99c0-42bd-96d1-506cbdb98b74",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
