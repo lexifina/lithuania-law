@@ -1,0 +1,13 @@
+Įstatymas
+skelbtas: Žin., 1998, Nr. 115-3230
+Neoficialus
+įstatymo tekstas
+LIETUVOS RESPUBLIKOS
+CIVILINĖS SAUGOS
+ĮSTATYMAS
+1998 m. gruodžio 15 d. Nr. VIII-971
+Vilnius
+PIRMASIS
+SKIRSNIS
+BENDROSIOS
+NUOSTATOS
