@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2004 m. sausio 13 d. nutarimas Nr. 25 \"Dėl Lietuvos Respublikos Vyriausybės 2001 m. gruodžio 5 d. nutarimo Nr.1474 \"Dėl teisės aktų, būtinų Lietuvos Respublikos elektros energetikos įstatymui įgyvendinti, patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "9",
+  "official_journal_page": null,
+  "official_journal_date": "2004-01-17",
+  "entry_into_force": "2004-01-18",
+  "notification_date": "2008-03-12",
+  "commission_reference": "MNE(2008)51684",
+  "nim_celex": "72005L0089LTU_154427",
+  "nim_id": "154427",
+  "transposes_celex": [
+    "32005L0089"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5f349719-2112-4aa0-a459-0c526b72cd20",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
