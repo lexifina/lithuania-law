@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymas Nr. VIII-1524 (Suvestinė redakcija)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "10-236",
+  "official_journal_page": null,
+  "official_journal_date": "2000-02-02",
+  "entry_into_force": "2000-06-01",
+  "notification_date": "2018-10-09",
+  "commission_reference": "MNE(2018)55481",
+  "nim_celex": "72016L2102LTU_263914",
+  "nim_id": "263914",
+  "transposes_celex": [
+    "32016L2102"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c861db95-ee13-40a2-a008-45990fb7d6b6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
