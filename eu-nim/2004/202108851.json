@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos finansų ministro 2004 m. kovo 2 d. įsakymas Nr. 1K-069 „Dėl Teritorijų, kurios laikomos trečiosiomis teritorijomis, sąrašo patvirtinimo“ (suvestinė redakcija nuo 2020-01-01)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "35-1157",
+  "official_journal_page": null,
+  "official_journal_date": "2004-03-06",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2022-03-21",
+  "commission_reference": "MNE(2021)08851",
+  "nim_celex": "72020L0262LTU_202108851",
+  "nim_id": "202108851",
+  "transposes_celex": [
+    "32020L0262"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4639c5cc-ac13-11ec-83e1-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
