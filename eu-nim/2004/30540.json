@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2004 m. rugpjūčio 17 d. nutarimas Nr. 966 \"Dėl pramoninių avarijų prevencijos, likvidavimo ir tyrimo nuostatų  patvirtinimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "130",
+  "official_journal_page": null,
+  "official_journal_date": "2004-08-21",
+  "entry_into_force": "2004-08-22",
+  "notification_date": "2004-08-23",
+  "commission_reference": "MNE(2004)50540",
+  "nim_celex": "71996L0082LTU_30540",
+  "nim_id": "30540",
+  "transposes_celex": [
+    "31996L0082"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b26929be-8584-4cbc-94e8-1260798c80b0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
