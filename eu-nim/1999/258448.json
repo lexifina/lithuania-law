@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių bylų teisenos įstatymas Nr. VIII-1029 (Suvestinė redakcija nuo 2018-01-01 iki 2018-06-30)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "13-308",
+  "official_journal_page": null,
+  "official_journal_date": "1999-02-03",
+  "entry_into_force": "1999-05-01",
+  "notification_date": "2018-05-10",
+  "commission_reference": "MNE(2018)52270",
+  "nim_celex": "72016L0680LTU_258448",
+  "nim_id": "258448",
+  "transposes_celex": [
+    "32016L0680"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/18efa704-98cb-4b46-8134-c24c4559b63a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
