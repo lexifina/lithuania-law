@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 1992-07-03 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/6b9f053ced5926cc9102717e960f29e6852aa46a/istatymai/TAR.D267FBDC094B.md) |
+| 1995-04-12 | 1995-06-27 | Įstatymas Nr. I-843 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/a22d6dd68b2c9f8aaad18b9fa9812925e0622fcc/istatymai/TAR.D267FBDC094B.md) |
