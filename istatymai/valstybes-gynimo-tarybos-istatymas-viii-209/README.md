@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 1997-05-14 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/8b4e6f934065c53a1256626fbd324d44f147d259/istatymai/TAR.4C6BD6562C91.md) |
+| 2000-07-19 | 2012-12-31 | Įstatymas Nr. VIII-1779 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/36d5e06ad6d59868a3f9b15f934b45e5b4487e6f/istatymai/TAR.4C6BD6562C91.md) |
