@@ -1,0 +1,25 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos valstybinės darbo inspekcijos įstatymas Nr. IX-1768",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "102",
+  "official_journal_page": null,
+  "official_journal_date": "2003-10-31",
+  "entry_into_force": "2004-01-01",
+  "notification_date": "2008-04-03",
+  "commission_reference": "MNE(2008)52151",
+  "nim_celex": "72006L0042LTU_154927",
+  "nim_id": "154927",
+  "transposes_celex": [
+    "32006L0042",
+    "32009L0013",
+    "32009L0052",
+    "32014L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a7e03ea3-eca7-47a9-9cd4-e776cc1bc2ed",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
