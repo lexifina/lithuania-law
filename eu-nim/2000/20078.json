@@ -1,0 +1,25 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2000 m. spalio 18 d. įsakymas Nr. 444 'Dėl atliekų sąvartynų įrengimo, eksploatavimo, uždarymo ir priežiūros po uždarymo taisyklių patvirtinimo'",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "96",
+  "official_journal_page": null,
+  "official_journal_date": "2000-11-10",
+  "entry_into_force": "2000-11-11",
+  "notification_date": "2004-01-08",
+  "commission_reference": "MNE(2003)50078",
+  "nim_celex": "71980L0068LTU_20078",
+  "nim_id": "20078",
+  "transposes_celex": [
+    "31980L0068",
+    "31999L0031",
+    "32006L0021",
+    "32012L0019"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2f2b4ee4-8b49-44ba-a268-e94037b65011",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
