@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2005 m. kovo 7 d. įsakymas Nr. V-154 ,,Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2004 m. vasario 20 d. įsakymo Nr. V-78 ,,Dėl kraujo ir kraujo komponentų įvežimo į Lietuvos Respubliką ir išvežimo iš jos sąlygų bei tvarkos patvirtinimo“ pakeitimo",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "33",
+  "official_journal_page": null,
+  "official_journal_date": "2005-03-10",
+  "entry_into_force": "2005-03-11",
+  "notification_date": "2005-03-17",
+  "commission_reference": "MNE(2005)56074",
+  "nim_celex": "72002L0098LTU_36074",
+  "nim_id": "36074",
+  "transposes_celex": [
+    "32002L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8491b2bc-6c6c-4322-b3da-30bd90ebed02",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
