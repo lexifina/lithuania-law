@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro ir Lietuvos Respublikos aplinkos ministro 2005 m. vasario 7 d. įsakymas Nr. 3-45/D1-67 „Dėl Lietuvos Respublikos susisiekimo ministro ir Lietuvos Respublikos aplinkos ministro 2003 m. liepos 9 d. įsakymo Nr. 3-414/346 „Dėl laivuose susidarančių atliekų ir laivų krovinių likučių tvarkymo nuostatų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "22",
+  "official_journal_page": null,
+  "official_journal_date": "2005-02-15",
+  "entry_into_force": "2005-02-16",
+  "notification_date": "2005-02-21",
+  "commission_reference": "MNE(2005)55333",
+  "nim_celex": "72000L0059LTU_35333",
+  "nim_id": "35333",
+  "transposes_celex": [
+    "32000L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/daade37b-59ba-4467-9582-47fef4fb054e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
