@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1995 M. GRUODŽIO 29 D. NUTARIMAS NR. 1640 \"DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1992 M. GEGUŽĖS 12 D. NUTARIMO NR.343 \"DĖL SPECIALIŲJŲ ŽEMĖS IR MIŠKO NAUDOJIMO SĄLYGŲ PATVIRTINIMO\" DALINIO PAKEITIMO\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "2",
+  "official_journal_page": null,
+  "official_journal_date": "1996-01-10",
+  "entry_into_force": "1996-01-11",
+  "notification_date": "2007-02-13",
+  "commission_reference": "MNE(2007)51489",
+  "nim_celex": "71999L0031LTU_141683",
+  "nim_id": "141683",
+  "transposes_celex": [
+    "31999L0031"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/91a708e4-eeac-49be-8acf-5e1ae7d336a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
