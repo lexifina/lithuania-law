@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos bausmių vykdymo kodekso patvirtinimo įstatymas. Bausmių vykdymo kodeksas Nr. IX-994 (suvestinė redakcija nuo 2020-07-01 iki 2021-12-31)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "73-3084",
+  "official_journal_page": null,
+  "official_journal_date": "2002-07-19",
+  "entry_into_force": "2002-07-19",
+  "notification_date": "2021-02-17",
+  "commission_reference": "MNE(2021)01291",
+  "nim_celex": "72012L0029LTU_202101291",
+  "nim_id": "202101291",
+  "transposes_celex": [
+    "32012L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/22a3bfbc-34bc-4718-a6ea-fd71bb5ab5d6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
