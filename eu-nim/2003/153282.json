@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos įstatymo 1, 3, 4, 8, 10, 17, 18, 19, 23 straipsnių pakeitimo ir papildymo įstatymas Nr. IX-1796",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "108",
+  "official_journal_page": null,
+  "official_journal_date": "2003-11-19",
+  "entry_into_force": "2003-11-19",
+  "notification_date": "2008-01-30",
+  "commission_reference": "MNE(2008)50829",
+  "nim_celex": "72004L0113LTU_153282",
+  "nim_id": "153282",
+  "transposes_celex": [
+    "32004L0113",
+    "32006L0054",
+    "32010L0041"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a4103d72-f66c-42e7-9c44-d51f32686f85",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
