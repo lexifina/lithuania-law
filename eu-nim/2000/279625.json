@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 1999 m. gruodžio 31 d. įsakymas Nr. 456 „Dėl Keleivių ir bagažo vežimo jūra taisyklių patvirtinimo“, (Suvestinė redakcija nuo 2017-03-25 iki 2019-12-20)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "12-313",
+  "official_journal_page": null,
+  "official_journal_date": "2000-02-09",
+  "entry_into_force": "2000-02-10",
+  "notification_date": "2019-12-20",
+  "commission_reference": "MNE(2019)57271",
+  "nim_celex": "72017L2109LTU_279625",
+  "nim_id": "279625",
+  "transposes_celex": [
+    "32017L2109"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a9057243-3073-11ea-af81-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
