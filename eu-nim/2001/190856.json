@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro ir aplinkos ministro 2001 m. kovo 9 d. įsakymas Nr. 86/146 „Dėl Sritinio norminio dokumento “Dujų sistema. Magistraliniai dujotiekiai. Projektavimas, medžiagos ir statyba. Taisyklės” patvirtinimo“",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "23",
+  "official_journal_page": null,
+  "official_journal_date": "2001-03-16",
+  "entry_into_force": "2001-03-17",
+  "notification_date": "2012-05-18",
+  "commission_reference": "MNE(2012)52402",
+  "nim_celex": "72009L0073LTU_190856",
+  "nim_id": "190856",
+  "transposes_celex": [
+    "32009L0073"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0ae4a813-c2ac-4a96-84cd-4bd6a8f246ca",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
