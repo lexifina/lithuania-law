@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymas Nr. VIII-1509 (galiojanti suvestinė redakcija nuo 2017-01-01 - 2017-12-31)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "110",
+  "official_journal_page": null,
+  "official_journal_date": "1999-12-29",
+  "entry_into_force": "2000-01-01",
+  "notification_date": "2017-03-24",
+  "commission_reference": "MNE(2017)51781",
+  "nim_celex": "72014L0066LTU_246351",
+  "nim_id": "246351",
+  "transposes_celex": [
+    "32014L0066"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4be3cb3f-31ce-4b82-9956-deb19d317c49",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
