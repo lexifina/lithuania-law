@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymas Nr. I-1324 (Suvestinė redakcija nuo 2011-10-01 iki 2018-06-30)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "46-1116",
+  "official_journal_page": null,
+  "official_journal_date": "1996-05-17",
+  "entry_into_force": "1996-05-17",
+  "notification_date": "2018-06-06",
+  "commission_reference": "MNE(2018)52499",
+  "nim_celex": "72009L0104LTU_258839",
+  "nim_id": "258839",
+  "transposes_celex": [
+    "32009L0104"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0c941760-01dd-4a83-ab00-73e4156bacf4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
