@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vertybinių popierių rinkos įstatymo 2, 3, 48, 57 straipsnių pakeitimo ir papildymo įstatymas Nr. IX-1719",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "74",
+  "official_journal_page": null,
+  "official_journal_date": "2003-07-25",
+  "entry_into_force": "2003-07-25",
+  "notification_date": "2006-08-01",
+  "commission_reference": "MNE(2006)54891",
+  "nim_celex": "72004L0025LTU_133863",
+  "nim_id": "133863",
+  "transposes_celex": [
+    "32004L0025"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/04432767-cc4c-4e8c-8d33-e6ffffdd136e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
