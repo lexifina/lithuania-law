@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2002 m. sausio 17 d. nutarimas Nr. 3 „Dėl Lietuvos banko valdybos 1999 m. sausio 21 d. nutarimo Nr. 7 „Dėl bendrųjų nuostatų dėl subordinuotų paskolų patvirtinimo“ dalinio pakeitimo“ (nauja redakcija)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "12",
+  "official_journal_page": null,
+  "official_journal_date": "2002-02-01",
+  "entry_into_force": "2002-03-01",
+  "notification_date": "2007-02-19",
+  "commission_reference": "MNE(2007)50898",
+  "nim_celex": "72006L0049LTU_140940",
+  "nim_id": "140940",
+  "transposes_celex": [
+    "32006L0049"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/de5587ff-15d3-4500-a4e6-f9af695f594d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
