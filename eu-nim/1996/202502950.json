@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos statybos įstatymas Nr. I-1240 (suvestinė redakcija nuo 2023-11-01 iki 2023-12-31)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "32-788",
+  "official_journal_page": null,
+  "official_journal_date": "1996-04-10",
+  "entry_into_force": "1996-09-01",
+  "notification_date": "2025-05-27",
+  "commission_reference": "MNE(2025)02950",
+  "nim_celex": "72023L2413LTU_202502950",
+  "nim_id": "202502950",
+  "transposes_celex": [
+    "32023L2413"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fbaa2b31-d3fb-4712-8833-54aa68a21564",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
