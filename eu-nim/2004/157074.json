@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2004 m. rugpjūčio 16 d. įsakymas Nr. 3-434 ,,Dėl Mokymo įstaigų, rengiančių ir perkvalifikuojančių civilinės aviacijos specialistus, akreditavimo nuostatų patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "130",
+  "official_journal_page": null,
+  "official_journal_date": "2004-08-21",
+  "entry_into_force": "2004-08-22",
+  "notification_date": "2008-07-23",
+  "commission_reference": "MNE(2008)54146",
+  "nim_celex": "72006L0023LTU_157074",
+  "nim_id": "157074",
+  "transposes_celex": [
+    "32006L0023"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a5b6be35-473b-4ccb-854c-451632afe862",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
