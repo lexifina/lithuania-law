@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro įsakymas Nr. 1V-289 \"Dėl Vidaus reikalų ministro 2001 m. gegužės 25 d. įsakymo Nr. 260 \"Dėl Kelių transporto priemonių registravimo taisyklių patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "140",
+  "official_journal_page": null,
+  "official_journal_date": "2004-09-18",
+  "entry_into_force": "2004-09-19",
+  "notification_date": "2004-09-21",
+  "commission_reference": "MNE(2004)51066",
+  "nim_celex": "72000L0053LTU_31066",
+  "nim_id": "31066",
+  "transposes_celex": [
+    "32000L0053"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d1b8c9e2-142d-4863-ada7-1289838c8bc9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
