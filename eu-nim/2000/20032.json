@@ -1,0 +1,27 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 1999 m. spalio 27 d. įsakymas Nr. 342 \"Dėl aplinkos apsaugos normatyvinio dokumento LAND 19-99 “Pagrindiniai atliekų deginimo reikalavimai” patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "94",
+  "official_journal_page": null,
+  "official_journal_date": "1999-11-05",
+  "entry_into_force": "2000-01-01",
+  "notification_date": "2004-01-08",
+  "commission_reference": "MNE(2003)50032",
+  "nim_celex": "71975L0439LTU_20032",
+  "nim_id": "20032",
+  "transposes_celex": [
+    "31975L0439",
+    "31987L0101",
+    "31989L0369",
+    "31989L0429",
+    "31994L0067",
+    "32000L0076"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/adc04091-73bf-4c9c-aff1-c32adc8f1532",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
