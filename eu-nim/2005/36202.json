@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2005 m. kovo 9 d. įsakymas Nr. V-165 ,,Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2000 m. spalio 19 d. įsakymo Nr. 563 „Dėl kraujo ir jo komponentų ruošimo rekomendacijų patvirtinimo“ papildymo",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "34",
+  "official_journal_page": null,
+  "official_journal_date": "2005-03-10",
+  "entry_into_force": "2005-03-11",
+  "notification_date": "2005-03-17",
+  "commission_reference": "MNE(2005)56202",
+  "nim_celex": "72002L0098LTU_36202",
+  "nim_id": "36202",
+  "transposes_celex": [
+    "32002L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f2967307-9592-4eec-84f7-693bb6bc404f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
