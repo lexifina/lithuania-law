@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS APSAUGOS ĮSTATYMO 6, 18, 19, 20, 22, 24, 25, 31, 33 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS NR. IX-2113",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "60",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-24",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2008-04-17",
+  "commission_reference": "MNE(2008)52381",
+  "nim_celex": "72006L0021LTU_155198",
+  "nim_id": "155198",
+  "transposes_celex": [
+    "32006L0021",
+    "32007L0002",
+    "32008L0050"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e0cf32cd-282e-47c6-b014-655e0e5c6ca5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
