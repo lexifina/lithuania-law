@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos paso įstatymas Nr. IX-590",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "99",
+  "official_journal_page": null,
+  "official_journal_date": "2001-11-28",
+  "entry_into_force": "2003-01-01",
+  "notification_date": "2005-06-30",
+  "commission_reference": "MNE(2005)52275",
+  "nim_celex": "71968L0360LTU_122275",
+  "nim_id": "122275",
+  "transposes_celex": [
+    "31968L0360",
+    "31973L0148",
+    "32004L0038"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/79a90914-95fe-442f-b9ba-e2cdf389eda3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
