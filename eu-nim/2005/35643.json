@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2005 m. vasario 3 d. įsakymas Nr.  V-73 ,,Dėl Europos Parlamento ir Tarybos direktyvos 2002/98/EB įgyvendinimo ataskaitų“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "18",
+  "official_journal_page": null,
+  "official_journal_date": "2005-02-08",
+  "entry_into_force": "2005-02-09",
+  "notification_date": "2005-03-14",
+  "commission_reference": "MNE(2005)55643",
+  "nim_celex": "72002L0098LTU_35643",
+  "nim_id": "35643",
+  "transposes_celex": [
+    "32002L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/df240300-ad75-40bc-9e47-f09147d5e6da",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
