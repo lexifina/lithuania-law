@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2004 m. balandžio 21 d. nutarimas Nr. 457 \"Dėl kvalifikacijų, patvirtintų diplomais, pažymėjimais ir kitais dokumentais, išduotais Lietuvos Respublikos ir Europos Sąjungos valstybių narių piliečiams, baigusiems ar pradėjusiems studijas buvusioje TSRS iki 1990 m. kovo 11 d., prilyginimo gydytojų, bendrosios praktikos slaugytojų, dantų gydytojų, akušerių, veterinarijos gydytojų, vaistininkų ir architektų profesinėms kvalifikacijoms, patvirtintoms Lietuvos Respublikoje išduotais diplomais, pažymėjimais ir kitais dokumentais\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "60",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-24",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2005-11-03",
+  "commission_reference": "MNE(2005)55513",
+  "nim_celex": "71989L0048LTU_125513",
+  "nim_id": "125513",
+  "transposes_celex": [
+    "31989L0048"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5b206e81-7386-473a-87b8-a961002ca4e7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
