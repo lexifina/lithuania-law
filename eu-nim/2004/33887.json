@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2004 m. spalio 14 d. įsakymas Nr. 1V-381 \"Dėl Ryšių reguliavimo tarnybos direktoriaus 2003 m. kovo 13 d. įsakymo Nr. 1V-27 \"Dėl Radijo dažnių (kanalų), kuriuos galima naudoti be atskiro leidimo, sąrašo patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "158",
+  "official_journal_page": null,
+  "official_journal_date": "2004-10-30",
+  "entry_into_force": "2004-10-20",
+  "notification_date": "2004-12-29",
+  "commission_reference": "MNE(2004)53887",
+  "nim_celex": "71999L0005LTU_33887",
+  "nim_id": "33887",
+  "transposes_celex": [
+    "31999L0005"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/03bb8af9-9403-480f-a89f-f8712955626b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
