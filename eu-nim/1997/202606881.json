@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos draudimo įstatymas Nr. I-1343 (Suvestinė redakcija nuo 2026-01-01 iki 2026-04-30)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "55-1287",
+  "official_journal_page": null,
+  "official_journal_date": "1999-06-12",
+  "entry_into_force": "1997-01-01",
+  "notification_date": "2026-09-02",
+  "commission_reference": "MNE(2026)06881",
+  "nim_celex": "72024L1346LTU_202606881",
+  "nim_id": "202606881",
+  "transposes_celex": [
+    "32024L1346"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1fec859d-8fb0-44e8-a63c-ea65c5b6466a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
