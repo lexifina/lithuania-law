@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2004 m. gegužės 3 d. nutarimas Nr. 535 „Dėl Aukštojo mokslo diplomų, diplomų, pažymėjimų ir kitų kvalifikaciją patvirtinančių dokumentų, išduotų Europos Sąjungos, Europos Ekonominės Erdvės valstybėse ar Šveicarijos Konfederacijoje, pripažinimo norint dirbti pagal reglamentuojamą profesiją ar verstis reglamentuojama profesine veikla Lietuvos Respublikoje nuostatų ir tam tikros struktūros kursų sąrašo patvirtinimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "75",
+  "official_journal_page": null,
+  "official_journal_date": "2004-05-05",
+  "entry_into_force": "2004-05-06",
+  "notification_date": "2005-10-29",
+  "commission_reference": "MNE(2005)55388",
+  "nim_celex": "72001L0019LTU_125388",
+  "nim_id": "125388",
+  "transposes_celex": [
+    "32001L0019"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b7644a6d-44a8-49d8-8744-a40c81e34828",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
