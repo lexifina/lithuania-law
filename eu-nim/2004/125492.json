@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 2004 M. GEGUŽĖS 3 D. NUTARIMAS NR. 539 “DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1992 M. GEGUŽĖS 20 D. NUTARIMO NR. 362 „DĖL PRAMONINĖS NUOSAVYBĖS TEISINĖS APSAUGOS LIETUVOS RESPUBLIKOJE“ PAKEITIMO\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "75",
+  "official_journal_page": null,
+  "official_journal_date": "2004-05-05",
+  "entry_into_force": "2004-05-06",
+  "notification_date": "2005-11-03",
+  "commission_reference": "MNE(2005)55492",
+  "nim_celex": "71989L0048LTU_125492",
+  "nim_id": "125492",
+  "transposes_celex": [
+    "31989L0048"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c7f62927-7f35-4ff5-ba6c-7ce695dd29ad",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
