@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 1995-05-24 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/5380349eb363a5910e0250113cbccf2f9dea7707/istatymai/TAR.F617B8D97E05.md) |
+| 1997-12-19 | 2001-06-30 | Aktas Nr. VIII-554 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/7af833b09f6a75e07c81887794e3b5d683a4eea1/istatymai/TAR.F617B8D97E05.md) |
