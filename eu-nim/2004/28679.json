@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos nutarimas Nr. 61 „Dėl tarpinės finansinės atskaitomybės sudėties ir periodiškumo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "80",
+  "official_journal_page": null,
+  "official_journal_date": "2004-05-14",
+  "entry_into_force": "2004-05-15",
+  "notification_date": "2004-06-07",
+  "commission_reference": "MNE(2004)58679",
+  "nim_celex": "71986L0635LTU_28679",
+  "nim_id": "28679",
+  "transposes_celex": [
+    "31986L0635"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ca47e2d5-5c38-4252-b7f9-e169a96f4cf8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
