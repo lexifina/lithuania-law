@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2003 M. GRUODŽIO 24 D. ĮSAKYMAS NR. 707 \"DĖL POŽEMINIO VANDENS TELKINIŲ PRISKYRIMO UPIŲ BASEINŲ RAJONAMS\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "21",
+  "official_journal_page": null,
+  "official_journal_date": "2004-02-07",
+  "entry_into_force": "2004-02-08",
+  "notification_date": "2005-10-06",
+  "commission_reference": "MNE(2005)54302",
+  "nim_celex": "72000L0060LTU_124302",
+  "nim_id": "124302",
+  "transposes_celex": [
+    "32000L0060"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9cd16949-de8d-4588-90dc-6414b0939c46",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
