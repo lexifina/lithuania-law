@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos konkurencijos įstatymo pakeitimo ir papildymo, Valstybės pagalbos ūkio subjektams kontrolės įstatymo pripažinimo netekusiu galios ir civilinio proceso kodekso \n1 straipsnio pakeitimo įstatymas Nr. IX-2126",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "63",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-28",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2005-03-08",
+  "commission_reference": "MNE(2005)55859",
+  "nim_celex": "72003L0055LTU_35859",
+  "nim_id": "35859",
+  "transposes_celex": [
+    "32003L0055"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9d6c3be1-80bf-4d5e-9fb3-dd0cac82d0e7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
