@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro įsakymas Nr. V-247 \"Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2003 m. gruodžio 23 d. įsakymo Nr. V-758 \"Dėl Lietuvos higienos normos HN 28:2003 ,\"Natūralaus mineralinio vandens ir šaltinio vandens naudojimo ir pateikimo į rinką reikalavimai\" patvirtinimo\" pakeitimo ir Lietuvos Respublikos sveikatos apsaugos ministro 2001 m. gegužės 1 d. įsakymo Nr. 276 \"Dėl Mineralinio vandens kokybės nustatymo komisijos prie Sveikatos apsaugos ministerijos sudėties ir jos nuostatų patvirtinimo\" pripažinimo netekusiu galios\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "65",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-30",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2004-05-24",
+  "commission_reference": "MNE(2004)57953",
+  "nim_celex": "71980L0777LTU_27953",
+  "nim_id": "27953",
+  "transposes_celex": [
+    "31980L0777",
+    "31996L0070",
+    "32003L0040"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/aeaa2a78-b057-482b-a1a0-fad35ed48329",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
