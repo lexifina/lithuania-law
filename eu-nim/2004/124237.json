@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2004 M. GRUODŽIO 10 D. ĮSAKYMAS NR. D1-630 \"DĖL ATASKAITŲ APIE 1996 M. RUGSĖJO 24 D. TARYBOS DIREKTYVOS 96/61/EB DĖL TARŠOS INTEGRUOTOS PREVENCIJOS IR KONTROLĖS ĮGYVENDINIMĄ RENGIMO IR TEIKIMO EUROPOS KOMISIJAI TVARKOS APRAŠO PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "181",
+  "official_journal_page": null,
+  "official_journal_date": "2004-12-18",
+  "entry_into_force": "2004-12-19",
+  "notification_date": "2005-10-04",
+  "commission_reference": "MNE(2005)54237",
+  "nim_celex": "71996L0061LTU_124237",
+  "nim_id": "124237",
+  "transposes_celex": [
+    "31996L0061"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b7f00a4d-d327-4e7b-a32c-f5ae205f3721",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
