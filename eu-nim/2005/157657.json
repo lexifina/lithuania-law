@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro 2005 m. kovo 24 d. įsakymas Nr. 4-122 \"Dėl Energetikos objektus ir įrenginius statančių ir eksploatuojančių darbuotojų atestavimo nuostatų patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "41",
+  "official_journal_page": null,
+  "official_journal_date": "2005-03-31",
+  "entry_into_force": "2005-04-01",
+  "notification_date": "2008-08-27",
+  "commission_reference": "MNE(2008)54709",
+  "nim_celex": "72006L0032LTU_157657",
+  "nim_id": "157657",
+  "transposes_celex": [
+    "32006L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9351ed57-d837-4ecd-8b9f-9e58ea726131",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
