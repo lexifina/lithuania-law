@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymas Nr. VIII-1591 (suvestinė redakcija)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "30-827",
+  "official_journal_page": null,
+  "official_journal_date": "2000-04-12",
+  "entry_into_force": "2001-01-01",
+  "notification_date": "2019-01-08",
+  "commission_reference": "MNE(2019)50070",
+  "nim_celex": "72016L1919LTU_266956",
+  "nim_id": "266956",
+  "transposes_celex": [
+    "32016L1919"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8d0d7055-b91d-4fa3-a121-86736c10c22a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
