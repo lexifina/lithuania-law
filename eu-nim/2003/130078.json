@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro 2002 m. gruodžio 2 d. įsakymas Nr. 563  \"Dėl gyvenamosios vietos deklaravimo ir deklaravimo duomenų tvarkymo taisyklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "117",
+  "official_journal_page": null,
+  "official_journal_date": "2002-12-11",
+  "entry_into_force": "2003-01-01",
+  "notification_date": "2006-04-04",
+  "commission_reference": "MNE(2006)52199",
+  "nim_celex": "72004L0038LTU_130078",
+  "nim_id": "130078",
+  "transposes_celex": [
+    "32004L0038"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f583e760-9cc5-4bef-94c8-c341dccec1da",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
