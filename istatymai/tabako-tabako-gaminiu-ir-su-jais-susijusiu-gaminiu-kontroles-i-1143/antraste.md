@@ -1,0 +1,26 @@
+Redagavo: Ramunė Lūžaitė (1997
+Redagavo: Ramunė Lūžaitė (1997.02.25)
+Neoficialus įstatymo tekstas
+Pakeitimai:
+LIETUVOS RESPUBLIKOS KONSTITUCINIO TEISMO NUTARIMAI:
+1.
+Lietuvos Respublikos Konstitucinis Teismas,
+Nutarimas
+97.02.13, Žin., 1997, Nr.15-314 (97.02.19)
+DĖL LIETUVOS RESPUBLIKOS ALKOHOLIO KONTROLĖS
+ĮSTATYMO 1 IR 30 STRAIPSNIŲ, LIETUVOS RESPUBLIKOS TABAKO KONTROLĖS ĮSTATYMO 1,
+3 IR 11 STRAIPSNIŲ, TAIP PAT LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1996 M. VASARIO 2
+D. NUTARIMO NR. 179 ?DĖL ALKOHOLIO REKLAMOS KONTROLĖS? ATITIKIMO LIETUVOS
+RESPUBLIKOS KONSTITUCIJAI
+*** Pabaiga ***
+Pastaba: ženklai “>>” ir “<<” reiškia,
+kad tekstas tarp jų yra pripažintas neatitinkančiu Lietuvos Respublikos
+Konstitucijos.
+LIETUVOS RESPUBLIKOS
+TABAKO KONTROLĖS
+ĮSTATYMAS
+1995 m. gruodžio 20 d.
+Nr.I-1143
+Vilnius
+( Žin., 1996, Nr. 11-281)
+I SKYRIUS. BENDROSIOS NUOSTATOS
