@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 1996-01-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/af8da804913a79a7eb18b563d50164656c2ff031/istatymai/TAR.AB5C4F8C996B.md) |
+| 1997-07-09 | 1998-07-14 | Įstatymas Nr. VIII-345 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/696053da7982d8ad3b20b10953d0016acfda3490/istatymai/TAR.AB5C4F8C996B.md) |
