@@ -1,0 +1,8 @@
+Įstatymas skelbtas: Žin., 2004, Nr. 4-25
+Neoficialus įstatymo tekstas
+LIETUVOS RESPUBLIKOS
+VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO 2004 METŲ RODIKLIŲ
+PATVIRTINIMO
+ĮSTATYMAS
+2003 m. gruodžio 16 d. Nr. IX-1902
+Vilnius
