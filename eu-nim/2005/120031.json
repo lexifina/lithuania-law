@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2005 m. kovo 17 d. įsakymas Nr. V-178 \"Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2005 m. vasario 8 d. įsakymo Nr. V-91 ,,Dėl Kraujo ir kraujo komponentų kokybės ir saugos reikalavimų patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "38",
+  "official_journal_page": null,
+  "official_journal_date": "2005-03-24",
+  "entry_into_force": "2005-03-25",
+  "notification_date": "2005-04-04",
+  "commission_reference": "MNE(2005)50031",
+  "nim_celex": "72004L0033LTU_120031",
+  "nim_id": "120031",
+  "transposes_celex": [
+    "32004L0033"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a62811a2-37c2-4c0f-b8ef-d532db2a2590",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
