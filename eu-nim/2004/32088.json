@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos respublikos aplinkos ministro 2003 m. gruodžio 24 d. įsakymas Nr. 712 “Dėl aplinkos ministro 2001 m. rugsėjo 28 d. įsakymo Nr. 486 “Dėl išmetamų teršalų iš didelių kurą deginančių įrenginių normų ir išmetamų teršalų iš kurą deginančių įrenginių normų LAND 43-2001 nustatymo” pakeitimo”",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "37",
+  "official_journal_page": null,
+  "official_journal_date": "2004-03-09",
+  "entry_into_force": "2004-03-10",
+  "notification_date": "2004-10-21",
+  "commission_reference": "MNE(2004)52088",
+  "nim_celex": "71988L0609LTU_32088",
+  "nim_id": "32088",
+  "transposes_celex": [
+    "31988L0609",
+    "32001L0080"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e1185c6b-baae-4a74-8a93-ecc88c722cb7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
