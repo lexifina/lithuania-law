@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2001 m. sausio 30 d. įsakymas Nr. 22 „Dėl Europos Sąjungos valstybių narių kompetentingų institucijų išduotų laivų ir laivų įgulų dokumentų galiojimo Lietuvos Respublikos vidaus vandenų keliuose“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "12",
+  "official_journal_page": null,
+  "official_journal_date": "2001-02-07",
+  "entry_into_force": "2001-02-08",
+  "notification_date": "2008-12-11",
+  "commission_reference": "MNE(2008)56584",
+  "nim_celex": "72006L0103LTU_159576",
+  "nim_id": "159576",
+  "transposes_celex": [
+    "32006L0103"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/495abfb4-bfea-4847-97ad-0bf6f4cbd6cb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
