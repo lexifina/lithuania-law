@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos visuomenės informavimo įstatymas Nr. I-1418 (suvestinė redakcija nuo 2025-07-01 iki 2026-05-15)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "71-1706",
+  "official_journal_page": null,
+  "official_journal_date": "1996-07-26",
+  "entry_into_force": "1996-07-26",
+  "notification_date": "2026-11-10",
+  "commission_reference": "MNE(2026)08114",
+  "nim_celex": "72024L1640LTU_202608114",
+  "nim_id": "202608114",
+  "transposes_celex": [
+    "32024L1640"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b9cbe040-8e55-4788-aebf-8dbc02f1d163",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-24",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
