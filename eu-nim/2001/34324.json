@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro ir Lietuvos Respublikos aplinkos ministro 2001 m. balandžio 19 d. įsakymas Nr. 134/217 „Dėl Lietuvos Respublikos orlaivių triukšmo ribojimo taisyklių patvirtinimo ir jų įgyvendinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "37",
+  "official_journal_page": null,
+  "official_journal_date": "2001-05-02",
+  "entry_into_force": "2001-05-03",
+  "notification_date": "2005-01-17",
+  "commission_reference": "MNE(2005)54324",
+  "nim_celex": "71983L0206LTU_34324",
+  "nim_id": "34324",
+  "transposes_celex": [
+    "31983L0206"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d8631423-06df-462a-bbb1-855d56ede83d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
