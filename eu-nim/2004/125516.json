@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2004 m. gegužės 14 d. įsakymas Nr. A1-128 \"Dėl profesinę kvalifikaciją patvirtinančių dokumentų pripažinimo koordinavimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "83",
+  "official_journal_page": null,
+  "official_journal_date": "2004-05-22",
+  "entry_into_force": "2004-05-23",
+  "notification_date": "2005-11-03",
+  "commission_reference": "MNE(2005)55516",
+  "nim_celex": "71992L0051LTU_125516",
+  "nim_id": "125516",
+  "transposes_celex": [
+    "31992L0051"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7b48d667-ae47-41b7-a190-ca14631a5a6d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
