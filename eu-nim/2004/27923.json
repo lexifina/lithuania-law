@@ -1,0 +1,31 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės nutarimas Nr. 520 \"Dėl Lietuvos Respublikos Vyriausybės 2002 m. birželio 12 d. nutarimo Nr. 861 \"Dėl Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo įgyvendinimo\" pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "69",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-30",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2004-05-25",
+  "commission_reference": "MNE(2004)57923",
+  "nim_celex": "71991L0680LTU_27923",
+  "nim_id": "27923",
+  "transposes_celex": [
+    "31991L0680",
+    "31992L0111",
+    "31994L0076",
+    "31995L0007",
+    "31996L0042",
+    "31996L0095",
+    "31999L0059",
+    "31999L0085",
+    "32000L0065",
+    "32001L0004"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/21d4738e-2e87-4272-8d09-27c1bda1eb14",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
