@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2004 m. birželio 23 d. įsakymas Nr. 3D-370 \"Dėl žemės ūkio ministro 2002 m. rugsėjo 20 d. įsakymo Nr. 356 \"Dėl Sausumos gyvūnų, žuvų ir kitų jūros gyvūnų produktų nustatymo bei įvertinimo pašaruose mikroskopinės analizės metodo techninio reglamento patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "100",
+  "official_journal_page": null,
+  "official_journal_date": "2004-06-29",
+  "entry_into_force": "2004-07-01",
+  "notification_date": "2004-07-16",
+  "commission_reference": "MNE(2004)59826",
+  "nim_celex": "72003L0126LTU_29826",
+  "nim_id": "29826",
+  "transposes_celex": [
+    "32003L0126"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f29f674d-127a-4432-a67f-7bfaeceb953c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
