@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 1998-02-02 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/68845e84b0e33eeaa1cbdea66de0c541b97230c8/konstituciniai-istatymai/TAR.73F76F9D2EF1.md) |
+| 2003-04-09 | 2011-11-11 | Įstatymas Nr. IX-1381 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/0b5fbcecec42f84827e0cfecfeace96167ef2c67/konstituciniai-istatymai/TAR.73F76F9D2EF1.md) |
