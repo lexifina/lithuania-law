@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 1998 m. liepos 9 d. nutarimas Nr. 851 „Dėl Lietuvos Respublikos teisingumo ministerijos nuostatų patvirtinimo“ (suvestinė redakcija)",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "63-1816",
+  "official_journal_page": null,
+  "official_journal_date": "1998-07-15",
+  "entry_into_force": "1998-07-16",
+  "notification_date": "2019-03-08",
+  "commission_reference": "MNE(2019)51457",
+  "nim_celex": "72014L0042LTU_270337",
+  "nim_id": "270337",
+  "transposes_celex": [
+    "32014L0042"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bcbfb3a7-5787-47b1-8e77-865fac7ac72e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
