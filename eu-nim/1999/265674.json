@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymas Nr. VIII-1190 (Suvestinė redakcija nuo 2018-09-01 iki 2018-12-31)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "50-1600",
+  "official_journal_page": null,
+  "official_journal_date": "1999-06-09",
+  "entry_into_force": "1999-06-09",
+  "notification_date": "2018-12-10",
+  "commission_reference": "MNE(2018)56481",
+  "nim_celex": "72013L0059LTU_265674",
+  "nim_id": "265674",
+  "transposes_celex": [
+    "32013L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2d532f7f-705e-4a52-8967-9f4ab2605a3b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
