@@ -1,0 +1,28 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS MOKESČIO UŽ APLINKOS TERŠIMĄ ĮSTATYMO PAKEITIMO ĮSTATYMAS Nr. IX-720 (nauja redakcija)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "13",
+  "official_journal_page": null,
+  "official_journal_date": "2002-02-06",
+  "entry_into_force": "2003-01-01",
+  "notification_date": "2004-01-08",
+  "commission_reference": "MNE(2003)50048",
+  "nim_celex": "71975L0442LTU_20048",
+  "nim_id": "20048",
+  "transposes_celex": [
+    "31975L0442",
+    "31978L0659",
+    "31991L0156",
+    "31991L0157",
+    "31994L0062",
+    "32000L0060",
+    "32004L0035"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9e832506-9607-42ba-9b6b-b2970cd06a5c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
