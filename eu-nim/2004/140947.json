@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos bankų įstatymas Nr. IX-2085",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "54",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-15",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2007-02-20",
+  "commission_reference": "MNE(2007)50905",
+  "nim_celex": "72005L0060LTU_140947",
+  "nim_id": "140947",
+  "transposes_celex": [
+    "32005L0060",
+    "32006L0049"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2b7bcbc0-8e3a-4f11-97b6-f2c47acc64d4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
