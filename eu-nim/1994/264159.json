@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos sistemos įstatymas Nr. I-552 (Suvestinė redakcija nuo 2018-01-01)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "63-1231",
+  "official_journal_page": null,
+  "official_journal_date": "1994-08-17",
+  "entry_into_force": "1994-08-17",
+  "notification_date": "2018-10-30",
+  "commission_reference": "MNE(2018)55606",
+  "nim_celex": "72017L0541LTU_264159",
+  "nim_id": "264159",
+  "transposes_celex": [
+    "32017L0541"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4fd21d81-aad5-4dfb-b407-26b35b48d16f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
