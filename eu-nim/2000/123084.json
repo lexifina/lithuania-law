@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS BAUDŽIAMOJO KODEKSO PATVIRTINIMO IR ĮSIGALIOJIMO ĮSTATYMAS NR.VIII-1968",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "89",
+  "official_journal_page": null,
+  "official_journal_date": "2000-10-25",
+  "entry_into_force": "2000-10-25",
+  "notification_date": "2005-08-02",
+  "commission_reference": "MNE(2005)53084",
+  "nim_celex": "72002L0073LTU_123084",
+  "nim_id": "123084",
+  "transposes_celex": [
+    "32002L0073"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e72a7db8-5545-4b3d-99b0-7b35ebf6a848",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
