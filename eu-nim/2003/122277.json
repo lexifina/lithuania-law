@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės nutarimas Nr. 1869 „Dėl Lietuvos Respublikos Vyriausybės 2000 m. gruodžio 15 d. nutarimo Nr. 1458 „Dėl valstybės rinkliavos objektų sąrašo, šios rinkliavos dydžių ir mokėjimo ir grąžinimo tvarkos patvirtinimo\" pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "115",
+  "official_journal_page": null,
+  "official_journal_date": "2002-12-04",
+  "entry_into_force": "2003-01-01",
+  "notification_date": "2005-06-30",
+  "commission_reference": "MNE(2005)52277",
+  "nim_celex": "71975L0034LTU_122277",
+  "nim_id": "122277",
+  "transposes_celex": [
+    "31975L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d05fb302-626d-4764-87d4-55989c5d82a8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
