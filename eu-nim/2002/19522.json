@@ -1,0 +1,26 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos statybos įstatymo pakeitimo įstatymas Nr.IX-583",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "101",
+  "official_journal_page": null,
+  "official_journal_date": "2001-11-30",
+  "entry_into_force": "2002-07-01",
+  "notification_date": "2003-10-24",
+  "commission_reference": "MNE(2003)59522",
+  "nim_celex": "71978L0170LTU_19522",
+  "nim_id": "19522",
+  "transposes_celex": [
+    "31978L0170",
+    "31989L0106",
+    "31998L0030",
+    "32006L0032",
+    "32010L0031"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8896c907-ce98-46af-b745-2433333c77b2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
