@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2003 m. rugsėjo 25 d. įsakymas Nr. 468 'Dėl sieros dioksido, azoto oksido, lakiųjų organinių junginių ir amoniako nacionalinių limitų patvirtinimo'",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "99",
+  "official_journal_page": null,
+  "official_journal_date": "2003-10-22",
+  "entry_into_force": "2003-10-23",
+  "notification_date": "2004-01-14",
+  "commission_reference": "MNE(2003)50239",
+  "nim_celex": "71996L0061LTU_20239",
+  "nim_id": "20239",
+  "transposes_celex": [
+    "31996L0061",
+    "32001L0081",
+    "32006L0105"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e9f4a0d7-ff11-4ca7-a480-aa2dbcccc837",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
