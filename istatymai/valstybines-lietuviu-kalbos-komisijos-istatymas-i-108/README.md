@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 1993-03-28 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/ab05a3dac6efc510bcb1525571e519344894b866/istatymai/TAR.33A63C3E9D4C.md) |
+| 1994-07-08 | 1995-01-26 | Įstatymas Nr. I-516 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/00c2840ec69c46ab32195c15e07b8f82d6a8541f/istatymai/TAR.33A63C3E9D4C.md) |
