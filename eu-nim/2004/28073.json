@@ -1,0 +1,27 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2004 m. vasario 23 d. nutarimas  Nr. 194 „Dėl Lietuvos Respublikos pagalbos Europos Sąjungos valstybių narių institucijoms išieškant reikalaujamas skolas, susijusias su rinkliavomis, muitais, mokesčiais ir kitomis pinigų sumomis, teikimo ir naudojimosi kitų Europos Sąjungos valstybių narių institucijų teikiama pagalba išieškant minėtas pinigų sumas įstatymo 3, 21 ir 22 straipsnių nuostatų įgyvendinimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "30",
+  "official_journal_page": null,
+  "official_journal_date": "2004-02-26",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2004-05-24",
+  "commission_reference": "MNE(2004)58073",
+  "nim_celex": "71976L0308LTU_28073",
+  "nim_id": "28073",
+  "transposes_celex": [
+    "31976L0308",
+    "31979L1071",
+    "31992L0012",
+    "31992L0108",
+    "32001L0044",
+    "32002L0094"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1b208850-51e8-4f60-93ff-8493531539df",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
