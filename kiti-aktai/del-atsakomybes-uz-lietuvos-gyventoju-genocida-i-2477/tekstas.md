@@ -1,3 +1,0 @@
-LIETUVOS RESPUBLIKOS
-Redagavo:
-Ramunė Lūžaitė (1998.09.02)
