@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių teisės pažeidimų kodekso pakeitimo ir papildymo įstatymas Nr. VIII-1543",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "22",
+  "official_journal_page": null,
+  "official_journal_date": "2000-03-15",
+  "entry_into_force": "2000-03-15",
+  "notification_date": "2015-12-30",
+  "commission_reference": "MNE(2015)59754",
+  "nim_celex": "71994L0033LTU_233219",
+  "nim_id": "233219",
+  "transposes_celex": [
+    "31994L0033"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4c5e46e9-bcfc-44c6-9c4a-f535d788fb4c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
