@@ -1,0 +1,25 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos asociacijų įstatymas Nr. IX-1969",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "25",
+  "official_journal_page": null,
+  "official_journal_date": "2004-02-14",
+  "entry_into_force": "2004-02-14",
+  "notification_date": "2006-01-26",
+  "commission_reference": "MNE(2006)50243",
+  "nim_celex": "72003L0109LTU_127327",
+  "nim_id": "127327",
+  "transposes_celex": [
+    "32003L0109",
+    "32004L0113",
+    "32006L0054",
+    "32010L0041"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c1e28e8f-f6a2-425a-9667-e6fc3749f746",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
