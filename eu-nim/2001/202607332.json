@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos nekilnojamojo turto kadastro įstatymas Nr. VIII-1764 (suvestinė redakcija nuo 2026-08-01 iki 2026-12-31)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "58-1704",
+  "official_journal_page": null,
+  "official_journal_date": "2000-07-19",
+  "entry_into_force": "2001-01-01",
+  "notification_date": "2026-09-18",
+  "commission_reference": "MNE(2026)07332",
+  "nim_celex": "72024L1275LTU_202607332",
+  "nim_id": "202607332",
+  "transposes_celex": [
+    "32024L1275"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3d91323c-4dba-4db5-ab24-7a7bc2685a1b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
