@@ -10,3 +10,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | --- | --- | --- | --- |
 | 1991-04-25 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/019ba7318a62ef913d10f2e82eae7808c0228b41/istatymai/TAR.4A9B29FE9E04.md) |
 | 1992-04-30 | 1993-03-10 | Įstatymas Nr. I-2523 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/721f5a4abc032b5ec10dc713db6065139973f948/istatymai/TAR.4A9B29FE9E04.md) |
+| 1993-03-11 | 1993-10-12 | Įstatymas Nr. I-73 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/e77ae3874fb6d8412fb8793ed796dec0aae55aba/istatymai/TAR.4A9B29FE9E04.md) |
