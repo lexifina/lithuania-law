@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2000 m. birželio 27 d. įsakymas Nr. 258 \"Dėl medžioklės Lietuvos Respublikos teritorijoje taisyklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "53",
+  "official_journal_page": null,
+  "official_journal_date": "2000-06-30",
+  "entry_into_force": "2000-07-01",
+  "notification_date": "2006-05-23",
+  "commission_reference": "MNE(2006)53377",
+  "nim_celex": "71979L0409LTU_131703",
+  "nim_id": "131703",
+  "transposes_celex": [
+    "31979L0409"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cc32bb0a-de4c-49e9-86f6-664a028ea3f1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
