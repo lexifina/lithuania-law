@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės metrologijos tarnybos prie Aplinkos ministerijos direktoriaus 2003 m. gruodžio 24 d. įsakymas Nr. V-159 \"Dėl Valstybinės metrologijos tarnybos viršininko 1999 m. gruodžio 20 d. įsakymo Nr. 225 patikslinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "13",
+  "official_journal_page": null,
+  "official_journal_date": "2004-01-24",
+  "entry_into_force": "2004-01-25",
+  "notification_date": "2005-10-25",
+  "commission_reference": "MNE(2005)55258",
+  "nim_celex": "71990L0384LTU_125258",
+  "nim_id": "125258",
+  "transposes_celex": [
+    "31990L0384"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7224329e-bd2c-48af-a968-4fde4cee310b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
