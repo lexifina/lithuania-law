@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymas Nr. IX-705 (Suvestinė redakcija nuo 2018-01-01)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "13-467",
+  "official_journal_page": null,
+  "official_journal_date": "2002-02-06",
+  "entry_into_force": "2003-07-01",
+  "notification_date": "2018-10-08",
+  "commission_reference": "MNE(2018)55408",
+  "nim_celex": "72017L0853LTU_263694",
+  "nim_id": "263694",
+  "transposes_celex": [
+    "32017L0853"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/979a2a48-e2c9-432b-8f59-01e9ba210fb1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
