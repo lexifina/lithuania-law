@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymas Nr. I-549 (galiojanti suvestinė redakcija nuo 2016-09-30)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "59",
+  "official_journal_page": null,
+  "official_journal_date": "1994-08-03",
+  "entry_into_force": "1995-01-01",
+  "notification_date": "2017-03-24",
+  "commission_reference": "MNE(2017)51780",
+  "nim_celex": "72014L0066LTU_246350",
+  "nim_id": "246350",
+  "transposes_celex": [
+    "32014L0066"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/69acaf2f-cc57-4cf4-ac74-d7d38caef2a5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
