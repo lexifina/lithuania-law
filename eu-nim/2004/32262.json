@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinio turizmo departamento prie Ūkio ministerijos direktoriaus 2004 m. gegužės 24 d. įsakymas Nr. V-37 \"Dėl Valstybinio turizmo departamento prie Ūkio ministerijos direktoriaus 2003 m. kovo 26 d. įsakymo Nr.18-V \"Dėl turizmo paslaugų teikimo sutarties standartinių sąlygų\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "87",
+  "official_journal_page": null,
+  "official_journal_date": "2004-06-01",
+  "entry_into_force": "2004-06-02",
+  "notification_date": "2004-11-02",
+  "commission_reference": "MNE(2004)52262",
+  "nim_celex": "71990L0314LTU_32262",
+  "nim_id": "32262",
+  "transposes_celex": [
+    "31990L0314"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b61e2e62-d688-4761-a6de-9e7da8093a27",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
