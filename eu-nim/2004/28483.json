@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės maisto ir veterinarijos tarnybos direktoriaus 2004 m. kovo 17 d. įsakymas Nr. B1-217",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "65",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-29",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2004-05-27",
+  "commission_reference": "MNE(2004)58483",
+  "nim_celex": "71989L0362LTU_28483",
+  "nim_id": "28483",
+  "transposes_celex": [
+    "31989L0362",
+    "31992L0046"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/473db93e-ff49-4335-85e0-735d70bf8c99",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
