@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO,\nLIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRO, LIETUVOS RESPUBLIKOS ŽEMĖS ŪKIO MINISTRO IR VALSTYBINĖS MAISTO IR VETERINARIJOS TARNYBOS DIREKTORIAUS 2004 M. SPALIO 11 D. ĮSAKYMAS NR. D1-530/V-698/3D-557/B1-886 \"DĖL APLINKOS MINISTRO, SVEIKATOS APSAUGOS MINISTRO, ŽEMĖS ŪKIO MINISTRO IR VALSTYBINĖS MAISTO IR VETERINARIJOS TARNYBOS DIREKTORIAUS 2002 M. GRUODŽIO 31 D. ĮSAKYMO NR. 681/689/525/753 „DĖL GENETIŠKAI MODIFIKUOTŲ ORGANIZMŲ IR GENETIŠKAI MODIFIKUOTŲ PRODUKTŲ RIZIKOS ŽMONIŲ BEI GYVŪNŲ SVEIKATAI, APLINKAI IR ŽEMĖS ŪKIUI VERTINIMO TVARKOS PATVIRTINIMO“ PAKEITIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "154",
+  "official_journal_page": null,
+  "official_journal_date": "2004-10-21",
+  "entry_into_force": "2004-10-22",
+  "notification_date": "2007-12-28",
+  "commission_reference": "MNE(2007)59235",
+  "nim_celex": "72001L0018LTU_152196",
+  "nim_id": "152196",
+  "transposes_celex": [
+    "32001L0018"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9a89931e-31e4-4bd7-87a0-6bb25b1a94ac",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
