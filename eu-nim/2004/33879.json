@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2004 m. gruodžio 10 d. įsakymas Nr. 1V-645 \"Dėl skirtųjų linijų paslaugų teikimo taisyklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "181",
+  "official_journal_page": null,
+  "official_journal_date": "2004-12-18",
+  "entry_into_force": "2004-12-19",
+  "notification_date": "2004-12-28",
+  "commission_reference": "MNE(2004)53879",
+  "nim_celex": "72002L0022LTU_33879",
+  "nim_id": "33879",
+  "transposes_celex": [
+    "32002L0022"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f1c01ad9-c028-46b1-afab-66f4b8a0d6ee",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
