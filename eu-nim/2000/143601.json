@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS ĮSTATYMAS DĖL 1992 METŲ TARPTAUTINĖS KONVENCIJOS DĖL CIVILINĖS ATSAKOMYBĖS UŽ TARŠOS NAFTA PADARYTĄ ŽALĄ IR 1992 METŲ TARPTAUTINĖS KONVENCIJOS DĖL TARPTAUTINIO TARŠOS NAFTA PADARYTOS ŽALOS KOMPENSAVIMO FONDO ĮKŪRIMO RATIFIKAVIMO  NR. VIII-1624",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "43",
+  "official_journal_page": null,
+  "official_journal_date": "2000-05-26",
+  "entry_into_force": "2000-05-26",
+  "notification_date": "2007-04-04",
+  "commission_reference": "MNE(2007)52940",
+  "nim_celex": "72004L0035LTU_143601",
+  "nim_id": "143601",
+  "transposes_celex": [
+    "32004L0035"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f5afeeb0-f907-4a37-946d-b98ed9b3f00c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
