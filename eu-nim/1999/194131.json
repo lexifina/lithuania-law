@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 1999 m. lapkričio 19 d. nutarimas Nr. 1286 \"Dėl Lietuvos Respublikos Vyriausybės 1997 m. spalio 28 d. nutarimo Nr. 1191 „Dėl valstybinio savanoriškojo socialinio draudimo ligos, nėštumo ir gimdymo pašalpoms taisyklių patvirtinimo\" dalinio pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "99",
+  "official_journal_page": null,
+  "official_journal_date": "1999-11-24",
+  "entry_into_force": "1999-11-25",
+  "notification_date": "2012-07-24",
+  "commission_reference": "MNE(2012)53457",
+  "nim_celex": "72010L0041LTU_194131",
+  "nim_id": "194131",
+  "transposes_celex": [
+    "32010L0041"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a5efced3-e1be-437f-8134-f2060ed0f186",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
