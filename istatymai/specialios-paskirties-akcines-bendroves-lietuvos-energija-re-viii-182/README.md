@@ -11,3 +11,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 1997-04-18 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/9b719b8c0f7a262284e9dbb65be2233369f4efb9/istatymai/TAR.CEA1026F3BBB.md) |
 | 1998-07-02 |  | Teisės aktų registras (Seimo kanceliarija) | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22TAIS_60236%22) |
 | 1998-11-17 |  | Teisės aktų registras (Seimo kanceliarija) | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22TAIS_67949%22) |
+| 1999-10-19 |  | Teisės aktų registras (Seimo kanceliarija) | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22TAIS_88951%22) |
