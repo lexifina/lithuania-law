@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos civilinės saugos įstatymas Nr. VIII-971 (Suvestinė redakcija nuo 2017-11-01)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "115-3230",
+  "official_journal_page": null,
+  "official_journal_date": "1998-12-31",
+  "entry_into_force": "1998-12-31",
+  "notification_date": "2018-10-30",
+  "commission_reference": "MNE(2018)55605",
+  "nim_celex": "72017L0541LTU_264158",
+  "nim_id": "264158",
+  "transposes_celex": [
+    "32017L0541"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6b7b270c-5447-4bd3-8612-cc8a8426c9a0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
