@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Finansinių nusikaltimų tyrimų tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos direktoriaus 2005 m. sausio 26 d.  įsakymas Nr. 17 V \"Dėl finansinės nuomos (lizingo) davėjams skirtų nurodymų, kuriais siekiama užkirsti kelią pinigų plovimui, patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "15",
+  "official_journal_page": null,
+  "official_journal_date": "2005-02-01",
+  "entry_into_force": "2005-02-02",
+  "notification_date": "2006-02-08",
+  "commission_reference": "MNE(2006)50865",
+  "nim_celex": "71991L0308LTU_128189",
+  "nim_id": "128189",
+  "transposes_celex": [
+    "31991L0308"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b9b69e51-ab43-4d31-a0f8-be63fa988f3c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
