@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Sveikatos apsaugos ministro 2001 m. gruodžio 29 d. įsakymas Nr. 679 Dėl Lietuvos medicinos normos MN 102:2001 „In vitro diagnostikos medicinos prietaisų saugos techninis reglamentas“ patvirtinimo ir  dėl sveikatos apsaugos ministro 2001m. kovo 15d. įsakymo Nr. 176 dėl pereinamojo laikotarpio medicinos prietaisų aprobavimo tvarkos patvirtinimo“ keitimo",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "9",
+  "official_journal_page": null,
+  "official_journal_date": "2002-01-26",
+  "entry_into_force": "2002-01-01",
+  "notification_date": "2004-01-19",
+  "commission_reference": "MNE(2003)50541",
+  "nim_celex": "71998L0079LTU_20541",
+  "nim_id": "20541",
+  "transposes_celex": [
+    "31998L0079",
+    "32011L0024",
+    "32011L0065"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b87b192e-77ba-4e8a-b53f-683f8c40341f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
