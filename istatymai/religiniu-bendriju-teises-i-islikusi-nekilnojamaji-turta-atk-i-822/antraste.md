@@ -1,0 +1,10 @@
+LIETUVOS RESPUBLIKOS
+Įstatymas skelbtas: Žin.,
+1995, Nr. 27-600
+Neoficialus įstatymo tekstas
+LIETUVOS RESPUBLIKOS
+RELIGINIŲ BENDRIJŲ TEISĖS Į IŠLIKUSĮ
+NEKILNOJAMĄJĮ TURTĄ ATKŪRIMO TVARKOS
+ĮSTATYMAS
+1995 m. kovo 21 d. Nr. I-822
+Vilnius
