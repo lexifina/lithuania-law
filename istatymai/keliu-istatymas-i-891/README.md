@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 1995-05-26 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/348712e2e9e1289c6f6e6419e03f9c9d84872550/istatymai/TAR.BF41D2C35D24.md) |
+| 1997-10-24 | 2002-10-22 | Įstatymas Nr. VIII-426 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/ab1708f6c1c6e806a883c3d75f43fc6b7d22d097/istatymai/TAR.BF41D2C35D24.md) |
