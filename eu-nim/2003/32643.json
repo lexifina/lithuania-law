@@ -1,0 +1,33 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas Nr. IX-743",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "36",
+  "official_journal_page": null,
+  "official_journal_date": "2002-04-06",
+  "entry_into_force": "2003-01-01",
+  "notification_date": "2004-11-14",
+  "commission_reference": "MNE(2004)52643",
+  "nim_celex": "71989L0665LTU_32643",
+  "nim_id": "32643",
+  "transposes_celex": [
+    "31989L0665",
+    "31992L0013",
+    "31996L0061",
+    "32004L0113",
+    "32007L0066",
+    "32008F0977",
+    "32009L0022",
+    "32009L0052",
+    "32009L0101",
+    "32010L0041",
+    "32011L0007",
+    "32014L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e25bb458-303c-4d1b-b611-6be12afdfbce",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
