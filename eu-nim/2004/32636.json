@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2004 m. spalio 12 d. įsakymas Nr. V-706 ,,Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2003 m. gruodžio 31 d. įsakymo Nr. V-788 ,,Dėl mėginių ėmimo ir analizės metodų teršalų koncentracijoms maisto produktuose nustatyti patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "153",
+  "official_journal_page": null,
+  "official_journal_date": "2004-10-19",
+  "entry_into_force": "2004-10-20",
+  "notification_date": "2004-11-14",
+  "commission_reference": "MNE(2004)52636",
+  "nim_celex": "72003L0121LTU_32636",
+  "nim_id": "32636",
+  "transposes_celex": [
+    "32003L0121"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2050b9cc-8c53-4bcd-9563-1d536e968ba0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
