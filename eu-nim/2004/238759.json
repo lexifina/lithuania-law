@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Lietuvos banko įstatymo 1, 3, 6, 7, 10, 11, 12, 14, 16, 17, 18, 19, 20, 21, 23, 24, 37, 49, 50 straipsnių pakeitimo ir papildymo, įstatymo papildymo 18(1), 46(1) , 54(1) straipsniais, trečiojo skirsnio pavadinimo pakeitimo ir įstatymo papildymo priedu įstatymas Nr. IX-1998",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "28",
+  "official_journal_page": null,
+  "official_journal_date": "2004-02-21",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2016-06-22",
+  "commission_reference": "MNE(2016)54304",
+  "nim_celex": "72014L0062LTU_238759",
+  "nim_id": "238759",
+  "transposes_celex": [
+    "32014L0062"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7298c443-9331-41a3-b10d-5a99c682d62b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
