@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Konstitucija (suvestinė redakcija nuo 2019-09-01)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "220-0",
+  "official_journal_page": null,
+  "official_journal_date": "1992-11-09",
+  "entry_into_force": "1992-11-01",
+  "notification_date": "2021-02-01",
+  "commission_reference": "MNE(2021)00323",
+  "nim_celex": "72016L0798LTU_202100323",
+  "nim_id": "202100323",
+  "transposes_celex": [
+    "32016L0798",
+    "32019L1937"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7f13e43e-567f-44d2-bd34-d83d9d565bf4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
