@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2004 m. gegužės 28 d. įsakymas Nr. 3-317 „Dėl Lietuvos Respublikos geležinkelių infrastruktūros registro įsteigimo ir jo nuostatų patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "90",
+  "official_journal_page": null,
+  "official_journal_date": "2004-06-08",
+  "entry_into_force": "2004-06-09",
+  "notification_date": "2004-06-18",
+  "commission_reference": "MNE(2004)59178",
+  "nim_celex": "72001L0016LTU_29178",
+  "nim_id": "29178",
+  "transposes_celex": [
+    "32001L0016"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8e38c664-cf5a-40fd-b31e-4d1042272672",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
