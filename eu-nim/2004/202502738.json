@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos ir Europos policijos biuro bendradarbiavimo susitarimo ratifikavimo Nr. IX-1959",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "19-578",
+  "official_journal_page": null,
+  "official_journal_date": "2004-02-05",
+  "entry_into_force": "2004-02-05",
+  "notification_date": "2025-05-19",
+  "commission_reference": "MNE(2025)02738",
+  "nim_celex": "72024L1226LTU_202502738",
+  "nim_id": "202502738",
+  "transposes_celex": [
+    "32024L1226"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/29d9e921-1c0f-4876-8f5e-2782dd425109",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
