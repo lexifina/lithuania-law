@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro 2002 m. birželio 10 d. įsakymas Nr. 294 „Dėl Užsieniečių prašymų išduoti leidimą laikinai apsigyventi Lietuvos Respublikoje pateikimo, nagrinėjimo, sprendimų priėmimo ir leidimo laikinai apsigyventi Lietuvos Respublikoje įforminimo taisyklių patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "78",
+  "official_journal_page": null,
+  "official_journal_date": "2002-08-07",
+  "entry_into_force": "2002-08-08",
+  "notification_date": "2005-07-01",
+  "commission_reference": "MNE(2005)52273",
+  "nim_celex": "71964L0221LTU_122273",
+  "nim_id": "122273",
+  "transposes_celex": [
+    "31964L0221",
+    "32003L0086"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/14e76648-3cb2-4785-ac61-497ec1a4f493",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
