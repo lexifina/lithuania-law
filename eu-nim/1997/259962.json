@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos įstatymas dėl 1992 m. Helsinkio konvencijos dėl Baltijos jūros baseino jūrinės aplinkos apsaugos ratifikavimo Nr. VIII-139",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "21-494",
+  "official_journal_page": null,
+  "official_journal_date": "1997-03-12",
+  "entry_into_force": "1997-03-12",
+  "notification_date": "2018-06-29",
+  "commission_reference": "MNE(2018)53336",
+  "nim_celex": "72016L2284LTU_259962",
+  "nim_id": "259962",
+  "transposes_celex": [
+    "32016L2284"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/173cb074-6766-4ae3-93f4-2d6f3f897a09",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
