@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos nutarimas Nr. 84 „Dėl Lietuvos banko valdybos 2002 m. liepos 4 d. nutarimo Nr. 91 „Dėl maksimalios paskolos sumos vienam skolininkui ir didelių paskolų normatyvų“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "86",
+  "official_journal_page": null,
+  "official_journal_date": "2004-05-28",
+  "entry_into_force": "2004-05-29",
+  "notification_date": "2004-06-16",
+  "commission_reference": "MNE(2004)58866",
+  "nim_celex": "72003L0051LTU_28866",
+  "nim_id": "28866",
+  "transposes_celex": [
+    "32003L0051"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/35c1ccea-34ff-4e78-8c38-cb5f2fd0eccc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
