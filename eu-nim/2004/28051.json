@@ -1,0 +1,27 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LR Pašarų įstatymo pakeitimo įstatymas Nr. IX-2210 (nauja redakcija)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "73",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-30",
+  "entry_into_force": "2004-04-30",
+  "notification_date": "2004-05-24",
+  "commission_reference": "MNE(2004)58051",
+  "nim_celex": "71970L0373LTU_28051",
+  "nim_id": "28051",
+  "transposes_celex": [
+    "31970L0373",
+    "31970L0524",
+    "31979L0373",
+    "31995L0053",
+    "31995L0069",
+    "31996L0025"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/898a0433-197f-4618-9a68-cede590920bf",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
