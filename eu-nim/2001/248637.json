@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2001 m. birželio 19 d. nutarimo Nr. 740 „Dėl azartinių lošimų licencijavimo taisyklių patvirtinimo“ pakeitimo“ (Suvestinė redakcija nuo 2012-03-01)",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "53",
+  "official_journal_page": null,
+  "official_journal_date": "2001-06-22",
+  "entry_into_force": "2001-07-01",
+  "notification_date": "2017-09-06",
+  "commission_reference": "MNE(2017)53451",
+  "nim_celex": "72015L0849LTU_248637",
+  "nim_id": "248637",
+  "transposes_celex": [
+    "32015L0849"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4af322bf-dc7e-435a-9b34-e387b1a4e2d7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
