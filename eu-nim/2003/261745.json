@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymas Nr. IX-575",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "99-3516",
+  "official_journal_page": null,
+  "official_journal_date": "2001-11-28",
+  "entry_into_force": "2003-01-01",
+  "notification_date": "2018-08-06",
+  "commission_reference": "MNE(2018)54260",
+  "nim_celex": "72005L0081LTU_261745",
+  "nim_id": "261745",
+  "transposes_celex": [
+    "32005L0081"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/636799d5-46c5-43d9-82e0-2fce80fd9f15",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
