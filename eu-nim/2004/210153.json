@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2004 m. rugsėjo 30 d. įsakymas Nr.V-694 \"Dėl odontologinės priežiūros (pagalbos) įstaigų licencijavimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "150",
+  "official_journal_page": null,
+  "official_journal_date": "2004-10-12",
+  "entry_into_force": "2004-10-13",
+  "notification_date": "2013-10-30",
+  "commission_reference": "MNE(2013)58627",
+  "nim_celex": "72011L0024LTU_210153",
+  "nim_id": "210153",
+  "transposes_celex": [
+    "32011L0024"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4d0a31e5-98f2-4aa9-b261-c71cac676f22",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
