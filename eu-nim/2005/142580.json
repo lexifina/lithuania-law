@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2005 m. vasario 17 d. nutarimas Nr. 185 \"Dėl Lietuvos Respublikos Vyriausybės 2003 m. lapkričio 12 d. nutarimo Nr. 1407 \"Dėl Juridinių asmenų registro įsteigimo ir Juridinių asmenų registro nuostatų patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "25",
+  "official_journal_page": null,
+  "official_journal_date": "2005-02-22",
+  "entry_into_force": "2005-02-23",
+  "notification_date": "2007-03-09",
+  "commission_reference": "MNE(2007)52167",
+  "nim_celex": "72003L0058LTU_142580",
+  "nim_id": "142580",
+  "transposes_celex": [
+    "32003L0058",
+    "32005L0056",
+    "32009L0101"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0c778f72-fd4f-4793-b7a6-daa7a65756b5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
