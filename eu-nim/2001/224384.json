@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2001 m. liepos 25 d. įsakymas Nr. 408 „Dėl sveikatos apsaugos ministro 2000 m. sausio 6 d. įsakymo Nr. 5 „Dėl narkotinių ir psichotropinių medžiagų sąrašų patvirtinimo“ dalinio pakeitimo ir papildymo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "66",
+  "official_journal_page": null,
+  "official_journal_date": "2001-08-01",
+  "entry_into_force": "2001-08-01",
+  "notification_date": "2015-03-09",
+  "commission_reference": "MNE(2015)51540",
+  "nim_celex": "72005D0387LTU_224384",
+  "nim_id": "224384",
+  "transposes_celex": [
+    "32005D0387"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d654ed47-6321-11e7-b2f2-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
