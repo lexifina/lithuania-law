@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO,\nMUITINĖS DEPARTAMENTO PRIE FINANSŲ MINISTERIJOS GENERALINIO DIREKTORIAUS\nIR VALSTYBINĖS MAISTO IR VETERINARIJOS TARNYBOS DIREKTORIAUS 2004 M. GEGUŽĖS 18 D. ĮSAKYMAS NR. D1-274/1B-532/B1-507 'DĖL LIETUVOS RESPUBLIKOS APLINKOS MINISTRO, MUITINĖS DEPARTAMENTO PRIE FINANSŲ MINISTERIJOS DIREKTORIAUS IR VALSTYBINĖS MAISTO IR VETERINARIJOS TARNYBOS DIREKTORIAUS 2002 M. GRUODŽIO 21 D. ĮSAKYMO NR. 658/831/743 „DĖL PREKYBOS LAUKINIAIS GYVŪNAIS TAISYKLIŲ PATVIRTINIMO“ PAKEITIMO'",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "85",
+  "official_journal_page": null,
+  "official_journal_date": "2004-05-26",
+  "entry_into_force": "2004-05-27",
+  "notification_date": "2005-10-04",
+  "commission_reference": "MNE(2005)54522",
+  "nim_celex": "71979L0409LTU_124522",
+  "nim_id": "124522",
+  "transposes_celex": [
+    "31979L0409",
+    "32006L0105"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a6000765-ffc3-4df3-9011-3edb333cb41f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
