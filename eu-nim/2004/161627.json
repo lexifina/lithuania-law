@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO IR LIETUVOS RESPUBLIKOS ŪKIO MINISTRO 2004 M. GEGUŽĖS 19 D. ĮSAKYMAS NR. D1-279/4-193 \"DĖL JUNGTINIŲ TAUTŲ BENDROSIOS KLIMATO KAITOS KONVENCIJOS KIOTO PROTOKOLO BENDRO ĮGYVENDINIMO MECHANIZMO ĮGYVENDINIMO STRATEGINIŲ KRYPČIŲ PATVIRTINIMO BEI TARPINSTITUCINIO FUNKCIJŲ PASISKIRSTYMO ĮGYVENDINANT ŠĮ MECHANIZMĄ\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "86",
+  "official_journal_page": null,
+  "official_journal_date": "2004-05-28",
+  "entry_into_force": "2004-05-29",
+  "notification_date": "2009-04-27",
+  "commission_reference": "MNE(2009)51761",
+  "nim_celex": "72004L0101LTU_161627",
+  "nim_id": "161627",
+  "transposes_celex": [
+    "32004L0101"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f4d22ef0-ee98-4db3-84f5-e328b6aeab2c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
