@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO\nIR LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRO 2000 M. SPALIO 30 D. ĮSAKYMAS NR. 470/581 \"DĖL ZONŲ IR AGLOMERACIJŲ APLINKOS ORO KOKYBEI VERTINTI BEI VALDYTI SĄRAŠO PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "100",
+  "official_journal_page": null,
+  "official_journal_date": "2000-11-22",
+  "entry_into_force": "2000-11-23",
+  "notification_date": "2005-10-04",
+  "commission_reference": "MNE(2005)54244",
+  "nim_celex": "71996L0062LTU_124244",
+  "nim_id": "124244",
+  "transposes_celex": [
+    "31996L0062"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/080339d1-3d08-4d67-87c9-76c301c05611",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
