@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 1995 m. gruodžio 29 d. nutarimas Nr. 1640 „Dėl Lietuvos Respublikos Vyriausybės 1992 m. gegužės 12 d. nutarimo Nr. 343 „Dėl Specialiųjų žemės ir miško naudojimo sąlygų patvirtinimo“ dalinio pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "2",
+  "official_journal_page": null,
+  "official_journal_date": "1996-01-10",
+  "entry_into_force": "1996-01-11",
+  "notification_date": "2012-06-21",
+  "commission_reference": "MNE(2012)52557",
+  "nim_celex": "72009L0128LTU_191153",
+  "nim_id": "191153",
+  "transposes_celex": [
+    "32009L0128"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b90f743f-5010-428c-983e-6692f4a84fd4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
