@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS APSAUGOS RĖMIMO PROGRAMOS ĮSTATYMAS NR. VIII-2025",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "92",
+  "official_journal_page": null,
+  "official_journal_date": "2000-10-31",
+  "entry_into_force": "2001-01-01",
+  "notification_date": "2006-08-11",
+  "commission_reference": "MNE(2006)55135",
+  "nim_celex": "71979L0409LTU_134168",
+  "nim_id": "134168",
+  "transposes_celex": [
+    "31979L0409",
+    "32004L0035"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6c82dd30-376f-4570-8390-6506e8964a45",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
