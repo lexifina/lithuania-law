@@ -11,3 +11,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 1995-05-24 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/5380349eb363a5910e0250113cbccf2f9dea7707/istatymai/TAR.F617B8D97E05.md) |
 | 1997-12-19 | 2001-06-30 | Aktas Nr. VIII-554 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/7af833b09f6a75e07c81887794e3b5d683a4eea1/istatymai/TAR.F617B8D97E05.md) |
 | 2001-07-01 | 2003-04-30 | Aktas Nr. IX-355 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/5030aac142bf370c374afc3f7355deece5a12610/istatymai/TAR.F617B8D97E05.md) |
+| 2003-05-01 | 2006-09-30 | Aktas Nr. IX-1464 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/8fd8cf914c042b7f327f3d5e79f2e88db5acd36f/istatymai/TAR.F617B8D97E05.md) |
