@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos gydytojo medicinos praktikos įstatymo pakeitimo įstatymas Nr. IX-2148 (nauja redakcija)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "68",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-29",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2004-05-26",
+  "commission_reference": "MNE(2004)57980",
+  "nim_celex": "72001L0019LTU_27980",
+  "nim_id": "27980",
+  "transposes_celex": [
+    "32001L0019"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0b15c689-f2c4-4da0-b370-4cd79694e94e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
