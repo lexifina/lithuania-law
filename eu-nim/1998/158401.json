@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių teisės pažeidimų kodekso papildymo 41(5) straipsniu ir 224, 233, 259(1) straipsnių papildymo įstatymas Nr. VIII-678",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "33",
+  "official_journal_page": null,
+  "official_journal_date": "1998-04-08",
+  "entry_into_force": "1998-04-08",
+  "notification_date": "2008-10-03",
+  "commission_reference": "MNE(2008)55441",
+  "nim_celex": "72005L0047LTU_158401",
+  "nim_id": "158401",
+  "transposes_celex": [
+    "32005L0047"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3780ae63-6836-44ce-8b1f-ffd5c7dca380",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
