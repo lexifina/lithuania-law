@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos draudimo priežiūros komisijos 2004 m. spalio 1 d. nutarimas Nr. N-117 „Dėl metodikos draudimo techninių atidėjinių dydžiams apskaičiuoti patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "150",
+  "official_journal_page": null,
+  "official_journal_date": "2004-10-12",
+  "entry_into_force": "2004-11-01",
+  "notification_date": "2007-01-03",
+  "commission_reference": "MNE(2007)50038",
+  "nim_celex": "71973L0239LTU_139797",
+  "nim_id": "139797",
+  "transposes_celex": [
+    "31973L0239"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a1133436-5cd6-42af-bb59-2733c3feb244",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
