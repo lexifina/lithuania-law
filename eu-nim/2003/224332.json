@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos generalinio prokuroro 2003 m. balandžio 7 d. įsakymas Nr. I-41 \"Dėl Lietuvos prokuratūros atstovo Europos Sąjungos institucijoje Eurojust\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Administracinės priemonės",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2003-04-07",
+  "entry_into_force": "2003-04-08",
+  "notification_date": "2015-03-16",
+  "commission_reference": "MNE(2015)51489",
+  "nim_celex": "72002D0187LTU_224332",
+  "nim_id": "224332",
+  "transposes_celex": [
+    "32002D0187"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5f37db55-1d22-4f57-9ed1-40f091e1f531",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
