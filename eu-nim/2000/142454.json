@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS AUKŠTOJO MOKSLO ĮSTATYMAS NR. VIII-1586",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "27",
+  "official_journal_page": null,
+  "official_journal_date": "2000-03-31",
+  "entry_into_force": "2000-09-01",
+  "notification_date": "2007-03-06",
+  "commission_reference": "MNE(2007)52068",
+  "nim_celex": "72004L0114LTU_142454",
+  "nim_id": "142454",
+  "transposes_celex": [
+    "32004L0114"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1b9ea708-2e29-4fd5-861e-70817c340497",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
