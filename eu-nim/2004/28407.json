@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos koncesijų įstatymo 1, 2, 3 straipsnių pakeitimo ir papildymo, III skyriaus papildymo šeštuoju skirsniu ir Įstatymo papildymo priedu įstatymas Nr. IX-2200",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "73",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-30",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2004-06-08",
+  "commission_reference": "MNE(2004)58407",
+  "nim_celex": "71997L0052LTU_28407",
+  "nim_id": "28407",
+  "transposes_celex": [
+    "31997L0052"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b4f89c99-50d5-45b2-905e-d4815c3a3239",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
