@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2004 m. gruodžio 9 d. įsakymas Nr. V-895 \"Dėl Lietuvos higienos normos HN 105:2004 \"Polimeriniai statybos produktai ir polimerinės baldinės medžiagos\" patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "182",
+  "official_journal_page": null,
+  "official_journal_date": "2004-12-21",
+  "entry_into_force": "2005-02-01",
+  "notification_date": "2005-01-07",
+  "commission_reference": "MNE(2005)54030",
+  "nim_celex": "71989L0106LTU_34030",
+  "nim_id": "34030",
+  "transposes_celex": [
+    "31989L0106"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5a7d4d6c-d0d5-4f83-84e0-66066ed73830",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
