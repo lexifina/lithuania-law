@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos turizmo įstatymo 2 ir 6 straipsnių pakeitimo įstatymas Nr.IX-2476",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "156",
+  "official_journal_page": null,
+  "official_journal_date": "2004-10-26",
+  "entry_into_force": "2004-10-26",
+  "notification_date": "2004-11-02",
+  "commission_reference": "MNE(2004)52261",
+  "nim_celex": "71990L0314LTU_32261",
+  "nim_id": "32261",
+  "transposes_celex": [
+    "31990L0314"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/064d114f-473c-4625-adb8-ee2ad8b99204",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
