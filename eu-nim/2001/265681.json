@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos biomedicininių tyrimų etikos įstatymas Nr. XII-1938 (Suvestinė redakcija nuo 2016-01-01 iki 2018-12-31)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "44-1247",
+  "official_journal_page": null,
+  "official_journal_date": "2000-05-31",
+  "entry_into_force": "2001-01-01",
+  "notification_date": "2018-12-10",
+  "commission_reference": "MNE(2018)56488",
+  "nim_celex": "72013L0059LTU_265681",
+  "nim_id": "265681",
+  "transposes_celex": [
+    "32013L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8f029cd8-e38b-45f1-85e8-1e6ebc7feb8f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
