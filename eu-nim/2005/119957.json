@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2005 m. kovo 21 d. įsakymas Nr. D1-159 \"Dėl Aplinkos ministro 2002 m. gruodžio 31 d. įsakymo Nr. 698 \"Dėl Alyvų atliekų tvarkymo taisyklių patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "39",
+  "official_journal_page": null,
+  "official_journal_date": "2005-03-26",
+  "entry_into_force": "2005-03-27",
+  "notification_date": "2005-04-04",
+  "commission_reference": "MNE(2005)59957",
+  "nim_celex": "71987L0101LTU_119957",
+  "nim_id": "119957",
+  "transposes_celex": [
+    "31987L0101"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4a180975-2217-494a-944d-d7ae023bb13a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
