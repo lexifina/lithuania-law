@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos įmonių grupių konsoliduotosios atskaitomybės įstatymas Nr. IX-576 (suvestinė redakcija nuo 2022-05-01)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "99-3517/2001",
+  "official_journal_page": null,
+  "official_journal_date": "2001-11-28",
+  "entry_into_force": "2004-01-01",
+  "notification_date": "2023-06-19",
+  "commission_reference": "MNE(2023)03532",
+  "nim_celex": "72021L2101LTU_202303532",
+  "nim_id": "202303532",
+  "transposes_celex": [
+    "32021L2101"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8246e21e-13f6-11ee-806b-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
