@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 1999 m. gegužės 24 d. įsakymas Nr. 248 „Dėl dirbtinio apvaisinimo tvarkos patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "47",
+  "official_journal_page": null,
+  "official_journal_date": "1999-05-28",
+  "entry_into_force": "1999-05-29",
+  "notification_date": "2007-12-21",
+  "commission_reference": "MNE(2007)59165",
+  "nim_celex": "72006L0086LTU_152077",
+  "nim_id": "152077",
+  "transposes_celex": [
+    "32006L0086"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/638f002c-ce65-43e8-82fb-371249625c4b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
