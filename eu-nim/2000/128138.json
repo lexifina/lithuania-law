@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo 2, 8, 9, 10, 11, 15, 17, 19, 20, 21, 22, 23, 24, 25, 26, 28 straipsnių pakeitimo ĮSTATYMAS Nr. VIII-1998",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "92",
+  "official_journal_page": null,
+  "official_journal_date": "2000-10-31",
+  "entry_into_force": "2000-11-01",
+  "notification_date": "2006-02-08",
+  "commission_reference": "MNE(2006)50833",
+  "nim_celex": "72004L0082LTU_128138",
+  "nim_id": "128138",
+  "transposes_celex": [
+    "32004L0082"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e8c0812c-3ac6-4e66-b151-7483611c7863",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
