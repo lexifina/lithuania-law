@@ -1,0 +1,25 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2004 m. sausio 23 d. įsakymas Nr. D1-40 „Dėl Lietuvos Respublikos aplinkos ministro 2003 m. vasario 25 d. įsakymo Nr. 97 „Dėl projekto konkurso organizavimo taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "18",
+  "official_journal_page": null,
+  "official_journal_date": "2004-02-03",
+  "entry_into_force": "2004-02-04",
+  "notification_date": "2004-11-13",
+  "commission_reference": "MNE(2004)52600",
+  "nim_celex": "71992L0050LTU_32600",
+  "nim_id": "32600",
+  "transposes_celex": [
+    "31992L0050",
+    "31993L0038",
+    "31997L0052",
+    "31998L0004"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3ac60225-4f27-452c-9b3f-4bb6b9d51146",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
