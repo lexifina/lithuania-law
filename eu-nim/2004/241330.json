@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos tabako kontrolės įstatymo pakeitimo ir Lietuvos Respublikos tabako kontrolės įstatymo įgyvendinimo įstatymo pripažinimo netekusiu galios įstatymas Nr. IX-1840",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "117",
+  "official_journal_page": null,
+  "official_journal_date": "2003-12-17",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2016-11-23",
+  "commission_reference": "MNE(2016)56276",
+  "nim_celex": "72014L0040LTU_241330",
+  "nim_id": "241330",
+  "transposes_celex": [
+    "32014L0040"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2b6bf8a8-4568-450f-ad93-83b50dacaf6d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
