@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2004 m. balandžio 29 d. įsakymas Nr. D1-231 „Dėl Šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų skyrimo ir prekybos jais tvarkos aprašo patvirtinimo“ (Suvestinė redakcija nuo 2019-12-05)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "78-2764",
+  "official_journal_page": null,
+  "official_journal_date": "2004-05-11",
+  "entry_into_force": "2004-05-12",
+  "notification_date": "2020-01-13",
+  "commission_reference": "MNE(2020)50313",
+  "nim_celex": "72018L0410LTU_280123",
+  "nim_id": "280123",
+  "transposes_celex": [
+    "32018L0410"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/71a0bb7b-391f-11ea-ba6e-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
