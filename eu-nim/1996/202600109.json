@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos kelių transporto kodeksas Nr. I-1628 (Suvestinė redakcija nuo 2020-07-01 iki 2022-07-31)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "119-2772",
+  "official_journal_page": null,
+  "official_journal_date": "1996-12-11",
+  "entry_into_force": "1996-12-11",
+  "notification_date": "2026-01-08",
+  "commission_reference": "MNE(2026)00109",
+  "nim_celex": "72022L0362LTU_202600109",
+  "nim_id": "202600109",
+  "transposes_celex": [
+    "32022L0362"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e9371db9-a18f-466d-9c96-efec04d69782",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
