@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2002 m. rugsėjo 23 d. įsakymas Nr. 365 „Dėl Privalomųjų rinkai tiekiamos daržovių dauginamosios ir sodinamosios medžiagos, išskyrus sėklą, reikalavimų aprašo patvirtinimo“ (Suvestinė redakcija nuo 2017-05-03)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "95-4131",
+  "official_journal_page": null,
+  "official_journal_date": "2002-10-02",
+  "entry_into_force": "2002-10-03",
+  "notification_date": "2020-05-29",
+  "commission_reference": "MNE(2020)53926",
+  "nim_celex": "72020L0177LTU_284454",
+  "nim_id": "284454",
+  "transposes_celex": [
+    "32020L0177"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/aae8b7d4-a703-11ea-bb7a-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
