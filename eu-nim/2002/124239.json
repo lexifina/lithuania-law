@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2002 M. BALANDŽIO 8 D. ĮSAKYMAS NR. 160 \"DĖL VALSTYBINIO APLINKOS MONITORINGO NUOSTATŲ PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "40",
+  "official_journal_page": null,
+  "official_journal_date": "2002-04-17",
+  "entry_into_force": "2002-04-18",
+  "notification_date": "2005-10-04",
+  "commission_reference": "MNE(2005)54239",
+  "nim_celex": "71996L0062LTU_124239",
+  "nim_id": "124239",
+  "transposes_celex": [
+    "31996L0062"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/acbe103c-1083-4a54-bb63-32d642cd3fa3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
