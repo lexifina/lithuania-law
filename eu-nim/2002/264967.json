@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2002 m. gegužės 30 d. įsakymas Nr. 207 „Dėl Traktorių, savaeigių ir žemės ūkio mašinų bei jų priekabų techninės apžiūros tvarkos“  (Suvestinė redakcija nuo 2018-10-01)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "56-2273",
+  "official_journal_page": null,
+  "official_journal_date": "2002-06-07",
+  "entry_into_force": "2002-06-08",
+  "notification_date": "2018-11-12",
+  "commission_reference": "MNE(2018)56009",
+  "nim_celex": "72014L0045LTU_264967",
+  "nim_id": "264967",
+  "transposes_celex": [
+    "32014L0045"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bda24d0a-9615-4af1-95ff-7ebe56d22bd2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
