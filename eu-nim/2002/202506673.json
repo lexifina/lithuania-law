@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos elektros energetikos įstatymas Nr. VIII-1881 (suvestinė redakcija nuo 2023-12-01 iki 2023-12-31)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "66-1984",
+  "official_journal_page": null,
+  "official_journal_date": "2000-08-04",
+  "entry_into_force": "2002-01-01",
+  "notification_date": "2025-12-04",
+  "commission_reference": "MNE(2025)06673",
+  "nim_celex": "72023L2413LTU_202506673",
+  "nim_id": "202506673",
+  "transposes_celex": [
+    "32023L2413"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1a623fb3-c116-4f1c-a791-6112f82d9180",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
