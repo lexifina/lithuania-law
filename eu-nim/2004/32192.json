@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės maisto ir veterinarijos tarnybos direktoriaus 2004 m. spalio 6 d. įsakymas Nr. B1-871 \"Dėl Valstybinės maisto ir veterinarijos tarnybos direktoriaus 2003 m. liepos 25 d. įsakymo Nr. B1-656 \"Dėl kai kurių medžiagų, turinčių hormoninį ar tireostatinį poveikį, bei beta agonistų draudimo naudoti gyvulininkystėje nurodymų patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "155",
+  "official_journal_page": null,
+  "official_journal_date": "2004-10-23",
+  "entry_into_force": "2004-10-24",
+  "notification_date": "2004-10-26",
+  "commission_reference": "MNE(2004)52192",
+  "nim_celex": "72003L0074LTU_32192",
+  "nim_id": "32192",
+  "transposes_celex": [
+    "32003L0074"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ee737895-8196-47f2-99bb-6e88748d9ecb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
