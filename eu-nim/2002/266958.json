@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas Nr. IX-785 (suvestinė redakcija)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "37-1341",
+  "official_journal_page": null,
+  "official_journal_date": "2002-04-09",
+  "entry_into_force": "2002-04-09",
+  "notification_date": "2019-01-08",
+  "commission_reference": "MNE(2019)50072",
+  "nim_celex": "72016L1919LTU_266958",
+  "nim_id": "266958",
+  "transposes_celex": [
+    "32016L1919"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c93df5e2-56e1-4f71-85a1-c4650a892c93",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
