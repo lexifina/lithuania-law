@@ -1,0 +1,25 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos saugomų teritorijų įstatymo pakeitimo įstatymas Nr. IX-628 (nauja redakcija)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "108",
+  "official_journal_page": null,
+  "official_journal_date": "2001-12-28",
+  "entry_into_force": "2001-12-28",
+  "notification_date": "2004-01-13",
+  "commission_reference": "MNE(2003)50171",
+  "nim_celex": "71979L0409LTU_20171",
+  "nim_id": "20171",
+  "transposes_celex": [
+    "31979L0409",
+    "31992L0043",
+    "32000L0060",
+    "32004L0035"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bca36f73-6ea3-4bf7-b64b-e11b353af3de",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
