@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymas Nr. IX-1005",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "72",
+  "official_journal_page": null,
+  "official_journal_date": "2002-07-17",
+  "entry_into_force": "2003-01-01",
+  "notification_date": "2015-06-25",
+  "commission_reference": "MNE(2015)54172",
+  "nim_celex": "72012L0018LTU_227190",
+  "nim_id": "227190",
+  "transposes_celex": [
+    "32012L0018"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/baf0a452-470b-42f6-91aa-74bc6136e1bd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
