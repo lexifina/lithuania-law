@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos kraujo donorystės įstatymas Nr. I-1611",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "115",
+  "official_journal_page": null,
+  "official_journal_date": "1996-11-29",
+  "entry_into_force": "1997-01-01",
+  "notification_date": "2005-03-14",
+  "commission_reference": "MNE(2005)55641",
+  "nim_celex": "72002L0098LTU_35641",
+  "nim_id": "35641",
+  "transposes_celex": [
+    "32002L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/08cf9704-0302-4258-8087-ef66e46e1296",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
