@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2004 m. gegužės 26 d. nutarimas Nr. 634 „Dėl Bešeimininkio, konfiskuoto, valstybės paveldėto, į valstybės pajamas perduoto turto, daiktinių įrodymų ir radinių perdavimo, apskaitymo, saugojimo, realizavimo, grąžinimo ir pripažinimo atliekomis taisyklių patvirtinimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "86",
+  "official_journal_page": null,
+  "official_journal_date": "2004-05-28",
+  "entry_into_force": "2004-07-01",
+  "notification_date": "2017-01-18",
+  "commission_reference": "MNE(2017)50388",
+  "nim_celex": "72014L0042LTU_244327",
+  "nim_id": "244327",
+  "transposes_celex": [
+    "32014L0042"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/082f81f9-b185-4d64-960b-19fde10e8657",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
