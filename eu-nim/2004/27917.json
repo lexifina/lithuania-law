@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Audito įstatymo pakeitimo įstatymas Nr. IX-2105 (nauja redakcija)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "63",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-28",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2004-05-13",
+  "commission_reference": "MNE(2004)57917",
+  "nim_celex": "71978L0660LTU_27917",
+  "nim_id": "27917",
+  "transposes_celex": [
+    "31978L0660",
+    "31983L0349",
+    "31984L0253"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/691fa6e0-42a8-4d64-a7aa-310aca017971",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
