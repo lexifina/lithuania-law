@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro 2001 m. birželio 20 d. įsakymas Nr. 199 „Dėl Ūkio ministro 1999 m. gruodžio 27 d. įsakymo Nr. 431 “Dėl Paprastų slėginių indų techninio reglamento tvirtinimo” dalinio pakeitimo, 2000 m. liepos 4 d. įsakymo Nr. 241 “Dėl Lietuvos Respublikos ūkio ministro 1999 m. gruodžio 27 d. įsakymo Nr. 431 “Dėl Paprastų slėginių indų techninio reglamento tvirtinimo” dalinio pakeitimo” pripažinimo netekusiu galios ir dėl įstaigos atitikčiai įvertinti paskyrimo",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "54",
+  "official_journal_page": null,
+  "official_journal_date": "2001-06-26",
+  "entry_into_force": "2001-09-01",
+  "notification_date": "2003-11-27",
+  "commission_reference": "MNE(2003)59865",
+  "nim_celex": "71987L0404LTU_19865",
+  "nim_id": "19865",
+  "transposes_celex": [
+    "31987L0404",
+    "31990L0488",
+    "32009L0105"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9d27619d-99fd-4813-a0e3-4618382e7a9b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
