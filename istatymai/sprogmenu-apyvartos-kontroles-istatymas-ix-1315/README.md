@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2004-01-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/f1d233928d791427a94bd975af09a0118a1cca45/istatymai/TAR.423D6799832E.md) |
+| 2004-02-07 | 2004-04-30 | Įstatymas Nr. IX-1965 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/a8e1ee1c25eae8cbdb9bd37bd91089df40a4f1a1/istatymai/TAR.423D6799832E.md) |
