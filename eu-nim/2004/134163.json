@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2003 M. GRUODŽIO 19 D. ĮSAKYMAS NR. 670 \"DĖL PAGRINDINIŲ MIŠKO KIRTIMO TAISYKLIŲ PAKEITIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "10",
+  "official_journal_page": null,
+  "official_journal_date": "2004-01-20",
+  "entry_into_force": "2004-01-21",
+  "notification_date": "2006-08-09",
+  "commission_reference": "MNE(2006)55130",
+  "nim_celex": "71979L0409LTU_134163",
+  "nim_id": "134163",
+  "transposes_celex": [
+    "31979L0409"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/28b48672-1f70-44ca-9f59-32161c957eb7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
