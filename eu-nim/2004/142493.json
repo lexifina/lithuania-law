@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2004 m. birželio 29 d. įsakymas Nr. 3-370 „Dėl Europos Parlamento ir Tarybos reglamento Nr. 725/2004 reikalavimų įgyvendinimo Lietuvos Respublikoje užtikrinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "138",
+  "official_journal_page": null,
+  "official_journal_date": "2004-09-14",
+  "entry_into_force": "2004-09-15",
+  "notification_date": "2007-03-07",
+  "commission_reference": "MNE(2007)52096",
+  "nim_celex": "72005L0065LTU_142493",
+  "nim_id": "142493",
+  "transposes_celex": [
+    "32005L0065"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9e46a0fa-9e4d-4f7c-baf4-06d74e541ca1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
