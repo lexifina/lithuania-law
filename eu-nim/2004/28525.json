@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "NEM considered not necessary",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "0",
+  "official_journal_page": null,
+  "official_journal_date": null,
+  "entry_into_force": null,
+  "notification_date": "2004-05-28",
+  "commission_reference": "MNE(2004)58525",
+  "nim_celex": "71974L0648LTU_28525",
+  "nim_id": "28525",
+  "transposes_celex": [
+    "31974L0648"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a0246b72-3f8f-4062-9c9c-1efdf7deec6d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
