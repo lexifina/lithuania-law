@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės kainų ir energetikos kontrolės komisijos nutarimas Nr. 52 \"Dėl Valstybinės kainų ir energetikos kontrolės komisijos nutarimo Nr. 111 \"Dėl Gamtinių dujų kainų skaičiavimo metodikos\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "52",
+  "official_journal_page": null,
+  "official_journal_date": "2002-05-24",
+  "entry_into_force": "2002-05-25",
+  "notification_date": "2003-10-23",
+  "commission_reference": "MNE(2003)59483",
+  "nim_celex": "71990L0377LTU_19483",
+  "nim_id": "19483",
+  "transposes_celex": [
+    "31990L0377",
+    "32003L0055"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/301fee7d-7ba4-4f11-8723-36695188ee92",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
