@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos konkurencijos įstatymo  19, 27, 28, 29, 38 ir 40 straipsnių pakeitimo įstatymas Nr. VIII-1933",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "85",
+  "official_journal_page": null,
+  "official_journal_date": "2000-10-11",
+  "entry_into_force": "2001-01-01",
+  "notification_date": "2008-02-13",
+  "commission_reference": "MNE(2008)51231",
+  "nim_celex": "72005L0029LTU_153834",
+  "nim_id": "153834",
+  "transposes_celex": [
+    "32005L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d06f7f78-049c-4489-b7c4-5703a1bc455f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
