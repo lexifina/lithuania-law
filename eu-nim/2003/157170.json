@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos buhalterinės apskaitos įstatymo 1, 2, 3, 7, 9, 10, 11, 12, 13, 25 straipsnių pakeitimo bei papildymo ir Įstatymo papildymo  priedu įstatymas Nr. IX-1914",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "123",
+  "official_journal_page": null,
+  "official_journal_date": "2003-12-30",
+  "entry_into_force": "2003-12-30",
+  "notification_date": "2008-07-24",
+  "commission_reference": "MNE(2008)54239",
+  "nim_celex": "72006L0043LTU_157170",
+  "nim_id": "157170",
+  "transposes_celex": [
+    "32006L0043"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/85d02a42-52c8-488b-9391-993370cbf1b9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
