@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 1994 m. rugpjūčio 11 d. nutarimas Nr. 728  „Dėl Lietuvos Respublikos Vyriausybės darbo reglamento ir Ministrų, Vyriausybės įstaigų, įstaigų prie ministerijų ir kitų Vyriausybei pavaldžių ir atskaitingų viešojo administravimo subjektų norminių teisės aktų projektų rengimo taisyklių patvirtinimo“ (suvestinė redakcija nuo 2024-06-01)",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "63-1238",
+  "official_journal_page": null,
+  "official_journal_date": "1994-08-17",
+  "entry_into_force": "1994-08-18",
+  "notification_date": "2025-01-23",
+  "commission_reference": "MNE(2025)00641",
+  "nim_celex": "72022L2557LTU_202500641",
+  "nim_id": "202500641",
+  "transposes_celex": [
+    "32022L2557"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b3780c83-2b81-4a9c-866a-af836f90b36f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
