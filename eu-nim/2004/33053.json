@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "2004 m. lapkričio 2 d. Lietuvos Respublikos žemės gelmių įstatymo 1, 2, 6, 8, 12, 13, 14, 15, 18, 23, 25, 26 ir 27 straipsnių pakeitimo ir papildymo bei įstatymo papildymo priedu įstatymas Nr. IX-2516.",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "167",
+  "official_journal_page": null,
+  "official_journal_date": "2004-11-17",
+  "entry_into_force": "2004-11-17",
+  "notification_date": "2004-11-19",
+  "commission_reference": "MNE(2004)53053",
+  "nim_celex": "71994L0022LTU_33053",
+  "nim_id": "33053",
+  "transposes_celex": [
+    "31994L0022"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/80058397-189c-4226-b8c0-40571467db31",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
