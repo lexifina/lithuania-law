@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas Nr. I-1374 (Suvestinė redakcija nuo 2018-07-16)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "63-1479",
+  "official_journal_page": null,
+  "official_journal_date": "1996-07-03",
+  "entry_into_force": "1996-07-03",
+  "notification_date": "2018-07-20",
+  "commission_reference": "MNE(2018)53885",
+  "nim_celex": "72016L0680LTU_261055",
+  "nim_id": "261055",
+  "transposes_celex": [
+    "32016L0680"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/01be1dcb-7635-437b-818c-057f1cfb74b0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
