@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės nutarimas Nr. 1347 \"Dėl Lietuvos Respublikos Vyriausybės 1994 m. lapkričio 16 d. nutarimo Nr. 1135 \"Dėl Lietuvos Respublikos konsulinio mokesčio tarifų ir Lietuvos Respublikos konsulinio mokesčio mokėjimo bei grąžinimo tvarkos patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "158",
+  "official_journal_page": null,
+  "official_journal_date": "2004-10-30",
+  "entry_into_force": "2004-10-31",
+  "notification_date": "2005-05-12",
+  "commission_reference": "MNE(2005)50705",
+  "nim_celex": "72001L0055LTU_120705",
+  "nim_id": "120705",
+  "transposes_celex": [
+    "32001L0055"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/266750d4-4b50-4a7f-9fb9-c341acff7348",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
