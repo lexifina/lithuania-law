@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Socialinės apsaugos ir darbo ministro 2004 m. rugpjūčio 25 d. įsakymas Nr. A1-203 \"Dėl pragyvenimo Lietuvos Respublikoje lėšų dydžio, kuris gali būti laikomas pakankamu pragyventi Lietuvos Respublikoje, užsieniečiui, prašančiam išduoti leidimą gyventi Lietuvos Respublikoje, nustatymo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "133",
+  "official_journal_page": null,
+  "official_journal_date": "2004-08-30",
+  "entry_into_force": "2004-08-31",
+  "notification_date": "2006-01-26",
+  "commission_reference": "MNE(2006)50247",
+  "nim_celex": "72003L0109LTU_127331",
+  "nim_id": "127331",
+  "transposes_celex": [
+    "32003L0109"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4391f81d-dd82-435a-9d9b-01fd35c4a8fc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
