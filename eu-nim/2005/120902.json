@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Susisiekimo ministro 2004 m. birželio 15 d. įsakymas Nr. 3-352 „Dėl pramoginių laivų projektavimo, statybos, tiekimo rinkai ir atidavimo eksploatuoti techninio reglamento patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "98",
+  "official_journal_page": null,
+  "official_journal_date": "2004-06-24",
+  "entry_into_force": "2005-01-01",
+  "notification_date": "2005-05-17",
+  "commission_reference": "MNE(2005)50902",
+  "nim_celex": "72003L0044LTU_120902",
+  "nim_id": "120902",
+  "transposes_celex": [
+    "32003L0044"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8152c229-3943-47d5-a0ef-c3b42ac380f2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
