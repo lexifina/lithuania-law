@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos oficialiosios statistikos ir valstybės duomenų valdysenos įstatymas Nr. I-270 (suvestinė redakcija nuo 2024-01-01 iki 2024-05-31)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "54-1048/1993",
+  "official_journal_page": null,
+  "official_journal_date": "1993-10-20",
+  "entry_into_force": "1993-10-20",
+  "notification_date": "2025-12-31",
+  "commission_reference": "MNE(2025)07479",
+  "nim_celex": "72024L1265LTU_202507479",
+  "nim_id": "202507479",
+  "transposes_celex": [
+    "32024L1265"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/81588a76-e786-417d-bc6e-725a89a6f3ea",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
