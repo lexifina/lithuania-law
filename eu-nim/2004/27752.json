@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS ATLIEKŲ TVARKYMO ĮSTATYMO 1, 2, 4, 5, 6, 8, 10, 11, 12 IR 30 STRAIPSNIŲ BEI PRIEDĖLIŲ PAKEITIMO IR PAPILDYMO AŠTUNTUOJU1 SKIRSNIU, 341 STRAIPSNIU BEI 5 PRIEDU ĮSTATYMAS NR.IX-2214",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "73",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-30",
+  "entry_into_force": "2004-04-30",
+  "notification_date": "2004-05-26",
+  "commission_reference": "MNE(2004)57752",
+  "nim_celex": "72002L0096LTU_27752",
+  "nim_id": "27752",
+  "transposes_celex": [
+    "32002L0096",
+    "32003L0108"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/81e077a6-07c4-480e-a017-38a31cd87d77",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
