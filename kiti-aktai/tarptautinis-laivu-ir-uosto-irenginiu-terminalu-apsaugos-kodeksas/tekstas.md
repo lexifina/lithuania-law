@@ -1,4 +1,4 @@
-**TARPTAUTINIS LAIVŲ IR UOSTO ĮRENGINIŲ (TERMINALŲ) APSAUGOS KODEKSAS**^*****
+TARPTAUTINIS LAIVŲ IR UOSTO ĮRENGINIŲ (TERMINALŲ) APSAUGOS KODEKSAS*
 PREAMBULĖ
 1. Apsaugos jūroje diplomatinė konferencija, vykusi 2002 m. gruodžio mėn. Londone, priėmė naujas 1974 m. Tarptautinės konvencijos dėl žmogaus gyvybės apsaugos jūroje ir šio kodekso nuostatas, skirtas apsaugai jūroje stiprinti. Šiais naujais reikalavimais paremta tarptautinė sistema, kuria vadovaudamiesi laivai ir uosto įrenginiai (terminalai) gali bendradarbiauti siekdami nustatyti veiksmus, keliančius pavojų saugumui jūrų transporto sektoriuje, ir užkirsti jiems kelią.
 2. Po tragiškų 2001 m. rugsėjo 11-osios įvykių Tarptautinės jūrų organizacijos (toliau – Organizacija) Asamblėjos dvidešimt antrojoje sesijoje, vykusioje 2001 m. lapkričio mėn., buvo bendru sutarimu nutarta parengti naujas su laivų ir uosto įrenginių (terminalų) apsauga susijusias priemones ir jas priimti 1974 m. Tarptautinės konvencijos dėl žmogaus gyvybės apsaugos jūroje Susitariančiųjų Vyriausybių konferencijoje (vadinamojoje Apsaugos jūroje diplomatinėje konferencijoje) 2002 m. gruodžio mėn. Rengti diplomatinę konferenciją, atsižvelgiant į valstybių narių, tarpvyriausybinių organizacijų ir nevyriausybinių organizacijų, su kuriomis Organizacija konsultuojasi, pareiškimus, buvo patikėta Organizacijos jūrų saugumo komitetui (JSK) (žr. Tarptautinės jūrų organizacijos konvenciją).
@@ -14,16 +14,16 @@ PREAMBULĖ
 A DALIS
 PRIVALOMIEJI REIKALAVIMAI SUSIJĘ SU 1974 M. TARPTAUTINĖS KONVENCIJOS DĖL ŽMOGAUS GYVYBĖS APSAUGOS JŪROJE (SU PAKEITIMAIS) PRIEDO XI-2 SKYRIAUS NUOSTATOMIS
 1. BENDROSIOS NUOSTATOS
-**1.1****Įžanga**
+1.1 Įžanga
 Šioje Tarptautinio laivų ir uosto įrenginių (terminalų) apsaugos kodekso dalyje išdėstytos privalomosios nuostatos, pateiktos 1974 m. Tarptautinės konvencijos dėl žmogaus gyvybės apsaugos jūroje (su pakeitimais) XI-2 skyriuje.
-**1.2****Tikslai**
+1.2 Tikslai
 Šio kodekso tikslai:
 1. sukurti tarptautinę Susitariančiųjų Vyriausybių, valstybės institucijų, vietos administracijų ir laivybos bei uostų pramonės šakų bendradarbiavimo sistemą, padedančią nustatyti grėsmę saugumui ir imtis prevencinių priemonių prieš incidentus, keliančius pavojų tarptautiniams vežimams naudojamiems laivams arba uosto įrenginiams (terminalams);
 2. nustatyti atitinkamas Susitariančiųjų Vyriausybių, valstybės institucijų, vietos administracijų ir laivybos bei uostų pramonės šakų nacionalinio ir tarptautinio lygmens funkcijas ir atsakomybę apsaugai jūroje užtikrinti;
 3. užtikrinti greitą ir veiksmingą su apsauga susijusios informacijos rinkimą ir mainus;
 4. pateikti apsaugos vertinimų metodiką, kad būtų parengti planai ir procedūros, skirti reaguoti į kintančius apsaugos lygius;
 5. padėti įsitikinti, kad yra numatytos pakankamos ir proporcingos apsaugą jūroje užtikrinančios priemonės.
-**1.3****Funkciniai reikalavimai**
+1.3 Funkciniai reikalavimai
 Siekiant šių tikslų, kodekse numatyta keletas funkcinių reikalavimų. Tarp jų yra šie ir ne tik šie:
 1. rinkti ir įvertinti informaciją apie grėsmę saugumui ir keistis šia informacija su atitinkamomis Susitariančiosiomis Vyriausybėmis;
 2. reikalauti, kad būtų rengiami informacijos perdavimo protokolai laivams ir uosto įrenginiams (terminalams);
@@ -284,7 +284,7 @@ personalo pareigos, susijusios su apsaugos aspektais;
 18.3 Norint užtikrinti efektyvų uosto įrenginio (terminalo) apsaugos plano įgyvendinimą, treniruotės rengiamos reikiamais intervalais atsižvelgiant į uosto įrenginio (terminalo) veiklos rūšis, uosto įrenginio (terminalo) darbuotojų pasikeitimus, uosto įrenginio (terminalo) aptarnaujamų laivų tipą ir kitas svarbias aplinkybes vadovaujantis šio kodekso B dalyje pateiktomis gairėmis.
 18.4 Uosto įrenginio (terminalo) apsaugos pareigūnas užtikrina efektyvų uosto įrenginio (terminalo) apsaugos plano koordinavimą ir įgyvendinimą dalyvaudamas reikiamais intervalais rengiamose pratybose, vadovaudamasis šio kodekso B dalyje pateiktomis gairėmis.
 19. LAIVŲ TIKRINIMAS IR SERTIFIKAVIMAS
-**19.1****Tikrinimas**
+19.1 Tikrinimas
 19.1.1 Turi būti atlikti kiekvieno laivo, kuriam taikoma ši kodekso dalis, toliau nurodyti patikrinimai:
 1. pradinis patikrinimas – atliekamas prieš pradedant laivą eksploatuoti arba prieš pirmą kartą išduodant liudijimą, kurio reikalaujama pagal 19.2 skirsnį. Šis patikrinimas apima išsamų jo apsaugos sistemos ir visos susijusios apsaugos įrangos, kurią reglamentuoja XI-2 skyrius, ši kodekso dalis ir patvirtintas laivo apsaugos planą, tikrinimas. Šiuo patikrinimu įsitikinama, ar laivo apsaugos sistema ir visa susijusi apsaugos įranga atitinka visus taikomus XI-2 skyriaus ir šios kodekso dalies reikalavimus, yra patenkinamos būklės ir tinkama, kad laivas galėtų būti eksploatuojamas pagal paskirtį;
 2. pakartotinis patikrinimas – atliekamas Administracijos nustatytais intervalais. Šie neturi būti ilgesni kaip penkeri metai, išskyrus atvejus, kai taikomas 19.3 skirsnis. Šiuo patikrinimu įsitikinama, ar laivo apsaugos sistema ir visa susijusi apsaugos įranga atitinka visus taikomus XI-2 skyriaus ir šios kodekso dalies reikalavimus, yra patenkinamos būklės ir tinkama, kad laivas galėtų būti eksploatuojamas pagal paskirtį;
@@ -293,14 +293,14 @@ personalo pareigos, susijusios su apsaugos aspektais;
 19.1.2 Laivo patikrinimus atlieka Administracijos pareigūnai. Tačiau Administracija gali pavesti atlikti patikrinimus pripažintai apsaugos organizacijai, nurodytai XI-2/1 taisyklėje.
 19.1.3 Kiekvienu atveju Administracija visokeriopai garantuoja patikrinimo išbaigtumą bei efektyvumą ir įsipareigoja užtikrinti būtinas sąlygas šiai prievolei įvykdyti.
 19.1.4 Po patikrinimo yra laikoma, kad laivo apsaugos sistema ir visa susijusi apsaugos įranga atitinka XI-2/4.2 ir XI-2/6 taisyklių, šios kodekso dalies ir patvirtinto laivo apsaugos plano nuostatas. Atlikus bet kurį 19.1.1 skirsnyje nurodytą patikrinimą, jokie apsaugos sistemos, susijusios apsaugos įrangos arba patvirtinto laivo apsaugos plano pakeitimai negali būti diegiami be Administracijos leidimo.
-**19.2****Liudijimo išdavimas arba jo galiojimo patvirtinimas**
+19.2 Liudijimo išdavimas arba jo galiojimo patvirtinimas
 19.2.1 Atlikus pradinį arba pakartotinį patikrinimą vadovaujantis 19.1 skirsnio nuostatomis, išduodamas Tarptautinis laivo apsaugos liudijimas.
 19.2.2 Šį liudijimą išduoda arba tvirtina Administracija arba Administracijos vardu veikianti pripažinta apsaugos organizacija.
 19.2.3 Administracijos prašymu kita Susitariančioji Vyriausybė gali nurodyti patikrinti laivą ir, įsitikinusi, kad laikomasi 19.1.1 skirsnio nuostatų, išduoda arba leidžia išduoti laivui Tarptautinį laivo apsaugos liudijimą ir prireikus, vadovaudamasi šiuo kodeksu, patvirtina arba suteikia leidimą patvirtinti tą liudijimą laive.
 19.2.3.1 Liudijimo kopija ir patikrinimo ataskaitos kopija kuo greičiau perduodamos prašančiajai Administracijai.
 198.2.3.2 Taip išduotame liudijime įrašomas teiginys, kad jis išduotas Administracijos prašymu, turi tokią pačią galią ir yra pripažįstamas taip pat kaip vadovaujantis 19.2.2 skirsniu išduotas liudijimas.
 19.2.4 Tarptautinis laivo apsaugos liudijimas išrašomas tokia forma, kuri atitinka šio kodekso priedėlyje pateiktą pavyzdį. Jei vartojama ne anglų, prancūzų ar ispanų kalba, prie teksto pateikiamas ir vertimas į vieną iš šių kalbų.
-**19.3****Liudijimo galiojimo terminai ir sąlygos**
+19.3 Liudijimo galiojimo terminai ir sąlygos
 19.3.1 Tarptautinis laivo apsaugos liudijimas išduodamas Administracijos nurodytam laikotarpiui, kuris neturi būti ilgesnis negu penkeri metai.
 19.3.2 Kai pakartotinis patikrinimas atliekamas likus trims mėnesiams iki turimo liudijimo galiojimo laikotarpio pabaigos, naujas liudijimas įsigalioja pakartotinio patikrinimo atlikimo dieną ir galioja ne ilgiau kaip penkerius metus nuo turimo liudijimo galiojimo pabaigos dienos.
 19.3.2.1 Kai pakartotinis patikrinimas atliekamas pasibaigus turimo liudijimo galiojimo laikotarpiui, naujas liudijimas įsigalioja pakartotinio patikrinimo atlikimo dieną ir galioja ne ilgiau kaip penkerius metus nuo turėto liudijimo galiojimo pabaigos dienos.
@@ -320,7 +320,7 @@ personalo pareigos, susijusios su apsaugos aspektais;
 19.3.9 Tuo atveju, kai:
 1. laivas perduodamas plaukioti su kitos Susitariančiosios Vyriausybės vėliava, Susitariančioji Vyriausybė, su kurios vėliava laivas turėjo teisę plaukioti, priimančiajai Administracijai kuo greičiau perduoda Tarptautinio laivo apsaugos liudijimo, kurį laivas turėjo iki perdavimo, kopijas ir visą su juo susijusią informaciją bei turimų patikrinimų ataskaitų kopijas, arba
 2. kompanija prisiima atsakomybę eksploatuoti laivą, kurio ši kompanija anksčiau neeksploatavo, ankstesnė kompanija kuo greičiau perduoda priimančiajai kompanijai visos informacijos, susijusios su Tarptautiniu laivo apsaugos liudijimu, kopijas arba sudaro sąlygas 19.4.2 skirsnyje aprašytiems patikrinimams atlikti.
-**19.4****Laikinas sertifikavimas**
+19.4 Laikinas sertifikavimas
 19.4.1 19.2 skirsnyje nurodyti liudijimai išduodami tik tada, kai liudijimą išduodanti Administracija visiškai įsitikina, kad laivas atitinka 19.1 skirsnio reikalavimus. Tačiau nuo 2004 m. liepos 1 d. toliau nurodytomis aplinkybėmis:
 1. liudijimo neturinčiam laivui, perduodant jį arba prieš pradedant laivą eksploatuoti, arba iš naujo pradedant jį eksploatuoti;
 2. kai laivas, plaukiojantis su vienos Susitariančiosios Vyriausybės vėliava, perduodamas plaukioti su kitos Susitariančiosios Vyriausybės vėliava;
@@ -349,132 +349,132 @@ A DALIES PRIEDĖLIS
 1 PRIEDĖLIS
 Tarptautinio laivo apsaugos liudijimo forma
 TARPTAUTINIS LAIVO APSAUGOS LIUDIJIMAS
-*(oficialusis antspaudas) (valstybė)*
+(oficialusis antspaudas) (valstybė)
 Liudijimas Nr.
-**Išduotas vadovaujantis**
+Išduotas vadovaujantis
 TARPTAUTINIO LAIVŲ IR UOSTO ĮRENGINIŲ (TERMINALŲ) APSAUGOS KODEKSO (ISPS KODEKSAS)
-**nuostatomis**
+nuostatomis
 Pagal ____________________________________________________ Vyriausybės įgaliojimus
-*(valstybės pavadinimas)*
+(valstybės pavadinimas)
 išdavė ________________________________________________________________________
-*(įgalioti asmenys arba organizacija)*
+(įgalioti asmenys arba organizacija)
 Laivo pavadinimas
 Skiriamasis numeris arba raidės
 Registracijos uostas
 Laivo tipas
-Bendrasis tonažas .........................................
-TJO numeris .........................................
-Kompanijos pavadinimas ir adresas .........................................
+Bendrasis tonažas .................................................................................
+TJO numeris .................................................................................
+Kompanijos pavadinimas ir adresas .................................................................................
 PATVIRTINAME:
 kad laivo apsaugos sistema ir visa su ja susijusi apsaugos įranga buvo patikrinta vadovaujantis kodekso (ISPS Kodeksas) A dalies 19.1 skirsniu;
 kad patikrinimas parodė, jog laivo apsaugos sistema ir visa su ja susijusi apsaugos įranga yra visais požiūriais patenkinama ir kad laivas atitinka taikomus Konvencijos XI-2 skyriaus ir kodekso (ISPS kodeksas) A dalies reikalavimus;
 kad laivas turi patvirtintą Laivo apsaugos planą.
-Pradinis/pakartotinis patikrinimas, kuriuo remiantis išduotas šis liudijimas, ...................
-(*data*)
+Pradinis/pakartotinis patikrinimas, kuriuo remiantis išduotas šis liudijimas, .....................................
+(data)
 Liudijimas galioja iki …………, jei patikrinimai atliekami vadovaujantis kodekso (ISPS kodeksas) A dalies 19.1.1 skirsniu.
-Išduotas ............................
-*(liudijimo išdavimo vieta)*
-Išdavimo data ........................ ...........................
-*(liudijimą išdavusio įgalioto pareigūno parašas)*
-*(liudijimą išdavusios institucijos antspaudas arba spaudas)*
+Išduotas ........................................................
+(liudijimo išdavimo vieta)
+Išdavimo data ............................................... ......................................................
+(liudijimą išdavusio įgalioto pareigūno parašas)
+(liudijimą išdavusios institucijos antspaudas arba spaudas)
 TARPINIO PATIKRINIMO PATVIRTINIMAS
 PATVIRTINAME, kad atlikus tarpinį patikrinimą, kurio reikalaujama pagal kodekso (ISPS kodeksas) A dalies 19.1.1 skirsnį, buvo nustatyta, jog laivas atitinka Konvencijos XI-2 skyriaus ir kodekso (ISPS kodeksas) A dalies atitinkamas nuostatas.
-Tarpinis patikrinimas Pasirašė .........................
-*(įgalioto pareigūno parašas)*
-Vieta ............................
-Data .............................
-*(institucijos antspaudas arba spaudas)*
-PAPILDOMŲ PATIKRINIMŲ PATVIRTINIMAS^*
-Papildomas patikrinimas Pasirašė .........................
-*(įgalioto pareigūno parašas)*
-Vieta ............................
-Data .............................
-*(institucijos antspaudas arba spaudas)*
-Papildomas patikrinimas Pasirašė .........................
-*(įgalioto pareigūno parašas)*
-Vieta ............................
-Data .............................
-*(institucijos antspaudas arba spaudas)*
-Papildomas patikrinimas Pasirašė .........................
-*(įgalioto pareigūno parašas)*
-Vieta ............................
-Data .............................
-*(institucijos antspaudas arba spaudas)*
+Tarpinis patikrinimas Pasirašė ..................................................
+(įgalioto pareigūno parašas)
+Vieta .......................................................
+Data .........................................................
+(institucijos antspaudas arba spaudas)
+PAPILDOMŲ PATIKRINIMŲ PATVIRTINIMAS*
+Papildomas patikrinimas Pasirašė ..................................................
+(įgalioto pareigūno parašas)
+Vieta .......................................................
+Data .........................................................
+(institucijos antspaudas arba spaudas)
+Papildomas patikrinimas Pasirašė ..................................................
+(įgalioto pareigūno parašas)
+Vieta .......................................................
+Data .........................................................
+(institucijos antspaudas arba spaudas)
+Papildomas patikrinimas Pasirašė ..................................................
+(įgalioto pareigūno parašas)
+Vieta .......................................................
+Data .........................................................
+(institucijos antspaudas arba spaudas)
 PAPILDOMAS PATIKRINIMAS, ATLIEKAMAS VADOVAUJANTIS KODEKSO (ISPS KODEKSAS) A DALIES 19.3.7.2 SKIRSNIU
 PATVIRTINAME, kad atlikus papildomą patikrinimą, kurio reikalaujama pagal kodekso (ISPS kodeksas) A dalies 19.3.7.2 skirsnį, buvo nustatyta, jog laivas visiškai atitinka Konvencijos XI-2 skyriaus ir kodekso (ISPS kodeksas) A dalies atitinkamas nuostatas.
-Pasirašė .........................
-*(įgalioto pareigūno parašas)*
-Vieta ............................
-Data .............................
-*(institucijos antspaudas arba spaudas)*
+Pasirašė ..................................................
+(įgalioto pareigūno parašas)
+Vieta .......................................................
+Data .........................................................
+(institucijos antspaudas arba spaudas)
 LIUDIJIMO GALIOJIMO PRATĘSIMO PATVIRTINIMAS, JEI LIUDIJIMAS GALIOJA TRUMPIAU NEGU 5 METUS, KAI TAIKOMAS KODEKSO (ISPS KODEKSAS) A DALIES 19.3.3 SKIRSNIS
 Laivas atitinka kodekso (ISPS kodeksas) A dalies atitinkamas nuostatas, todėl laikoma, kad liudijimas, vadovaujantis kodekso (ISPS kodeksas) A dalies 19.3.3. skirsniu, galioja iki …………
-Pasirašė .........................
-*(įgalioto pareigūno parašas)*
-Vieta ............................
-Data .............................
-*(institucijos antspaudas arba spaudas)*
+Pasirašė ..................................................
+(įgalioto pareigūno parašas)
+Vieta .......................................................
+Data .........................................................
+(institucijos antspaudas arba spaudas)
 PATVIRTINIMAS ATLIKUS PAKARTOTINĮ PATIKRINIMĄ, KAI TAIKOMAS KODEKSO (ISPS KODEKSAS) A DALIES 19.3.4 SKIRSNIS
 Laivas atitinka kodekso (ISPS kodeksas) A dalies atitinkamas nuostatas, todėl laikoma, kad liudijimas, vadovaujantis kodekso (ISPS kodeksas) A dalies 19.3.4 skirsniu, galioja iki ………………………
-Pasirašė .........................
-*(įgalioto pareigūno parašas)*
-Vieta ............................
-Data .............................
-*(institucijos antspaudas arba spaudas)*
+Pasirašė ..................................................
+(įgalioto pareigūno parašas)
+Vieta .......................................................
+Data .........................................................
+(institucijos antspaudas arba spaudas)
 PATVIRTINIMAS, KAD LIUDIJIMO GALIOJIMAS PRATĘSIAMAS LAIKOTARPIUI, IKI BUS PASIEKTAS TIKRINIMO UOSTAS TAIKANT KODEKSO (ISPS KODEKSAS) A DALIES 19.3.5 SKIRSNĮ, ARBA LENGVATINIAM LAIKOTARPIUI TAIKANT KODEKSO (ISPS KODEKSAS) A DALIES 19.3.6 SKIRSNĮ
-Vadovaujantis kodekso (ISPS kodeksas) A dalies 19.3.5 ar 19.3.6*^* skirsniais, laikoma, kad šis liudijimas galioja iki ………………………………………….
-Pasirašė .........................
-*(įgalioto pareigūno parašas)*
-Vieta ............................
-Data .............................
-*(institucijos antspaudas arba spaudas)*
+Vadovaujantis kodekso (ISPS kodeksas) A dalies 19.3.5 ar 19.3.6** skirsniais, laikoma, kad šis liudijimas galioja iki ………………………………………….
+Pasirašė ..................................................
+(įgalioto pareigūno parašas)
+Vieta .......................................................
+Data .........................................................
+(institucijos antspaudas arba spaudas)
 GALIOJIMO LAIKOTARPIO PABAIGOS DATOS PERKĖLIMO PATVIRTINIMAS, KAI TAIKOMAS KODEKSO (ISPS KODEKSAS) A DALIES 19.3.7.1 SKIRSNIS
-Vadovaujantis kodekso (ISPS Kodeksas) A dalies 19.3.7.1 skirsniu, naujoji galiojimo laikotarpio pabaigos data^** yra …………………………………
+Vadovaujantis kodekso (ISPS Kodeksas) A dalies 19.3.7.1 skirsniu, naujoji galiojimo laikotarpio pabaigos data** yra …………………………………
 Pasirašė …………………………………
-*(įgalioto pareigūno parašas)*
+(įgalioto pareigūno parašas)
 Vieta …………………………………….
-Data …………………………………….
-*(institucijos antspaudas arba spaudas)*
+Data ……………………………………..
+(institucijos antspaudas arba spaudas)
 ______________
 2 PRIEDĖLIS
 Laikinojo tarptautinio laivo apsaugos liudijimo forma
 LAIKINASIS TARPTAUTINIS LAIVO APSAUGOS LIUDIJIMAS
-*(oficialusis antspaudas) (valstybė)*
+(oficialusis antspaudas) (valstybė)
 Liudijimas Nr.
-**Išduotas vadovaujantis**
+Išduotas vadovaujantis
 TARPTAUTINIO LAIVŲ IR UOSTO ĮRENGINIŲ (TERMINALŲ) APSAUGOS KODEKSO (ISPS KODEKSAS)
-**nuostatomis**
+nuostatomis
 Pagal _____________________________________________________ Vyriausybės įgaliojimus
-*(valstybės pavadinimas)*
+(valstybės pavadinimas)
 išdavė ________________________________________________________________________
-*(įgalioti asmenys arba organizacija)*
+(įgalioti asmenys arba organizacija)
 Laivo pavadinimas
-Skiriamasis numeris arba raidės ...........................................
+Skiriamasis numeris arba raidės ......................................................................................
 Registracijos uostas
 Laivo tipas
-Bendrasis tonažas ...........................................
+Bendrasis tonažas ......................................................................................
 TJO numeris
 Kompanijos pavadinimas ir adresas
-Ar tai pakartotinis laikinasis liudijimas? Taip / Ne^*
+Ar tai pakartotinis laikinasis liudijimas? Taip / Ne*
 Jei taip, kada išduotas pradinis laikinasis liudijimas
 PATVIRTINAME, kad kodekso (ISPS kodeksas) A dalies 19.4.2 skirsnio reikalavimai įvykdyti.
 Šis liudijimas išduotas vadovaujantis kodekso (ISPS kodeksas) A dalies 19.4 skirsniu.
-Šis liudijimas galioja iki .......................................
-Išduotas ....................................................
-*(liudijimo išdavimo vieta)*
-Išdavimo data ....................... ...............................
-*(liudijimą išdavusio įgalioto pareigūno parašas)*
-*(liudijimą išdavusios institucijos antspaudas arba spaudas)*
+Šis liudijimas galioja iki ..............................................................................
+Išduotas .......................................................................................................
+(liudijimo išdavimo vieta)
+Išdavimo data .............................................. ..............................................................
+(liudijimą išdavusio įgalioto pareigūno parašas)
+(liudijimą išdavusios institucijos antspaudas arba spaudas)
 B DALIS
 1974 M. TARPTAUTINĖS KONVENCIJOS DĖL ŽMOGAUS GYVYBĖS APSAUGOS JŪROJE (SU AKEITIMAIS) PRIEDO XI-2 SKYRIAUS IR ŠIO KODEKSO A DALIES NUOSTATŲ ĮGYVENDINIMO GAIRĖS
 1. ĮŽANGA
-**Bendrosios nuostatos**
+Bendrosios nuostatos
 1.1 Šio kodekso preambulėje nurodoma, kad XI-2 skyriuje ir šio kodekso A dalyje yra išdėstyta nauja tarptautinė jūros apsaugos stiprinimo priemonių sistema, kuria vadovaudamiesi laivai ir uosto įrenginiai (terminalai) gali bendradarbiauti siekdami nustatyti veiksmus, keliančius pavojų saugumui jūrų transporto sektoriuje, ir užkirsti jiems kelią.
 1.2 Šioje įžangoje glaustai dėstomi numatyti priemonių ir sąlygų, reikalingų, kad būtų įvykdytos XI-2 skyriaus ir šio kodekso A dalies nuostatos ir jų būtų laikomasi, nustatymo bei įgyvendinimo procesai bei nurodomi pagrindiniai elementai, kuriems yra pateikiamos gairės. Gairės išdėstytos 2–19 punktuose. Čia taip pat įvardijami esminiai nagrinėtini aspektai, į kuriuos reikia atsižvelgti svarstant galimybę taikyti su laivais ir uosto įrenginiais (terminalais) susijusias gaires.
 1.3 Nors skaitytojas domisi vien laivais, vis tiek primygtinai rekomenduojama šią kodekso dalį, o ypač su uosto įrenginiais (terminalais) susijusius skirsnius, skaityti kaip visumą. Tas pats siūloma ir tiems, kurie visų pirma domisi uosto įrenginiais (terminalais), jie taip pat turėtų perskaityti ir su laivais susijusius skirsnius.
 1.4 Tolesniuose skyriuose pateiktos gairės daugiausia susijusios su laivo sauga, kai jis stovi uosto įrenginyje (terminale). Tačiau gali būti situacijų, kai laivas gali kelti grėsmę uosto įrenginiui (terminalui), pavyzdžiui, kai laivas stovi uosto įrenginyje (terminale), jis galėtų būti panaudotas kaip bazė išpuoliui surengti. Svarstant tinkamas apsaugos priemones, skirtas reaguoti į laivo keliamus pavojus, asmenys, atliekantys uosto įrenginio (terminalo) apsaugos vertinimą arba rengiantys uosto įrenginio (terminalo) apsaugos planą, turėtų apsvarstyti galimybę tinkamai pritaikyti tolesniuose skyriuose pateiktas gaires.
 1.5 Skaitytojas informuojamas, kad niekas šioje kodekso dalyje neturėtų būti skaitoma arba aiškinamo kaip dalykai, prieštaraujantys XI-2 skyriaus arba šio kodekso A dalies nuostatoms, ir kad visada pirmiausia vadovaujamasi minėtomis nuostatomis ir jos panaikina visus nenumatytus neatitikimus, kurių galėjo netyčia atsirasti šioje kodekso dalyje. Šioje kodekso dalyje pateiktos gairės visada turėtų būti skaitomos ir aiškinamos bei taikomos taip, kad nebūtų nukrypstama nuo XI-2 skyriuje ir šio kodekso A dalyje nustatytų siekių, tikslų ir principų.
-**Susitariančiųjų Vyriausybių pareigos**
+Susitariančiųjų Vyriausybių pareigos
 1.6 Vadovaujantis XI-2 skyriaus ir šio kodekso A dalies nuostatomis, Susitariančiosios Vyriausybės turi įvairių pareigų, kurioms, be kitų, priskiriamos šios:
 – nustatyti taikomą apsaugos lygį,
 – tvirtinti laivo apsaugos planą ir reikiamus anksčiau patvirtinto plano pakeitimus,
@@ -492,12 +492,12 @@ B DALIS
 – tvirtinti uosto įrenginio (terminalo) apsaugos planą ir visus vėlesnius anksčiau patvirtinto plano pakeitimus,
 – taikyti kontrolės ir atitikties vertinimo priemones, ir
 – nustatyti Apsaugos deklaracijos reikalavimus.
-**Apsaugos lygio nustatymas**
+Apsaugos lygio nustatymas
 1.8 Už apsaugos lygio, galiojančio kuriuo nors konkrečiu metu, nustatymą atsakingos Susitariančiosios Vyriausybės, ir jis gali būti taikomas laivams ir uosto įrenginiams (terminalams). Šio kodekso A dalyje apibūdinti trys tarptautiniu lygmeniu taikomi apsaugos lygiai, yra:
 – 1 apsaugos lygis – įprastas. Lygis, pagal kurį paprastai veikia laivai ir uosto įrenginiai (terminalai),
 – 2 apsaugos lygis – padidintas. Lygis, galiojantis tol, kol yra padidėjusi pavojų saugumui keliančio incidento rizika, ir
 – 3 apsaugos lygis – išimtinis. Lygis, nustatomas tuo laikotarpiu, kai pavojų saugumui keliantis incidentas yra tikėtinas arba neišvengiamas.
-**Kompanija ir laivas**
+Kompanija ir laivas
 1.9 Bet kuri kompanija, eksploatuojanti laivus, kuriems taikomas XI-2 skyrius ir šio kodekso A dalis, turi skirti kompanijos apsaugos pareigūną ir kiekvienam savo laivui – po laivo apsaugos pareigūną. Šių pareigūnų pareigos, funkcijos ir mokymo reikalavimai bei treniruočių ir pratybų reikalavimai išdėstyti šio kodekso A dalyje.
 1.10 Į kompanijos apsaugos pareigūno funkcijas, be kitų, įeina šios glaustai išdėstytos funkcijos: užtikrinti, kad būtų tinkamai atliktas laivo apsaugos vertinimas, kad būtų parengtas ir Administracijai arba jos vardu tvirtinti pateiktas laivo apsaugos planas, kuris vėliau perduodamas kiekvienam laivui, kuriam taikoma šio kodekso A dalis ir kuriame šis asmuo buvo paskirtas eiti kompanijos apsaugos pareigūno pareigas.
 1.11 Laivo apsaugos plane turėtų būti išdėstytos eksploatacinės ir fizinės apsaugą užtikrinančios priemonės, kurių turėtų imtis pats laivas siekdamas užtikrinti, kad jis visada dirbtų pagal 1 apsaugos lygį. Plane taip pat turėtų būti nurodytos papildomos ar intensyvesnės apsaugą užtikrinančios priemonės, kurių gali imtis pats laivas siekdamas pereiti prie 2 apsaugos lygio ir pagal jį dirbti, kai jam duodami tokie nurodymai. Be to, plane turėtų būti išvardyti galimi parengiamieji veiksmai, kuriuos galėtų atlikti laivas siekdamas operatyviai reaguoti į instrukcijas, kurias, esant 3 apsaugos lygiui, laivui gali pateikti tarnybos, reaguojančios į pavojų saugumui keliantį incidentą ar jo grėsmę.
@@ -505,7 +505,7 @@ B DALIS
 1.13 Laive turi būti Tarptautinis laivo apsaugos liudijimas, patvirtinantis, kad jis atitinka XI-2 skyriaus ir šio kodekso A dalies reikalavimus. Šio kodekso A dalyje yra išdėstytos nuostatos dėl tikrinimo ir tvirtinimo, ar laivas atitinka reikalavimus, kai atliekami pradinis, pakartotinis ir tarpinis patikrinimai.
 1.14 Kai laivas yra Susitariančiosios Vyriausybės uoste arba plaukia į jį, Susitariančioji Vyriausybė turi teisę, vadovaudamasi XI-2/9 taisyklės nuostatomis, tam laivui taikyti įvairias kontrolės ir atitikties priemones. Laive atliekamų valstybės uosto kontrolės inspekcijų metu laivo apsaugos planas paprastai nėra nagrinėjamas, išskyrus atvejus, kai atsiranda ypatingų aplinkybių. Laivui taip pat gali būti taikomos papildomos kontrolės priemonės, jei kontrolės ir atitikties priemones taikanti Susitariančioji Vyriausybė turi priežasčių manyti, kad yra sumažėjęs laivo arba uosto įrenginių (terminalų) saugumas.
 1.15 Taip pat reikalaujama, kad laive būtų informacija, kurią būtų galima pateikti Susitariančiosios Vyriausybės prašymu, įrodanti, kas atsakingas už laivo personalo samdymą ir sprendimų dėl įvairių laivo naudojimo aspektų priėmimą.
-**Uosto įrenginys (terminalas)**
+Uosto įrenginys (terminalas)
 1.16 Visos Susitariančiosios Vyriausybės turi pasirūpinti, kad visuose jų teritorijoje esančiuose uosto įrenginiuose (terminaluose), kurie aptarnauja tarptautiniais reisais plaukiojančius laivus, būtų atliekamas kiekvieno uosto įrenginio (terminalo) apsaugos vertinimas. Šį vertinimą gali atlikti Susitariančioji Vyriausybė, paskirtoji institucija arba pripažinta apsaugos organizacija. Atliktą uosto įrenginio (terminalo) apsaugos vertinimą turi tvirtinti Susitariančioji Vyriausybė arba atsakinga paskirtoji institucija. Šios tvirtinimo funkcijos negalima perduoti. Uosto įrenginių (terminalų) apsaugos vertinimus reikia periodiškai persvarstyti.
 1.17 Uosto įrenginio (terminalo) apsaugos vertinimas iš esmės yra visų uosto įrenginio (terminalo) veiklos aspektų rizikos analizė, kuria siekiama apibrėžti, kuri jo dalis (dalys) yra labiau pažeidžiama (pažeidžiamos) ir (arba) gali tapti išpuolio taikiniu. Saugumo rizika yra išpuolio grėsmės bei taikinio pažeidžiamumo ir išpuolio padarinių santykis.
 Vertinimą turi sudaryti šie elementai:
@@ -517,7 +517,7 @@ Baigus šią analizę, bus galima parengti bendrą rizikos vertinimą. Uosto įr
 1.19 Uosto įrenginio (terminalo) apsaugos plane turi būti išdėstytos eksploatacinės ir fizinės apsaugą užtikrinančios priemonės, kurių turi imtis uosto įrenginys (terminalas) siekdamas užtikrinti, kad jis visada veiktų pagal 1 apsaugos lygį. Plane taip pat turėtų būti nurodytos papildomos arba intensyvesnės apsaugą užtikrinančios priemonės, kurių gali imtis uosto įrenginys (terminalas) siekdamas pereiti prie 2 apsaugos lygio ir pagal jį veikti, kai duodami tokie nurodymai. Be to, plane turėtų būti išvardyti galimi parengiamieji veiksmai, kuriuos galėtų atlikti uosto įrenginys (terminalas) siekdamas operatyviai reaguoti į instrukcijas, kurias, esant 3 apsaugos lygiui, gali pateikti tarnybos, reaguojančios į pavojų saugumui keliantį incidentą ar jo grėsmę.
 1.20 Uosto įrenginiai (terminalai), kurie turi laikytis XI-2 skyriaus ir šio kodekso A dalies reikalavimų, turi turėti Susitariančiosios Vyriausybės arba atitinkamos paskirtosios institucijos patvirtintą uosto įrenginio (terminalo) apsaugos planą ir pagal jį veikti. Uosto įrenginio (terminalo) apsaugos pareigūnas turėtų įgyvendinti plano nuostatas ir stebėti, ar planas tebėra veiksmingas ir aktualus, įskaitant vidaus audito užsakymą plano taikymui patikrinti. Bet kurių patvirtinto plano elementų pakeitimai, kuriems Administracijos ar paskirtosios institucijos sprendimu reikalingas pritarimas, turi būti pateikti persvarstyti ir tvirtinti prieš įtraukiant juos į patvirtintą planą ir uosto įrenginiui (terminalui) juos įgyvendinant. Susitariančioji Vyriausybė arba atitinkama paskirtoji institucija gali patikrinti plano veiksmingumą. Turi būti periodiškai persvarstomas uosto įrenginio (terminalo) apsaugos vertinimas, skirtas uosto įrenginiui (terminalui), arba kuriuo vadovaujantis buvo rengiamas planas. Atlikus šiuos darbus, gali būti rengiami plano pakeitimai. Visi patvirtinto plano konkrečių elementų pakeitimai turi būti pateikti tvirtinti Susitariančiajai Vyriausybei arba atsakingai paskirtajai institucijai.
 1.21 Laivuose, kurie naudojasi uosto įrenginiais (terminalais), gali būti rengiami valstybės uosto kontrolės patikrinimai bei taikomos papildomos kontrolės priemonės, išdėstytos XI-2/9 taisyklėje. Prieš laivui įplaukiant į uostą, atitinkamos valdžios institucijos gali paprašyti pateikti informaciją apie laivą, jo krovinį, keleivius ir laivo personalą. Tam tikromis aplinkybėmis gali būti draudžiama įplaukti į uostą.
-**Informacija ir ryšiai**
+Informacija ir ryšiai
 1.22 XI-2 skyriuje ir šio kodekso A dalyje reikalaujama, kad Susitariančiosios Vyriausybės teiktų reikiamą informaciją Tarptautinei jūrų organizacijai ir kad būtų teikiama informacija, padedanti Susitariančiosioms Vyriausybėms ir kompanijų bei laivų apsaugos pareigūnams ir (ar) uosto įrenginio (terminalo) apsaugos pareigūnams, atsakingiems už uosto įrenginį (terminalą), kuriame lankosi jų laivai, veiksmingai bendrauti.
 2. APIBRĖŽIMAI
 2.1 Jokių paaiškinimų dėl XI-2 skyriuje ar šio kodekso A dalyje pateiktų apibrėžimų nepateikiama.
@@ -526,17 +526,17 @@ Baigus šią analizę, bus galima parengti bendrą rizikos vertinimą. Uosto įr
 2. „punktas“ reiškia šios kodekso dalies punktą ir yra rašomas taip: „<punkto numeris> punktas“, ir
 3. 14–18 punktuose vartojamas terminas „Susitariančioji Vyriausybė“ reiškia „Susitariančiąją Vyriausybę, kurios teritorijoje yra uosto įrenginys (terminalas)“, jis taip pat yra ir nuoroda ir į „paskirtąją instituciją“.
 3. TAIKYMAS
-**Bendrosios nuostatos**
+Bendrosios nuostatos
 3.1 Į šioje kodekso dalyje pateikiamas gaires reikia atsižvelgti vykdant XI-2 skyriaus ir šio kodekso A dalies reikalavimus.
 3.2 Vis dėlto reikėtų pripažinti, kad tai, kiek šių gairių taikoma laivams, priklausys nuo laivo tipo, jo krovinių ir (arba) keleivių, reisų pobūdžio ir laivo lankomų uosto įrenginių (terminalų) ypatumų.
 3.3 Panašiai ir gairės dėl uosto įrenginių (terminalų) bus taikomos atsižvelgiant į uosto įrenginius (terminalus), laivų tipus, kurie naudojasi šiais uosto įrenginiais (terminalais), į jų krovinių ir (arba) keleivių kategorijas, taip pat į reisų, kurie baigiami šiame uosto įrenginyje (terminale), pobūdį.
 3.4 XI-2 skyriaus ir šio kodekso A dalies nuostatos nėra skirtos uosto įrenginiams (terminalams), skirtiems ir daugiausia naudojamiems kariniams tikslams.
 4. SUSITARIANČIŲjų VYRIAUSYBIŲ PAREIGOS
-**Vertinimų ir planų apsauga**
+Vertinimų ir planų apsauga
 4.1 Susitariančiosios Vyriausybės turi pasirūpinti, kad būtų numatytos reikiamos priemonės, padedančios išvengti slaptos medžiagos apie laivų apsaugos vertinimus, apie laivų apsaugos planus, apie uosto įrenginių (terminalų) apsaugos vertinimus ir apie uostų įrenginių (terminalų) apsaugos planus bei apie atskirus vertinimus ar planus neteisėto atskleidimo ir naudojimosi ja.
-**Paskirtosios institucijos**
+Paskirtosios institucijos
 4.2 Susitariančiosios Vyriausybės gali nurodyti prie Vyriausybės veikiančią paskirtąją instituciją XI-2 skyriuje arba šio kodekso A dalyje numatytoms apsaugos užtikrinimo pareigoms, susijusioms su uosto įrenginiais (terminalais), atlikti.
-**Pripažintos apsaugos organizacijos**
+Pripažintos apsaugos organizacijos
 4.3 Susitariančiosios Vyriausybės gali įgalioti pripažintą apsaugos organizaciją (toliau – PAO) atlikti kai kurias su apsauga susijusias užduotis, įskaitant:
 1. laivų apsaugos planų ar jų pakeitimų tvirtinimą Administracijos vardu;
 2. tikrinimą Administracijos vardu, ar laivai atitinka XI-2 skyriaus ir šio kodekso A dalies reikalavimus, ir atitikties tvirtinimą;
@@ -558,7 +558,7 @@ Baigus šią analizę, bus galima parengti bendrą rizikos vertinimą. Uosto įr
 Perduodamos konkrečias pareigas, PAO, Susitariančiosios Vyriausybės, įskaitant Administracijas, turi įsitikinti, kad PAO turi gebėjimų, reikalingų užduočiai atlikti.
 4.6 Pripažintoji organizacija, apibūdinta I/6 taisyklėje ir atitinkanti XI-1/1 reikalavimus, gali būti paskirta PAO su sąlyga, kad ji turi reikiamų su apsauga susijusių specialių žinių, išvardytų 4.5 punkte.
 4.7 Uosto direkcija arba uosto įrenginio (terminalo) operatorius gali būti paskirtas PAO su sąlyga, kad jie turi reikiamų su apsauga susijusių specialių žinių, išvardytų 4.5 punkte.
-**Apsaugos lygio nustatymas**
+Apsaugos lygio nustatymas
 4.8 Nustatydamos apsaugos lygį, Susitariančiosios Vyriausybės turi atsižvelgti į bendro pobūdžio ir specifinę informaciją apie grėsmę. Susitariančiosios Vyriausybės turi nustatyti vieną iš trijų laivams ar uosto įrenginiams (terminalams) taikomų apsaugos lygių:
 – 1 apsaugos lygis – įprastas. Lygis, pagal kurį paprastai veikia laivai ir uosto įrenginiai (terminalai),
 – 2 apsaugos lygis – padidintas. Lygis, galiojantis tol, kol yra padidėjusi pavojų saugumui keliančio incidento rizika, ir
@@ -568,18 +568,18 @@ Perduodamos konkrečias pareigas, PAO, Susitariančiosios Vyriausybės, įskaita
 4.11 Kompanijos apsaugos pareigūnas (KAP) arba laivo apsaugos pareigūnas (LAP) turi kuo greičiau užmegzti ryšį su uosto įrenginio (terminalo), į kurį ketina plaukti laivas, apsaugos pareigūnu (UĮAP), kad būtų nustatytas tam laivui uosto įrenginyje (terminale) taikomas apsaugos lygis. Užmezgęs ryšį su laivu, UĮAP turi informuoti laivą apie visus uosto įrenginio (terminalo) apsaugos lygio pasikeitimus ir laivui suteikti visą reikiamą informaciją apie apsaugą.
 4.12 Nors gali būti tokių aplinkybių, kai atskiras laivas dirba pagal aukštesnį apsaugos lygį negu uosto įrenginys (terminalas), kuriame jis lankosi, laivui jokiomis aplinkybėmis negali būti nustatytas žemesnis apsaugos lygis negu uosto įrenginiui (terminalui), į kurį jis atplaukia. Jei laivo apsaugos lygis aukštesnis negu uosto įrenginio (terminalo), kuriuo jis ketina naudotis, KAP ir LAP turi nedelsdama apie tai informuoti UĮAP. UĮAP turi įvertinti konkrečią situaciją konsultuodamasis su KAP bei LAP ir su laivu susitarti dėl reikiamų apsaugos priemonių, tarp kurių gali būti Apsaugos deklaracijos pildymas ir pasirašymas.
 4.13 Susitariančiosios Vyriausybės turi apsvarstyti, kaip reikėtų greitai išplatinti informaciją apie apsaugos lygių pakeitimus. Administracijos galbūt norės pasinaudoti NAVTEX pranešimais arba įspėjimais jūrininkams kaip būdu pranešti apie šiuos apsaugos lygių pakeitimus laivui ir KAP bei LAP. Jos gali apsvarstyti ir kitus tokios pačios arba didesnės spartos ir masto pranešimų perdavimo būdus. Susitariančiosios Vyriausybės turi nustatyti UĮAP informavimo apie apsaugos lygių pakeitimus būdus. Susitariančiosios Vyriausybės turi kaupti ir saugoti kontaktinę informaciją ir įrašyti ją į asmenų, kuriuos reikia informuoti apie apsaugos lygių pakeitimus, sąrašą. Nors apsaugos lygio nebūtina laikyti labai slapta informacija, jį grindžianti informacija apie grėsmę gali būti labai slapta. Susitariančiosios Vyriausybės turi rūpestingai apsvarstyti LAP, KAP ir UĮAP perduodamos informacijos rūšis ir išsamumą bei jos perdavimo būdą.
-**Ryšių centrai ir informacija apie uosto įrenginių (terminalų) apsaugos planus**
+Ryšių centrai ir informacija apie uosto įrenginių (terminalų) apsaugos planus
 4.14 Jei uosto įrenginys (terminalas) turi uosto įrenginio (terminalo) apsaugos planą, apie tai reikia pranešti Organizacijai ir šią informaciją taip pat reikia pateikti KAP ir LAP. Jokios kitos informacijos apie uosto įrenginio (terminalo) apsaugos planą, išskyrus tai, kad jis yra parengtas, skelbti nereikia. Susitariančiosios Vyriausybės turi apsvarstyti galimybę steigti centrinius arba regioninius ryšių centrus arba numatyti kitus būdus teikti naujausią informaciją tose vietose, kur yra parengti uosto įrenginių (terminalų) apsaugos planai, drauge su atitinkamų UĮAP kontaktine informacija. Reikia paskelbti, kad šie ryšių centrai yra įsteigti. Jie taip pat galėtų teikti informaciją apie pripažintas apsaugos organizacijas, paskirtas veikti Susitariančiosios Vyriausybės vardu, drauge su išsamia informacija apie konkrečią atsakomybę ir šioms pripažintoms apsaugos organizacijoms perduotų įgaliojimų sąlygas.
 4.15 Jei uostas neturi uosto įrenginio (terminalo) apsaugos plano (ir neturi UĮAP), centrinis arba regioninis ryšių centras turi sugebėti rasti krante tinkamos kvalifikacijos asmenį, kuris galėtų pasirūpinti, kad prireikus tol, kol uoste stovi atplaukęs laivas, būtų įdiegtos reikiamos apsaugą užtikrinančios priemonės.
 4.16 Susitariančiosios Vyriausybės taip pat turi pateikti Vyriausybės pareigūnų, kuriems LAP, KAP ir UĮAP gali pranešti apie nerimą dėl saugos keliančius dalykus, kontaktinę informaciją. Šie Vyriausybės pareigūnai, prieš imdamiesi reikiamų veiksmų, turi įvertinti šiuos pranešimus. Šie nurodyti nerimą keliantys dalykai gali turėti įtakos apsaugos priemonėms, kurios priklauso kitos Susitariančiosios Vyriausybės jurisdikcijai. Tokiu atveju Susitariančiosios Vyriausybės atsakingi asmenys turi apsvarstyti galimybę susisiekti su savo kolegomis iš kitos Susitariančiosios Vyriausybės ir aptarti, ar reikia imtis ištaisomųjų veiksmų. Šiuo tikslu Vyriausybės pareigūnų kontaktinė informacija turi būti perduota Tarptautinei jūrų organizacijai.
 4.17 Susitariančiosios Vyriausybės 4.14–4.16 punktuose nurodytą informaciją taip pat turi pateikti kitoms Susitariančiosioms Vyriausybėms šių prašymu.
-**Asmens tapatybės dokumentai**
+Asmens tapatybės dokumentai
 4.18 Susitariančiosios Vyriausybės yra raginamos Vyriausybės pareigūnams, kurie, atlikdami savo oficialias pareigas, turi teisę patekti į laivus arba uosto įrenginius (terminalus), išduoti tinkamus asmens tapatybės dokumentus ir numatyti procedūras, skirtas šių dokumentų tikrumui patikrinti.
-**Stacionarios ir plaukiojančios platformos ir vietiniai mobilieji atviros jūros gręžimo įrenginiai**
-4.19 Susitariančiosios Vyriausybės turi apsvarstyti galimybę nustatyti reikiamas apsaugos priemones, skirtas stacionarioms ir plaukiojančioms platformoms ir vietiniams mobiliesiems atviros jūros gręžimo įrenginiams, kad jie galėtų dirbti su laivais, kurie turi atitikti XI-2 skyriaus ir šio kodekso A dalies nuostatas^2.
-**Laivai, kurie neprivalo laikytis šio kodekso A dalies reikalavimų**
+Stacionarios ir plaukiojančios platformos ir vietiniai mobilieji atviros jūros gręžimo įrenginiai
+4.19 Susitariančiosios Vyriausybės turi apsvarstyti galimybę nustatyti reikiamas apsaugos priemones, skirtas stacionarioms ir plaukiojančioms platformoms ir vietiniams mobiliesiems atviros jūros gręžimo įrenginiams, kad jie galėtų dirbti su laivais, kurie turi atitikti XI-2 skyriaus ir šio kodekso A dalies nuostatas2.
+Laivai, kurie neprivalo laikytis šio kodekso A dalies reikalavimų
 4.20 Susitariančiosios Vyriausybės turi apsvarstyti galimybę įdiegti reikiamas apsaugos priemones, skirtas laivų, kuriems netaikomas XI-2 skyrius ir šio kodekso A dalis, saugai padidinti ir užtikrinti, kad visos šiems laivams taikomos apsaugos nuostatos leistų jų sąveiką su laivais, kuriems šio kodekso A dalies nuostatos yra taikomos.
-**Grėsmė laivams ir kiti incidentai jūroje**
+Grėsmė laivams ir kiti incidentai jūroje
 4.21 Susitariančiosios Vyriausybės turi pateikti bendrųjų rekomendacijų dėl priemonių, laikomų tinkamomis norint sumažinti su jų valstybės vėliava plaukiojančių laivų saugumui kylančią grėsmę jūroje. Jos turi pateikti konkrečių nurodymų, kokių veiksmų imtis vadovaujantis 1–3 apsaugos lygiais, jei:
 1. laivui esant jūroje, pvz., dėl geografinės vietovės, kurioje jis plaukioja, arba dėl paties laivo ypatumų, yra keičiamas jam taikomas apsaugos lygis, ir
 2. laivui esant jūroje, įvyksta su juo susijęs pavojų saugumui keliantis incidentas arba kyla jo grėsmė.
@@ -595,16 +595,16 @@ Susitariančiosios Vyriausybės turi nustatyti, kokie būdai ir procedūros geri
 Susitariančiosios Vyriausybės jų teritorinėje jūroje plaukiojantiems arba apie ketinimą įplaukti į jų teritorinę jūrą pranešusiems laivams turi priminti apie visas savo paskelbtas laikinas draudžiamąsias zonas.
 4.24 Susitariančiosios Vyriausybės laivams, plaukiojantiems jų teritorinėje jūroje arba pranešusiems apie ketinimą įplaukti į jų teritorinę jūrą, turi rekomenduoti operatyviai įdiegti visas Susitariančiosios Vyriausybės siūlomas apsaugos priemones, skirtas laivui arba kitiems netoliese esantiems laivams apsaugoti.
 4.25 Susitariančiosios Vyriausybės parengtuose planuose, skirtuose 4.22 punkte nurodytiems tikslams pasiekti, turi būti pateikta informacija apie atitinkamą prie Susitariančiosios Vyriausybės, įskaitant Administraciją, visą parą veikiantį ryšių centrą. Šiuose planuose taip pat turi būti pateikta informacija apie aplinkybes, kurioms susiklosčius, Administracijos nuomone, reikia kreiptis pagalbos į netoliese esančias pakrantės valstybes, ir apie UĮAP ir LAP ryšių palaikymo tvarką.
-**Alternatyvūs susitarimai dėl apsaugos**
+Alternatyvūs susitarimai dėl apsaugos
 4.26 Spręsdamos, kaip įgyvendinti XI-2 skyriaus ir šio kodekso A dalies nuostatas, Susitariančiosios Vyriausybės gali sudaryti vieną ar daugiau susitarimų su viena ar keliomis Susitariančiosiomis Vyriausybėmis. Susitarimas turi būti taikomas trumpiems nustatytais maršrutais atliekamiems reisams tarp uostų įrenginių (terminalų), esančių susitarimo šalių teritorijoje. Sudarydamos susitarimą ir jį sudariusios Susitariančiosios Vyriausybės turi konsultuotis su kitomis Susitariančiosiomis Vyriausybėmis ir Administracijomis, kurias domina šio susitarimo padariniai. Su valstybės, kuri nėra susitarimo šalis, vėliava plaukiojantiems laivams turi būti leidžiama plaukioti tik nustatytais susitarime numatytais maršrutais, jei jų Administracija sutinka, kad laivas turi laikytis susitarimo nuostatų, ir reikalauja, kad laivas jų laikytųsi. Dėl šio susitarimo jokiomis aplinkybėmis neturi nukentėti kitų laivų ir uostų įrenginių (terminalų), kuriems jis netaikomas, apsauga ir ypač jokie laivai, kuriems taikomas šis susitarimas, negali atlikti krovos iš laivo į laivą darbų su laivais, kuriems jis netaikomas. Susitarimas turi reglamentuoti bet kokią darbinę laivų, kuriems jis taikomas, sąveiką. Kiekvieno susitarimo vykdymas turi būti nuolat prižiūrimas, taip pat prireikus jie turi būti keičiami ir bet kuriuo atveju persvarstomi kas 5 metai.
-**Lygiaverčiai susitarimai, taikomi uosto įrenginiams (terminalams)**
+Lygiaverčiai susitarimai, taikomi uosto įrenginiams (terminalams)
 4.27 Kai kuriuose konkrečiuose uosto įrenginiuose (terminaluose), kuriuose atliekama nedaug operacijų arba šios operacijos yra ribotos, bet kuriuose laivų eismas nėra visiškai nereguliarus, gali prireikti užtikrinti, kad jie laikytųsi apsaugos priemonių, kurios yra lygiavertės toms, kurios nustatytos XI-2 skyriuje ir šio kodekso A dalyje. Tai ypač pasakytina apie terminalus, kurie, pavyzdžiui, yra sujungti su gamyklomis, arba prieplaukų rajonus, kuriuose dažnai neatliekamos operacijos.
-**Įgulos komplektavimas**
-4.28 Nustatydama minimalius saugaus laivo įgulos komplektavimo reikalavimus, Administracija turi atsižvelgti^3į tai, kad V/14^4taisyklėje išdėstytos nuostatos dėl minimalaus saugaus įgulos komplektavimo susijusios tik su saugia laivyba. Administracija taip pat turi atsižvelgti į visą papildomą darbo krūvį, kurio gali atsirasti įgyvendinant laivo apsaugos planą, ir užtikrinti, kad laivo įgula būtų pakankamai ir efektyviai sukomplektuota. Tai darydama Administracija turi patikrinti, ar laivai galės laikytis poilsio režimo ir taikyti nuovargiui įveikti kitas priemones, kurios numatytos nacionalinės teisės aktuose ir taikomos atliekant visas įvairiam personalui priskirtas pareigas laive.
-**Kontrolės ir atitikties priemonės**^5
-**Bendrosios nuostatos**
+Įgulos komplektavimas
+4.28 Nustatydama minimalius saugaus laivo įgulos komplektavimo reikalavimus, Administracija turi atsižvelgti3 į tai, kad V/144 taisyklėje išdėstytos nuostatos dėl minimalaus saugaus įgulos komplektavimo susijusios tik su saugia laivyba. Administracija taip pat turi atsižvelgti į visą papildomą darbo krūvį, kurio gali atsirasti įgyvendinant laivo apsaugos planą, ir užtikrinti, kad laivo įgula būtų pakankamai ir efektyviai sukomplektuota. Tai darydama Administracija turi patikrinti, ar laivai galės laikytis poilsio režimo ir taikyti nuovargiui įveikti kitas priemones, kurios numatytos nacionalinės teisės aktuose ir taikomos atliekant visas įvairiam personalui priskirtas pareigas laive.
+Kontrolės ir atitikties priemonės5
+Bendrosios nuostatos
 4.29 XI-2/9 taisyklėje apibūdinamos, vadovaujantis XI-2 skyriumi, laivams taikomos kontrolės ir atitikties priemonės. Ji padalyta į tris atskirus skyrius: jau uoste stovinčių laivų kontrolė; laivų, ketinančių įplaukti į kitos Susitariančiosios Vyriausybės uostą, kontrolė ir papildomos abiem situacijoms taikomos nuostatos.
-4.30 XI-2/9.1. taisyklėje, reglamentuojančioje uoste stovinčių laivų kontrolę, įdiegiama sistema laivams kontroliuoti, kai jie stovi užsienio valstybės uoste, suteikianti teisę nustatyta tvarka įgaliotiems Susitariančiosios Vyriausybės pareigūnams (nustatyta tvarka įgalioti pareigūnai) įlipti į laivą patikrinti, ar tinkamai sutvarkyti reikiami liudijimai. Tada, jei yra aiškių priežasčių manyti, kad laivas neatitinka reikalavimų, galima imtis kitų kontrolės priemonių, pavyzdžiui, atlikti papildomus patikrinimus arba sulaikyti laivą. Tai yra numatyta dabartinėse kontrolės sistemose^6. XI-2/9.1. taisyklė grindžiama šiomis sistemomis ir leidžia taikyti papildomas priemones (įskaitant laivo išsiuntimą iš uosto kaip kontrolės priemonę), kai nustatyta tvarka įgalioti pareigūnai turi aiškių priežasčių manyti, kad laivas neatitinka XI-2 skyriaus arba šio kodekso A dalies reikalavimų. XI-2/9.3. taisyklėje apibūdinti saugikliai, skatinantys teisingą ir proporcingą šių papildomų priemonių taikymą.
+4.30 XI-2/9.1. taisyklėje, reglamentuojančioje uoste stovinčių laivų kontrolę, įdiegiama sistema laivams kontroliuoti, kai jie stovi užsienio valstybės uoste, suteikianti teisę nustatyta tvarka įgaliotiems Susitariančiosios Vyriausybės pareigūnams (nustatyta tvarka įgalioti pareigūnai) įlipti į laivą patikrinti, ar tinkamai sutvarkyti reikiami liudijimai. Tada, jei yra aiškių priežasčių manyti, kad laivas neatitinka reikalavimų, galima imtis kitų kontrolės priemonių, pavyzdžiui, atlikti papildomus patikrinimus arba sulaikyti laivą. Tai yra numatyta dabartinėse kontrolės sistemose6. XI-2/9.1. taisyklė grindžiama šiomis sistemomis ir leidžia taikyti papildomas priemones (įskaitant laivo išsiuntimą iš uosto kaip kontrolės priemonę), kai nustatyta tvarka įgalioti pareigūnai turi aiškių priežasčių manyti, kad laivas neatitinka XI-2 skyriaus arba šio kodekso A dalies reikalavimų. XI-2/9.3. taisyklėje apibūdinti saugikliai, skatinantys teisingą ir proporcingą šių papildomų priemonių taikymą.
 4.31 XI-2/9.2. taisyklė nustato kontrolės priemones, skirtas užtikrinti, kad laivai, ketinantys įplaukti į kitos Susitariančiosios Vyriausybės uostą, atitiktų reikalavimus, ir joje pateikiama visiškai kitokia XI-2 skyriuje numatytos kontrolės samprata, taikoma tik apsaugai. Vadovaujantis šia taisykle, priemonės gali būti taikomos tol, kol laivas įplaukia į uostą, kad būtų geriau užtikrinta jo apsauga. Lygiai taip pat kaip XI-2/9.1. taisyklėje, ši papildomos kontrolės sistema grindžiama samprata, kad turi būti aiškių priežasčių manyti, kad laivas neatitinka XI-2 skyriaus arba šio kodekso A dalies reikalavimų, ir joje numatyti reikšmingi saugikliai, išdėstyti XI-2/9.2.2. ir XI-2/9.2.5. taisyklėse bei XI-2/9.3. taisyklėje.
 4.32 Aiškios priežastys manyti, kad laivas neatitinka reikalavimų, reiškia įrodymus ar patikimą informaciją, kad laivas neatitinka XI-2 skyriaus arba šio kodekso A dalies reikalavimų atsižvelgiant į šioje kodekso dalyje pateiktas gaires. Tokių įrodymų ar patikimos informacijos nustatyta tvarka įgaliotas pareigūnas gali gauti vadovaudamasis savo profesiniu vertinimu, tikrindamas laivo Tarptautinį laivo apsaugos liudijimą arba Laikinąjį tarptautinį laivo apsaugos liudijimą, išduotus vadovaujantis šio kodekso A dalimi („Sertifikavimas“), arba iš kitų šaltinių. Net jei laive yra galiojantis liudijimas, nustatyta tvarka įgaliotas pareigūnas, vadovaudamasis savo profesiniu vertinimu, vis tiek gali turėti aiškių priežasčių manyti, kad laivas neatitinka reikalavimų.
 4.33 Galimų aiškių priežasčių pagal XI-2/9.1. ir XI-2/9.2. taisykles atitinkami pavyzdžiai:
@@ -618,9 +618,9 @@ Susitariančiosios Vyriausybės jų teritorinėje jūroje plaukiojantiems arba a
 8. jei laivas turi pakartotinai išduotą Laikinąjį tarptautinį laivo apsaugos liudijimą, apibūdintą A/19.4. skirsnyje, ir jei, remiantis nustatyta tvarka įgalioto pareigūno profesiniu vertinimu, vienas iš tikslų, kurio siekia laivas arba kompanija prašydami išduoti šį liudijimą, yra vengti laikytis visų XI-2 skyriaus ir šio kodekso A dalies reikalavimų pasibaigus pirmojo laikinojo liudijimo, apibūdinto A/19.4.4 skirsnyje, galiojimo laikotarpiui.
 4.34 XI-2/9 taisyklės poveikis tarptautinės teisės normoms yra itin svarbus ir ši taisyklė turi būti įgyvendinama atsižvelgiant į XI-2/2.4. taisyklę, kadangi gali susiklostyti tokios situacijos, kai bus imamasi priemonių, nepatenkančių į XI-2 skyriaus reglamentuojamą sritį, arba kai reikės atsižvelgti į šių nuostatų paveiktų laivų teises, kurių nereglamentuoja XI-2 skyrius. Todėl XI-2/9 taisyklė nedraudžia Susitariančiosioms Vyriausybėms imtis priemonių, kurios yra grindžiamos arba atitinka tarptautinės teisės normas, kad būtų užtikrinta žmonių, laivų, uosto įrenginių (terminalų) ir kito turto saugumas ir apsauga tais atvejais, kai manoma, kad laivas, nors ir atitinka XI-2 skyriaus ir šio kodekso A dalies reikalavimus, vis tiek kelia grėsmę saugumui.
 4.35 Pradėjusi taikyti kontrolės priemones laivui, Susitariančioji Vyriausybė turi nedelsdama susisiekti su Administracija ir pateikti jai pakankamai informacijos, kad Administracija galėtų palaikyti visus reikiamus ryšius su Susitariančiąja Vyriausybe.
-**Laivų kontrolė uoste**
+Laivų kontrolė uoste
 4.36 Kai neatitikimą lemia įrangos sudedamosios dalies defektas arba dokumentacijos trūkumai, dėl kurių laivas yra sulaikomas, ir neatitikimo negalima ištaisyti patikrinimo uoste, Susitariančioji Vyriausybė gali leisti laivui plaukti į kitą uostą su sąlyga, kad bus laikomasi visų sąlygų, dėl kurių susitaria uosto valstybės ir Administracija arba laivo kapitonas.
-**Laivai, ketinantys įplaukti į kitos Susitariančiosios Vyriausybės uostą**
+Laivai, ketinantys įplaukti į kitos Susitariančiosios Vyriausybės uostą
 4.37 XI-2/9.2.1. taisyklėje nurodyta informacija, kurios Susitariančiosios Vyriausybės gali reikalauti iš laivo kaip sąlygos įplaukti į uostą. Vienas nurodytos informacijos elementų yra patvirtinimas, kokių specialiųjų ar papildomų priemonių ėmėsi laivas paskutinius dešimt kartų atplaukęs į uosto įrenginį (terminalą). Galima paminėti šiuos pavyzdžius:
 1. įrašai apie priemones, kurių buvo imtasi lankantis uosto įrenginyje (terminale), esančiame valstybės, kuri nėra Susitariančioji Vyriausybė, teritorijoje, ypač tas priemones, kurias paprastai taiko Susitariančiųjų Vyriausybių teritorijoje esantys uostų įrenginiai (terminalai),
 2. visos Apsaugos deklaracijos, pasirašytos su uosto įrenginiais (terminalais) ar kitais laivais.
@@ -637,7 +637,7 @@ Susitariančiosios Vyriausybės jų teritorinėje jūroje plaukiojantiems arba a
 6. keleivių sąrašas;
 7. informacija, kurią reikia turėti vadovaujantis XI-2/5 taisykle.
 4.40 XI-2/9.2.5. taisyklė leidžia laivo kapitonui, gavus informacijos apie tai, kad pakrantės valstybė arba uosto valstybė imsis XI-2/9.2. taisyklėje numatytų kontrolės priemonių, atsisakyti ketinimo laivui įplaukti į uostą. Jei kapitonas atsisako šio ketinimo, XI-2/9 taisyklė nebetaikoma, o visi kiti atliekami veiksmai turi būti grindžiami tarptautinės teisės normomis ir jas atitikti.
-**Papildomos nuostatos**
+Papildomos nuostatos
 4.41 Visais atvejais, kai laivui neleidžiama įplaukti į uostą arba jis išsiunčiamas iš uosto, atitinkamų valstybių valdžios institucijoms turi būti perduoti visi žinomi faktai. Šiame pranešime turi būti nurodyta, jei yra žinoma:
 1. laivo pavadinimas, vėliava, laivo identifikacijos numeris, šaukinys, laivo tipas ir krovinys;
 2. priežastis, kodėl laivui neleista įplaukti į uostą ar uosto zonas arba jis išsiųstas;
@@ -653,11 +653,11 @@ Susitariančiosios Vyriausybės jų teritorinėje jūroje plaukiojantiems arba a
 4.42 Tarp valstybių, su kuriomis reikia susisiekti, turi būti valstybės, kurias laivas ketina praplaukti pakeliui į kitą uostą, ypač jei laivas ketina įplaukti į tos pakrantės valstybės teritorinę jūrą. Kitos valstybės gali būti ankstesni įplaukimo uostai, kad būtų galima gauti išsamesnės informacijos ir išspręsti su ankstesniais uostais susijusius apsaugos klausimus.
 4.43 Taikydami kontrolės ir atitikties priemones, nustatyta tvarka įgalioti pareigūnai turi užtikrinti, kad visos taikomos priemonės arba veiksmai būtų proporcingi. Šios priemonės arba veiksmai turi būti pagrįsti, kaip galima mažiau griežti ir minimalios trukmės, būtinos neatitikimams ištaisyti arba sušvelninti.
 4.44 Žodis „gaišinimas“ XI-2/9.3.5.1. taisyklėje taikomas ir tomis situacijomis, kai dėl veiksmų, atliekamų pagal šią taisyklę, laivui nepagrįstai nesuteikiamas leidimas įplaukti į uostą arba laivas nepagrįstai išsiunčiamas iš uosto.
-**Prie Konvencijos neprisijungusių šalių laivai ir laivai, kurių dydis mažesnis už Konvencijoje nustatytą dydį**
-4.45. Susitariančiosios Vyriausybės turi nustatyti palankias sąlygas laivams, plaukiojantiems su valstybės, kuri nėra Konvencijos Susitariančioji Vyriausybė ir kuri nėra prisijungusi prie 1988 m. SOLAS protokolo^7, vėliava. Tiems laivams reikia atitinkamai taikyti XI-2/9 taisyklės reikalavimus ir šioje kodekso dalyje pateiktas gaires.
+Prie Konvencijos neprisijungusių šalių laivai ir laivai, kurių dydis mažesnis už Konvencijoje nustatytą dydį
+4.45. Susitariančiosios Vyriausybės turi nustatyti palankias sąlygas laivams, plaukiojantiems su valstybės, kuri nėra Konvencijos Susitariančioji Vyriausybė ir kuri nėra prisijungusi prie 1988 m. SOLAS protokolo7, vėliava. Tiems laivams reikia atitinkamai taikyti XI-2/9 taisyklės reikalavimus ir šioje kodekso dalyje pateiktas gaires.
 4.46 Laivams, kurių dydis mažesnis už Konvencijoje nustatytą dydį, taikomos priemonės, kuriomis valstybės užtikrina apsaugą. Šių priemonių reikia imtis deramai atsižvelgus į XI-2 skyriaus reikalavimus ir šioje kodekso dalyje pateiktas gaires.
 5. APSAUGOS DEKLARACIJA
-**Bendrosios nuostatos**
+Bendrosios nuostatos
 5.1 Apsaugos deklaracija (AD) turi būti pildoma, kai uosto įrenginio (terminalo) Susitariančioji Vyriausybė arba laivas nusprendžia, jog tai būtina.
 5.1.1 AD poreikį gali parodyti uosto įrenginio (terminalo) apsaugos vertinimo (UĮAV) rezultatai, o priežastys ir aplinkybės, kada reikalinga AD, turi būti nustatytos uosto įrenginio (terminalo) apsaugos plane.
 5.1.2 Administracija gali nustatyti, kad AD turi pildyti laivai, turintys teisę plaukioti su jos vėliava, arba to gali būti reikalaujama atlikus laivo apsaugos vertinimą ir tai turi būti numatyta laivo apsaugos plane.
@@ -670,7 +670,7 @@ Susitariančiosios Vyriausybės jų teritorinėje jūroje plaukiojantiems arba a
 5.5 AD turi būti užpildyta anglų, ispanų ar prancūzų kalba arba bendra uosto įrenginio (terminalo) ir laivo arba laivų vartojama kalba.
 5.6. Šios kodekso dalies 1 priedėlyje pateikta tipinė AD forma. Tokią AD pildo laivas ir uosto įrenginys (terminalas). Jei reikia du laivus apimančios AD, pateiktą formą reikia atitinkamai patikslinti.
 6. KOMPANIJOS PAREIGOS
-**Bendrosios nuostatos**
+Bendrosios nuostatos
 6.1 XI-2/5 taisyklėje reikalaujama, kad kompanija laivo kapitonui pateiktų informacijos, reikalingos kompanijos reikalavimams įvykdyti vadovaujantis šios taisyklės nuostatomis. Tokią informaciją sudaro šie elementai:
 1. šalys, atsakingos už laivo personalo skyrimą, pavyzdžiui, laivų valdymo kompanijos, įgulos komplektavimo agentai, rangovai, koncesininkai, pavyzdžiui, mažmeninės prekybos punktai, kazino ir t. t.;
 2. šalys, atsakingos už sprendimą, kaip bus naudojamas laivas, įskaitant laivo be įgulos frachtuotojus arba laivo tam tikram laikui frachtuotojus ar kitus šias funkcijas atliekančius subjektus, ir
@@ -682,11 +682,11 @@ Susitariančiosios Vyriausybės jų teritorinėje jūroje plaukiojantiems arba a
 6.6 Po 2004 m. liepos 1 d., kai laivo eksploatacija nutraukiama, informacija turi būti teikiama nuo pakartotinio laivo eksploatavimo pradžios dienos ir atspindėti faktinę būklę tą dieną.
 6.7 Anksčiau pateiktos informacijos, nesusijusios su faktine laivų būkle tą dieną, laikyti laive nereikia.
 6.8 Kai atsakomybę už laivo eksploatavimą perima kita kompanija, informacijos apie kompaniją eksploatavusią laivą palikti nebūtina.
-*8, 9 ir 13 skirsniuose papildomai pateiktos kitos susijusios gairės.*
+8, 9 ir 13 skirsniuose papildomai pateiktos kitos susijusios gairės.
 7. LAIVO APSAUGA
-*Atitinkamos gairės pateiktos 8, 9 ir 13 skirsniuose.*
+Atitinkamos gairės pateiktos 8, 9 ir 13 skirsniuose.
 8. LAIVO APSAUGOS VERTINIMAS
-**Apsaugos vertinimas**
+Apsaugos vertinimas
 8.1 Kompanijos apsaugos pareigūnas (KAP) yra atsakingas už tai, kad būtų atliktas kiekvieno kompanijos laivyne esančio laivo, kuris turi laikytis XI-2 skyriaus ir šio kodekso A dalies nuostatų ir už kurį atsakingas KAP, apsaugos vertinimas (LAV). Nors KAP nebūtinai turi asmeniškai atlikti visas su šiuo postu susijusias pareigas, galutinė atsakomybė tenka individualiam KAP.
 8.2 Prieš pradėdamas LAV, KAP turi užtikrinti, kad būtų pasinaudota turima informacija apie grėsmės uostams, į kuriuos įplauks laivas arba kuriame įlaipinami ar išlaipinami keleiviai, vertinimą ir apie uosto įrenginius (terminalus) bei jų apsaugos priemones. KAP turi išnagrinėti ankstesnes ataskaitas dėl panašių apsaugos poreikių. Jei įmanoma, KAP turi susitikti su reikiamais asmenimis laive ir uosto įrenginiuose (terminaluose) ir aptarti vertinimo tikslą bei metodiką. KAP turi vadovautis visomis konkrečiomis Susitariančiųjų Vyriausybių pateiktomis gairėmis.
 8.3 Atliekant LAV, reikia atsižvelgti į šiuos laive esančius elementus:
@@ -761,7 +761,7 @@ Susitariančiosios Vyriausybės jų teritorinėje jūroje plaukiojantiems arba a
 8.11 KAP ir LAP visada turi atsižvelgti į tai, kokį poveikį apsaugą užtikrinančios priemonės gali turėti laivo personalui, kuris laive išbus ilgą laiką. Rengiant apsaugą užtikrinančias priemones, reikia ypač atsižvelgti į laivo personalo patogumą, komfortą ir asmens privatumą bei jų gebėjimą ilgą laiką dirbti efektyviai.
 8.12 Atlikus LAV, parengiama ataskaita, kurioje apibendrintai išdėstoma, kaip buvo atliktas patikrinimas, aprašomas kiekvienas vertinimo metu aptiktas trūkumas ir atsakomosios priemonės, kurias galima taikyti kiekvienam trūkumui pašalinti. Ataskaita saugoma, kad ja nebūtų be leidimo naudojamasi ar atskleidžiama joje esanti informacija.
 8.13 Jei LAV atlieka ne kompanija, LAV ataskaitą turi persvarstyti ir patvirtinti KAP.
-**Apsaugos patikrinimas vietoje**
+Apsaugos patikrinimas vietoje
 8.14 Apsaugos patikrinimas vietoje yra neatsiejama bet kurio LAV dalis. Atliekant apsaugos patikrinimą vietoje, reikia išnagrinėti ir įvertinti laive turimas apsaugines priemones, procedūras ir operacijas pagal tai, ar jomis:
 1. užtikrinama, kad būtų atliekamos visos su laivo apsauga susijusios pareigos;
 2. stebimos draudžiamosios zonos, kad į jas patektų tik leidimus turintys asmenys;
@@ -771,7 +771,7 @@ Susitariančiosios Vyriausybės jų teritorinėje jūroje plaukiojantiems arba a
 6. prižiūrima, kaip tvarkomi kroviniai ir pristatomos laivo atsargos; ir
 7. užtikrinama, kad būtų parengtos naudoti laivo apsaugą užtikrinančios ryšių priemonės, informacija ir įranga.
 9. LAIVO APSAUGOS PLANAS
-**Bendrosios nuostatos**
+Bendrosios nuostatos
 9.1 Kompanijos apsaugos pareigūnas (KAP) turi užtikrinti, kad būtų parengtas ir pateiktas tvirtinti laivo apsaugos planas. Kiekvieno laivo apsaugos plano turinys gali skirtis pagal tai, kokiam laivui jis skirtas. Laivo apsaugos vertinime (LAV) yra nurodyti laivo ypatumai ir galimos grėsmės bei trūkumai. Rengiant laivo apsaugos planą, reikia išsamiai išnagrinėti šiuos ypatumus. Administracijos gali parengti rekomendacijų dėl laivo apsaugos plano rengimo ir turinio.
 9.2 Visuose laivų apsaugos planuose turi būti:
 1. išsamiai išdėstyta laivo apsaugos užtikrinimo organizacinė struktūra;
@@ -787,7 +787,7 @@ Susitariančiosios Vyriausybės jų teritorinėje jūroje plaukiojantiems arba a
 1. įvertinti, ar laivo apsaugos planas tebėra veiksmingas, ir
 2. rengti plano pakeitimus jį patvirtinus.
 9.6 Į laivo apsaugos planą įrašytos apsaugą užtikrinančios priemonės jau turi būti įdiegtos, atliekant pradinį tikrinimą, ar laivas atitinka XI-2 skyriaus ir šio kodekso A dalies reikalavimus. Kitaip negali būti atliekamos Tarptautinio laivo apsaugos liudijimo išdavimo laivui procedūros. Jei vėliau sutrinka apsaugos įrangos ar sistemų darbas arba dėl kokios nors priežasties laikinai sustabdomas apsaugą užtikrinančių priemonių taikymas, turi būti imtasi lygiaverčių laikinųjų apsaugos priemonių; apie jas turi būti pranešta Administracijai ir Administracija turi joms pritarti.
-**Laivo apsaugą užtikrinančių pareigų organizavimas ir atlikimas**
+Laivo apsaugą užtikrinančių pareigų organizavimas ir atlikimas
 9.7 Be 9.2. punkte pateiktų gairių, laivo apsaugos plane turi būt išdėstyti šie dalykai, susiję su visais apsaugos lygiais:
 1. viso laivo personalo, susijusio su apsauga, pareigos ir funkcijos;
 2. procedūros arba saugikliai, būtini norint bet kuriuo metu palaikyti nuolatinį ryšį;
@@ -803,7 +803,7 @@ Susitariančiosios Vyriausybės jų teritorinėje jūroje plaukiojantiems arba a
 4. laivo atsargų pristatymu;
 5. nelydimo bagažo tvarkymu, ir
 6. laivo apsaugos stebėjimu.
-**Patekimas į laivą**
+Patekimas į laivą
 9.9 Laivo apsaugos plane turi būti nustatytos apsaugą užtikrinančios priemonės, apimančios visus LAV išvardytus pateikimo į laivą būdus. Jiems priskiriama:
 1. įlipimo kopėčios;
 2. įlipimo trapai;
@@ -815,7 +815,7 @@ Susitariančiosios Vyriausybės jų teritorinėje jūroje plaukiojantiems arba a
 9.11 Laivo apsaugos plane turi būti nustatytos kiekvienam apsaugos lygiui taikomos identifikavimo priemonės, reikalingos, kad būtų galima leisti asmenims patekti į laivą ir būti laive be apribojimų; tam gali reikėti sukurti tinkamą laivo personalo ir lankytojų identifikavimo sistemą, leidžiančią atlikti galutinį ir laikiną identifikavimą. Bet kuri laivo identifikavimo sistema turi būti derinama su sistema, taikoma uosto įrenginiui (terminalui), kai tai praktiškai įmanoma. Keleiviai turi turėti galimybę įrodyti savo tapatybę įlaipinimo talonais, bilietais ir t. t., bet jiems neturi būti leidžiama be priežiūros patekti į draudžiamąsias zonas. Laivo apsaugos plane turi būti išdėstytos nuostatos, užtikrinančios, kad identifikavimo sistemos būtų nuolat atnaujinamos ir kad už piktnaudžiavimą procedūromis būtų taikomos drausminės priemonės.
 9.12 Asmenims, nenorintiems arba negalintiems įrodyti savo tapatybės ir (arba) patvirtinti savo apsilankymo tikslo, kai yra prašomi tai padaryti, neturi būti leista patekti į laivą, o apie jų mėginimus patekti į laivą turi būti pranešama atitinkamai LAP, KAP, uosto įrenginio (terminalo) apsaugos pareigūnui (UĮAP) ir nacionalinėms arba vietos valdžios institucijoms, atsakingoms už apsaugą.
 9.13 Laivo apsaugos plane turi būti nustatyta, kokiu periodiškumu turi būti taikomos patekimo kontrolės priemonės, ypač jei jos taikomos nereguliariai arba retkarčiais.
-*1 apsaugos lygis*
+1 apsaugos lygis
 9.14 Kai yra nustatytas 1 apsaugos lygis, laivo apsaugos plane turi būti nustatytos apsaugą užtikrinančios priemonės, skirtos kontroliuoti patekimą į laivą, ir jos gali būti:
 1. visų į laivą norinčių įlipti asmenų tapatybės tikrinimas ir priežasčių, kodėl jie nori patekti į laivą, nustatymas, pavyzdžiui, tikrinant priėmimo instrukcijas, keleivių bilietus, įlaipinimo talonus, darbų užsakymus ir t. t.;
 2. palaikydamas ryšį su uosto įrenginiu (terminalu), laivas turi užtikrinti, kad būtų paskirtos saugios zonos, kuriose gali būti atliekami žmonių, bagažo (įskaitant rankinį bagažą), asmeninių daiktų, transporto priemonių ir jų turinio patikrinimai ir kratos;
@@ -826,7 +826,7 @@ Susitariančiosios Vyriausybės jų teritorinėje jūroje plaukiojantiems arba a
 7. kelio užkirtimas į nelankomas zonas, esančias greta zonų, į kurias gali patekti keleiviai ir lankytojai, užrakinant arba kitomis priemonėmis, ir
 8. visam laivo personalui apsaugos instruktažų apie galimas grėsmes, pranešimo apie įtartinus asmenis, daiktus ar veiklą procedūras bei poreikį būti budriems rengimas.
 9.15 Kai yra nustatytas 1 apsaugos lygis, gali būti atliekamos visų asmenų, norinčių patekti į laivą, kratos. Šių kratų, įskaitant atsitiktines, dažnumas turi būti nurodytas patvirtintame laivo apsaugos plane ir tam turi konkrečiai pritarti Administracija. Geriausia, jei šias kratas atlieka uosto įrenginys (terminalas) glaudžiai bendradarbiaudamas su laivu ir jos atliekamos netoli laivo. Neturi būti reikalaujama, kad laivo personalo nariai apieškotų savo kolegas ar jų asmeninius daiktus, nebent būtų akivaizdžių, grėsme saugumui grindžiamų, priežasčių tai daryti. Bet kuri krata turi būti atliekama taip, kad būtų visokeriopai atsižvelgiama į žmogaus teises ir būtų išsaugotas elementarus žmogaus orumas.
-*2 apsaugos lygis*
+2 apsaugos lygis
 9.16 Kai yra nustatytas 2 apsaugos lygis, laivo apsaugos plane turi būti nustatytos apsaugą užtikrinančios priemonės, taikomos norint apsisaugoti nuo padidėjusios pavojų saugumui keliančio incidento rizikos, kad būtų užtikrintas didesnis budrumas ir griežtesnė kontrolė, o tai gali būti daroma:
 1. skiriant daugiau personalo patruliuoti denio zonose tylos valandomis, kad būtų užkirstas kelias neteisėtai patekti į laivą;
 2. mažinant patekimo į laivą vietų skaičių, nustatant, kurias reikia uždaryti, ir numatant priemones jas tinkamai apsaugoti;
@@ -836,7 +836,7 @@ Susitariančiosios Vyriausybės jų teritorinėje jūroje plaukiojantiems arba a
 6. lydint lankytojus laive;
 7. rengiant papildomus specialius apsaugos instruktažus visam laivo personalui dėl visų nustatytų grėsmių, dar kartą pabrėžiant pranešimo apie įtartinus asmenis, daiktus ar veiklą procedūras ir akcentuojant didesnio budrumo poreikį, ir
 8. apieškant visą laivą arba kai kurias jo dalis.
-*3 apsaugos lygis*
+3 apsaugos lygis
 9.17 Kai yra nustatytas 3 apsaugos lygis, laivas turi laikytis instrukcijų, kurias pateikia į pavojų saugumui keliantį incidentą arba jo grėsmę reaguojančios tarnybos. Laivo apsaugos plane turi būti išsamiai išdėstytos apsaugą užtikrinančios priemonės, kurių gali imtis laivas glaudžiai bendradarbiaudamas su reagavimo tarnybomis bei uosto įrenginiu (terminalu), ir tarp jų galima paminėti:
 1. patekimo apribojimas parenkant vieną kontroliuojamą patekimo į laivą vietą;
 2. leidimo patekti į laivą išdavimas tik į pavojų saugumui keliantį incidentą ar jo grėsmę reaguojančioms tarnyboms;
@@ -846,7 +846,7 @@ Susitariančiosios Vyriausybės jų teritorinėje jūroje plaukiojantiems arba a
 6. laivo evakuacija;
 7. laivo perkėlimas ir
 8. pasirengimas apieškoti visą laivą arba jo dalis.
-**Draudžiamosios zonos laive**
+Draudžiamosios zonos laive
 9.18 Laivo apsaugos plane turi būti nurodytos visos draudžiamosios zonos, kurios turi būti nustatytos laive, nurodytas jų plotas, kiek laiko jos galioja, apsaugą užtikrinančios priemonės, kurių reikia imtis kontroliuojant patekimą į jas, ir priemonės, kurių reikia norint kontroliuoti jose vykdomą veiklą. Draudžiamųjų zonų paskirtis yra:
 1. užkirsti kelią neteisėtai patekti;
 2. apsaugoti keleivius, laivo personalą ir uosto įrenginių (terminalų) ar kitų tarnybų personalą, turintį leidimą būti laive;
@@ -864,27 +864,27 @@ Susitariančiosios Vyriausybės jų teritorinėje jūroje plaukiojantiems arba a
 7. krovinių skyriai ir skyriai, kuriuose laikomos laivo atsargos;
 8. įgulos gyvenamosios patalpos ir
 9. visi kiti skyriai, kuriuos atlikdamas laivo apsaugos vertinimą nustato KAP ir į kuriuos patekimas turi būti ribojamas norint apsaugoti laivą.
-*1 apsaugos lygis*
+1 apsaugos lygis
 9.22 Kai yra nustatytas 1 apsaugos lygis, laivo apsaugos plane turi būti nustatytos apsaugą užtikrinančios priemonės, taikomos draudžiamosioms zonoms, tarp kurių gali būti:
 1. patekimo vietų rakinimas arba jų apsauga;
 2. sekimo įrangos naudojimas zonoms stebėti;
 3. sargai arba patruliavimas ir
 4. automatinių įsibrovimų aptikimo prietaisų naudojimas norint įspėti laivo personalą apie patekimą be leidimo.
-*2 apsaugos lygis*
+2 apsaugos lygis
 9.23 Kai yra nustatytas 2 apsaugos lygis, patekimo į draudžiamąsias zonas stebėjimo ir kontrolės dažnumas ir intensyvumas turi būti padidintas, kad į jas patektų tik įgalioti asmenys. Laivo apsaugos plane turi būti nustatytos papildomos apsaugą užtikrinančios priemonės, tarp jų gali būti šios:
 1. draudžiamųjų zonų, kurios ribojasi su patekimo į laivą vietomis, nustatymas;
 2. nuolatinis sekimo įrangos stebėjimas, ir
 3. papildomo personalo skyrimas saugoti draudžiamąsias zonas ir jose patruliuoti.
-*3 apsaugos lygis*
+3 apsaugos lygis
 9.24 Kai yra nustatytas 3 apsaugos lygis, laivas turi laikytis instrukcijų, kurias pateikia į pavojų saugumui keliantį incidentą arba jo grėsmę reaguojančios tarnybos. Laivo apsaugos plane turi būti išsamiai išdėstytos apsaugą užtikrinančios priemonės, kurių gali imtis laivas glaudžiai bendradarbiaudamas su reagavimo tarnybomis ir uosto įrenginiu (terminalu), tarp kurių gali būti šios:
 1. nustatomos papildomos draudžiamosios laivo zonos, esančios netoli tos vietos, kur įvyko pavojų saugumui keliantis incidentas, arba toje vietoje, kur, kaip manoma, gali kilti grėsmė saugumui, ir
 2. draudžiamųjų zonų apieškojimas atliekant bendrą laivo patikrinimą.
-**Krovinių tvarkymas**
+Krovinių tvarkymas
 9.25 Apsaugą užtikrinančios priemonės, susijusios su krovinių tvarkymu, turi:
 1. užkirsti kelią neteisėtiems veiksmams, ir
 2. užkirsti kelią tam, kad į laivą nebūtų priimami ir laive saugomi kroviniai, kurių nėra numatyta vežti.
 9.26 Tarp apsaugą užtikrinančių priemonių, iš kurių kai kurias gali reikėti taikyti palaikant ryšį su uosto įrenginiu (terminalu), turi būti krovinių sąrašo tikrinimo procedūros patekimo į laivą vietose. Kai krovinys jau yra laive, turi išlikti galimybė nustatyti, ar buvo leista pakrauti jį į laivą. Be to, reikia parengti apsaugos priemones, skirtas užtikrinti, kad į laivą pakrautas krovinys būtų apsaugotas nuo neteisėtų veiksmų.
-*1 apsaugos lygis*
+1 apsaugos lygis
 9.27 Kai yra nustatytas 1 apsaugos lygis, laivo apsaugos plane turi būti nustatytos apsaugą užtikrinančios priemonės, taikomos tvarkant krovinius, tarp jų gali būti šios:
 1. eilinis krovinių, krovinių transporto vienetų ir krovinių skyrių tikrinimas prieš atliekant krovos operacijas arba jų metu;
 2. patikrinimai, norint įsitikinti, ar kraunamas krovinys atitinka krovinio dokumentus;
@@ -894,7 +894,7 @@ Susitariančiosios Vyriausybės jų teritorinėje jūroje plaukiojantiems arba a
 1. atliekant vizualinę ir fizinę apžiūrą, ir
 2. naudojant skenavimo ar aptikimo įrangą, mechaninius prietaisus arba šunis.
 9.29 Kai kroviniai pervežami reguliariai ar daug kartų, KAP arba LAP, pasitarę su uosto įrenginiu (terminalu), su ekspeditoriais ar kitais už šiuos krovinius atsakingais asmenimis, gali susitarti dėl tikrinimo kitoje vietoje, dėl plombavimo, grafikų sudarymo, pagrindžiančių dokumentų ir t. t. Apie šiuos susitarimus reikia pranešti atitinkamam UĮAP ir gauti jo pritarimą.
-*2 apsaugos lygis*
+2 apsaugos lygis
 9.30 Kai yra nustatytas 2 apsaugos lygis, laivo apsaugos plane turi būti nustatytos papildomos apsaugą užtikrinančios priemonės, taikomos kraunant krovinį, tarp jų gali būti:
 1. išsamus krovinių, krovinių transporto vienetų ir krovinių skyrių tikrinimas;
 2. sugriežtinti tikrinimai norint įsitikinti, ar kraunami tik numatyti kroviniai;
@@ -904,89 +904,89 @@ Susitariančiosios Vyriausybės jų teritorinėje jūroje plaukiojantiems arba a
 1. dažniau ir išsamiau atliekant vizualinę ir fizinę apžiūrą;
 2. dažniau naudojant skenavimo ar aptikimo įrangą, mechaninius prietaisus arba šunis, ir
 3. derinant padidintą apsaugą užtikrinančias priemones su ekspeditoriumi ar kita atsakinga šalimi vadovaujantis pasiektu susitarimu ir nustatytomis procedūromis.
-*3 apsaugos lygis*
+3 apsaugos lygis
 9.32 Kai yra nustatytas 3 apsaugos lygis, laivas turi laikytis instrukcijų, kurias pateikia į pavojų saugumui keliantį incidentą arba jo grėsmę reaguojančios tarnybos. Laivo apsaugos plane turi būti išsamiai išdėstytos apsaugą užtikrinančios priemonės, kurių gali imtis laivas glaudžiai bendradarbiaudamas su reagavimo tarnybomis ir uosto įrenginiu (terminalu), tarp jų gali būti šios:
 1. krovinių pakrovimo ir iškrovimo laikinas sustabdymas, ir
 2. laive esančių pavojingų prekių ir medžiagų aprašo bei jų vietos tikrinimas.
-**Laivo atsargų pristatymas**
+Laivo atsargų pristatymas
 9.33 Apsaugą užtikrinančios priemonės, susijusios su laivo atsargų pristatymu, turi:
 1. užtikrinti, kad būtų tikrinamos laivo atsargos ir įsitikinama, ar nepažeista jų pakuotė;
 2. užkirsti kelią tam, kad laivo atsargos nebūtų priimamos jų nepatikrinus;
 3. užkirsti kelią neteisėtiems veiksmams, ir
 4. užkirsti kelią atsargų priėmimui, jei jos neužsakytos.
 9.34 Jei laivai reguliariai naudojasi uosto įrenginiu (terminalu), gali būti naudinga nustatyti procedūras, susijusias su laivu, jo tiekėjais ir uosto įrenginiu (terminalu), kurios apimtų pranešimus apie atsargų pristatymą, laiką ir dokumentus. Visada turi būti numatytas tam tikras būdas įrodyti, kad laivas užsakė atsargas, kurios yra pristatomos.
-*1 apsaugos lygis*
+1 apsaugos lygis
 9.35 Kai yra nustatytas 1 apsaugos lygis, laivo apsaugos plane turi būti numatytos apsaugą užtikrinančios priemonės, taikomos pristatant laivo atsargas; jos gali apimti:
 1. tikrinimą norint įsitikinti prieš kraunant į laivą, ar atsargos atitinka užsakymą, ir
 2. užtikrinimą, kad laivo atsargos būtų nedelsiant saugiai sukrautos.
-*2 apsaugos lygis*
+2 apsaugos lygis
 9.36 Kai yra nustatytas 2 apsaugos lygis, laivo apsaugos plane turi būti numatytos papildomos apsaugą užtikrinančios priemonės, taikomos laivo atsargų pristatymo metu, – tikrinant atsargas prieš priimant jas į laivą ir intensyvinant tikrinimus.
-*3 apsaugos lygis*
+3 apsaugos lygis
 9.37 Kai yra nustatytas 3 apsaugos lygis, laivas turi laikytis instrukcijų, kurias pateikia į pavojų saugumui keliantį incidentą arba jo grėsmę reaguojančios tarnybos. Laivo apsaugos plane turi būti išsamiai išdėstytos apsaugą užtikrinančios priemonės, kurių gali imtis laivas glaudžiai bendradarbiaudamas su reagavimo tarnybomis ir uosto įrenginiu (terminalu), tarp jų gali būti šios:
 1. išsamesnis laivo atsargų tikrinimas;
 2. pasirengimas apriboti arba laikinai sustabdyti laivo atsargų tvarkymą, ir
 3. atsisakymas priimti laivo atsargas į laivą.
-**Nelydimo bagažo tvarkymas**
+Nelydimo bagažo tvarkymas
 9.38 Laivo apsaugos plane turi būti nustatytos apsaugą užtikrinančios priemonės, taikomos nelydimam bagažui (t. y. bet kokiam bagažui, įskaitant asmeninius daiktus, kurie tikrinimo ar kratos metu nėra su keleiviu arba laivo įgulos nariu) identifikuoti prieš priimant į laivą ir tinkamai patikrinti, įskaitant kratą. Nenumatyta, kad šį bagažą tikrintų ir laivas, ir uosto įrenginys (terminalas), o tais atvejais, kai ir vienas, ir kitas turi tinkamos įrangos, atsakomybė už tikrinimą turi tekti uosto įrenginiui (terminalui). Būtinas glaudus bendradarbiavimas su uosto įrenginiu (terminalu) ir reikia imtis priemonių, kad nelydimas bagažas po patikrinimo būtų saugiai tvarkomas.
-*1 apsaugos lygis*
+1 apsaugos lygis
 9.39 Kai yra nustatytas 1 apsaugos lygis, laivo apsaugos plane turi būti numatytos apsaugą užtikrinančios priemonės, taikomos kraunant nelydimą bagažą, norint užtikrinti, kad būtų tikrinama ir apieškoma iki 100 procentų (imtinai) nelydimo bagažo, įskaitant galimą peršvietimą rentgeno įranga.
-*2 apsaugos lygis*
+2 apsaugos lygis
 9.40 Kai yra nustatytas 2 apsaugos lygis, laivo apsaugos plane turi būti numatytos papildomos apsaugą užtikrinančios priemonės, taikomos kraunant nelydimą bagažą, norint užtikrinti, kad rentgeno įranga būtų peršviečiama iki 100 procentų (imtinai) nelydimo bagažo.
-*3 apsaugos lygis*
+3 apsaugos lygis
 9.41 Kai yra nustatytas 3 apsaugos lygis, laivas turi laikytis instrukcijų, kurias pateikia į pavojų saugumui keliantį incidentą arba jo grėsmę reaguojančios tarnybos. Laivo apsaugos plane turi būti išsamiai išdėstytos apsaugą užtikrinančios priemonės, kurių gali imtis laivas glaudžiai bendradarbiaudamas su reagavimo tarnybomis ir uosto įrenginiu (terminalu), tarp jų gali būti:
 1. išsamesnis šio bagažo tikrinimas, pavyzdžiui, peršvietimas rentgeno įranga bent dviem skirtingais kampais;
 2. pasirengimas apriboti arba laikinai sustabdyti nelydimo bagažo krovimą, ir
 3. atsisakymas priimti nelydimą bagažą į laivą.
-**Laivo apsaugos stebėjimas**
+Laivo apsaugos stebėjimas
 9.42 Laive turi būti galimybė stebėti laivą, laive esančias draudžiamąsias zonas ir zonas aplink laivą. Taip stebėti leidžia naudojamas:
 1. apšvietimas;
 2. budėtojai, apsaugos darbuotojai ir denio stebėtojai, įskaitant patrulius, ir
 3. automatiniai įsibrovimo aptikimo prietaisai ir sekimo įranga.
 9.43 Naudojami automatiniai įsibrovimo aptikimo prietaisai turi įjungti garsinį ir (arba) vaizdinį pavojaus signalą toje vietoje, kurioje nuolat būna žmonių arba kuri yra nuolat stebima.
 9.44 Laivo apsaugos plane turi būti nustatytos kiekvienam apsaugos lygiui reikalingos procedūros ir įranga bei priemonės, užtikrinančios, kad stebėjimo įranga galės veikti nepertraukiamai, atsižvelgiant į galimą oro sąlygų arba elektros energijos tiekimo sutrikimo poveikį.
-*1 apsaugos lygis*
+1 apsaugos lygis
 9.45 Kai yra nustatytas 1 apsaugos lygis, laivo apsaugos plane turi būti numatytos apsaugą užtikrinančios priemonės, kurias taikant gali būti derinamas apšvietimas, budėtojų, apsaugos darbuotojų arba apsaugos ir sekimo įrangos naudojimas, kad laivo apsaugos personalas galėtų stebėti visą laivą apskritai ir ypač užtvaras bei draudžiamąsias zonas.
 9.46 Tamsiu paros metu ir esant blogam matomumui, kai yra vykdomi laivo/uosto sąveikos darbai arba prireikus, kai laivas stovi uosto įrenginyje (terminale) arba išmetęs inkarą, laivo denis ir patekimo į laivą vietos turi būti apšviesti. Prireikus, laivui plaukiant, jame turi būti naudojamas didžiausias galimas apšvietimas, netrukdantis saugiai laivybai ir nustatytas atsižvelgiant į galiojančias Tarptautinių taisyklių susidūrimams jūroje išvengti nuostatas. Nustatant tinkamą apšvietimo stiprumą ir vietą, reikia atsižvelgti į toliau išvardytus aspektus:
 1. laivo personalas turi gebėti pastebėti ne laive, nuo kranto ir iš jūros pusės atliekamus veiksmus;
 2. turi būti apšviesta laivo ir aplink laivą esanti teritorija;
 3. patekimo į laivą vietos apšvietimas turi palengvinti personalo identifikavimą, ir
 4. apšvietimo plotas gali būti nustatomas suderinus jį su uosto įrenginiu (terminalu).
-*2 apsaugos lygis*
+2 apsaugos lygis
 9.47 Kai yra nustatytas 2 apsaugos lygis, laivo apsaugos plane turi būti numatytos papildomos apsaugą užtikrinančios priemonės, taikomos norint padidinti stebėjimo ir sekimo gebėjimus, tarp jų gali būti šios:
 1. dažnesnis ir kruopštesnis patruliavimas norint užtikrinti apsaugą;
 2. apšvietimo ploto ir intensyvumo didinimas arba apsaugos ir sekimo įrangos naudojimas;
 3. papildomo personalo skyrimas į stebėjimo punktus, ir
 4. veiklos derinimas su patruliavimu kateriais ir patruliavimu krante pėsčiomis ir transporto priemonėmis, kai jų yra.
 9.48 Norint apsisaugoti nuo padidėjusios pavojų saugumui keliančio incidento rizikos gali prireikti papildomo apšvietimo. Prireikus galima tartis su uosto įrenginiu (terminalu) dėl papildomo apšvietimo nuo kranto.
-*3 apsaugos lygis*
+3 apsaugos lygis
 9.49 Kai yra nustatytas 3 apsaugos lygis, laivas turi laikytis instrukcijų, kurias pateikia į pavojų saugumui keliantį incidentą arba jo grėsmę reaguojančios tarnybos. Laivo apsaugos plane turi būti išsamiai išdėstytos apsaugos priemonės, kurių gali imtis laivas glaudžiai bendradarbiaudamas su reagavimo tarnybomis ir uosto įrenginiu (terminalu), tarp jų gali būti šios:
 1. viso apšvietimo įjungimas arba greta laivo esančių zonų apšvietimas;
 2. visos laive esančios sekimo įrangos, galinčios fiksuoti laive ar šalia laivo atliekamus veiksmus, įjungimas;
 3. maksimalus šios sekimo įrangos įrašymo trukmės padidinimas;
 4. pasirengimas povandeninei laivo korpuso apžiūrai, ir
 5. priemonės, įskaitant lėtą laivo propelerių sukimą, jei tai įmanoma, norint užkirsti kelią priplaukti prie laivo korpuso po vandeniu.
-**Skirtingi apsaugos lygiai**
+Skirtingi apsaugos lygiai
 9.50 Laivo apsaugos plane turi būti nustatytos išsamios procedūros ir apsaugą užtikrinančios priemonės, kurių gali imtis laivas, jei jam yra nustatytas aukštesnis apsaugos lygis negu uosto įrenginiui (terminalui).
-**Šio kodekso nereglamentuojama veikla**
+Šio kodekso nereglamentuojama veikla
 9.51 Laivo apsaugos plane turi būti nustatytos išsamios procedūros ir apsaugą užtikrinančios priemonės, kurias laivas turi taikyti, kai:
 1. jis yra valstybės, kuri nėra Susitariančioji Vyriausybė, uoste;
 2. jis sąveikauja su laivu, kuriam netaikomas šis kodeksas88;
 3. jis sąveikauja su stacionariomis arba plaukiojančiomis platformomis ar vietiniu mobiliuoju gręžimo įrenginiu arba
 4. jis sąveikauja su uostu arba uosto įrenginiu (terminalu), kuriam neprivaloma laikytis XI-2 skyriaus ir šio kodekso A dalies reikalavimų.
-**Apsaugos deklaracijos**
+Apsaugos deklaracijos
 9.52 Laivo apsaugos plane turi būti išsamiai išdėstyta, kaip bus reaguojama į uosto įrenginio (terminalo) prašymus pateikti AD, ir nurodytos aplinkybės, kurioms susiklosčius pats laivas turi prašyti AD.
-**Auditas ir persvarstymas**
+Auditas ir persvarstymas
 9.53 Laivo apsaugos plane turi būti nustatyta, kaip KAP ir LAP ketina tikrinti, ar laivo apsaugos planas tebėra veiksmingas, ir išdėstytos procedūros, kuriomis turi būti vadovaujamasi persvarstant, atnaujinant arba keičiant laivo apsaugos planą.
 10. PROTOKOLAI
-**Bendrosios nuostatos**
+Bendrosios nuostatos
 10.1 Susitariančiųjų Vyriausybių nustatyta tvarka įgalioti pareigūnai turi turėti galimybę susipažinti su protokolais ir įsitikinti, ar yra įgyvendinamos laivų apsaugos planų nuostatos.
 10.2 Protokolai gali būti saugomi bet kokia forma ir juos reikia saugoti, kad jais nebūtų be leidimo naudojamasi ir nebūtų atskleidžiama juose esanti informacija.
 11. KOMPANIJOS APSAUGOS PAREIGŪNAS
-***Atitinkamos gairės pateiktos 8, 9 ir 13 skirsniuose.***
+Atitinkamos gairės pateiktos 8, 9 ir 13 skirsniuose.
 12. LAIVO APSAUGOS PAREIGŪNAS
-***Susijusios gairės pateiktos 8, 9 ir 13 skirsniuose.***
+Susijusios gairės pateiktos 8, 9 ir 13 skirsniuose.
 13. MOKYMAI, TRENIRUOTĖS IR PRATYBOS LAIVO APSAUGOS KLAUSIMAIS
-**Mokymai**
+Mokymai
 13.1 Kompanijos apsaugos pareigūnas (KAP) ir atitinkamas krante dirbantis kompanijos personalas bei laivo apsaugos pareigūnas (LAP) turi būti mokomi ir išmanyti kai kuriuos arba visus toliau išvardytus dalykus:
 1. apsaugos administravimą;
 2. atitinkamas tarptautines konvencijas, kodeksus ir rekomendacijas;
@@ -1032,7 +1032,7 @@ Susitariančiosios Vyriausybės jų teritorinėje jūroje plaukiojantiems arba a
 3. ginklų, pavojingų medžiagų ir prietaisų atpažinimas ir aptikimas;
 4. nešališkas asmenų, galinčių kelti grėsmę saugumui, bruožų ir elgsenos atpažinimas, ir
 5. apsaugą užtikrinančių priemonių įveikimo būdai.
-**Treniruotės ir pratybos**
+Treniruotės ir pratybos
 13.5. Treniruočių ir pratybų tikslas – užtikrinti, kad laivo personalas išmanytų, kaip atlikti jiems priskirtas apsaugą užtikrinančias pareigas visais apsaugos lygiais, ir nustatyti visus su apsauga susijusius trūkumus, į kuriuos reikia atkreipti dėmesį.
 13.6 Norint užtikrinti efektyvų laivo apsaugos plano nuostatų įgyvendinimą, treniruotės turi būti rengiamos ne rečiau kaip kartą per tris mėnesius. Be to, tuo atveju, kai pasikeičia iš karto daugiau kaip 25 procentai laivo personalo, personalui, per pastaruosius tris mėnesius nedalyvavusiam jokiose treniruotėse tame laive, treniruotės turi būti surengtos per vieną savaitę nuo personalo pasikeitimo. Šių treniruočių metu turi būti tikrinami atskiri plano elementai, pavyzdžiui 8.9 punkte išvardytos grėsmės saugumui.
 13.7 Įvairios pratybos, kuriose gali dalyvauti kompanijos apsaugos pareigūnai, uosto įrenginio (terminalo) apsaugos pareigūnai, reikiamos Susitariančiųjų Vyriausybių institucijos bei laivo apsaugos pareigūnai, jei įmanoma, turi būti rengiamos ne rečiau kaip kartą per kalendorinius metus ne ilgesniais kaip 18 mėnesių intervalais tarp pratybų. Šių pratybų metu turi būti tikrinami ryšiai, koordinavimas, turimi ištekliai ir reakcija. Šios pratybos gali būti:
@@ -1041,9 +1041,9 @@ Susitariančiosios Vyriausybės jų teritorinėje jūroje plaukiojantiems arba a
 3. gali būti derinamos su kitomis pratybomis, pavyzdžiui, paieškos ir gelbėjimo arba avarijų likvidavimo pratybomis.
 13.8 Kompanijos dalyvavimą pratybose su kita Susitariančiąja Vyriausybe turi pripažinti Administracija.
 14. UOSTO ĮRENGINIO (TERMINALO) APSAUGA
-***Atitinkamos gairės pateiktos 15, 16 ir 18 skirsniuose.***
+Atitinkamos gairės pateiktos 15, 16 ir 18 skirsniuose.
 15. UOSTO ĮRENGINIO (TERMINALO) APSAUGOS VERTINIMAS
-**Bendrosios nuostatos**
+Bendrosios nuostatos
 15.1 Uosto įrenginio (terminalo) apsaugos vertinimą (UĮAV) gali atlikti pripažinta apsaugos organizacija (PAO). Tačiau užbaigtą UĮAV turi tvirtinti tik atitinkama Susitariančioji Vyriausybė.
 15.2 Jei Susitariančioji Vyriausybė pasitelkia PAO uosto įrenginio (terminalo) apsaugos vertinimui persvarstyti arba patikrinti, ar jis atitinka reikalavimus, ši PAO neturi būti susijusi su jokia kita PAO, kuri parengė arba padėjo parengti tą vertinimą.
 15.3 Atliekant UĮAV, reikia atsižvelgti į šiuos uosto įrenginyje (terminale) esančius elementus:
@@ -1069,7 +1069,7 @@ Susitariančiosios Vyriausybės jų teritorinėje jūroje plaukiojantiems arba a
 11. radijo ir telekomunikacijų sistemos, įskaitant kompiuterių sistemas ir tinklus;
 12. transporto inžinerija ir civilinė statyba, ir
 13. laivo ir uosto operacijos.
-**Svarbaus turto ir infrastruktūros, kuriuos svarbu saugoti, nustatymas ir įvertinimas**
+Svarbaus turto ir infrastruktūros, kuriuos svarbu saugoti, nustatymas ir įvertinimas
 15.5 Svarbaus turto ir infrastruktūros nustatymas ir įvertinimas – tai procesas, kurio metu galima nustatyti santykinę statinių ir įrengimų svarbą uosto įrenginio (terminalo) veikimui. Šis nustatymo ir vertinimo procesas yra svarbus, nes juo remiantis poveikio sušvelninimo strategijas galima sutelkti į tą turtą ir struktūras, kurias svarbiau saugoti nuo pavojų saugumui keliančio incidento. Šio proceso metu reikia atsižvelgti į galimas žmonių netektis, uosto ekonominę svarbą, simbolinę vertę ir vyriausybinių įrenginių (terminalų) buvimą.
 15.6 Turto ir infrastruktūros nustatymas ir vertinimas turi būti atliekamas norint nustatyti jų santykinę svarbą juos saugant. Pagrindinis tikslas – išvengti mirties ar sužeidimų. Taip pat svarbu apsvarstyti, ar uosto įrenginys (terminalas), statinys arba įrengimas gali ir toliau veikti be šio turto ir ar galima greitai atkurti jų normalų veikimą.
 15.7 Turtui ir infrastruktūrai, kuriuos svarbu saugoti, galima priskirti:
@@ -1083,7 +1083,7 @@ Susitariančiosios Vyriausybės jų teritorinėje jūroje plaukiojantiems arba a
 8. apsaugos ir sekimo įrangą ir sistemas, ir
 9. vandenis, kurie ribojasi su uosto įrenginiu (terminalu).
 15.8 Aiškus turto ir infrastruktūros nustatymas yra labai svarbus vertinant uosto įrenginio (terminalo) apsaugos reikalavimus, nustatant apsauginių priemonių prioritetus ir priimant sprendimus dėl išteklių paskirstymo norint geriau saugoti uosto įrenginį (terminalą). Šio proceso metu galima konsultuotis su atitinkamomis institucijomis dėl su uosto įrenginiu (terminalu) besiribojančių statinių, kurie gali padaryti žalos įrenginyje (terminale) arba kuriais galima pasinaudoti norint padaryti žalos įrenginiui (terminalui), norint stebėti įrenginį (terminalą) arba nukreipti dėmesį.
-**Galimų grėsmių turtui bei infrastruktūrai ir jų tikimybės nustatymas norint nustatyti apsaugą užtikrinančias priemones ir jų prioritetus**
+Galimų grėsmių turtui bei infrastruktūrai ir jų tikimybės nustatymas norint nustatyti apsaugą užtikrinančias priemones ir jų prioritetus
 15.9 Reikia nustatyti veiksmus, galinčius sukelti grėsmę turto ir infrastruktūros saugumui, ir jų atlikimo būdus, norint įvertinti konkretaus turto pažeidžiamumą arba pavojų saugumui keliančio incidento vietą ir nustatyti apsaugos reikalavimus bei jų prioritetus, kad būtų galima planuoti ir skirstyti išteklius. Kiekvieno galimo veiksmo ir jo atlikimo būdo nustatymas ir vertinimas turi būti grindžiamas įvairiais veiksniais, įskaitant Vyriausybės institucijų atliktus grėsmės vertinimus. Planuodami ir skirstydami išteklius grėsmių vertintojai neturėtų vadovautis pesimistiškiausiais scenarijais.
 15.10 Į UĮAV turi įeiti vertinimas, atliktas konsultuojantis su reikiamomis nacionalinėmis apsaugos organizacijomis, norint nustatyti:
 1. visus uosto įrenginio (terminalo) ypatumus, įskaitant uosto įrenginiu (terminalu) besinaudojančius laivus, dėl kurių jis gali tapti išpuolio objektu;
@@ -1102,14 +1102,14 @@ Taip yra parengiamas bendras rizikos vertinimas, į kurį atsižvelgiant turi b�
 8. uosto įplaukų, šliuzų, prieigų ir kt. blokavimas, ir
 9. branduolinė, biologinė ar cheminė ataka.
 15.12 Šio proceso metu reikia konsultuotis su reikiamomis institucijomis, kurios yra susijusios su uosto įrenginiu (terminalu) besiribojančiais statiniais, galinčiais padaryti žalos įrenginyje (terminale) arba kuriais galima pasinaudoti norint sukelti žalos įrenginiui (terminalui), norint stebėti įrenginį (terminalą) arba nukreipti dėmesį.
-**Prevencinių priemonių ir procedūrinių pakeitimų nustatymas, parinkimas ir prioritetų nustatymas bei jų veiksmingumas mažinant pažeidžiamumą**
+Prevencinių priemonių ir procedūrinių pakeitimų nustatymas, parinkimas ir prioritetų nustatymas bei jų veiksmingumas mažinant pažeidžiamumą
 15.13 Nustatant prevencines priemones ir jų prioritetus, siekiama užtikrinti, kad būtų imamasi pačių veiksmingiausių apsaugą užtikrinančių priemonių uosto įrenginio (terminalo) arba laivo/uosto sąveikos pažeidžiamumui dėl galimos grėsmės sumažinti.
 15.14 Apsaugą užtikrinančias priemones reikia parinkti atsižvelgiant į įvairius veiksnius, pavyzdžiui, ar jos mažina išpuolio tikimybę, ir vertinti naudojantis šia informacija:
 1. apsaugos patikrinimai, inspekcijos ir auditas;
 2. konsultacijos su uosto įrenginio (terminalo) savininkais ir operatoriais bei prireikus su gretimų struktūrų savininkais ir operatoriais;
 3. informacija apie ankstesnius pavojų saugumui sukėlusius incidentus, ir
 4. uosto įrenginyje (terminale) atliekamos operacijos.
-**Pažeidžiamumų nustatymas**
+Pažeidžiamumų nustatymas
 15.15 Nustatytais fizinių statinių, personalo apsaugos sistemų, procesų ar kitų sričių pažeidžiamumais, dėl kurių gali įvykti pavojų saugumui keliantis incidentas, galima vadovautis parenkant būdus šiems pažeidžiamumams pašalinti arba sušvelninti. Pavyzdžiui, analizė gali atskleisti uosto įrenginio (terminalo) apsaugos sistemų arba nesaugomos infrastruktūros, pavyzdžiui, vandens tiekimo, tiltų ir kt. pažeidžiamumus, kuriuos galima pašalinti fizinėmis priemonėmis, pavyzdžiui, nuolatinėmis užtvaromis, signalizacijomis, sekimo įranga ir t. t.
 15.16 Nustatant pažeidžiamumus, reikia atsižvelgti į šiuos dalykus:
 1. priėjimą prie uosto įrenginio (terminalo) ir uosto įrenginyje (terminale) prisišvartavusių laivų iš jūros ir nuo kranto pusės;
@@ -1125,7 +1125,7 @@ Taip yra parengiamas bendras rizikos vertinimas, į kurį atsižvelgiant turi b�
 11. visus mokymų ir treniruočių metu nustatytus trūkumus, ir
 12. visus trūkumus, nustatytus atliekant kasdienes operacijas, po incidentų ar pavojaus signalų, ataskaitą dėl nerimą keliančių saugos aspektų, kontrolinių priemonių taikymą, auditą ir t. t.
 16. UOSTO ĮRENGINIO (TERMINALO) APSAUGOS PLANAS
-**Bendrosios nuostatos**
+Bendrosios nuostatos
 16.1 Už uosto įrenginio (terminalo) apsaugos plano rengimą atsakingas uosto įrenginio (terminalo) apsaugos pareigūnas (UĮAP). Nors UĮAP nebūtinai turi pats imtis visų su šiuo postu siejamų pareigų, galutinė atsakomybė tenka paskiram UĮAP.
 16.2 Kiekvieno uosto įrenginio (terminalo) apsaugos plano turinys turi būti skirtingas ir priklausyti nuo konkrečių uosto įrenginio (terminalo) ar įrenginių (terminalų), kuriam ar kuriems jis skirtas, ypatybių. Uosto įrenginio (terminalo) apsaugos vertinime (UĮAV) nustatomi uosto įrenginiui (terminalui) būdingi bruožai ir galimų pavojų saugumui ypatumai, į kuriuos atsižvelgiant paskiriamas UĮAP ir parengiamas uosto įrenginio (terminalo) apsaugos planas. Rengiant uosto įrenginio (terminalo) apsaugos planą, reikia atsižvelgti į šiuos bruožus ir kitus vietos ar nacionalinius apsaugos aspektus ir plane numatyti reikiamas apsaugą užtikrinančias priemones, kad būtų iki minimumo sumažinta apsaugos pažeidimų tikimybė bei galimos rizikos padariniai. Susitariančiosios Vyriausybės gali parengti rekomendacijų dėl uosto įrenginio (terminalo) apsaugos planų rengimo ir turinio.
 16.3 Visuose uosto įrenginių (terminalų) apsaugos planuose turi būti:
@@ -1139,7 +1139,7 @@ Taip yra parengiamas bendras rizikos vertinimas, į kurį atsižvelgiant turi b�
 16.5 Susitariančiosios Vyriausybės turi tvirtinti jų jurisdikcijai priklausančių uosto įrenginių (terminalų) apsaugos planus. Susitariančiosios Vyriausybės turi parengti procedūras, skirtas vertinti, ar kiekvienas uosto įrenginio (terminalo) apsaugos planas tebėra aktualus, ir gali reikalauti, kad uosto įrenginio (terminalo) apsaugos planas būtų pakeistas prieš jo pirmąjį patvirtinimą arba jį patvirtinus. Uosto įrenginio (terminalo) apsaugos plane turi būti išdėstytos nuostatos dėl pavojų saugumui keliančių incidentų ir grėsmių saugumui, persvarstymų, audito, mokymų, treniruočių ir pratybų protokolų saugojimo norint įrodyti, kad tų reikalavimų yra laikomasi.
 16.6 Uosto įrenginio (terminalo) apsaugos plane išdėstytos apsaugą užtikrinančios priemonės turi būti įdiegtos per priimtiną laiką nuo uosto įrenginio (terminalo) apsaugos plano patvirtinimo ir uosto įrenginio (terminalo) apsaugos plane turi būti numatyta, kada bus įdiegta kiekviena priemonė. Jei numatoma, kad gali būti vėluojama diegti priemones, tai reikia aptarti su Susitariančiąja Vyriausybe, kuri atsakinga už uosto įrenginio (terminalo) apsaugos plano tvirtinimą, ir susitarti dėl patenkinamų alternatyvių laikinųjų apsaugos priemonių, užtikrinančių pakankamą apsaugos lygį, taikymo bet kuriuo pereinamuoju laikotarpiu.
 16.7 Šaunamųjų ginklų naudojimas laivuose ar šalia laivų ir uosto įrenginiuose (terminaluose) gali sukelti ypatingą ir reikšmingą pavojų saugai, ypač kai tai susiję su tam tikromis pavojingomis bei kenksmingomis medžiagomis ir tai reikia labai kruopščiai apsvarstyti. Jei Vyriausybė nusprendžia, kad šiose zonose reikia pasitelkti ginkluotus darbuotojus, ta Susitariančioji Vyriausybė turi užtikrinti, kad šie darbuotojai būtų reikiama tvarka įgalioti, išmokyti naudotis ginklais ir suvoktų konkretų pavojų saugai šiose zonose. Susitariančioji Vyriausybė, leidusi naudoti šaunamuosius ginklus, turi pateikti konkrečias jų saugaus naudojimo gaires. Uosto įrenginio (terminalo) apsaugos plane turi būti išdėstytos konkrečios gairės šiuo klausimu, ypač kai tai yra taikoma pavojingas prekes ar medžiagas gabenantiems laivams.
-**Uosto įrenginio (terminalo) apsaugą užtikrinančių pareigų organizavimas ir atlikimas**
+Uosto įrenginio (terminalo) apsaugą užtikrinančių pareigų organizavimas ir atlikimas
 16.8 Be 16.3 punkte pateiktų gairių, uosto įrenginio (terminalo) apsaugos plane turi būti išdėstyti šie su visais apsaugos lygiais susiję dalykai:
 1. uosto įrenginio (terminalo) apsaugos tarnybos funkcija ir struktūra;
 2. viso uosto įrenginio (terminalo) personalo, atliekančio su apsauga susijusią funkciją, pareigos, atsakomybė ir mokymo reikalavimai bei veiklos vertinimo rodikliai, reikalingi kiekvieno jų efektyvumui vertinti;
@@ -1162,7 +1162,7 @@ Taip yra parengiamas bendras rizikos vertinimas, į kurį atsižvelgiant turi b�
 4. laivo atsargų pristatymu;
 5. nelydimo bagažo tvarkymu, ir
 6. uosto įrenginio (terminalo) apsaugos stebėjimu.
-**Patekimas į uosto įrenginį (terminalą)**
+Patekimas į uosto įrenginį (terminalą)
 16.10 Uosto įrenginio (terminalo) apsaugos plane turi būti nustatytos apsaugą užtikrinančios priemonės, taikomos visiems uosto įrenginio (terminalo) apsaugos vertinime išvardytiems patekimo į uosto įrenginį (terminalą) būdams.
 16.11 Nagrinėjant kiekvieną iš jų, uosto įrenginio (terminalo) apsaugos plane turi būti nustatytos atitinkamos vietos, kuriose turi būti taikomi patekimo apribojimai arba draudimai, galiojantys nustačius kiekvieną apsaugos lygį. Laivo apsaugos plane turi būti nustatyta kiekvienam apsaugos lygiui taikomas apribojimo arba draudimo tipas ir jų taikymo sąlygos.
 16.12 Uosto įrenginio (terminalo) apsaugos plane turi būti nustatytos kiekvienam apsaugos lygiui taikomos identifikavimo priemonės, reikalingos tam, kad būtų galima leisti asmenims patekti į uosto įrenginį (terminalą) ir būti uosto įrenginyje (terminale) be apribojimų; tam gali reikėti sukurti tinkamą uosto įrenginio (terminalo) personalo ir lankytojų identifikavimo sistemą, leidžiančią atlikti galutinį ir laikiną identifikavimą. Bet kuri uosto įrenginio (terminalo) identifikavimo sistema turi būti derinama su sistema, taikoma laivams, kurie uosto įrenginiu (terminalu) reguliariai naudojasi, kai tai praktiškai įmanoma. Keleiviai turi turėti galimybę įrodyti savo tapatybę įlaipinimo talonais, bilietais ir t. t., bet jiems neturi būti leidžiama be priežiūros patekti į draudžiamąsias zonas. Uosto įrenginio (terminalo) apsaugos plane turi būti išdėstytos nuostatos, užtikrinančios, kad identifikavimo sistemos būtų nuolat atnaujinamos ir kad už piktnaudžiavimą procedūromis būtų taikomos drausminės priemonės.
@@ -1170,7 +1170,7 @@ Taip yra parengiamas bendras rizikos vertinimas, į kurį atsižvelgiant turi b�
 16.14 Uosto įrenginio (terminalo) apsaugos plane turi būti nurodytos vietos, kuriose atliekamos asmenų, jų asmeninių daiktų ir transporto priemonių kratos. Šios vietos turi būti dengtos, kad darbas nenutrūktų dėl vyraujančių oro sąlygų ir būtų atliekamas uosto įrenginio (terminalo) apsaugos plane nustatytu periodiškumu. Atlikus kratą, asmenys, jų asmeniniai daiktai ir transporto priemonės turi būti nukreipiami tiesiai į laikymo, įlaipinimo ar automobilių krovimo zonas.
 16.15 Uosto įrenginio (terminalo) apsaugos plane turi būti numatytos atskiros vietos patikrintiems ir nepatikrintiems asmenims bei jų daiktams ir, jei įmanoma, atskiros zonos įlipantiems ir išlipantiems keleiviams, laivo personalui ir jų asmeniniams daiktams norint išvengti nepatikrintų ir patikrintų asmenų kontakto.
 16.16 Uosto įrenginio (terminalo) apsaugos plane turi būti nustatyta, kokiu periodiškumu turi būti taikomos patekimo kontrolės priemonės, ypač jei jos taikomos atsitiktine tvarka arba retkarčiais.
-*1 apsaugos lygis*
+1 apsaugos lygis
 16.17 Kai yra nustatytas 1 apsaugos lygis, uosto įrenginio (terminalo) apsaugos plane turi būti nurodyti kontrolės punktai, kuriuose gali būti taikomos šios apsaugą užtikrinančios priemonės:
 1. draudžiamosios zonos, kurios turi būti aptvertos tvoromis ar kitomis užtvaromis laikantis Susitariančiosios Vyriausybės patvirtinto standarto;
 2. tikrinama visų į uosto įrenginį (terminalą) norinčių patekti su laivu susijusių asmenų, įskaitant keleivius, laivo personalą ir lankytojus, tapatybė ir sužinomos priežastys, kodėl jie nori patekti į uosto įrenginį (terminalą), pavyzdžiui, tikrinant priėmimo instrukcijas, keleivių bilietus, įlaipinimo talonus, darbų užsakymus ir t. t.;
@@ -1180,7 +1180,7 @@ Taip yra parengiamas bendras rizikos vertinimas, į kurį atsižvelgiant turi b�
 6. atliekamos asmenų, jų asmeninių daiktų, transporto priemonių kratos ir tikrinamas jų turinys, ir
 7. nustatomos visos patekimo į uosto įrenginį (terminalą) vietos, kuriomis nėra reguliariai naudojamasi ir kurios turi būti visada uždarytos ir užrakintos.
 16.18 Kai yra nustatytas 1 apsaugos lygis, gali būti atliekamos visų asmenų, norinčių patekti į uosto įrenginį (terminalą), kratos. Šių kratų, įskaitant atsitiktines, dažnumas turi būti nurodytas patvirtintame uosto įrenginio (terminalo) apsaugos plane ir tam turi konkrečiai pritarti Susitariančioji Vyriausybė. Neturi būti reikalaujama, kad laivo personalo nariai apieškotų savo kolegas ar jų asmeninius daiktus, nebent būtų akivaizdžių, grėsme saugumui grindžiamų, priežasčių tai daryti. Bet kuri krata turi būti atliekama taip, kad būtų visokeriopai atsižvelgiama į žmogaus teises ir būtų išsaugotas elementarus žmogaus orumas.
-*2 apsaugos lygis*
+2 apsaugos lygis
 16.19 Kai yra nustatytas 2 apsaugos lygis, uosto įrenginio (terminalo) apsaugos plane turi būti:
 1. papildomo personalo skyrimas saugoti patekimo į uosto įrenginį (terminalą) vietų ir patruliuoti prie įrenginį (terminalą) juosiančių užtvarų;
 2. patekimo į uosto įrenginį (terminalą) vietų skaičiaus mažinimas nustatant, kurias reikia uždaryti, ir numatant priemones joms tinkamai apsaugoti;
@@ -1188,7 +1188,7 @@ Taip yra parengiamas bendras rizikos vertinimas, į kurį atsižvelgiant turi b�
 4. asmenų, asmeninių daiktų ir transporto priemonių kratų dažnumo didinimas;
 5. neįleidimas tų lankytojų, kurie negali pateikti patikrinamo paaiškinimo, kodėl jie nori patekti į uosto įrenginį (terminalą), ir
 6. patrulinių laivų naudojimas norint padidinti pakrantės apsaugą.
-*3 apsaugos lygis*
+3 apsaugos lygis
 16.20 Kai yra nustatytas 3 apsaugos lygis, uosto įrenginys (terminalas) turi laikytis nurodymų, kuriuos pateikia į pavojų saugumui keliantį incidentą arba jo grėsmę reaguojančios tarnybos. Uosto įrenginio (terminalo) apsaugos plane turi būti išsamiai išdėstytos apsaugą užtikrinančios priemonės, kurių gali imtis uosto įrenginys (terminalas) glaudžiai bendradarbiaudamas su reagavimo tarnybomis bei uosto įrenginyje (terminale) esančiais laivais, tarp jų galima paminėti šias:
 1. patekimo į visą uosto įrenginį (terminalą) ar į jo dalį laikinas sustabdymas;
 2. leidimas patekti į įrenginį (terminalą) tik į pavojų saugumui keliantį incidentą ar jo grėsmę reaguojančioms tarnyboms;
@@ -1197,7 +1197,7 @@ Taip yra parengiamas bendras rizikos vertinimas, į kurį atsižvelgiant turi b�
 5. uosto operacijų visame uosto įrenginyje (terminale) ar jo dalyje laikinas sustabdymas;
 6. laivų judėjimo reguliavimas visame uosto įrenginyje (terminale) ar jo dalyje, ir
 7. uosto įrenginio (terminalo) arba jo dalies evakuacija.
-**Uosto įrenginyje (terminale) esančios draudžiamosios zonos**
+Uosto įrenginyje (terminale) esančios draudžiamosios zonos
 16.21 Uosto įrenginio (terminalo) apsaugos plane turi būti nurodytos visos draudžiamosios zonos, kurios turi būti nustatytos uosto įrenginyje (terminale), nurodytas jų plotas, kiek laiko jos galioja, apsaugą užtikrinančios priemonės, kurių reikia imtis kontroliuojant patekimą į jas, ir priemonės, kurių reikia norint kontroliuoti jose vykdomą veiklą. Esant tinkamoms aplinkybėms, tarp jų taip pat turi būti priemonės, skirtos užtikrinti, kad prieš nustatant laikinas draudžiamąsias zonas ir jas nustačius būtų patikrinta jų apsauga. Draudžiamųjų zonų paskirtis:
 1. apsaugoti keleivius, uosto įrenginio (terminalo) personalą ir lankytojus, įskaitant tuos, kurių apsilankymas yra susijęs su laivu;
 2. apsaugoti uosto įrenginį (terminalą);
@@ -1223,7 +1223,7 @@ Taip yra parengiamas bendras rizikos vertinimas, į kurį atsižvelgiant turi b�
 8. pagrindiniai elektros, radijo ir telekomunikacijų, vandens ir kitų komunalinių paslaugų įrenginiai, ir
 9. kitos uosto įrenginio (terminalo) vietos, į kurias turi būti ribojamas laivų, transporto priemonių ir asmenų patekimas.
 16.26 Gavus reikiamų institucijų sutikimą, apsaugą užtikrinančios priemonės gali būti taikomos ir norint apriboti patekimą be leidimo į statinius, nuo kurių galima stebėti uosto įrenginį (terminalą).
-*1 apsaugos lygis*
+1 apsaugos lygis
 16.27 Kai yra nustatytas 1 apsaugos lygis, uosto įrenginio (terminalo) apsaugos plane turi būti nustatytos draudžiamosioms zonoms taikomos apsaugą užtikrinančios priemonės, tarp jų gali būti šios:
 1. nuolatinių arba laikinųjų užtvarų įrengimas draudžiamajai zonai apjuosti, kurių standartą turi patvirtinti Susitariančioji Vyriausybė;
 2. patekimo į šias zonas vietų įrengimas ten, kur darbo metu patekimą gali kontroliuoti apsaugos darbuotojai, o nenaudojant jas galima užrakinti arba užtverti;
@@ -1232,7 +1232,7 @@ Taip yra parengiamas bendras rizikos vertinimas, į kurį atsižvelgiant turi b�
 5. sargai ir patruliai;
 6. automatinių įsibrovimų aptikimo prietaisų arba sekimo įrangos ar sistemų įrengimas norint užfiksuoti neteisėtą patekimą į draudžiamąsias zonas ar judėjimą jose, ir
 7. laivų, esančių netoli uosto įrenginiu (terminalu) besinaudojančių laivų, judėjimo kontrolė.
-*2 apsaugos lygis*
+2 apsaugos lygis
 16.28 Kai yra nustatytas 2 apsaugos lygis, uosto įrenginio (terminalo) apsaugos plane turi būti numatytas dažnesnis ir intensyvesnis draudžiamųjų zonų stebėjimas ir patekimo į jas kontrolė. Uosto įrenginio (terminalo) apsaugos plane turi būti nustatytos papildomos apsaugą užtikrinančios priemonės, tarp jų gali būti šios:
 1. užtvarų ir tvorų, juosiančių draudžiamąsias zonas, veiksmingumo padidinimas, įskaitant patruliavimą ir automatinius įsibrovimų aptikimo prietaisus;
 2. patekimo į draudžiamąsias zonas vietų skaičiaus mažinimas ir likusių patekimo vietų kontrolės sugriežtinimas;
@@ -1242,16 +1242,16 @@ Taip yra parengiamas bendras rizikos vertinimas, į kurį atsižvelgiant turi b�
 6. patrulių, įskaitant pakrantės patrulius, budinčius ties draudžiamųjų zonų ribomis ir šiose zonose, skaičiaus ir patruliavimo dažnumo didinimas;
 7. zonų, kurios ribojasi su draudžiamosiomis zonomis, nustatymas ir patekimo į jas ribojimas, ir
 8. apribojimų taikymas leidimų neturintiems laivams įplaukti į vandenis, esančius greta uosto įrenginiu (terminalu) besinaudojančių laivų.
-*3 apsaugos lygis*
+3 apsaugos lygis
 16.29 Kai yra nustatytas 3 apsaugos lygis, uosto įrenginys (terminalas) turi laikytis instrukcijų, kurias pateikia į pavojų saugumui keliantį incidentą arba jo grėsmę reaguojančios tarnybos. Uosto įrenginio (terminalo) apsaugos plane turi būti išsamiai išdėstytos apsaugą užtikrinančios priemonės, kurių gali imtis uosto įrenginys (terminalas) glaudžiai bendradarbiaudamas su reagavimo tarnybomis ir uosto įrenginyje (terminale) esančiais laivais, tarp jų gali būti:
 1. papildomų draudžiamųjų zonų uosto įrenginyje (terminale), esančių netoli tos vietos, kurioje įvyko pavojų saugumui keliantis incidentas, arba ten, kur, kaip manoma, kyla grėsmė saugumui, nustatymas ir draudimas patekti į jas, ir
 2. pasirengimas apieškoti draudžiamąsias zonas apieškant visą uosto įrenginį (terminalą) arba jo dalį.
-**Krovinių tvarkymas**
+Krovinių tvarkymas
 16.30 Apsaugą užtikrinančios priemonės, susijusios su krovinių tvarkymu, turi:
 1. užkirsti kelią neteisėtiems veiksmams, ir
 2. užkirsti kelią tam, kad į uosto įrenginį (terminalą) nebūtų priimami ir uosto įrenginyje (terminale) nebūtų saugomi kroviniai, kurių nenumatyta pervežti.
 16.31 Tarp apsaugą užtikrinančių priemonių turi būti krovinių sąrašo tikrinimo procedūros priėmimo į uosto įrenginį (terminalą) vietose. Kai krovinys patenka į uosto įrenginį (terminalą), turi būti galima nustatyti, ar jis yra patikrintas, ar jį leista krauti į laivą, ar jis priimtas laikinai saugoti draudžiamojoje zonoje, kol bus pakrautas. Gali reikėti riboti krovinių, kurių krovimo data nepatvirtinta, priėmimą į uosto įrenginį (terminalą).
-*1 apsaugos lygis*
+1 apsaugos lygis
 16.32 Kai yra nustatytas 1 apsaugos lygis, uosto įrenginio (terminalo) apsaugos plane turi būti nustatytos apsaugą užtikrinančios priemonės, taikomos kraunant krovinius, tarp jų gali būti šios:
 1. eilinis krovinių, krovinių transporto vienetų ir uosto įrenginyje (terminale) esančių krovinių saugojimo zonų tikrinimas prieš atliekant krovos operacijas arba jų metu;
 2. patikrinimai, norint įsitikinti, ar į uosto įrenginį (terminalą) patenka tie kroviniai, kurie nurodyti važtaraštyje arba lygiaverčiuose krovinių dokumentuose;
@@ -1261,7 +1261,7 @@ Taip yra parengiamas bendras rizikos vertinimas, į kurį atsižvelgiant turi b�
 1. atliekant vizualinę ir fizinę apžiūrą, ir
 naudojant skenavimo ir aptikimo įrangą, mechaninius prietaisus arba šunis.
 16.34 Kai kroviniai pervežami reguliariai ar daug kartų, kompanijos apsaugos pareigūnas (KAP) arba laivo apsaugos pareigūnas (LAP), pasitarę su uosto įrenginiu (terminalu), su ekspeditoriais ar kitais už šiuos krovinius atsakingais asmenimis gali susitarti dėl tikrinimo kitoje vietoje, plombavimo, grafikų sudarymo, pagrindžiančių dokumentų ir t. t. Apie šiuos susitarimus reikia pranešti atitinkamam UĮAP ir gauti jo pritarimą.
-*2 apsaugos lygis*
+2 apsaugos lygis
 16.35 Kai yra nustatytas 2 apsaugos lygis, uosto įrenginio (terminalo) apsaugos plane turi būti nustatytos papildomos apsaugą užtikrinančios priemonės, taikomos kraunant krovinius, tarp jų gali būti:
 1. išsamus krovinių, krovinių transporto vienetų ir uosto įrenginyje (terminale) esančių krovinių saugojimo zonų tikrinimas;
 2. sugriežtinti reikiami tikrinimai norint įsitikinti, kad į uosto įrenginį (terminalą) patektų, būtų laikinai ten saugomi ir kraunami į laivą tik kroviniai su dokumentais;
@@ -1271,11 +1271,11 @@ naudojant skenavimo ir aptikimo įrangą, mechaninius prietaisus arba šunis.
 1. dažniau ir išsamiau tikrinant krovinius, krovinių transporto vienetus ir uosto įrenginyje (terminale) esančias krovinių saugojimo zonas (vizualinis ir fizinis patikrinimas);
 2. dažniau naudojant skenavimo ir aptikimo įrangą, mechaninius prietaisus arba šunis, ir
 3. derinant sustiprintą apsaugą užtikrinančias priemones su ekspeditoriumi ar su kita atsakinga šalimi, vadovaujantis pasiektu susitarimu ir nustatytomis procedūromis.
-*3 apsaugos lygis*
+3 apsaugos lygis
 16.37 Kai yra nustatytas 3 apsaugos lygis, uosto įrenginys (terminalas) turi laikytis instrukcijų, kurias pateikia į pavojų saugumui keliantį incidentą arba jo grėsmę reaguojančios tarnybos. Uosto įrenginio (terminalo) apsaugos plane turi būti išsamiai išdėstytos apsaugą užtikrinančios priemonės, kurių gali imtis uosto įrenginys (terminalas) glaudžiai bendradarbiaudamas su reagavimo tarnybomis ir su uosto įrenginyje (terminale) esančiais laivais, tarp jų gali būti šios:
 1. krovinių judėjimo arba krovimo operacijų visame uosto įrenginyje (terminale), jo dalyje ar konkrečiuose laivuose ribojimas arba laikinas sustabdymas, ir
 2. uosto įrenginyje (terminale) laikomų pavojingų prekių ir medžiagų, jei jų yra, aprašo bei jų laikymo vietos tikrinimas.
-**Laivo atsargų pristatymas**
+Laivo atsargų pristatymas
 16.38 Apsaugą užtikrinančios priemonės, susijusios su laivo atsargų pristatymu, turi:
 1. užtikrinti, kad būtų tikrinamos laivo atsargos ir įsitikinama, ar nepažeista jų pakuotė;
 2. užkirsti kelią tam, kad laivo atsargos nebūtų priimamos jų nepatikrinus;
@@ -1284,7 +1284,7 @@ naudojant skenavimo ir aptikimo įrangą, mechaninius prietaisus arba šunis.
 5. užtikrinti, kad būtų atliekamos atsargas pristatančių transporto priemonių kratos, ir
 6. užtikrinti, kad uosto įrenginyje (terminale) būtų teikiamos atsargas pristatančių transporto priemonių palydos paslaugos.
 16.39 Jei laivai reguliariai naudojasi uosto įrenginiu (terminalu), gali būti tikslinga nustatyti laivui, laivo atsargų tiekėjams ir uosto įrenginiui (terminalui) procedūras, kurios apimtų pranešimus apie atsargų pristatymą, laiką ir dokumentus. Visada turi būti numatytas tam tikras būdas įrodyti, kad laivas užsakė atsargas, kurios yra pristatomos.
-*1 apsaugos lygis*
+1 apsaugos lygis
 16.40 Kai yra nustatytas 1 apsaugos lygis, uosto įrenginio (terminalo) apsaugos plane turi būti nustatytos priemonės, taikomos pristatomoms laivo atsargoms kontroliuoti, tarp jų gali būti:
 1. laivo atsargų tikrinimas;
 2. išankstinis pranešimas apie krovinio sudėtį, informacijos apie vairuotoją ir transporto priemonės registraciją pateikimas, ir
@@ -1292,7 +1292,7 @@ naudojant skenavimo ir aptikimo įrangą, mechaninius prietaisus arba šunis.
 16.41 Laivo atsargos gali būti tikrinamos kai kuriais arba visais toliau išvardytais būdais:
 1. atliekant vizualinę ir fizinę apžiūrą, ir
 2. naudojantis skenavimo ir aptikimo įranga, mechaniniais prietaisais arba šunimis.
-*2 apsaugos lygis*
+2 apsaugos lygis
 16.42 Kai yra nustatytas 2 apsaugos lygis, uosto įrenginio (terminalo) apsaugos plane turi būti nustatytos papildomos apsaugą užtikrinančios priemonės, taikomos norint sugriežtinti pristatomų laivo atsargų kontrolę, tarp jų gali būti šios:
 1. išsamus laivo atsargų tikrinimas;
 2. išsamus atsargas pristatančių transporto priemonių tikrinimas;
@@ -1302,51 +1302,51 @@ naudojant skenavimo ir aptikimo įrangą, mechaninius prietaisus arba šunis.
 1. dažniau ir išsamiau tikrinant atsargas pristatančias transporto priemones;
 2. dažniau naudojantis skenavimo ir aptikimo įranga, mechaniniais prietaisais arba šunimis, ir
 3. ribojant arba uždraudžiant įvežti atsargas, kurios nebus išgabentos iš uosto įrenginio (terminalo) per konkretų laikotarpį.
-*3 apsaugos lygis*
+3 apsaugos lygis
 16.44 Kai yra nustatytas 3 apsaugos lygis, uosto įrenginys (terminalas) turi laikytis instrukcijų, kurias pateikia į pavojų saugumui keliantį incidentą arba jo grėsmę reaguojančios tarnybos. Uosto įrenginio (terminalo) apsaugos plane turi būti išsamiai išdėstytos apsaugą užtikrinančios priemonės, kurių gali imtis uosto įrenginys (terminalas) glaudžiai bendradarbiaudamas su reagavimo tarnybomis ir uosto įrenginyje (terminale) esančiais laivais, tarp jų gali būti pasirengimas apriboti arba laikinai sustabdyti laivo atsargų pristatymą visame uosto įrenginyje (terminale) arba jo dalyje.
-**Nelydimo bagažo tvarkymas**
+Nelydimo bagažo tvarkymas
 16.45 Uosto įrenginio (terminalo) apsaugos plane turi būti nustatytos apsaugos priemonės, taikomos norint užtikrinti, kad nelydimas bagažas (t. y. bet koks bagažas, įskaitant asmeninius daiktus, kurių tikrinimo ar kratos metu neturi keleivis arba laivo įgulos narys), prieš įleidžiant jį į uosto įrenginį (terminalą) ar prieš perkeliant jį iš uosto įrenginio (terminalo) į laivą, būtų identifikuotas ir tinkamai patikrintas, įskaitant kratą. Nėra numatoma, kad šį bagažą tikrintų ir uosto įrenginys (terminalas), ir laivas, o tais atvejais, kai ir vienas, ir kitas turi tinkamos įrangos, atsakomybė už tikrinimą turi tekti uosto įrenginiui (terminalui). Būtinas glaudus bendradarbiavimas su laivu ir reikia imtis priemonių, kad nelydimas bagažas po patikrinimo būtų saugiai tvarkomas.
-*1 apsaugos lygis*
+1 apsaugos lygis
 16.46 Kai yra nustatytas 1 apsaugos lygis, uosto įrenginio (terminalo) apsaugos plane turi būti nustatytos apsaugos priemonės, taikomos kraunant nelydimą bagažą, norint užtikrinti, kad būtų tikrinama ir apieškoma iki 100 procentų (imtinai) nelydimo bagažo, įskaitant galimą peršvietimą rentgeno įranga.
-*2 apsaugos lygis*
+2 apsaugos lygis
 16.47 Kai yra nustatytas 2 apsaugos lygis, uosto įrenginio (terminalo) apsaugos plane turi būti nustatytos papildomos apsaugą užtikrinančios priemonės, taikomos kraunant nelydimą bagažą, tarp jų turi būti šimtaprocentinis viso nelydimo bagažo peršvietimas rentgeno įranga.
-*3 apsaugos lygis*
+3 apsaugos lygis
 16.48 Kai yra nustatytas 3 apsaugos lygis, uosto įrenginys (terminalas) turi laikytis instrukcijų, kurias pateikia į pavojų saugumui keliantį incidentą arba jo grėsmę reaguojančios tarnybos. Uosto įrenginio (terminalo) apsaugos plane turi būti išsamiai išdėstytos apsaugą užtikrinančios priemonės, kurių gali imtis uosto įrenginys (terminalas) glaudžiai bendradarbiaudamas su reagavimo tarnybomis ir uosto įrenginyje (terminale) esančiais laivais, tarp jų gali būti šios:
 1. išsamesnis šio bagažo tikrinimas, pavyzdžiui, peršvietimas rentgeno įranga bent dviem skirtingais kampais;
 2. pasirengimas apriboti arba laikinai sustabdyti nelydimo bagažo krovimą, ir
 3. atsisakymas priimti nelydimą bagažą į uosto įrenginį (terminalą).
-**Uosto įrenginio (terminalo) apsaugos stebėjimas**
+Uosto įrenginio (terminalo) apsaugos stebėjimas
 16.49 Uosto įrenginio (terminalo) apsaugos organizacija turi gebėti visą laiką stebėti uosto įrenginį (terminalą) ir jo prieigas sausumoje ir vandenyje, įskaitant tamsų paros laiką ir blogo matomumo laikotarpius, uosto įrenginyje (terminale) esančias draudžiamąsias zonas, uosto įrenginyje (terminale) esančius laivus ir teritoriją aplink juos. Stebint gali būti naudojamasi:
 1. apšvietimu;
 2. apsaugos darbuotojais, įskaitant patruliavimą pėsčiomis, transporto priemonėmis ir vandens transportu, ir
 3. automatiniais įsibrovimų aptikimo prietaisais ir sekimo įranga.
 16.50 Naudojami automatiniai įsibrovimo aptikimo prietaisai turi įjungti garsinį ir (arba) vaizdinį pavojaus signalą toje vietoje, kurioje nuolat būna žmonių arba kuri yra nuolat stebima.
 16.51 Uosto įrenginio (terminalo) apsaugos plane turi būti nustatytos kiekvienam apsaugos lygiui reikalingos procedūros ir įranga bei priemonės, užtikrinančios, kad stebėjimo įranga galės veikti nepertraukiamai, atsižvelgiant į galimą oro sąlygų arba elektros energijos tiekimo sutrikimo poveikį.
-*1 apsaugos lygis*
+1 apsaugos lygis
 16.52 Kai yra nustatytas 1 apsaugos lygis, uosto įrenginio (terminalo) apsaugos plane turi būti nustatytos apsaugą užtikrinančios priemonės, kurias taikant gali būti derinamas apšvietimas, apsaugos darbuotojų paslaugos arba apsaugos ir sekimo įrangos naudojimas, kad uosto įrenginio (terminalo) apsaugos personalas galėtų:
 1. stebėti visą uosto įrenginio (terminalo) teritoriją, įskaitant priėjimą iš kranto ir vandens pusės;
 2. stebėti patekimo į uosto įrenginį (terminalą) vietas, užtvaras ir draudžiamąsias zonas, ir
 3. stebėti greta uosto įrenginiu (terminalu) besinaudojančių laivų esančias zonas ir judėjimą, įskaitant paties laivo apšvietimo stiprinimą.
-*2 apsaugos lygis*
+2 apsaugos lygis
 16.53 Kai yra nustatytas 2 apsaugos lygis, uosto įrenginio (terminalo) apsaugos plane turi būti nustatytos papildomos apsaugą užtikrinančios priemonės, taikomos norint padidinti stebėjimo ir sekimo gebėjimus, tarp jų gali būti:
 1. apšvietimo ploto ir intensyvumo bei sekimo įrangos aprėpties didinimas, įskaitant papildomo apšvietimo įrengimą ir stebimo ploto didinimą;
 2. dažnesnis patruliavimas pėsčiomis, transporto priemonėmis arba vandens transportu ir
 3. papildomo personalo skyrimas stebėti ir patruliuoti.
-*3 apsaugos lygis*
+3 apsaugos lygis
 16.54 Kai yra nustatytas 3 apsaugos lygis, uosto įrenginys (terminalas) turi laikytis instrukcijų, kurias pateikia į pavojų saugumui keliantį incidentą arba jo grėsmę reaguojančios tarnybos. Uosto įrenginio (terminalo) apsaugos plane turi būti išsamiai išdėstytos apsaugą užtikrinančios priemonės, kurių gali imtis uosto įrenginys (terminalas) glaudžiai bendradarbiaudamas su reagavimo tarnybomis ir uosto įrenginyje (terminale) esančiais laivais, tarp jų gali būti:
 1. viso apšvietimo uosto įrenginyje (terminale) įjungimas arba uosto įrenginio (terminalo) prieigų apšvietimas;
 2. visos sekimo įrangos, galinčios fiksuoti uosto įrenginyje (terminale) ar šalia jo atliekamus veiksmus, įjungimas ir
 3. maksimalus šios sekimo įrangos įrašymo trukmės padidinimas.
-**Skirtingi apsaugos lygiai**
+Skirtingi apsaugos lygiai
 16.55 Uosto įrenginio (terminalo) apsaugos plane turi būti nustatytos išsamios procedūros ir apsaugą užtikrinančios priemonės, kurių gali imtis uosto įrenginys (terminalas), jei jam yra nustatytas žemesnis apsaugos lygis negu laivui.
-**Šio kodekso nereglamentuojama veikla**
+Šio kodekso nereglamentuojama veikla
 16.56 Uosto įrenginio (terminalo) apsaugos plane turi būti nustatytos išsamios procedūros ir apsaugą užtikrinančios priemonės, kurias uosto įrenginys (terminalas) turi taikyti, kai:
 1. jis sąveikauja su laivu, kuris yra buvęs valstybės, kuri nėra Susitariančioji Vyriausybė, uoste;
 2. jis sąveikauja su laivu, kuriam netaikomas šis kodeksas;
 3. jis sąveikauja su stacionariomis ar plaukiojančiomis platformomis ar vietiniu mobiliuoju atviros jūros gręžimo įrenginiu.
-**Apsaugos deklaracijos**
+Apsaugos deklaracijos
 16.57 Uosto įrenginio (terminalo) apsaugos plane turi būti išdėstytos procedūros, kuriomis reikia vadovautis, kai Susitariančiosios Vyriausybės nurodymu UĮAP paprašo pateikti apsaugos deklaraciją arba kai apsaugos deklaracijos prašo laivas.
-**Auditas, persvarstymas ir pakeitimas**
+Auditas, persvarstymas ir pakeitimas
 16.58 Uosto įrenginio (terminalo) apsaugos plane turi būti nustatyta, kaip UĮAP ketina tikrinti, ar uosto įrenginio (terminalo) apsaugos planas tebėra veiksmingas, ir turi būti išdėstytos procedūros, kuriomis reikia vadovautis persvarstant, atnaujinant arba keičiant uosto įrenginio (terminalo) apsaugos planą.
 16.59 Uosto įrenginio (terminalo) apsaugos planas turi būti persvarstomas UĮAP nuožiūra. Be to, jį reikia persvarstyti:
 1. jei keičiamas su uosto įrenginiu (terminalu) susijęs uosto įrenginio (terminalo) apsaugos vertinimas;
@@ -1357,7 +1357,7 @@ naudojant skenavimo ir aptikimo įrangą, mechaninius prietaisus arba šunis.
 1. siūlomais pakeitimais, kurie gali iš esmės pakeisti taikomą uosto įrenginio (terminalo) apsaugos užtikrinimo metodą, ir
 2. nuolatinių užtvarų, apsaugos ir sekimo įrangos ir sistemų ir kt., kurios anksčiau buvo laikomos esminėmis norint palaikyti uosto įrenginio (terminalo) apsaugą, pašalinimu, modifikavimu arba pakeitimu.
 Tokie pakeitimai turi būti pateikiami svarstyti ir tvirtinti Susitariančiajai Vyriausybei, kuri patvirtino pirminį uosto įrenginio (terminalo) apsaugos planą. Tokį pakeitimų tvirtinimą su papildomais pakeitimais arba be jų gali pateikti Susitariančioji Vyriausybė arba pakeitimai gali būti tvirtinami jos vardu. Tvirtindama uosto įrenginio (terminalo) apsaugos planą, Susitariančioji Vyriausybė turi nurodyti, kurie procedūriniai ar fiziniai pakeitimai turi būti teikiami jai tvirtinti.
-**Uosto įrenginių (terminalų) apsaugos planų tvirtinimas**
+Uosto įrenginių (terminalų) apsaugos planų tvirtinimas
 16.61 Uosto įrenginių (terminalų) apsaugos planus turi tvirtinti atitinkamos Susitariančiosios Vyriausybės, kurios turi nustatyti reikiamas procedūras, numatančias:
 1. kaip joms bus teikiami uosto įrenginių (terminalų) apsaugos planai;
 2. kaip bus svarstomi uosto įrenginių (terminalų) apsaugos planai;
@@ -1365,7 +1365,7 @@ Tokie pakeitimai turi būti pateikiami svarstyti ir tvirtinti Susitariančiajai 
 4. kaip bus svarstomi po patvirtinimo pateikti pakeitimai, ir
 5. procedūras, kaip bus tikrinama, ar patvirtinti uosto įrenginių (terminalų) apsaugos planai tebėra aktualūs.
 Visuose etapuose reikia imtis priemonių, kad uosto įrenginio (terminalo) apsaugos plano turinys liktų konfidencialus.
-**Pažyma apie uosto įrenginio (terminalo) atitiktį reikalavimams**
+Pažyma apie uosto įrenginio (terminalo) atitiktį reikalavimams
 16.62 Susitariančioji Vyriausybė, kurios teritorijoje yra uosto įrenginys (terminalas), gali išduoti atitinkamą dokumentą dėl uosto įrenginio (terminalo) atitikties reikalavimams, kuriame nurodo:
 1. uosto įrenginį (terminalą);
 2. kad uosto įrenginys (terminalas) atitinka XI-2 skyriaus ir šio kodekso A dalies nuostatas;
@@ -1373,12 +1373,12 @@ Visuose etapuose reikia imtis priemonių, kad uosto įrenginio (terminalo) apsau
 4. tolesnio tikrinimo sąlygas, kurias nustatė Susitariančioji Vyriausybė, ir patvirtinimą, kai tikrinimai atliekami.
 16.63 Dokumentas dėl uosto įrenginio (terminalo) atitikties reikalavimams turi būti rengiamas vadovaujantis šios kodekso dalies priedėlyje pateikta forma. Jei vartojama ne ispanų, prancūzų ar anglų kalba, Susitariančioji Vyriausybė gali pridėti vertimą į vieną iš šių kalbų, jei mano, jog tai yra reikalinga.
 17. UOSTO ĮRENGINIO (TERMINALO) APSAUGOS PAREIGŪNAS
-**Bendrosios nuostatos**
+Bendrosios nuostatos
 17.1. Išskirtiniais atvejais, kai laivo apsaugos pareigūnui kyla klausimų dėl asmenų, norinčių įlipti į laivą tarnybiniais tikslais, įgaliojimų galiojimo, jam turi padėti uosto įrenginio (terminalo) apsaugos pareigūnas.
 17.2. Uosto įrenginio (terminalo) apsaugos pareigūnas neturi būti atsakingas už eilinį asmenų, norinčių įlipti į laivą, asmens tapatybės patvirtinimą.
-*Papildomai, kitos susijusios gairės pateiktos 15, 16 ir 18 skirsniuose*.
+Papildomai, kitos susijusios gairės pateiktos 15, 16 ir 18 skirsniuose.
 18. MOKYMAI, TRENIRUOTĖS IR PRATYBOS UOSTO ĮRENGINIŲ (TERMINALŲ) APSAUGOS KLAUSIMAIS
-**Mokymai**
+Mokymai
 18.1 Uosto įrenginio (terminalo) apsaugos pareigūnas turi būti mokomas ir išmanyti kai kuriuos arba visus toliau išvardytus dalykus:
 1. apsaugos administravimą;
 2. atitinkamas tarptautines konvencijas, kodeksus ir rekomendacijas;
@@ -1416,7 +1416,7 @@ Visuose etapuose reikia imtis priemonių, kad uosto įrenginio (terminalo) apsau
 2. ginklų, pavojingų medžiagų ir prietaisų atpažinimą ir aptikimą;
 3. asmenų, galinčių kelti grėsmę saugumui, bruožų ir elgsenos atpažinimą ir
 4. apsaugą užtikrinančių priemonių įveikimo būdus.
-**Treniruotės ir pratybos**
+Treniruotės ir pratybos
 18.4 Treniruočių ir pratybų tikslas – užtikrinti, kad uosto įrenginio (terminalo) personalas išmanytų, kaip atlikti jiems priskirtas apsaugą užtikrinančias pareigas visais apsaugos lygiais, ir nustatyti visus su apsauga susijusius trūkumus, kuriuos reikia pašalinti.
 18.5 Norint užtikrinti efektyvų uosto įrenginio (terminalo) apsaugos plano nuostatų įgyvendinimą, treniruotės turi būti rengiamos ne rečiau kaip kartą per tris mėnesius, nebent dėl konkrečių aplinkybių jas reikėtų rengti kitaip. Šių treniruočių metu turi būti tikrinami atskiri plano elementai, pavyzdžiui 15.11 punkte išvardytos grėsmės saugumui.
 18.6 Įvairios pratybos, kuriose gali dalyvauti uosto įrenginio (terminalo) apsaugos pareigūnai drauge su Susitariančiųjų Vyriausybių atitinkamomis institucijomis, kompanijų apsaugos pareigūnai arba laivų apsaugos pareigūnai, jei įmanoma, turi būti rengiamos ne rečiau kaip kartą per kalendorinius metus ne ilgesniais kaip 18 mėnesių intervalais tarp pratybų. Prašymai dėl kompanijų apsaugos pareigūnų ar laivų apsaugos pareigūnų dalyvavimo bendrose pratybose turi būti pateikiami atsižvelgiant į poveikį laivo apsaugai ir darbui. Šių pratybų metu turi būti tikrinami ryšiai, koordinavimas, turimi ištekliai ir reakcija. Šios pratybos gali būti:
@@ -1424,69 +1424,71 @@ Visuose etapuose reikia imtis priemonių, kad uosto įrenginio (terminalo) apsau
 2. pratybos su treniruokliais arba seminaras, arba
 3. derinamos su kitomis pratybomis, pavyzdžiui, avarinio reagavimo arba kitos uosto valstybės pratybomis.
 19. LAIVŲ TIKRINIMAS IR SERTIFIKAVIMAS
-***Papildomų gairių nepateikiama.***
+Papildomų gairių nepateikiama.
 ______________
 B DALIES PRIEDĖLIS
 1 PRIEDĖLIS
-Laivo ir uosto įrenginio (terminalo) apsaugos deklaracijos forma^2
+Laivo ir uosto įrenginio (terminalo) apsaugos deklaracijos forma2
 APSAUGOS DEKLARACIJA
-| Laivo pavadinimas | |
-| --- | --- |
-| Registracijos uostas | |
-| TJO numeris | |
-| Uosto įrenginio (terminalo) pavadinimas | |
-Ši Apsaugos deklaracija galioja nuo .......... iki .......................
-Pateikiama dėl šių darbų ............................................
-*(išvardyti darbus pateikiant reikiamą išsamesnę informaciją)*
+Laivo pavadinimas
+Registracijos uostas
+TJO numeris
+Uosto įrenginio (terminalo) pavadinimas
+Ši Apsaugos deklaracija galioja nuo .................... iki .............................................
+Pateikiama dėl šių darbų ........................................................................................
+(išvardyti darbus pateikiant reikiamą išsamesnę informaciją)
 Galiojant šiems apsaugos lygiams
-| Laivo apsaugos lygis (lygiai) | |
-| --- | --- |
-| Uosto įrenginio (terminalo) apsaugos lygis (lygiai) | |
+Laivo apsaugos lygis (lygiai)
+Uosto įrenginio (terminalo) apsaugos lygis (lygiai)
 Uosto įrenginys (terminalas) ir laivas susitaria dėl toliau išvardytų apsaugos priemonių ir funkcijų, siekdami laikytis Tarptautinio laivų ir uosto įrenginių (terminalų) apsaugos kodekso A dalies reikalavimų.
-| Priemonės pavadinimas | LAP ar UĮAP parašai šiose grafose rodo, kad darbus, laikydamasis atitinkamo patvirtinto plano, atliks | |
-| --- | --- | --- |
-| Uosto įrenginys (terminalas) | Laivas | |
-| Visų apsaugos pareigų atlikimo užtikrinimas | | |
-| Draudžiamųjų zonų stebėjimas, kad į jas patektų tik tam įgalioti asmenys | | |
-| Patekimo į uosto įrenginį (terminalą) kontrolė | | |
-| Patekimo į laivą kontrolė | | |
-| Uosto įrenginio (terminalo) stebėjimas, įskaitant švartavimosi zonas ir zonas aplink laivą | | |
-| Laivo stebėjimas, įskaitant švartavimosi zonas ir zonas aplink laivą | | |
-| Krovinių tvarkymas | | |
-| Laivo atsargų pristatymas | | |
-| Nelydimo bagažo tvarkymas | | |
-| Asmenų įlaipinimo ir jų įnešamų asmeninių daiktų kontrolė | | |
-| Užtikrinimas, kad būtų parengti laivo ir uosto įrenginio (terminalo) ryšiai apsaugai užtikrinti | | |
+Priemonės pavadinimas
+LAP ar UĮAP parašai šiose grafose rodo, kad darbus, laikydamasis atitinkamo patvirtinto plano, atliks
+Uosto įrenginys (terminalas)
+Laivas
+Visų apsaugos pareigų atlikimo užtikrinimas
+Draudžiamųjų zonų stebėjimas, kad į jas patektų tik tam įgalioti asmenys
+Patekimo į uosto įrenginį (terminalą) kontrolė
+Patekimo į laivą kontrolė
+Uosto įrenginio (terminalo) stebėjimas, įskaitant švartavimosi zonas ir zonas aplink laivą
+Laivo stebėjimas, įskaitant švartavimosi zonas ir zonas aplink laivą
+Krovinių tvarkymas
+Laivo atsargų pristatymas
+Nelydimo bagažo tvarkymas
+Asmenų įlaipinimo ir jų įnešamų asmeninių daiktų kontrolė
+Užtikrinimas, kad būtų parengti laivo ir uosto įrenginio (terminalo) ryšiai apsaugai užtikrinti
 Šį susitarimą pasirašiusios šalys patvirtina, kad apsaugos priemonės ir susitarimai dėl uosto įrenginio (terminalo) ir laivo atliekant nurodytus darbus atitinka XI-2 skyriaus ir kodekso A dalies nuostatas, kurios bus įgyvendinamos laikantis jų patvirtintame plane jau numatytų nuostatų arba pridėtame priede patvirtintų ir išdėstytų specialiųjų susitarimų.
-...............................
+..............................................................
 (vieta) (data)
-| Pasirašė šių šalių vardu | |
-| --- | --- |
-| uosto įrenginio (terminalo): | laivo: |
-*(uosto įrenginio (terminalo) apsaugos pareigūno parašas) (laivo kapitono arba apsaugos pareigūno parašas)*
-| Pasirašiusio asmens vardas, pavardė ir pareigos | |
-| --- | --- |
-| Vardas, pavardė: | Vardas, pavardė: |
-| Pareigos: | Pareigos: |
-| Informacija ryšiams palaikyti (įrašyti reikiama tvarka) (nurodyti telefonų numerius arba radijo kanalus ar dažnius, kurie bus naudojami) | |
-| --- | --- |
-| Su uosto įrenginiu (terminalu): | Su laivu: |
-| Uosto įrenginys (terminalas) | Kapitonas |
-| Uosto įrenginio (terminalo) apsaugos pareigūnas | Laivo apsaugos pareigūnas |
-| | Kompanija |
-| | Kompanijos apsaugos pareigūnas |
+Pasirašė šių šalių vardu
+uosto įrenginio (terminalo):
+laivo:
+(uosto įrenginio (terminalo) apsaugos pareigūno parašas) (laivo kapitono arba apsaugos pareigūno parašas)
+Pasirašiusio asmens vardas, pavardė ir pareigos
+Vardas, pavardė:
+Vardas, pavardė:
+Pareigos:
+Pareigos:
+Informacija ryšiams palaikyti (įrašyti reikiama tvarka) (nurodyti telefonų numerius arba radijo kanalus ar dažnius, kurie bus naudojami)
+Su uosto įrenginiu (terminalu):
+Su laivu:
+Uosto įrenginys (terminalas)
+Kapitonas
+Uosto įrenginio (terminalo) apsaugos pareigūnas
+Laivo apsaugos pareigūnas
+Kompanija
+Kompanijos apsaugos pareigūnas
 ______________
 2 PRIEDĖLIS
 Dokumentas dėl uosto įrenginio (terminalo) atitikties reikalavimams forma
 PAŽYMA
 DĖL UOSTO ĮRENGINIO (TERMINALO) ATITIKTIES REIKALAVIMAMS
-*(oficialusis antspaudas) (valstybė)*
-Pažymos numeris….
-**Išduotas vadovaujantis**
+(oficialusis antspaudas) (valstybė)
+Pažymos numeris…..
+Išduotas vadovaujantis
 TARPTAUTINIO LAIVŲ IR UOSTO ĮRENGINIŲ (TERMINALŲ) APSAUGOS KODEKSO (ISPS KODEKSAS)
-**B dalies nuostatomis**
+B dalies nuostatomis
 _______________________________ Vyriausybė
-*(valstybės pavadinimas)*
+(valstybės pavadinimas)
 Uosto įrenginio (terminalo) pavadinimas: ………………………………………
 Uosto įrenginio (terminalo) adresas: ……………………………………….
 TVIRTINAME, kad šio uosto įrenginio (terminalo) ir XI-2 skyriaus bei Tarptautinio laivų ir uosto įrenginių (terminalų) apsaugos kodekso (ISPS kodeksas) A dalies nuostatų atitiktis yra patikrinta ir kad šis uosto įrenginys (terminalas) veikia laikydamasis patvirtinto Uosto įrenginio (terminalo) apsaugos plano. Šis planas patvirtintas šioms operacijoms <nurodyti operacijų rūšis, laivų ar veiklos rūšis ir kitą reikalingą informaciją>: (nereikalingą išbraukti):
@@ -1500,29 +1502,42 @@ Dujovežis
 Mobilieji atviros jūros gręžimo įrenginiai
 Krovininiai laivai, nepriskirti pirmiau nurodytoms kategorijoms
 Šis dokumentas dėl atitikties reikalavimams galioja iki …………………………., atliekant patikrinimus (nurodytus kitoje lapo pusėje)
-Išduotas ......................
-*(išdavimo vieta)*
-Išdavimo data ................................................................
-(*dokumentą išdavusio nustatyta tvarka įgalioto*
-*pareigūno parašas)*
-*(dokumentą išdavusios institucijos antspaudas arba spaudas)*
+Išduotas ...........................................
+(išdavimo vieta)
+Išdavimo data ...............................................................................................................................
+(dokumentą išdavusio nustatyta tvarka įgalioto
+pareigūno parašas)
+(dokumentą išdavusios institucijos antspaudas arba spaudas)
 PATIKRINIMŲ TVIRTINIMAS
 <Įrašyti valstybės pavadinimą> Vyriausybė nustatė, kad šio Atitikties dokumento galiojimas turi būti tvirtinamas atliekant <įrašyti reikiamą informaciją apie patikrinimus (pvz., privalomieji kasmetiniai ar neplaniniai)>.
 TVIRTINAME, kad, atlikus patikrinimą vadovaujantis kodekso (ISPS kodeksas) B dalies 16.62.4 punktu, buvo nustatyta, kad uosto įrenginys (terminalas) laikosi atitinkamų Konvencijos XI-2 skyriaus ir (ISPS) kodekso A dalies nuostatų.
-1 PATIKRINIMAS Pasirašė .........................
-*(įgalioto pareigūno parašas)*
-Vieta ............................
-Data .............................
-2 PATIKRINIMAS Pasirašė .........................
-*(įgalioto pareigūno parašas)*
-Vieta ............................
-Data .............................
-3 PATIKRINIMAS Pasirašė .........................
-*(įgalioto pareigūno parašas)*
-Vieta ............................
-Data .............................
-4 PATIKRINIMAS Pasirašė .........................
-*(įgalioto pareigūno parašas)*
-Vieta ............................
-Data .............................
+1 PATIKRINIMAS Pasirašė ..................................................
+(įgalioto pareigūno parašas)
+Vieta .......................................................
+Data .........................................................
+2 PATIKRINIMAS Pasirašė ..................................................
+(įgalioto pareigūno parašas)
+Vieta .......................................................
+Data .........................................................
+3 PATIKRINIMAS Pasirašė ..................................................
+(įgalioto pareigūno parašas)
+Vieta .......................................................
+Data .........................................................
+4 PATIKRINIMAS Pasirašė ..................................................
+(įgalioto pareigūno parašas)
+Vieta .......................................................
+Data .........................................................
 ______________
+* Lietuvos Respublika prisijungė Lietuvos Respublikos Vyriausybės 1991 m. 12 d. nutarimu Nr. 416
+1 Siekdamos nesukliudyti siekti tikslo laive turėti laivo įspėjimo apie pavojų sistemą, Administracijos gali leisti šią informaciją laikyti kitoje laivo vietoje dokumente, kuris yra žinomas kapitonui, laivo apsaugos pareigūnui ir kompanijos sprendimu kitam vadovaujančiam laivo personalui.
+* Administracija šią liudijimo dalį patikslina, nurodydama, ar ji pavedė atlikti papildomus patikrinimus numatytus 19.1.1.4 skirsnyje.
+* Išbraukti netinkamą.
+** Užpildžius šią liudijimo dalį, atitinkamai keičiama liudijimo pirmajame lape nurodyta galiojimo laikotarpio pabaigos data.
+* Netinkamą išbraukti
+2 Žr. Tam tikrų, apsaugą užtikrinančių priemonių, laivams, uosto įrenginiams (terminalams), vietiniams mobiliesiems atviros jūros gręžimo įrenginiams ir stacionarioms bei plaukiojančioms platformoms, kurioms netaikomas 1974 m. SOLAS konvencijos XI-2 skyrius, nustatymas, patvirtintas 2002 m. SOLAS konferencijoje 7 rezoliucija.
+3 Žr. Tarptautinės jūros organizacijos tolesnį darbą dėl apsaugos jūroje stiprinimo, patvirtintą Apsaugos jūroje konferencijoje 3 rezoliucija, kviečiančia Organizacija, be kitų klausimų, persvarstyti ir Asamblėjos rezoliuciją A.890(21) dėl saugaus komplektavimo principų. Po šio persvarstymo gali būti taisoma V/14 taisyklė.
+4 Galiojo šio kodekso priėmimo dieną.
+5 Žr. Tarptautinės jūros organizacijos tolesnį darbą dėl apsaugos jūroje stiprinimo, patvirtintą Apsaugos jūroje konferencijoje 3 rezoliucija, kviečiančia Organizacija, be kitų klausimų, persvarstyti ir Asamblėjos rezoliuciją A.787(19) ir A.882(21).
+6 Žr. SOLOS 74 ( su pakeitimais) I/19 taisyklę ir IX/6.2. taisyklę, LOADLINE 66 21 straipsnį, pakeistą 1988 m. LOADLINE protokolu, MARPOL 73/78 ( su pakeitimais) 5 ir 6 straipsnius, I priedo 8A taisyklę, II priedo 15 taisyklę, JMAB 78 (su pakeitimais) X straispnį ir TJO asambėjos rezoliucijas A.787 (19) ir A.882 (21)
+8 Žr. Tarptautinės jūrų organizacijos tolesnį darbą dėl apsaugos jūroje stiprinimo ir tam tikrų apsaugą užtikrinančių priemonių laivams, uosto įrenginiams (terminalams), mobiliesiems atviros jūros gręžimo įrenginiams, stacionarioms arba plaukiojančioms platformoms, kurioms netaikomas 1974 m. SOLAS konvencijos XI-2 skyrius, nustatymo, patvirtintą 2002 m. SOLAS konferencijoje 3 ir 7 rezoliucijomis.
+2 Tokia apsaugos deklaracija sudaroma tarp laivo ir uosto įrenginio (terminalo). Jei deklaracija skirta dviem laivams, ši forma turi būti atitinkamai pakeista.
