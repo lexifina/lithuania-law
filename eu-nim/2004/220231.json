@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo 3, 7, 8, 9, 12, 15, 22, 23, 30, 31, 47, 48, 49 straipsnių pakeitimo ir papildymo bei įstatymo 19 straipsnio pripažinimo netekusiu galios įstatymas Nr. IX-2075",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "50-1636",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-06",
+  "entry_into_force": "2004-04-06",
+  "notification_date": "2014-10-02",
+  "commission_reference": "MNE(2014)55731",
+  "nim_celex": "72010L0075LTU_220231",
+  "nim_id": "220231",
+  "transposes_celex": [
+    "32010L0075"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bd11796d-f940-43e2-b7d3-213f6abbd4d3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
