@@ -1,0 +1,26 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "VALSTYBINĖS MAISTO IR VETERINARIJOS TARNYBOS DIREKTORIAUS ĮSAKYMAS Nr. 272 \"DĖL ŠVIEŽIOS MĖSOS TRICHINELIOZĖS TYRIMO VETERINARIJOS TAISYKLIŲ PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "107",
+  "official_journal_page": null,
+  "official_journal_date": "2000-12-15",
+  "entry_into_force": "2000-12-16",
+  "notification_date": "2003-11-14",
+  "commission_reference": "MNE(2003)59815",
+  "nim_celex": "71972L0462LTU_19815",
+  "nim_id": "19815",
+  "transposes_celex": [
+    "31972L0462",
+    "31977L0096",
+    "31984L0319",
+    "31994L0059",
+    "31997L0079"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5997af68-82e2-4b87-9526-63dfd10be638",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
