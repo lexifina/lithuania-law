@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos produktų saugos įstatymas Nr. VIII-1206 (Suvestinė redakcija nuo 2019-05-01)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "52-1673",
+  "official_journal_page": null,
+  "official_journal_date": "1999-06-16",
+  "entry_into_force": "2000-01-01",
+  "notification_date": "2023-10-26",
+  "commission_reference": "MNE(2023)05478",
+  "nim_celex": "72020L2184LTU_202305478",
+  "nim_id": "202305478",
+  "transposes_celex": [
+    "32020L2184"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/edd5b5bd-f68a-4ee5-9bba-7e4e332f8bac",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
