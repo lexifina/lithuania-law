@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 1996-01-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/2a8e1a77a8164bd1896c18af966b8353251c9d9d/istatymai/TAR.4043B97881A2.md) |
+| 1999-12-22 | 2001-07-24 | Įstatymas Nr. VIII-1461 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/5d2cc1db0cb7c3253a8867d27c0da74e837c8849/istatymai/TAR.4043B97881A2.md) |
