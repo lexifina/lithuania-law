@@ -1,0 +1,32 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "VALSTYBINĖS MAISTO IR VETERINARIJOS TARNYBOS\nDIREKTORIAUS ĮSAKYMAS NR. B1-911 DĖL KIAUŠINIŲ PRODUKTŲ GAMYBOS IR JŲ TIEKIMO Į RINKĄ VETERINARIJOS REIKALAVIMŲ PATVIRTINIMO",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "22",
+  "official_journal_page": null,
+  "official_journal_date": "2004-02-10",
+  "entry_into_force": "2004-02-11",
+  "notification_date": "2004-03-01",
+  "commission_reference": "MNE(2003)51400",
+  "nim_celex": "71972L0462LTU_21400",
+  "nim_id": "21400",
+  "transposes_celex": [
+    "31972L0462",
+    "31977L0098",
+    "31983L0091",
+    "31988L0289",
+    "31989L0227",
+    "31991L0069",
+    "31991L0266",
+    "31991L0684",
+    "31991L0688",
+    "31996L0091",
+    "31997L0079"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/52213ee8-7214-4b34-b3f2-e2ba733412bd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
