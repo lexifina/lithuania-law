@@ -12,3 +12,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 1993-07-28 | 1993-09-28 | Įstatymas Nr. I-233 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/484c5c25c3783cdbc3f4076ddf531dd117cb7892/istatymai/TAR.22F9E22CD358.md) |
 | 1993-09-29 | 1993-10-12 | Įstatymas Nr. I-249 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/9770e130b56c2ebd29dc17b097a8f9ba33271115/istatymai/TAR.22F9E22CD358.md) |
 | 1993-10-13 | 1993-11-18 | Įstatymas Nr. I-257 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/0014cc3b4a8133941c6216122c3f79aa2f2572be/istatymai/TAR.22F9E22CD358.md) |
+| 1993-11-19 | 1997-07-10 | Įstatymas Nr. I-300 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/47c5f2a868c78dfcec38396868fa741f2ebe2ad9/istatymai/TAR.22F9E22CD358.md) |
