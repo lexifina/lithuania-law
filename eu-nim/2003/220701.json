@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių teisės pažeidimų kodekso pakeitimo ir papildymo įstatymas Nr.IX-1260",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "124",
+  "official_journal_page": null,
+  "official_journal_date": "2002-12-27",
+  "entry_into_force": "2003-01-01",
+  "notification_date": "2014-10-28",
+  "commission_reference": "MNE(2014)56033",
+  "nim_celex": "72012L0035LTU_220701",
+  "nim_id": "220701",
+  "transposes_celex": [
+    "32012L0035"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a4ea7455-c6e7-43a2-88b2-6b6a7587ce38",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
