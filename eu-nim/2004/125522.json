@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2004 m. gegužės 3 d. nutarimas Nr. 534 “Dėl Lietuvos Respublikos Vyriausybės 2000 m. birželio 1 d. nutarimo Nr. 624 „Dėl profesinės kvalifikacijos vertinimo ir pripažinimo nuostatų ir profesinės kvalifikacijos vertinimą ir pripažinimą vykdančių institucijų ir reglamentuojamų profesijų sąrašo patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "75",
+  "official_journal_page": null,
+  "official_journal_date": "2004-05-05",
+  "entry_into_force": "2004-05-06",
+  "notification_date": "2005-11-03",
+  "commission_reference": "MNE(2005)55522",
+  "nim_celex": "72001L0019LTU_125522",
+  "nim_id": "125522",
+  "transposes_celex": [
+    "32001L0019"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/84988486-7b1d-43e7-846c-a1191b26a9e5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
