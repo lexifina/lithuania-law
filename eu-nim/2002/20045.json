@@ -1,0 +1,27 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2002 m. balandžio 12 d. nutarimas Nr. 519 'Dėl Valstybinio strateginio atliekų tvarkymo plano patvirtinimo'",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "40",
+  "official_journal_page": null,
+  "official_journal_date": "2002-04-17",
+  "entry_into_force": "2002-04-18",
+  "notification_date": "2004-01-08",
+  "commission_reference": "MNE(2003)50045",
+  "nim_celex": "71975L0442LTU_20045",
+  "nim_id": "20045",
+  "transposes_celex": [
+    "31975L0442",
+    "31991L0156",
+    "31991L0689",
+    "31994L0031",
+    "31994L0062",
+    "31999L0031"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d75bdf9c-f428-4822-88b4-440ab714d960",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
