@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos radiacinės saugos įstatymas Nr. VIII-1019 (suvestinė redakcija nuo 2025-01-01 iki 2026-12-31)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "11-239",
+  "official_journal_page": null,
+  "official_journal_date": "1999-01-27",
+  "entry_into_force": "1999-04-01",
+  "notification_date": "2026-05-13",
+  "commission_reference": "MNE(2026)02857",
+  "nim_celex": "72024L1203LTU_202602857",
+  "nim_id": "202602857",
+  "transposes_celex": [
+    "32024L1203"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6fa30abf-51b7-498c-a748-7c05de71cdc1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
