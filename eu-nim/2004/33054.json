@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2004 m. vasario 2 d. įsakymas Nr. V-43 “Dėl Gydytojų diplomų, pažymėjimų ir kitų oficialias kvalifikacijas patvirtinančių dokumentų, įgytų Europos Sąjungos valstybėje narėje, Šveicarijoje arba valstybėje, pasirašiusioje Europos ekonominės erdvės susitarimą, pripažinimo Lietuvos Respublikoje taisyklių tvirtinimo”",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "45",
+  "official_journal_page": null,
+  "official_journal_date": "2004-03-26",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2004-11-19",
+  "commission_reference": "MNE(2004)53054",
+  "nim_celex": "71990L0658LTU_33054",
+  "nim_id": "33054",
+  "transposes_celex": [
+    "31990L0658"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2db6f98e-28ec-4dfc-88fb-f3e2c9b2a7b6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
