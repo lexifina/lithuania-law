@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2001 m. sausio 29 d. įsakymas Nr. 21 „Dėl susisiekimo ministro 1998 m. rugsėjo 11 d. įsakymo Nr. 348 \"Dėl kelių transporto priemonių gamybos ir perdirbimo tvarkos ir jų techninės ekspertizės atlikimo norminių dokumentų tvirtinimo\" dalinio pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "11",
+  "official_journal_page": null,
+  "official_journal_date": "2001-02-02",
+  "entry_into_force": "2001-02-03",
+  "notification_date": "2008-07-14",
+  "commission_reference": "MNE(2008)54054",
+  "nim_celex": "72007L0035LTU_156981",
+  "nim_id": "156981",
+  "transposes_celex": [
+    "32007L0035"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/137d786a-7876-40be-8418-c2b277729d21",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
