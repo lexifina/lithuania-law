@@ -1,0 +1,10 @@
+Įstatymas
+skelbtas: Žin., 2001, Nr. 112-4067
+Neoficialus
+įstatymo tekstas
+LIETUVOS RESPUBLIKOS
+VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO 2002 METŲ RODIKLIŲ
+PATVIRTINIMO
+ĮSTATYMAS
+2001 m. gruodžio 13 d. Nr. IX-644
+Vilnius
