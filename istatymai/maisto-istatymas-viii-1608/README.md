@@ -10,3 +10,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | --- | --- | --- | --- |
 | 2000-07-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/197161971e7b8666e6669999b6535fc5b98d8b16/istatymai/TAR.5B99A78DA6C7.md) |
 | 2002-06-26 | 2003-09-30 | Įstatymas Nr. IX-937 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/eb3c298d826ecd55d96ced9b9dcfc5a0d94d5133/istatymai/TAR.5B99A78DA6C7.md) |
+| 2003-10-01 | 2004-06-11 | Įstatymas Nr. IX-1733 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/689cf3fb218747baac3b9c0227f4a52c3d71d87f/istatymai/TAR.5B99A78DA6C7.md) |
