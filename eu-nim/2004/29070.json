@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2004 m. gegužės 28 d. įsakymas Nr. 3D-322 \"Dėl žemės ūkio ministro 2003 m. rugsėjo 25 d. įsakymo Nr. 3D-384 \"Dėl žemės ūkio ministro 2002 metų gruodžio 20 d. įsakymo Nr. 506 \"Dėl duomenų apie pieną ir pieno produktus teikimo\" pakeitimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "88",
+  "official_journal_page": null,
+  "official_journal_date": "2004-06-03",
+  "entry_into_force": "2004-06-04",
+  "notification_date": "2004-06-16",
+  "commission_reference": "MNE(2004)59070",
+  "nim_celex": "72003L0107LTU_29070",
+  "nim_id": "29070",
+  "transposes_celex": [
+    "32003L0107"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/23fe716e-65e3-4d7a-a642-e196fa1bcd75",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
