@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos valstybinio augalų veislių tyrimo centro 2004 m. rugpjūčio 13 d. įsakymas  Nr. 29 „Dėl sodo augalų atskirų rūšių veislių aprašymo formų patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "129-4645",
+  "official_journal_page": null,
+  "official_journal_date": "2004-08-18",
+  "entry_into_force": "2004-08-19",
+  "notification_date": "2021-02-03",
+  "commission_reference": "MNE(2021)00579",
+  "nim_celex": "71993L0079LTU_202100579",
+  "nim_id": "202100579",
+  "transposes_celex": [
+    "31993L0079"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b66f4b02-f6ea-4ffc-88d5-b8d9d6e945b4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
