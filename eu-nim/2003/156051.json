@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2003 M. GEGUŽĖS 20 D. ĮSAKYMAS NR. 248 \"DĖL VEIKSMŲ YPATINGŲJŲ EKOLOGINIŲ IR KITŲ EKSTREMALIŲ SITUACIJŲ BEI AVARIJŲ ATVEJAIS IR JŲ PADARINIŲ LIKVIDAVIMO VALDYMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "56",
+  "official_journal_page": null,
+  "official_journal_date": "2003-06-11",
+  "entry_into_force": "2003-06-12",
+  "notification_date": "2008-06-04",
+  "commission_reference": "MNE(2008)53160",
+  "nim_celex": "72006L0007LTU_156051",
+  "nim_id": "156051",
+  "transposes_celex": [
+    "32006L0007"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/973dd45d-43b1-4f2f-b2af-516acc445087",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
