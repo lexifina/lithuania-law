@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos maisto įstatymas Nr. VIII-1608 (suvestinė redakcija nuo 2019-12-14)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "32-893",
+  "official_journal_page": null,
+  "official_journal_date": "2000-04-19",
+  "entry_into_force": "2000-07-01",
+  "notification_date": "2020-12-02",
+  "commission_reference": "MNE(2020)58302",
+  "nim_celex": "72018L0851LTU_290253",
+  "nim_id": "290253",
+  "transposes_celex": [
+    "32018L0851"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4bb4cfc0-15c3-41b4-ac29-85c4179c714f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
