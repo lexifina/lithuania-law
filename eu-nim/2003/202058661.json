@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymas Nr. IX-1672 (suvestinė redakcija nuo 2020-05-01)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "70-3170",
+  "official_journal_page": null,
+  "official_journal_date": "2003-07-15",
+  "entry_into_force": "2003-07-15",
+  "notification_date": "2020-12-17",
+  "commission_reference": "MNE(2020)58661",
+  "nim_celex": "72000L0054LTU_202058661",
+  "nim_id": "202058661",
+  "transposes_celex": [
+    "32000L0054"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9d4850a3-8a81-4f4a-b3cc-7ab4fa1b76dd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
