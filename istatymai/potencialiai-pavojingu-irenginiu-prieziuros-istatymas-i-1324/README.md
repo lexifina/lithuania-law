@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 1996-05-17 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/0fd213664aca7967d183349ca9bade20caa654fd/istatymai/TAR.C40F7F89A7C3.md) |
+| 2001-01-01 | 2004-03-31 | Įstatymas Nr. VIII-1972 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/649e5e3b6c505dc9eb50c96cbb0614e40c0e9e24/istatymai/TAR.C40F7F89A7C3.md) |
