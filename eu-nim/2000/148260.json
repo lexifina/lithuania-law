@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Civilinės saugos departamento prie Lietuvos Respublikos krašto apsaugos ministerijos direktoriaus ir Lietuvos Respublikos vyriausiojo valstybinio darbo inspektoriaus 2000 m. vasario 29 d. įsakymas Nr. 48/63 „Dėl Pavojingo objekto pavojaus identifikavimo, rizikos analizės bei vertinimo saugos požiūriu tvarkos patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "20",
+  "official_journal_page": null,
+  "official_journal_date": "2000-03-08",
+  "entry_into_force": "2000-03-09",
+  "notification_date": "2007-08-28",
+  "commission_reference": "MNE(2007)56307",
+  "nim_celex": "71996L0082LTU_148260",
+  "nim_id": "148260",
+  "transposes_celex": [
+    "31996L0082"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2903acfb-6b01-43ba-921a-c5e44950e3e8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
