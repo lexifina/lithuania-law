@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vertybinių popierių komisijos 2004 m. gruodžio 17 d. nutarimas Nr. 26 „Dėl Lietuvos Respublikos vertybinių popierių komisijos 2001 m. kovo 9 d. nutarimo Nr. 10 „Dėl informacijos apie emitentų esminius įvykius atskleidimo taisyklių\" pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "184",
+  "official_journal_page": null,
+  "official_journal_date": "2004-12-23",
+  "entry_into_force": "2004-12-24",
+  "notification_date": "2005-01-07",
+  "commission_reference": "MNE(2005)53970",
+  "nim_celex": "72004L0072LTU_33970",
+  "nim_id": "33970",
+  "transposes_celex": [
+    "32004L0072"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/dbf03533-d70b-41e7-b612-30644848d4a3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
