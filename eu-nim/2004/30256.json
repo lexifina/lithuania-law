@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos valstybinės maisto ir veterinarijos tarnybos direktoriaus 2004 m. balandžio 20 d. įsakymas Nr. B1-350 \"Dėl tam tikrų žuvų rūšių ligų kontrolės reikalavimų patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "118",
+  "official_journal_page": null,
+  "official_journal_date": "2004-07-31",
+  "entry_into_force": "2004-08-01",
+  "notification_date": "2004-08-02",
+  "commission_reference": "MNE(2004)50256",
+  "nim_celex": "71993L0053LTU_30256",
+  "nim_id": "30256",
+  "transposes_celex": [
+    "31993L0053",
+    "32000L0027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/66f5048c-0a5c-4314-9f02-36627996a81d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
