@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2001-07-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/ee72af15ed9a651c7bee017b6fc845746af3bd5c/istatymai/TAR.A7A6A8CC58D7.md) |
+| 2002-09-01 | 2003-04-10 | Įstatymas Nr. IX-996 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/bc48b1540c54ebff4c0023a0c6fed30be4876d49/istatymai/TAR.A7A6A8CC58D7.md) |
