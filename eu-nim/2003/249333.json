@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2003 m. gegužės 14 d. nutarimas Nr. 589 „Dėl Privalomojo sveikatos draudimo fondo biudžeto sudarymo ir vykdymo taisyklių patvirtinimo“ (Suvestinė redakcija nuo 2017-07-01)",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "48",
+  "official_journal_page": null,
+  "official_journal_date": "2003-05-15",
+  "entry_into_force": "2003-05-16",
+  "notification_date": "2017-07-20",
+  "commission_reference": "MNE(2017)54023",
+  "nim_celex": "72011L0095LTU_249333",
+  "nim_id": "249333",
+  "transposes_celex": [
+    "32011L0095"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3864990a-6e08-11e7-b2f2-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
