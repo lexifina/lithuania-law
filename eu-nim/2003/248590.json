@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos loterijų įstatymas Nr. IX-1661 (suvestinė redakcija nuo 2015-01-01)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "73",
+  "official_journal_page": null,
+  "official_journal_date": "2003-07-23",
+  "entry_into_force": "2003-07-23",
+  "notification_date": "2017-06-27",
+  "commission_reference": "MNE(2017)53404",
+  "nim_celex": "72015L0849LTU_248590",
+  "nim_id": "248590",
+  "transposes_celex": [
+    "32015L0849"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f399a869-1c4b-4395-834d-2ce1e34cfcac",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
