@@ -1,0 +1,25 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Konstitucija",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "33",
+  "official_journal_page": null,
+  "official_journal_date": "1992-11-30",
+  "entry_into_force": "1992-11-02",
+  "notification_date": "2006-08-08",
+  "commission_reference": "MNE(2006)55082",
+  "nim_celex": "72004L0081LTU_134109",
+  "nim_id": "134109",
+  "transposes_celex": [
+    "32004L0081",
+    "32009L0013",
+    "32011L0036",
+    "32012L0013"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7f526ca5-97ba-4302-b59f-a8fc10003f0a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
