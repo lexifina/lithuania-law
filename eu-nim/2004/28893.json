@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos nutarimas Nr. 44 „Dėl kompensacijos, numatytos Lietuvos Respublikos Lietuvos banko įstatymo 46-1 straipsnio 2 dalyje, išmokėjimo taisyklių“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "59",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-23",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2004-06-15",
+  "commission_reference": "MNE(2004)58893",
+  "nim_celex": "72000L0012LTU_28893",
+  "nim_id": "28893",
+  "transposes_celex": [
+    "32000L0012"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a0c8a2a8-f181-495c-b54a-49f994cfee76",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
