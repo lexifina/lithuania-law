@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 1999 m. gruodžio 27 d. įsakymas Nr. 422 „Dėl reglamento STR 2.01.01(2):1999 \"Esminiai statinio reikalavimai. Gaisrinė sauga\" patvirtinimo“ (suvestinė redakcija nuo 2002-10-05)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "17-424",
+  "official_journal_page": null,
+  "official_journal_date": "2000-02-25",
+  "entry_into_force": "2000-03-01",
+  "notification_date": "2026-09-18",
+  "commission_reference": "MNE(2026)07321",
+  "nim_celex": "72024L1275LTU_202607321",
+  "nim_id": "202607321",
+  "transposes_celex": [
+    "32024L1275"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/14c8a5ef-d64f-4fa0-a482-85e6cdbb19bc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
