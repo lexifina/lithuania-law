@@ -1,0 +1,20 @@
+Redaguota:1995 06 28
+Redaguota:1995 06 28
+g
+Pakeitimai:
+Lietuvos Respublikos
+1995 06 13
+įstatymas Nr.1-939
+Žin., 1995,
+Nr.53-1294
+DĖL LIETUVOS
+RESPUBLIKOS ŽEMĖS ĮSTATYMO
+PAKEITIMO IR
+PAPILDYMO
+LIETUVOS RESPUBLIKOS
+Ž E M Ė S
+ĮSTATYMAS
+1994
+m. balandžio 26 d. Nr.I-446
+Vilnius
+I. BENDRIEJI NUOSTATAI
