@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos teisingumo ministro ir Lietuvos Respublikos generalinio prokuroro 2004 m. rugpjūčio 26 d. įsakymas Nr. 1R-195/I-114 „Dėl Europos arešto orderio išdavimo ir asmens perėmimo pagal Europos arešto orderį taisyklių patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "134",
+  "official_journal_page": null,
+  "official_journal_date": "2004-09-02",
+  "entry_into_force": "2004-09-03",
+  "notification_date": "2013-05-21",
+  "commission_reference": "MNE(2013)53753",
+  "nim_celex": "72010L0064LTU_204374",
+  "nim_id": "204374",
+  "transposes_celex": [
+    "32010L0064"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e396e686-f849-4c98-8990-18ba51ed4e82",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
