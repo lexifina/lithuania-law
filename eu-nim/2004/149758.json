@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS ĮSTATYMAS DĖL 1979 METŲ TOLIMŲ TARPVALSTYBINIŲ ORO TERŠALŲ PERNAŠŲ KONVENCIJOS PROTOKOLO DĖL RŪGŠTĖJIMO, EUTROFIKACIJOS IR PAŽEMIO OZONO MAŽINIMO \nRATIFIKAVIMO NR. IX-2008",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "44",
+  "official_journal_page": null,
+  "official_journal_date": "2004-03-25",
+  "entry_into_force": "2004-03-25",
+  "notification_date": "2007-10-22",
+  "commission_reference": "MNE(2007)57449",
+  "nim_celex": "71996L0061LTU_149758",
+  "nim_id": "149758",
+  "transposes_celex": [
+    "31996L0061"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7445407f-c0b7-4430-9f54-26f877b5f694",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
