@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro 2004 m. liepos 9 d. įsakymas Nr.4-272 „Dėl gabenamųjų slėginių įrenginių techninio reglamento patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "111",
+  "official_journal_page": null,
+  "official_journal_date": "2004-07-17",
+  "entry_into_force": "2004-07-18",
+  "notification_date": "2004-08-30",
+  "commission_reference": "MNE(2004)50553",
+  "nim_celex": "71999L0036LTU_30553",
+  "nim_id": "30553",
+  "transposes_celex": [
+    "31999L0036",
+    "32001L0002",
+    "32002L0050"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4c708bce-6ce8-4ba4-afd0-c0d85f13c49d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
