@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS EUROPOS DARBO TARYBŲ\nĮSTATYMAS Nr. IX-2031",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "39",
+  "official_journal_page": null,
+  "official_journal_date": "2004-03-13",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2007-01-22",
+  "commission_reference": "MNE(2007)50612",
+  "nim_celex": "72006L0109LTU_140558",
+  "nim_id": "140558",
+  "transposes_celex": [
+    "32006L0109"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/35e32a42-8d05-4956-b7a1-0880d035a902",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
