@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos saugomų teritorijų įstatymas Nr. I-301 (Suvestinė redakcija nuo 2017-07-18)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "63",
+  "official_journal_page": null,
+  "official_journal_date": "1993-11-24",
+  "entry_into_force": "1993-11-24",
+  "notification_date": "2017-09-12",
+  "commission_reference": "MNE(2017)55126",
+  "nim_celex": "72014L0052LTU_250866",
+  "nim_id": "250866",
+  "transposes_celex": [
+    "32014L0052"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7def5389-86d6-4e4e-8266-12889a037840",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
