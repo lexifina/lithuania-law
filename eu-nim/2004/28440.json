@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2004 m. sausio 22 d. nutarimas Nr. 64 „Dėl Lietuvos Respublikos Vyriausybės 2003 m. vasario 3 d. nutarimo Nr. 145 \"Dėl atleisto nuo akcizų gazolio (dyzelinių degalų), skirto naudoti žemės ūkyje, taip pat tvenkinių ir kitų vidaus vandenų žuvininkystėje, įsigijimo tvarkos patvirtinimo\" papildymo",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "14",
+  "official_journal_page": null,
+  "official_journal_date": "2004-01-27",
+  "entry_into_force": "2004-01-28",
+  "notification_date": "2004-05-27",
+  "commission_reference": "MNE(2004)58440",
+  "nim_celex": "71995L0060LTU_28440",
+  "nim_id": "28440",
+  "transposes_celex": [
+    "31995L0060"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/06b66041-6d7b-4966-9140-e8eefc091930",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
