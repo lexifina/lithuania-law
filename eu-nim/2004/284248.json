@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės kelių transporto inspekcijos prie Susisiekimo ministerijos viršininko 2004 m. spalio 19 d.  įsakymas Nr. 2B-292 „Dėl Vairuotojo liudijimo išdavimo tvarkos aprašo patvirtinimo“ (Galiojanti suvestinė redakcija nuo 2017-06-08)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "155-5673",
+  "official_journal_page": null,
+  "official_journal_date": "2004-10-23",
+  "entry_into_force": "2004-10-24",
+  "notification_date": "2020-06-08",
+  "commission_reference": "MNE(2020)53773",
+  "nim_celex": "72018L0645LTU_284248",
+  "nim_id": "284248",
+  "transposes_celex": [
+    "32018L0645"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7b338090-ac82-11ea-bb7a-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
