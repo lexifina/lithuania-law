@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas Nr. I-2044 (suvestinė redakcija nuo 2024-01-01 iki 2025-12-23)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "249-0",
+  "official_journal_page": null,
+  "official_journal_date": "1991-12-13",
+  "entry_into_force": "1991-12-15",
+  "notification_date": "2026-08-10",
+  "commission_reference": "MNE(2026)04388",
+  "nim_celex": "72024L1499LTU_202604388",
+  "nim_id": "202604388",
+  "transposes_celex": [
+    "32024L1499",
+    "32024L1500"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/46a6fe50-6f99-49e2-83c1-065ada11ffce",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
