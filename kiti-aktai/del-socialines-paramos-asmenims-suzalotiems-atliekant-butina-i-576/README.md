@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 1995-01-01 | 1997-07-01 | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/10468abd764922e5522b110bdf9089f227e31825/istatymai/TAR.3C56DC9F15F3.md) |
+| 1997-07-02 | 2004-12-31 | Aktas Nr. VIII-241 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/7f52e3404d82bc6cc237e6076ad89bcd476ebe53/istatymai/TAR.3C56DC9F15F3.md) |
