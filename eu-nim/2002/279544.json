@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2002 m. spalio 11 d. įsakymas Nr. 3-492 “Dėl privalomų patikrinimų, užtikrinančių saugų keleivinių keltų ir greitaeigių keleivinių laivų valdymą, atlikimo tvarkos patvirtinimo” (Galiojanti suvestinė redakcija (nuo 2019-07-05)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "102-4589",
+  "official_journal_page": null,
+  "official_journal_date": "2002-10-25",
+  "entry_into_force": "2002-10-26",
+  "notification_date": "2019-12-19",
+  "commission_reference": "MNE(2019)57195",
+  "nim_celex": "72017L2109LTU_279544",
+  "nim_id": "279544",
+  "transposes_celex": [
+    "32017L2109",
+    "32017L2110"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bc181c08-2300-11ea-af81-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
