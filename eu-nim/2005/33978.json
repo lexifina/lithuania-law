@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2004 m. gruodžio 6 d. nutarimas Nr. 1586 \"Dėl Lietuvos Respublikos Vyriausybės 2000 m. gruodžio 15 d. nutarimo Nr. 1458 \"Dėl valstybės rinkliavos objektų sąrašo, šios rinkliavos dydžių ir mokėjimo ir grąžinimo taisyklių patvirtinimo\" papildymo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "177",
+  "official_journal_page": null,
+  "official_journal_date": "2004-12-09",
+  "entry_into_force": "2005-01-01",
+  "notification_date": "2005-01-05",
+  "commission_reference": "MNE(2005)53978",
+  "nim_celex": "72002L0089LTU_33978",
+  "nim_id": "33978",
+  "transposes_celex": [
+    "32002L0089"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/80acb63d-774d-411f-b3b4-5ea78edba0f4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
