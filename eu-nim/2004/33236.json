@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2004 m. sausio 19 d. įsakymas Nr. 3-26 „Dėl Lietuvos Respublikos susisiekimo ministro 2001 m. lapkričio 13 d. įsakymo Nr. 403 „Dėl Lietuvos Respublikos vidaus vandenų laivų registravimo taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "12",
+  "official_journal_page": null,
+  "official_journal_date": "2004-02-03",
+  "entry_into_force": "2004-02-04",
+  "notification_date": "2004-11-25",
+  "commission_reference": "MNE(2004)53236",
+  "nim_celex": "71976L0135LTU_33236",
+  "nim_id": "33236",
+  "transposes_celex": [
+    "31976L0135"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/375dc0fd-9918-44e9-98b2-6629e096ca6a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
