@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2004 m. gruodžio 6 d. įsakymas Nr. V-864 \"Dėl Lietuvos higienos normos HN 63:2004 \"Draudžiamos augalų apsaugos produktų veikliosios medžiagos \" patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "178",
+  "official_journal_page": null,
+  "official_journal_date": "2004-12-11",
+  "entry_into_force": "2004-12-31",
+  "notification_date": "2004-12-30",
+  "commission_reference": "MNE(2004)53921",
+  "nim_celex": "71979L0117LTU_33921",
+  "nim_id": "33921",
+  "transposes_celex": [
+    "31979L0117"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a6951011-e420-456d-a386-ba0cc2d8464d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
