@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas Nr. IX-926",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "64",
+  "official_journal_page": null,
+  "official_journal_date": "2002-06-26",
+  "entry_into_force": "2003-01-01",
+  "notification_date": "2013-02-28",
+  "commission_reference": "MNE(2013)51627",
+  "nim_celex": "72009L0013LTU_201728",
+  "nim_id": "201728",
+  "transposes_celex": [
+    "32009L0013",
+    "32009L0138",
+    "32011L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fd8dcb38-cbfd-439d-a622-6e8d72762f1c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
