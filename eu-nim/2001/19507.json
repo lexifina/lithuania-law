@@ -1,0 +1,26 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2001 m. birželio 19 d. nutarimas Nr. 743 \"Dėl Gamtinių dujų perdavimo, paskirstymo, laikymo ir tiekimo licencijavimo taisyklių patvirtinimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "53",
+  "official_journal_page": null,
+  "official_journal_date": "2001-06-22",
+  "entry_into_force": "2001-06-23",
+  "notification_date": "2003-10-24",
+  "commission_reference": "MNE(2003)59507",
+  "nim_celex": "71991L0296LTU_19507",
+  "nim_id": "19507",
+  "transposes_celex": [
+    "31991L0296",
+    "31995L0049",
+    "31998L0030",
+    "32003L0055",
+    "32004L0067"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ec810f58-f5f9-4ee2-943d-5a0414f19426",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
