@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS LIETUVOS RESPUBLIKOS MOTERŲ IR VYRŲ LYGIŲ GALIMYBIŲ \nĮSTATYMAS NR. VIII-947",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "112",
+  "official_journal_page": null,
+  "official_journal_date": "1998-12-23",
+  "entry_into_force": "1999-03-01",
+  "notification_date": "2005-08-02",
+  "commission_reference": "MNE(2005)53085",
+  "nim_celex": "72002L0073LTU_123085",
+  "nim_id": "123085",
+  "transposes_celex": [
+    "32002L0073",
+    "32004L0113"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/012b3b58-dc10-4565-8270-570cec01d7ae",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
