@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Republikos ryšių reguliavimo tarnybos direktoriaus 2004 m. gruodžio 1 d. įsakymas Nr. 1V-593 \"Dėl Informacijos, susijusios su Lietuvos Respublikos elektroninių ryšių įstatymo ir Lietuvos Respublikos pašto įstatymo įgyvendinimu, skelbimo taisyklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "180",
+  "official_journal_page": null,
+  "official_journal_date": "2004-12-16",
+  "entry_into_force": "2004-12-17",
+  "notification_date": "2004-12-22",
+  "commission_reference": "MNE(2004)53847",
+  "nim_celex": "71997L0067LTU_33847",
+  "nim_id": "33847",
+  "transposes_celex": [
+    "31997L0067",
+    "32002L0021"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/10f64192-a4db-48bd-8787-0f3b1bf4e07f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
