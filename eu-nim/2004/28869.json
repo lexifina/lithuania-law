@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos pelno mokesčio įstatymo 5, 12, 26, 35, 36, 37, 53 straipsnių pakeitimo ir papildymo, įstatymo papildymo 37(1) bei 37(2) straipsniais ir įstatymo 3 priedėlio papildymo įstatymas Nr. IX-2201",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "73",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-30",
+  "entry_into_force": "2004-04-30",
+  "notification_date": "2004-07-08",
+  "commission_reference": "MNE(2004)58869",
+  "nim_celex": "72004L0076LTU_28869",
+  "nim_id": "28869",
+  "transposes_celex": [
+    "32004L0076"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/eb78aeab-573f-4a3d-8767-b9312ea97135",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
