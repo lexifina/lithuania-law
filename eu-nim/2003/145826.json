@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymas Nr. IX-1709",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "74",
+  "official_journal_page": null,
+  "official_journal_date": "2003-07-25",
+  "entry_into_force": "2003-07-25",
+  "notification_date": "2007-06-12",
+  "commission_reference": "MNE(2007)54553",
+  "nim_celex": "71985L0611LTU_145826",
+  "nim_id": "145826",
+  "transposes_celex": [
+    "31985L0611"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8da4e4b0-6236-4208-be06-da8d86eb3820",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
