@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro ir Lietuvos Respublikos aplinkos ministro 2004 m. balandžio 29 d. įsakymas Nr. 4-140/D1-232 \"Dėl Specialiųjų patalpų ir technologinių procesų elektros įrenginių įrengimo taisyklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "84",
+  "official_journal_page": null,
+  "official_journal_date": "2004-05-25",
+  "entry_into_force": "2004-05-26",
+  "notification_date": "2012-08-22",
+  "commission_reference": "MNE(2012)53848",
+  "nim_celex": "72009L0072LTU_195075",
+  "nim_id": "195075",
+  "transposes_celex": [
+    "32009L0072"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3ff45a9f-0de7-4ab9-979f-170063e30b7e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
