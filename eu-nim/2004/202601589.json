@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2004 m. rugsėjo 23 d. nutarimas Nr. 1213 „Dėl Daugiabučių namų atnaujinimo (modernizavimo) programos patvirtinimo“ (suvestinė redakcija nuo 2022-11-25 iki 2024-07-04)",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "143-5232",
+  "official_journal_page": null,
+  "official_journal_date": "2004-09-25",
+  "entry_into_force": "2004-09-26",
+  "notification_date": "2026-03-12",
+  "commission_reference": "MNE(2026)01589",
+  "nim_celex": "72023L1791LTU_202601589",
+  "nim_id": "202601589",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cd235522-0cbd-45a8-98aa-f2a5534b9afd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
