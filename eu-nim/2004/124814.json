@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2004 m. rugsėjo 23 d. nutarimas Nr. 159 „Dėl Lietuvos banko valdybos 2000 m. gruodžio 21 d. nutarimo Nr. 172 „Dėl Kapitalo pakankamumo skaičiavimo taisyklių“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "145",
+  "official_journal_page": null,
+  "official_journal_date": "2004-09-30",
+  "entry_into_force": "2004-12-01",
+  "notification_date": "2005-10-07",
+  "commission_reference": "MNE(2005)54814",
+  "nim_celex": "72000L0012LTU_124814",
+  "nim_id": "124814",
+  "transposes_celex": [
+    "32000L0012"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/48529bba-e87c-48c9-a776-45c8eec1591f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
