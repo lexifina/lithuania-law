@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro 2003 m. spalio 15 d įsakymas Nr. 1V-374 „Dėl vidaus reikalų ministro 2001 m. gegužės 25 d. įsakymo Nr. 260 „Dėl kelių transporto priemonių registravimo taisyklių patvirtinimo“ ir Vidaus reikalų ministerijos 1994 m. kovo 3 d. įsakymo Nr. 184 „Dėl Respublikos egzaminų ir transporto apskaitos padalinių reorganizavimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "103",
+  "official_journal_page": null,
+  "official_journal_date": "2003-11-01",
+  "entry_into_force": "2003-11-02",
+  "notification_date": "2004-11-18",
+  "commission_reference": "MNE(2004)53009",
+  "nim_celex": "72004L0086LTU_33009",
+  "nim_id": "33009",
+  "transposes_celex": [
+    "32004L0086"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a220fa44-d831-4549-8233-e7dd28934443",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
