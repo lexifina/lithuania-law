@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 172(8), 172(16), 172(22), 173(11), 214(7), 224, 247(3), 259(1) STRAIPSNIŲ PAKEITIMO BEI PAPILDYMO IR KODEKSO PAPILDYMO 173(19), 214(19), 214(20), 214(21), 214(22), 247(8), 247(9) STRAIPSNIAIS ĮSTATYMAS NR. IX-1758",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "102",
+  "official_journal_page": null,
+  "official_journal_date": "2003-10-31",
+  "entry_into_force": "2003-10-31",
+  "notification_date": "2004-11-10",
+  "commission_reference": "MNE(2004)51846",
+  "nim_celex": "72002L0092LTU_31846",
+  "nim_id": "31846",
+  "transposes_celex": [
+    "32002L0092"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4fccb9db-0480-4c53-a4b5-b1b90f74785d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
