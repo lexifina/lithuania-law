@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas Nr. IX-110 (galiojanti suvestinė redakcija nuo 2017-01-01)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "111",
+  "official_journal_page": null,
+  "official_journal_date": "2000-12-29",
+  "entry_into_force": "2001-01-01",
+  "notification_date": "2017-03-24",
+  "commission_reference": "MNE(2017)51776",
+  "nim_celex": "72014L0066LTU_246346",
+  "nim_id": "246346",
+  "transposes_celex": [
+    "32014L0066"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cfb41dcf-a399-4a77-91ff-18f389026bd0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
