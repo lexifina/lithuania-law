@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS VALSTYBĖS IR SAVIVALDYBĖS ĮMONIŲ ĮSTATYMO PAKEITIMO ĮSTATYMAS NR. IX-1895",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "4",
+  "official_journal_page": null,
+  "official_journal_date": "2004-01-07",
+  "entry_into_force": "2004-01-07",
+  "notification_date": "2008-02-20",
+  "commission_reference": "MNE(2008)51412",
+  "nim_celex": "72006L0111LTU_154030",
+  "nim_id": "154030",
+  "transposes_celex": [
+    "32006L0111"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bc59d9e9-a0ff-4b2f-b31d-896172bb2878",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
