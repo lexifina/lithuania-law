@@ -1,0 +1,8 @@
+Neoficialus įstatymo tekstas
+Įstatymas skelbtas: Žin.,
+2004, Nr. 72-2487
+LIETUVOS RESPUBLIKOS
+GELEŽINKELIŲ TRANSPORTO KODEKSO PATVIRTINIMO, ĮSIGALIOJIMO IR TAIKYMO
+ĮSTATYMAS
+2004 m. balandžio 22 d. Nr. IX-2152
+Vilnius
