@@ -1,0 +1,28 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2004 m. liepos 5 d. įsakymas Nr. V-508 \"Dėl cheminių medžiagų ir preparatų ūmaus, kartotinių dozių, poūmio, lėtinio ir specifinio toksiškumo bei alternatyvių tyrimo metodų patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "122",
+  "official_journal_page": null,
+  "official_journal_date": "2004-08-05",
+  "entry_into_force": "2004-08-06",
+  "notification_date": "2004-08-06",
+  "commission_reference": "MNE(2004)50343",
+  "nim_celex": "71967L0548LTU_30343",
+  "nim_id": "30343",
+  "transposes_celex": [
+    "31967L0548",
+    "31988L0302",
+    "31992L0069",
+    "31996L0054",
+    "31999L0045",
+    "32000L0033",
+    "32001L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5c901a0c-4336-4a92-97a3-21bfd75b9e30",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
