@@ -1,0 +1,5 @@
+LIETUVOS RESPUBLIKOS
+STATISTIKOS
+Į S T A T Y M A S
+1993 m. spalio 12 d. Nr. I-270
+Vilnius,
