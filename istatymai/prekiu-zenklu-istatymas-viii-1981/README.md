@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2001-01-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/22f2fa8b76367547470092bf28b431bc43a60df3/istatymai/TAR.B494EC0B78B0.md) |
+| 2002-11-08 | 2004-03-12 | Įstatymas Nr. IX-1150 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/b782e649d695ecb308bea3cc7065ebcbbd81c5f2/istatymai/TAR.B494EC0B78B0.md) |
