@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2003 m. liepos 10 d.  įsakymas Nr. 3-417 „Dėl Susisiekimo ministro 2000 m. rugpjūčio 16 d. įsakymo Nr. 223 „Dėl greičio ribotuvų įrengimo ir naudojimo taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "74",
+  "official_journal_page": null,
+  "official_journal_date": "2003-07-25",
+  "entry_into_force": "2003-07-26",
+  "notification_date": "2004-11-16",
+  "commission_reference": "MNE(2004)52426",
+  "nim_celex": "72004L0011LTU_32426",
+  "nim_id": "32426",
+  "transposes_celex": [
+    "32004L0011"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2352ca21-8738-4d21-a5de-3fac11f716d8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
