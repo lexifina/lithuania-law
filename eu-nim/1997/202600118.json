@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos koncesijų įstatymas Nr. I-1510 (Suvestinė redakcija nuo 2025-10-01)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "92-2141",
+  "official_journal_page": null,
+  "official_journal_date": "1996-10-02",
+  "entry_into_force": "1997-01-01",
+  "notification_date": "2026-01-08",
+  "commission_reference": "MNE(2026)00118",
+  "nim_celex": "72022L0362LTU_202600118",
+  "nim_id": "202600118",
+  "transposes_celex": [
+    "32022L0362"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f99630e8-cda9-4080-a1be-249b773db706",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
