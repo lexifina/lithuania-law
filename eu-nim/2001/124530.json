@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS SAUGOMŲ GYVŪNŲ, AUGALŲ, GRYBŲ RŪŠIŲ IR BENDRIJŲ ĮSTATYMO PAKEITIMO ĮSTATYMAS NR. IX-637 (NAUJA REDAKCIJA)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "110",
+  "official_journal_page": null,
+  "official_journal_date": "2001-12-29",
+  "entry_into_force": "2001-12-29",
+  "notification_date": "2005-10-04",
+  "commission_reference": "MNE(2005)54530",
+  "nim_celex": "71992L0043LTU_124530",
+  "nim_id": "124530",
+  "transposes_celex": [
+    "31992L0043",
+    "32004L0035"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1199c693-c357-4fd0-ab79-5537e242b0d6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
