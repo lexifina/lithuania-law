@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS ŽEMĖS ŪKIO IR KAIMO PLĖTROS ĮSTATYMAS NR. IX-987",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "72",
+  "official_journal_page": null,
+  "official_journal_date": "2002-07-17",
+  "entry_into_force": "2003-01-01",
+  "notification_date": "2006-05-19",
+  "commission_reference": "MNE(2006)53272",
+  "nim_celex": "71979L0409LTU_131519",
+  "nim_id": "131519",
+  "transposes_celex": [
+    "31979L0409"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fe79ec8d-efcf-45b3-86d3-9949f37192bb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
