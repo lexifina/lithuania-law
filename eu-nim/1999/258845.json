@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymas Nr. VIII-935 (Suvestinė redakcija nuo 2017-05-01)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "109-2993",
+  "official_journal_page": null,
+  "official_journal_date": "1998-12-11",
+  "entry_into_force": "1999-01-01",
+  "notification_date": "2018-05-22",
+  "commission_reference": "MNE(2018)52505",
+  "nim_celex": "72016L1148LTU_258845",
+  "nim_id": "258845",
+  "transposes_celex": [
+    "32016L1148"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5083aa25-979a-4d60-8f37-d8006238fe49",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
