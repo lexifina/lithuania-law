@@ -1,0 +1,27 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos įmonių bankroto įstatymo 2, 6, 7, 8, 9, 10, 11, 12, 15, 26, 29, 32, 35, 37 straipsnių pakeitimo ir papildymo bei įstatymo papildymo ketvirtuoju(1) skirsniu ir 13(1) straipsniu įstatymas Nr. IX-1200",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "116",
+  "official_journal_page": null,
+  "official_journal_date": "2002-12-06",
+  "entry_into_force": "2003-01-01",
+  "notification_date": "2003-12-10",
+  "commission_reference": "MNE(2003)59907",
+  "nim_celex": "71980L0987LTU_19907",
+  "nim_id": "19907",
+  "transposes_celex": [
+    "31980L0987",
+    "31998L0026",
+    "31998L0050",
+    "32001L0023",
+    "32001L0024",
+    "32009L0138"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/dd009990-69d2-4c76-b47e-c4cc89193e90",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
