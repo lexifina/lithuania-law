@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2003 M. BIRŽELIO 11 D. ĮSAKYMAS NR. 295 \"DĖL APLINKOS APSAUGOS NORMATYVINIŲ DOKUMENTŲ LAND 51:2003 ir LAND 52:2003 PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "59",
+  "official_journal_page": null,
+  "official_journal_date": "2003-06-20",
+  "entry_into_force": "2003-06-21",
+  "notification_date": "2005-10-04",
+  "commission_reference": "MNE(2005)54305",
+  "nim_celex": "72000L0069LTU_124305",
+  "nim_id": "124305",
+  "transposes_celex": [
+    "32000L0069"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b0158c25-4db0-42f4-92fc-8085600dc8b6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
