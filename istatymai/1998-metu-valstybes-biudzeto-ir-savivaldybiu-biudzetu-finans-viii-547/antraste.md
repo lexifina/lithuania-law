@@ -1,0 +1,9 @@
+Įstatymas
+skelbtas: Žin., 1997, Nr. 114-2869
+Neoficialus įstatymo tekstas
+LIETUVOS RESPUBLIKOS
+1998 METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ
+RODIKLIŲ PATVIRTINIMO
+ĮSTATYMAS
+1997 m. Gruodžio 2 d. Nr. VIII-547
+Vilnius
