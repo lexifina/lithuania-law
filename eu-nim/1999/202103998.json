@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymas Nr. VIII-1185/1999 (suvestinė redakcija nuo 2019-07-01)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "50-1598",
+  "official_journal_page": null,
+  "official_journal_date": "1999-06-09",
+  "entry_into_force": "1999-06-09",
+  "notification_date": "2021-06-07",
+  "commission_reference": "MNE(2021)03998",
+  "nim_celex": "72019L0790LTU_202103998",
+  "nim_id": "202103998",
+  "transposes_celex": [
+    "32019L0790"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/da7db3c5-ca99-11eb-84ce-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
