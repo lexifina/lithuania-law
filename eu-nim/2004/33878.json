@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2004 m. lapkričio 5 d. įsakymas Nr. 1V-450 \"Dėl Ryšių reguliavimo tarnybos prie Lietuvos Respublikos Vyriausybės direktoriaus 2003 m. kovo 31 d. įsakymo Nr. 1V-39 \"Dėl pagrindinių pašto tinklo charakteristikų bei pašto ir pasiuntinių pašto paslaugų kokybės reikalavimų (standartų) patvirtinimo\" pripažinimo netekusiu galios\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "164",
+  "official_journal_page": null,
+  "official_journal_date": "2004-11-11",
+  "entry_into_force": "2004-11-12",
+  "notification_date": "2004-12-28",
+  "commission_reference": "MNE(2004)53878",
+  "nim_celex": "71997L0067LTU_33878",
+  "nim_id": "33878",
+  "transposes_celex": [
+    "31997L0067"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5a7bcf87-3ac6-402f-aa73-9d3945787428",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
