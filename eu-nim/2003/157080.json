@@ -1,0 +1,26 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių teisės pažeidimų kodekso pakeitimo ir papildymo įstatymas Nr. IX-1702",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "74",
+  "official_journal_page": null,
+  "official_journal_date": "2003-07-25",
+  "entry_into_force": "2003-07-25",
+  "notification_date": "2008-07-23",
+  "commission_reference": "MNE(2008)54152",
+  "nim_celex": "72006L0023LTU_157080",
+  "nim_id": "157080",
+  "transposes_celex": [
+    "32006L0023",
+    "32007L0023",
+    "32009L0048",
+    "32010L0030",
+    "32010L0040"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2b079269-ec66-4b5f-89c1-21a68ddfb18a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
