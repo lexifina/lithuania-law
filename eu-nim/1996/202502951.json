@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymas Nr. I-1495 (suvestinė redakcija nuo 2023-06-23 iki )",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "82-1965",
+  "official_journal_page": null,
+  "official_journal_date": "1996-08-30",
+  "entry_into_force": "1996-08-30",
+  "notification_date": "2025-05-27",
+  "commission_reference": "MNE(2025)02951",
+  "nim_celex": "72023L2413LTU_202502951",
+  "nim_id": "202502951",
+  "transposes_celex": [
+    "32023L2413"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ef55a6d6-a317-43fd-8edd-4f77b79ccbe3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
