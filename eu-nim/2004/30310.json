@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro įsakymas Nr. V-507 \"Dėl cheminių medžiagų ir preparatų mutageniškumo tyrimo metodų patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "120",
+  "official_journal_page": null,
+  "official_journal_date": "2004-08-03",
+  "entry_into_force": "2004-08-04",
+  "notification_date": "2004-08-04",
+  "commission_reference": "MNE(2004)50310",
+  "nim_celex": "71967L0548LTU_30310",
+  "nim_id": "30310",
+  "transposes_celex": [
+    "31967L0548",
+    "31988L0302",
+    "31999L0045"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2b69b784-cdcd-43e5-b943-cbfc6a244442",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
