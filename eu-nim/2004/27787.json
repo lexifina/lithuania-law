@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRO Į S A K Y M A S NR. V-285 DĖL EUROPOS TARYBOS DIREKTYVOS 77/312 EEB „DĖL ŠVINO BIOLOGINIO POVEIKIO GYVENTOJAMS TYRIMŲ“ ĮGYVENDINIMO",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "70",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-30",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2004-05-10",
+  "commission_reference": "MNE(2004)57787",
+  "nim_celex": "71977L0312LTU_27787",
+  "nim_id": "27787",
+  "transposes_celex": [
+    "31977L0312"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/dbc79633-4030-4bcb-a4db-25e7144d57e4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
