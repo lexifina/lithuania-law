@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos akcinių bendrovių įstatymas Nr. VIII-1835 (suvestinė redakcija nuo 2024-09-01 iki 2025-06-30)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "64-1914",
+  "official_journal_page": null,
+  "official_journal_date": "2000-07-31",
+  "entry_into_force": "2001-07-01",
+  "notification_date": "2026-07-21",
+  "commission_reference": "MNE(2026)04802",
+  "nim_celex": "72024L2810LTU_202604802",
+  "nim_id": "202604802",
+  "transposes_celex": [
+    "32024L2810"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a354f7d0-5db8-40e1-a13c-7fc93dcb4fef",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
