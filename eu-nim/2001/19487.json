@@ -1,0 +1,28 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos elektros energetikos įstatymas Nr. VIII-1881",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "66",
+  "official_journal_page": null,
+  "official_journal_date": "2000-08-04",
+  "entry_into_force": "2001-01-01",
+  "notification_date": "2003-10-23",
+  "commission_reference": "MNE(2003)59487",
+  "nim_celex": "71990L0377LTU_19487",
+  "nim_id": "19487",
+  "transposes_celex": [
+    "31990L0377",
+    "31990L0547",
+    "31996L0092",
+    "31998L0075",
+    "32001L0077",
+    "32003L0054",
+    "32009L0028"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/feaf665f-a61f-449d-a84f-2b4ae7ce2a8a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
