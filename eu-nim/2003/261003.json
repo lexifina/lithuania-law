@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2003 m. balandžio 18 d. nutarimas Nr. 480 „Dėl bendrųjų reikalavimų valstybės ir savivaldybių institucijų ir įstaigų interneto svetainėms aprašo patvirtinimo“ (Suvestinė redakcija nuo 2016-07-01 iki 2018-08-31)",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "38-1739",
+  "official_journal_page": null,
+  "official_journal_date": "2003-04-24",
+  "entry_into_force": "2003-04-25",
+  "notification_date": "2018-07-25",
+  "commission_reference": "MNE(2018)53841",
+  "nim_celex": "72016L0801LTU_261003",
+  "nim_id": "261003",
+  "transposes_celex": [
+    "32016L0801"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8fc45006-a58c-4895-af94-37d2f20c6a35",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
