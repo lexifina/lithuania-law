@@ -1,0 +1,26 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Geriamojo vandens įstatymas Nr. IX-433",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "64",
+  "official_journal_page": null,
+  "official_journal_date": "2001-07-25",
+  "entry_into_force": "2003-07-01",
+  "notification_date": "2004-01-13",
+  "commission_reference": "MNE(2003)50137",
+  "nim_celex": "71975L0440LTU_20137",
+  "nim_id": "20137",
+  "transposes_celex": [
+    "31975L0440",
+    "31979L0869",
+    "31980L0778",
+    "31998L0083",
+    "32000L0060"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c00454a2-8449-4349-9262-c30cd65ef301",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
