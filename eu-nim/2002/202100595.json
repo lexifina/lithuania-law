@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2002 m. liepos 12 d. įsakymas Nr. 267 „Dėl 2000 m. gruodžio 29 d. įsakymo Nr. 382 „Dėl Privalomųjų pašarinių augalų sėklos kokybės reikalavimų\" pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "84-3659",
+  "official_journal_page": null,
+  "official_journal_date": "2002-08-30",
+  "entry_into_force": "2002-08-31",
+  "notification_date": "2021-02-03",
+  "commission_reference": "MNE(2021)00595",
+  "nim_celex": "71991L0376LTU_202100595",
+  "nim_id": "202100595",
+  "transposes_celex": [
+    "31991L0376"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a00c8e09-8707-44c5-beb4-45ac97f01d7d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
