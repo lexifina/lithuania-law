@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS SOCIALINĖS APSAUGOS IR DARBO MINISTRO IR SVEIKATOS APSAUGOS MINISTRO ĮSAKYMAS Nr. 97/406 \"DĖL DARBUOTOJŲ APSAUGOS NUO CHEMINIŲ VEIKSNIŲ DARBE NUOSTATŲ BEI DARBUOTOJŲ APSAUGOS NUO KANCEROGENŲ IR MUTAGENŲ POVEIKIO DARBE NUOSTATŲ PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "65",
+  "official_journal_page": null,
+  "official_journal_date": "2001-07-27",
+  "entry_into_force": "2001-07-28",
+  "notification_date": "2004-07-07",
+  "commission_reference": "MNE(2004)59413",
+  "nim_celex": "72004L0037LTU_29413",
+  "nim_id": "29413",
+  "transposes_celex": [
+    "32004L0037"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/538acd22-bb13-4715-80ab-bdd5b9d0d2fd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
