@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vertybinių popierių komisijos 2002 m. gegužės 30 d. nutarimas Nr. 21 \"Dėl informacijos apie emitentų veiklą ir jų vertybinius popierius periodinio atskleidimo taisyklių naujos redakcijos patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "62",
+  "official_journal_page": null,
+  "official_journal_date": "2002-06-21",
+  "entry_into_force": "2002-07-01",
+  "notification_date": "2006-08-01",
+  "commission_reference": "MNE(2006)54894",
+  "nim_celex": "72004L0025LTU_133866",
+  "nim_id": "133866",
+  "transposes_celex": [
+    "32004L0025"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/63dbf320-7ba4-4cd7-b14f-dfbdbf43367d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
