@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2004 m. spalio 18 d. įsakymas Nr. D1-542 'Dėl genetiškai modifikuotų organizmų duomenų bazės tvarkos aprašo patvirtinimo'",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "157",
+  "official_journal_page": null,
+  "official_journal_date": "2004-10-28",
+  "entry_into_force": "2004-10-29",
+  "notification_date": "2004-11-09",
+  "commission_reference": "MNE(2004)52251",
+  "nim_celex": "72001L0018LTU_32251",
+  "nim_id": "32251",
+  "transposes_celex": [
+    "32001L0018",
+    "32009L0041"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/eef5de19-2553-4def-999f-bdc1c8dfd1b3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
