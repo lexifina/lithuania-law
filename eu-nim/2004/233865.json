@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2004 m. balandžio 26 d. nutarimas Nr. 472 \"Dėl Lietuvos Respublikos Vyriausybės 1999 m. gegužės 20 d. nutarimo Nr. 617 \"Dėl keitimosi informacija apie standartus, techninius reglamentus, informacinės visuomenės paslaugų teikimo ir naudojimo, atitikties įvertinimo procedūrų teisės aktus ir šių dokumentų projektus\" pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "63",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-28",
+  "entry_into_force": "2004-04-29",
+  "notification_date": "2016-01-25",
+  "commission_reference": "MNE(2016)50520",
+  "nim_celex": "72009L0073LTU_233865",
+  "nim_id": "233865",
+  "transposes_celex": [
+    "32009L0073"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3a2ed353-1ee9-4fd8-8e76-1fa558abe3f7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
