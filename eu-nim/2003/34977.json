@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2003 m. balandžio 8 d. nutarimas Nr. 417 „Dėl Lietuvos Respublikos Vyriausybės 2001 m. sausio 29 d. nutarimo Nr. 103 „Dėl Laikinojo užsieniečių apgyvendinimo Užsieniečių registracijos centre tvarkos ir sąlygų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "35",
+  "official_journal_page": null,
+  "official_journal_date": "2003-04-11",
+  "entry_into_force": "2003-04-12",
+  "notification_date": "2005-02-09",
+  "commission_reference": "MNE(2005)54977",
+  "nim_celex": "72003L0009LTU_34977",
+  "nim_id": "34977",
+  "transposes_celex": [
+    "32003L0009"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d15d0f11-df5e-4c67-a036-6b8ac15337cc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
