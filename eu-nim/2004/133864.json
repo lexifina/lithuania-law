@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vertybinių popierių rinkos įstatymo 1, 2, 3, 8, 9, 10, 11, 15, 16, 17, 19, 20, 22, 23, 26, 27, 29, 36, 40, 41, 48, 51, 52, 53, 57, 59, 61, 65 straipsnių pakeitimo bei papildymo ir įstatymo papildymo 19(1) straipsniu ir priedu įstatymas Nr. IX-2174",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "73",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-30",
+  "entry_into_force": "2004-04-30",
+  "notification_date": "2006-08-01",
+  "commission_reference": "MNE(2006)54892",
+  "nim_celex": "72004L0025LTU_133864",
+  "nim_id": "133864",
+  "transposes_celex": [
+    "32004L0025"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3d116f1a-3bf2-47f2-82cf-3a16e475a0f5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
