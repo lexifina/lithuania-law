@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 1999 m. gruodžio 3 d. įsakymas Nr. 526 \"Dėl Lietuvos Respublikos narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) kontrolės įstatymo lydimųjų teisės aktų tvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "105",
+  "official_journal_page": null,
+  "official_journal_date": "1999-12-09",
+  "entry_into_force": "1999-12-10",
+  "notification_date": "2004-11-14",
+  "commission_reference": "MNE(2004)52646",
+  "nim_celex": "72003L0101LTU_32646",
+  "nim_id": "32646",
+  "transposes_celex": [
+    "32003L0101"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5e44e915-aabe-49d1-bf5c-7e97a156f46c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
