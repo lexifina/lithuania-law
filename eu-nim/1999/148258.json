@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 1999 m. birželio 21 d. nutarimas Nr. 783 „Dėl Avarijų likvidavimo planų sudarymo tvarkos patvirtinimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "56",
+  "official_journal_page": null,
+  "official_journal_date": "1999-06-25",
+  "entry_into_force": "1999-06-26",
+  "notification_date": "2007-08-28",
+  "commission_reference": "MNE(2007)56305",
+  "nim_celex": "71996L0082LTU_148258",
+  "nim_id": "148258",
+  "transposes_celex": [
+    "31996L0082",
+    "32006L0021"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5f90c939-e247-4d6a-b8c3-f521b74caee1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
