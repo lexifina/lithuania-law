@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo ir atstovavimo valstybei įstatymas Nr. IX-895",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "56",
+  "official_journal_page": null,
+  "official_journal_date": "2002-06-07",
+  "entry_into_force": "2002-06-07",
+  "notification_date": "2015-03-03",
+  "commission_reference": "MNE(2015)50411",
+  "nim_celex": "72002F0465LTU_222967",
+  "nim_id": "222967",
+  "transposes_celex": [
+    "32002F0465"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/96c2cde6-e580-48f2-92e3-04d937b819ab",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
