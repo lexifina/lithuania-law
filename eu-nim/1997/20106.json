@@ -1,0 +1,27 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos jūros aplinkos apsaugos įstatymas Nr. VIII-512",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "108",
+  "official_journal_page": null,
+  "official_journal_date": "1997-11-28",
+  "entry_into_force": "1997-11-28",
+  "notification_date": "2004-01-08",
+  "commission_reference": "MNE(2003)50106",
+  "nim_celex": "71976L0464LTU_20106",
+  "nim_id": "20106",
+  "transposes_celex": [
+    "31976L0464",
+    "31991L0271",
+    "31996L0039",
+    "31997L0034",
+    "32000L0060",
+    "32005L0035"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/914c734d-5854-4ebb-ab18-d43a15d2d6a0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
