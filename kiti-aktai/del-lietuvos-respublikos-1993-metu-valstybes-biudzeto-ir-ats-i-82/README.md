@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 1993-03-04 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/4b7b6a46e2559db083edbb35452d3878d138cb34/istatymai/TAR.8C4914C2ACED.md) |
+| 1993-10-13 | 1993-12-17 | Aktas Nr. I-264 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/619b8d87ea844f99c1f2063c13f574d0d7cefcdf/istatymai/TAR.8C4914C2ACED.md) |
