@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas Nr. IX-2152",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "72",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-30",
+  "entry_into_force": "2004-04-30",
+  "notification_date": "2015-07-28",
+  "commission_reference": "MNE(2015)55377",
+  "nim_celex": "72012L0034LTU_228506",
+  "nim_id": "228506",
+  "transposes_celex": [
+    "32012L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9b0d9959-e73a-46f2-bc49-952a5a56fd0f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
