@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2002 m. gruodžio 17 d. įsakymo Nr. 642 „Dėl Lietuvos higienos normos HN 77:2002 „Radiacinė sauga branduolinėje medicinoje“ patvirtinimo“ (Suvestinė redakcija nuo 2016-05-01)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "21-916",
+  "official_journal_page": null,
+  "official_journal_date": "2003-02-27",
+  "entry_into_force": "2002-12-28",
+  "notification_date": "2018-12-10",
+  "commission_reference": "MNE(2018)56505",
+  "nim_celex": "72013L0059LTU_265698",
+  "nim_id": "265698",
+  "transposes_celex": [
+    "32013L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a7ab2377-5774-41a0-8449-2df047559d77",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
