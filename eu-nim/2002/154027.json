@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS VALSTYBĖS TARNYBOS\nĮSTATYMO PAKEITIMO ĮSTATYMAS NR.IX-855",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "45",
+  "official_journal_page": null,
+  "official_journal_date": "2002-05-04",
+  "entry_into_force": "2002-07-01",
+  "notification_date": "2008-02-20",
+  "commission_reference": "MNE(2008)51409",
+  "nim_celex": "72006L0111LTU_154027",
+  "nim_id": "154027",
+  "transposes_celex": [
+    "32006L0111"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0a4ea01d-932a-4bc5-b2f3-f556538d12f8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
