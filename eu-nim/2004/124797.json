@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2004 m. rugsėjo 2 d. nutarimas Nr. 150 „Dėl Lietuvos banko valdybos 2003 m. gruodžio 11 d. nutarimo Nr. 124 \"Dėl mokėjimo sistemos LITAS\" pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "139",
+  "official_journal_page": null,
+  "official_journal_date": "2004-09-16",
+  "entry_into_force": "2004-09-17",
+  "notification_date": "2005-10-07",
+  "commission_reference": "MNE(2005)54797",
+  "nim_celex": "71998L0026LTU_124797",
+  "nim_id": "124797",
+  "transposes_celex": [
+    "31998L0026"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f35bdc41-e602-4cfb-b49a-79ff3ff86a0d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
