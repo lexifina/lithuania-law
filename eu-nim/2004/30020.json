@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės nutarimas Nr. 904 \"Dėl Lietuvos Respublikos Vyriausybės 1996 m. rugsėjo 18 d. nutarimo Nr. 1079 \"Dėl Teritorijų planavimo dokumentų projektų svarstymo su visuomene nuostatų patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "112",
+  "official_journal_page": null,
+  "official_journal_date": "2004-07-20",
+  "entry_into_force": "2004-07-21",
+  "notification_date": "2004-07-21",
+  "commission_reference": "MNE(2004)50020",
+  "nim_celex": "72001L0042LTU_30020",
+  "nim_id": "30020",
+  "transposes_celex": [
+    "32001L0042"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c2a0392a-442f-4ac3-9f71-5ccdf864ee72",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
