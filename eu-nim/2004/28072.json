@@ -1,0 +1,28 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2004 m. balandžio 16 d. nutarimas Nr. 439 „Dėl keleivių įvežamų prekių neapmokestinimo importo pridėtinės vertės mokesčiu ir akcizais taisyklių patvirtinimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "58",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-21",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2004-05-24",
+  "commission_reference": "MNE(2004)58072",
+  "nim_celex": "71969L0169LTU_28072",
+  "nim_id": "28072",
+  "transposes_celex": [
+    "31969L0169",
+    "31972L0230",
+    "31978L1032",
+    "31978L1033",
+    "31988L0664",
+    "31989L0220",
+    "31994L0004"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d71c9a84-81e5-4d00-8bf5-d7b3e19d313b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
