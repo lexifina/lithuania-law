@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės nutarimas Nr. 521 „Dėl Lietuvos Respublikos Vyriausybės 2000 m. gegužės 10 d. nutarimo Nr. 529 „Dėl akcizo už mažųjų alaus daryklų alų lengvatos taikymo tvarkos patvirtinimo“ pakeitimo",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "69",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-30",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2004-05-25",
+  "commission_reference": "MNE(2004)57929",
+  "nim_celex": "71992L0012LTU_27929",
+  "nim_id": "27929",
+  "transposes_celex": [
+    "31992L0012",
+    "31992L0108",
+    "31994L0074"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a2290b83-4efb-42f6-88e8-fecffb1ae360",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
