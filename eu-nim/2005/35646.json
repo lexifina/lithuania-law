@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2005 m. vasario 7 d. įsakymas Nr.  V-88 ,,Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2001 m. rugpjūčio 29 d. įsakymo Nr. 458 ,,Dėl Lietuvos medicinos normos MN 13:2001 ,,Kraujo donorystės įstaigos“ patvirtinimo“ pakeitimo",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "19",
+  "official_journal_page": null,
+  "official_journal_date": "2005-02-10",
+  "entry_into_force": "2005-02-11",
+  "notification_date": "2005-03-14",
+  "commission_reference": "MNE(2005)55646",
+  "nim_celex": "72002L0098LTU_35646",
+  "nim_id": "35646",
+  "transposes_celex": [
+    "32002L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c6cb8071-7a52-485c-a663-90da0cabc965",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
