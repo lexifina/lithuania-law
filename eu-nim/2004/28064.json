@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro įsakymas Nr. V-280 \"Dėl Lietuvos medicinos normos MN 104:2004 \"Medicinos prietaisų, gaminamų naudojant gyvūninius audinius, saugos techninis reglamentas\" patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "70",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-30",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2004-05-26",
+  "commission_reference": "MNE(2004)58064",
+  "nim_celex": "72003L0032LTU_28064",
+  "nim_id": "28064",
+  "transposes_celex": [
+    "32003L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e5ebd8ff-a56a-4712-b1fb-2ef274117e92",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
