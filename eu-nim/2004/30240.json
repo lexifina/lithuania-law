@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS MOTERŲ IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO 1 STRAIPSNIO PAPILDYMO, ĮSTATYMO PAPILDYMO 2(1) STRAIPSNIU IR PRIEDU ĮSTATYMAS Nr. IX-2346",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "115",
+  "official_journal_page": null,
+  "official_journal_date": "2004-07-24",
+  "entry_into_force": "2004-07-24",
+  "notification_date": "2004-08-02",
+  "commission_reference": "MNE(2004)50240",
+  "nim_celex": "71997L0080LTU_30240",
+  "nim_id": "30240",
+  "transposes_celex": [
+    "31997L0080",
+    "32004L0113",
+    "32006L0054"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ed88d9cc-e7a0-492e-b6c3-10a1c64b56c3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
