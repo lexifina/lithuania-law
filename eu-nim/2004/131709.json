@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2004 M. GRUODŽIO 22 D. ĮSAKYMAS NR. D1-659 \"DĖL APLINKOS MINISTRO 2000 M. BIRŽELIO 27 D. ĮSAKYMO NR. 258 \"DĖL MEDŽIOKLĖS LIETUVOS RESPUBLIKOS TERITORIJOJE TAISYKLIŲ PATVIRTINIMO\" PAKEITIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "185",
+  "official_journal_page": null,
+  "official_journal_date": "2004-12-27",
+  "entry_into_force": "2004-12-28",
+  "notification_date": "2006-05-23",
+  "commission_reference": "MNE(2006)53383",
+  "nim_celex": "71979L0409LTU_131709",
+  "nim_id": "131709",
+  "transposes_celex": [
+    "31979L0409"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b11b3bdc-c839-4e38-80a0-7e2aa117f593",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
