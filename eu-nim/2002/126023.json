@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vertybinių popierių viešosios apyvartos įstatymo pakeitimo įstatymas Nr. IX- 655",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "112",
+  "official_journal_page": null,
+  "official_journal_date": "2001-12-30",
+  "entry_into_force": "2002-04-01",
+  "notification_date": "2005-12-05",
+  "commission_reference": "MNE(2005)60145",
+  "nim_celex": "71986L0635LTU_126023",
+  "nim_id": "126023",
+  "transposes_celex": [
+    "31986L0635"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/019c135f-9d4f-4e5e-94f4-a7ecd2499eed",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
