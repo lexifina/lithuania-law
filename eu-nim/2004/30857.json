@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2004 m. rugpjūčio 31 d. nutarimas Nr. 1107 \"Dėl Neteisėtai iš Europos Sąjungos valstybės narės teritorijos išvežtų kultūros objektų grąžinimo taisyklių patvirtinimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "135",
+  "official_journal_page": null,
+  "official_journal_date": "2004-09-04",
+  "entry_into_force": "2004-09-05",
+  "notification_date": "2004-09-14",
+  "commission_reference": "MNE(2004)50857",
+  "nim_celex": "71993L0007LTU_30857",
+  "nim_id": "30857",
+  "transposes_celex": [
+    "31993L0007"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ab8fd38f-3b74-4eaf-bf3c-11662dd3360f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
