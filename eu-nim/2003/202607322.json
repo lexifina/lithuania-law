@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2003 m gegužės 15 d. įsakymas Nr. 233 „Dėl statybos techninio reglamento STR 2.05.04:2003 \"Poveikiai ir apkrovos\" patvirtinimo“ (suvestinė redakcija nuo 2006-02-12)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "59-2683",
+  "official_journal_page": null,
+  "official_journal_date": "2003-06-20",
+  "entry_into_force": "2003-07-01",
+  "notification_date": "2026-09-18",
+  "commission_reference": "MNE(2026)07322",
+  "nim_celex": "72024L1275LTU_202607322",
+  "nim_id": "202607322",
+  "transposes_celex": [
+    "32024L1275"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e6c663e7-2b76-435d-8872-373e02ce6107",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
