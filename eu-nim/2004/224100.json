@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo kodekso 292 straipsnio pakeitimo ir priedo papildymo įstatymas Nr. X-61",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "188",
+  "official_journal_page": null,
+  "official_journal_date": "2004-12-31",
+  "entry_into_force": "2004-12-31",
+  "notification_date": "2015-03-05",
+  "commission_reference": "MNE(2015)51273",
+  "nim_celex": "72002F0946LTU_224100",
+  "nim_id": "224100",
+  "transposes_celex": [
+    "32002F0946"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/01b1ff70-0466-439d-b270-4266b9c89538",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
