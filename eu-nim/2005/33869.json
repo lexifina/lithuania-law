@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos viršininko 2004 m. gruodžio 14 d. įsakymas \"Dėl 2004 m. balandžio 21 d. Tarybos Direktyvos 2004/56/EB, iš dalies pakeičiančios 1977 m. gruodžio 19 d. Tarybos Direktyvą 77/799/EEB dėl valstybių narių kompetetingų institucijų tarpusavio pagalbos tiesioginio apmokestinimo, tam tikrų akcizo mokesčių ir draudimo įmokų apmokestinimo srityje, nuostatų įgyvendinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "185",
+  "official_journal_page": null,
+  "official_journal_date": "2004-12-27",
+  "entry_into_force": "2005-01-01",
+  "notification_date": "2004-12-29",
+  "commission_reference": "MNE(2004)53869",
+  "nim_celex": "72004L0056LTU_33869",
+  "nim_id": "33869",
+  "transposes_celex": [
+    "32004L0056"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9f4157e5-6e9b-4436-9a8e-14e03c951b1d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
