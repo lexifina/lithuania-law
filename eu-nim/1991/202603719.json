@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos profesinių sąjungų įstatymas Nr. I-2018 (suvestinė redakcija nuo 2013-06-28)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "240-0",
+  "official_journal_page": null,
+  "official_journal_date": "1991-11-30",
+  "entry_into_force": "1991-11-21",
+  "notification_date": "2026-06-09",
+  "commission_reference": "MNE(2026)03719",
+  "nim_celex": "72023L0970LTU_202603719",
+  "nim_id": "202603719",
+  "transposes_celex": [
+    "32023L0970"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/280c3130-a687-42da-907d-05babf5e8c8b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
