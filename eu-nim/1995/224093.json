@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Seimo 1995 m. balandžio 4 d. nutarimas Nr. I-839 \"Dėl 1957 m. gruodžio 13 d. Europos konvencijos „Dėl ekstradicijos“, 1975 m. spalio 15 d. Europos konvencijos \"Dėl ekstradicijos\" papildomo protokolo ir 1978 m. kovo 17 d. Europos konvencijos \"Dėl ekstradicijos\" antrojo papildomo protokolo ratifikavimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "34",
+  "official_journal_page": null,
+  "official_journal_date": "1995-04-26",
+  "entry_into_force": "1995-04-04",
+  "notification_date": "2015-03-05",
+  "commission_reference": "MNE(2015)51266",
+  "nim_celex": "72002F0946LTU_224093",
+  "nim_id": "224093",
+  "transposes_celex": [
+    "32002F0946"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3e4f96e0-2e2a-4ce2-84cb-c859d291687b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
