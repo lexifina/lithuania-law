@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos pelno mokesčio įstatymo 2, 4, 5, 12, 13, 18, 19, 20, 27, 31, 33, 35, 38, 41, 55, 57, 58, 59 straipsnių pakeitimo ir papildymo įstatymas Nr. IX-1659",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "74",
+  "official_journal_page": null,
+  "official_journal_date": "2003-07-25",
+  "entry_into_force": "2003-07-25",
+  "notification_date": "2004-07-07",
+  "commission_reference": "MNE(2004)59555",
+  "nim_celex": "72003L0049LTU_29555",
+  "nim_id": "29555",
+  "transposes_celex": [
+    "32003L0049"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a356e953-61be-45b8-9bff-9f0bb03ba532",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
