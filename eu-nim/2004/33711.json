@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Sveikatos apsaugos ministro 2004 m. lapkričio 26 d. įsakymas Nr. V-834 ,,Dėl radioaktyviųjų medžiagų ir radioaktyviųjų atliekų įvežimo, išvežimo, vežimo tranzitu ir vežimo šalies viduje taisyklių“ patvirtinimo",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "176",
+  "official_journal_page": null,
+  "official_journal_date": "2004-12-08",
+  "entry_into_force": "2004-12-09",
+  "notification_date": "2004-12-13",
+  "commission_reference": "MNE(2004)53711",
+  "nim_celex": "71992L0003LTU_33711",
+  "nim_id": "33711",
+  "transposes_celex": [
+    "31992L0003"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9d74eaa8-9350-4cb3-9273-386e540f8633",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
