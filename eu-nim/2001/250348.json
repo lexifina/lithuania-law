@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo 20 straipsnio pakeitimo ir papildymo įstatymas Nr. IX-597",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "99",
+  "official_journal_page": null,
+  "official_journal_date": "2001-11-28",
+  "entry_into_force": "2001-11-28",
+  "notification_date": "2017-08-28",
+  "commission_reference": "MNE(2017)54738",
+  "nim_celex": "72014L0087LTU_250348",
+  "nim_id": "250348",
+  "transposes_celex": [
+    "32014L0087"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/52569957-e0db-4be3-9c4b-dd3f396b654b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
