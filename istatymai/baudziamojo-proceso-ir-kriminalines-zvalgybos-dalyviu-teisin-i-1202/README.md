@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 1997-01-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/8f893f762a39c706c735046da3e8e73bd94280bb/istatymai/TAR.717DD0E6FE37.md) |
+| 1999-01-27 | 2003-04-30 | Įstatymas Nr. VIII-1024 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/7aaed6a2425ab31ea721c72ded44bd66eb19a600/istatymai/TAR.717DD0E6FE37.md) |
