@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2004 m. balandžio 19 d. įsakymas Nr. D1-193 \"Dėl aplinkos apsaugos normatyvinio dokumento LAND 45-2003 patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "64",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-29",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2004-05-26",
+  "commission_reference": "MNE(2004)58409",
+  "nim_celex": "71998L0073LTU_28409",
+  "nim_id": "28409",
+  "transposes_celex": [
+    "31998L0073",
+    "32001L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6d867af0-fdd8-45f8-aeea-36b77e954e76",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
