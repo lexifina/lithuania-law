@@ -1,0 +1,27 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos gamtinių dujų įstatymas Nr.VIII-1973",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "89",
+  "official_journal_page": null,
+  "official_journal_date": "2000-10-25",
+  "entry_into_force": "2001-07-01",
+  "notification_date": "2003-10-23",
+  "commission_reference": "MNE(2003)59471",
+  "nim_celex": "71990L0377LTU_19471",
+  "nim_id": "19471",
+  "transposes_celex": [
+    "31990L0377",
+    "31991L0296",
+    "31995L0049",
+    "31998L0030",
+    "32003L0055",
+    "32004L0067"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d45960d7-ef75-4185-9d06-39c13e747370",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
