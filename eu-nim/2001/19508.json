@@ -1,0 +1,25 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Vyriausybės  nutarimas Nr. 745 \"Dėl skundų dėl Lietuvos Respublikos gamtinių dujų įstatymo taikymo nagrinėjimo tvarkos patvirtinimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "53",
+  "official_journal_page": null,
+  "official_journal_date": "2001-06-22",
+  "entry_into_force": "2001-06-23",
+  "notification_date": "2003-10-24",
+  "commission_reference": "MNE(2003)59508",
+  "nim_celex": "71991L0296LTU_19508",
+  "nim_id": "19508",
+  "transposes_celex": [
+    "31991L0296",
+    "31995L0049",
+    "31998L0030",
+    "32003L0055"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/73a0557e-a78c-4b78-83ab-30acc8463ba1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
