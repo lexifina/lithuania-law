@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 1994 m. lapkričio 30 d. nutarimas Nr. 1198 \"Dėl profesinių ligų sąrašo ir Lietuvos Respublikos profesinių ligų valstybės registro bei jo nuostatų\" (Suvestinė redakcija nuo 2019-11-19)",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "94-1845",
+  "official_journal_page": null,
+  "official_journal_date": "1994-12-07",
+  "entry_into_force": "1994-12-08",
+  "notification_date": "2020-02-17",
+  "commission_reference": "MNE(2020)51123",
+  "nim_celex": "72017L2398LTU_281174",
+  "nim_id": "281174",
+  "transposes_celex": [
+    "32017L2398"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/52443170-547c-11ea-aece-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
