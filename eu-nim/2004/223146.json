@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo kodekso papildymo 250(1) straipsniu įstatymas Nr. IX-2570",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "171",
+  "official_journal_page": null,
+  "official_journal_date": "2004-11-26",
+  "entry_into_force": "2004-11-26",
+  "notification_date": "2015-03-04",
+  "commission_reference": "MNE(2015)50550",
+  "nim_celex": "72002F0475LTU_223146",
+  "nim_id": "223146",
+  "transposes_celex": [
+    "32002F0475"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/aae7ca86-0ef2-45c3-a40e-026a2e5a331f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
