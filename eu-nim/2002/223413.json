@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos laivybos sektoriaus plėtros strategija,2002 m. kovo 28 d. patvirtinta Lietuvos Respublikos Vyriausybės Tranzito komiteto protokoliniu sprendimu",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Administracinės priemonės",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2002-03-28",
+  "entry_into_force": "2002-03-28",
+  "notification_date": "2015-02-12",
+  "commission_reference": "MNE(2015)50731",
+  "nim_celex": "72009L0013LTU_223413",
+  "nim_id": "223413",
+  "transposes_celex": [
+    "32009L0013"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ff67ec7f-f978-11e4-a4c8-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
