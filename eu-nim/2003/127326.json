@@ -1,0 +1,25 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos profesinių sąjungų įstatymo preambulės ir 1 straipsnio pakeitimo įstatymas Nr.IX-1803",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "108",
+  "official_journal_page": null,
+  "official_journal_date": "2003-11-19",
+  "entry_into_force": "2003-11-19",
+  "notification_date": "2006-01-25",
+  "commission_reference": "MNE(2006)50242",
+  "nim_celex": "72003L0109LTU_127326",
+  "nim_id": "127326",
+  "transposes_celex": [
+    "32003L0109",
+    "32006L0054",
+    "32008L0104",
+    "32009L0050"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ea14c550-3186-49d1-8a4a-46f890fa215e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
