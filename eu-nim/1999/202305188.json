@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos finansinių ataskaitų audito įstatymas Nr. VIII-1227 (suvestinė redakcija nuo 2023-06-22)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "59-1916",
+  "official_journal_page": null,
+  "official_journal_date": "1999-07-07",
+  "entry_into_force": "1999-10-01",
+  "notification_date": "2023-09-26",
+  "commission_reference": "MNE(2023)05188",
+  "nim_celex": "72019L2121LTU_202305188",
+  "nim_id": "202305188",
+  "transposes_celex": [
+    "32019L2121"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7e02191a-3369-437a-9f67-731615ee9317",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
