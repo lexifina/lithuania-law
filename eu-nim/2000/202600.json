@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro, Lietuvos Respublikos generalinio prokuroro, Lietuvos Respublikos sveikatos apsaugos ministro 1999 m. gruodžio 29 d. įsakymas Nr. 714/153/562 „Dėl Neatpažinto lavono, nežinomo ligonio ar nežinomo vaiko asmens tapatybės nustatymo instrukcijos patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "2",
+  "official_journal_page": null,
+  "official_journal_date": "2000-01-07",
+  "entry_into_force": "2000-01-08",
+  "notification_date": "2013-04-03",
+  "commission_reference": "MNE(2013)52307",
+  "nim_celex": "72011L0036LTU_202600",
+  "nim_id": "202600",
+  "transposes_celex": [
+    "32011L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d83c345f-5df3-4512-a8fe-bed1c1e1bb46",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
