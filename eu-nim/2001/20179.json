@@ -1,0 +1,25 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos laukinės gyvūnijos įstatymo pakeitimo įstatymas Nr. IX-638",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "110",
+  "official_journal_page": null,
+  "official_journal_date": "2001-12-29",
+  "entry_into_force": "2001-12-29",
+  "notification_date": "2004-01-14",
+  "commission_reference": "MNE(2003)50179",
+  "nim_celex": "71979L0409LTU_20179",
+  "nim_id": "20179",
+  "transposes_celex": [
+    "31979L0409",
+    "31983L0129",
+    "31992L0043",
+    "32006L0105"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3f3049e1-cfe2-470b-b8d7-630fc5bc1b2b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
