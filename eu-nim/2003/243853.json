@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo 43, 49, 50, 52, 53 ir 54 straipsnių pakeitimo įstatymas Nr. IX-1440",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "38",
+  "official_journal_page": null,
+  "official_journal_date": "2003-04-24",
+  "entry_into_force": "2003-05-01",
+  "notification_date": "2016-12-30",
+  "commission_reference": "MNE(2016)57959",
+  "nim_celex": "72013L0048LTU_243853",
+  "nim_id": "243853",
+  "transposes_celex": [
+    "32013L0048"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/114c957a-d42c-11e6-ad7c-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
