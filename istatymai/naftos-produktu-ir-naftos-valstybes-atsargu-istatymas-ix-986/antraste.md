@@ -1,0 +1,10 @@
+Įstatymas skelbtas: Žin., 2002, Nr. 72-3008
+Neoficialus įstatymo tekstas
+LIETUVOS RESPUBLIKOS
+NAFTOS PRODUKTŲ IR NAFTOS VALSTYBĖS ATSARGŲ
+ĮSTATYMAS
+2002 m. birželio 25 d. Nr. IX-986
+Vilnius
+PIRMASIS
+SKIRSNIS
+BENDROSIOS NUOSTATOS
