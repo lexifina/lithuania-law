@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos advokatūros įstatymas Nr. IX-2066 (Suvestinė redakcija nuo 2020-07-01)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "50-1632",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-05",
+  "entry_into_force": "2004-04-05",
+  "notification_date": "2021-06-03",
+  "commission_reference": "MNE(2021)03286",
+  "nim_celex": "72013L0033LTU_202103286",
+  "nim_id": "202103286",
+  "transposes_celex": [
+    "32013L0033"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/71fe351a-4ce2-4477-b687-7769e630d6ca",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
