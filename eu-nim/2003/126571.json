@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS FINANSŲ MINISTRO 2003 M. SAUSIO 31 D. ĮSAKYMAS NR. 1K-021 \"DĖL IŠVESTINIŲ FINANSINIŲ PRIEMONIŲ APSKAITOS METODIKOS PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "14",
+  "official_journal_page": null,
+  "official_journal_date": "2003-02-07",
+  "entry_into_force": "2003-02-08",
+  "notification_date": "2005-12-15",
+  "commission_reference": "MNE(2005)60525",
+  "nim_celex": "72001L0065LTU_126571",
+  "nim_id": "126571",
+  "transposes_celex": [
+    "32001L0065"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b7b6c0b4-2378-4a82-94a6-3440927835c9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
