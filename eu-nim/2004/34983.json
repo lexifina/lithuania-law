@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos vado 2004 m. sausio 16 d. įsakymas Nr. 4-37 „Dėl Valstybės sienos apsaugos tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos Užsieniečių registracijos centro nuostatų patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "12",
+  "official_journal_page": null,
+  "official_journal_date": "2004-01-22",
+  "entry_into_force": "2004-01-23",
+  "notification_date": "2005-02-09",
+  "commission_reference": "MNE(2005)54983",
+  "nim_celex": "72003L0009LTU_34983",
+  "nim_id": "34983",
+  "transposes_celex": [
+    "32003L0009"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f10e4e45-544c-4c94-b29e-6f7034407c9b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
