@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2002-12-31 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/0d6734eab234f93cd2d9ffbc95ea6688c97ef18a/istatymai/TAR.10BD9188E48C.md) |
+| 2003-04-09 | 2006-07-13 | Įstatymas Nr. IX-1384 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/6dbc8b9a282f514ff3aa9e6f7dee6f8e5365dde4/istatymai/TAR.10BD9188E48C.md) |
