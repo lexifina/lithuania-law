@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos nutarimas Nr. 128 „Dėl Finansinės grupės ataskaitų konsolidavimo ir jungtinės (konsoliduotos) priežiūros taisyklių patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "125",
+  "official_journal_page": null,
+  "official_journal_date": "2004-08-10",
+  "entry_into_force": "2004-10-01",
+  "notification_date": "2004-10-15",
+  "commission_reference": "MNE(2004)51870",
+  "nim_celex": "72000L0012LTU_31870",
+  "nim_id": "31870",
+  "transposes_celex": [
+    "32000L0012"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fc222ae9-df83-4992-901b-ceec4b70c2b3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
