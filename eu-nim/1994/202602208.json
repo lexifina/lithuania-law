@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Lietuvos banko įstatymas Nr. I-678 (suvestinė redakcija nuo 2022-12-01 iki 2023-11-09)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "99-1957",
+  "official_journal_page": null,
+  "official_journal_date": "1994-12-23",
+  "entry_into_force": "1994-12-23",
+  "notification_date": "2026-04-02",
+  "commission_reference": "MNE(2026)02208",
+  "nim_celex": "72023L2225LTU_202602208",
+  "nim_id": "202602208",
+  "transposes_celex": [
+    "32023L2225"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ba55b309-d516-4367-872c-574bf1d1da13",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
