@@ -1,0 +1,27 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2003 m. gegužės 14 d. nutarimas Nr.587 “Dėl darbų, kuriuose gali būti taikoma iki dvidešimt keturių valandų per parą darbo laiko trukmė, sąrašo, darbo ir poilsio laiko ypatumų ekonominės veiklos srityse, darbų, sąlygų, kurioms esant gali būti įvedama suminė darbo laiko apskaita, suminės darbo laiko apskaitos įvedimo įmonėse, įstaigose, organizacijose tvarkos patvirtinimo",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "48",
+  "official_journal_page": null,
+  "official_journal_date": "2003-05-15",
+  "entry_into_force": "2003-05-16",
+  "notification_date": "2004-02-02",
+  "commission_reference": "MNE(2003)50956",
+  "nim_celex": "71993L0104LTU_20956",
+  "nim_id": "20956",
+  "transposes_celex": [
+    "31993L0104",
+    "31999L0063",
+    "31999L0095",
+    "32000L0034",
+    "32000L0079",
+    "32009L0013"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a17122e6-f97a-11e4-a4c8-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
