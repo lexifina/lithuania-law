@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2003 m. spalio 28 d. nutarimas Nr. 1336 „Dėl Lietuvos Respublikos Vyriausybės 2000 m. kovo 23 d. nutarimo Nr. 337 „Dėl pavojingų krovinių vežimo kelių transportu Lietuvos Respublikoje“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "102",
+  "official_journal_page": null,
+  "official_journal_date": "2003-10-31",
+  "entry_into_force": "2003-11-01",
+  "notification_date": "2004-11-25",
+  "commission_reference": "MNE(2004)53270",
+  "nim_celex": "72003L0028LTU_33270",
+  "nim_id": "33270",
+  "transposes_celex": [
+    "32003L0028"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fe6fdda9-d44c-4980-9b84-82f1a9538438",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
