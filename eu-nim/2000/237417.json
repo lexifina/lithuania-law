@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 1999 m. gruodžio 27 d. nutarimas Nr. 1482 „Dėl institucijų, įgaliotų tvirtinti privalomuosius produktų saugos reikalavimus ir nustatyti atitikties įvertinimo reikalavimus, paskyrimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "114",
+  "official_journal_page": null,
+  "official_journal_date": "1999-12-31",
+  "entry_into_force": "2000-01-01",
+  "notification_date": "2016-05-16",
+  "commission_reference": "MNE(2016)53102",
+  "nim_celex": "72014L0034LTU_237417",
+  "nim_id": "237417",
+  "transposes_celex": [
+    "32014L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/31976725-da60-4b3b-8fdc-765d736e0ae8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
