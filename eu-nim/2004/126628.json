@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKO VYRIAUSYBĖS 2004 M. SAUSIO 13 D. NUTARIMAS NR. 30 \"DĖL LIETUVOS RESPUBLIKOS PENSIJŲ KAUPIMO ĮSTATYMO IR LIETUVOS RESPUBLIKOS PAPILDOMO SAVANORIŠKO PENSIJŲ KAUPIMO ĮSTATYMO ĮGYVENDINIMO\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "9",
+  "official_journal_page": null,
+  "official_journal_date": "2004-01-17",
+  "entry_into_force": "2004-01-18",
+  "notification_date": "2005-12-16",
+  "commission_reference": "MNE(2005)60570",
+  "nim_celex": "71986L0635LTU_126628",
+  "nim_id": "126628",
+  "transposes_celex": [
+    "31986L0635"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3bb7b8ed-4817-475e-a3ba-1dafb65f6cd5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
