@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2004 m. rugpjūčio 27 d. įsakymas Nr. D1-456 \"Dėl Planų ir programų atrankos dėl strateginio pasekmių aplinkai vertinimo tvarkos aprašo patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "136",
+  "official_journal_page": null,
+  "official_journal_date": "2004-09-07",
+  "entry_into_force": "2004-09-08",
+  "notification_date": "2004-09-13",
+  "commission_reference": "MNE(2004)50844",
+  "nim_celex": "72001L0042LTU_30844",
+  "nim_id": "30844",
+  "transposes_celex": [
+    "32001L0042"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9cb0f280-6c5e-4657-bb83-a883ba459cc5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
