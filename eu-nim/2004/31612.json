@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos valstybinės maisto ir veterinarijos tarnybos direktoriaus 2004 m. rugpjūčio 11 d. įsakymas Nr. B1-710 \"Dėl Lietuvos Respublikos valstybinės maisto ir veterinarijos tarnybos direktoriaus 2004 m. birželio 23 d. įsakymo Nr. B1-368 \"Dėl Apmokėjimo už gyvūnų, gyvūninių ir kitų produktų valstybinę veterinarinę priežiūrą patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "128",
+  "official_journal_page": null,
+  "official_journal_date": "2004-08-17",
+  "entry_into_force": "2004-08-18",
+  "notification_date": "2004-10-07",
+  "commission_reference": "MNE(2004)51612",
+  "nim_celex": "71996L0043LTU_31612",
+  "nim_id": "31612",
+  "transposes_celex": [
+    "31996L0043"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0cf74213-3f2c-41af-89ee-9293a3fae2c3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
