@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių ginčų komisijų įstatymas Nr. VIII-1031",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "13",
+  "official_journal_page": null,
+  "official_journal_date": "1999-02-03",
+  "entry_into_force": "1999-05-01",
+  "notification_date": "2004-01-06",
+  "commission_reference": "MNE(2003)59999",
+  "nim_celex": "71990L0313LTU_19999",
+  "nim_id": "19999",
+  "transposes_celex": [
+    "31990L0313",
+    "32003L0004",
+    "32003L0035"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f5b25d6e-a5bc-4d39-8450-b64455c93714",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
