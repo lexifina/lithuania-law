@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos lygių galimybių įstatymas Nr. IX-1826 (suvestinė redakcija nuo 2022-08-01 iki 2023-12-31)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "114-5115",
+  "official_journal_page": null,
+  "official_journal_date": "2003-12-05",
+  "entry_into_force": "2005-01-01",
+  "notification_date": "2024-11-29",
+  "commission_reference": "MNE(2024)05222",
+  "nim_celex": "72022L2381LTU_202405222",
+  "nim_id": "202405222",
+  "transposes_celex": [
+    "32022L2381",
+    "32023L0970"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/16fc8caf-701f-43bc-a9e3-34bf5f0a1851",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
