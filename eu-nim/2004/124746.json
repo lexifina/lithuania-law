@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2004 m. rugpjūčio 12 d. nutarimas Nr. 136 „Dėl Lietuvos banko valdybos 2002 m. rugsėjo 26 d. nutarimo Nr. 122 „Dėl kriterijų, kuriais vadovaujantis operacija pinigais laikoma įtartina, patvirtinimo“ ir Lietuvos banko valdybos 2003 m. gegužės 29 d. nutarimo Nr. 52 „Dėl Lietuvos banko valdybos 2002 m. rugsėjo 26 d. nutarimo Nr. 122 „Dėl kriterijų, kuriais vadovaujantis operacija pinigais laikoma įtartina, patvirtinimo“ papildymo“ pripažinimo netekusiais galios\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "127",
+  "official_journal_page": null,
+  "official_journal_date": "2004-08-14",
+  "entry_into_force": "2004-08-15",
+  "notification_date": "2005-10-06",
+  "commission_reference": "MNE(2005)54746",
+  "nim_celex": "71991L0308LTU_124746",
+  "nim_id": "124746",
+  "transposes_celex": [
+    "31991L0308"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a2ecc6b1-c9ae-48e4-bebf-60bd2d890857",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
