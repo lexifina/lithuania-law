@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės nutarimas Nr. 1493 \"Dėl Lietuvos Respublikos Vyriausybės 1997 m. gruodžio 3 d. nutarimo Nr. 1331 \"Dėl kliento tapatybės bei kelių tarpusavyje susijusių operacijų su pinigais nustatymo, taip pat informacijos apie operacijas pinigais ar sandorius pateikimo tvarkos\" pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "171",
+  "official_journal_page": null,
+  "official_journal_date": "2004-11-26",
+  "entry_into_force": "2004-11-27",
+  "notification_date": "2006-02-08",
+  "commission_reference": "MNE(2006)50869",
+  "nim_celex": "71991L0308LTU_128193",
+  "nim_id": "128193",
+  "transposes_celex": [
+    "31991L0308"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e7fa55ac-ba3b-49ab-aa38-170a94ecce91",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
