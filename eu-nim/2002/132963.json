@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro 2002 m. vasario 5 d. įsakymas Nr. 43 \"Dėl gamtinių dujų perdavimo, paskirstymo, laikymo ir tiekimo taisyklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "15",
+  "official_journal_page": null,
+  "official_journal_date": "2002-02-13",
+  "entry_into_force": "2002-02-14",
+  "notification_date": "2006-06-29",
+  "commission_reference": "MNE(2006)54278",
+  "nim_celex": "72004L0067LTU_132963",
+  "nim_id": "132963",
+  "transposes_celex": [
+    "32004L0067"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/35918ffd-cce5-4c36-a643-a9b5d3bd51df",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
