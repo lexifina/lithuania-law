@@ -18,3 +18,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 1995-06-28 | 1996-01-04 | Įstatymas Nr. I-942 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/c88d79423aaa54f2f68a9456ca3a09835666fc26/istatymai/TAR.4A9B29FE9E04.md) |
 | 1996-01-05 | 1996-02-06 | Įstatymas Nr. I-1161 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/20504952d625f897b146266d89c30fcd7834fa34/istatymai/TAR.4A9B29FE9E04.md) |
 | 1996-02-07 | 1997-03-06 | Įstatymas Nr. I-1177 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/c147abfacebcee9ad399ea895ee8df8bd0ec0f5d/istatymai/TAR.4A9B29FE9E04.md) |
+| 1997-03-07 | 1997-07-22 | Įstatymas Nr. VIII-118 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/0aad6b95cf9e32eb6639532b57c210974777f199/istatymai/TAR.4A9B29FE9E04.md) |
