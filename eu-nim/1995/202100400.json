@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos alkoholio kontrolės įstatymas Nr. I-857 (Suvestinė redakcija nuo 2020-11-01)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "44-1073",
+  "official_journal_page": null,
+  "official_journal_date": "1995-05-25",
+  "entry_into_force": "1995-05-25",
+  "notification_date": "2021-01-20",
+  "commission_reference": "MNE(2021)00400",
+  "nim_celex": "72018L1808LTU_202100400",
+  "nim_id": "202100400",
+  "transposes_celex": [
+    "32018L1808"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/33e08c90-0eb3-41c9-8d86-1a48c6e02468",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
