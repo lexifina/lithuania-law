@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos viršininko 2004 m. gegužės 5 d. įsakymas Nr. VA-87 „Dėl Mokestinių patikrinimų atlikimo, jų rezultatų įforminimo ir patvirtinimo taisyklių patvirtinimo“ (suvestinė redakcija nuo 2019-01-01)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "80-2876",
+  "official_journal_page": null,
+  "official_journal_date": "2004-05-14",
+  "entry_into_force": "2004-05-15",
+  "notification_date": "2023-03-22",
+  "commission_reference": "MNE(2023)01817",
+  "nim_celex": "72021L0514LTU_202301817",
+  "nim_id": "202301817",
+  "transposes_celex": [
+    "32021L0514"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4c18f807-22c0-4d3d-92dd-24d2944321ca",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
