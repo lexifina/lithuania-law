@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos teismų įstatymas Nr. I-480 (Suvestinė redakcija nuo 2019-01-01)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "46-851",
+  "official_journal_page": null,
+  "official_journal_date": "1994-06-17",
+  "entry_into_force": "1995-01-01",
+  "notification_date": "2019-06-10",
+  "commission_reference": "MNE(2019)53475",
+  "nim_celex": "72016L0800LTU_273722",
+  "nim_id": "273722",
+  "transposes_celex": [
+    "32016L0800"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0d53b8aa-2f76-4ca2-8f6c-fbece4cbb67c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
