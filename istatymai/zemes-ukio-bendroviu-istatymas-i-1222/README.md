@@ -16,3 +16,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 1994-01-05 | 1994-12-31 | Įstatymas Nr. I-352 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/804a62f026ec8d4adbada01bb4bb06b4b3337184/istatymai/TAR.4A9B29FE9E04.md) |
 | 1995-01-01 | 1995-06-27 | Įstatymas Nr. I-704 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/8ae213b678df79bab7c01154337a5287ec5557bb/istatymai/TAR.4A9B29FE9E04.md) |
 | 1995-06-28 | 1996-01-04 | Įstatymas Nr. I-942 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/c88d79423aaa54f2f68a9456ca3a09835666fc26/istatymai/TAR.4A9B29FE9E04.md) |
+| 1996-01-05 | 1996-02-06 | Įstatymas Nr. I-1161 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/20504952d625f897b146266d89c30fcd7834fa34/istatymai/TAR.4A9B29FE9E04.md) |
