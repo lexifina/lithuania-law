@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro ir Lietuvos Respublikos finansų ministro 2005 m. kovo 25 d. įsakymas Nr. 3D-171/1K-080 \"Dėl Įvežamų į Lietuvos Respubliką ir Europos Bendriją bei gabenamų per ją tranzitu augalų, augalinių produktų ir kitų objektų fitosanitarinio patikrinimo taisyklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "44",
+  "official_journal_page": null,
+  "official_journal_date": "2005-05-04",
+  "entry_into_force": "2005-04-05",
+  "notification_date": "2005-04-07",
+  "commission_reference": "MNE(2005)50102",
+  "nim_celex": "72004L0103LTU_120102",
+  "nim_id": "120102",
+  "transposes_celex": [
+    "32004L0103"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/527dd39e-ee3f-4f89-bd3d-fd6fc5ff8e74",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
