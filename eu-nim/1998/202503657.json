@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymas Nr. VIII-275 (Suvestinė redakcija nuo 2024-05-01 iki 2024-07-24)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "64-1502",
+  "official_journal_page": null,
+  "official_journal_date": "1997-07-04",
+  "entry_into_force": "1998-01-01",
+  "notification_date": "2025-06-30",
+  "commission_reference": "MNE(2025)03657",
+  "nim_celex": "72024L1640LTU_202503657",
+  "nim_id": "202503657",
+  "transposes_celex": [
+    "32024L1640"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5659f921-b695-4e44-b441-6c03c5ef08ad",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
