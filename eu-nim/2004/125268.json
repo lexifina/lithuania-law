@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2004 M. LIEPOS 27 D. ĮSAKYMAS NR. D1-418 'DĖL ATASKAITŲ APIE APLINKOS ORO KOKYBĖS VALDYMO \nPLANUS AR PROGRAMAS TEIKIMO EUROPOS KOMISIJAI'",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "120",
+  "official_journal_page": null,
+  "official_journal_date": "2004-08-03",
+  "entry_into_force": "2004-08-04",
+  "notification_date": "2005-10-26",
+  "commission_reference": "MNE(2005)55268",
+  "nim_celex": "71996L0062LTU_125268",
+  "nim_id": "125268",
+  "transposes_celex": [
+    "31996L0062",
+    "32008L0050"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3d9c054f-4da0-4d68-b5ee-27cc34773297",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
