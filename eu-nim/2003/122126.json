@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos finansų įstaigų įstatymas Nr. IX-1068",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "91",
+  "official_journal_page": null,
+  "official_journal_date": "2002-09-18",
+  "entry_into_force": "2003-07-01",
+  "notification_date": "2005-06-27",
+  "commission_reference": "MNE(2005)52126",
+  "nim_celex": "71997L0005LTU_122126",
+  "nim_id": "122126",
+  "transposes_celex": [
+    "31997L0005",
+    "32007L0064"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/80212c87-7fba-40a4-82c8-bba365c8db34",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
