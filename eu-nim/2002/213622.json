@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vyriausiosios rinkimų komisijos įstatymas Nr. IX-985",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "68",
+  "official_journal_page": null,
+  "official_journal_date": "2002-07-03",
+  "entry_into_force": "2002-08-01",
+  "notification_date": "2014-02-18",
+  "commission_reference": "MNE(2014)51216",
+  "nim_celex": "72013L0001LTU_213622",
+  "nim_id": "213622",
+  "transposes_celex": [
+    "32013L0001"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ad258914-792f-478e-8545-7230eb1f2b97",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
