@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės maisto ir veterinarijos tarnybos direktoriaus 2004 m. spalio 19 d. įsakymas Nr. B1-911 \"Dėl Valstybinės maisto ir veterinarijos tarnybos direktoriaus 2002 m. gruodžio 18 d. įsakymo Nr. 726 \"Dėl galvijų, avių, ožkų ir kiaulių, šviežios mėsos bei mėsos produktų importo veterinarijos reikalavimų\" pripažinimo netekusiu galios\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "160",
+  "official_journal_page": null,
+  "official_journal_date": "2004-11-04",
+  "entry_into_force": "2004-10-24",
+  "notification_date": "2006-01-20",
+  "commission_reference": "MNE(2006)50207",
+  "nim_celex": "72004L0068LTU_127281",
+  "nim_id": "127281",
+  "transposes_celex": [
+    "32004L0068"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/01b9207c-2afa-4625-9311-86e54e7961af",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
