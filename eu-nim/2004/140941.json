@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Lietuvos banko įstatymo 8, 11, 42, 43, 45, 46 ir 47 straipsnių pakeitimo įstatymas Nr. IX-2069",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "54",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-15",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2007-02-20",
+  "commission_reference": "MNE(2007)50899",
+  "nim_celex": "72006L0049LTU_140941",
+  "nim_id": "140941",
+  "transposes_celex": [
+    "32006L0049"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/891f207d-624d-4d32-ba16-6269dbc8353a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
