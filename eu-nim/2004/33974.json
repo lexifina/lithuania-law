@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2004 m. gruodžio 9 d. įsakymas Nr. V-888  ,,Dėl Lietuvos higienos normos HN 94:2004 „Paprastosios ir kompiuterinės tomografijos bei profilaktinės mamografijos kokybės kontrolė. Reikalavimai ir vertinimo kriterijai“ patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "182",
+  "official_journal_page": null,
+  "official_journal_date": "2004-12-21",
+  "entry_into_force": "2004-12-22",
+  "notification_date": "2005-01-05",
+  "commission_reference": "MNE(2005)53974",
+  "nim_celex": "71997L0043LTU_33974",
+  "nim_id": "33974",
+  "transposes_celex": [
+    "31997L0043"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/18c36e19-146e-4335-9656-5b674e2e51cb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
