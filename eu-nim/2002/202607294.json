@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos įstatymas Nr. IX-884 (suvestinė redakcija nuo 2026-06-01 iki 2026-12-31)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "56-2224",
+  "official_journal_page": null,
+  "official_journal_date": "2002-06-17",
+  "entry_into_force": "2002-07-01",
+  "notification_date": "2026-09-17",
+  "commission_reference": "MNE(2026)07294",
+  "nim_celex": "72024L1275LTU_202607294",
+  "nim_id": "202607294",
+  "transposes_celex": [
+    "32024L1275"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/69d9c3ee-7b6f-4bc4-86cd-6a3b601b29e7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
