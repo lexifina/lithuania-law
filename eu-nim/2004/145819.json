@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos draudimo priežiūros komisijos 2004 m. balandžio 23 d. nutarimas Nr. N-47 \"Dėl standartinių transporto priemonių valdytojų civilinės atskomybės privalomojo draudimo sutarties sąlygų patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "63",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-28",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2007-06-11",
+  "commission_reference": "MNE(2007)54546",
+  "nim_celex": "72005L0014LTU_145819",
+  "nim_id": "145819",
+  "transposes_celex": [
+    "32005L0014"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/94d3289a-c885-4a4e-a23b-e4c3012d7584",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
