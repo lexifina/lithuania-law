@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2004 m. rugpjūčio 19 d. nutarimas Nr. 1029 „Dėl Lietuvos Respublikos ryšių reguliavimo tarnybos nuostatų patvirtinimo“ (suvestinė redakcija nuo 2019 m. balandžio 9 d.)",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "131-4734",
+  "official_journal_page": null,
+  "official_journal_date": "2004-08-24",
+  "entry_into_force": "2004-08-25",
+  "notification_date": "2021-12-02",
+  "commission_reference": "MNE(2021)07977",
+  "nim_celex": "72018L1972LTU_202107977",
+  "nim_id": "202107977",
+  "transposes_celex": [
+    "32018L1972"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9de41c51-5428-11ec-91ac-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
