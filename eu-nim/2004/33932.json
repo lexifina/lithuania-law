@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2004 M. RUGSĖJO 22 D. ĮSAKYMAS NR. D1-495 \"DĖL APLINKOS MINISTRO 2003 M. SAUSIO 7 D. ĮSAKYMO NR. 5 „DĖL NE KELIAIS JUDANČIŲ MECHANIZMŲ VIDAUS DEGIMO VARIKLIŲ TIPO PATVIRTINIMO IR TERŠALŲ IŠMETIMO RIBOJIMO TVARKOS PATVIRTINIMO“ PAKEITIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "183",
+  "official_journal_page": null,
+  "official_journal_date": "2004-12-22",
+  "entry_into_force": "2004-12-23",
+  "notification_date": "2005-01-03",
+  "commission_reference": "MNE(2005)53932",
+  "nim_celex": "72002L0088LTU_33932",
+  "nim_id": "33932",
+  "transposes_celex": [
+    "32002L0088"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9e22335a-4a3c-4bcd-b0bf-7e40e77f1915",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
