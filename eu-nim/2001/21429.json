@@ -1,0 +1,25 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Buhalterinės apskaitos įstatymas Nr. IX-574",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "99",
+  "official_journal_page": null,
+  "official_journal_date": "2001-11-28",
+  "entry_into_force": null,
+  "notification_date": "2004-03-16",
+  "commission_reference": "MNE(2003)51429",
+  "nim_celex": "71978L0660LTU_21429",
+  "nim_id": "21429",
+  "transposes_celex": [
+    "31978L0660",
+    "31990L0605",
+    "32003L0051",
+    "32013L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2f21f87f-f07e-4563-a7ff-80e0c799a8b1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
