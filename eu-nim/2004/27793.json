@@ -1,0 +1,32 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos finansų ministro 2004 m. balandžio 14 d. įsakymas Nr. 1K-124 „Dėl Lietuvos Respublikoje sumokėto importo PVM už atgabentas iš trečiųjų valstybių ar trečiųjų teritorijų  prekes, kurių gabenimas baigiasi kitoje valstybėje narėje, grąžinimo juridiniams asmenims, kurie nėra apmokestinamieji asmenys, taisyklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "58",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-21",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2004-05-12",
+  "commission_reference": "MNE(2004)57793",
+  "nim_celex": "71977L0388LTU_27793",
+  "nim_id": "27793",
+  "transposes_celex": [
+    "31977L0388",
+    "31991L0680",
+    "31992L0111",
+    "31994L0076",
+    "31995L0007",
+    "31996L0042",
+    "31996L0095",
+    "31999L0059",
+    "31999L0085",
+    "32000L0065",
+    "32001L0004"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/52d3dc1e-842d-40c1-b6e5-73181af2b5bb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
