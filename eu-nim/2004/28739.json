@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės nutarimas Nr. 522 \"Dėl Lietuvos Respublikos Vyriausybės 2002 m. gegužės 30 d. nutarimo Nr. 792 \"Dėl Atsargų laivams ir orlaiviams tiekimo tvarkos patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "69",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-30",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2004-06-07",
+  "commission_reference": "MNE(2004)58739",
+  "nim_celex": "71977L0388LTU_28739",
+  "nim_id": "28739",
+  "transposes_celex": [
+    "31977L0388"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5ea3ad93-7a24-48c1-9485-4bf86dc67d87",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
