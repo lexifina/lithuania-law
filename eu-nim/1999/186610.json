@@ -1,0 +1,20 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos statistikos įstatymas Nr. VIII-1511",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "114",
+  "official_journal_page": null,
+  "official_journal_date": "1999-12-31",
+  "entry_into_force": "1999-12-31",
+  "notification_date": "2011-09-27",
+  "commission_reference": "MNE(2011)56964",
+  "nim_celex": "72008L0092LTU_186610",
+  "nim_id": "186610",
+  "transposes_celex": [],
+  "cellar": "http://publications.europa.eu/resource/cellar/43b2e532-9367-4a4c-ae1c-ff1c3eff1635",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
