@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro, Lietuvos Respublikos aplinkos ministro ir Lietuvos Respublikos žemės ūkio ministro 2004 m. spalio 12 d. įsakymas Nr. V-702/D1-535/3D-558 \"Dėl Lietuvos Respublikos sveikatos apsaugos ministro, Lietuvos Respublikos aplinkos ministro ir Lietuvos Respublikos žemės ūkio ministro 2001 m. lapkričio 23 d. įsakymas Nr. 612/564/411\"Dėl geros laboratorinės praktikos principų bei geros laboratorinės praktikos principų laikymosi kontrolės ir įvertinimo tvarkos patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "152",
+  "official_journal_page": null,
+  "official_journal_date": "2004-10-16",
+  "entry_into_force": "2004-10-17",
+  "notification_date": "2004-11-19",
+  "commission_reference": "MNE(2004)52000",
+  "nim_celex": "72004L0009LTU_32000",
+  "nim_id": "32000",
+  "transposes_celex": [
+    "32004L0009"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1179c8a2-2c81-4e55-a884-08c44f510307",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
