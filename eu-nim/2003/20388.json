@@ -1,0 +1,28 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos švietimo įstatymo pakeitimo ĮSTATYMAS Nr. IX-1630",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "63",
+  "official_journal_page": null,
+  "official_journal_date": "2003-06-28",
+  "entry_into_force": "2003-06-28",
+  "notification_date": "2004-01-16",
+  "commission_reference": "MNE(2003)50388",
+  "nim_celex": "71977L0452LTU_20388",
+  "nim_id": "20388",
+  "transposes_celex": [
+    "31977L0452",
+    "31977L0486",
+    "31989L0048",
+    "32003L0086",
+    "32003L0109",
+    "32004L0038",
+    "32004L0081"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/27ce0168-b6df-487d-8fad-a89b772a7ede",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
