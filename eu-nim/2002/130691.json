@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO IR\nVALSTYBINĖS MAISTO IR VETERINARIJOS TARNYBOS DIREKTORIAUS 2002 M. SPALIO 2 D. ĮSAKYMAS NR. 519/449 \"DĖL LAUKINIŲ GYVŪNŲ LAIKYMO NELAISVĖJE TAISYKLIŲ PATVIRTINIMO IR LIETUVOS RESPUBLIKOS APLINKOS MINISTRO IR VALSTYBINĖS MAISTO IR VETERINARIJOS TARNYBOS DIREKTORIAUS 2002 M. GEGUŽĖS 16 D. ĮSAKYMO NR. 250/224 PAKEITIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "100",
+  "official_journal_page": null,
+  "official_journal_date": "2002-10-18",
+  "entry_into_force": "2002-10-19",
+  "notification_date": "2006-04-26",
+  "commission_reference": "MNE(2006)52636",
+  "nim_celex": "71979L0409LTU_130691",
+  "nim_id": "130691",
+  "transposes_celex": [
+    "31979L0409"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c0df0eba-1e4d-4c1c-a84f-144c955f8c8a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
