@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos draudimo priežiūros komisijos 2004 m. birželio 1 d. nutarimas Nr. N-77 „Dėl informacijos pateikimo draudėjui“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "90",
+  "official_journal_page": null,
+  "official_journal_date": "2004-06-08",
+  "entry_into_force": "2004-06-09",
+  "notification_date": "2007-01-03",
+  "commission_reference": "MNE(2007)50042",
+  "nim_celex": "71992L0049LTU_139801",
+  "nim_id": "139801",
+  "transposes_celex": [
+    "31992L0049"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8a0b4889-3806-440c-96e2-67ea06b1253e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
