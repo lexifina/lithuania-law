@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2004 M. GRUODŽIO 27 D. ĮSAKYMAS NR. D1-686 \"DĖL NACIONALINIO APYVARTINIŲ TARŠOS LEIDIMŲ PASKIRSTYMO 2005–2007 METAMS PLANO PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "6",
+  "official_journal_page": null,
+  "official_journal_date": "2005-01-15",
+  "entry_into_force": "2005-01-16",
+  "notification_date": "2005-10-27",
+  "commission_reference": "MNE(2005)55307",
+  "nim_celex": "72003L0087LTU_125307",
+  "nim_id": "125307",
+  "transposes_celex": [
+    "32003L0087"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b6147101-520a-40a2-85db-6ad08b1e8dcb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
