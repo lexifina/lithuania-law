@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2005 m. vasario 4 d. įsakymas Nr.  V-84 ,,Dėl kraujo donorų sveikatos tikrinimo tvarkos aprašo, privalomųjų tyrimų sąrašo, reikiamų sveikatos rodiklių ir kraujo donorų apklausos anketos patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "18-588",
+  "official_journal_page": null,
+  "official_journal_date": "2005-02-08",
+  "entry_into_force": "2005-02-09",
+  "notification_date": "2005-03-14",
+  "commission_reference": "MNE(2005)55645",
+  "nim_celex": "72002L0098LTU_35645",
+  "nim_id": "35645",
+  "transposes_celex": [
+    "32002L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/83922e25-8c20-4c44-9751-53418bdcc4c6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
