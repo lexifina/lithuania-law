@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 1993-12-29 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/6fe3aa2fd0ebec8fa3ba0cb4255cdd87ce3848ab/istatymai/TAR.12977CB93B03.md) |
+| 1997-10-30 | 1998-12-31 | Įstatymas Nr. VIII-473 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/be89439c2219777fedee6a73cf8a72f8650f38fb/istatymai/TAR.12977CB93B03.md) |
