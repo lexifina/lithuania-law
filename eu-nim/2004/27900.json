@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos statybos įstatymo 1, 2, 8, 9, 10, 12, 13, 14, 15, 16, 17, 18, 29 straipsnių pakeitimo ir papildymo bei Įstatymo priedo papildymo įstatymas Nr. IX-2215",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "73",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-30",
+  "entry_into_force": "2004-04-30",
+  "notification_date": "2004-05-24",
+  "commission_reference": "MNE(2004)57900",
+  "nim_celex": "71985L0384LTU_27900",
+  "nim_id": "27900",
+  "transposes_celex": [
+    "31985L0384",
+    "31989L0106",
+    "32006L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9693924f-787f-4d10-9821-9a363e3b80ac",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
