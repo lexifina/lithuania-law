@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO IR LIETUVOS RESPUBLIKOS ŪKIO MINISTRO 2004 M. GRUODŽIO 27 D. NR. D1-687/4-465 ĮSAKYMAS \"DĖL 2002 M. GRUODŽIO 16 D. EUROPOS PARLAMENTO IR TARYBOS DIREKTYVOS 2002/91/EB DĖL PASTATŲ ENERGINIO NAUDINGUMO ĮGYVENDINIMO LIETUVOJE PRIEMONIŲ IR JŲ VYKDYMO TERMINŲ PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "4",
+  "official_journal_page": null,
+  "official_journal_date": "2005-01-11",
+  "entry_into_force": "2005-01-12",
+  "notification_date": "2005-03-04",
+  "commission_reference": "MNE(2005)55765",
+  "nim_celex": "72002L0091LTU_35765",
+  "nim_id": "35765",
+  "transposes_celex": [
+    "32002L0091"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/966923f7-5dfe-4672-b84a-c13b965f0846",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
