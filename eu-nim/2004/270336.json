@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2004 m. sausio 9 d. nutarimas Nr. 21 „Dėl Europos Sąjungos reikalų koordinavimo“ (suvestinė redakcija)",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "8-184",
+  "official_journal_page": null,
+  "official_journal_date": "2004-01-15",
+  "entry_into_force": "2004-01-16",
+  "notification_date": "2019-03-08",
+  "commission_reference": "MNE(2019)51456",
+  "nim_celex": "72014L0042LTU_270336",
+  "nim_id": "270336",
+  "transposes_celex": [
+    "32014L0042"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/91c0cc1d-f8e5-47f1-8d11-296073933ddc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
