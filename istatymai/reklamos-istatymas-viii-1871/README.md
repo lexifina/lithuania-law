@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2001-01-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/2035b5c135b756f4a760b0e2922ab4911ea88bf6/istatymai/TAR.303FC0152D04.md) |
+| 2002-12-24 | 2006-10-05 | Įstatymas Nr. IX-1212 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/cb0115928ed973ce62858463b0d980e0942fa635/istatymai/TAR.303FC0152D04.md) |
