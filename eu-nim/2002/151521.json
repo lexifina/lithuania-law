@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių teisės pažeidimų kodekso 142(2), 142(4), 153, 165(2), 224, 259(1), 268, 320 straipsnių pakeitimo ir papildymo bei kodekso papildymo 152(1), 152(2), 153(5), 153(6), 153(7), 153(8), 153(9), 246 straipsniais ĮSTATYMAS Nr. IX-707",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "13",
+  "official_journal_page": null,
+  "official_journal_date": "2002-02-06",
+  "entry_into_force": "2002-02-06",
+  "notification_date": "2007-12-10",
+  "commission_reference": "MNE(2007)58709",
+  "nim_celex": "72006L0022LTU_151521",
+  "nim_id": "151521",
+  "transposes_celex": [
+    "32006L0022"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3ce970ff-4799-4b95-a0be-a1647d70ed86",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
