@@ -1,0 +1,3 @@
+LIETUVOS RESPUBLIKOS ARCHYVŲ ĮSTATYMAS
+1995 m. gruodžio 5 d. Nr. I-1115
+Vilnius
