@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2004 m. gruodžio 24 d. nutarimas Nr. 1668 „Dėl geležinkelių transporto objektų ir jų sudedamųjų dalių atitikties įvertinimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "187-6979",
+  "official_journal_page": null,
+  "official_journal_date": "2004-12-29",
+  "entry_into_force": "2004-12-30",
+  "notification_date": "2021-02-01",
+  "commission_reference": "MNE(2021)00315",
+  "nim_celex": "72016L0797LTU_202100315",
+  "nim_id": "202100315",
+  "transposes_celex": [
+    "32016L0797"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/297c1635-3d69-4664-be1d-4cbdb99fb19b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
