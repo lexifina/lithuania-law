@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 1999 m. gruodžio 27 d. įsakymas Nr. 420 „Dėl reglamento STR 2.01.01(3):1999 „Esminiai statinio reikalavimai. Higiena, sveikata, aplinkos apsauga“ patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "8-215",
+  "official_journal_page": null,
+  "official_journal_date": "2000-01-27",
+  "entry_into_force": "2000-02-01",
+  "notification_date": "2018-12-10",
+  "commission_reference": "MNE(2018)56530",
+  "nim_celex": "72013L0059LTU_265723",
+  "nim_id": "265723",
+  "transposes_celex": [
+    "32013L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/27d7b7f1-46db-46ba-85af-a29a5f4810d0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
