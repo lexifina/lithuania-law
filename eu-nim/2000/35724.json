@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Ūkio ministro ir Aplinkos ministro 2000 m. birželio 1 d. įsakymas Nr. 203/219 „Dėl sritinių norminių dokumentų „Dujų sistema. Skirstomieji plieniniai dujotiekiai. Projektavimas ir statyba. Taisyklės“ ir „Dujų sistema. Skirstomieji polietileniniai dujotiekiai. Medžiagos, projektavimas, statyba ir remontas. Taisyklės“ patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "51",
+  "official_journal_page": null,
+  "official_journal_date": "2000-06-23",
+  "entry_into_force": "2000-06-24",
+  "notification_date": "2005-03-01",
+  "commission_reference": "MNE(2005)55724",
+  "nim_celex": "72003L0055LTU_35724",
+  "nim_id": "35724",
+  "transposes_celex": [
+    "32003L0055"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e2412221-6628-4238-9864-a2d1ded2942e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
