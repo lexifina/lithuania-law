@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės nutarimas Nr. 709 \"Dėl Saugomų teritorijų strateginio planavimo dokumentų rengimo ir tvirtinimo tvarkos aprašo patvirtinimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "93",
+  "official_journal_page": null,
+  "official_journal_date": "2004-06-12",
+  "entry_into_force": "2004-06-13",
+  "notification_date": "2004-06-17",
+  "commission_reference": "MNE(2004)59123",
+  "nim_celex": "71979L0409LTU_29123",
+  "nim_id": "29123",
+  "transposes_celex": [
+    "31979L0409",
+    "31992L0043"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9083e7c6-20ef-4736-a4b6-efad172b9769",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
