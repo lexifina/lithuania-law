@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymas Nr. VIII-840",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "66",
+  "official_journal_page": null,
+  "official_journal_date": "1998-07-24",
+  "entry_into_force": "2003-01-01",
+  "notification_date": "2005-05-12",
+  "commission_reference": "MNE(2005)50709",
+  "nim_celex": "71973L0148LTU_120709",
+  "nim_id": "120709",
+  "transposes_celex": [
+    "31973L0148",
+    "32001L0055",
+    "32004L0038"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/eef30ec4-2954-4189-8687-c956e7d3f5d9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
