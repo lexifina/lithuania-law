@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymas Nr. I-2044 (suvestinė redakcija  nuo 2017-10-01 iki 2018-09-30)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "249",
+  "official_journal_page": null,
+  "official_journal_date": "1991-12-13",
+  "entry_into_force": "1991-12-15",
+  "notification_date": "2018-09-11",
+  "commission_reference": "MNE(2018)54959",
+  "nim_celex": "72016L0801LTU_262988",
+  "nim_id": "262988",
+  "transposes_celex": [
+    "32016L0801"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/524f7083-21a0-4d5c-bf50-ff41dda8ff41",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
