@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro 2004 m. rugsėjo 29 d. įsakymas Nr. 4-354 „Dėl ūkio ministro 1999 m. gruodžio 29 d. įsakymo Nr. 440 „Dėl tekstilės pavadinimų techninio reglamento ir tekstilės pluoštų mišinių kiekybinės analizės techninio reglamento patvirtinimo“ pakeitimo ir papildymo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "147",
+  "official_journal_page": null,
+  "official_journal_date": "2004-10-05",
+  "entry_into_force": "2004-10-06",
+  "notification_date": "2004-11-10",
+  "commission_reference": "MNE(2004)52455",
+  "nim_celex": "72004L0034LTU_32455",
+  "nim_id": "32455",
+  "transposes_celex": [
+    "32004L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5900d319-5125-4aff-a5bf-17748c9cec1f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
