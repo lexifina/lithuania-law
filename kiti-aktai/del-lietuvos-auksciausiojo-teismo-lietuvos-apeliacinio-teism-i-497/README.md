@@ -10,3 +10,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | --- | --- | --- | --- |
 | 1994-07-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/5e08fd21be6e3e2ee7333b6a7b06c51bff967c18/istatymai/TAR.CCA48EFA01D1.md) |
 | 1994-11-18 | 1994-12-13 | Aktas Nr. I-634 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/e5e40c10923fa0fa6a67cbb537bec4981939a0ae/istatymai/TAR.CCA48EFA01D1.md) |
+| 1994-12-14 | 1994-12-29 | Aktas Nr. I-688 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/7d669b7359656a58491c6eb0decbaba7436d5e58/istatymai/TAR.CCA48EFA01D1.md) |
