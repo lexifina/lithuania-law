@@ -1,0 +1,26 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo kodekso 139, 140, 176, 180, 181, 190, 201, 212, 249, 281 straipsnių pakeitimo ir papildymo įstatymas Nr. IX-1706",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "74",
+  "official_journal_page": null,
+  "official_journal_date": "2003-07-25",
+  "entry_into_force": "2003-07-25",
+  "notification_date": "2007-10-01",
+  "commission_reference": "MNE(2007)57045",
+  "nim_celex": "72002F0475LTU_149239",
+  "nim_id": "149239",
+  "transposes_celex": [
+    "32002F0475",
+    "32004L0023",
+    "32005F0222",
+    "32008F0841",
+    "32008F0919"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ed7b491b-0af5-4ed5-97e1-4905b555bca6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
