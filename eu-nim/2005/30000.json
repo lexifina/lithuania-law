@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS LYGIŲ GALIMYBIŲ ĮSTATYMAS Nr. IX-1826",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "114",
+  "official_journal_page": null,
+  "official_journal_date": "2003-12-05",
+  "entry_into_force": "2005-01-01",
+  "notification_date": "2004-07-20",
+  "commission_reference": "MNE(2004)50000",
+  "nim_celex": "72000L0078LTU_30000",
+  "nim_id": "30000",
+  "transposes_celex": [
+    "32000L0078"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/25e319d4-a6e0-4ccc-90dc-de68c6db621a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
