@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2000-07-31 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/a18f150f8e2245b7b082fa185c413cc3a8720c4b/istatymai/TAR.1881C195D0E2.md) |
+| 2002-07-17 | 2012-12-31 | Įstatymas Nr. IX-1019 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/a2fd21253c47ec11e6af53ba813891903899a3d3/istatymai/TAR.1881C195D0E2.md) |
