@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2000 m. birželio 28 d. nutarimas Nr. 745 „Dėl Valstybinės ne maisto produktų inspekcijos prie Ūkio ministerijos nuostatų patvirtinimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "53",
+  "official_journal_page": null,
+  "official_journal_date": "2000-06-30",
+  "entry_into_force": "2000-07-01",
+  "notification_date": "2008-04-03",
+  "commission_reference": "MNE(2008)52150",
+  "nim_celex": "72006L0042LTU_154926",
+  "nim_id": "154926",
+  "transposes_celex": [
+    "32006L0042"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cb874d5f-9e16-4f19-a18c-b47ba4509aad",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
