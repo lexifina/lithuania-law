@@ -1,0 +1,27 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro ir Lietuvos Respublikos aplinkos ministro 2000 m. gruodžio 29 d. įsakymas Nr. 762/556 \"Dėl Cheminių medžiagų ir preparatų, galinčių sukelti pavojų žmogaus sveikatai ir aplinkai, savybių tyrimo tvarkos\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "3",
+  "official_journal_page": null,
+  "official_journal_date": "2001-01-10",
+  "entry_into_force": "2001-01-11",
+  "notification_date": "2004-08-12",
+  "commission_reference": "MNE(2004)50431",
+  "nim_celex": "71992L0069LTU_30431",
+  "nim_id": "30431",
+  "transposes_celex": [
+    "31992L0069",
+    "31996L0054",
+    "31998L0073",
+    "32000L0032",
+    "32000L0033",
+    "32001L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0772cbc5-a575-43ef-ae4d-04090ec39766",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
