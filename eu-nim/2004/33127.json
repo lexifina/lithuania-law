@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vertybinių popierių komisijos 2004 m. birželio 10 d. nutarimas Nr. 8\n„Dėl Lietuvos Respublikos vertybinių popierių komisijos 1998 m. lapkričio 13 d. nutarimo Nr. 33 „Dėl Pranešimų tvarkos apie emitento vadovų, savo vardu sudariusių sandorius dėl emitento, kurio vadovais jie yra, vertybinių popierių\" pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "97",
+  "official_journal_page": null,
+  "official_journal_date": "2004-06-22",
+  "entry_into_force": "2004-06-23",
+  "notification_date": "2005-01-07",
+  "commission_reference": "MNE(2004)53127",
+  "nim_celex": "72004L0072LTU_33127",
+  "nim_id": "33127",
+  "transposes_celex": [
+    "32004L0072"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/73a08721-2fea-40a4-a373-0c1c59f373d9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
