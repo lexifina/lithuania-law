@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2004 m. gegužės 24 d. įsakymas Nr. 3D-317 „Dėl žemės ūkio ministro 2000 m. gruodžio 29 d. įsakymo Nr. 382 „Dėl Privalomųjų pašarinių augalų sėklos kokybės reikalavimų\" pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "88-3240",
+  "official_journal_page": null,
+  "official_journal_date": "2004-06-02",
+  "entry_into_force": "2004-06-03",
+  "notification_date": "2021-02-04",
+  "commission_reference": "MNE(2021)00637",
+  "nim_celex": "71987L0480LTU_202100637",
+  "nim_id": "202100637",
+  "transposes_celex": [
+    "31987L0480"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/acde62df-7de9-4e95-9ae6-d7219ee7773c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
