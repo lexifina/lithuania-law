@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymas Nr. I-1340 (Suvestinė redakcija nuo 2018-05-01 iki 2019-12-31)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "53-1245",
+  "official_journal_page": null,
+  "official_journal_date": "1996-06-05",
+  "entry_into_force": "1996-06-05",
+  "notification_date": "2019-12-20",
+  "commission_reference": "MNE(2019)57264",
+  "nim_celex": "72017L2108LTU_279618",
+  "nim_id": "279618",
+  "transposes_celex": [
+    "32017L2108",
+    "32017L2109"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3fb218bc-3073-11ea-af81-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
