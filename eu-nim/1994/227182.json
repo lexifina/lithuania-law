@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos statybos ir urbanistikos ministerijos 1994 m. birželio 21 d. įsakymas Nr. 138 „Dėl Respublikinių statybos normų RSN 157-94 patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "49",
+  "official_journal_page": null,
+  "official_journal_date": "1994-06-29",
+  "entry_into_force": "1994-06-30",
+  "notification_date": "2015-06-25",
+  "commission_reference": "MNE(2015)54164",
+  "nim_celex": "72012L0018LTU_227182",
+  "nim_id": "227182",
+  "transposes_celex": [
+    "32012L0018"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/79a9e258-6267-4c6f-a548-e8ce633fe528",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
