@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Rerspublikos atliekų tvarkymo įstatymas Nr. VIII-787 (Suvestinė redakcija nuo 2020-07-01 iki 2020-10-31)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "61-1726",
+  "official_journal_page": null,
+  "official_journal_date": "1998-07-08",
+  "entry_into_force": "1998-07-01",
+  "notification_date": "2020-09-16",
+  "commission_reference": "MNE(2020)56755",
+  "nim_celex": "72018L0849LTU_288415",
+  "nim_id": "288415",
+  "transposes_celex": [
+    "32018L0849"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/db286a5f-fbdb-11ea-b44f-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
