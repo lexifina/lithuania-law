@@ -1,0 +1,28 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Viešųjų pirkimų tarnybos prie Lietuvos Respublikos Vyriausybės direktoriaus 2004 m. birželio 7 d. įsakymas Nr. 1S-31 „Dėl Viešųjų pirkimų tarnybos  direktoriaus 2004 m. sausio 30 d. įsakymo Nr. 1S-2 „Dėl reikalavimų skelbiamai viešųjų pirkimų informacijai ir viešųjų pirkimų skelbimų tipinių formų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "92",
+  "official_journal_page": null,
+  "official_journal_date": "2004-06-10",
+  "entry_into_force": "2004-06-11",
+  "notification_date": "2004-11-13",
+  "commission_reference": "MNE(2004)52610",
+  "nim_celex": "71992L0050LTU_32610",
+  "nim_id": "32610",
+  "transposes_celex": [
+    "31992L0050",
+    "31993L0036",
+    "31993L0037",
+    "31993L0038",
+    "31997L0052",
+    "31998L0004",
+    "32001L0078"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/56207de2-002d-4684-9a4e-bc36dab3e0a3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
