@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2003 m. kovo 10 d. nutarimas Nr. 299 \"Dėl Angliavandenilių išteklių naudojimo konkurso nuostatų patvirtinimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "26",
+  "official_journal_page": null,
+  "official_journal_date": "2003-03-14",
+  "entry_into_force": "2004-03-15",
+  "notification_date": "2004-09-20",
+  "commission_reference": "MNE(2004)51051",
+  "nim_celex": "71994L0022LTU_31051",
+  "nim_id": "31051",
+  "transposes_celex": [
+    "31994L0022"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b390f119-f271-4dd7-a95b-b61b84d1c211",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
