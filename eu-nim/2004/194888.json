@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos įstatymas „Dėl užsieniečių teisinės padėties“ Nr. IX-2206",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "73",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-30",
+  "entry_into_force": "2004-04-30",
+  "notification_date": "2012-08-08",
+  "commission_reference": "MNE(2012)53707",
+  "nim_celex": "72009L0052LTU_194888",
+  "nim_id": "194888",
+  "transposes_celex": [
+    "32009L0052"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ec051d4b-7b8f-4859-a21a-653751256c29",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
