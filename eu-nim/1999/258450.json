@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos valstybės tarnybos įstatymas Nr. VIII-1316 (Suvestinė redakcija nuo 2018-01-01 iki 2018-05-31)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "66-2130",
+  "official_journal_page": null,
+  "official_journal_date": "1999-07-30",
+  "entry_into_force": "1999-07-30",
+  "notification_date": "2018-05-10",
+  "commission_reference": "MNE(2018)52272",
+  "nim_celex": "72016L0680LTU_258450",
+  "nim_id": "258450",
+  "transposes_celex": [
+    "32016L0680"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/73a83254-0b3f-4709-b77d-9d3eb27dae76",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
