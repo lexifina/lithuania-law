@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos valstybinės maisto ir veterinarijos tarnybos direktoriaus 2004 m. kovo 16 d. įsakymas Nr. B1-208",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "44",
+  "official_journal_page": null,
+  "official_journal_date": "2004-03-25",
+  "entry_into_force": "2004-03-26",
+  "notification_date": "2004-07-19",
+  "commission_reference": "MNE(2004)59233",
+  "nim_celex": "71991L0068LTU_29233",
+  "nim_id": "29233",
+  "transposes_celex": [
+    "31991L0068",
+    "32001L0010",
+    "32003L0050"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0c041f54-5d7e-4588-8f88-124849ddd46b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
