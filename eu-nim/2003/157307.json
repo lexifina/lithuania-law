@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos įstatymo „Dėl Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos“ pakeitimo įstatymas Nr. IX-1270",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "124",
+  "official_journal_page": null,
+  "official_journal_date": "2002-12-27",
+  "entry_into_force": "2003-01-01",
+  "notification_date": "2008-07-28",
+  "commission_reference": "MNE(2008)54375",
+  "nim_celex": "72006L0054LTU_157307",
+  "nim_id": "157307",
+  "transposes_celex": [
+    "32006L0054"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f8b0f773-c281-424c-8898-1bb81b38d56e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
