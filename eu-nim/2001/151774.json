@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos biomedicininių tyrimų etikos įstatymas Nr. VIII-1679",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "44",
+  "official_journal_page": null,
+  "official_journal_date": "2000-05-31",
+  "entry_into_force": "2001-01-01",
+  "notification_date": "2007-12-14",
+  "commission_reference": "MNE(2007)58951",
+  "nim_celex": "72001L0020LTU_151774",
+  "nim_id": "151774",
+  "transposes_celex": [
+    "32001L0020"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fa2c83b8-d62f-475d-b9f1-237f4ea8ee1a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
