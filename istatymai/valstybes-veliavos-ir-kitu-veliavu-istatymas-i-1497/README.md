@@ -12,3 +12,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 1994-02-25 | 1996-04-11 | Įstatymas Nr. I-397 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/f40fe5866bd226c538da6ae9838d3dcbe0e49ec4/istatymai/TAR.07CAE5E6C2B3.md) |
 | 1996-04-12 | 1997-05-13 | Įstatymas Nr. I-1229 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/361634c8db32349246fad454e618f39e5d394d10/istatymai/TAR.07CAE5E6C2B3.md) |
 | 1997-05-14 | 1997-07-08 | Įstatymas Nr. VIII-208 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/84617d4a4886f30970ebd494d6314584cf931489/istatymai/TAR.07CAE5E6C2B3.md) |
+| 1997-07-09 | 2002-04-29 | Įstatymas Nr. VIII-307 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/b498a2ce2d9ace52feeeb26fa4173449046f8b38/istatymai/TAR.07CAE5E6C2B3.md) |
