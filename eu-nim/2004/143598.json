@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS ĮSTATYMAS DĖL 1976 M. TARPTAUTINĖS KONVENCIJOS DĖL ATSAKOMYBĖS PAGAL JŪRINIUS REIKALAVIMUS RIBOJIMO RATIFIKAVIMO NR. IX-1897",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "36",
+  "official_journal_page": null,
+  "official_journal_date": "2004-03-07",
+  "entry_into_force": "2004-03-07",
+  "notification_date": "2007-04-04",
+  "commission_reference": "MNE(2007)52937",
+  "nim_celex": "72004L0035LTU_143598",
+  "nim_id": "143598",
+  "transposes_celex": [
+    "32004L0035"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f731045c-8b3e-462f-8a8f-8cc0e3514da1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
