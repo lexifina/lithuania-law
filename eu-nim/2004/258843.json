@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos elektroninių ryšių įstatymas Nr. IX-2135 (Suvestinė redakcija nuo 2018-01-01)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "69-2382",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-30",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2018-05-22",
+  "commission_reference": "MNE(2018)52503",
+  "nim_celex": "72016L1148LTU_258843",
+  "nim_id": "258843",
+  "transposes_celex": [
+    "32016L1148"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/53c3c750-5ba3-44f3-b246-950da49774c5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
