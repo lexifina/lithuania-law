@@ -1,0 +1,25 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos produktų saugos įstatymo 1, 3, 4, 7, 8, 9, 10, 11, 13, 14, 15, 16, 17, 19, 21, 23, 24, 25 straipsnių, ketvirtojo skirsnio pavadinimo pakeitimo bei įstatymo papildymo priedu įstatymas Nr.IX-1988",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "25",
+  "official_journal_page": null,
+  "official_journal_date": "2004-02-14",
+  "entry_into_force": "2004-02-14",
+  "notification_date": "2008-04-03",
+  "commission_reference": "MNE(2008)52153",
+  "nim_celex": "72006L0042LTU_154929",
+  "nim_id": "154929",
+  "transposes_celex": [
+    "32006L0042",
+    "32009L0048",
+    "32010L0040",
+    "32014L0028"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cd3d821e-08c1-4dd1-84b3-b30f33ad679c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
