@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos akcinių bendrovių įstatymo pakeitimo įstatymas Nr. IX-1889",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "123",
+  "official_journal_page": null,
+  "official_journal_date": "2003-12-30",
+  "entry_into_force": "2004-01-01",
+  "notification_date": "2017-01-13",
+  "commission_reference": "MNE(2017)50354",
+  "nim_celex": "72012L0034LTU_244272",
+  "nim_id": "244272",
+  "transposes_celex": [
+    "32012L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/03054bc0-7c68-4a89-96dc-c6cf203755b9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
