@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos draudimo priežiūros komisijos nutarimas Nr. N-31 „Dėl Priklausomų draudimo tarpininkų sąrašo tvarkymo tvarkos patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "42",
+  "official_journal_page": null,
+  "official_journal_date": "2004-03-19",
+  "entry_into_force": "2004-07-01",
+  "notification_date": "2004-06-07",
+  "commission_reference": "MNE(2004)58685",
+  "nim_celex": "72002L0092LTU_28685",
+  "nim_id": "28685",
+  "transposes_celex": [
+    "32002L0092"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8ed36379-2b57-4f4d-803e-3d84155fdeee",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
