@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos mokesčių administravimo įstatymas Nr. IX-2112 (suvestinė redakcija nuo 2023-05-24 iki 2023-12-31)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "63-2243/2004",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-28",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2025-12-31",
+  "commission_reference": "MNE(2025)07465",
+  "nim_celex": "72023L2226LTU_202507465",
+  "nim_id": "202507465",
+  "transposes_celex": [
+    "32023L2226"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0357f188-be60-442a-91ff-1d6ddeabf3a8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
