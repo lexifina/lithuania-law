@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2003 m. lapkričio 12 d.  nutarimas Nr. 1407 „Dėl Juridinių asmenų registro nuostatų patvirtinimo“ (Suvestinė redakcija nuo 2020-01-01)",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "107-4810",
+  "official_journal_page": null,
+  "official_journal_date": "2003-11-13",
+  "entry_into_force": "2004-01-01",
+  "notification_date": "2020-01-09",
+  "commission_reference": "MNE(2020)50260",
+  "nim_celex": "72018L0843LTU_280054",
+  "nim_id": "280054",
+  "transposes_celex": [
+    "32018L0843"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2a1cef63-391f-11ea-ba6e-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
