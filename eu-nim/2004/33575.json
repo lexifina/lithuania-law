@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2004 m. lapkričio 22 d. nutarimas Nr. 1467 „Dėl kelių transporto priemonių vairuotojų vairavimo ir poilsio režimo tikrinimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "170",
+  "official_journal_page": null,
+  "official_journal_date": "2004-11-25",
+  "entry_into_force": "2004-11-26",
+  "notification_date": "2004-12-09",
+  "commission_reference": "MNE(2004)53575",
+  "nim_celex": "71988L0599LTU_33575",
+  "nim_id": "33575",
+  "transposes_celex": [
+    "31988L0599"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/86df6aa6-6c55-465f-a6d1-d08df4aadb6a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
