@@ -1,0 +1,11 @@
+# Preambulė
+(Lietuvos Respublikos piliečių priimta 1992 m. spalio 25 d. referendume)
+LIETUVIŲ TAUTA
+– prieš daugelį amžių sukūrusi Lietuvos valstybę,
+– jos teisinius pamatus grindusi Lietuvos Statutais ir Lietuvos Respublikos Konstitucijomis,
+– šimtmečiais atkakliai gynusi savo laisvę ir nepriklausomybę,
+– išsaugojusi savo dvasią, gimtąją kalbą, raštą ir papročius,
+– įkūnydama prigimtinę žmogaus ir Tautos teisę laisvai gyventi ir kurti savo tėvų ir protėvių žemėje – nepriklausomoje Lietuvos valstybėje,
+– puoselėdama Lietuvos žemėje tautinę santarvę,
+– siekdama atviros, teisingos, darnios pilietinės visuomenės ir teisinės valstybės,
+atgimusios Lietuvos valstybės piliečių valia priima ir skelbia šią KONSTITUCIJĄ
