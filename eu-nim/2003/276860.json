@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos policijos generalinio komisaro  2003 m. birželio 23 d. įsakymas Nr. V-362 „Dėl Fizinių asmenų ginklų ir šaudmenų civilinės apyvartos ir jos kontrolės taisyklių patvirtinimo“ (Suvestinė redakcija nuo 2019-05-01)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "63-2875",
+  "official_journal_page": null,
+  "official_journal_date": "2003-06-28",
+  "entry_into_force": "2003-07-01",
+  "notification_date": "2019-08-29",
+  "commission_reference": "MNE(2019)55192",
+  "nim_celex": "72017L0853LTU_276860",
+  "nim_id": "276860",
+  "transposes_celex": [
+    "32017L0853"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6a9819f2-1e6f-45a6-b275-e8fd2b44feef",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
