@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių teisės pažeidimų kodekso papildymo 214(14), 214(15), 214(16), 214(17) straipsniais ir 224, 259(1) straipsnių papildymo įstatymas Nr.VIII-687",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "40",
+  "official_journal_page": null,
+  "official_journal_date": "1998-04-29",
+  "entry_into_force": "1998-04-29",
+  "notification_date": "2012-11-19",
+  "commission_reference": "MNE(2012)56765",
+  "nim_celex": "72010L0053LTU_198402",
+  "nim_id": "198402",
+  "transposes_celex": [
+    "32010L0053"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6cb4e73c-aecb-4fa5-92db-74c2cd4234af",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
