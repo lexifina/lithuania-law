@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS SEIMO\nNUTARIMAS DĖL MOTERŲ IR VYRŲ LYGIŲ GALIMYBIŲ KONTROLIERIAUS TARNYBOS PAVADINIMO PAKEITIMO IR LYGIŲ GALIMYBIŲ KONTROLIERIAUS TARNYBOS NUOSTATŲ PATVIRTINIMO NR. IX-1827",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "111",
+  "official_journal_page": null,
+  "official_journal_date": "2003-11-26",
+  "entry_into_force": "2003-11-27",
+  "notification_date": "2005-08-02",
+  "commission_reference": "MNE(2005)53080",
+  "nim_celex": "72002L0073LTU_123080",
+  "nim_id": "123080",
+  "transposes_celex": [
+    "32002L0073"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8d67911b-36d9-4a6b-907f-9de5ede91a85",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
