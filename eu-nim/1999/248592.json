@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos čekių įstatymas Nr. VIII-1088",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "30",
+  "official_journal_page": null,
+  "official_journal_date": "1999-04-02",
+  "entry_into_force": "1999-04-02",
+  "notification_date": "2017-06-27",
+  "commission_reference": "MNE(2017)53406",
+  "nim_celex": "72015L0849LTU_248592",
+  "nim_id": "248592",
+  "transposes_celex": [
+    "32015L0849"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/137e68fc-f201-441c-8e0c-9aff0c8738c9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
