@@ -1,0 +1,8 @@
+Įstatymas skelbtas: Žin., 1997, Nr. 66-1610
+Neoficialus įstatymo tekstas
+LIETUVOS RESPUBLIKOS
+ASMENŲ, NUKENTĖJUSIŲ NUO 1939-1990 METŲ OKUPACIJŲ, TEISINIO STATUSO
+ĮSTATYMO ĮGYVENDINIMO
+ĮSTATYMAS
+1997 m. birželio 30 d. Nr. VIII-343
+Vilnius
