@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos mokėjimų įstatymas Nr. VIII-1370  (suvestinė redakcija nuo 2023-06-30 iki 2024-12-29)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "97-2775",
+  "official_journal_page": null,
+  "official_journal_date": "1999-11-17",
+  "entry_into_force": "1999-11-17",
+  "notification_date": "2025-07-08",
+  "commission_reference": "MNE(2025)03944",
+  "nim_celex": "72023L2673LTU_202503944",
+  "nim_id": "202503944",
+  "transposes_celex": [
+    "32023L2673"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a10b185b-f995-4fe0-9dff-653b60911a23",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
