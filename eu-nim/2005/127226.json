@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2004 m. gruodžio 29 d. įsakymas Nr. V-969 ,,Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2000 m. gegužės 25 d. įsakymo Nr. 285 „Dėl Valstybinės radiacinės saugos priežiūros ir kontrolės reglamento tvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "3",
+  "official_journal_page": null,
+  "official_journal_date": "2005-01-08",
+  "entry_into_force": "2005-01-09",
+  "notification_date": "2006-01-11",
+  "commission_reference": "MNE(2006)50162",
+  "nim_celex": "72003L0122LTU_127226",
+  "nim_id": "127226",
+  "transposes_celex": [
+    "32003L0122"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6a40e259-082c-4642-8317-efa717b69060",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
