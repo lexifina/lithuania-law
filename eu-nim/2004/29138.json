@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2004 m. balandžio 26 d. įsakymas Nr. 3D-235 \"Dėl specialiųjų rizikos ir saugos frazių, skirtų augalų apsaugos produktams, taikymo taisyklių\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "70",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-30",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2004-06-18",
+  "commission_reference": "MNE(2004)59138",
+  "nim_celex": "72003L0082LTU_29138",
+  "nim_id": "29138",
+  "transposes_celex": [
+    "32003L0082"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/03a60aaa-7413-46b9-a2f1-b4456164fdd6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
