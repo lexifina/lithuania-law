@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos pašto įstatymo pakeitimo įstatymas Nr. IX-2118",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "60-2125",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-24",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2018-08-06",
+  "commission_reference": "MNE(2018)54253",
+  "nim_celex": "72005L0081LTU_261738",
+  "nim_id": "261738",
+  "transposes_celex": [
+    "32005L0081"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/44ad84a6-5aa5-4433-891e-9d7b01a88c30",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
