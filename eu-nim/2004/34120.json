@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2004 m. gruodžio 29 d. įsakymas Nr. 3D-674 \"Dėl fitosanitarinių sertifikatų ir reeksporto fitosanitarinių sertifikatų patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "186",
+  "official_journal_page": null,
+  "official_journal_date": "2004-12-29",
+  "entry_into_force": "2004-12-30",
+  "notification_date": "2005-01-12",
+  "commission_reference": "MNE(2005)54120",
+  "nim_celex": "72004L0105LTU_34120",
+  "nim_id": "34120",
+  "transposes_celex": [
+    "32004L0105"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/195a7c48-b9c6-42c7-8b25-697419bce56a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
