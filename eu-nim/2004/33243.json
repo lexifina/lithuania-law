@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2004 m. sausio 8 d. įsakymas Nr. 3-06 „Dėl Lietuvos Respublikos jūrų laivų registre įregistruotų laivų valstybinės vėliavos kontrolės Lietuvos Respublikos ir užsienio valstybių jūrų uostuose vykdymo taisyklių patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "18",
+  "official_journal_page": null,
+  "official_journal_date": "2004-02-03",
+  "entry_into_force": "2004-02-04",
+  "notification_date": "2004-11-25",
+  "commission_reference": "MNE(2004)53243",
+  "nim_celex": "71998L0025LTU_33243",
+  "nim_id": "33243",
+  "transposes_celex": [
+    "31998L0025"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f4970244-444e-419e-a995-0357e3a68646",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
