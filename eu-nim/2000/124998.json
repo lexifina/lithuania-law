@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 41(3), 43, 87, 87(2), 87(3), 87(4), 87(5), 87(6), 189, 189(6), 239, 241(1), 259(1) STRAIPSNIŲ PAPILDYMO IR PAKEITIMO ĮSTATYMAS\nNR. VIII-1824",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "64",
+  "official_journal_page": null,
+  "official_journal_date": "2000-07-31",
+  "entry_into_force": "2000-07-31",
+  "notification_date": "2005-10-12",
+  "commission_reference": "MNE(2005)54998",
+  "nim_celex": "72004L0042LTU_124998",
+  "nim_id": "124998",
+  "transposes_celex": [
+    "32004L0042"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9a4750e1-6750-4137-8a13-dd68c71e49e8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
