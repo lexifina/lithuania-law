@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro 2004 m. lapkričio 15 d. įsakymas Nr. 1V-361 ,,Dėl Užsieniečių prašymų suteikti prieglobstį nagrinėjimo, sprendimų priėmimo ir jų vykdymo tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "168",
+  "official_journal_page": null,
+  "official_journal_date": "2004-11-20",
+  "entry_into_force": "2004-11-21",
+  "notification_date": "2005-02-09",
+  "commission_reference": "MNE(2005)54978",
+  "nim_celex": "72003L0009LTU_34978",
+  "nim_id": "34978",
+  "transposes_celex": [
+    "32003L0009",
+    "32005L0085"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b679b84a-db6b-48a1-b1b3-10400808502c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
