@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Civilinės aviacijos administracijos direktoriaus 2004 m. gruodžio 22 d. įsakymas Nr. 4R-226 „Dėl civilinės aviacijos administracijos 2003 m. rugsėjo 16 d. įsakymo Nr. 4R-132 „Dėl orlaivių įgulų, skrydžių vadovų ir technikų/inžinierių licencijavimo taisyklių patvirtinimo“ 552 punkto pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "186",
+  "official_journal_page": null,
+  "official_journal_date": "2004-12-29",
+  "entry_into_force": "2004-12-30",
+  "notification_date": "2005-01-17",
+  "commission_reference": "MNE(2005)54351",
+  "nim_celex": "71991L0670LTU_34351",
+  "nim_id": "34351",
+  "transposes_celex": [
+    "31991L0670"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/25e4c58b-2a5b-4783-8f48-6219040a372d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
