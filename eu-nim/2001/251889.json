@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas Nr. VIII-2043 (suvestinė redakcija nuo 2017-06-10 iki 2017-11-30)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "92",
+  "official_journal_page": null,
+  "official_journal_date": "2000-10-31",
+  "entry_into_force": "2001-01-01",
+  "notification_date": "2017-10-16",
+  "commission_reference": "MNE(2017)55914",
+  "nim_celex": "72014L0046LTU_251889",
+  "nim_id": "251889",
+  "transposes_celex": [
+    "32014L0046"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9ec00723-320e-4266-a41b-16497d3f4e56",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
