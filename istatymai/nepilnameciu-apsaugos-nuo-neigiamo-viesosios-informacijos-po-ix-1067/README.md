@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2002-09-18 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/f17fb2680a8f17ed2088a920a835f15fe9db62bf/istatymai/TAR.817CC58C1A54.md) |
+| 2003-11-19 | 2006-12-27 | Įstatymas Nr. IX-1794 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/8e7083fdb2ec8d93c931911786d29dcef25f8d5d/istatymai/TAR.817CC58C1A54.md) |
