@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Įmonių ir organizacijų nekilnojamojo turto mokesčio įstatymo, Kelių priežiūros ir plėtros programos finansavimo įstatymo, Garantinio fondo įstatymo, Rinkliavų įstatymo, Mokesčių už pramoninės nuosavybės objektų registravimą įstatymo, Mokesčio už aplinkos teršimą įstatymo, Konsulinio mokesčio įstatymo, Lietuvos banko įstatymo pakeitimo ir papildymo ĮSTATYMAS Nr. IX-2139",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "61",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-27",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2006-04-03",
+  "commission_reference": "MNE(2006)52132",
+  "nim_celex": "72004L0038LTU_129993",
+  "nim_id": "129993",
+  "transposes_celex": [
+    "32004L0038"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2d9aac79-2db1-453c-adb3-67b091157daf",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
