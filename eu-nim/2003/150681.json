@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2003 M. GEGUŽĖS 15 D. ĮSAKYMAS NR. 230 \"DĖL ŪKIO SUBJEKTŲ APLINKOS MONITORINGO VYKDYMO TVARKOS PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "50",
+  "official_journal_page": null,
+  "official_journal_date": "2003-05-23",
+  "entry_into_force": "2003-05-24",
+  "notification_date": "2007-11-12",
+  "commission_reference": "MNE(2007)58115",
+  "nim_celex": "71996L0061LTU_150681",
+  "nim_id": "150681",
+  "transposes_celex": [
+    "31996L0061"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ddd4554f-0536-4ede-802c-a90625737a1a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
