@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS SOCIALINĖS APSAUGOS IR DARBO MINISTRO 2004 M. SPALIO 6 D. ĮSAKYMAS NR. A1-229 „DĖL SUINTERESUOTŲ ASMENŲ, NESUTINKANČIŲ SU PROFESINĘ KVALIFIKACIJĄ PATVIRTINANČIŲ DOKUMENTŲ PRIPAŽINIMĄ VYKDANČIŲ KOMPETENTINGŲ INSTITUCIJŲ SPRENDIMAIS, APELIACIJŲ NAGRINĖJIMO TVARKOS APRAŠO PATVIRTINIMO BEI APELIACINĖS KOMISIJOS SUDARYMO“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "151",
+  "official_journal_page": null,
+  "official_journal_date": "2004-10-14",
+  "entry_into_force": "2004-10-15",
+  "notification_date": "2005-11-03",
+  "commission_reference": "MNE(2005)55517",
+  "nim_celex": "71992L0051LTU_125517",
+  "nim_id": "125517",
+  "transposes_celex": [
+    "31992L0051"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8b0725f6-9798-47d9-891e-84c775084020",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
