@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių teisės pažeidimų kodekso papildymo 189(14), 214(1) straipsniais, 209(3), 214(8), 221, 224, 225, 237, 239, 241(1), 244, 246(2), 259(1), 320 straipsnių pakeitimo ir papildymo įstatymas Nr. IX-199",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "25",
+  "official_journal_page": null,
+  "official_journal_date": "2001-03-23",
+  "entry_into_force": "2001-03-23",
+  "notification_date": "2005-11-24",
+  "commission_reference": "MNE(2005)60131",
+  "nim_celex": "72003L0033LTU_126009",
+  "nim_id": "126009",
+  "transposes_celex": [
+    "32003L0033"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f048d259-322e-4a08-bfb9-4165ee5a2961",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
