@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro ir Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2005 m. vasario 2 d. įsakymas Nr. 1V-31/A1-28 „Dėl nelydimų nepilnamečių prieglobsčio prašytojų apgyvendinimo Pabėgėlių priėmimo centre taisyklių patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "20-641",
+  "official_journal_page": null,
+  "official_journal_date": "2005-02-10",
+  "entry_into_force": "2005-02-11",
+  "notification_date": "2021-05-05",
+  "commission_reference": "MNE(2021)02989",
+  "nim_celex": "72013L0032LTU_202102989",
+  "nim_id": "202102989",
+  "transposes_celex": [
+    "32013L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/14269b75-aeff-11eb-9767-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
