@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 1999 m. lapkričio 25 d. įsakymas Nr.510 \"Dėl rekomenduojamų paros maistinių medžiagų ir energijos normų tvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "102",
+  "official_journal_page": null,
+  "official_journal_date": "1999-12-01",
+  "entry_into_force": "1999-12-02",
+  "notification_date": "2015-02-11",
+  "commission_reference": "MNE(2015)50590",
+  "nim_celex": "72009L0013LTU_223186",
+  "nim_id": "223186",
+  "transposes_celex": [
+    "32009L0013"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6225b71e-f97b-11e4-a4c8-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
