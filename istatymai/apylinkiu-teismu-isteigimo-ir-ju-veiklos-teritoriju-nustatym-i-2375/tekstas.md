@@ -15,7 +15,7 @@ Alytaus rajono apylinkės teismą;
 Akmenės rajono apylinkės teismą;
 Anykščių rajono apylinkės teismą;
 Biržų rajono apylinkės teismą;
-Ignalinos rajono apylinkės teismą;
+Ignalinos rajono apylinkės teismą ir 3 teisėjų etatus;
 Jonavos rajono apylinkės teismą;
 Jurbarko rajono apylinkės teismą;
 Joniškio rajono apylinkės teismą;
@@ -31,7 +31,6 @@ Marijampolės rajono apylinkės teismą;
 Mažeikių rajono apylinkės teismą;
 Molėtų rajono apylinkės teismą;
 Pakruojo rajono apylinkės teismą;
-Panevėžio rajono apylinkės teismą;
 Pasvalio rajono apylinkės teismą;
 Plungės rajono apylinkės teismą;
 Prienų rajono apylinkės teismą;
@@ -55,8 +54,9 @@ Varėnos rajono apylinkės teismą;
 Vilkaviškio rajono apylinkės teismą;
 Vilniaus rajono apylinkės teismą;
 Zarasų rajono apylinkės teismą.
-2. Nustatyti, kad iki šiol išrinktų miestų ir rajonų teismų teisėjai savo įgaliojimus vykdo penkerius metus nuo jų išrinkimo dienos.
-3. Šis įstatymas įsigalioja nuo jo priėmimo.
+2. Įsteigti Visagino miesto apylinkės teismą ir nustatyti jame 3 teisėjų etatus.
+3. Nustatyti, kad iki šiol išrinktų miestų ir rajonų teismų teisėjai savo įgaliojimus vykdo penkerius metus nuo jų išrinkimo dienos.
+4. Šis įstatymas įsigalioja nuo jo priėmimo.
 LIETUVOS RESPUBLIKOS
 AUKŠČIAUSIOSIOS TARYBOS
 PIRMININKAS VYTAUTAS LANDSBERGIS
