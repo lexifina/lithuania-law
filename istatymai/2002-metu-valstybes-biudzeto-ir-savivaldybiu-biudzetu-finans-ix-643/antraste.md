@@ -1,0 +1,8 @@
+Įstatymas skelbtas: Žin., 2001, Nr. 110-3990
+Neoficialus įstatymo tekstas
+LIETUVOS RESPUBLIKOS
+2002 METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ RODIKLIŲ
+PATVIRTINIMO
+ĮSTATYMAS
+2001 m. gruodžio 13 d. Nr. IX-643
+Vilnius
