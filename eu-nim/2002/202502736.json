@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymas Nr. IX-816 (suvestinė redakcija nuo 2018-03-01 iki 2024-11-22)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "33-1250",
+  "official_journal_page": null,
+  "official_journal_date": "2002-03-30",
+  "entry_into_force": "2002-04-01",
+  "notification_date": "2025-05-19",
+  "commission_reference": "MNE(2025)02736",
+  "nim_celex": "72024L1226LTU_202502736",
+  "nim_id": "202502736",
+  "transposes_celex": [
+    "32024L1226"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7af7ed28-05e9-4327-aeda-4dd14def9d1d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
