@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 1994-02-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/821f2d54f7ccd1cf74254e96f6e9a8b845064428/istatymai/TAR.07786E0929A8.md) |
+| 1994-11-18 | 1997-12-23 | Įstatymas Nr. I-638 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/23dddf89aee19d5102a9bf879d691e7398a77ec0/istatymai/TAR.07786E0929A8.md) |
