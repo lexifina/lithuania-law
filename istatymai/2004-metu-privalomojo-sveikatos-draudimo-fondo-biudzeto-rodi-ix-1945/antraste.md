@@ -1,0 +1,8 @@
+Įstatymas skelbtas: Žin., 2004, Nr. 4-46
+Neoficialus įstatymo tekstas
+LIETUVOS RESPUBLIKOS
+2004 METŲ PRIVALOMOJO SVEIKATOS DRAUDIMO FONDO BIUDŽETO RODIKLIŲ
+PATVIRTINIMO
+ĮSTATYMAS
+2003 m. gruodžio 23 d. Nr. IX-1945
+Vilnius
