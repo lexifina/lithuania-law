@@ -1,0 +1,25 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Aplinkos ministro įsakymas Nr. 405 dėl aplinkos apsaugos normatyvinių dokumentų LAND 47-1:2002 ir LAND 47-2:2002 patvirtinimo",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "80",
+  "official_journal_page": null,
+  "official_journal_date": "2002-08-14",
+  "entry_into_force": null,
+  "notification_date": "2004-01-09",
+  "commission_reference": "MNE(2003)50124",
+  "nim_celex": "71978L0659LTU_20124",
+  "nim_id": "20124",
+  "transposes_celex": [
+    "31978L0659",
+    "31979L0869",
+    "31982L0176",
+    "31991L0676"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d229e423-db7b-415b-998b-a647aeea0b2a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
