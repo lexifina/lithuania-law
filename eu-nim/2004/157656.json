@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės kainų ir energetikos kontrolės komisijos 2004 m. rugpjūčio 30 d. nutarimas Nr. O3-85 \"Dėl Visuomeninių elektros energijos tarifų viršutinės ribos nustatymo ir Elektros energijos perdavimo ir skirstymo paslaugų kainų viršutinių ribų nustatymo metodikų pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "135",
+  "official_journal_page": null,
+  "official_journal_date": "2004-09-04",
+  "entry_into_force": "2004-09-05",
+  "notification_date": "2008-08-28",
+  "commission_reference": "MNE(2008)54708",
+  "nim_celex": "72006L0032LTU_157656",
+  "nim_id": "157656",
+  "transposes_celex": [
+    "32006L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/af76d6ee-3b29-43f5-acbf-bb681629c593",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
