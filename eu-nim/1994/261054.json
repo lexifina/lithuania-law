@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės įstatymas Nr. I-464 (Suvestinė redakcija nuo 2018-07-17 iki 2018-12-31)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "43-772",
+  "official_journal_page": null,
+  "official_journal_date": "1994-06-08",
+  "entry_into_force": "1994-06-08",
+  "notification_date": "2018-07-20",
+  "commission_reference": "MNE(2018)53884",
+  "nim_celex": "72016L0680LTU_261054",
+  "nim_id": "261054",
+  "transposes_celex": [
+    "32016L0680"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4e4f84be-f35c-48be-9e70-a19a7ec3a8a5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
