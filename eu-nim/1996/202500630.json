@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymas Nr. I-1623  (suvestinė redakcija nuo 2025-01-01 iki 2025-12-31)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "116-2695",
+  "official_journal_page": null,
+  "official_journal_date": "1996-12-04",
+  "entry_into_force": "1996-12-04",
+  "notification_date": "2025-01-23",
+  "commission_reference": "MNE(2025)00630",
+  "nim_celex": "72022L2557LTU_202500630",
+  "nim_id": "202500630",
+  "transposes_celex": [
+    "32022L2557"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8b88403f-1b38-4111-90f0-45b2669fdf5a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
