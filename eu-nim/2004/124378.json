@@ -1,0 +1,27 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS GEOLOGIJOS TARNYBOS\nPRIE LIETUVOS RESPUBLIKOS APLINKOS MINISTERIJOS DIREKTORIAUS 2003 M. SPALIO 24 D. ĮSAKYMAS NR. 1-59",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "101",
+  "official_journal_page": null,
+  "official_journal_date": "2003-10-29",
+  "entry_into_force": "2004-10-30",
+  "notification_date": "2005-10-04",
+  "commission_reference": "MNE(2005)54378",
+  "nim_celex": "71980L0068LTU_124378",
+  "nim_id": "124378",
+  "transposes_celex": [
+    "31980L0068",
+    "31980L0778",
+    "31991L0676",
+    "31998L0083",
+    "31999L0031",
+    "32000L0060"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3fa0633e-b739-4458-b929-b865bff25327",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
