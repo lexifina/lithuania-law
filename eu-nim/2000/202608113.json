@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos teisės gauti informaciją ir duomenų pakartotinio naudojimo įstatymas Nr. VIII-1524 (suvestinė redakcija nuo 2026-01-01 iki 2026-12-31)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "10-236",
+  "official_journal_page": null,
+  "official_journal_date": "2000-02-02",
+  "entry_into_force": "2000-06-01",
+  "notification_date": "2026-11-10",
+  "commission_reference": "MNE(2026)08113",
+  "nim_celex": "72024L1640LTU_202608113",
+  "nim_id": "202608113",
+  "transposes_celex": [
+    "32024L1640"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b4357839-58b1-4d5d-9f17-4c35a24806f9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-24",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
