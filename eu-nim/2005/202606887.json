@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos nedarbo socialinio draudimo įstatymas Nr. IX-1904 (Suvestinė redakcija 2026-01-01 iki 2026-05-20)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "4-26",
+  "official_journal_page": null,
+  "official_journal_date": "2004-01-07",
+  "entry_into_force": "2005-01-01",
+  "notification_date": "2026-09-02",
+  "commission_reference": "MNE(2026)06887",
+  "nim_celex": "72024L1346LTU_202606887",
+  "nim_id": "202606887",
+  "transposes_celex": [
+    "32024L1346"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ff4cf8b3-edf9-484f-9f0a-ab220ec369a6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
