@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos valstybės paramos daugiabučiams namams atnaujinti (modernizuoti) įstatymas Nr. I-2455 (suvestinė redakcija nuo 2022-07-15 iki 2024-05-31)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "79-0",
+  "official_journal_page": null,
+  "official_journal_date": "1992-04-24",
+  "entry_into_force": "1992-06-01",
+  "notification_date": "2026-03-12",
+  "commission_reference": "MNE(2026)01587",
+  "nim_celex": "72023L1791LTU_202601587",
+  "nim_id": "202601587",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/63a2820d-31dc-4fb8-b843-ef8aee473e30",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
