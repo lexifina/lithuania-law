@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių bylų teisenos įstatymo pakeitimo įstatymas Nr. VIII-1927",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "85",
+  "official_journal_page": null,
+  "official_journal_date": "2000-10-11",
+  "entry_into_force": "2001-01-01",
+  "notification_date": "2015-11-25",
+  "commission_reference": "MNE(2015)58587",
+  "nim_celex": "72013L0032LTU_231994",
+  "nim_id": "231994",
+  "transposes_celex": [
+    "32013L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5e4b3fe3-2be1-432d-afc9-aeb1edb85941",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
