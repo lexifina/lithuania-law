@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 1999-12-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/9ce1280f2dc2ced154f6961720a1ec2485eca188/istatymai/TAR.5F9F5C944DB1.md) |
+| 2001-08-17 | 2002-06-25 | Įstatymas Nr. IX-486 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/916c8c90e0595a3a6b14f05a1186beb44cc11d73/istatymai/TAR.5F9F5C944DB1.md) |
