@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos policijos įstatymas Nr. VIII-2048 (Suvestinė redakcija nuo 2018-03-01 iki 2019-10-31)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "90-2777",
+  "official_journal_page": null,
+  "official_journal_date": "2000-10-27",
+  "entry_into_force": "2000-10-27",
+  "notification_date": "2018-03-27",
+  "commission_reference": "MNE(2018)51596",
+  "nim_celex": "72016L0343LTU_257294",
+  "nim_id": "257294",
+  "transposes_celex": [
+    "32016L0343"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/98239950-5ce3-42a2-92f5-ca2b8b82d970",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
