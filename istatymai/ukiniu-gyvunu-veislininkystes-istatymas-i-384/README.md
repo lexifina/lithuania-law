@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 1994-02-23 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/4cad7297900afdb4351c6f962c1200b8c6ce9724/istatymai/TAR.A039F278F253.md) |
+| 1997-06-25 | 1998-12-15 | Įstatymas Nr. VIII-246 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/b2ff8930bb07712495dd2c2bfe65e7eab9c025af/istatymai/TAR.A039F278F253.md) |
