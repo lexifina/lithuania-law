@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2000 m. gruodžio 14 d. įsakymas Nr. 730 „Dėl Vaikų ir paauglių psichiatrijos ir psichoterapijos paslaugų organizavimo principų, aprašymo ir teikimo reikalavimų“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "109",
+  "official_journal_page": null,
+  "official_journal_date": "2000-12-22",
+  "entry_into_force": "2000-12-23",
+  "notification_date": "2013-04-03",
+  "commission_reference": "MNE(2013)52295",
+  "nim_celex": "72011L0036LTU_202588",
+  "nim_id": "202588",
+  "transposes_celex": [
+    "32011L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5b71d876-e429-491e-bab3-ec0fde92be8a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
