@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos garantinio fondo įstatymo 1,3,9 straipsnių pakeitimo ir papildymo bei įstatymo papildymo priedų įstatymas Nr.IX-2469",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "152",
+  "official_journal_page": null,
+  "official_journal_date": "2004-10-16",
+  "entry_into_force": "2004-11-01",
+  "notification_date": "2004-11-19",
+  "commission_reference": "MNE(2004)53020",
+  "nim_celex": "71980L0987LTU_33020",
+  "nim_id": "33020",
+  "transposes_celex": [
+    "31980L0987"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0a70d880-3bea-40d6-bd66-d9c117de6a1a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
