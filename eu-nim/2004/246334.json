@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro ir Lietuvos Respublikos užsienio reikalų ministro 2004 m. rugsėjo 2 d. įsakymas Nr. 1V-280/V-109 „Dėl Kvietimo patvirtinimo, dokumentų vizai gauti pateikimo, konsultacijų vykdymo, vizos išdavimo ar atsisakymo ją išduoti, jos pratęsimo ar atsisakymo ją pratęsti, jos panaikinimo ir Šengeno vizos atšaukimo, taip pat komercinių tarpininkų akreditavimo ir išorės paslaugų teikėjų pasirinkimo tvarkos aprašo patvirtinimo“ (galiojanti suvestinė redakcija nuo 2017-01-01)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "136",
+  "official_journal_page": null,
+  "official_journal_date": "2004-09-07",
+  "entry_into_force": "2004-09-08",
+  "notification_date": "2017-03-24",
+  "commission_reference": "MNE(2017)51764",
+  "nim_celex": "72014L0066LTU_246334",
+  "nim_id": "246334",
+  "transposes_celex": [
+    "32014L0066"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7e6bdff5-be63-4d51-9d3a-3682391c50a4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
