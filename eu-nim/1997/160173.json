@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos branduolinės energijos įstatymas Nr. I-1613",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "119",
+  "official_journal_page": null,
+  "official_journal_date": "1996-12-11",
+  "entry_into_force": "1997-01-01",
+  "notification_date": "2009-01-23",
+  "commission_reference": "MNE(2009)50343",
+  "nim_celex": "72006L0117LTU_160173",
+  "nim_id": "160173",
+  "transposes_celex": [
+    "32006L0117"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3304834b-6bf6-47cd-a107-02af91e43c85",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
