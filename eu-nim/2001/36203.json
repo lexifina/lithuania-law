@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos archyvų departamento prie Lietuvos Respublikos Vyriausybės 1997 m.  rugpjūčio 15 d. įsakymas nr. 38  ,,Dėl bendrųjų dokumentų saugojimo terminų“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "78",
+  "official_journal_page": null,
+  "official_journal_date": "1997-08-22",
+  "entry_into_force": "2001-11-29",
+  "notification_date": "2005-03-17",
+  "commission_reference": "MNE(2005)56203",
+  "nim_celex": "72002L0098LTU_36203",
+  "nim_id": "36203",
+  "transposes_celex": [
+    "32002L0098",
+    "32005L0047"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8b895e3c-fd2f-458c-9136-fdb267a40f36",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
