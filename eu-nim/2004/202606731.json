@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2003 m. birželio 30 d. įsakymas Nr. 325 „Dėl STR 2.01.08:2003 „Lauko sąlygomis naudojamos įrangos į aplinką skleidžiamo triukšmo valdymas“ patvirtinimo“ (suvestinė redakcija nuo 2025-11-29 iki 2026-05-29)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "90-4086",
+  "official_journal_page": null,
+  "official_journal_date": "2003-09-24",
+  "entry_into_force": "2004-01-01",
+  "notification_date": "2026-08-28",
+  "commission_reference": "MNE(2026)06731",
+  "nim_celex": "72024L2749LTU_202606731",
+  "nim_id": "202606731",
+  "transposes_celex": [
+    "32024L2749"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9a620a70-c8dd-4222-a387-eb27f40b2bea",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
