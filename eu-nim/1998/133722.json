@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 1998 m. birželio 12 d. įsakymas  Nr.320 „Dėl geros klinikinės praktikos taisyklių“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "57",
+  "official_journal_page": null,
+  "official_journal_date": "1998-06-24",
+  "entry_into_force": "1998-06-25",
+  "notification_date": "2006-07-27",
+  "commission_reference": "MNE(2006)54786",
+  "nim_celex": "72005L0028LTU_133722",
+  "nim_id": "133722",
+  "transposes_celex": [
+    "32005L0028"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/99601de1-65cb-4815-bdbd-069f2f947f40",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
