@@ -1,0 +1,10 @@
+Įstatymas
+skelbtas: Žin., 2000, Nr. 111-3567
+Neoficialus
+įstatymo tekstas
+LIETUVOS RESPUBLIKOS
+2001 METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ
+FINANSINIŲ RODIKLIŲ PATVIRTINIMO
+ĮSTATYMAS
+2000 m. gruodžio 19 d. Nr. IX-89
+Vilnius
