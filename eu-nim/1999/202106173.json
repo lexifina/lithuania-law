@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikoje vyriausybės 1999 m. spalio 22 d. nutarimas Nr. 1175 „Dėl Informacijos apie aplinką Lietuvos Respublikoje teikimo visuomenei tvarkos aprašo patvirtinimo“ (Suvestinė redakcija nuo 2014-06-24)",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "90-2660",
+  "official_journal_page": null,
+  "official_journal_date": "1999-10-27",
+  "entry_into_force": "1999-10-28",
+  "notification_date": "2021-09-06",
+  "commission_reference": "MNE(2021)06173",
+  "nim_celex": "72011L0092LTU_202106173",
+  "nim_id": "202106173",
+  "transposes_celex": [
+    "32011L0092"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/64d434de-12b2-11ec-b4fe-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
