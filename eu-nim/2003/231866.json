@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos notariato įstatymo 2, 3, 6, 7, 9, 10, 11, 13, 16, 17, 20, 22, 23, 25, 27, 28, 31, 32, 36, 37, 40, 41, 43, 44, 51, 53, 56, 57, 59, 60 straipsnių ir II skyriaus pavadinimo pakeitimo ir papildymo, įstatymo papildymo 6(1), 6(2), 15(1), 22(1), 27(1) straipsniais ir 58, 63, 64 straipsnių pripažinimo netekusiais galios įstatymas Nr. IX-1311",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "15",
+  "official_journal_page": null,
+  "official_journal_date": "2003-02-12",
+  "entry_into_force": "2003-02-12",
+  "notification_date": "2015-12-07",
+  "commission_reference": "MNE(2015)58469",
+  "nim_celex": "72011L0083LTU_231866",
+  "nim_id": "231866",
+  "transposes_celex": [
+    "32011L0083"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a2900815-5d23-47c3-939f-defe73f7c0aa",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
