@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 1996-02-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/7b6f7c48ffeb79315e4c17cf8b9b479c34f30fc5/istatymai/TAR.11A8B08A7405.md) |
+| 1996-06-21 | 1997-04-08 | Įstatymas Nr. I-1348 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/d72e33f0f3aee8728af78a5d04e7cbb258d33e31/istatymai/TAR.11A8B08A7405.md) |
