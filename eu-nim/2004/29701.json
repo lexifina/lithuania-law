@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro 2004 m. birželio 30 d. įsakymas Nr.4-259 „Dėl ūkio ministro 2002 m. gegužės 10 d. įsakymo Nr.163  „Dėl reglamentų tvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "105",
+  "official_journal_page": null,
+  "official_journal_date": "2004-07-06",
+  "entry_into_force": "2004-12-31",
+  "notification_date": "2004-07-08",
+  "commission_reference": "MNE(2004)59701",
+  "nim_celex": "72003L0066LTU_29701",
+  "nim_id": "29701",
+  "transposes_celex": [
+    "32003L0066"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/673284f0-3beb-4fb7-86c6-db005834db9a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
