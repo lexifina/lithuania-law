@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2005 m. kovo 10 d. įsakymas Nr. A1-71 \"Dėl paraiškos dėl profesinę kvalifikaciją patvirtinančių dokumentų, išduotų Europos sąjungos, Europos ekonominės erdvės valstybėse ar Šveicarijos Konfederacijoje, siekiant dirbti pagal reglamentuojamą profesiją ar verstis reglamentuojama profesine veikla Lietuvos Respublikoje, pripažinimo formos patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "38",
+  "official_journal_page": null,
+  "official_journal_date": "2005-03-24",
+  "entry_into_force": "2005-03-25",
+  "notification_date": "2005-11-03",
+  "commission_reference": "MNE(2005)55500",
+  "nim_celex": "71989L0048LTU_125500",
+  "nim_id": "125500",
+  "transposes_celex": [
+    "31989L0048"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8028a913-cc4f-44e7-8a10-4ff58f2f991d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
