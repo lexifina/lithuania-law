@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos konkurencijos įstatymas Nr. VIII-1099",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "30",
+  "official_journal_page": null,
+  "official_journal_date": "1999-04-02",
+  "entry_into_force": "1999-04-02",
+  "notification_date": "2005-03-01",
+  "commission_reference": "MNE(2005)55720",
+  "nim_celex": "72003L0055LTU_35720",
+  "nim_id": "35720",
+  "transposes_celex": [
+    "32003L0055",
+    "32005L0029",
+    "32007L0058"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/27c92523-fe33-4cc9-add1-b44eae03c09c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
