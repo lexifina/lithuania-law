@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS TARPTAUTINIŲ SUTARČIŲ \nĮSTATYMAS NR. VIII-1248",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "60",
+  "official_journal_page": null,
+  "official_journal_date": "1999-07-09",
+  "entry_into_force": "1999-07-09",
+  "notification_date": "2007-04-04",
+  "commission_reference": "MNE(2007)52535",
+  "nim_celex": "72004L0035LTU_143056",
+  "nim_id": "143056",
+  "transposes_celex": [
+    "32004L0035",
+    "32013L0011"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/42790a6b-4b65-48d3-91d9-41199c02e14e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
