@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2004 m. gruodžio 7 d. nutarimas Nr. 1599 \"Dėl Farmacinės veiklos licencijavimo taisyklių ir Reikalavimų kvalifikuotam asmeniui aprašo patvirtinimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "178",
+  "official_journal_page": null,
+  "official_journal_date": "2004-12-11",
+  "entry_into_force": "2004-12-12",
+  "notification_date": "2005-01-12",
+  "commission_reference": "MNE(2005)54260",
+  "nim_celex": "72004L0027LTU_34260",
+  "nim_id": "34260",
+  "transposes_celex": [
+    "32004L0027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1526f9a7-cb06-4508-b954-3f71c3bb86c6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
