@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Radiacinės saugos centro direktoriaus 2004 m. vasario 5 d. įsakymas Nr. 8 „Dėl Metalo laužo, atliekų ir jas perdirbus gautos metalo produkcijos radioaktyviosios taršos kontrolės jų supirkimo ir perdirbimo vietose tvarkos“ patvirtinimo“ (Suvestinė redakcija nuo 2006-11-22)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "22",
+  "official_journal_page": null,
+  "official_journal_date": "2004-02-10",
+  "entry_into_force": "2004-02-11",
+  "notification_date": "2018-12-10",
+  "commission_reference": "MNE(2018)56529",
+  "nim_celex": "72013L0059LTU_265722",
+  "nim_id": "265722",
+  "transposes_celex": [
+    "32013L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/130a3f9c-566c-45f4-a519-281d33aeeb90",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
