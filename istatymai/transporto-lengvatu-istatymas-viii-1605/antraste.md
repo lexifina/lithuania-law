@@ -1,0 +1,11 @@
+Įstatymas skelbtas: Žin., 2000, Nr. 32-890
+Neoficialus įstatymo tekstas
+LIETUVOS RESPUBLIKOS
+TRANSPORTO LENGVATŲ
+ĮSTATYMAS
+2000 m. kovo 30 d. Nr. VIII-1605
+Vilnius
+PIRMASIS
+SKIRSNIS
+BENDROSIOS
+NUOSTATOS
