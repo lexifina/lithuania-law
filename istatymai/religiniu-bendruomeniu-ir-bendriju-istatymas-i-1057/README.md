@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 1995-11-02 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/4d4069e673799a21bb02a5d04df0dd897d0d3d75/istatymai/TAR.B4DBBD7C388A.md) |
+| 1997-07-11 | 2001-08-31 | Įstatymas Nr. VIII-394 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/672f7ce8864909119671713c5ccac3da92d89b3d/istatymai/TAR.B4DBBD7C388A.md) |
