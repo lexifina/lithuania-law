@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2003 m. gruodžio 24 d. įsakymas Nr. 719 „Dėl požeminio vandens telkinių vertinimo ir jų priskyrimo upių baseinų rajonams metodinių reikalavimų patvirtinimo“  (Suvestinė redakcija nuo 2009-05-08)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "8-193",
+  "official_journal_page": null,
+  "official_journal_date": "2004-01-15",
+  "entry_into_force": "2004-01-16",
+  "notification_date": "2026-09-25",
+  "commission_reference": "MNE(2026)04765",
+  "nim_celex": "72020L2184LTU_202604765",
+  "nim_id": "202604765",
+  "transposes_celex": [
+    "32020L2184"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/dd95c73b-acba-47a0-b82f-735d073160bf",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
