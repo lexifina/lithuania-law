@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vandens įstatymas Nr. VIII-474 (Suvestinė redakcija nuo 2025-01-01)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "104-2615",
+  "official_journal_page": null,
+  "official_journal_date": "1997-11-19",
+  "entry_into_force": "1997-11-19",
+  "notification_date": "2026-09-17",
+  "commission_reference": "MNE(2026)04761",
+  "nim_celex": "72020L2184LTU_202604761",
+  "nim_id": "202604761",
+  "transposes_celex": [
+    "32020L2184"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e9f8fff3-81de-4c0f-8290-0e30efc64ab3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
