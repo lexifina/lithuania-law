@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos monitoringo įstatymas Nr. VIII-529 (Suvestinė redakcija nuo 2016-08-01)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "112-2824",
+  "official_journal_page": null,
+  "official_journal_date": "1997-12-10",
+  "entry_into_force": "1997-12-10",
+  "notification_date": "2018-12-10",
+  "commission_reference": "MNE(2018)56485",
+  "nim_celex": "72013L0059LTU_265678",
+  "nim_id": "265678",
+  "transposes_celex": [
+    "32013L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/33df6ccd-82df-4dbd-879f-9f56c431f492",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
