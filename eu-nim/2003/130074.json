@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2003 m. rugpjūčio 13 d. įsakymas Nr. 3D-336 \"Dėl Žemės ūkio augalų rūšių veislių privalomų požymių tikrinimo ir įvertinimo taisyklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "83",
+  "official_journal_page": null,
+  "official_journal_date": "2003-08-29",
+  "entry_into_force": "2003-08-30",
+  "notification_date": "2006-04-04",
+  "commission_reference": "MNE(2006)52195",
+  "nim_celex": "72005L0091LTU_130074",
+  "nim_id": "130074",
+  "transposes_celex": [
+    "32005L0091"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fbe64078-9112-402d-b351-71a492db8643",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
