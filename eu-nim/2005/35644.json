@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2005 m. vasario 4 d. įsakymas Nr.  V-83 ,,Dėl kraujo donorystės įstaigų tikrinimo ir kontrolės“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "18",
+  "official_journal_page": null,
+  "official_journal_date": "2005-02-08",
+  "entry_into_force": "2005-02-09",
+  "notification_date": "2005-03-14",
+  "commission_reference": "MNE(2005)55644",
+  "nim_celex": "72002L0098LTU_35644",
+  "nim_id": "35644",
+  "transposes_celex": [
+    "32002L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ef4ad0cf-9468-490e-8246-3622a57ce6b6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
