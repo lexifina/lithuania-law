@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2001 m. kovo 19 d. įsakymas Nr. 60 \"Dėl techninio reglamento, nustatančio kavos ekstraktų ir cikorijos ekstraktų sudėtį ir analizės metodus patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "25",
+  "official_journal_page": null,
+  "official_journal_date": "2001-03-23",
+  "entry_into_force": "2001-12-01",
+  "notification_date": "2004-05-27",
+  "commission_reference": "MNE(2004)58482",
+  "nim_celex": "72001L0054LTU_28482",
+  "nim_id": "28482",
+  "transposes_celex": [
+    "32001L0054"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b6940cc9-b735-4b1e-b3c9-8b444f77089d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
