@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos prokuratūros įstatymas Nr. I-599 (Suvestinė redakcija nuo 2021-01-01)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "81-1514",
+  "official_journal_page": null,
+  "official_journal_date": "1994-10-19",
+  "entry_into_force": "1995-01-01",
+  "notification_date": "2022-08-01",
+  "commission_reference": "MNE(2022)05054",
+  "nim_celex": "72019L1152LTU_202205054",
+  "nim_id": "202205054",
+  "transposes_celex": [
+    "32019L1152"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/52bc8ef5-7b17-4649-9535-3be07e6913a5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
