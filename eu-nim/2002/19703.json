@@ -1,0 +1,25 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės draudimo priežiūros tarnybos valdybos nutarimas Nr. 613 „Dėl Valstybinės draudimo priežiūros tarnybos prie Finansų ministerijos valdybos 2002 m. rugsėjo 24 d. nutarimo Nr. 489 „Dėl metodikos draudimo techninių atidėjimų dydžiams apskaičiuoti patvirtinimo\" pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "125",
+  "official_journal_page": null,
+  "official_journal_date": "2002-12-31",
+  "entry_into_force": null,
+  "notification_date": "2003-11-04",
+  "commission_reference": "MNE(2003)59703",
+  "nim_celex": "71973L0239LTU_19703",
+  "nim_id": "19703",
+  "transposes_celex": [
+    "31973L0239",
+    "31987L0343",
+    "31992L0049",
+    "32002L0083"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2aa7d02b-50e5-4355-897c-3cccb4b51610",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
