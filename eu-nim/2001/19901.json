@@ -1,0 +1,28 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos įmonių bankroto įstatymas Nr. IX-216",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "31",
+  "official_journal_page": null,
+  "official_journal_date": "2001-04-11",
+  "entry_into_force": "2001-07-01",
+  "notification_date": "2003-12-10",
+  "commission_reference": "MNE(2003)59901",
+  "nim_celex": "71980L0987LTU_19901",
+  "nim_id": "19901",
+  "transposes_celex": [
+    "31980L0987",
+    "31998L0026",
+    "31998L0050",
+    "32001L0017",
+    "32001L0023",
+    "32001L0024",
+    "32008L0094"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c2cae966-f919-4a6b-900d-c072df417bab",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
