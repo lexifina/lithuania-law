@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2004 m. rugsėjo 10 d. įsakymas Nr. D1-481 „Dėl Elektros ir elektroninės įrangos bei jos atliekų tvarkymo taisyklių patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "141",
+  "official_journal_page": null,
+  "official_journal_date": "2004-09-21",
+  "entry_into_force": "2004-09-22",
+  "notification_date": "2014-02-14",
+  "commission_reference": "MNE(2014)51104",
+  "nim_celex": "72012L0019LTU_213484",
+  "nim_id": "213484",
+  "transposes_celex": [
+    "32012L0019"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/73a3c6ff-2936-423d-8e0e-a2edac5d8f5c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
