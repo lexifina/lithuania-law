@@ -1,0 +1,27 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS VALSTYBINĖS MAISTO IR VETERINARIJOS TARNYBOS DIREKTORIAUS ĮSAKYMAS Nr. B1-793 DĖL ŠVIEŽIOS PAUKŠTIENOS PARUOŠIMO IR TIEKIMO Į RINKĄ TAISYKLIŲ PATVIRTINIMO",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "14",
+  "official_journal_page": null,
+  "official_journal_date": "2004-01-27",
+  "entry_into_force": "2004-01-28",
+  "notification_date": "2004-02-10",
+  "commission_reference": "MNE(2003)51203",
+  "nim_celex": "71971L0118LTU_21203",
+  "nim_id": "21203",
+  "transposes_celex": [
+    "31971L0118",
+    "31984L0335",
+    "31984L0642",
+    "31985L0326",
+    "31992L0116",
+    "31997L0079"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f812cbc1-9e27-423c-a273-54579107721d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
