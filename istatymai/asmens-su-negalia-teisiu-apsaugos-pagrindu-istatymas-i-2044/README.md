@@ -15,3 +15,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 1999-01-01 | 1999-12-31 | Įstatymas Nr. VIII-904 / Įstatymas Nr. VIII-970 / Įstatymas Nr. VIII-1015 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22xFVpMliRKt%22) |
 | 2000-01-01 | 2004-03-31 | Įstatymas Nr. VIII-1480 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22nRCdYITxJI%22) |
 | 2004-04-01 | 2004-12-31 | Įstatymas Nr. IX-1967 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22prqqNRqdOh%22) |
+| 2005-01-01 | 2005-06-30 | Įstatymas Nr. IX-2540 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22cswJdzLWar%22) |
