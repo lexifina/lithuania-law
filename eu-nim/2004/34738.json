@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2004 m. spalio 5 d. nutarimas Nr. 1252",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "148",
+  "official_journal_page": null,
+  "official_journal_date": "2004-10-07",
+  "entry_into_force": "2004-10-08",
+  "notification_date": "2005-01-27",
+  "commission_reference": "MNE(2005)54738",
+  "nim_celex": "71975L0439LTU_34738",
+  "nim_id": "34738",
+  "transposes_celex": [
+    "31975L0439",
+    "31975L0442",
+    "31987L0101"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/eb239538-0129-4229-9dbd-79719d2f2086",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
