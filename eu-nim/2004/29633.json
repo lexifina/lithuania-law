@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS DARBO KODEKSO 5, 109, 146, 180, 220 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS Nr. IX-2293",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "103",
+  "official_journal_page": null,
+  "official_journal_date": "2004-07-01",
+  "entry_into_force": "2004-07-01",
+  "notification_date": "2004-07-07",
+  "commission_reference": "MNE(2004)59633",
+  "nim_celex": "71996L0034LTU_29633",
+  "nim_id": "29633",
+  "transposes_celex": [
+    "31996L0034",
+    "32006L0054"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/68f53c94-cb7e-4bb9-ae91-4a446e87166a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
