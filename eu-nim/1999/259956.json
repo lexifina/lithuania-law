@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos oro apsaugos įstatymas Nr. VIII-1392 (Suvestinė redakcija nuo 2017-07-01)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "98-2813",
+  "official_journal_page": null,
+  "official_journal_date": "1999-11-19",
+  "entry_into_force": "1999-11-19",
+  "notification_date": "2018-06-29",
+  "commission_reference": "MNE(2018)53330",
+  "nim_celex": "72016L2284LTU_259956",
+  "nim_id": "259956",
+  "transposes_celex": [
+    "32016L2284"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/92bfe937-2325-4c2c-b972-14d446545605",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
