@@ -1,0 +1,27 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Viešųjų pirkimų tarnybos prie Lietuvos Respublikos Vyriausybės direktoriaus 2004 m. balandžio 27 d.  įsakymas Nr. 1S-25 „Dėl Viešųjų pirkimų tarnybos prie Lietuvos Respublikos Vyriausybės direktoriaus 2003 m. spalio 20 d.  įsakymo Nr. 1S-100 „Dėl tiekėjų kvalifikacijos vertinimo metodinių rekomendacijų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "63",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-28",
+  "entry_into_force": "2004-04-29",
+  "notification_date": "2004-11-13",
+  "commission_reference": "MNE(2004)52605",
+  "nim_celex": "71992L0050LTU_32605",
+  "nim_id": "32605",
+  "transposes_celex": [
+    "31992L0050",
+    "31993L0036",
+    "31993L0037",
+    "31993L0038",
+    "31997L0052",
+    "31998L0004"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ca2a370a-5505-4291-b8bd-a1014fb6072d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
