@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS VYRIAUSYBĖS NUTARIMAS NR. 650 \"DĖL DARBUOTOJO IR VALSTYBĖS TARNAUTOJO VIDUTINIO DARBO UŽMOKESČIO APSKAIČIAVIMO TVARKOS PATVIRTINIMO\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "52",
+  "official_journal_page": null,
+  "official_journal_date": "2003-05-30",
+  "entry_into_force": "2003-06-01",
+  "notification_date": "2005-05-24",
+  "commission_reference": "MNE(2005)51087",
+  "nim_celex": "72003L0088LTU_121087",
+  "nim_id": "121087",
+  "transposes_celex": [
+    "32003L0088"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8b038d40-053a-482c-8a96-a87491b0e00d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
