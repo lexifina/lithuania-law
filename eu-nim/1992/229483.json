@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 1992 m. gegužės 12 d. nutarimas Nr. 343 „Dėl Specialiųjų žemės ir miško naudojimo sąlygų patvirtinimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "22",
+  "official_journal_page": null,
+  "official_journal_date": "1992-08-10",
+  "entry_into_force": "1992-05-12",
+  "notification_date": "2015-09-07",
+  "commission_reference": "MNE(2015)56256",
+  "nim_celex": "72012L0018LTU_229483",
+  "nim_id": "229483",
+  "transposes_celex": [
+    "32012L0018"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/aa5545b1-3c6e-495f-8513-b86cb0bad663",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
