@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "VALSTYBINĖS MAISTO IR VETERINARIJOS TARNYBOS DIREKTORIAUS ĮSAKYMAS NR. 462 \"DĖL GYVŪNINIŲ PRODUKTŲ PREKYBOS SU EUROPOS SĄJUNGOS ŠALIMIS IR IMPORTO IŠ TREČIŲJŲ ŠALIŲ VETERINARIJOS REIKALAVIMŲ PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "3",
+  "official_journal_page": null,
+  "official_journal_date": "2002-01-11",
+  "entry_into_force": "2002-01-12",
+  "notification_date": "2003-11-13",
+  "commission_reference": "MNE(2003)59801",
+  "nim_celex": "71992L0118LTU_19801",
+  "nim_id": "19801",
+  "transposes_celex": [
+    "31992L0118",
+    "31996L0090",
+    "31997L0079"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9ff3c350-47fa-462c-ada4-dc0a16d6ff92",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
