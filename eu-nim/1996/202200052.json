@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymas Nr. I-1143 (Suvestinė redakcija 2021-11-01–2022-04-30)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "11-281",
+  "official_journal_page": null,
+  "official_journal_date": "1996-02-07",
+  "entry_into_force": "1996-02-07",
+  "notification_date": "2022-02-01",
+  "commission_reference": "MNE(2022)00052",
+  "nim_celex": "72019L0904LTU_202200052",
+  "nim_id": "202200052",
+  "transposes_celex": [
+    "32019L0904"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/075f0067-87f0-11ec-8c40-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
