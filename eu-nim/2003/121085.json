@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS VYRIAUSYBĖS NUTARIMAS NR. 587 \"DĖL DARBŲ, KURIUOSE GALI BŪTI TAIKOMA IKI DVIDEŠIMT KETURIŲ VALANDŲ PER PARĄ DARBO LAIKO TRUKMĖ, SĄRAŠO, DARBO IR POILSIO LAIKO YPATUMŲ EKONOMINĖS VEIKLOS SRITYSE, DARBŲ, SĄLYGŲ, KURIOMS ESANT GALI BŪTI ĮVEDAMA SUMINĖ DARBO LAIKO APSKAITA, SUMINĖS DARBO LAIKO APSKAITOS ĮVEDIMO ĮMONĖSE, ĮSTAIGOSE, ORGANIZACIJOSE TVARKOS PATVIRTINIMO\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "48",
+  "official_journal_page": null,
+  "official_journal_date": "2003-05-15",
+  "entry_into_force": "2003-05-16",
+  "notification_date": "2005-05-24",
+  "commission_reference": "MNE(2005)51085",
+  "nim_celex": "72003L0088LTU_121085",
+  "nim_id": "121085",
+  "transposes_celex": [
+    "32003L0088"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b0dc31b4-9224-487f-80e6-7f4e5b556f91",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
