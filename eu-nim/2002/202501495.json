@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas Nr. IX-751 (suvestinė redakcija nuo 2020-01-01 iki 2020-07-03)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "35-1271",
+  "official_journal_page": null,
+  "official_journal_date": "2002-04-05",
+  "entry_into_force": "2002-07-01",
+  "notification_date": "2025-03-14",
+  "commission_reference": "MNE(2025)01495",
+  "nim_celex": "72020L0285LTU_202501495",
+  "nim_id": "202501495",
+  "transposes_celex": [
+    "32020L0285"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/35e6e0d5-0632-11f0-b1a3-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
