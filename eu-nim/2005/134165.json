@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2005 M. SAUSIO 28 D. ĮSAKYMAS NR. D1-50 \"DĖL LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 1999 M. KOVO 5 D. ĮSAKYMO NR. 73 „DĖL PAGRINDINIŲ MIŠKO KIRTIMŲ TAISYKLIŲ PATVIRTINIMO“ PAKEITIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "16",
+  "official_journal_page": null,
+  "official_journal_date": "2005-02-03",
+  "entry_into_force": "2005-02-04",
+  "notification_date": "2006-08-11",
+  "commission_reference": "MNE(2006)55132",
+  "nim_celex": "71979L0409LTU_134165",
+  "nim_id": "134165",
+  "transposes_celex": [
+    "31979L0409"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5bfbf195-dc32-4d38-895d-b96672977a8a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
