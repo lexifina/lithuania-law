@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo 3, 8, 20, 21, 23, 24, 25, 26 straipsnių pakeitimo ir papildymo ir įstatymo papildymo 26(1)  straipsniu įstatymas Nr. IX-2068",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "54",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-15",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2005-10-19",
+  "commission_reference": "MNE(2005)55137",
+  "nim_celex": "71997L0009LTU_125137",
+  "nim_id": "125137",
+  "transposes_celex": [
+    "31997L0009"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f6c3df0c-6031-4552-afbf-fa948529d2a4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
