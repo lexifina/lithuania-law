@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2004 M. GRUODŽIO 1 D. ĮSAKYMAS NR. D1-609 \"DĖL PLANŲ AR PROGRAMŲ ĮGYVENDINIMO POVEIKIO ĮSTEIGTOMS AR POTENCIALIOMS „NATURA 2000“ TERITORIJOMS REIKŠMINGUMO NUSTATYMO TVARKOS APRAŠO PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "179",
+  "official_journal_page": null,
+  "official_journal_date": "2004-12-14",
+  "entry_into_force": "2004-12-15",
+  "notification_date": "2006-05-15",
+  "commission_reference": "MNE(2006)53015",
+  "nim_celex": "71979L0409LTU_131173",
+  "nim_id": "131173",
+  "transposes_celex": [
+    "31979L0409"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/62438768-729d-4217-9c4c-49dd71f9bdce",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
