@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos draudimo priežiūros komisijos 2005 m. kovo 15 d. nutarimas Nr. N-68 \"Dėl draudimo įmonėms ir draudimo brokerių įmonėms skirtų nurodymų, kuriais siekiama užkirsti kelią pinigų plovimui, patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "37",
+  "official_journal_page": null,
+  "official_journal_date": "2005-03-22",
+  "entry_into_force": "2005-03-23",
+  "notification_date": "2005-11-07",
+  "commission_reference": "MNE(2005)55598",
+  "nim_celex": "71991L0308LTU_125598",
+  "nim_id": "125598",
+  "transposes_celex": [
+    "31991L0308"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ab3d24ff-cea9-4506-ab2d-239850fcfd41",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
