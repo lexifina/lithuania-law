@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos standartizacijos įstatymas Nr. VIII-1618  (suvestinė redakcija nuo 2020-11-01)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "35-972",
+  "official_journal_page": null,
+  "official_journal_date": "2000-04-28",
+  "entry_into_force": "2000-04-28",
+  "notification_date": "2025-01-23",
+  "commission_reference": "MNE(2025)00632",
+  "nim_celex": "72022L2557LTU_202500632",
+  "nim_id": "202500632",
+  "transposes_celex": [
+    "32022L2557"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/89782d62-b3b8-494b-811e-9fcf2a99137c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
