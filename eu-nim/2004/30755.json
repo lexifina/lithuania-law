@@ -1,0 +1,27 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos valstybinės maisto ir veterinarijos tarnybos direktoriaus 2004 m. balandžio 20 d. įsakymas Nr. B1-349 \"Dėl prekybos galvijais ir kiaulėmis veterinarijos reikalavimų patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "135",
+  "official_journal_page": null,
+  "official_journal_date": "2004-09-04",
+  "entry_into_force": "2004-09-05",
+  "notification_date": "2004-09-07",
+  "commission_reference": "MNE(2004)50755",
+  "nim_celex": "71964L0432LTU_30755",
+  "nim_id": "30755",
+  "transposes_celex": [
+    "31964L0432",
+    "31984L0643",
+    "31997L0012",
+    "31998L0046",
+    "31998L0099",
+    "32000L0015"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/182729d8-9b6e-455e-a840-983cf36e2a5b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
