@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2004 m. balandžio 16 d. nutarimas Nr. 441 „Dėl Lietuvos Respublikos Vyriausybės 2002 m. birželio 4 d. nutarimo Nr. 821 „Dėl Akcizų įstatymo nuostatų įgyvendinimo\" pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "58",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-21",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2004-05-25",
+  "commission_reference": "MNE(2004)57992",
+  "nim_celex": "71992L0012LTU_27992",
+  "nim_id": "27992",
+  "transposes_celex": [
+    "31992L0012",
+    "31992L0108",
+    "31994L0074"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0a397b34-f5df-434e-be77-2385050836af",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
