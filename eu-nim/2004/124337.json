@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2003 M. GRUODŽIO 5 D. ĮSAKYMAS NR. 624 \"DĖL APLINKOS APSAUGOS NORMATYVINIŲ DOKUMENTŲ LAND 58:2003 IR LAND 59:2003 PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "6",
+  "official_journal_page": null,
+  "official_journal_date": "2004-01-10",
+  "entry_into_force": "2004-04-01",
+  "notification_date": "2005-10-04",
+  "commission_reference": "MNE(2005)54337",
+  "nim_celex": "71979L0869LTU_124337",
+  "nim_id": "124337",
+  "transposes_celex": [
+    "31979L0869"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0fa3bdd5-81ec-44a2-9167-e5ddb61c65aa",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
