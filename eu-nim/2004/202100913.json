@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Konstitucijos papildymo Konstituciniu aktu \"Dėl Lietuvos Respublikos narystės Europos Sąjungoje\" ir Lietuvos Respublikos Konstitucijos 150 straipsnio papildymo įstatymas Nr. IX-2343",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "111-4123",
+  "official_journal_page": null,
+  "official_journal_date": "2004-07-16",
+  "entry_into_force": "2004-08-13",
+  "notification_date": "2021-02-02",
+  "commission_reference": "MNE(2021)00913",
+  "nim_celex": "72019L0001LTU_202100913",
+  "nim_id": "202100913",
+  "transposes_celex": [
+    "32019L0001"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9e8dd9eb-3bf3-4032-9095-ea3ec9dfdf1e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
