@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos išmokų vaikams įstatymas Nr. I-621 (galiojanti suvestinė redakcija nuo 2017-01-01)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "89",
+  "official_journal_page": null,
+  "official_journal_date": "1994-11-18",
+  "entry_into_force": "1995-01-01",
+  "notification_date": "2017-03-24",
+  "commission_reference": "MNE(2017)51779",
+  "nim_celex": "72014L0066LTU_246349",
+  "nim_id": "246349",
+  "transposes_celex": [
+    "32014L0066"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4e94f5f9-4b41-4740-b9a5-6ef0d6b96282",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
