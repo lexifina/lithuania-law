@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2003 m. sausio 13 d. nutarimas Nr. 12 „Dėl vartotojų aprūpinimo energija ir (ar) energijos ištekliais esant ekstremaliai energetikos padėčiai tvarkos patvirtinimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "5",
+  "official_journal_page": null,
+  "official_journal_date": "2003-01-17",
+  "entry_into_force": "2003-01-18",
+  "notification_date": "2005-03-04",
+  "commission_reference": "MNE(2005)55738",
+  "nim_celex": "72003L0055LTU_35738",
+  "nim_id": "35738",
+  "transposes_celex": [
+    "32003L0055",
+    "32004L0067"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/eb8ecd04-a7a4-4c2d-a756-1100dd4e3cd5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
