@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vartotojų teisių apsaugos įstatymas Nr. I-657 (suvestinė redakcija nuo 2022-05-28 iki 2022-12-31)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "94-1833",
+  "official_journal_page": null,
+  "official_journal_date": "1994-12-07",
+  "entry_into_force": "1994-12-07",
+  "notification_date": "2022-12-23",
+  "commission_reference": "MNE(2022)08072",
+  "nim_celex": "72020L1828LTU_202208072",
+  "nim_id": "202208072",
+  "transposes_celex": [
+    "32020L1828"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/442d6d2a-0e9e-4555-a37c-6aee9564f908",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
