@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos darbo tarybų įstatymas Nr. IX-2500",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "164",
+  "official_journal_page": null,
+  "official_journal_date": "2004-11-11",
+  "entry_into_force": "2004-11-11",
+  "notification_date": "2004-11-19",
+  "commission_reference": "MNE(2004)53055",
+  "nim_celex": "72002L0014LTU_33055",
+  "nim_id": "33055",
+  "transposes_celex": [
+    "32002L0014"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0813a0e4-a380-41f5-b810-d6780f550c63",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
