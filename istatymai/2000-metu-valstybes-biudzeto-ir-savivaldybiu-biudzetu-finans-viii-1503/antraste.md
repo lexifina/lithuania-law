@@ -1,0 +1,8 @@
+Įstatymas skelbtas: Žin., 1999, Nr. 113-3295
+Neoficialus įstatymo tekstas
+LIETUVOS RESPUBLIKOS
+2000 METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ RODIKLIŲ
+PATVIRTINIMO
+ĮSTATYMAS
+1999 m. gruodžio 23 d. Nr. VIII-1503
+Vilnius
