@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos biudžeto sandaros įstatymas Nr.  I- 430 (suvestinė redakcija nuo 2024-03-01 iki 2024-12-12)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "24-596/1990",
+  "official_journal_page": null,
+  "official_journal_date": "1990-08-31",
+  "entry_into_force": "1991-01-01",
+  "notification_date": "2025-12-31",
+  "commission_reference": "MNE(2025)07471",
+  "nim_celex": "72024L1265LTU_202507471",
+  "nim_id": "202507471",
+  "transposes_celex": [
+    "32024L1265"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c96468ee-db47-452c-9540-4821bf830443",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
