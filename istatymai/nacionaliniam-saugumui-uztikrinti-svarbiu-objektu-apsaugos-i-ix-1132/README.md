@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2002-10-30 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/b9bb833e4c9766b7a3ec8905f5e483f6960daaa5/istatymai/TAR.57E0E8B29108.md) |
+| 2003-07-23 | 2004-02-20 | Įstatymas Nr. IX-1677 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/2e3709dd7f5e2e003fc917ad919886f779930774/istatymai/TAR.57E0E8B29108.md) |
