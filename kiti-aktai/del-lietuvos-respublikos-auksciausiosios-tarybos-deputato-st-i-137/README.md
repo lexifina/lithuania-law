@@ -10,3 +10,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | --- | --- | --- | --- |
 | 1990-04-11 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/292fb8c10c98f81ab93a64d403166e4257a3525a/istatymai/TAR.DBCAF0AFD52A.md) |
 | 1990-08-04 | 1991-11-14 | Aktas Nr. I-438 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/7895b2814491733cb9b080f3dae444269623dc4c/istatymai/TAR.DBCAF0AFD52A.md) |
+| 1991-11-15 |  | Aktas Nr. I-1933 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/238e70f010cfd501a437024dcb3ad8b206115d34/istatymai/TAR.DBCAF0AFD52A.md) |
