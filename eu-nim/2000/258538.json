@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas Nr. VIII-1864 (Suvestinė redakcija nuo 2018-03-01 iki 2018-05-31)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "74-2262",
+  "official_journal_page": null,
+  "official_journal_date": "2000-09-06",
+  "entry_into_force": "2000-09-06",
+  "notification_date": "2018-05-22",
+  "commission_reference": "MNE(2018)52325",
+  "nim_celex": "72016L0943LTU_258538",
+  "nim_id": "258538",
+  "transposes_celex": [
+    "32016L0943"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e15384d6-3065-4432-8be8-d6b0d0a0a35b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
