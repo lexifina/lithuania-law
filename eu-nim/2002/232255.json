@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymas Nr. IX-1132",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "103",
+  "official_journal_page": null,
+  "official_journal_date": "2002-10-30",
+  "entry_into_force": "2002-10-30",
+  "notification_date": "2015-12-17",
+  "commission_reference": "MNE(2015)58834",
+  "nim_celex": "72009L0072LTU_232255",
+  "nim_id": "232255",
+  "transposes_celex": [
+    "32009L0072"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/10dcae88-96ba-4ee4-92ca-0275d2aee260",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
