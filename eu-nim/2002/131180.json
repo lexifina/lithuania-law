@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO IR\nVALSTYBINĖS MAISTO IR VETERINARIJOS TARNYBOS DIREKTORIAUS 2002 M. GEGUŽĖS 16 D. ĮSAKYMAS  NR. 250/224 \"DĖL LAUKINIŲ GYVŪNŲ PAĖMIMO IŠ BUVEINIŲ ZOOLOGINĖMS KOLEKCIJOMS SUDARYTI IR ŠIŲ KOLEKCIJŲ REGISTRAVIMO TVARKOS PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "60",
+  "official_journal_page": null,
+  "official_journal_date": "2002-06-19",
+  "entry_into_force": "2002-06-20",
+  "notification_date": "2006-05-15",
+  "commission_reference": "MNE(2006)53021",
+  "nim_celex": "71979L0409LTU_131180",
+  "nim_id": "131180",
+  "transposes_celex": [
+    "31979L0409"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a0200868-78a2-4fc4-b656-331135a46b3d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
