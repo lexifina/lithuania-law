@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2004 m. gruodžio 23 d. įsakymas Nr. 3-586 „Dėl transeuropinės geležinkelių sistemos sąveikos reikalavimų nustatymo ir taikymo taisyklių patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "6",
+  "official_journal_page": null,
+  "official_journal_date": "2005-01-15",
+  "entry_into_force": "2005-01-16",
+  "notification_date": "2005-02-01",
+  "commission_reference": "MNE(2005)54792",
+  "nim_celex": "72004L0050LTU_34792",
+  "nim_id": "34792",
+  "transposes_celex": [
+    "32004L0050"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6cb25afe-518d-4be1-8e37-9c7b04da01cb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
