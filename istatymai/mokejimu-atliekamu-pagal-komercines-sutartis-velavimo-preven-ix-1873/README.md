@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2004-05-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/340c3059319fa0f657783439f08b1da4e6e8fb15/istatymai/TAR.3DCC460F8996.md) |
+| 2004-07-27 | 2013-02-28 | Įstatymas Nr. IX-2403 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/a33bde188ed4370a1f53b32310b54883568443da/istatymai/TAR.3DCC460F8996.md) |
