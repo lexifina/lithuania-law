@@ -1,0 +1,28 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo proceso kodekso, patvirtinto 2002 m. kovo 14 d. įstatymu Nr. IX-785, 21, 48, 50, 52, 127, 142, 143, 151, 158, 161, 163, 165, 212, 217, 232, 233, 234, 237, 244, 254, 255, 256, 266, 276, 287, 303, 318, 319, 322, 323, 326, 327, 329, 332, 342, 351, 353, 362, 375, 380, 397, 421, 440, 458, 459 straipsnių pakeitimo ir papildymo bei Kodekso papildymo 362(1) straipsniu įstatymas Nr. IX-1496",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "38",
+  "official_journal_page": null,
+  "official_journal_date": "2003-04-24",
+  "entry_into_force": "2003-05-01",
+  "notification_date": "2013-04-18",
+  "commission_reference": "MNE(2013)52241",
+  "nim_celex": "72001F0220LTU_202532",
+  "nim_id": "202532",
+  "transposes_celex": [
+    "32001F0220",
+    "32008F0909",
+    "32010L0064",
+    "32011L0036",
+    "32011L0099",
+    "32012L0013",
+    "32012L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6b46fa61-6bd3-4e72-8661-5cf964c60276",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
