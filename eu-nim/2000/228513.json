@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo pakeitimo įstatymas Nr. VIII-1562",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "18",
+  "official_journal_page": null,
+  "official_journal_date": "2000-02-29",
+  "entry_into_force": "2000-02-29",
+  "notification_date": "2015-07-28",
+  "commission_reference": "MNE(2015)55384",
+  "nim_celex": "72012L0034LTU_228513",
+  "nim_id": "228513",
+  "transposes_celex": [
+    "32012L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5fa080bf-8ae3-4b16-b760-25a24665f3c0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
