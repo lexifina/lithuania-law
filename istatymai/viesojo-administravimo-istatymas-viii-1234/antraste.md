@@ -1,0 +1,11 @@
+Įstatymas skelbtas: Žin., 1999, Nr. 60-1945
+Neoficialus įstatymo tekstas
+LIETUVOS RESPUBLIKOS
+VIEŠOJO ADMINISTRAVIMO
+ĮSTATYMAS
+1999 m. birželio 17 d. Nr. VIII-1234
+Vilnius
+PIRMASIS
+SKIRSNIS
+BENDROSIOS
+NUOSTATOS
