@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministerijos 2003 m. gegužės 15 d. raštas Nr. (27.6-51)-3-2662 \"Dėl pagrindinių rekomendacijų energetikos įmonėms, kaip informuoti energijos vartotojus\"",
+  "type_of_act": "Administracinės priemonės",
+  "official_journal": "Informaciniai pranešimai",
+  "official_journal_reference": "50",
+  "official_journal_page": null,
+  "official_journal_date": "2003-07-06",
+  "entry_into_force": "2003-05-15",
+  "notification_date": null,
+  "commission_reference": "MNE(2008)54718",
+  "nim_celex": "72006L0032LTU_157666",
+  "nim_id": "157666",
+  "transposes_celex": [
+    "32006L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/63c4ebb2-b9e8-4b8d-8a5b-861c8d71bd05",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
