@@ -11,3 +11,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 1991-12-15 |  | Teisės aktų registras (Seimo kanceliarija) | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22mIpeCSJXRF%22) |
 | 1996-01-01 | 1996-11-01 | Įstatymas Nr. I-1080 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22mLpRHUmSWa%22) |
 | 1996-11-02 | 1997-07-15 | Įstatymas Nr. I-1587 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22lZVHbCUzqC%22) |
+| 1997-07-16 | 1998-12-31 | Įstatymas Nr. VIII-309 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22IRUetDsMqd%22) |
