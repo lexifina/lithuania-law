@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS ĮSTATYMAS DĖL SUSITARIMO DĖL BANDYMŲ POLIGONO KIOTO MECHANIZMŲ TAIKYMUI BALTIJOS JŪROS REGIONO ENERGETIKOS PROJEKTUOSE RATIFIKAVIMO NR. IX-2463",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "163",
+  "official_journal_page": null,
+  "official_journal_date": "2004-11-09",
+  "entry_into_force": "2004-11-09",
+  "notification_date": "2009-04-27",
+  "commission_reference": "MNE(2009)51762",
+  "nim_celex": "72004L0101LTU_161628",
+  "nim_id": "161628",
+  "transposes_celex": [
+    "32004L0101"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/559f9c21-1812-4e1a-89ae-e86df01020fa",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
