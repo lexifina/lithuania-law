@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Ūkio ministro 2003 m. lapkričio 18 d. įsakymas Nr.4-430 „Dėl gamtinių dujų laisvojo vartotojo pripažinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "109",
+  "official_journal_page": null,
+  "official_journal_date": "2003-11-21",
+  "entry_into_force": "2004-01-01",
+  "notification_date": "2005-03-04",
+  "commission_reference": "MNE(2005)55736",
+  "nim_celex": "72003L0055LTU_35736",
+  "nim_id": "35736",
+  "transposes_celex": [
+    "32003L0055"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1c3ac62a-6ec5-4fb1-be47-2be9a9f19059",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
