@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos transporto veiklos pagrindų įstatymas Nr. I-1863 (suvestinė redakcija nuo 2025-11-29)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "215-0",
+  "official_journal_page": null,
+  "official_journal_date": "1991-10-25",
+  "entry_into_force": "1991-10-15",
+  "notification_date": "2026-04-03",
+  "commission_reference": "MNE(2026)02023",
+  "nim_celex": "72023L2661LTU_202602023",
+  "nim_id": "202602023",
+  "transposes_celex": [
+    "32023L2661"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e901209e-6080-4bf4-b180-0b74a8467888",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
