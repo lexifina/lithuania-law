@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2002 m. kovo 21 d. nutarimas Nr. 386 „Dėl akcinės bendrovės „Lietuvos geležinkeliai“ atleidimo nuo apskaičiuotų delspinigių mokėjimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "31",
+  "official_journal_page": null,
+  "official_journal_date": "2002-03-27",
+  "entry_into_force": null,
+  "notification_date": null,
+  "commission_reference": "MNE(2003)50744",
+  "nim_celex": "71991L0440LTU_20744",
+  "nim_id": "20744",
+  "transposes_celex": [
+    "31991L0440"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7e1dd76e-5703-4077-a0e6-1c9353a7819a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
