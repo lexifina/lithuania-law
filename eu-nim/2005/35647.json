@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2005 m. vasario 7 d. įsakymas Nr.  V-87 ,,Dėl pranešimų sveikatos apsaugos ministerijai apie pavojingas nepageidaujamas reakcijas ir pavojingus nepageidaujamus reiškinius, susijusius su kraujo ir jo komponentų ruošimu ar transfuzija, tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "19",
+  "official_journal_page": null,
+  "official_journal_date": "2005-02-10",
+  "entry_into_force": "2005-02-11",
+  "notification_date": "2005-03-14",
+  "commission_reference": "MNE(2005)55647",
+  "nim_celex": "72002L0098LTU_35647",
+  "nim_id": "35647",
+  "transposes_celex": [
+    "32002L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cb39cf19-ca20-4b2a-b468-a6d99a58f02c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
