@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2005 m. kovo 16 d.  nutarimas Nr. 280 „Dėl nelegalių jonizuojančiosios spinduliuotės šaltinių ir radionuklidais užterštų objektų tvarkymo taisyklių patvirtinimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "36",
+  "official_journal_page": null,
+  "official_journal_date": "2005-03-19",
+  "entry_into_force": "2005-03-20",
+  "notification_date": "2006-01-11",
+  "commission_reference": "MNE(2006)50159",
+  "nim_celex": "72003L0122LTU_127223",
+  "nim_id": "127223",
+  "transposes_celex": [
+    "32003L0122"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d4535c2b-d4cc-42ca-bc9e-9101f5d80625",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
