@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2004 m. lapkričio 3 d. įsakymas Nr. 3D-597 \"Dėl pašarinių žaliavų tiekimo į apyvartą taisyklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "163",
+  "official_journal_page": null,
+  "official_journal_date": "2004-11-09",
+  "entry_into_force": "2004-11-15",
+  "notification_date": "2004-12-01",
+  "commission_reference": "MNE(2004)53409",
+  "nim_celex": "71999L0029LTU_33409",
+  "nim_id": "33409",
+  "transposes_celex": [
+    "31999L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/070815a9-2fa4-4199-9935-3f2405f5d0b5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
