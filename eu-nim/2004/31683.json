@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos teisingumo ministro 2004m. rugsėjo 24 d. įsakymas Nr. 1R-217 „Dėl Finansinių paslaugų teikimo, kai sutartys sudaromos ryšio priemonėmis, taisyklių patvirtinimo”",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "144",
+  "official_journal_page": null,
+  "official_journal_date": "2004-09-28",
+  "entry_into_force": "2004-09-29",
+  "notification_date": "2004-10-11",
+  "commission_reference": "MNE(2004)51683",
+  "nim_celex": "72002L0065LTU_31683",
+  "nim_id": "31683",
+  "transposes_celex": [
+    "32002L0065"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6e439efc-19a4-41cd-964a-6b324c924273",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
