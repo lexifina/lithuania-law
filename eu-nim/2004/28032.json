@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vartotojų teisių gynimo įstatymo 1, 2, 4, 30 straipsnių pakeitimo ir papildymo bei Įstatymo papildymo devintuoju, dešimtuoju skirsniais ir priedu įstatymas Nr. IX-2173",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "72",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-30",
+  "entry_into_force": "2004-04-30",
+  "notification_date": "2004-05-26",
+  "commission_reference": "MNE(2004)58032",
+  "nim_celex": "71998L0027LTU_28032",
+  "nim_id": "28032",
+  "transposes_celex": [
+    "31998L0027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ea476cd9-6e13-4d44-8522-82c76c825f81",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
