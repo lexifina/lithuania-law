@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2004 m. gegužės 27 d. įsakymas Nr. V-396 \"Dėl Medicinos praktikos licencijavimo taisyklių patvirtinimo\" (suvestinė redakcija nuo 2019-04-26)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "90-3316",
+  "official_journal_page": null,
+  "official_journal_date": "2004-06-08",
+  "entry_into_force": "2004-06-09",
+  "notification_date": "2019-06-17",
+  "commission_reference": "MNE(2019)53773",
+  "nim_celex": "72013L0059LTU_274178",
+  "nim_id": "274178",
+  "transposes_celex": [
+    "32013L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a090f6e9-93fb-11e9-9369-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
