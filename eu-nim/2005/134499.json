@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS DRAUDIMO ĮSTATYMO 169 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS NR. X-77",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "18",
+  "official_journal_page": null,
+  "official_journal_date": "2005-02-08",
+  "entry_into_force": "2005-02-08",
+  "notification_date": "2006-08-22",
+  "commission_reference": "MNE(2006)55366",
+  "nim_celex": "72002L0092LTU_134499",
+  "nim_id": "134499",
+  "transposes_celex": [
+    "32002L0092"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/644320f7-1a52-480a-8c32-8798c3eae4f4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
