@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2004 m. liepos 1 d. įsakymas Nr. V-491 „Dėl Poveikio visuomenės sveikatai vertinimo metodinių nurodymų patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "106",
+  "official_journal_page": null,
+  "official_journal_date": "2004-07-08",
+  "entry_into_force": "2004-07-09",
+  "notification_date": "2007-08-29",
+  "commission_reference": "MNE(2007)56334",
+  "nim_celex": "71996L0082LTU_148287",
+  "nim_id": "148287",
+  "transposes_celex": [
+    "31996L0082"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8d653ab3-6aba-4278-b667-ad6ee65173a4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
