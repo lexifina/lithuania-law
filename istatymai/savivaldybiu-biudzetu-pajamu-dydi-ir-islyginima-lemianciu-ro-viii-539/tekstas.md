@@ -1,0 +1,1 @@
+Neoficialus įstatymo tekstas
