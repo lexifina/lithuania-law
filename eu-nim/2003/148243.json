@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos civilinės saugos įstatymo 11, 23, 24 straipsnių pakeitimo ir 26 straipsnio pripažinimo netekusiu galios įstatymas Nr. IX-1674",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "73",
+  "official_journal_page": null,
+  "official_journal_date": "2003-07-23",
+  "entry_into_force": "2003-07-23",
+  "notification_date": "2007-08-28",
+  "commission_reference": "MNE(2007)56291",
+  "nim_celex": "71996L0082LTU_148243",
+  "nim_id": "148243",
+  "transposes_celex": [
+    "31996L0082"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3b2b2a6e-df70-43ff-bf05-b423223946c3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
