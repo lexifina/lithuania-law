@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro 2001 m. gegužės 25 d. įsakymas Nr. 260 „Dėl motorinių transporto priemonių ir jų priekabų registravimo taisyklių patvirtinimo“ (suvestinė redakcija nuo 2017-09-01)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "48",
+  "official_journal_page": null,
+  "official_journal_date": "2001-06-06",
+  "entry_into_force": "2001-06-07",
+  "notification_date": "2017-09-20",
+  "commission_reference": "MNE(2017)55224",
+  "nim_celex": "72014L0046LTU_250992",
+  "nim_id": "250992",
+  "transposes_celex": [
+    "32014L0046"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a612ad37-ed39-44d9-bf62-5900b9b8d304",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
