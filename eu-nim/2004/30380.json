@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos valstybinės maisto ir veterinarijos tarnybos direktoriaus 2004 m. balandžio 14 d. įsakymas Nr. B1-323 \"Dėl laikinųjų reikalavimų galvijų surinkimo centrams ir prekiautojams patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "57",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-20",
+  "entry_into_force": "2004-04-21",
+  "notification_date": "2004-08-10",
+  "commission_reference": "MNE(2004)50380",
+  "nim_celex": "72000L0020LTU_30380",
+  "nim_id": "30380",
+  "transposes_celex": [
+    "32000L0020"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/618ed4e7-8fb6-4a76-8a3d-55d16cb6aa05",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
