@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2005 m. vasario 8 d. įsakymas Nr. V-98 ,,Dėl autologinei transfuzijai naudojamo kraujo ar kraujo komponentų ėmimo, ištyrimo, perdirbimo, saugojimo ir naudojimo tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "21",
+  "official_journal_page": null,
+  "official_journal_date": "2005-02-12",
+  "entry_into_force": "2005-02-13",
+  "notification_date": "2005-03-14",
+  "commission_reference": "MNE(2005)55649",
+  "nim_celex": "72002L0098LTU_35649",
+  "nim_id": "35649",
+  "transposes_celex": [
+    "32002L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ebe6fa33-3f8c-4bb9-a203-8e15f05f809d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
