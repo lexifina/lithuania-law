@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 1992-10-15 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/723b30f38334d7241461060ed3a994907a27444e/istatymai/TAR.2716576D8D0C.md) |
+| 1996-07-01 | 2003-06-30 | Įstatymas Nr. I-1314 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/928fda9eaa9906921cb9efee68a639457a4ee2a2/istatymai/TAR.2716576D8D0C.md) |
