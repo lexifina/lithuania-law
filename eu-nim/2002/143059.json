@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS SEIMO NUTARIMAS DĖL LIETUVOS RESPUBLIKOS TERITORIJOS BENDROJO PLANO NR. IX-1154",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "110",
+  "official_journal_page": null,
+  "official_journal_date": "2002-11-15",
+  "entry_into_force": "2002-11-16",
+  "notification_date": "2007-04-04",
+  "commission_reference": "MNE(2007)52538",
+  "nim_celex": "72004L0035LTU_143059",
+  "nim_id": "143059",
+  "transposes_celex": [
+    "32004L0035"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7df2affe-2676-4678-aba2-556eb6a6708f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
