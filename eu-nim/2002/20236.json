@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Aplinkos ministro 2002 m. gruodžio 5 d. įsakymas Nr. 620 \"Dėl lakiųjų organinių junginių, susidarančių naudojant tirpiklius tam tikrų veiklos rūšių įrenginiuose, emisijos ribojimo tvarkos patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "15",
+  "official_journal_page": null,
+  "official_journal_date": "2003-02-12",
+  "entry_into_force": "2002-02-13",
+  "notification_date": "2004-01-14",
+  "commission_reference": "MNE(2003)50236",
+  "nim_celex": "71999L0013LTU_20236",
+  "nim_id": "20236",
+  "transposes_celex": [
+    "31999L0013",
+    "32004L0042"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/dbcccb51-c400-464d-ad2d-ad126d640e4f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
