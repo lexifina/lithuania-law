@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro 1999 m. gruodžio 21 d. įsakymas Nr. 424 \"Dėl šilumos energijos ir šilumnešio kiekio apskaitos taisyklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "112",
+  "official_journal_page": null,
+  "official_journal_date": "1999-12-30",
+  "entry_into_force": "1999-12-31",
+  "notification_date": "2008-08-28",
+  "commission_reference": "MNE(2008)54720",
+  "nim_celex": "72006L0032LTU_157668",
+  "nim_id": "157668",
+  "transposes_celex": [
+    "32006L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d32175e9-e85d-4ab2-9b87-99855e73f55b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
