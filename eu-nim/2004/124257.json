@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 2004 M. VASARIO 23 D. NUTARIMAS NR. 198 \"DĖL INFORMACIJOS APIE UPIŲ BASEINŲ RAJONUS TEIKIMO VISUOMENEI, VANDENS NAUDOTOJAMS IR KITIEMS SUINTERESUOTIEMS ASMENIMS TVARKOS PATVIRTINIMO\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "30",
+  "official_journal_page": null,
+  "official_journal_date": "2004-02-26",
+  "entry_into_force": "2004-02-27",
+  "notification_date": "2005-10-06",
+  "commission_reference": "MNE(2005)54257",
+  "nim_celex": "72000L0060LTU_124257",
+  "nim_id": "124257",
+  "transposes_celex": [
+    "32000L0060"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cbb4119d-744a-4f85-92d4-6a8701cfcb44",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
