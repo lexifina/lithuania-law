@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos pagalbos Europos Sąjungos valstybių narių institucijoms išieškant reikalaujamas skolas, susijusias su rinkliavomis, muitais, mokesčiais ir kitomis pinigų sumomis, teikimo ir naudojimosi kitų Europos Sąjungos valstybių narių institucijų teikiama pagalba išieškant minėtas pinigų sumas įstatymas Nr. IX-1781",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "104",
+  "official_journal_page": null,
+  "official_journal_date": "2003-11-05",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2004-06-16",
+  "commission_reference": "MNE(2004)58917",
+  "nim_celex": "72004L0079LTU_28917",
+  "nim_id": "28917",
+  "transposes_celex": [
+    "32004L0079"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/50c26ac8-43c0-435e-b4fe-832c3bd54312",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
