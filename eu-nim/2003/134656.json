@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos draudimo įstatymo pakeitimo įstatymas Nr.IX-1219",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "123",
+  "official_journal_page": null,
+  "official_journal_date": "2002-12-24",
+  "entry_into_force": "2003-01-01",
+  "notification_date": "2006-09-04",
+  "commission_reference": "MNE(2006)55497",
+  "nim_celex": "72004L0081LTU_134656",
+  "nim_id": "134656",
+  "transposes_celex": [
+    "32004L0081",
+    "32011L0085",
+    "32011L0095"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a15bc650-b62f-4e4a-8375-ac5be667ac83",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
