@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymu Nr. IX-1132  (suvestinė redakcija nuo 2024-10-18)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "103-4604",
+  "official_journal_page": null,
+  "official_journal_date": "2002-10-30",
+  "entry_into_force": "2002-10-30",
+  "notification_date": "2025-01-24",
+  "commission_reference": "MNE(2025)00638",
+  "nim_celex": "72022L2557LTU_202500638",
+  "nim_id": "202500638",
+  "transposes_celex": [
+    "32022L2557"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/debfbcdf-c371-4e58-806c-0bdff9534118",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
