@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Draudimo priežiūros komisijos 2004 m. balandžio 6 d. nutarimas Nr. N-36 „Dėl Teisinių išlaidų draudimo grupės draudimo veiklos tvarkos patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "54",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-15",
+  "entry_into_force": "2004-04-16",
+  "notification_date": "2004-04-23",
+  "commission_reference": "MNE(2003)51508",
+  "nim_celex": "71987L0344LTU_21508",
+  "nim_id": "21508",
+  "transposes_celex": [
+    "31987L0344",
+    "32009L0138"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5499dca2-258e-4110-b0b2-2a566e81ed52",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
