@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo pakeitimo įstatymas Nr. IX-1296",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "15",
+  "official_journal_page": null,
+  "official_journal_date": "2003-02-12",
+  "entry_into_force": "2003-07-01",
+  "notification_date": "2003-10-28",
+  "commission_reference": "MNE(2003)59587",
+  "nim_celex": "71995L0046LTU_19587",
+  "nim_id": "19587",
+  "transposes_celex": [
+    "31995L0046",
+    "32004L0082"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a78a7be3-20e8-49b3-bf72-7d5d2cea6845",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
