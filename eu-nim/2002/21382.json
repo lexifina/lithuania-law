@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos genetiškai modifikuotų organizmų įstatymas Nr. IX-375",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "56",
+  "official_journal_page": null,
+  "official_journal_date": "2001-06-30",
+  "entry_into_force": "2002-12-31",
+  "notification_date": "2004-02-20",
+  "commission_reference": "MNE(2003)51382",
+  "nim_celex": "71998L0081LTU_21382",
+  "nim_id": "21382",
+  "transposes_celex": [
+    "31998L0081",
+    "32001L0018",
+    "32009L0041"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0a641feb-909b-44a8-bf0e-801f6870e86e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
