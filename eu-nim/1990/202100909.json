@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos biudžeto sandaros įstatymas Nr. I-430 (suvestinė redakcija nuo 2021-01-01 iki 2021-06-30)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "24-596",
+  "official_journal_page": null,
+  "official_journal_date": "1990-08-30",
+  "entry_into_force": "1990-12-31",
+  "notification_date": "2021-02-02",
+  "commission_reference": "MNE(2021)00909",
+  "nim_celex": "72019L0001LTU_202100909",
+  "nim_id": "202100909",
+  "transposes_celex": [
+    "32019L0001"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/50b9ecd0-360c-4456-ab96-c28ca8a68c91",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
