@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2002 sausio 22 d. nutarimas Nr. 84 „Dėl Pavojingų krovinių vežimo geležinkeliais Lietuvos Respublikos teritorijoje“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "8",
+  "official_journal_page": null,
+  "official_journal_date": "2002-01-23",
+  "entry_into_force": "2004-01-24",
+  "notification_date": "2004-10-26",
+  "commission_reference": "MNE(2004)52189",
+  "nim_celex": "72004L0089LTU_32189",
+  "nim_id": "32189",
+  "transposes_celex": [
+    "32004L0089"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1b13006f-c9fd-4d3f-96c6-76b1edd39b38",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
