@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2003 m. spalio 17 d.  įsakymas Nr. A1-160 „Dėl rekomendacijų darbdaviams ir darbuotojams jų susitarimu taikyti lanksčias darbo organizavimo formas patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "101",
+  "official_journal_page": null,
+  "official_journal_date": "2003-10-29",
+  "entry_into_force": "2003-10-30",
+  "notification_date": "2008-07-28",
+  "commission_reference": "MNE(2008)54378",
+  "nim_celex": "72006L0054LTU_157310",
+  "nim_id": "157310",
+  "transposes_celex": [
+    "32006L0054"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/606e7229-492a-419f-b5bd-5d0e78a162f9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
