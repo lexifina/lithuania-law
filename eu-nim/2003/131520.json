@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2003 m. spalio 22 d. nutarimas Nr. 1317 \"Dėl Kaimo plėtros 2004–2006 metų plano pagrindinių nuostatų\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "101",
+  "official_journal_page": null,
+  "official_journal_date": "2003-10-29",
+  "entry_into_force": "2003-10-30",
+  "notification_date": "2006-05-19",
+  "commission_reference": "MNE(2006)53273",
+  "nim_celex": "71979L0409LTU_131520",
+  "nim_id": "131520",
+  "transposes_celex": [
+    "31979L0409"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9ec9ec08-f5a2-40e5-b29e-a5ac36f99adc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
