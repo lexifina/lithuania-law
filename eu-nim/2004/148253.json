@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Civilinės saugos departamento prie Vidaus reikalų ministerijos direktoriaus 2004 m. rugsėjo 30 d. įsakymas Nr. V-131 „Dėl Konvencijos dėl tarpvalstybinio pramoninių avarijų poveikio ir Europos Sąjungos direktyvos dėl didelių su pavojingomis medžiagomis susijusių avarijų kontrolės reikalavimus atitinkančių dokumentų patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "183",
+  "official_journal_page": null,
+  "official_journal_date": "2004-12-22",
+  "entry_into_force": "2004-12-23",
+  "notification_date": "2007-08-29",
+  "commission_reference": "MNE(2007)56300",
+  "nim_celex": "71996L0082LTU_148253",
+  "nim_id": "148253",
+  "transposes_celex": [
+    "31996L0082",
+    "32003L0105"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/81229a49-aa64-4b7d-89a7-79777f36e34e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
