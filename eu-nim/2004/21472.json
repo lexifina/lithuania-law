@@ -1,0 +1,25 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS VALSTYBINĖS MAISTO IR VETERINARIJOS TARNYBOS DIREKTORIAUS \nĮ S A K Y M A S Nr. B1-126 DĖL ŠVIEŽIOS MĖSOS PARUOŠIMO IR TIEKIMO Į RINKĄ TAISYKLIŲ PATVIRTINIMO",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "27",
+  "official_journal_page": null,
+  "official_journal_date": "2004-02-20",
+  "entry_into_force": "2004-02-21",
+  "notification_date": "2004-03-23",
+  "commission_reference": "MNE(2003)51472",
+  "nim_celex": "71964L0433LTU_21472",
+  "nim_id": "21472",
+  "transposes_celex": [
+    "31964L0433",
+    "31991L0495",
+    "31991L0497",
+    "31995L0023"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/73948171-848d-40d6-8949-36d93ecea9b3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
