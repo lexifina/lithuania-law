@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2004 m. balandžio 30 d. įsakymas Nr. 3D-276 „Dėl žemės ūkio ministro 1999 m. spalio 7 d. įsakymo Nr. 383 „Dėl Privalomųjų reikalavimų vaisinių ir uoginių sodo augalų sodmenims\" pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "78-2734",
+  "official_journal_page": null,
+  "official_journal_date": "2004-05-10",
+  "entry_into_force": "2004-05-11",
+  "notification_date": "2021-02-03",
+  "commission_reference": "MNE(2021)00590",
+  "nim_celex": "71992L0034LTU_202100590",
+  "nim_id": "202100590",
+  "transposes_celex": [
+    "31992L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c9e2f653-76f9-4c00-b1af-25ab811eafa0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
