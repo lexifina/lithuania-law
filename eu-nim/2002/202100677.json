@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2001 m. gruodžio 21 d. įsakymas Nr. 663 „Dėl Lietuvos higienos normos HN 73:2018 „Pagrindinės radiacinės saugos normos“ patvirtinimo“ (suvestinė redakcija nuo 2018-11-30)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "11-388",
+  "official_journal_page": null,
+  "official_journal_date": "2002-01-31",
+  "entry_into_force": "2002-02-01",
+  "notification_date": "2021-01-27",
+  "commission_reference": "MNE(2021)00677",
+  "nim_celex": "72013L0059LTU_202100677",
+  "nim_id": "202100677",
+  "transposes_celex": [
+    "32013L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b5a39637-5064-4003-9b47-801f24ed87b1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
