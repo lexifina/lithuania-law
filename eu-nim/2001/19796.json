@@ -1,0 +1,28 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "VALSTYBINĖS MAISTO IR VETERINARIJOS TARNYBOS DIREKTORIAUS ĮSAKYMAS Nr. 115 \"DĖL TAISYKLIŲ ĮGYVENDINIMO TVARKOS PATVIRTINIMO \"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "23",
+  "official_journal_page": null,
+  "official_journal_date": "2001-03-16",
+  "entry_into_force": "2001-03-17",
+  "notification_date": "2003-11-13",
+  "commission_reference": "MNE(2003)59796",
+  "nim_celex": "71989L0437LTU_19796",
+  "nim_id": "19796",
+  "transposes_celex": [
+    "31989L0437",
+    "31991L0492",
+    "31991L0493",
+    "31991L0495",
+    "31992L0048",
+    "31994L0065",
+    "31997L0079"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9084f4bd-c587-40bc-86bb-9aed6b4fbf32",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
