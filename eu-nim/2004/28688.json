@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos nutarimas Nr. 85 „Dėl užsienio bankų filialų, veikiančių Lietuvos Respublikoje, priežiūros taisyklių patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "86",
+  "official_journal_page": null,
+  "official_journal_date": "2004-05-28",
+  "entry_into_force": "2004-05-29",
+  "notification_date": "2004-06-08",
+  "commission_reference": "MNE(2004)58688",
+  "nim_celex": "71989L0117LTU_28688",
+  "nim_id": "28688",
+  "transposes_celex": [
+    "31989L0117"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c527ba7b-34ea-423b-a740-1d1bb80421f3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
