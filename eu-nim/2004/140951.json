@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos centrinės kredito unijos įstatymo pakeitimo įstatymas Nr. IX-2101",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "61",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-27",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2007-02-20",
+  "commission_reference": "MNE(2007)50908",
+  "nim_celex": "71994L0019LTU_140951",
+  "nim_id": "140951",
+  "transposes_celex": [
+    "31994L0019",
+    "32006L0049"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b86e9398-7d50-49eb-80e5-2b96384a9b5a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
