@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2003 m. sausio 13 d. įsakymas Nr. 3-20 „Dėl asmenų, vadovaujančių licencijuojamai kelių transporto veiklai, profesinės kompetencijos egzamino ir žinių atnaujinimo egzamino laikymo tvarkos patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "150",
+  "official_journal_page": null,
+  "official_journal_date": "2003-01-17",
+  "entry_into_force": "2003-01-18",
+  "notification_date": "2004-11-19",
+  "commission_reference": "MNE(2004)53060",
+  "nim_celex": "72004L0066LTU_33060",
+  "nim_id": "33060",
+  "transposes_celex": [
+    "32004L0066"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5495b68a-df92-4a04-a370-98179e17337a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
