@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės kelių transporto inspekcijos prie susisiekimo ministerijos viršininko įsakymas Nr. 2B-185 „Dėl techninių reikalavimų nacionaliniam transporto priemonių tipui patvirtinti“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "104",
+  "official_journal_page": null,
+  "official_journal_date": "2004-07-03",
+  "entry_into_force": "2004-07-04",
+  "notification_date": "2004-09-21",
+  "commission_reference": "MNE(2004)51084",
+  "nim_celex": "72003L0076LTU_31084",
+  "nim_id": "31084",
+  "transposes_celex": [
+    "32003L0076"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/592884cb-e286-4632-8c93-7dcca6291092",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
