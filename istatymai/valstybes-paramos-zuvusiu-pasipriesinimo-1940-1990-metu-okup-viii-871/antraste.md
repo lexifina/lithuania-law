@@ -1,0 +1,8 @@
+Neoficialus įstatymo tekstas
+Įstatymas skelbtas: Žin., 1998, Nr. 92-2543
+LIETUVOS RESPUBLIKOS
+VALSTYBĖS PARAMOS ŽUVUSIŲ PASIPRIEŠINIMO 1940-1990 METŲ OKUPACIJOMS
+DALYVIŲ ŠEIMOMS
+ĮSTATYMAS
+1998 m. spalio 6 d. Nr. VIII-871
+Vilnius
