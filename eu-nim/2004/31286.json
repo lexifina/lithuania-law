@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2004 m. rugsėjo 23 d. nutarimas Nr. 1212 \"Dėl Lietuvos Respublikos Vyriausybės 2001 m. sausio 17 d. nutarimo Nr. 44 \"Dėl transporto priemonių ir sudėtinių transporto priemonių dalių atitikties įvertinimo\" pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "143",
+  "official_journal_page": null,
+  "official_journal_date": "2004-09-25",
+  "entry_into_force": "2004-09-26",
+  "notification_date": "2004-09-28",
+  "commission_reference": "MNE(2004)51286",
+  "nim_celex": "72002L0088LTU_31286",
+  "nim_id": "31286",
+  "transposes_celex": [
+    "32002L0088"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e9ad81e4-8eda-44b9-85e1-ffc811e83101",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
