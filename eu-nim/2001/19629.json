@@ -1,0 +1,32 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vartotojų teisių gynimo įstatymo pakeitimo įstatymas Nr. VIII – 1946 (nauja redakcija)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "85",
+  "official_journal_page": null,
+  "official_journal_date": "2000-10-11",
+  "entry_into_force": "2001-01-01",
+  "notification_date": "2003-10-29",
+  "commission_reference": "MNE(2003)59629",
+  "nim_celex": "71985L0577LTU_19629",
+  "nim_id": "19629",
+  "transposes_celex": [
+    "31985L0577",
+    "31987L0102",
+    "31990L0088",
+    "31993L0013",
+    "31994L0047",
+    "31997L0007",
+    "31998L0006",
+    "31998L0007",
+    "31998L0027",
+    "31999L0044",
+    "32003L0109"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e8fffa63-506d-44b6-a233-88a82e16b63d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
