@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių teisės pažeidimų kodekso papildymo 41(7), 181(3), 214(24), 247(10) straipsniais ir 188(2), 224, 233, 259(1) straipsnių pakeitimo įstatymas Nr. IX-2335",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "115",
+  "official_journal_page": null,
+  "official_journal_date": "2004-07-24",
+  "entry_into_force": "2004-07-24",
+  "notification_date": "2015-07-16",
+  "commission_reference": "MNE(2015)50747",
+  "nim_celex": "72011L0093LTU_223445",
+  "nim_id": "223445",
+  "transposes_celex": [
+    "32011L0093"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3ae9ee2d-d1a3-4d0a-84b7-f07ad7e7ff37",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
