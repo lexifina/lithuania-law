@@ -1,0 +1,32 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 1999 m. liepos 14 d. įsakymas Nr. 217 'Dėl atliekų tvarkymo taisyklių patvirtinimo'",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "63",
+  "official_journal_page": null,
+  "official_journal_date": "1999-07-21",
+  "entry_into_force": "1999-07-22",
+  "notification_date": "2004-01-08",
+  "commission_reference": "MNE(2003)50036",
+  "nim_celex": "71975L0439LTU_20036",
+  "nim_id": "20036",
+  "transposes_celex": [
+    "31975L0439",
+    "31975L0442",
+    "31991L0156",
+    "31991L0157",
+    "31991L0689",
+    "31993L0086",
+    "31994L0031",
+    "31994L0062",
+    "31994L0067",
+    "31999L0031",
+    "32002L0096"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2923a560-b38e-4151-ae34-a83b46575594",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
