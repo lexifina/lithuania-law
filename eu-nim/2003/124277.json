@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2003 M. LAPKRIČIO 25 D. ĮSAKYMAS NR. 591 'DĖL UPIŲ BASEINŲ RAJONO VALDYMO PLANO IR PRIEMONIŲ PROGRAMOS VANDENSAUGOS TIKSLAMS PASIEKTI RENGIMO BEI DERINIMO SU UŽSIENIO VALSTYBĖMIS TVARKOS PATVIRTINIMO'",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "114",
+  "official_journal_page": null,
+  "official_journal_date": "2003-12-05",
+  "entry_into_force": "2003-12-06",
+  "notification_date": "2005-10-06",
+  "commission_reference": "MNE(2005)54277",
+  "nim_celex": "72000L0060LTU_124277",
+  "nim_id": "124277",
+  "transposes_celex": [
+    "32000L0060",
+    "32006L0007",
+    "32006L0118"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a50adeae-14af-4a07-8f4e-26de5263e526",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
