@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos reklamos įstatymo 1, 2, 5, 6, 18, 19, 21, 22, 23 straipsnių pakeitimo ir papildymo bei įstatymo papildymo priedu įstatymas Nr. IX- 1212",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "123",
+  "official_journal_page": null,
+  "official_journal_date": "2002-12-24",
+  "entry_into_force": "2002-12-24",
+  "notification_date": "2003-10-29",
+  "commission_reference": "MNE(2003)59626",
+  "nim_celex": "71984L0450LTU_19626",
+  "nim_id": "19626",
+  "transposes_celex": [
+    "31984L0450",
+    "31997L0055",
+    "32005L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1167fa73-b11c-4a5f-a89d-e95207a58bb1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
