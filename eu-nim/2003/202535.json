@@ -1,0 +1,32 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo kodekso, patvirtinto 2000 m. rugsėjo 26 d. įstatymu Nr. VIII-1968, 4, 7, 9, 23, 25, 37, 39, 44, 46, 47, 48, 51, 61, 62, 65, 67, 74, 75, 90, 92, 95, 97, 102, 105, 118, 119, 143, 175, 178, 186, 187, 188, 189, 199, 202, 212, 213, 215, 227, 249, 250, 251, 257, 260, 263, 272, 281, 291 straipsnių pakeitimo ir papildymo bei Kodekso papildymo 39(1) ir 306(1) straipsniais įstatymas Nr. IX-1495",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "38",
+  "official_journal_page": null,
+  "official_journal_date": "2003-04-24",
+  "entry_into_force": "2003-05-01",
+  "notification_date": "2013-04-18",
+  "commission_reference": "MNE(2013)52244",
+  "nim_celex": "72000F0383LTU_202535",
+  "nim_id": "202535",
+  "transposes_celex": [
+    "32000F0383",
+    "32001F0413",
+    "32001F0888",
+    "32002F0475",
+    "32005F0222",
+    "32008F0675",
+    "32008F0841",
+    "32008F0913",
+    "32008F0919",
+    "32011L0036",
+    "32011L0099"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1ae66230-ce7c-458a-821c-f9bfb99d329c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
