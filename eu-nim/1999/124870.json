@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 1999 m. kovo 18 d. nutarimas Nr. 27 „Dėl Lietuvos banko valdybos 1997 m. birželio 26 d. nutarimo Nr. 144 dalinio pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "27",
+  "official_journal_page": null,
+  "official_journal_date": "1999-03-24",
+  "entry_into_force": "1999-03-25",
+  "notification_date": "2005-10-17",
+  "commission_reference": "MNE(2005)54870",
+  "nim_celex": "72000L0012LTU_124870",
+  "nim_id": "124870",
+  "transposes_celex": [
+    "32000L0012"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4ff8199a-5904-4757-96bd-77bc6fa67e09",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
