@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2002 m. rugsėjo 3 d. nutarimas Nr. 1386 „Dėl Pavojingų darbų sąrašo patvirtinimo“ (Suvestinė redakcija nuo 2018-11-01)",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "87-3751",
+  "official_journal_page": null,
+  "official_journal_date": "2002-09-06",
+  "entry_into_force": "2002-09-07",
+  "notification_date": "2018-12-10",
+  "commission_reference": "MNE(2018)56501",
+  "nim_celex": "72013L0059LTU_265694",
+  "nim_id": "265694",
+  "transposes_celex": [
+    "32013L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0fa886dc-ab10-43b1-8e60-f0c9963f3483",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
