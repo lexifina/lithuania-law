@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Pelno mokesčio ĮSTATYMAS IX-675",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "110",
+  "official_journal_page": null,
+  "official_journal_date": "2001-12-29",
+  "entry_into_force": "2002-01-01",
+  "notification_date": "2006-01-12",
+  "commission_reference": "MNE(2006)50144",
+  "nim_celex": "72005L0019LTU_127199",
+  "nim_id": "127199",
+  "transposes_celex": [
+    "32005L0019"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/94522bd2-20a9-427a-bedd-b2e5f3678a8a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
