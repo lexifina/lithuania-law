@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės nutarimas Nr. 1358 „Dėl Lietuvos Respublikos Vyriausybės 2000 m. balandžio 11 d. nutarimo Nr. 416 „Dėl transporto priemonės registracijos liudijimo, transporto priemonės naudotojo pažymėjimo ir vairuotojo pažymėjimo blankų aprašymų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "104",
+  "official_journal_page": null,
+  "official_journal_date": "2003-11-05",
+  "entry_into_force": "2004-04-01",
+  "notification_date": "2005-03-10",
+  "commission_reference": "MNE(2005)55988",
+  "nim_celex": "72003L0127LTU_35988",
+  "nim_id": "35988",
+  "transposes_celex": [
+    "32003L0127"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2843921b-bfdd-4bd0-ab56-ccd695ea8f03",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
