@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2001 m. kovo 14 d. nutarimas Nr. 291 \"Dėl Lietuvos Respublikos vidaus reikalų ministerijos nuostatų patvirtinimo\" (Suvestinė redakcija nuo 2024-01-06)",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "24-794",
+  "official_journal_page": null,
+  "official_journal_date": "2001-03-21",
+  "entry_into_force": "2001-03-22",
+  "notification_date": "2026-09-02",
+  "commission_reference": "MNE(2026)06898",
+  "nim_celex": "72024L1346LTU_202606898",
+  "nim_id": "202606898",
+  "transposes_celex": [
+    "32024L1346"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fceafdcf-7bfa-4d4f-a6c9-7e152b4c1b74",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
