@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro, Lietuvos Respublikos sveikatos apsaugos ministro 2001 m. gruodžio 11 d. įsakymas Nr. 591/640 „Dėl Aplinkos oro užterštumo sieros dioksidu, azoto dioksidu, azoto oksidais, benzenu, anglies monoksidu, švinu, kietosiomis dalelėmis ir ozonu normų patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "106-3827",
+  "official_journal_page": null,
+  "official_journal_date": "2001-12-19",
+  "entry_into_force": "2002-01-01",
+  "notification_date": "2018-01-09",
+  "commission_reference": "MNE(2018)50184",
+  "nim_celex": "72015L2193LTU_254386",
+  "nim_id": "254386",
+  "transposes_celex": [
+    "32015L2193"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fc4af762-ee09-4617-90a0-2392a28fd6a5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
