@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro, Lietuvos Respublikos sveikatos apsaugos ministro ir Valstybinės maisto ir veterinarijos tarnybos direktoriaus 2004 m. gruodžio 28 d. įsakymas Nr. D1-693/V-954/B1-1107 \"Dėl genetiškai modifikuotų mikroorganizmų klasifikavimo kriterijų\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "188",
+  "official_journal_page": null,
+  "official_journal_date": "2004-12-31",
+  "entry_into_force": "2005-01-01",
+  "notification_date": "2005-10-04",
+  "commission_reference": "MNE(2005)54519",
+  "nim_celex": "71990L0219LTU_124519",
+  "nim_id": "124519",
+  "transposes_celex": [
+    "31990L0219",
+    "31998L0081",
+    "32009L0041"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9c6aac0d-7b58-431d-9c77-33e13b67ad85",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
