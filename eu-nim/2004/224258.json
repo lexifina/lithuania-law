@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Nacionalinio akreditacijos biuro direktoriaus 2004 m. kovo 1 d. įsakymas Nr. V-16 \"Dėl Akreditacijos dokumento AD 5.3:2004 „Laboratorijų akreditavimas. Bendrieji reikalavimai“ patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Administracinės priemonės",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2004-03-01",
+  "entry_into_force": "2004-03-02",
+  "notification_date": "2015-03-06",
+  "commission_reference": "MNE(2015)51420",
+  "nim_celex": "72009F0905LTU_224258",
+  "nim_id": "224258",
+  "transposes_celex": [
+    "32009F0905"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/33780f9c-6327-11e7-b2f2-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
