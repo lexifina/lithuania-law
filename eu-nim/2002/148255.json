@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2002 m. balandžio 22 d. nutarimas Nr. 560 „Dėl Gyventojų informavimo pramoninių avarijų atvejais tvarkos patvirtinimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "43",
+  "official_journal_page": null,
+  "official_journal_date": "2002-04-26",
+  "entry_into_force": "2002-04-27",
+  "notification_date": "2007-08-28",
+  "commission_reference": "MNE(2007)56302",
+  "nim_celex": "71996L0082LTU_148255",
+  "nim_id": "148255",
+  "transposes_celex": [
+    "31996L0082"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d11f35b0-8e49-4088-b9e9-a86576561335",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
