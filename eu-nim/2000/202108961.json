@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos centrinių kredito unijų įstatymas Nr. VIII-1682 (suvestinė redakcija nuo 2021-01-01)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "45-1288",
+  "official_journal_page": null,
+  "official_journal_date": "2000-06-02",
+  "entry_into_force": "2000-06-02",
+  "notification_date": "2021-12-29",
+  "commission_reference": "MNE(2021)08961",
+  "nim_celex": "72019L0879LTU_202108961",
+  "nim_id": "202108961",
+  "transposes_celex": [
+    "32019L0879"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a397fbf1-6d3a-11ec-9136-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
