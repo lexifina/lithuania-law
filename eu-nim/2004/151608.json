@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo pakeitimo ir papildymo ĮSTATYMAS Nr. IX-1960",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "17",
+  "official_journal_page": null,
+  "official_journal_date": "2004-01-31",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2007-12-11",
+  "commission_reference": "MNE(2007)58794",
+  "nim_celex": "72006L0112LTU_151608",
+  "nim_id": "151608",
+  "transposes_celex": [
+    "32006L0112"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a25aa489-6bd9-4568-a1c4-663173f2a107",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
