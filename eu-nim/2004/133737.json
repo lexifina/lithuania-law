@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO PAKEITIMO IR PAPILDYMO\nĮSTATYMAS NR. IX-1960",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "17",
+  "official_journal_page": null,
+  "official_journal_date": "2004-01-31",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2006-07-27",
+  "commission_reference": "MNE(2006)54801",
+  "nim_celex": "72006L0058LTU_133737",
+  "nim_id": "133737",
+  "transposes_celex": [
+    "32006L0058"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8a5cacba-a64b-4a42-a282-f32f2b291f30",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
