@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos augalų sėklininkystės įstatymo pakeitimo įstatymas Nr. IX-2473 (nauja redakcija)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "156",
+  "official_journal_page": null,
+  "official_journal_date": "2004-10-26",
+  "entry_into_force": "2004-10-26",
+  "notification_date": "2005-01-07",
+  "commission_reference": "MNE(2005)54083",
+  "nim_celex": "72002L0053LTU_34083",
+  "nim_id": "34083",
+  "transposes_celex": [
+    "32002L0053"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3cb86eb4-73ce-48fb-a960-8e10967a425a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
