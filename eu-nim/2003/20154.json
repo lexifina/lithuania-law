@@ -1,0 +1,26 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos geologijos tarnybos prie LR aplinkos ministerijos direktoriaus įsakymas Nr. 1-06 'Dėl pavojingų medžiagų išleidimo į požeminį vandenį inventorizavimo ir informacijos rinkimo tvarkos patvirtinimo'",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "17",
+  "official_journal_page": null,
+  "official_journal_date": "2003-02-19",
+  "entry_into_force": "2003-02-20",
+  "notification_date": "2004-01-13",
+  "commission_reference": "MNE(2003)50154",
+  "nim_celex": "71980L0068LTU_20154",
+  "nim_id": "20154",
+  "transposes_celex": [
+    "31980L0068",
+    "31991L0676",
+    "31999L0031",
+    "32000L0060",
+    "32006L0118"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/25b64ae0-fac8-4aa1-9240-26ccbfe3f69f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
