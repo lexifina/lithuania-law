@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos šilumos ūkio įstatymas Nr. IX-1565 (suvestinė redakcija nuo 2023-10-01)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "51-2254",
+  "official_journal_page": null,
+  "official_journal_date": "2003-05-28",
+  "entry_into_force": "2003-07-01",
+  "notification_date": "2025-05-27",
+  "commission_reference": "MNE(2025)02955",
+  "nim_celex": "72023L2413LTU_202502955",
+  "nim_id": "202502955",
+  "transposes_celex": [
+    "32023L2413"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0458e118-b9ee-4ab9-8591-5dd3e39a6cda",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
