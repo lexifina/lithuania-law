@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos juridinių asmenų registro įstatymas Nr. IX-368 (suvestinė redakcija nuo 2014-07-08 iki 2021-07-29)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "55-1940",
+  "official_journal_page": null,
+  "official_journal_date": "2001-06-27",
+  "entry_into_force": "2001-06-27",
+  "notification_date": "2021-11-18",
+  "commission_reference": "MNE(2021)07287",
+  "nim_celex": "72019L1151LTU_202107287",
+  "nim_id": "202107287",
+  "transposes_celex": [
+    "32019L1151"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6eb5953b-4b7a-11ec-91ac-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
