@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos draudimo įstatymas Nr. IX-1737 (suvestinė redakcija nuo 2020-06-15)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "94-4246",
+  "official_journal_page": null,
+  "official_journal_date": "2003-10-08",
+  "entry_into_force": "2004-01-01",
+  "notification_date": "2021-07-28",
+  "commission_reference": "MNE(2021)05133",
+  "nim_celex": "72019L2177LTU_202105133",
+  "nim_id": "202105133",
+  "transposes_celex": [
+    "32019L2177"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/50b74a75-d879-4ec5-b0ec-adfd50948d73",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
