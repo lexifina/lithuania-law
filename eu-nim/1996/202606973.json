@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymas Nr. I-1367 (Suvestinė redakcija nuo 2026-01-01 iki 2026-05-31)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "66-1572",
+  "official_journal_page": null,
+  "official_journal_date": "1996-07-12",
+  "entry_into_force": "1996-07-12",
+  "notification_date": "2026-09-02",
+  "commission_reference": "MNE(2026)06973",
+  "nim_celex": "72024L1346LTU_202606973",
+  "nim_id": "202606973",
+  "transposes_celex": [
+    "32024L1346"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f04e4ef3-a92f-4f6f-a7d3-ed17c30e3fdb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
