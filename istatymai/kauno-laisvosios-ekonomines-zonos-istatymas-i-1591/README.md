@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 1996-11-13 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/1e7644dfe986b7b1b3e7e21d09c7d5c516ef99b0/istatymai/TAR.C6074E202D98.md) |
+| 1997-07-09 | 1999-12-21 | Įstatymas Nr. VIII-334 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/cbabb84fc677a683c2056bf254a57e840647fecc/istatymai/TAR.C6074E202D98.md) |
