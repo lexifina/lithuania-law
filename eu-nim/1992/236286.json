@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos įstatymas \"Dėl Lietuvos Respublikos administracinių teisės pažeidimų kodekso pakeitimo ir papildymo\" Nr. I-2589",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "21",
+  "official_journal_page": null,
+  "official_journal_date": "1992-07-31",
+  "entry_into_force": "1992-06-15",
+  "notification_date": "2016-04-05",
+  "commission_reference": "MNE(2016)52212",
+  "nim_celex": "72003L0109LTU_236286",
+  "nim_id": "236286",
+  "transposes_celex": [
+    "32003L0109"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b86e62cf-3a24-4848-9ef5-cd1c6d06581f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
