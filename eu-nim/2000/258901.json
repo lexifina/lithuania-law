@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aviacijos įstatymas Nr. VIII-2066 (Suvestinė redakcija nuo 2016-10-01)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "94-2918",
+  "official_journal_page": null,
+  "official_journal_date": "2000-11-03",
+  "entry_into_force": "2000-11-03",
+  "notification_date": "2018-05-22",
+  "commission_reference": "MNE(2018)52557",
+  "nim_celex": "72016L0681LTU_258901",
+  "nim_id": "258901",
+  "transposes_celex": [
+    "32016L0681"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c1075d3c-c90f-4261-a7eb-9048857cb730",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
