@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 1999 m. liepos 14 d. įsakymas Nr. 217 „Dėl Atliekų tvarkymo taisyklių patvirtinimo“ (suvestinė redakcija nuo 2021-10-09)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "63-2065",
+  "official_journal_page": null,
+  "official_journal_date": "1999-07-21",
+  "entry_into_force": "1999-07-22",
+  "notification_date": "2022-03-15",
+  "commission_reference": "MNE(2021)08256",
+  "nim_celex": "72018L2001LTU_202108256",
+  "nim_id": "202108256",
+  "transposes_celex": [
+    "32018L2001"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4b6c6029-a69e-11ec-83e1-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
