@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymas Nr. IX-2387",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "120",
+  "official_journal_page": null,
+  "official_journal_date": "2004-08-03",
+  "entry_into_force": "2004-08-11",
+  "notification_date": "2007-02-20",
+  "commission_reference": "MNE(2007)50925",
+  "nim_celex": "72006L0048LTU_140969",
+  "nim_id": "140969",
+  "transposes_celex": [
+    "32006L0048"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e0cd2d9a-fd91-481b-8aea-a04ab320b609",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
