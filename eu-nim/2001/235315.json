@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos produktų saugos įstatymo pakeitimo įstatymas Nr. IX-427",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "64",
+  "official_journal_page": null,
+  "official_journal_date": "2001-07-25",
+  "entry_into_force": "2001-07-25",
+  "notification_date": "2016-03-08",
+  "commission_reference": "MNE(2016)51592",
+  "nim_celex": "72014L0031LTU_235315",
+  "nim_id": "235315",
+  "transposes_celex": [
+    "32014L0031"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d9d255bc-5e6a-4c31-a6be-da1c188f1ef4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
