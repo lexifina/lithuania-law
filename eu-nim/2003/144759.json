@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo pakeitimo ĮSTATYMAS Nr. IX-1355",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "28",
+  "official_journal_page": null,
+  "official_journal_date": "2003-03-21",
+  "entry_into_force": "2003-03-21",
+  "notification_date": "2007-05-08",
+  "commission_reference": "MNE(2007)53828",
+  "nim_celex": "72006L0116LTU_144759",
+  "nim_id": "144759",
+  "transposes_celex": [
+    "32006L0116"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8c1c3343-dd6c-437b-ab46-e0723aac3b09",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
