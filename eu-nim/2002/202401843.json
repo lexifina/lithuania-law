@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "5.\tLietuvos Respublikos kelių transporto kodekso 1, 2, 4, 7, 8, 13, 14, 16, 17, 18, 20, 21, 23, 29, 37, 40, 42, 44, 47 straipsnių ir septintojo skirsnio pavadinimo pakeitimo, kodekso papildymo 17(1) straipsniu bei 57 ir 58 straipsnių pripažinimo netekusiais galios įstatymas Nr. IX-790",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "37-1342",
+  "official_journal_page": null,
+  "official_journal_date": "2002-04-09",
+  "entry_into_force": "2002-04-09",
+  "notification_date": "2024-04-18",
+  "commission_reference": "MNE(2024)01843",
+  "nim_celex": "72022L0362LTU_202401843",
+  "nim_id": "202401843",
+  "transposes_celex": [
+    "32022L0362"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c2300f0b-a4c0-4d42-882f-9725767b225d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
