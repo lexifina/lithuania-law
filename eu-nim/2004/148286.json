@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2004 m. balandžio 15 d. nutarimas Nr. 416 „Dėl Lietuvos Respublikos teritorijų planavimo įstatymo įgyvendinimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "57",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-20",
+  "entry_into_force": "2004-04-21",
+  "notification_date": "2007-08-29",
+  "commission_reference": "MNE(2007)56333",
+  "nim_celex": "71996L0082LTU_148286",
+  "nim_id": "148286",
+  "transposes_celex": [
+    "31996L0082"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/319d816f-d069-414c-9933-9714cb5ac690",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
