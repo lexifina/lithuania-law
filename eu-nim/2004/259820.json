@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės maisto ir veterinarijos tarnybos direktoriaus 2004 m. balandžio 20 d. įsakymas Nr. B1-352 „Dėl Niukaslio ligos kontrolės reikalavimų patvirtinimo“ (Suvestinė redakcija nuo 2009-08-12 iki 2018-12-31)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "94-3462",
+  "official_journal_page": null,
+  "official_journal_date": "2004-06-15",
+  "entry_into_force": "2004-06-15",
+  "notification_date": "2018-06-25",
+  "commission_reference": "MNE(2018)53226",
+  "nim_celex": "72018L0597LTU_259820",
+  "nim_id": "259820",
+  "transposes_celex": [
+    "32018L0597"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/feac9773-3eee-4f89-a974-9a29efd6bd97",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
