@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinasis įstatymas Nr. VIII-366 (suvestinė redakcija nuo 2022-01-01)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "67-1656",
+  "official_journal_page": null,
+  "official_journal_date": "1997-07-16",
+  "entry_into_force": "1997-09-01",
+  "notification_date": "2022-04-16",
+  "commission_reference": "MNE(2022)02580",
+  "nim_celex": "72019L1023LTU_202202580",
+  "nim_id": "202202580",
+  "transposes_celex": [
+    "32019L1023"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c4e9ab58-c221-11ec-b6f4-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
