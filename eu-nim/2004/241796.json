@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2004 m. balandžio 7 d. nutarimas Nr. 388 „Dėl ataskaitų, susijusių su Europos Sąjungos aplinkos sektoriaus teisės aktų įgyvendinimu, teikimo Europos Komisijai tvarkos patvirtinimo ir informacijos, kurios reikia ataskaitoms Europos aplinkos agentūrai parengti, teikimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "53",
+  "official_journal_page": null,
+  "official_journal_date": "2015-01-01",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2016-11-16",
+  "commission_reference": "MNE(2016)56626",
+  "nim_celex": "72016L0802LTU_241796",
+  "nim_id": "241796",
+  "transposes_celex": [
+    "32016L0802"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0858b5b6-d07d-4d3f-bb56-7559dd19a035",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
