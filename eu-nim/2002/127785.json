@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMAS Nr. IX-751",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "35",
+  "official_journal_page": null,
+  "official_journal_date": "2002-04-05",
+  "entry_into_force": "2002-07-01",
+  "notification_date": "2006-01-30",
+  "commission_reference": "MNE(2006)50576",
+  "nim_celex": "72005L0092LTU_127785",
+  "nim_id": "127785",
+  "transposes_celex": [
+    "32005L0092"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/354978df-777a-40f7-bab9-69718dd3b5f1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
