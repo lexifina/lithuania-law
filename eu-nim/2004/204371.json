@@ -1,0 +1,26 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo proceso kodekso 1, 51, 70, 72, 73, 74, 75, 76, 122, 437 straipsnių pakeitimo ir papildymo bei kodekso papildymo 17(1), 69(1), 71(1), 77(1) straipsniais ir priedu įstatymas Nr. IX-2170",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "72",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-30",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2013-05-21",
+  "commission_reference": "MNE(2013)53750",
+  "nim_celex": "72001F0220LTU_204371",
+  "nim_id": "204371",
+  "transposes_celex": [
+    "32001F0220",
+    "32002F0584",
+    "32008F0909",
+    "32010L0064",
+    "32012L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3572dba6-da11-4586-a9ae-ee0ee717d0a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
