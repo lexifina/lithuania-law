@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 1999-04-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/cd8728ffa4173722dea035a6db50b120e0b03fc6/istatymai/TAR.7083DB116A2E.md) |
+| 2004-05-01 | 2010-12-31 | Įstatymas Nr. IX-2115 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/75a39b294188646055336643d9548e9d0de7cdf9/istatymai/TAR.7083DB116A2E.md) |
