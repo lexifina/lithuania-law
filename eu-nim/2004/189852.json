@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2004 m. balandžio 16 d. nutarimas Nr. 447 \"Dėl Lietuvos Respublikos Vyriausybės 2001 m. gegužės 15 d. nutarimo Nr. 558 \"Dėl Importuojamų prekių, gautų kaip parama, neapmokestinimo importo pridėtinės vertės mokesčiu atvejų ir tvarkos patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "58",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-21",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2012-09-26",
+  "commission_reference": "MNE(2012)51434",
+  "nim_celex": "72009L0132LTU_189852",
+  "nim_id": "189852",
+  "transposes_celex": [
+    "32009L0132"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8d2f3bdc-bf0c-4c63-bbb7-31cb95b4689a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
