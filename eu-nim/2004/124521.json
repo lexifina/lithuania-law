@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2004 M. GRUODŽIO 14 D. ĮSAKYMAS NR. D1-645 \"DĖL REIKALAVIMŲ GAMTOTVARKOS PLANO TURINIUI APRAŠO PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "184",
+  "official_journal_page": null,
+  "official_journal_date": "2004-12-23",
+  "entry_into_force": "2004-12-24",
+  "notification_date": "2005-10-04",
+  "commission_reference": "MNE(2005)54521",
+  "nim_celex": "71979L0409LTU_124521",
+  "nim_id": "124521",
+  "transposes_celex": [
+    "31979L0409"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b2826290-63a4-434f-b9eb-74305cdbc2c4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
