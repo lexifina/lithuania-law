@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 1995-07-26 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/533cfadf994c74fa8e1860cb04ef2da1788e6867/istatymai/TAR.708F524D8B62.md) |
+| 1998-05-13 | 2005-03-04 | Įstatymas Nr. VIII-710 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/a463320b11cb4a2a63d38e9a5441644418ec0e76/istatymai/TAR.708F524D8B62.md) |
