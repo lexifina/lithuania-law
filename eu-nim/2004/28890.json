@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos nutarimas Nr. 62 „Dėl skolinimo su banku susijusiems asmenims ataskaitos“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "80",
+  "official_journal_page": null,
+  "official_journal_date": "2004-05-14",
+  "entry_into_force": "2004-05-15",
+  "notification_date": "2004-06-15",
+  "commission_reference": "MNE(2004)58890",
+  "nim_celex": "72000L0012LTU_28890",
+  "nim_id": "28890",
+  "transposes_celex": [
+    "32000L0012"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4f1003a7-c115-402e-895c-044533a8b35d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
