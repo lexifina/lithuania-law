@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos sistemos įstatymo pakeitimo įstatymas Nr. VIII-946",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "112",
+  "official_journal_page": null,
+  "official_journal_date": "1998-12-23",
+  "entry_into_force": "1998-12-23",
+  "notification_date": "2004-01-16",
+  "commission_reference": "MNE(2003)50419",
+  "nim_celex": "71989L0105LTU_20419",
+  "nim_id": "20419",
+  "transposes_celex": [
+    "31989L0105",
+    "32001L0083",
+    "32004L0081"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b1e93e73-cda3-42d8-b64d-7d3e43007962",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
