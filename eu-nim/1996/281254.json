@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos prekybinės laivybos įstatymas Nr. I-1513 (suvestinė redakcija nuo 2019-05-07)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "101-2300",
+  "official_journal_page": null,
+  "official_journal_date": "1996-10-18",
+  "entry_into_force": "1996-10-18",
+  "notification_date": "2020-03-02",
+  "commission_reference": "MNE(2020)51184",
+  "nim_celex": "72017L0159LTU_281254",
+  "nim_id": "281254",
+  "transposes_celex": [
+    "32017L0159"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/19fe3eec-5f7b-11ea-b735-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
