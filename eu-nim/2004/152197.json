@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS ŪKIO MINISTRO IR LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2004 M. BALANDŽIO 19 D. ĮSAKYMAS NR. 4-117/D3-196 \"DĖL BATERIJŲ IR AKUMULIATORIŲ, KURIUOSE YRA PAVOJINGŲ CHEMINIŲ MEDŽIAGŲ, TIEKIMO Į RINKĄ REIKALAVIMŲ PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "59",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-23",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2007-12-28",
+  "commission_reference": "MNE(2007)59236",
+  "nim_celex": "71991L0157LTU_152197",
+  "nim_id": "152197",
+  "transposes_celex": [
+    "31991L0157",
+    "31993L0086",
+    "31998L0101"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/dd5dd3a6-de16-4c94-9ede-b7a3864eb3d0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
