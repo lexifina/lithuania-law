@@ -1,0 +1,8 @@
+Įstatymo tekstas: Žin., 2001, Nr. 112-4068
+Neoficialus įstatymo tekstas
+LIETUVOS RESPUBLIKOS
+2002 METŲ PRIVALOMOJO SVEIKATOS DRAUDIMO FONDO BIUDŽETO RODIKLIŲ
+PATVIRTINIMO
+ĮSTATYMAS
+2001 m. gruodžio 13 d. Nr. IX-645
+Vilnius
