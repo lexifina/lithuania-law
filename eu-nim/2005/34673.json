@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos valstybinės maisto ir veterinarijos tarnybos direktoriaus 2005 m. sausio 12 d. įsakymas \"Dėl Valstybinės maisto ir veterinarijos tarnybos direktoriaus 2003 m. birželio 30 d. įsakymo Nr. B1-588 „Dėl Tam tikrų gyvūnų ir gyvūninių produktų veterinarinio ir zootechninio tikrinimo reikalavimų“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "8",
+  "official_journal_page": null,
+  "official_journal_date": "2005-01-20",
+  "entry_into_force": "2005-01-21",
+  "notification_date": "2005-02-08",
+  "commission_reference": "MNE(2005)54673",
+  "nim_celex": "72002L0033LTU_34673",
+  "nim_id": "34673",
+  "transposes_celex": [
+    "32002L0033"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9fa16f46-c8ba-4246-a265-38f316babf95",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
