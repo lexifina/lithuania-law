@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ginklų fondo prie Lietuvos Respublikos Vyriausybės direktoriaus 2004 m. lapkričio 30 d. įsakymas Nr. 1A-78 \"Dėl kai kurių gaminių priskyrymo šaudmenims, sprogmenims arba pirotechnikos gaminiams\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "178",
+  "official_journal_page": null,
+  "official_journal_date": "2004-12-11",
+  "entry_into_force": "2005-01-31",
+  "notification_date": "2004-12-22",
+  "commission_reference": "MNE(2004)53829",
+  "nim_celex": "72004L0057LTU_33829",
+  "nim_id": "33829",
+  "transposes_celex": [
+    "32004L0057"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9f3e5601-cea8-4bc0-b8d3-ee9dc93f5e66",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
