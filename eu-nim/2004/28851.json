@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos pinigų plovimo prevencijos įstatymo 14 straipsnio pakeitimo įstatymas Nr. IX-2189",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "73",
+  "official_journal_page": null,
+  "official_journal_date": "2004-04-30",
+  "entry_into_force": "2004-05-01",
+  "notification_date": "2004-06-16",
+  "commission_reference": "MNE(2004)58851",
+  "nim_celex": "72001L0097LTU_28851",
+  "nim_id": "28851",
+  "transposes_celex": [
+    "32001L0097"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e719e251-3316-4bfd-b80f-0f67d57baed5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
