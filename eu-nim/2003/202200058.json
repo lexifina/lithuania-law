@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos pakuočių ir pakuočių atliekų įstatymas Nr. IX-517 (Suvestinė redakcija 2022-01-01–2022-12-31)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "85-2968",
+  "official_journal_page": null,
+  "official_journal_date": "2001-10-05",
+  "entry_into_force": "2003-01-01",
+  "notification_date": "2022-02-01",
+  "commission_reference": "MNE(2022)00058",
+  "nim_celex": "72019L0904LTU_202200058",
+  "nim_id": "202200058",
+  "transposes_celex": [
+    "32019L0904"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4bbfb35b-87fe-11ec-8c40-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
