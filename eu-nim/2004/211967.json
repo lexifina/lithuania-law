@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2004 m. birželio 15 d. nutarimas Nr. 751 \"Dėl Lietuvos Respublikos Vyriausybės 2001 m. gegužės 14 d. nutarimo Nr. 543 \"Dėl Lietuvos Respublikos valstybės biudžeto ir savivaldybių biudžetų sudarymo ir vykdymo tvarkos patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "96",
+  "official_journal_page": null,
+  "official_journal_date": "2004-06-19",
+  "entry_into_force": "2004-06-20",
+  "notification_date": null,
+  "commission_reference": "MNE(2013)60098",
+  "nim_celex": "72011L0085LTU_211967",
+  "nim_id": "211967",
+  "transposes_celex": [
+    "32011L0085"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bd6d0f06-7f13-4479-92c6-173add03633c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
