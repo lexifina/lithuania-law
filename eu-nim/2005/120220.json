@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2005 m. kovo 30 d. įsakymas Nr. 3D-179 „Dėl žemės ūkio ministro 2003 m. birželio 30 d. įsakymo Nr. 3D-264 „Dėl kenksmingų organizmų, augalų, augalinių produktų ir kitų objektų sąrašų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "45",
+  "official_journal_page": null,
+  "official_journal_date": "2005-04-07",
+  "entry_into_force": "2005-04-08",
+  "notification_date": "2005-05-10",
+  "commission_reference": "MNE(2005)50220",
+  "nim_celex": "72005L0016LTU_120220",
+  "nim_id": "120220",
+  "transposes_celex": [
+    "32005L0016"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bc0407d7-cfea-4a0f-9971-55dfd957391b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
