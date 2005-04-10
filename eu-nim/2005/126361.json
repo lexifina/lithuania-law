@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Draudimo priežiūros komisijos 2005 m. balandžio 5 d. nutarimas Nr. N-75 \"Dėl Lietuvos Respublikos draudimo priežiūros komisijos 2004 m. vasario 3 d. nutarimo Nr. N-7 \"Dėl draudimo įmonių finansinės atskaitomybės\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "46",
+  "official_journal_page": null,
+  "official_journal_date": "2005-04-09",
+  "entry_into_force": "2005-04-10",
+  "notification_date": "2005-12-12",
+  "commission_reference": "MNE(2005)60385",
+  "nim_celex": "72003L0051LTU_126361",
+  "nim_id": "126361",
+  "transposes_celex": [
+    "32003L0051"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d3ac0ae4-295f-4630-a5ff-fec4126328d6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
