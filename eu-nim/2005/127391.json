@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Valstybės paramos būstui įsigyti ar išsinuomoti įstatymo pavadinimo pakeitimo, 1, 2 straipsnių pakeitimo bei papildymo ir Įstatymo papildymo penktuoju skirsniu ĮSTATYMAS Nr. X-143",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "47",
+  "official_journal_page": null,
+  "official_journal_date": "2005-04-12",
+  "entry_into_force": "2005-04-12",
+  "notification_date": "2006-01-25",
+  "commission_reference": "MNE(2006)50298",
+  "nim_celex": "72003L0109LTU_127391",
+  "nim_id": "127391",
+  "transposes_celex": [
+    "32003L0109"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c63c6bc0-7104-4031-aa1d-f7c7506a6fcd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
