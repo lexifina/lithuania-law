@@ -1,0 +1,29 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos apsaugos įstatymo 1, 2, 6, 7, 8, 14, 19, 26, 31, 32, 33, 34 straipsnių ir priedo pakeitimo ir papildymo, 24 straipsnio pripažinimo netekusiu galios ir įstatymo papildymo 32(1), 32(2) straipsniais įstatymas Nr. X-147",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "47",
+  "official_journal_page": null,
+  "official_journal_date": "2005-04-12",
+  "entry_into_force": "2005-04-12",
+  "notification_date": "2005-04-19",
+  "commission_reference": "MNE(2005)50240",
+  "nim_celex": "71979L0409LTU_120240",
+  "nim_id": "120240",
+  "transposes_celex": [
+    "31979L0409",
+    "31992L0043",
+    "32001L0042",
+    "32004L0035",
+    "32006L0021",
+    "32007L0002",
+    "32009L0031",
+    "32013L0030"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/51f3b2b3-a13e-4128-86cc-cd9b4a3c659e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
