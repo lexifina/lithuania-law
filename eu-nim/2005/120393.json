@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS KONSULINIO MOKESČIO ĮSTATYMO 1, 3, 6, 8 STRAIPSNIŲ PAPILDYMO BEI PAKEITIMO IR ĮSTATYMO PAPILDYMO PRIEDU ĮSTATYMAS X-146",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "47",
+  "official_journal_page": null,
+  "official_journal_date": "2005-04-12",
+  "entry_into_force": "2005-04-12",
+  "notification_date": "2005-04-22",
+  "commission_reference": "MNE(2005)50393",
+  "nim_celex": "71968L0360LTU_120393",
+  "nim_id": "120393",
+  "transposes_celex": [
+    "31968L0360",
+    "31973L0148",
+    "32004L0038"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/54b8a9f1-ea0e-415d-8bf9-d453b549460a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
