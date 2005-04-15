@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos teisingumo ministro 2005 m. balandžio 12 d. įsakymas Nr. 1R-111 „Dėl Teisininko kvalifikaciją patvirtinančio dokumento, išduoto Europos Sąjungos, Europos Ekonominės Erdvės valstybėse ar Šveicarijos Konfederacijoje, pripažinimo, kai asmuo siekia būti pripažintas Lietuvos advokatu, tvarkos aprašo patvirtinimo”",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "48",
+  "official_journal_page": null,
+  "official_journal_date": "2005-04-14",
+  "entry_into_force": "2005-04-15",
+  "notification_date": "2005-11-03",
+  "commission_reference": "MNE(2005)55493",
+  "nim_celex": "71989L0048LTU_125493",
+  "nim_id": "125493",
+  "transposes_celex": [
+    "31989L0048"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d24ef75c-6c9a-46ea-84ca-88df29d055d2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
