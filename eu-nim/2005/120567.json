@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2005 m. balandžio 11 d. įsakymas Nr. 1V-353 \"Dėl Galutinių paslaugų gavėjų ginčų su elektroninių ryšių paslaugų teikėjais sprendimo taisyklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "49",
+  "official_journal_page": null,
+  "official_journal_date": "2005-04-16",
+  "entry_into_force": "2005-04-17",
+  "notification_date": "2005-05-06",
+  "commission_reference": "MNE(2005)50567",
+  "nim_celex": "72002L0022LTU_120567",
+  "nim_id": "120567",
+  "transposes_celex": [
+    "32002L0022"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ab08d7db-ccce-4aac-84eb-4751d703caac",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
