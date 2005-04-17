@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2005 m. balandžio 13 d. nutarimas Nr. 403 „Dėl M-2, M-3, N-2, N-3, O-3 ir O-4 klasių kelių transporto priemonių ir T-5 kategorijos ratinių traktorių techninių patikrinimų organizavimo Lietuvos Respublikos keliuose taisyklių patvirtinimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "49-1627",
+  "official_journal_page": null,
+  "official_journal_date": "2005-04-16",
+  "entry_into_force": "2005-04-17",
+  "notification_date": "2022-05-16",
+  "commission_reference": "MNE(2022)03050",
+  "nim_celex": "72020L1057LTU_202203050",
+  "nim_id": "202203050",
+  "transposes_celex": [
+    "32020L1057"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3d3a6983-d80f-11ec-a95f-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
