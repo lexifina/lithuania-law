@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės kainų ir energetikos kontrolės komisijos 2005 m. balandžio 12 d. nutarimas Nr. O3-15 \"Dėl gamtinių dujų kainų viršutinių ribų skaičiavimo metodikos patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "51",
+  "official_journal_page": null,
+  "official_journal_date": "2005-04-21",
+  "entry_into_force": "2005-04-22",
+  "notification_date": "2008-08-28",
+  "commission_reference": "MNE(2008)54711",
+  "nim_celex": "72006L0032LTU_157659",
+  "nim_id": "157659",
+  "transposes_celex": [
+    "32006L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8fee5eb9-e50a-48e7-af63-c184c1716aaa",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
