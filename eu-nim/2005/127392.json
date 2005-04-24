@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2005 m. balandžio 12 d. įsakymas Nr. 3D-209 \"Dėl žemės ūkio ministro 2000 m. birželio 30 d. įsakymo Nr. 207 \"Dėl Vandenilio cianido, kalcio, karbonatų, žalių pelenų, druskos rūgštyje netirpių pelenų, chloridų chloro, laktozės, kalio, natrio, cukraus ir karbamido kiekio pašaruose ir ureazės aktyvumo sojų produktuose nustatymo techninio reglamento\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "52",
+  "official_journal_page": null,
+  "official_journal_date": "2005-04-23",
+  "entry_into_force": "2005-04-24",
+  "notification_date": "2006-01-24",
+  "commission_reference": "MNE(2006)50299",
+  "nim_celex": "72005L0006LTU_127392",
+  "nim_id": "127392",
+  "transposes_celex": [
+    "32005L0006"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/05b7053b-f61c-4bad-8c38-b840f17b72f2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
