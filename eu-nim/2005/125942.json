@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Žemės ūkio ministro 2005 m. balandžio 12 d. įsakymas Nr. 3D-208 \"Dėl žemės ūkio ministro 2003 m. gegužės 29 d. įsakymo Nr. 3D-218 \"Dėl Dioksinų, furanų ir PCB kiekių pašaruose nustatymo techninio reglamento patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "52",
+  "official_journal_page": null,
+  "official_journal_date": "2005-04-23",
+  "entry_into_force": "2005-04-24",
+  "notification_date": "2006-01-03",
+  "commission_reference": "MNE(2005)60069",
+  "nim_celex": "72005L0007LTU_125942",
+  "nim_id": "125942",
+  "transposes_celex": [
+    "32005L0007"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9fe6ffc9-ffc2-4efd-9d3b-d37092943ccd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
