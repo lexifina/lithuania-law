@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS SOCIALINĖS APSAUGOS IR DARBO MINISTRO IR LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRO ĮSAKYMAS NR. A1-103/V-265 \"DĖL DARBUOTOJŲ APSAUGOS NUO TRIUKŠMO KELIAMOS RIZIKOS NUOSTATŲ PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "53",
+  "official_journal_page": null,
+  "official_journal_date": "2005-04-26",
+  "entry_into_force": "2005-04-27",
+  "notification_date": "2005-05-24",
+  "commission_reference": "MNE(2005)51091",
+  "nim_celex": "72003L0010LTU_121091",
+  "nim_id": "121091",
+  "transposes_celex": [
+    "32003L0010"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/20592662-9b15-4be9-a9bc-295815d7b3eb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
