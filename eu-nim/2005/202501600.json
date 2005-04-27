@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2005 m. balandžio 21 d. nutarimas Nr. 447 „Dėl Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo įgyvendinimo“ (Suvestinė redakcija nuo 2022-02-15 iki 2022-02-28)",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "53-1799",
+  "official_journal_page": null,
+  "official_journal_date": "2005-04-26",
+  "entry_into_force": "2005-04-27",
+  "notification_date": "2025-04-02",
+  "commission_reference": "MNE(2025)01600",
+  "nim_celex": "72022L0362LTU_202501600",
+  "nim_id": "202501600",
+  "transposes_celex": [
+    "32022L0362"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/50b29e48-a4f3-47cc-bbb5-9c2232de18e6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
