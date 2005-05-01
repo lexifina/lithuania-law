@@ -1,0 +1,26 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo proceso kodekso 50, 51, 103, 104, 106, 118, 361 ir 431 straipsnių pakeitimo įstatymas Nr. X-81",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "18",
+  "official_journal_page": null,
+  "official_journal_date": "2005-02-08",
+  "entry_into_force": "2005-05-01",
+  "notification_date": "2013-05-21",
+  "commission_reference": "MNE(2013)53752",
+  "nim_celex": "72001F0220LTU_204373",
+  "nim_id": "204373",
+  "transposes_celex": [
+    "32001F0220",
+    "32005F0212",
+    "32010L0064",
+    "32012L0013",
+    "32012L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f508ad21-d1b0-4e33-9688-8fef39c4cecb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
