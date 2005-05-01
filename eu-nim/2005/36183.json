@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo pakeitimo įstatymas Nr. X-78 (nauja redakcija)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "18",
+  "official_journal_page": null,
+  "official_journal_date": "2005-02-08",
+  "entry_into_force": "2005-05-01",
+  "notification_date": "2005-03-17",
+  "commission_reference": "MNE(2005)56183",
+  "nim_celex": "72003L0008LTU_36183",
+  "nim_id": "36183",
+  "transposes_celex": [
+    "32003L0008",
+    "32003L0109",
+    "32005L0085"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/dc878c94-5e8b-438b-a65d-29ae46271162",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
