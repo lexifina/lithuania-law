@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2005 m. balandžio 25 d. įsakymas Nr. 3-146 „Dėl Lietuvos Respublikoje taikomų techninių dokumentų, įgyvendinančių 1520 mm vėžės pločio transeuropinės paprastųjų geležinkelių sistemos esminius reikalavimus, sąrašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "56",
+  "official_journal_page": null,
+  "official_journal_date": "2005-05-03",
+  "entry_into_force": "2005-05-04",
+  "notification_date": "2008-10-28",
+  "commission_reference": "MNE(2008)55627",
+  "nim_celex": "72004L0049LTU_158596",
+  "nim_id": "158596",
+  "transposes_celex": [
+    "32004L0049"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/64a5e850-423a-4526-b516-9134f3b16789",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
