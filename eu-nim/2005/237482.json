@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2005 m. balandžio 29 d. nutarimas Nr. 478 „Dėl Lietuvos Respublikos Vyriausybės 2004 m. sausio 9 d. nutarimo Nr. 21 „Dėl Lietuvos Respublikos pozicijos Europos Sąjungos institucijose nagrinėjamais klausimais rengimo, derinimo, pristatymo ir Europos Sąjungos teisės (acquis communautaire) perkėlimo į Lietuvos Respublikos nacionalinę teisę ir jos įgyvendinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "57",
+  "official_journal_page": null,
+  "official_journal_date": "2005-05-05",
+  "entry_into_force": "2005-05-06",
+  "notification_date": "2016-05-16",
+  "commission_reference": "MNE(2016)53160",
+  "nim_celex": "72013L0053LTU_237482",
+  "nim_id": "237482",
+  "transposes_celex": [
+    "32013L0053"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9032dec8-f32e-47da-aa71-eee0edd47641",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
