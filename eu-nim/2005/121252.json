@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos valstybinės maisto ir veterinarijos tarnybos direktoriaus 2005 m. balandžio 26 d. įsakymas Nr. B1-259 \"Dėl reikalavimų kanopinių gyvūnų importui ir tranzitui patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "57",
+  "official_journal_page": null,
+  "official_journal_date": "2005-05-05",
+  "entry_into_force": "2005-05-06",
+  "notification_date": "2005-05-27",
+  "commission_reference": "MNE(2005)51252",
+  "nim_celex": "72004L0068LTU_121252",
+  "nim_id": "121252",
+  "transposes_celex": [
+    "32004L0068"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5f6eefa7-a3eb-44d0-bc2e-553963f4dd31",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
