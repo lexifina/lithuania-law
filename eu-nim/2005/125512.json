@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos švietimo ir mokslo ministro 2005 m. gegužės 2 d. įsakymas Nr. ISAK-749 \"Dėl užsienyje įgytų kvalifikacijų, suteikiančių teisę į aukštąjį mokslą, bei aukštojo mokslo kvalifikacijų vertinimo ir akademinio pripažinimo apeliacinės komisijos nuostatų patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "58",
+  "official_journal_page": null,
+  "official_journal_date": "2005-05-07",
+  "entry_into_force": "2005-05-08",
+  "notification_date": "2005-11-03",
+  "commission_reference": "MNE(2005)55512",
+  "nim_celex": "71989L0048LTU_125512",
+  "nim_id": "125512",
+  "transposes_celex": [
+    "31989L0048"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d0f39050-521c-466a-b1e1-464bc083db1d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
