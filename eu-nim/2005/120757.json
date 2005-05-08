@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2005 m. balandžio 28 d. nutarimas Nr. 71 \"Dėl Lietuvos banko valdybos 2003 m. lapkričio 20 d. nutarimo Nr. 109 \"Dėl informacijos, susijusios su kredito įstaigų steigimu ir veikla, teikimo Europos Bendrijų Komisijai ir Europos Sąjungos valstybių narių kredito įstaigų priežiūros institucijoms\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "58",
+  "official_journal_page": null,
+  "official_journal_date": "2005-05-07",
+  "entry_into_force": "2005-05-08",
+  "notification_date": "2005-05-12",
+  "commission_reference": "MNE(2005)50757",
+  "nim_celex": "72000L0012LTU_120757",
+  "nim_id": "120757",
+  "transposes_celex": [
+    "32000L0012",
+    "32009L0111",
+    "32010L0076"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f8836dd5-f78f-4ba2-951b-3a91cfa9b35e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
