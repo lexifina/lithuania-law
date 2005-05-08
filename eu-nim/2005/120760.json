@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2005 m. gegužės 2 d. įsakymas Nr. 3-180 „Dėl Lietuvos Respublikos susisiekimo ministro 2004 m. gruodžio 23 d. įsakymo Nr. 3-586, Lietuvos Respublikos susisiekimo ministro 2003 m. sausio 23 d. įsakymo Nr. 3-37 ir Lietuvos Respublikos susisiekimo ministro 2004 m. liepos 29 d. įsakymo Nr. 3-398 pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "58",
+  "official_journal_page": null,
+  "official_journal_date": "2005-05-07",
+  "entry_into_force": "2005-05-08",
+  "notification_date": "2005-05-12",
+  "commission_reference": "MNE(2005)50760",
+  "nim_celex": "72001L0016LTU_120760",
+  "nim_id": "120760",
+  "transposes_celex": [
+    "32001L0016"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e737f5b2-b62e-4833-bed8-3ddecf3b5830",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
