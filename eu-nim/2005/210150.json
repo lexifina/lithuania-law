@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos draudimo įstatymo 6 straipsnio pakeitimo įstatymas Nr. X-178",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "61",
+  "official_journal_page": null,
+  "official_journal_date": "2005-05-14",
+  "entry_into_force": "2005-05-14",
+  "notification_date": "2013-10-30",
+  "commission_reference": "MNE(2013)58624",
+  "nim_celex": "72011L0024LTU_210150",
+  "nim_id": "210150",
+  "transposes_celex": [
+    "32011L0024"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d0c88886-2c65-4ed4-9be6-5b10593c6a78",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
