@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2005 m. gegužės 16 d. įsakymas Nr. 3D-272 „Dėl žemės ūkio ministro 2003 m. birželio 30 d. įsakymo Nr. 3D-263 „Dėl augalo pasą ir saugomas zonas reglamentuojančių taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "63",
+  "official_journal_page": null,
+  "official_journal_date": "2005-05-19",
+  "entry_into_force": "2005-05-20",
+  "notification_date": "2005-05-25",
+  "commission_reference": "MNE(2005)51155",
+  "nim_celex": "72005L0017LTU_121155",
+  "nim_id": "121155",
+  "transposes_celex": [
+    "32005L0017"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1d138cbd-646c-4155-a66f-187e38daebea",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
