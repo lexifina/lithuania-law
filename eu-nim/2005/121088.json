@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS VYRIAUSYBĖS NUTARIMAS NR. 543 \"DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 2003 M. GEGUŽĖS 14 D. NUTARIMO NR. 587„DĖL DARBŲ, KURIUOSE GALI BŪTI TAIKOMA IKI DVIDEŠIMT KETURIŲ VALANDŲ PER PARĄ DARBO LAIKO TRUKMĖ, SĄRAŠO, DARBO IR POILSIO LAIKO YPATUMŲ EKONOMINĖS VEIKLOS SRITYSE, DARBŲ, SĄLYGŲ, KURIOMS ESANT GALI BŪTI ĮVEDAMA SUMINĖ DARBO LAIKO APSKAITA, SUMINĖS DARBO LAIKO APSKAITOS ĮVEDIMO ĮMONĖSE, ĮSTAIGOSE, ORGANIZACIJOSE TVARKOS PATVIRTINIMO“ PAKEITIMO\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "64",
+  "official_journal_page": null,
+  "official_journal_date": "2005-05-21",
+  "entry_into_force": "2005-05-22",
+  "notification_date": "2005-05-24",
+  "commission_reference": "MNE(2005)51088",
+  "nim_celex": "72003L0088LTU_121088",
+  "nim_id": "121088",
+  "transposes_celex": [
+    "32003L0088"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c286a81a-e286-4c3f-b6c3-6d4cd6030101",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
