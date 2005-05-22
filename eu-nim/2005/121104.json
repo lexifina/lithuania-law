@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2005 m. gegužės 17 d. nutarimas Nr. 543 „Dėl Lietuvos Respublikos Vyriausybės 2003 m. gegužės 14 d. nutarimo Nr. 587„Dėl darbų, kuriuose gali būti taikoma iki dvidešimt keturių valandų per parą darbo laiko trukmė, sąrašo, darbo ir poilsio laiko ypatumų ekonominės veiklos srityse, darbų, sąlygų, kurioms esant gali būti įvedama suminė darbo laiko apskaita, suminės darbo laiko apskaitos įvedimo įmonėse, įstaigose, organizacijose tvarkos patvirtinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "64",
+  "official_journal_page": null,
+  "official_journal_date": "2005-05-21",
+  "entry_into_force": "2005-05-22",
+  "notification_date": "2005-05-25",
+  "commission_reference": "MNE(2005)51104",
+  "nim_celex": "72002L0015LTU_121104",
+  "nim_id": "121104",
+  "transposes_celex": [
+    "32002L0015"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/505ba2cd-775a-4aed-9f76-1f25738a6779",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
