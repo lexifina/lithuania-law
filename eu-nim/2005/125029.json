@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vertybinių popierių komisijos 2005 m. gegužės 12 d. nutarimas Nr. 1K-12 \"Dėl finansų maklerio įmonėms, investicinėms kintamojo kapitalo bendrovėms, valdymo įmonėms ir depozitoriumams skirtų nurodymų, kurias siekiama užkirsti kelią pinigų plovimui, patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "65",
+  "official_journal_page": null,
+  "official_journal_date": "2005-05-24",
+  "entry_into_force": "2005-05-25",
+  "notification_date": "2005-10-17",
+  "commission_reference": "MNE(2005)55029",
+  "nim_celex": "71991L0308LTU_125029",
+  "nim_id": "125029",
+  "transposes_celex": [
+    "31991L0308"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9fbdd708-e468-471e-85c5-1d384673ece5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
