@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2005 M. GEGUŽĖS 16 D. ĮSAKYMAS Nr. D1-250 \"DĖL APLINKOS MINISTRO 2000 M. SPALIO 18 D. ĮSAKYMO NR. 444 „DĖL ATLIEKŲ SĄVARTYNŲ ĮRENGIMO, EKSPLOATAVIMO, UŽDARYMO IR PRIEŽIŪROS PO UŽDARYMO TAISYKLIŲ PATVIRTINIMO“ PAKEITIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "65",
+  "official_journal_page": null,
+  "official_journal_date": "2005-05-24",
+  "entry_into_force": "2005-05-25",
+  "notification_date": "2007-02-13",
+  "commission_reference": "MNE(2007)51474",
+  "nim_celex": "71999L0031LTU_141668",
+  "nim_id": "141668",
+  "transposes_celex": [
+    "31999L0031"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7d78885d-2998-4191-beea-42225634e0b8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
