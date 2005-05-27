@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro 2005 m. liepos 15 d. įsakymas Nr. 4-265 \"Dėl Elektros energijos persiuntimo patikimumo ir elektros energijos perdavimo, skirstymo bei tiekimo paslaugų kokybės reikalavimų patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "90",
+  "official_journal_page": null,
+  "official_journal_date": "2005-07-26",
+  "entry_into_force": "2005-05-27",
+  "notification_date": "2008-02-26",
+  "commission_reference": "MNE(2008)51487",
+  "nim_celex": "72005L0089LTU_154148",
+  "nim_id": "154148",
+  "transposes_celex": [
+    "32005L0089"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/97d4b821-f318-43f2-a853-8990fce34865",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
