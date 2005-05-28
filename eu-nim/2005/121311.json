@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos įstatymas dėl darbuotojų dalyvavimo priimant sprendimus Europos bendrovėse Nr. X-200",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "67",
+  "official_journal_page": null,
+  "official_journal_date": "2005-05-28",
+  "entry_into_force": "2005-05-28",
+  "notification_date": "2005-05-30",
+  "commission_reference": "MNE(2005)51311",
+  "nim_celex": "72001L0086LTU_121311",
+  "nim_id": "121311",
+  "transposes_celex": [
+    "32001L0086"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ccf0a8da-8e92-4322-b6b7-11de0d451f4a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
