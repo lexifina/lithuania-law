@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos garantijų komandiruotiems darbuotojams įstatymas Nr. X-199 (galiojanti suvestinė redakcija nuo 2016-06-28 iki 2017-06-30)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "67",
+  "official_journal_page": null,
+  "official_journal_date": "2005-05-28",
+  "entry_into_force": "2005-05-28",
+  "notification_date": "2017-03-23",
+  "commission_reference": "MNE(2017)51768",
+  "nim_celex": "72014L0066LTU_246338",
+  "nim_id": "246338",
+  "transposes_celex": [
+    "32014L0066"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/10ddeb16-2b41-42dc-8aac-96a5083c12e2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
