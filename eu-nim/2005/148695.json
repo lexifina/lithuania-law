@@ -1,0 +1,25 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos darbo kodekso 3, 4, 14, 22, 29, 36, 47, 52, 62, 67, 77, 78, 79, 84, 85, 88, 92, 95, 98, 99, 101, 107, 108, 109, 114, 120, 127, 129, 130, 132, 134, 138, 140, 141, 144, 145, 146, 147, 149, 151, 152, 161, 166, 168, 177, 183, 225, 235, 285, 286, 288, 293, 295, 297, 302 straipsnių pakeitimo ir papildymo bei XIX skyriaus pavadinimo pakeitimo įstatymas Nr. X-188",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "67",
+  "official_journal_page": null,
+  "official_journal_date": "2005-05-28",
+  "entry_into_force": "2005-05-28",
+  "notification_date": "2007-09-17",
+  "commission_reference": "MNE(2007)56647",
+  "nim_celex": "72005L0071LTU_148695",
+  "nim_id": "148695",
+  "transposes_celex": [
+    "32005L0071",
+    "32006L0054",
+    "32007L0059",
+    "32010L0018"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/adb83757-d3a4-42fc-b919-329208b0f616",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
