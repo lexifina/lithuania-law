@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Žemės ūkio ministro 2005 m. gegužės 19 d. įsakymas Nr. 3D-280 \"Dėl žemės ūkio ministro 2004 m. lapkričio 3 d. įsakymo Nr. 3D-597 \"Dėl Pašarinių žaliavų tiekimo į apyvartą taisyklių patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "68",
+  "official_journal_page": null,
+  "official_journal_date": "2005-05-31",
+  "entry_into_force": "2005-06-01",
+  "notification_date": "2005-07-04",
+  "commission_reference": "MNE(2005)52222",
+  "nim_celex": "72004L0116LTU_122222",
+  "nim_id": "122222",
+  "transposes_celex": [
+    "32004L0116"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/59b93230-2e88-4a8b-9649-47959f1b2358",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
