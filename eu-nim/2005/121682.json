@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos nutarimas Nr. 88  „Dėl Specializuotų bankų veiklos ir rizikos valdymo reikalavimų“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "69",
+  "official_journal_page": null,
+  "official_journal_date": "2005-06-02",
+  "entry_into_force": "2005-06-03",
+  "notification_date": "2005-06-10",
+  "commission_reference": "MNE(2005)51682",
+  "nim_celex": "72000L0046LTU_121682",
+  "nim_id": "121682",
+  "transposes_celex": [
+    "32000L0046"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7f9ae3a0-7658-4e03-a41f-3c826bc0bbaa",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
