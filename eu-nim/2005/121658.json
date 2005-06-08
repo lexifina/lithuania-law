@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2005 m. gegužės 26 d. įsakymas Nr. 3-252 „Dėl Lietuvos Respublikos susisiekimo ministro 2001 m. vasario 13 d. įsakymo Nr. 47 „Dėl dokumentų, kuriuos privaloma pateikti tikrinimą atliekančioms institucijoms, laivui atplaukus į Lietuvos Respublikos jūrų uostą ir išplaukiant iš jo, formų, jų pildymo, pateikimo ir saugojimo tvarkos patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "71",
+  "official_journal_page": null,
+  "official_journal_date": "2005-06-07",
+  "entry_into_force": "2005-06-08",
+  "notification_date": "2005-06-10",
+  "commission_reference": "MNE(2005)51658",
+  "nim_celex": "72002L0006LTU_121658",
+  "nim_id": "121658",
+  "transposes_celex": [
+    "32002L0006"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d5c18c7f-d66f-46c8-aa9d-90c3e1334b76",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
