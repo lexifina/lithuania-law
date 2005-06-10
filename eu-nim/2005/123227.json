@@ -1,0 +1,25 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2005 m. birželio 6 d. nutarimas Nr. 616 \"Dėl įgaliojimų suteikimo Vidaus reikalų ministerijai\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "72",
+  "official_journal_page": null,
+  "official_journal_date": "2005-06-09",
+  "entry_into_force": "2005-06-10",
+  "notification_date": "2005-08-10",
+  "commission_reference": "MNE(2005)53227",
+  "nim_celex": "71991L0439LTU_123227",
+  "nim_id": "123227",
+  "transposes_celex": [
+    "31991L0439",
+    "31996L0047",
+    "31997L0026",
+    "32000L0056"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3cbf2f4c-efe5-4844-95f2-0470d3cc2bd3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
