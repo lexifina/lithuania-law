@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2005 m. birželio 3 d. įsakymas Nr. 1V-539 \"Dėl Ginčų tarp ūkio subjektų, teikiančių elektroninių ryšių tinklus ir (ar) paslaugas, sprendimo taisyklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "73",
+  "official_journal_page": null,
+  "official_journal_date": "2005-06-11",
+  "entry_into_force": "2005-06-12",
+  "notification_date": "2005-07-08",
+  "commission_reference": "MNE(2005)52445",
+  "nim_celex": "72002L0021LTU_122445",
+  "nim_id": "122445",
+  "transposes_celex": [
+    "32002L0021"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/33d96954-f0cf-455a-8431-51e9a5a4cf63",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
