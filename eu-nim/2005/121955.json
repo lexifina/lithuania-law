@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2005 M. BIRŽELIO 8 D. ĮSAKYMAS NR. D1-287 \"DĖL ŠILTNAMIO DUJŲ APYVARTINIŲ TARŠOS LEIDIMŲ REGISTRO NUOSTATŲ PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "73",
+  "official_journal_page": null,
+  "official_journal_date": "2005-06-11",
+  "entry_into_force": "2005-06-12",
+  "notification_date": "2005-06-22",
+  "commission_reference": "MNE(2005)51955",
+  "nim_celex": "72003L0087LTU_121955",
+  "nim_id": "121955",
+  "transposes_celex": [
+    "32003L0087"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f2a77e10-11a5-45ec-9492-1ea86f2c01c1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
