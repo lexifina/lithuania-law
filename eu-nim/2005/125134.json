@@ -1,0 +1,31 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės metrologijos tarnybos prie Aplinkos ministerijos direktoriaus 2005 m. birželio 3 d. įsakymas Nr. V-66 \"Dėl Valstybinės metrologijos tarnybos direktoriaus 2003 m. lapkričio 19 d. įsakymo Nr. V-145 keitimo ir dėl įstaigų atlikti atitikties įvertinimo procedūras, nustatytas fasuotų produktų kiekio ir matavimo indų kontrolės techniniame reglamente, paskyrimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "73",
+  "official_journal_page": null,
+  "official_journal_date": "2005-06-11",
+  "entry_into_force": "2005-06-12",
+  "notification_date": "2005-10-18",
+  "commission_reference": "MNE(2005)55134",
+  "nim_celex": "71975L0107LTU_125134",
+  "nim_id": "125134",
+  "transposes_celex": [
+    "31975L0107",
+    "31976L0211",
+    "31978L0891",
+    "31979L1005",
+    "31980L0232",
+    "31985L0010",
+    "31986L0096",
+    "31987L0356",
+    "31988L0316",
+    "31989L0676"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/988e4f5b-6729-4c91-8866-c80ac8e5fd0c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
