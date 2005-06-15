@@ -1,0 +1,28 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO IR LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRO 2005 M. GEGUŽĖS 26 D. ĮSAKYMAS NR. D1-265/V-436",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "74",
+  "official_journal_page": null,
+  "official_journal_date": "2005-06-14",
+  "entry_into_force": "2005-06-15",
+  "notification_date": "2005-10-04",
+  "commission_reference": "MNE(2005)54255",
+  "nim_celex": "71980L0779LTU_124255",
+  "nim_id": "124255",
+  "transposes_celex": [
+    "31980L0779",
+    "31985L0203",
+    "31989L0427",
+    "31992L0072",
+    "31996L0062",
+    "31999L0030",
+    "32002L0003"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4126a269-db19-42bd-a62e-586d941847ff",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
