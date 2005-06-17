@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2005 m. birželio 14 d. nutarimas Nr. 647 \"Dėl Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklių patvirtinimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "75",
+  "official_journal_page": null,
+  "official_journal_date": "2005-06-16",
+  "entry_into_force": "2005-06-17",
+  "notification_date": "2014-03-21",
+  "commission_reference": "MNE(2014)51932",
+  "nim_celex": "72011L0085LTU_214527",
+  "nim_id": "214527",
+  "transposes_celex": [
+    "32011L0085"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bdcd9f7b-e09d-4fca-a1d5-967ae40c92a6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
