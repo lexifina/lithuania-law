@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Finansinių nusikaltimų tyrimų tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos direktoriaus 2005 m. birželio 14 d. įsakymas Nr. 50-V \"Dėl auditoriams ir buhalterinės apskaitos ar mokesčių konsultavimo paslaugas teikiančioms įmonėms skirtų nurodymų, kuriais siekiama užkirsti kelią pinigų plovimui, patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "76",
+  "official_journal_page": null,
+  "official_journal_date": "2005-06-18",
+  "entry_into_force": "2005-06-19",
+  "notification_date": "2006-02-08",
+  "commission_reference": "MNE(2006)50862",
+  "nim_celex": "71991L0308LTU_128186",
+  "nim_id": "128186",
+  "transposes_celex": [
+    "31991L0308"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e8cc0b00-3aba-4b20-9c95-180f4a8545c8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
