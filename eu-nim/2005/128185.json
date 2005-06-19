@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Finansinių nusikaltimų tyrimo tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos direktoriaus 2005 m. birželio 14 d. įsakymas Nr. 51-V \"Dėl Finansinių nusikaltimų tyrimo tarnybos prie Vidaus reikalų ministerijos direktoriaus, vyriausiojo komisaro 2002 m. liepos 2 d. įsakymo nr. 35 \"Dėl 2002 m. kovo 22 d. įsakymo Nr. 12 \"Dėl pinigų plovimo prevencijos metodinių rekomendacijų investicinėms kintamojo kapitalo bendrovėms, investicinių bendrovių valdymo ir finansų maklerio įmonėms\" pakeitimo\" pripažinimo netekusiu galios\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "76",
+  "official_journal_page": null,
+  "official_journal_date": "2005-06-18",
+  "entry_into_force": "2005-06-19",
+  "notification_date": "2006-02-08",
+  "commission_reference": "MNE(2006)50861",
+  "nim_celex": "71991L0308LTU_128185",
+  "nim_id": "128185",
+  "transposes_celex": [
+    "31991L0308"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1769cbc2-e415-43ed-8389-920a52b04d6a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
