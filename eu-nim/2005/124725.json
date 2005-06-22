@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS SOCIALINĖS APSAUGOS IR DARBO MINISTRO 2005 M. BIRŽELIO 16 D. ĮSAKYMAS Nr. A1-169 \"DĖL INFORMAVIMO APIE KOMANDIRUOJAMUS DARBUOTOJUS TVARKOS APRAŠO PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "77",
+  "official_journal_page": null,
+  "official_journal_date": "2005-06-21",
+  "entry_into_force": "2005-06-22",
+  "notification_date": "2005-10-04",
+  "commission_reference": "MNE(2005)54725",
+  "nim_celex": "71996L0071LTU_124725",
+  "nim_id": "124725",
+  "transposes_celex": [
+    "31996L0071"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/eca72999-02c0-485b-96dd-e4010cb98d12",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
