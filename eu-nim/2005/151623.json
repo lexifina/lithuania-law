@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 2, 32, 33(1), 44, 66, 67, 68, 95, 117 straipsnių pakeitimo ir papildymo ĮSTATYMAS Nr. X-261",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "81",
+  "official_journal_page": null,
+  "official_journal_date": "2005-06-30",
+  "entry_into_force": "2005-06-30",
+  "notification_date": "2007-12-11",
+  "commission_reference": "MNE(2007)58809",
+  "nim_celex": "72006L0069LTU_151623",
+  "nim_id": "151623",
+  "transposes_celex": [
+    "32006L0069"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/27af92b0-ab79-4b48-9191-adf7186fbeee",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
