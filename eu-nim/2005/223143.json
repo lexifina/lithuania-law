@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo kodekso 48, 60, 145, 147, 157, 212, 213, 214, 215, 226, 249, 251, 252, 256, 267, 270, 272, 274, 280 straipsnių ir priedo pakeitimo bei papildymo ir Kodekso papildymo 147(1), 199(1), 199(2), 267(1), 270(1), 308(1) straipsniais įstatymas Nr. X-272",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "81",
+  "official_journal_page": null,
+  "official_journal_date": "2005-06-30",
+  "entry_into_force": "2005-06-30",
+  "notification_date": "2015-03-04",
+  "commission_reference": "MNE(2015)50547",
+  "nim_celex": "72001F0413LTU_223143",
+  "nim_id": "223143",
+  "transposes_celex": [
+    "32001F0413",
+    "32002F0475"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a7c225b5-7e43-4c9d-bb28-0a561a9db455",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
