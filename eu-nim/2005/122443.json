@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2005 m. birželio 27 d. įsakymas Nr. 1V-604 \"Dėl elektromagnetinio suderinamumo techninio reglamento patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "81",
+  "official_journal_page": null,
+  "official_journal_date": "2005-06-30",
+  "entry_into_force": "2005-07-01",
+  "notification_date": "2005-07-08",
+  "commission_reference": "MNE(2005)52443",
+  "nim_celex": "71989L0336LTU_122443",
+  "nim_id": "122443",
+  "transposes_celex": [
+    "31989L0336"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3c75ef5a-6e98-45ff-9fcb-5f29b90bdbde",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
