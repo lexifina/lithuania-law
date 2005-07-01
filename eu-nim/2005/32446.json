@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS FINANSŲ MINISTRO 2004 M. SPALIO 26 D. ĮSAKYMAS NR. 1K-345 \"DĖL PATEIKTINŲ DUOMENŲ SĄRAŠO BEI JUOS PRIVALANČIŲ TEIKTI SUBJEKTŲ KATEGORIJŲ APRAŠO PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "159",
+  "official_journal_page": null,
+  "official_journal_date": "2004-11-02",
+  "entry_into_force": "2005-07-01",
+  "notification_date": "2004-11-10",
+  "commission_reference": "MNE(2004)52446",
+  "nim_celex": "72004L0066LTU_32446",
+  "nim_id": "32446",
+  "transposes_celex": [
+    "32004L0066"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/be191d8e-a3d4-455b-bc38-a7df1413bc27",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
