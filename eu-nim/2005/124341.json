@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2005 M. GEGUŽĖS 5 D. ĮSAKYMAS NR. D1-232 \"DĖL LIETUVOS RESPUBLIKOS APLINKOS APSAUGOS NORMATYVINIŲ DOKUMENTŲ LAND 65-2005 IR LAND 66-2005 PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "59",
+  "official_journal_page": null,
+  "official_journal_date": "2005-05-10",
+  "entry_into_force": "2005-07-01",
+  "notification_date": "2005-10-04",
+  "commission_reference": "MNE(2005)54341",
+  "nim_celex": "71979L0869LTU_124341",
+  "nim_id": "124341",
+  "transposes_celex": [
+    "31979L0869"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d42b5520-29fc-437d-9580-c2d723583abe",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
