@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS SOCIALINĖS APSAUGOS IR DARBO MINISTRO IR LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRO ĮSAKYMAS Nr. A1-184/V-546 \"DĖL DARBO SU ASBESTU NUOSTATŲ PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "116",
+  "official_journal_page": null,
+  "official_journal_date": "2004-07-27",
+  "entry_into_force": "2005-07-01",
+  "notification_date": "2004-08-16",
+  "commission_reference": "MNE(2004)50458",
+  "nim_celex": "72003L0018LTU_30458",
+  "nim_id": "30458",
+  "transposes_celex": [
+    "32003L0018"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d6e745c9-2d7e-4563-8b66-38d019990cb8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
