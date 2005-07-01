@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS SAUGIOS LAIVYBOS ĮSTATYMO PAKEITIMO ĮSTATYMAS Nr. X-116",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "31",
+  "official_journal_page": null,
+  "official_journal_date": "2005-03-05",
+  "entry_into_force": "2005-07-01",
+  "notification_date": "2007-10-30",
+  "commission_reference": "MNE(2007)57741",
+  "nim_celex": "72005L0045LTU_150180",
+  "nim_id": "150180",
+  "transposes_celex": [
+    "32005L0045"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ae30dfaa-957e-433f-a5f8-749eff7960c3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
