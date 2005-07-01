@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2005 m. gegužės 26 d. įsakymas Nr. 3-250 „Dėl pranešimų apie civilinės aviacijos įvykius taisyklių patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "69",
+  "official_journal_page": null,
+  "official_journal_date": "2005-06-02",
+  "entry_into_force": "2005-07-01",
+  "notification_date": "2005-06-10",
+  "commission_reference": "MNE(2005)51681",
+  "nim_celex": "72003L0042LTU_121681",
+  "nim_id": "121681",
+  "transposes_celex": [
+    "32003L0042"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/db6634f3-f0ee-419e-b86b-3074556ca6d3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
