@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Žemės ūkio ministro 2004 m. gruodžio 29 d. įsakymas Nr. 3D-685 \"Dėl Žemės ir miškų ūkio traktorių, jų priekabų ir prikabinamųjų mašinų atitikties įvertinimo taisyklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "4",
+  "official_journal_page": null,
+  "official_journal_date": "2005-01-11",
+  "entry_into_force": "2005-07-01",
+  "notification_date": "2005-01-21",
+  "commission_reference": "MNE(2005)54417",
+  "nim_celex": "72004L0066LTU_34417",
+  "nim_id": "34417",
+  "transposes_celex": [
+    "32004L0066"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5d2bb3c9-e75b-4f51-b08c-1ccd2507250a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
