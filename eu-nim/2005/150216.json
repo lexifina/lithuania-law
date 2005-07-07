@@ -1,0 +1,27 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių teisės pažeidimų kodekso 21, 26, 27, 35, 119, 121, 122, 136, 143, 154(3), 154(4), 154(5), 154(6), 154(7), 154(8), 182(1), 221, 224, 225, 228, 241(2), 246, 259(1), 269, 270, 281, 320, 324, 325, 328, 329 straipsnių pakeitimo ir Kodekso papildymo 110(1), 117(2), 117(3), 117(4), 152(14), 154(9), 154(10), 163(14) straipsniais įstatymas Nr. X-249",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "83",
+  "official_journal_page": null,
+  "official_journal_date": "2005-07-07",
+  "entry_into_force": "2005-07-07",
+  "notification_date": "2007-10-31",
+  "commission_reference": "MNE(2007)57772",
+  "nim_celex": "72005L0045LTU_150216",
+  "nim_id": "150216",
+  "transposes_celex": [
+    "32005L0045",
+    "32006L0126",
+    "32009L0016",
+    "32009L0018",
+    "32009L0020",
+    "32012L0033"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/705e5c39-4102-4852-8d5f-dff54eb2a62f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
