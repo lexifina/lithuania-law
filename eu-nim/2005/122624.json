@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2005 m. liepos 1 d. įsakymas Nr. 1V-625 \"Dėl Universaliųjų pašto paslaugų teikėjo sąnaudų apskaitos taisyklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "83",
+  "official_journal_page": null,
+  "official_journal_date": "2005-07-07",
+  "entry_into_force": "2005-07-08",
+  "notification_date": "2005-07-15",
+  "commission_reference": "MNE(2005)52624",
+  "nim_celex": "72002L0039LTU_122624",
+  "nim_id": "122624",
+  "transposes_celex": [
+    "32002L0039"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fd997ec0-4f53-4d6c-b0f7-76e9fd31867c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
