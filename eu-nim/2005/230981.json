@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos bankų įstatymo 2, 14, 20, 46, 53, 55, 65, 69, 72, 90, 91, 92 straipsnių ir priedo pakeitimo įstatymas Nr. X-273",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "84",
+  "official_journal_page": null,
+  "official_journal_date": "2005-07-12",
+  "entry_into_force": "2005-07-12",
+  "notification_date": "2015-10-23",
+  "commission_reference": "MNE(2015)57603",
+  "nim_celex": "72013L0036LTU_230981",
+  "nim_id": "230981",
+  "transposes_celex": [
+    "32013L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7d165283-54c9-439c-9658-b467b276e686",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
