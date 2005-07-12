@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vertybinių popierių rinkos įstatymo pakeitimo ir papildymo įstatymas Nr. X-270",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "84",
+  "official_journal_page": null,
+  "official_journal_date": "2005-07-12",
+  "entry_into_force": "2005-07-12",
+  "notification_date": "2005-07-18",
+  "commission_reference": "MNE(2005)52641",
+  "nim_celex": "72001L0024LTU_122641",
+  "nim_id": "122641",
+  "transposes_celex": [
+    "32001L0024"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/34acc44b-d34f-4936-a8a6-ab6f44b9a27e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
