@@ -1,0 +1,27 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS PLANUOJAMOS ŪKINĖS VEIKLOS POVEIKIO APLINKAI VERTINIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS NR. X-258 (NAUJA REDAKCIJA)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "84",
+  "official_journal_page": null,
+  "official_journal_date": "2005-07-12",
+  "entry_into_force": "2005-07-12",
+  "notification_date": "2005-07-12",
+  "commission_reference": "MNE(2005)52458",
+  "nim_celex": "71979L0409LTU_122458",
+  "nim_id": "122458",
+  "transposes_celex": [
+    "31979L0409",
+    "31985L0337",
+    "31992L0043",
+    "31999L0031",
+    "32000L0076",
+    "32003L0035"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d3f1abbb-f045-4e25-a6c5-cb18afa80796",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
