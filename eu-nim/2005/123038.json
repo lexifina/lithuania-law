@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos akcinių bendrovių įstatymo 13, 44, 46, 48, 55, 72 ir 74 straipsnių pakeitimo įstatymas Nr. X-271",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "84",
+  "official_journal_page": null,
+  "official_journal_date": "2005-07-12",
+  "entry_into_force": "2005-07-12",
+  "notification_date": "2005-08-02",
+  "commission_reference": "MNE(2005)53038",
+  "nim_celex": "72003L0071LTU_123038",
+  "nim_id": "123038",
+  "transposes_celex": [
+    "32003L0071"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e249272c-03a8-4f7d-a2bb-bd33439e8147",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
