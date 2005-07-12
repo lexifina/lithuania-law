@@ -1,0 +1,25 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS ATLIEKŲ TVARKYMO ĮSTATYMO 2, 30, 34 STRAIPSNIŲ IR AŠTUNTOJO(1) SKIRSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS\nNR. X-279",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "84",
+  "official_journal_page": null,
+  "official_journal_date": "2005-07-12",
+  "entry_into_force": "2005-07-12",
+  "notification_date": "2005-07-25",
+  "commission_reference": "MNE(2005)52896",
+  "nim_celex": "71991L0156LTU_122896",
+  "nim_id": "122896",
+  "transposes_celex": [
+    "31991L0156",
+    "32002L0096",
+    "32003L0108",
+    "32006L0066"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/85f19d49-ee32-496a-8b6b-14b2c6e1ecec",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
