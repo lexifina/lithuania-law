@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos patentų įstatymo preambulės, 2, 4, 10, 11, 13, 19, 21, 24, 26, 39, 40, 48, 50 straipsnių pakeitimo bei papildymo ir įstatymo papildymo 28(1), 38 straipsniais, X(1) skirsniu ir priedu įstatymas Nr. X-287",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "85",
+  "official_journal_page": null,
+  "official_journal_date": "2005-07-14",
+  "entry_into_force": "2005-07-14",
+  "notification_date": "2005-07-18",
+  "commission_reference": "MNE(2005)52685",
+  "nim_celex": "71998L0044LTU_122685",
+  "nim_id": "122685",
+  "transposes_celex": [
+    "31998L0044"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/907d30f0-31d3-4d80-8e2d-8be9295f9d8c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
