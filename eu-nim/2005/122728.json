@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos smurtiniais nusikaltimais padarytos žalos kompensavimo įstatymas Nr. X-296",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "85",
+  "official_journal_page": null,
+  "official_journal_date": "2005-07-14",
+  "entry_into_force": "2005-07-14",
+  "notification_date": "2005-07-20",
+  "commission_reference": "MNE(2005)52728",
+  "nim_celex": "72001F0220LTU_122728",
+  "nim_id": "122728",
+  "transposes_celex": [
+    "32001F0220",
+    "32002F0475",
+    "32004L0080"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8ca0a49f-45da-4b86-ad2e-104f774d4d7b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
