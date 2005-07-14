@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos darbo kodekso 61, 92, 127, 129, 133, 135, 136, 146, 150, 154, 155, 161, 162, 166, 169, 170, 184, 212, 214, 220, 273 ir 279 straipsnių pakeitimo įstatymas Nr. X-294",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "85",
+  "official_journal_page": null,
+  "official_journal_date": "2005-07-14",
+  "entry_into_force": "2005-07-14",
+  "notification_date": "2016-12-27",
+  "commission_reference": "MNE(2016)57835",
+  "nim_celex": "72014L0112LTU_243729",
+  "nim_id": "243729",
+  "transposes_celex": [
+    "32014L0112"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bbd12d51-ce67-11e6-ad7c-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
