@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS PAKUOČIŲ IR PAKUOČIŲ ATLIEKŲ TVARKYMO ĮSTATYMO 1, 2, 5, 7, 10\nSTRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO PRIEDU ĮSTATYMAS NR. X-286",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "86",
+  "official_journal_page": null,
+  "official_journal_date": "2005-07-16",
+  "entry_into_force": "2005-07-16",
+  "notification_date": "2005-07-27",
+  "commission_reference": "MNE(2005)52890",
+  "nim_celex": "71994L0062LTU_122890",
+  "nim_id": "122890",
+  "transposes_celex": [
+    "31994L0062",
+    "32004L0012"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9190255a-a512-4871-a418-ee34773f62ad",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
