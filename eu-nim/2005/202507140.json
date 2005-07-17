@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2005 m. liepos 12 d. įsakymas Nr. A1-199 „Dėl Kompetencijos reikalavimų įmonėms, vykdančioms statinių, turinčių konstrukcijose asbesto, griovimo, jų konstrukcijų ar asbesto šalinimo darbus, aprašo tvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "86-3247",
+  "official_journal_page": null,
+  "official_journal_date": "2005-07-16",
+  "entry_into_force": "2005-07-17",
+  "notification_date": "2025-12-19",
+  "commission_reference": "MNE(2025)07140",
+  "nim_celex": "72023L2668LTU_202507140",
+  "nim_id": "202507140",
+  "transposes_celex": [
+    "32023L2668"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c01692c0-ed12-4368-84a6-786f9589b374",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
