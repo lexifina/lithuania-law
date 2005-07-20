@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2005 m. liepos 14 d. nutarimas Nr. 768 \"Dėl informacijos apie finansinius santykius tarp valstybės institucijų ir įmonių, kurioms valstybės institucijos gali daryti lemiamą įtaką, ir apie tam tikras įmones kaupimo taisyklių patvirtinimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "87",
+  "official_journal_page": null,
+  "official_journal_date": "2005-07-19",
+  "entry_into_force": "2005-07-20",
+  "notification_date": "2006-11-09",
+  "commission_reference": "MNE(2006)57353",
+  "nim_celex": "72005L0081LTU_137238",
+  "nim_id": "137238",
+  "transposes_celex": [
+    "32005L0081"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a71aecb4-c682-44b8-903b-1fd6ed849186",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
