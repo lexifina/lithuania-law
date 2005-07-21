@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS MOTERŲ IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO 1, 2, 5, 6, 7(1), 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 24(1), 25, 26, 27, 28 STRAIPSNIŲ BEI PRIEDO PAKEITIMO IR PAPILDYMO ĮSTATYMAS Nr. X-304",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "88",
+  "official_journal_page": null,
+  "official_journal_date": "2005-07-21",
+  "entry_into_force": "2005-07-21",
+  "notification_date": "2005-08-02",
+  "commission_reference": "MNE(2005)52947",
+  "nim_celex": "72002L0073LTU_122947",
+  "nim_id": "122947",
+  "transposes_celex": [
+    "32002L0073"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c822b7f3-fc8e-4a85-a2da-5504a2190c8f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
