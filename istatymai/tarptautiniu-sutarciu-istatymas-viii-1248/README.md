@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 1999-07-09 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/3fa956fef11cc205dbaa6f583b6173856d9dcf71/istatymai/TAR.5BCEC9B41811.md) |
+| 2005-07-21 | 2012-06-30 | Įstatymas Nr. X-332 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/c1c688f8dcf8683952259ac7ad14e344bcad6c1d/istatymai/TAR.5BCEC9B41811.md) |
