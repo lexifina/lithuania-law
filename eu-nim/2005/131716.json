@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2005 M. LIEPOS 14 D. ĮSAKYMAS NR. D1-358 \"DĖL DIDŽIOJO KORMORANO POPULIACIJOS GAUSOS REGULIAVIMO TVARKOS APRAŠO PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "89",
+  "official_journal_page": null,
+  "official_journal_date": "2005-07-23",
+  "entry_into_force": "2005-07-24",
+  "notification_date": "2006-05-23",
+  "commission_reference": "MNE(2006)53390",
+  "nim_celex": "71979L0409LTU_131716",
+  "nim_id": "131716",
+  "transposes_celex": [
+    "31979L0409"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f8c55f7c-5989-4652-b52f-579d74c2056e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
