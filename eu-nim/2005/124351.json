@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2005 M. LIEPOS 11 D. ĮSAKYMAS NR. D1-349 \"DĖL APLINKOS MINISTRO 2002 M. LIEPOS 10 D. ĮSAKYMO NR. 362 „DĖL VANDENS TELKINIŲ SUSKIRSTYMO“ PAKEITIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "89",
+  "official_journal_page": null,
+  "official_journal_date": "2005-07-23",
+  "entry_into_force": "2005-07-24",
+  "notification_date": "2005-10-04",
+  "commission_reference": "MNE(2005)54351",
+  "nim_celex": "71978L0659LTU_124351",
+  "nim_id": "124351",
+  "transposes_celex": [
+    "31978L0659"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/346c2e71-8bf9-485c-a8af-2e4d4762a412",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
