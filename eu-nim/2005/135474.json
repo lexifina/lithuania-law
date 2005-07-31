@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO\nIR LIETUVOS RESPUBLIKOS ŽEMĖS ŪKIO MINISTRO 2005 M. LIEPOS 14 D. ĮSAKYMAS NR. D1-367 / 3D-342 \"DĖL APLINKOSAUGOS REIKALAVIMŲ MĖŠLUI TVARKYTI PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "92",
+  "official_journal_page": null,
+  "official_journal_date": "2005-07-30",
+  "entry_into_force": "2005-07-31",
+  "notification_date": "2006-09-19",
+  "commission_reference": "MNE(2006)56099",
+  "nim_celex": "71991L0676LTU_135474",
+  "nim_id": "135474",
+  "transposes_celex": [
+    "31991L0676"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b6c51983-1b2a-40ba-b36e-3a300a34c890",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
