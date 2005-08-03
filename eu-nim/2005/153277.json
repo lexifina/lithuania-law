@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2005 m. liepos 21 d. įsakymas Nr. V-596 „Dėl triukšmo poveikio visuomenės sveikatai tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "93",
+  "official_journal_page": null,
+  "official_journal_date": "2005-08-02",
+  "entry_into_force": "2005-08-03",
+  "notification_date": "2008-01-30",
+  "commission_reference": "MNE(2008)50824",
+  "nim_celex": "72002L0049LTU_153277",
+  "nim_id": "153277",
+  "transposes_celex": [
+    "32002L0049"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c77c7697-604f-4b20-ba9b-ed3ef5867e10",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
