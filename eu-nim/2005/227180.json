@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2005 m. liepos 15 d. įsakymas Nr. D1-370 „Dėl Visuomenės informavimo ir dalyvavimo planuojamos ūkinės veiklos poveikio aplinkai vertinimo procese tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "93",
+  "official_journal_page": null,
+  "official_journal_date": "2005-08-02",
+  "entry_into_force": "2005-08-03",
+  "notification_date": "2015-06-25",
+  "commission_reference": "MNE(2015)54162",
+  "nim_celex": "72012L0018LTU_227180",
+  "nim_id": "227180",
+  "transposes_celex": [
+    "32012L0018"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3aa967b2-38a8-4ccd-bbcb-813590b08de3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
