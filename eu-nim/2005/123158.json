@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2005 M. LIEPOS 15 D. ĮSAKYMAS NR. D1-370 \"DĖL VISUOMENĖS INFORMAVIMO IR DALYVAVIMO PLANUOJAMOS ŪKINĖS VEIKLOS POVEIKIO APLINKAI VERTINIMO PROCESE TVARKOS APRAŠO PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "93",
+  "official_journal_page": null,
+  "official_journal_date": "2005-08-02",
+  "entry_into_force": "2005-08-03",
+  "notification_date": "2005-08-05",
+  "commission_reference": "MNE(2005)53158",
+  "nim_celex": "71985L0337LTU_123158",
+  "nim_id": "123158",
+  "transposes_celex": [
+    "31985L0337",
+    "31997L0011",
+    "32003L0035"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fec77cf8-261e-4d34-aa83-41ad6b8da05c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
