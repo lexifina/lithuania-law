@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2005 m. liepos 22 d. įsakymas Nr. V-612 „Dėl Radiacinės saugos centro nuostatų patvirtinimo“ (Suvestinė redakcija nuo 2016-07-22)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "94-3516",
+  "official_journal_page": null,
+  "official_journal_date": "2005-08-04",
+  "entry_into_force": "2005-08-05",
+  "notification_date": "2018-12-10",
+  "commission_reference": "MNE(2018)56517",
+  "nim_celex": "72013L0059LTU_265710",
+  "nim_id": "265710",
+  "transposes_celex": [
+    "32013L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/226411a7-de2d-44ca-9b86-907e833b8467",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
