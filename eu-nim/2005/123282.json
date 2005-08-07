@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2005 m. liepos 29 d. įsakymas Nr. V-623 ,,Dėl  Lietuvos Respublikos sveikatos apsaugos ministro 2003 m. gruodžio 24 d. įsakymo Nr. V-771 ,,Dėl Lietuvos higienos normos HN 16:2003 ,,Medžiagos ir gaminiai, besiliečiantys su maistu“ patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "95",
+  "official_journal_page": null,
+  "official_journal_date": "2005-08-06",
+  "entry_into_force": "2005-08-07",
+  "notification_date": "2005-08-12",
+  "commission_reference": "MNE(2005)53282",
+  "nim_celex": "72004L0001LTU_123282",
+  "nim_id": "123282",
+  "transposes_celex": [
+    "32004L0001"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/de09bebc-0c79-426a-83eb-cc4d1af58cb0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
