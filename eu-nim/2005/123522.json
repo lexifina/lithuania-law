@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2005 m. rugpjūčio 8 d. įsakymas Nr. 3-355 „Dėl Lietuvos Respublikos jūrinio laipsnio diplomų ir kvalifikacijos liudijimų jūrininkams, plaukiojantiems tarptautiniais reisais, išdavimo taisyklių patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "99",
+  "official_journal_page": null,
+  "official_journal_date": "2005-08-16",
+  "entry_into_force": "2005-08-17",
+  "notification_date": "2005-08-29",
+  "commission_reference": "MNE(2005)53522",
+  "nim_celex": "72003L0103LTU_123522",
+  "nim_id": "123522",
+  "transposes_celex": [
+    "32003L0103"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6bae0d95-3307-416c-b78b-50426a9d272d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
