@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2005 m. kovo 18 d. įsakymas Nr. D1-156 \"Dėl statybos techninio reglamento STR 2.05.01:2005 \"Pastatų atitvarų šiluminė technika\" patvirtinimo;",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "100",
+  "official_journal_page": null,
+  "official_journal_date": "2005-08-18",
+  "entry_into_force": "2005-08-19",
+  "notification_date": "2005-09-01",
+  "commission_reference": "MNE(2005)53718",
+  "nim_celex": "72002L0091LTU_123718",
+  "nim_id": "123718",
+  "transposes_celex": [
+    "32002L0091",
+    "32010L0031"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a0d14698-fd3e-4d4a-aa94-11a4f368cce8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
