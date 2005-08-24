@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2005 M. LIEPOS 26 D. ĮSAKYMAS NR. D1-381 \"DĖL VISUOMENĖS INFORMAVIMO IR DALYVAVIMO RENGIANT PLANUS IR PROGRAMAS, SKIRTAS APLINKOS ORO IR VANDENS APSAUGAI BEI ATLIEKŲ TVARKYMUI, TVARKOS APRAŠO PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "102",
+  "official_journal_page": null,
+  "official_journal_date": "2005-08-23",
+  "entry_into_force": "2005-08-24",
+  "notification_date": "2005-08-29",
+  "commission_reference": "MNE(2005)53557",
+  "nim_celex": "72003L0035LTU_123557",
+  "nim_id": "123557",
+  "transposes_celex": [
+    "32003L0035"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f005a0a8-02c4-4ace-b18b-a647df51673c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
