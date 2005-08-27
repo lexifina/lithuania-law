@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos saugios laivybos administracijos direktoriaus 2005 m. liepos 28 d. įsakymas Nr. V-133 „Dėl Lietuvos Respublikos jūrų laivų registre įregistruotų laivų patikrinimo ir liudijimų išdavimo tvarkos aprašo patvirtinimo“ (Suvestinė redakcija nuo 2017-05-03)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "104-3867",
+  "official_journal_page": null,
+  "official_journal_date": "2005-08-26",
+  "entry_into_force": "2005-08-27",
+  "notification_date": "2020-05-04",
+  "commission_reference": "MNE(2020)51293",
+  "nim_celex": "72018L0131LTU_281398",
+  "nim_id": "281398",
+  "transposes_celex": [
+    "32018L0131"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d01c9d9c-910d-11ea-aac4-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
