@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Finansinių nusikaltimų tyrimų tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos direktoriaus 2005 m. rugpjūčio 19 d. įsakymas Nr. 66-V \"Dėl pašto paslaugų teikėjams, teikiantiems vidaus ir tarptautinio pašto paslaugas, skirtų nurodymų, kuriais siekiama užkirsti kelią pinigų plovimui, patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "104",
+  "official_journal_page": null,
+  "official_journal_date": "2005-08-26",
+  "entry_into_force": "2005-08-27",
+  "notification_date": "2006-02-08",
+  "commission_reference": "MNE(2006)50864",
+  "nim_celex": "71991L0308LTU_128188",
+  "nim_id": "128188",
+  "transposes_celex": [
+    "31991L0308"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7f1187fa-cbc7-4f00-8d54-51713326f90b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
