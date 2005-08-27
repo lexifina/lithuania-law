@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos saugios laivybos administracijos direktoriaus 2005 m. rugpjūčio 17 d. įsakymas Nr. V-140 \"Dėl Lietuvos Respublikos jūrinio laipsnio diplomų ir kvalifikacijos liudijimų jūrininkams, neplaukiojantiems tarptautiniais reisais, išdavimo taisyklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "104",
+  "official_journal_page": null,
+  "official_journal_date": "2005-08-26",
+  "entry_into_force": "2005-08-27",
+  "notification_date": "2014-10-28",
+  "commission_reference": "MNE(2014)56029",
+  "nim_celex": "72012L0035LTU_220697",
+  "nim_id": "220697",
+  "transposes_celex": [
+    "32012L0035"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c8522d1b-5119-46da-8213-2eb379b529c9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
