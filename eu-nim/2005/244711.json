@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro 2005 m. birželio 14 d. įsakymas Nr. 1V-186 „Dėl vairuotojo pažymėjimo blanko aprašymo ir privalomosios formos patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "76",
+  "official_journal_page": null,
+  "official_journal_date": "2005-06-18",
+  "entry_into_force": "2005-08-31",
+  "notification_date": "2017-01-27",
+  "commission_reference": "MNE(2017)50665",
+  "nim_celex": "72015L0653LTU_244711",
+  "nim_id": "244711",
+  "transposes_celex": [
+    "32015L0653"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f5aaf836-f1a1-4cf7-8421-79b329a837da",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
