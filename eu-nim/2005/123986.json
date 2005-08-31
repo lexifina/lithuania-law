@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2005 M. BIRŽELIO 15 D. ĮSAKYMAS NR. D1-302 \"DĖL VIETOVIŲ, ATITINKANČIŲ GAMTINIŲ BUVEINIŲ APSAUGAI SVARBIŲ TERITORIJŲ ATRANKOS KRITERIJUS, SĄRAŠO, SKIRTO PATEIKTI EUROPOS KOMISIJAI, PATVIRTINIMO\" (NAUJA REDAKCIJA) (3)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "106,107,108",
+  "official_journal_page": null,
+  "official_journal_date": "2005-08-30",
+  "entry_into_force": "2005-08-31",
+  "notification_date": "2005-09-12",
+  "commission_reference": "MNE(2005)53986",
+  "nim_celex": "71992L0043LTU_123986",
+  "nim_id": "123986",
+  "transposes_celex": [
+    "31992L0043"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/caac491a-43de-4bea-890e-95915ace5d12",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
