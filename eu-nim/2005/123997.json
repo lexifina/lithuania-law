@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2005 M. RUGPJŪČIO 29 D. ĮSAKYMAS NR. D1-420 \"DĖL APLINKOS MINISTRO 2003 M. GRUODŽIO 24 D. ĮSAKYMO NR. 710 „DĖL EKSPLOATUOTI NETINKAMŲ TRANSPORTO PRIEMONIŲ TVARKYMO TAISYKLIŲ PATVIRTINIMO“ PAKEITIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "106",
+  "official_journal_page": null,
+  "official_journal_date": "2005-08-31",
+  "entry_into_force": "2005-09-01",
+  "notification_date": "2005-09-13",
+  "commission_reference": "MNE(2005)53997",
+  "nim_celex": "72000L0053LTU_123997",
+  "nim_id": "123997",
+  "transposes_celex": [
+    "32000L0053"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/93bafc38-5860-4741-8d18-bd38437b0f26",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
