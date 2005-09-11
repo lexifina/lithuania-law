@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2005 m. rugsėjo 1 d. įsakymas Nr. V-678 „Dėl Lietuvos higienos normos HN 88:2005 „Nemedicininės paskirties atvirųjų jonizuojančiosios spinduliuotės šaltinių radiacinė sauga“ patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "110-4026",
+  "official_journal_page": null,
+  "official_journal_date": "2005-09-10",
+  "entry_into_force": "2005-09-11",
+  "notification_date": "2018-12-10",
+  "commission_reference": "MNE(2018)56507",
+  "nim_celex": "72013L0059LTU_265700",
+  "nim_id": "265700",
+  "transposes_celex": [
+    "32013L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5a0ec7a1-4b55-4b47-b69c-8bb68ebd24c5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
