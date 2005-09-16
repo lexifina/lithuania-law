@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2005 M. RUGSĖJO 8 D. ĮSAKYMAS NR. D1-437 \"DĖL APLINKOS MINISTRO 2003 M. GRUODŽIO 19 D. ĮSAKYMO NR. 679 „DĖL POLICHLORINTŲ BIFENILŲ IR POLICHLORINTŲ TERFENILŲ (PCB) IR ĮRANGOS, TURINČIOS PCB, NUKENKSMINIMO IR/AR ŠALINIMO PLANO RENGIMO PAGRINDINIŲ NUOSTATŲ BEI POLICHLORINTŲ BIFENILŲ IR POLICHLORINTŲ TERFENILŲ (PCB) IR ĮRANGOS, TURINČIOS PCB, NUKENKSMINIMO IR/AR ŠALINIMO PLANO PATVIRTINIMO“ PAKEITIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "111",
+  "official_journal_page": null,
+  "official_journal_date": "2005-09-15",
+  "entry_into_force": "2005-09-16",
+  "notification_date": "2005-10-03",
+  "commission_reference": "MNE(2005)54220",
+  "nim_celex": "71996L0059LTU_124220",
+  "nim_id": "124220",
+  "transposes_celex": [
+    "31996L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/15194169-6db5-492d-b6a4-8025eb7cd085",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
