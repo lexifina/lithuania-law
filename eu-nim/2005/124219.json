@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2005 M. RUGSĖJO 6 D. ĮSAKYMAS NR. D1-435 \"DĖL NEINVENTORIZUOTOS ĮRANGOS, TURINČIOS MAŽIAU NEI 5 DM3 POLICHLORINTŲ BIFENILŲ IR POLICHLORINTŲ TERFENILŲ (PCB/PCT), SURINKIMO IR ŠALINIMO TAISYKLIŲ PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "111",
+  "official_journal_page": null,
+  "official_journal_date": "2005-09-15",
+  "entry_into_force": "2005-09-16",
+  "notification_date": "2005-10-03",
+  "commission_reference": "MNE(2005)54219",
+  "nim_celex": "71996L0059LTU_124219",
+  "nim_id": "124219",
+  "transposes_celex": [
+    "31996L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ad4c31d6-b455-4974-864b-9cb7cfad00d7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
