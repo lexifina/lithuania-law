@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2005 m. rugsėjo 13 d. įsakymas Nr. 1V-777 \"Dėl Viešojo konkurso suteikti teisę naudoti elektroninių ryšių išteklius bendrųjų sąlygų aprašo patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "112",
+  "official_journal_page": null,
+  "official_journal_date": "2005-09-17",
+  "entry_into_force": "2005-09-18",
+  "notification_date": "2005-10-03",
+  "commission_reference": "MNE(2005)54251",
+  "nim_celex": "72002L0020LTU_124251",
+  "nim_id": "124251",
+  "transposes_celex": [
+    "32002L0020"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ca3519f9-1653-4c43-a4b1-44efcb9c868e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
