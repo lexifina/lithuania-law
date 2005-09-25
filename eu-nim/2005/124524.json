@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2005 m. rugsėjo 19 d. įsakymas Nr. 3-389 „Dėl Lietuvos Respublikos susisiekimo ministro 1996 m. spalio 30 d. įsakymo Nr. 330 „Dėl valstybinės geležinkelio inspekcijos prie Susisiekimo ministerijos nuostatų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "114",
+  "official_journal_page": null,
+  "official_journal_date": "2005-09-24",
+  "entry_into_force": "2005-09-25",
+  "notification_date": "2005-10-03",
+  "commission_reference": "MNE(2005)54524",
+  "nim_celex": "72004L0049LTU_124524",
+  "nim_id": "124524",
+  "transposes_celex": [
+    "32004L0049"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/365d622b-c8fb-4425-ae6d-f1c9199ac419",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
