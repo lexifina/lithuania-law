@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos policijos generalinio komisaro 2005 m. rugsėjo 27 d. įsakymas Nr. 5-V-581 „Dėl keitimosi informacija apie naujų psichoaktyvių medžiagų atsiradimą tvarkos aprašo patvirtinimo",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Administracinės priemonės",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2005-09-27",
+  "entry_into_force": "2005-09-28",
+  "notification_date": "2015-03-06",
+  "commission_reference": "MNE(2015)51433",
+  "nim_celex": "72005D0387LTU_224271",
+  "nim_id": "224271",
+  "transposes_celex": [
+    "32005D0387"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b64c96e3-6322-11e7-b2f2-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
