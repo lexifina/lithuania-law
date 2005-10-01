@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2005 m. liepos 28 d. nutarimas Nr. 114 „Dėl Minimalių paskolų vertinimo reikalavimų patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "96",
+  "official_journal_page": null,
+  "official_journal_date": "2005-08-09",
+  "entry_into_force": "2005-10-01",
+  "notification_date": "2005-12-05",
+  "commission_reference": "MNE(2005)60150",
+  "nim_celex": "71986L0635LTU_126028",
+  "nim_id": "126028",
+  "transposes_celex": [
+    "31986L0635"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1d21496c-5c37-483f-a047-4c1092260b89",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
