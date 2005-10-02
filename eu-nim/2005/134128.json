@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS VALSTYBINĖS MAISTO IR VETERINARIJOS TARNYBOS DIREKTORIAUS 2005 M. RUGSĖJO 26 D. ĮSAKYMAS NR. B1-539 \"DĖL VEŽAMŲ GYVŪNŲ APSAUGOS REIKALAVIMŲ PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "117",
+  "official_journal_page": null,
+  "official_journal_date": "2005-10-01",
+  "entry_into_force": "2005-10-02",
+  "notification_date": "2006-08-11",
+  "commission_reference": "MNE(2006)55097",
+  "nim_celex": "71979L0409LTU_134128",
+  "nim_id": "134128",
+  "transposes_celex": [
+    "31979L0409"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/90791b08-365f-47d4-82cf-4f2276019838",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
