@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2005 m. rugsėjo 29 d. nutarimas Nr. 1053 „Dėl Kultūros vertybių registro įsteigimo ir kultūros vertybių registro nuostatų patvirtinimo\" (Suvestinė redakcija nuo 2009-10-02)",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "117-4238",
+  "official_journal_page": null,
+  "official_journal_date": "2005-10-01",
+  "entry_into_force": "2005-10-02",
+  "notification_date": "2021-09-06",
+  "commission_reference": "MNE(2021)06175",
+  "nim_celex": "72011L0092LTU_202106175",
+  "nim_id": "202106175",
+  "transposes_celex": [
+    "32011L0092"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bcd891d5-1217-11ec-b4fe-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
