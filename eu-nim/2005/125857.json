@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2005 m. rugsėjo 28 d. įsakymas Nr. 1V-824 \"Dėl Aukciono suteikti teisę naudoti elektroninių ryšių išteklius taisyklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "118",
+  "official_journal_page": null,
+  "official_journal_date": "2005-10-06",
+  "entry_into_force": "2005-10-07",
+  "notification_date": "2005-11-18",
+  "commission_reference": "MNE(2005)60001",
+  "nim_celex": "72002L0020LTU_125857",
+  "nim_id": "125857",
+  "transposes_celex": [
+    "32002L0020",
+    "32002L0021"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c4c891f1-dc23-48f7-8459-2c45e02b56be",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
