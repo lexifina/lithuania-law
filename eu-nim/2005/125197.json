@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės kelių transporto inspekcijos 2005 m. rugsėjo 30 d. įsakymas Nr. 2B-281 „Dėl netiesioginio matymo įtaisų ir transporto priemonių, kuriose įrengti netiesioginio matymo įtaisai, tipo patvirtinimo taisyklių“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "119",
+  "official_journal_page": null,
+  "official_journal_date": "2005-10-08",
+  "entry_into_force": "2005-10-09",
+  "notification_date": "2005-10-21",
+  "commission_reference": "MNE(2005)55197",
+  "nim_celex": "72003L0097LTU_125197",
+  "nim_id": "125197",
+  "transposes_celex": [
+    "32003L0097"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6eef3eb8-4348-4dd7-bab3-6935edd14cab",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
