@@ -13,3 +13,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 1995-06-28 | 1995-07-18 | Įstatymas Nr. I-944 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/4827dce567f1f27ecfd6fb569719ac529f190ade/istatymai/TAR.D267FBDC094B.md) |
 | 1995-07-19 | 1996-06-30 | Įstatymas Nr. I-992 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/6431fe2fd8db20c6a176af5c31ad02f8ad8531ac/istatymai/TAR.D267FBDC094B.md) |
 | 1996-07-01 | 2005-10-10 | Įstatymas Nr. I-1312 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/94822adadc712db36b2655c0f3737d8adeade6e6/istatymai/TAR.D267FBDC094B.md) |
+| 2005-10-11 | 2005-12-31 | Įstatymas Nr. X-357 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/e7863188072aee70741536affe6c36b95102ba10/istatymai/TAR.D267FBDC094B.md) |
