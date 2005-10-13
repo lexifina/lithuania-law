@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymo 1 ir 2 straipsnių papildymo, 6, 12, 13, 14, 30 straipsnių pakeitimo, 27 straipsnio pripažinimo netekusiu galios ir įstatymo papildymo priedu įstatymas Nr. X-354",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "122",
+  "official_journal_page": null,
+  "official_journal_date": "2005-10-13",
+  "entry_into_force": "2005-10-13",
+  "notification_date": null,
+  "commission_reference": "MNE(2006)50156",
+  "nim_celex": "72003L0122LTU_127220",
+  "nim_id": "127220",
+  "transposes_celex": [
+    "32003L0122"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d0bcf9b6-2f85-4508-9510-293104a337c2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
