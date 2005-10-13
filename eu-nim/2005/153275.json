@@ -1,0 +1,25 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių teisės pažeidimų kodekso 41(6), 187(5) ir 247(6) straipsnių pakeitimo įstatymas Nr. X-343",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "122",
+  "official_journal_page": null,
+  "official_journal_date": "2005-10-13",
+  "entry_into_force": "2005-10-13",
+  "notification_date": "2008-01-30",
+  "commission_reference": "MNE(2008)50822",
+  "nim_celex": "72004L0113LTU_153275",
+  "nim_id": "153275",
+  "transposes_celex": [
+    "32004L0113",
+    "32006L0054",
+    "32010L0018",
+    "32010L0041"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d98aeec1-109f-45c1-bb83-bc7b11b70edf",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
