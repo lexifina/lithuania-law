@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos 2005 m. spalio 6 d. įskymas Nr. 1V-854 \"Dėl Radijo dažnių (kanalų) skyrimo ir naudojimo taisyklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "122",
+  "official_journal_page": null,
+  "official_journal_date": "2005-10-13",
+  "entry_into_force": "2005-10-14",
+  "notification_date": "2005-11-18",
+  "commission_reference": "MNE(2005)60002",
+  "nim_celex": "72002L0020LTU_125858",
+  "nim_id": "125858",
+  "transposes_celex": [
+    "32002L0020",
+    "32002L0021",
+    "32002L0077"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fba4320d-4818-4567-89f1-be4511f41e22",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
