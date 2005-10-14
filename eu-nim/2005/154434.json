@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro 2005 m. spalio 7 d. įsakymas Nr. 4-346 \"Dėl elektros energijos, pagamintos naudojant atsinaujinančius energijos išteklius, kilmės garantijų teikimo taisyklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "122",
+  "official_journal_page": null,
+  "official_journal_date": "2005-10-13",
+  "entry_into_force": "2005-10-14",
+  "notification_date": "2008-03-12",
+  "commission_reference": "MNE(2008)51691",
+  "nim_celex": "72005L0089LTU_154434",
+  "nim_id": "154434",
+  "transposes_celex": [
+    "32005L0089"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c0dac256-c289-4e0d-875a-b8cce55ee750",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
