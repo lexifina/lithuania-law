@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2005 m. spalio 11 d. nutarimas Nr. 1072 „Dėl Lietuvos Respublikos Vyriausybės 2002 m. sausio 22 d. nutarimo Nr. 84 \"Dėl pavojingų krovinių vežimo geležinkeliais Lietuvos Respublikos teritorijoje\" pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "123",
+  "official_journal_page": null,
+  "official_journal_date": "2005-10-15",
+  "entry_into_force": "2005-10-16",
+  "notification_date": "2005-10-21",
+  "commission_reference": "MNE(2005)55145",
+  "nim_celex": "72004L0110LTU_125145",
+  "nim_id": "125145",
+  "transposes_celex": [
+    "32004L0110"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9b7106fc-c592-4f4f-adb1-d149287e73e0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
