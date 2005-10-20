@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2004-11-26 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/8d5c2d8d8c17f0d85171996c2b4e546375d3cbb3/istatymai/TAR.CBFDAF0B0432.md) |
+| 2005-10-20 |  | Įstatymas Nr. X-289 / Įstatymas Nr. X-378 / Teisės aktų registras (Seimo kanceliarija) | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22TAIS_264962%22) |
