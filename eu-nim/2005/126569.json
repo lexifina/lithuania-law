@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS DRAUDIMO PRIEŽIŪROS KOMISIJOS 2005 M. SPALIO 17 D. NUTARIMAS NR. N-132 \"DĖL LIETUVOS RESPUBLIKOS DRAUDIMO PRIEŽIŪROS KOMISIJOS 2004 M. VASARIO 3 D. NUTARIMO NR. N-7 „DĖL DRAUDIMO ĮMONIŲ FINANSINĖS ATSKAITOMYBĖS“ PAKEITIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "125",
+  "official_journal_page": null,
+  "official_journal_date": "2005-10-20",
+  "entry_into_force": "2005-10-21",
+  "notification_date": "2005-12-15",
+  "commission_reference": "MNE(2005)60523",
+  "nim_celex": "72003L0051LTU_126569",
+  "nim_id": "126569",
+  "transposes_celex": [
+    "32003L0051"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/28e2b39d-3a07-4009-8340-243247db2ced",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
