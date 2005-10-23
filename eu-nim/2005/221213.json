@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro 2005 m. spalio 12 d. įsakymas Nr.1V-329 \"Dėl Leidimų laikinai gyventi Lietuvos Respublikoje užsieniečiams išdavimo bei fiktyvios santuokos sudarymo įvertinimo taisyklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "126",
+  "official_journal_page": null,
+  "official_journal_date": "2005-10-22",
+  "entry_into_force": "2005-10-23",
+  "notification_date": "2015-01-20",
+  "commission_reference": "MNE(2014)56430",
+  "nim_celex": "72011L0098LTU_221213",
+  "nim_id": "221213",
+  "transposes_celex": [
+    "32011L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/33b3a371-e750-4f5c-84d0-133c0fe5cb7d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
