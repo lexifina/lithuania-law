@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2005 m. spalio 20 d. nutarimas Nr. 1114 „Dėl Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos prie Socialinės apsaugos ir darbo ministerijos nuostatų patvirtinimo“ (Suvestinė redakcija nuo  2024-11-01)",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "126-4501",
+  "official_journal_page": null,
+  "official_journal_date": "2005-10-22",
+  "entry_into_force": "2005-10-23",
+  "notification_date": "2026-09-02",
+  "commission_reference": "MNE(2026)06896",
+  "nim_celex": "72024L1346LTU_202606896",
+  "nim_id": "202606896",
+  "transposes_celex": [
+    "32024L1346"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3c6cd604-4cad-4bab-9196-49e3e6ab1ff1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
