@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2005 m. spalio 19 d. nutarimas Nr. 1104 „Dėl Smulkaus ir vidutinio verslo plėtros iki 2008 metų strateginių krypčių aprašo ir smulkaus ir vidutinio verslo plėtros 2005–2008 metų priemonių aprašo patvirtinimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "126",
+  "official_journal_page": null,
+  "official_journal_date": "2005-10-22",
+  "entry_into_force": "2005-10-23",
+  "notification_date": "2007-11-29",
+  "commission_reference": "MNE(2007)58413",
+  "nim_celex": "72005L0032LTU_151158",
+  "nim_id": "151158",
+  "transposes_celex": [
+    "32005L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2d6febb8-97b8-44dd-ad0a-dfc7083ecabc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
