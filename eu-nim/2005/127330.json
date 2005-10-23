@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro 2005 m. spalio 12 d. įsakymas Nr. 1V-329",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "126",
+  "official_journal_page": null,
+  "official_journal_date": "2005-10-22",
+  "entry_into_force": "2005-10-23",
+  "notification_date": "2006-01-26",
+  "commission_reference": "MNE(2006)50246",
+  "nim_celex": "72003L0109LTU_127330",
+  "nim_id": "127330",
+  "transposes_celex": [
+    "32003L0109",
+    "32004L0114"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ac321c32-1a2b-42c6-aac3-0e7057c9b562",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
