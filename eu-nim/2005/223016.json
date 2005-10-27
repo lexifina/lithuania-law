@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo įstatymo pakeitimo ir papildymo įstatymas Nr. X-370",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "127",
+  "official_journal_page": null,
+  "official_journal_date": "2005-10-27",
+  "entry_into_force": "2005-10-27",
+  "notification_date": "2015-03-03",
+  "commission_reference": "MNE(2015)50440",
+  "nim_celex": "72002F0465LTU_223016",
+  "nim_id": "223016",
+  "transposes_celex": [
+    "32002F0465"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c36469a4-0684-4f84-b9b6-9db8b4c83c4f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
