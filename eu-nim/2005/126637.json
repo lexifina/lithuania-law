@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "VIEŠOSIOS ĮSTAIGOS LIETUVOS RESPUBLIKOS APSKAITOS INSTITUTO DIREKTORIAUS 2005 M. SPALIO 20 D. ĮSAKYMAS NR. VAS - 7 \"DĖL 2-OJO VERSLO APSKAITOS STANDARTO „BALANSAS“ PAKEITIMO\"\n\n2005 m. spalio 20 d. Nr. VAS-7",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "127",
+  "official_journal_page": null,
+  "official_journal_date": "2005-10-27",
+  "entry_into_force": "2005-10-28",
+  "notification_date": "2005-12-19",
+  "commission_reference": "MNE(2005)60579",
+  "nim_celex": "71986L0635LTU_126637",
+  "nim_id": "126637",
+  "transposes_celex": [
+    "31986L0635"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/abadc53e-de30-4d70-bab7-468fc6729b41",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
