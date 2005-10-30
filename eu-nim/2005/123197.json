@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO\nIR LIETUVOS RESPUBLIKOS ŪKIO MINISTRO 2005 M. LIEPOS 25 D. ĮSAKYMAS NR. D1-379/4-273 \"DĖL LAKIŲJŲ ORGANINIŲ JUNGINIŲ KIEKIŲ, SUSIDARANČIŲ NAUDOJANT ORGANINIUS TIRPIKLIUS TAM TIKRŲ DAŽŲ, LAKŲ IR TRANSPORTO PRIEMONIŲ PAKARTOTINĖS APDAILOS PRODUKTŲ SUDĖTYJE, RIBOJIMO TAISYKLIŲ PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "93",
+  "official_journal_page": null,
+  "official_journal_date": "2005-08-02",
+  "entry_into_force": "2005-10-30",
+  "notification_date": "2005-10-12",
+  "commission_reference": "MNE(2005)53197",
+  "nim_celex": "72004L0042LTU_123197",
+  "nim_id": "123197",
+  "transposes_celex": [
+    "32004L0042"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/11d60ade-e4cf-4f50-b08b-ce8a8d760e5c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
