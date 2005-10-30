@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės masito ir veterinarijos tarnybos direktoriaus 2005 m. spalio 11 d. įsakymas Nr. B1-559 \"Dėl Reikalavimų prekybai gyvūnais, sperma, kiaušialąstėmis ir embrionais bei jų importui patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "128",
+  "official_journal_page": null,
+  "official_journal_date": "2005-10-29",
+  "entry_into_force": "2005-10-30",
+  "notification_date": "2006-01-13",
+  "commission_reference": "MNE(2006)50213",
+  "nim_celex": "71992L0065LTU_127287",
+  "nim_id": "127287",
+  "transposes_celex": [
+    "31992L0065"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/984788c5-1208-4781-a64c-e304c3041fea",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
