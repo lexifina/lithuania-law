@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO\nIR LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRO 2005 M. RUGSĖJO 19 D. ĮSAKYMAS NR. D1-453/V-714 \"DĖL LIETUVOS RESPUBLIKOS APLINKOS MINISTRO IR LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRO 2000 M. GRUODŽIO 19 D. ĮSAKYMO NR. 532/742 „DĖL PAVOJINGŲ CHEMINIŲ MEDŽIAGŲ IR PREPARATŲ KLASIFIKAVIMO IR ŽENKLINIMO TVARKOS“ PAKEITIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "115",
+  "official_journal_page": null,
+  "official_journal_date": "2005-09-27",
+  "entry_into_force": "2005-10-31",
+  "notification_date": "2007-05-08",
+  "commission_reference": "MNE(2007)53834",
+  "nim_celex": "71967L0548LTU_144765",
+  "nim_id": "144765",
+  "transposes_celex": [
+    "31967L0548"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7b3c8f82-8f66-4f5d-aa11-2cb9bf84685b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
