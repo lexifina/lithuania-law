@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS DRAUDIMO ĮSTATYMO 210 STRAIPSNIO PAKEITIMO IR PRIEDO PAPILDYMO ĮSTATYMAS NR. X-371",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "130",
+  "official_journal_page": null,
+  "official_journal_date": "2005-11-03",
+  "entry_into_force": "2005-11-03",
+  "notification_date": "2005-11-07",
+  "commission_reference": "MNE(2005)55610",
+  "nim_celex": "72005L0001LTU_125610",
+  "nim_id": "125610",
+  "transposes_celex": [
+    "32005L0001"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c71a7bba-bee8-495b-ab3d-5da9246a4288",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
