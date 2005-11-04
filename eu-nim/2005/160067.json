@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2005 m. spalio 28 d. nutarimas Nr. 1151 \"Dėl leidimų naudoti angliavandenilių išteklius išdavimo tvarkos aprašo patvirtinimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "130",
+  "official_journal_page": null,
+  "official_journal_date": "2005-11-03",
+  "entry_into_force": "2005-11-04",
+  "notification_date": "2009-01-19",
+  "commission_reference": "MNE(2009)50237",
+  "nim_celex": "71994L0022LTU_160067",
+  "nim_id": "160067",
+  "transposes_celex": [
+    "31994L0022"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c59a98c9-c5b7-4f2c-b40f-55d2f07bfc39",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
