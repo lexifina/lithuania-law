@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2005 m. spalio 29 d. nutarimas  Nr. 1182 „Dėl Lietuvos Respublikos Vyriausybės 2004 m. rugpjūčio 17 d. nutarimo Nr. 966 „Dėl Pramoninių avarijų prevencijos, likvidavimo ir tyrimo nuostatų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "131",
+  "official_journal_page": null,
+  "official_journal_date": "2005-11-05",
+  "entry_into_force": "2005-11-06",
+  "notification_date": "2007-08-28",
+  "commission_reference": "MNE(2007)56284",
+  "nim_celex": "71996L0082LTU_148236",
+  "nim_id": "148236",
+  "transposes_celex": [
+    "31996L0082"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cfbf12ac-852e-4a1c-b7e9-d43bd5d336f7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
