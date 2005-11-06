@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės maisto ir veterinarijos tarnybos direktoriaus 2005 m. spalio 29 d. įsakymas Nr. B1-594 \"Dėl veterinrainių vaistų gamybos, registravimo ir tiekimo Lietuvos Respublikos rinkai reikalavimų patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "131",
+  "official_journal_page": null,
+  "official_journal_date": "2005-11-05",
+  "entry_into_force": "2005-11-06",
+  "notification_date": "2005-11-09",
+  "commission_reference": "MNE(2005)55658",
+  "nim_celex": "72004L0028LTU_125658",
+  "nim_id": "125658",
+  "transposes_celex": [
+    "32004L0028"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/be6fb4e5-6afc-43fd-861b-492e3b94bb42",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
