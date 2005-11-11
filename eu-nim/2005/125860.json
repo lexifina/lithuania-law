@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2005 m. lapkričio 4 d. įsakymas Nr. 1V-942 \"Dėl Operatoriaus, įpareigoto suteikti atsietą prieigą prie vietinės metalinės vytos poros linijos, standartinio pasiūlymo paskelbimo sąlygų aprašo patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "133",
+  "official_journal_page": null,
+  "official_journal_date": "2005-11-10",
+  "entry_into_force": "2005-11-11",
+  "notification_date": "2005-11-18",
+  "commission_reference": "MNE(2005)60004",
+  "nim_celex": "72002L0019LTU_125860",
+  "nim_id": "125860",
+  "transposes_celex": [
+    "32002L0019"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7aa60218-139e-4454-9baf-8cc88db4ff2d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
