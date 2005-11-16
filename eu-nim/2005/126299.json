@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2005 m. lapkričio 7 d. įsakymas Nr. V-846 „Dėl mėginių ėmimo ir analizės metodų teršalų koncentracijoms maisto produktuose nustatyti patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "135",
+  "official_journal_page": null,
+  "official_journal_date": "2005-11-15",
+  "entry_into_force": "2005-11-16",
+  "notification_date": "2005-12-05",
+  "commission_reference": "MNE(2005)60372",
+  "nim_celex": "72005L0005LTU_126299",
+  "nim_id": "126299",
+  "transposes_celex": [
+    "32005L0005"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a32d1ea1-dc15-42bb-805e-bb898925088c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
