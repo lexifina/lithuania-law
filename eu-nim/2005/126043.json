@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO PAPILDYMO 41(8), 41(9) STRAIPSNIAIS IR KODEKSO 85, 88, 187, 233, 259(1), 262, 320 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS NR. X-382",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "137",
+  "official_journal_page": null,
+  "official_journal_date": "2005-11-19",
+  "entry_into_force": "2005-11-19",
+  "notification_date": "2005-11-24",
+  "commission_reference": "MNE(2005)60159",
+  "nim_celex": "72001L0086LTU_126043",
+  "nim_id": "126043",
+  "transposes_celex": [
+    "32001L0086"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d26486cd-f97b-486b-af72-e24b39b6e408",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
