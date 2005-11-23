@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2004 m. lapkričio 22 d. nutarimas Nr. 1468 „Dėl Lietuvos Respublikos geležinkelių riedmenų registro reorganizavimo ir jo nuostatų patvirtinimo“ (suvestinė redakcija nuo 2018-11-01 iki 2021-06-15)",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "170-6256",
+  "official_journal_page": null,
+  "official_journal_date": "2004-11-24",
+  "entry_into_force": "2005-11-23",
+  "notification_date": "2021-02-01",
+  "commission_reference": "MNE(2021)00313",
+  "nim_celex": "72016L0797LTU_202100313",
+  "nim_id": "202100313",
+  "transposes_celex": [
+    "32016L0797"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1fc806bd-da75-4ba1-b98c-4cd9b5fdf39c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
