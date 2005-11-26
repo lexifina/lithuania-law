@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių įstaigų įstatymo pakeitimo įstatymas Nr. X-383",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "139",
+  "official_journal_page": null,
+  "official_journal_date": "2005-11-26",
+  "entry_into_force": "2005-11-26",
+  "notification_date": "2014-04-30",
+  "commission_reference": "MNE(2014)52507",
+  "nim_celex": "72011L0051LTU_215327",
+  "nim_id": "215327",
+  "transposes_celex": [
+    "32011L0051"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cb30c4d3-11f7-476d-8cbd-2b955f4c27e7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
