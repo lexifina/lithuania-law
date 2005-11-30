@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2005 m. lapkričio 23 d. įsakymas Nr. 1V-1017 \"Dėl Derybų dėl prieigos metu, prieš jas ir vėliau gautos informacijos konfidencialumo užtikrinimo taisyklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "140",
+  "official_journal_page": null,
+  "official_journal_date": "2005-11-29",
+  "entry_into_force": "2005-11-30",
+  "notification_date": "2006-04-27",
+  "commission_reference": "MNE(2006)52524",
+  "nim_celex": "72002L0019LTU_130513",
+  "nim_id": "130513",
+  "transposes_celex": [
+    "32002L0019"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6d120084-abf9-4eef-a9a7-8b31d1ac0fd4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
