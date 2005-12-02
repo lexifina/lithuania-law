@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2005 m. lapkričio 9 d. įsakymas Nr. 3-498 „Dėl pažeidimų, užfiksuotų vežant pavojingus krovinius kelių transportu, rizikos kategorijų sąrašo patvirtinimo ir ataskaitų apie pažeidimus ir nuobaudas, kurios turi būti išsiųstos komisijai, rengimo ir teikimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "141",
+  "official_journal_page": null,
+  "official_journal_date": "2005-12-01",
+  "entry_into_force": "2005-12-02",
+  "notification_date": "2006-02-03",
+  "commission_reference": "MNE(2005)60731",
+  "nim_celex": "72004L0112LTU_126894",
+  "nim_id": "126894",
+  "transposes_celex": [
+    "32004L0112"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/619cff55-537f-466e-8bca-633013cd8043",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
