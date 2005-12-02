@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2005 m. lapkričio 28 d. nutarimas Nr. 1286 „Dėl Lietuvos Respublikos kelių transporto priemonių registro įsteigimo ir jo nuostatų patvirtinimo“ (suvestinė redakcija nuo 2015-07-01)",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "141",
+  "official_journal_page": null,
+  "official_journal_date": "2005-12-01",
+  "entry_into_force": "2005-12-02",
+  "notification_date": "2017-09-20",
+  "commission_reference": "MNE(2017)55223",
+  "nim_celex": "72014L0046LTU_250991",
+  "nim_id": "250991",
+  "transposes_celex": [
+    "32014L0046"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cf59d82a-a8db-4483-b7f9-a69643a01fa4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
