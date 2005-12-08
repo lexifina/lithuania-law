@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo proceso kodekso 210, 263, 269 ir 277 straipsnių pakeitimo įstatymas Nr. X-418",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "143",
+  "official_journal_page": null,
+  "official_journal_date": "2005-12-08",
+  "entry_into_force": "2005-12-08",
+  "notification_date": "2013-05-21",
+  "commission_reference": "MNE(2013)53751",
+  "nim_celex": "72010L0064LTU_204372",
+  "nim_id": "204372",
+  "transposes_celex": [
+    "32010L0064"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/90711ff8-8e40-43b1-b25f-8e4c217a18f8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
