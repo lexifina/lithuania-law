@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos draudimo priežiūros komisijos 2005 m. lapkričio 29 d. nutarimas Nr. N-139 \"Dėl Lietuvos Respublikos draudimo priežiūros komisijos 2004 m. balandžio 13 d. nutarimo Nr. N-40 \"Dėl mokumo atsargos skaičiavimo metodikos patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "143",
+  "official_journal_page": null,
+  "official_journal_date": "2005-12-08",
+  "entry_into_force": "2005-12-09",
+  "notification_date": "2005-12-16",
+  "commission_reference": "MNE(2005)60552",
+  "nim_celex": "72002L0013LTU_126610",
+  "nim_id": "126610",
+  "transposes_celex": [
+    "32002L0013"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/035802fb-9f52-4419-b4a3-83ff9929f03a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
