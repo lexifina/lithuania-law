@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2005 m. lapkričio 10 d. nutarimas Nr. 155 „Dėl Lietuvos banko valdybos 2004 m. gegužės 20 d. nutarimo Nr. 86 „Dėl Lietuvos banko ir mokėjimo sistemos LITAS dalyvių dienos ir vienos nakties atpirkimo sandorių sudarymo ir vykdymo taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "144",
+  "official_journal_page": null,
+  "official_journal_date": "2005-12-10",
+  "entry_into_force": "2005-12-12",
+  "notification_date": "2005-12-14",
+  "commission_reference": "MNE(2005)60480",
+  "nim_celex": "71998L0026LTU_126520",
+  "nim_id": "126520",
+  "transposes_celex": [
+    "31998L0026"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b19c860e-e692-4491-9150-50e4d4b15734",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
