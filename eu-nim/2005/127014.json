@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 2005 M. GRUODŽIO 14 D. NUTARIMAS NR. 1350 \"DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 2002 M. VASARIO 26 D. NUTARIMO NR. 280 ,,DĖL LIETUVOS RESPUBLIKOS STATYBOS ĮSTATYMO ĮGYVENDINIMO“ PAPILDYMO\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "147",
+  "official_journal_page": null,
+  "official_journal_date": "2005-12-17",
+  "entry_into_force": "2005-12-18",
+  "notification_date": "2006-01-03",
+  "commission_reference": "MNE(2006)50034",
+  "nim_celex": "72002L0091LTU_127014",
+  "nim_id": "127014",
+  "transposes_celex": [
+    "32002L0091"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bd280ba8-3290-42de-be32-cb753e490ae6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
