@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2005 m. gruodžio 13 d. įsakymas Nr. 1V-1104 \"Dėl Telefono ryšio numerių skyrimo ir naudojimo taisyklių ir nacionalinio telefono ryšio numeracijos plano patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "147",
+  "official_journal_page": null,
+  "official_journal_date": "2005-12-17",
+  "entry_into_force": "2005-12-18",
+  "notification_date": "2006-04-19",
+  "commission_reference": "MNE(2006)52526",
+  "nim_celex": "72002L0020LTU_130515",
+  "nim_id": "130515",
+  "transposes_celex": [
+    "32002L0020"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2f992cb0-5ac6-4ff5-850c-fb99c9a8cc9a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
