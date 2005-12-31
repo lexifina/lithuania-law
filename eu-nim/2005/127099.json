@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Sveikatos apsaugos ministro 2005 m. gruodžio 23 d. įsakymas Nr. V-1020 \"Dėl didelio aktyvumo uždarųjų jonizuojančiosios spinduliuotės šaltinių ir paliktųjų jonizuojančiosios spinduliuotės šaltinių kontrolės taisyklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "152",
+  "official_journal_page": null,
+  "official_journal_date": "2005-12-30",
+  "entry_into_force": "2005-12-31",
+  "notification_date": "2006-01-11",
+  "commission_reference": "MNE(2006)50091",
+  "nim_celex": "72003L0122LTU_127099",
+  "nim_id": "127099",
+  "transposes_celex": [
+    "32003L0122"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d3753d85-aedb-4456-a538-0937d39ab9fa",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
