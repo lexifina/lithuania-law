@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2005 m. rugsėjo 1 d. Įsakymas Nr. V-675 \"Dėl Lietuvos higienos normos HN 15 :2005 „Maisto higiena“ patvirtinimo“ (Suvestinė redakcija nuo 2019-05-01)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "110-4023",
+  "official_journal_page": null,
+  "official_journal_date": "2005-09-10",
+  "entry_into_force": "2006-01-01",
+  "notification_date": "2020-03-05",
+  "commission_reference": "MNE(2020)51270",
+  "nim_celex": "72017L0159LTU_281369",
+  "nim_id": "281369",
+  "transposes_celex": [
+    "32017L0159"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1e413fcf-5f7b-11ea-b735-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
