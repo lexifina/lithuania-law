@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2005 m. rugsėjo 29 d. nutarimas Nr. 139 „Dėl mokėjimo priemonių statistinės atskaitomybės“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "119",
+  "official_journal_page": null,
+  "official_journal_date": "2005-10-08",
+  "entry_into_force": "2006-01-01",
+  "notification_date": "2005-12-05",
+  "commission_reference": "MNE(2005)60377",
+  "nim_celex": "72000L0046LTU_126339",
+  "nim_id": "126339",
+  "transposes_celex": [
+    "32000L0046"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b015ff05-6287-413a-beb0-50553070da31",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
