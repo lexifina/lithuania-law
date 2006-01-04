@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos statybos įstatymo 2 straipsnio bei priedo papildymo ir Įstatymo papildymo 43(1) straipsniu  įstatymas Nr. X-404",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "143",
+  "official_journal_page": null,
+  "official_journal_date": "2005-12-08",
+  "entry_into_force": "2006-01-04",
+  "notification_date": "2005-12-14",
+  "commission_reference": "MNE(2005)60473",
+  "nim_celex": "72002L0091LTU_126493",
+  "nim_id": "126493",
+  "transposes_celex": [
+    "32002L0091",
+    "32010L0031"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/dff3fce1-a489-4989-89e4-4a559499eabf",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
