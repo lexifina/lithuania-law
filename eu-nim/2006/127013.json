@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2005 M. GRUODŽIO 15 D. ĮSAKYMAS NR. D1-614 \"DĖL APLINKOS MINISTRO 2004 M. BIRŽELIO 21 D. ĮSAKYMO NR. D1-347 „DĖL STATYBOS TECHNINIO REGLAMENTO STR 1.12.07:2004 „STATINIŲ TECHNINĖS PRIEŽIŪROS TAISYKLĖS, KVALIFIKACINIAI REIKALAVIMAI STATINIŲ TECHNINIAMS PRIŽIŪRĖTOJAMS, STATINIŲ TECHNINĖS PRIEŽIŪROS DOKUMENTŲ FORMOS BEI JŲ PILDYMO IR SAUGOJIMO TVARKOS APRAŠAS“ PATVIRTINIMO“ PAKEITIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "150",
+  "official_journal_page": null,
+  "official_journal_date": "2005-12-24",
+  "entry_into_force": "2006-01-04",
+  "notification_date": "2006-01-03",
+  "commission_reference": "MNE(2006)50033",
+  "nim_celex": "72002L0091LTU_127013",
+  "nim_id": "127013",
+  "transposes_celex": [
+    "32002L0091"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/27cc8d48-0151-4e54-b123-5660f749e8ab",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
