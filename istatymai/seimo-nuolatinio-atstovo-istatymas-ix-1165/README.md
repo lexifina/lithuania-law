@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2002-11-22 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/afcbc688997e3edbb91b38068184c512c456eda5/istatymai/TAR.7E6337309004.md) |
+| 2006-01-05 | 2020-02-07 | Įstatymas Nr. X-454 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/4344b614b845216eb99421c6d3a5752a576be532/istatymai/TAR.7E6337309004.md) |
