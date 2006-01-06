@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės masito ir veterinarijos tarnybos direktoriaus 2005 m. gruodžio 23 d. įsakymas Nr. B1-720 \"Dėl Prekybos arklinių šeimos gyvūnais ir jų importo iš trečiųjų šalių veterinarijos reikalavimų patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "2",
+  "official_journal_page": null,
+  "official_journal_date": "2006-01-05",
+  "entry_into_force": "2006-01-06",
+  "notification_date": "2006-01-13",
+  "commission_reference": "MNE(2006)50209",
+  "nim_celex": "71990L0426LTU_127283",
+  "nim_id": "127283",
+  "transposes_celex": [
+    "31990L0426"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/174d4ae6-01c1-4dba-84e6-be846b9a92e2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
