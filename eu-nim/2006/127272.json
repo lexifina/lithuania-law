@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2005 M. GRUODŽIO 29 D. ĮSAKYMAS NR. D1-652 'DĖL APLINKOS MINISTRO 2003 M. BIRŽELIO 30 D. ĮSAKYMO NR. 325 „DĖL STATYBOS TECHNINIO REGLAMENTO STR 2.01.08:2003 „LAUKO SĄLYGOMIS NAUDOJAMOS ĮRANGOS Į APLINKĄ SKLEIDŽIAMO TRIUKŠMO VALDYMAS“ PATVIRTINIMO“ PAKEITIMO'",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "2",
+  "official_journal_page": null,
+  "official_journal_date": "2006-01-05",
+  "entry_into_force": "2006-01-06",
+  "notification_date": "2006-01-12",
+  "commission_reference": "MNE(2006)50199",
+  "nim_celex": "72000L0014LTU_127272",
+  "nim_id": "127272",
+  "transposes_celex": [
+    "32000L0014",
+    "32005L0088"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b32f1cfe-fb78-4e9b-8c0b-c604df1d7590",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
