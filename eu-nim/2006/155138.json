@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "VALSTYBINIO TURIZMO DEPARTAMENTO PRIE ŪKIO MINISTERIJOS DIREKTORIAUS 2005 M. GRUODŽIO 23 D. ĮSAKYMAS NR. V-95 \"DĖL AUKŠTOJO MOKSLO DIPLOMŲ, DIPLOMŲ, PAŽYMĖJIMŲ IR KITŲ KVALIFIKACIJĄ PATVIRTINANČIŲ DOKUMENTŲ, IŠDUOTŲ EUROPOS SĄJUNGOS, EUROPOS EKONOMINĖS ERDVĖS VALSTYBĖSE AR ŠVEICARIJOS KONFEDERACIJOJE, PRIPAŽINIMO NORINT VERSTIS GIDO PROFESINE VEIKLA LIETUVOS RESPUBLIKOJE NUOSTATŲ PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "2",
+  "official_journal_page": null,
+  "official_journal_date": "2006-01-05",
+  "entry_into_force": "2006-01-06",
+  "notification_date": "2008-04-15",
+  "commission_reference": "MNE(2008)52324",
+  "nim_celex": "72005L0036LTU_155138",
+  "nim_id": "155138",
+  "transposes_celex": [
+    "32005L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/514bf773-0750-44d3-81b8-ca81a407f19c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
