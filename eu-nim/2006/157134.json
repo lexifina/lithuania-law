@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Viešosios įstaigos Lietuvos Respublikos apskaitos instituto direktoriaus 2005 m. gruodžio 22 d. įsakymas Nr. VAS-10 „Dėl 30-ojo verslo apskaitos standarto „Susiję asmenys“ tvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "2",
+  "official_journal_page": null,
+  "official_journal_date": "2006-01-05",
+  "entry_into_force": "2006-01-06",
+  "notification_date": "2008-07-23",
+  "commission_reference": "MNE(2008)54203",
+  "nim_celex": "72006L0046LTU_157134",
+  "nim_id": "157134",
+  "transposes_celex": [
+    "32006L0046"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/405777b5-10e6-4678-be07-68f5a49031b4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
