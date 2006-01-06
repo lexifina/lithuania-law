@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2005 M. GRUODŽIO 28 D. ĮSAKYMAS NR. D1-641 \"DĖL STATYBOS TECHNINIO REGLAMENTO STR 1.02.09:2005 „TEISĖS ATLIKTI PASTATŲ ENERGINIO NAUDINGUMO SERTIFIKAVIMĄ ĮGIJIMO TVARKOS APRAŠAS“ PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "2",
+  "official_journal_page": null,
+  "official_journal_date": "2006-01-05",
+  "entry_into_force": "2006-01-06",
+  "notification_date": "2006-01-11",
+  "commission_reference": "MNE(2006)50155",
+  "nim_celex": "72002L0091LTU_127219",
+  "nim_id": "127219",
+  "transposes_celex": [
+    "32002L0091",
+    "32006L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7ca6a369-e373-4a4c-b0d7-7a4779c126bf",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
