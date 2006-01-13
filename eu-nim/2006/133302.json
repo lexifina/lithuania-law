@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 2006 M. SAUSIO 9 D. NUTARIMAS NR. 8 \"DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 2002 M. BALANDŽIO 12 D. NUTARIMO NR. 519 „DĖL VALSTYBINIO STRATEGINIO ATLIEKŲ TVARKYMO PLANO PATVIRTINIMO“ PAKEITIMO\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "4",
+  "official_journal_page": null,
+  "official_journal_date": "2006-01-12",
+  "entry_into_force": "2006-01-13",
+  "notification_date": "2006-07-17",
+  "commission_reference": "MNE(2006)54494",
+  "nim_celex": "71975L0442LTU_133302",
+  "nim_id": "133302",
+  "transposes_celex": [
+    "31975L0442"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d45ae44d-9f11-431d-8f1a-f801428e03b5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
