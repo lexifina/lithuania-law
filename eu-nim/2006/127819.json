@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro įsakymas Nr. 1V-445 \"Dėl Leidimų nuolat gyventi Lietuvos Respublikoje užsieniečiams išdavimo bei fiktyvios santuokos sudarymo įvertinimo taisyklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "5",
+  "official_journal_page": null,
+  "official_journal_date": "2006-01-14",
+  "entry_into_force": "2006-01-15",
+  "notification_date": "2006-01-30",
+  "commission_reference": "MNE(2006)50587",
+  "nim_celex": "72003L0109LTU_127819",
+  "nim_id": "127819",
+  "transposes_celex": [
+    "32003L0109"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1342e8b7-7c25-4cfa-bda5-93fc844a64ab",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
