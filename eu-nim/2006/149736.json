@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 2006 M. SAUSIO 19 D. NUTARIMAS NR. 61 \"DĖL BANKO GARANTIJOS, LAIDAVIMO SUTARTIES BEI KITŲ SUTARČIŲ, ĮRODANČIŲ, KAD ELEKTROS IR ELEKTRONINĖS ĮRANGOS ATLIEKŲ TVARKYMAS BUS FINANSUOJAMAS, SUDARYMO IR VYKDYMO, LĖŠŲ, GAUTŲ PAGAL ŠIAS SUTARTIS, KAUPIMO, NAUDOJIMO IR GRĄŽINIMO TAISYKLIŲ PATVIRTINIMO\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "9",
+  "official_journal_page": null,
+  "official_journal_date": "2006-01-24",
+  "entry_into_force": "2006-01-25",
+  "notification_date": "2007-10-23",
+  "commission_reference": "MNE(2007)57427",
+  "nim_celex": "72002L0096LTU_149736",
+  "nim_id": "149736",
+  "transposes_celex": [
+    "32002L0096"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cf66402b-2908-47ac-a70a-4f95ae1ab7fe",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
