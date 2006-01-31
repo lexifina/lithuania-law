@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos viešųjų pirkimų įstatymo pakeitimo įstatymas Nr. X-471",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "4",
+  "official_journal_page": null,
+  "official_journal_date": "2006-01-31",
+  "entry_into_force": "2006-01-31",
+  "notification_date": "2017-01-26",
+  "commission_reference": "MNE(2017)50642",
+  "nim_celex": "72012L0027LTU_244688",
+  "nim_id": "244688",
+  "transposes_celex": [
+    "32012L0027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/dc543933-1fb2-4486-9d99-adea5bc8df57",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
