@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės kelių transporto inspekcijos 2005 m. lapkričio 30 d. įsakymas Nr. 2B-339 „Dėl transporto priemonių ir jų padangų tipo patvirtinimo taisyklių“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "13",
+  "official_journal_page": null,
+  "official_journal_date": "2006-01-31",
+  "entry_into_force": "2006-02-01",
+  "notification_date": "2006-02-06",
+  "commission_reference": "MNE(2006)50826",
+  "nim_celex": "71992L0023LTU_128131",
+  "nim_id": "128131",
+  "transposes_celex": [
+    "31992L0023"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/afb04b7d-5ae2-47a6-a21c-df0bccd5bef3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
