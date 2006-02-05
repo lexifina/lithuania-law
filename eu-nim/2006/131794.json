@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro 2006 m. vasario 1 d. įsakymas Nr. 4-42 \"Dėl Lietuvos Respublikos ūkio ministro 2003 m. vasario 21 d. įsakymo Nr. 4-72 „Dėl Perkančiųjų organizacijų sąrašų patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "14",
+  "official_journal_page": null,
+  "official_journal_date": "2006-02-04",
+  "entry_into_force": "2006-02-05",
+  "notification_date": "2006-05-24",
+  "commission_reference": "MNE(2006)53446",
+  "nim_celex": "72004L0017LTU_131794",
+  "nim_id": "131794",
+  "transposes_celex": [
+    "32004L0017"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4667e2dc-ce34-47a2-a0ae-2b213a4259f4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
