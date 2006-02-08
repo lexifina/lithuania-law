@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2006 m. sausio 4 d. įsakymas Nr. V-11 \"Dėl cheminių medžiagų ir preparatų, galinčių sukelti pavojų sveikatai, toksiškumo tyrimo metodų aprašų patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "15",
+  "official_journal_page": null,
+  "official_journal_date": "2006-02-07",
+  "entry_into_force": "2006-02-08",
+  "notification_date": "2006-05-29",
+  "commission_reference": "MNE(2006)51008",
+  "nim_celex": "72004L0073LTU_128400",
+  "nim_id": "128400",
+  "transposes_celex": [
+    "32004L0073"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8f56a862-6abb-4c6e-a683-7065ff0b0af1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
