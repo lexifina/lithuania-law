@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2006 m. sausio 30 d. įsakymas Nr. D1-57 „Dėl Gamintojų ir importuotojų organizacijos veiklos organizavimo plano, finansavimo schemos ir švietimo programos rengimo, derinimo ir ataskaitų bei informacijos apie jų vykdymą teikimo tvarkos aprašo patvirtinimo“ (suvestinė redakcija nuo 2019-07-03)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "15-534",
+  "official_journal_page": null,
+  "official_journal_date": "2006-02-07",
+  "entry_into_force": "2006-02-08",
+  "notification_date": "2020-11-30",
+  "commission_reference": "MNE(2020)58204",
+  "nim_celex": "72018L0851LTU_290131",
+  "nim_id": "290131",
+  "transposes_celex": [
+    "32018L0851"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/dfa5f7c4-a1b2-4997-abbb-3dac0824b7d1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
