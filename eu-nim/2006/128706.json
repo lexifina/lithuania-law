@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2006 m. vasario 1 d. įsakymas Nr. 3-42 „Dėl Lietuvos Respublikos susisiekimo ministro 2005 m. gegužės 10 d. įsakymo Nr. 3-197 „Dėl specialiųjų stovumo reikalavimų ro-ro keleiviniams laivams taikymo taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "15",
+  "official_journal_page": null,
+  "official_journal_date": "2006-02-07",
+  "entry_into_force": "2006-02-08",
+  "notification_date": "2006-02-21",
+  "commission_reference": "MNE(2006)51212",
+  "nim_celex": "72003L0025LTU_128706",
+  "nim_id": "128706",
+  "transposes_celex": [
+    "32003L0025"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ca6f3ec5-a879-4e99-bbcb-a396c2227062",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
