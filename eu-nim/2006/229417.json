@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro 2006 m. sausio 26 d. įsakymas Nr.1V-36 \"Dėl Nusikalstamų veikų žinybinio registro\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "15",
+  "official_journal_page": null,
+  "official_journal_date": "2006-02-07",
+  "entry_into_force": "2006-02-08",
+  "notification_date": "2015-09-02",
+  "commission_reference": "MNE(2015)56191",
+  "nim_celex": "72013L0040LTU_229417",
+  "nim_id": "229417",
+  "transposes_celex": [
+    "32013L0040"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6be5fb68-a10f-42fc-b94e-7b5a2f538ad2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
