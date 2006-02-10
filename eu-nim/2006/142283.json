@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "STATISTIKOS DEPARTAMENTO PRIE LIETUVOS RESPUBLIKOS VYRIAUSYBĖS GENERALINIO DIREKTORIAUS 2006 M. VASARIO 3 D. ĮSAKYMAS NR. DĮ-35 \"DĖL ĮMONIŲ, TEIKIANČIŲ LAIKINO APGYVENDINIMO BEI SANATORINIO GYDYMO IR REABILITACIJOS PASLAUGAS, STATISTINIŲ ATASKAITŲ PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "16",
+  "official_journal_page": null,
+  "official_journal_date": "2006-02-09",
+  "entry_into_force": "2006-02-10",
+  "notification_date": "2007-03-01",
+  "commission_reference": "MNE(2007)51951",
+  "nim_celex": "72006L0110LTU_142283",
+  "nim_id": "142283",
+  "transposes_celex": [
+    "32006L0110"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/be7b41a1-236c-484e-b634-810f57b8555d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
