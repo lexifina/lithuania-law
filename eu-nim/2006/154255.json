@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2006 m. vasario 3 d. nutarimas Nr. 119 \"Dėl prižiūrimų įmonių, priklausančių finansų konglomeratui, papildomų kapitalo pakankamumo reikalavimų apskaičiavimo taisyklių patvirtinimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "16",
+  "official_journal_page": null,
+  "official_journal_date": "2006-02-09",
+  "entry_into_force": "2006-02-10",
+  "notification_date": "2008-02-28",
+  "commission_reference": "MNE(2008)51535",
+  "nim_celex": "72005L0068LTU_154255",
+  "nim_id": "154255",
+  "transposes_celex": [
+    "32005L0068"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d80db64b-9f14-4930-b822-31c6c9f7274a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
