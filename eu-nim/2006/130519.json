@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2006 m. vasario 6 d. įsakymas Nr. 1V-155 \"Dėl Radijo dažnių (kanalų) radijo ir televizijos programoms transliuoti ir (ar) retransliuoti skyrimo ir naudojimo taisyklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "18",
+  "official_journal_page": null,
+  "official_journal_date": "2006-02-13",
+  "entry_into_force": "2006-02-14",
+  "notification_date": "2006-04-19",
+  "commission_reference": "MNE(2006)52530",
+  "nim_celex": "72002L0020LTU_130519",
+  "nim_id": "130519",
+  "transposes_celex": [
+    "32002L0020",
+    "32002L0021"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6758f17b-90f0-4e9a-9697-a605e47b232e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
