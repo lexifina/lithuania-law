@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2006 M. VASARIO 14 D. ĮSAKYMAS NR. D1-76 \"DĖL APLINKOS MINISTRO 2002 M. RUGSĖJO 9 D. ĮSAKYMO NR. 471 „DĖL APLINKAI PADARYTOS ŽALOS ATLYGINIMO DYDŽIŲ APSKAIČIAVIMO METODIKOS PATVIRTINIMO“ PAKEITIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "24",
+  "official_journal_page": null,
+  "official_journal_date": "2006-02-25",
+  "entry_into_force": "2006-02-26",
+  "notification_date": "2006-03-21",
+  "commission_reference": "MNE(2006)51922",
+  "nim_celex": "72003L0087LTU_129696",
+  "nim_id": "129696",
+  "transposes_celex": [
+    "32003L0087"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5a6154e1-1789-4615-b745-66b137bef1c6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
