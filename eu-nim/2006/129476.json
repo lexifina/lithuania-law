@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės kelių transporto inspekcijos prie Susisiekimo ministerijos viršininko 2006 m. vasario 28 d. įsakymas Nr. 2B-72 „Dėl motorinių transporto priemonių sėdynių, jų įtvirtinimo įtaisų ir galvos atramų tipo patvirtinimo taisyklių“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "27",
+  "official_journal_page": null,
+  "official_journal_date": "2006-03-04",
+  "entry_into_force": "2006-03-05",
+  "notification_date": "2006-03-14",
+  "commission_reference": "MNE(2006)51766",
+  "nim_celex": "72005L0039LTU_129476",
+  "nim_id": "129476",
+  "transposes_celex": [
+    "32005L0039"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cfbf41cf-50fe-422a-91b2-8b0fe66ab6d5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
