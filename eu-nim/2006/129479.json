@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės kelių transporto inspekcijos prie Susisiekimo ministerijos viršininko 2006 m. vasario 28 d. įsakymas Nr. 2B-71 „Dėl motorinių transporto priemonių saugos diržų tvirtinimo įtaisų tipo patvirtinimo taisyklių“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "27",
+  "official_journal_page": null,
+  "official_journal_date": "2006-03-04",
+  "entry_into_force": "2006-03-05",
+  "notification_date": "2006-03-14",
+  "commission_reference": "MNE(2006)51769",
+  "nim_celex": "72005L0041LTU_129479",
+  "nim_id": "129479",
+  "transposes_celex": [
+    "32005L0041"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/934c5bc0-2a4c-4726-a986-9beab8a7c201",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
