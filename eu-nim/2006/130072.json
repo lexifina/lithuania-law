@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro 2006 m. kovo 20 d. įsakymas Nr. 1V-112 \"Dėl Lietuvos Respublikos vidaus reikalų ministro 2004 m. gruodžio 24 d. įsakymo Nr. 1V-429 \"Dėl sprendimų dėl užsieniečio įpareigojimo išvykti, išsiuntimo, grąžinimo ir vykimo tranzitu per Lietuvos Respublikos teritoriją priėmimo ir jų vykdymo taisyklių patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "32",
+  "official_journal_page": null,
+  "official_journal_date": "2006-03-23",
+  "entry_into_force": "2006-03-24",
+  "notification_date": "2006-04-03",
+  "commission_reference": "MNE(2006)52193",
+  "nim_celex": "72003L0110LTU_130072",
+  "nim_id": "130072",
+  "transposes_celex": [
+    "32003L0110"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e74c5177-1889-4b43-9a50-2ca1ae6b0ab0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
