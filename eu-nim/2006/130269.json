@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 2006 M. KOVO 27 D. NUTARIMAS NR. 299 \"DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 2004 M. BALANDŽIO 7 D. NUTARIMO NR. 388 „DĖL ATASKAITŲ, SUSIJUSIŲ SU EUROPOS SĄJUNGOS APLINKOS SEKTORIAUS TEISĖS AKTŲ ĮGYVENDINIMU, TEIKIMO EUROPOS KOMISIJAI TVARKOS PATVIRTINIMO IR INFORMACIJOS, KURIOS REIKIA ATASKAITOMS EUROPOS APLINKOS AGENTŪRAI PARENGTI, TEIKIMO“ PAKEITIMO\" (NAUJA REDAKCIJA)",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "35",
+  "official_journal_page": null,
+  "official_journal_date": "2006-03-30",
+  "entry_into_force": "2006-03-31",
+  "notification_date": "2006-04-06",
+  "commission_reference": "MNE(2006)52334",
+  "nim_celex": "71991L0692LTU_130269",
+  "nim_id": "130269",
+  "transposes_celex": [
+    "31991L0692"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/262572b6-9cd0-4999-b535-91babbeb5725",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
