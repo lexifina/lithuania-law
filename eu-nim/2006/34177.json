@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Civilinės aviacijos administracijos direktoriaus 2004 m. gruodžio 29 d. įsakymas Nr. 4R-236 „Dėl trečiųjų šalių civilinių orlaivių patikros Lietuvos Respublikos oro uostuose taisyklių patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "3",
+  "official_journal_page": null,
+  "official_journal_date": "2005-01-08",
+  "entry_into_force": "2006-04-01",
+  "notification_date": "2005-01-11",
+  "commission_reference": "MNE(2005)54177",
+  "nim_celex": "72004L0036LTU_34177",
+  "nim_id": "34177",
+  "transposes_celex": [
+    "32004L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/818cdb2f-69aa-4583-9107-6afa560c9c92",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
