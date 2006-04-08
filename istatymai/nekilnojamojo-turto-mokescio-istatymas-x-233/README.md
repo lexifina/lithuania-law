@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2006-01-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/6a32c1656c40a81696e2673e8c794fb458917479/istatymai/TAR.B4FAA1DD73CF.md) |
+| 2006-04-08 | 2006-06-09 | Įstatymas Nr. X-532 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/ce6e65e4df3915a49722fd1d074e099510bf4f6f/istatymai/TAR.B4FAA1DD73CF.md) |
