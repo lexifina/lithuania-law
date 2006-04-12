@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės metrologijos tarnybos prie Lietuvos Respublikos aplinkos ministerijos direktoriaus 2006m. kovo 30 d.  įsakymas Nr.V-31 \"Dėl matavimo priemonių techninio reglamento patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "40",
+  "official_journal_page": null,
+  "official_journal_date": "2006-04-11",
+  "entry_into_force": "2006-04-12",
+  "notification_date": "2006-04-20",
+  "commission_reference": "MNE(2006)52637",
+  "nim_celex": "72004L0022LTU_130692",
+  "nim_id": "130692",
+  "transposes_celex": [
+    "32004L0022"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/440d8a75-cb6b-4ae6-8a07-f1aca25ffdc4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
