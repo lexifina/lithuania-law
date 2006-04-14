@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO\nIR LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRO 2006 M. BALANDŽIO 3 D. ĮSAKYMAS NR. D1-153/V-246 \"DĖL APLINKOS ORO UŽTERŠTUMO ARSENU, KADMIU, NIKELIU IR BENZO(A)PIRENU SIEKTINŲ VERČIŲ PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "41",
+  "official_journal_page": null,
+  "official_journal_date": "2006-04-13",
+  "entry_into_force": "2006-04-14",
+  "notification_date": "2006-04-24",
+  "commission_reference": "MNE(2006)52664",
+  "nim_celex": "72004L0107LTU_130729",
+  "nim_id": "130729",
+  "transposes_celex": [
+    "32004L0107"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b8c3a6fc-40c7-4a62-98a5-36d7c3ab366c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
