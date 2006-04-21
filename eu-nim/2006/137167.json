@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2006 m. balandžio 12 d. įsakymas Nr. 1V-523 \"Dėl Ryšių reguliavimo tarnybos prie Lietuvos Respublikos Vyriausybės direktoriaus 2003 m. gruodžio 16 d. įsakymo Nr. 1V-167 „Dėl radijo dažnių naudojimo plano patvirtinimo“ ir Lietuvos respublikos ryšių reguliavimo tarnybos direktoriaus 2005 m. spalio 6 d. įsakymo Nr. 1V-854 „Dėl radijo dažnių (kanalų) skyrimo ir naudojimo taisyklių patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "43",
+  "official_journal_page": null,
+  "official_journal_date": "2006-04-20",
+  "entry_into_force": "2006-04-21",
+  "notification_date": "2006-10-30",
+  "commission_reference": "MNE(2006)57288",
+  "nim_celex": "72005L0082LTU_137167",
+  "nim_id": "137167",
+  "transposes_celex": [
+    "32005L0082"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/14d5a598-313b-4dbe-8c00-afe6dffeee24",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
