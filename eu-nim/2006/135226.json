@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Socialinės apsaugos ir darbo ministro 2006 m. balandžio 24 d. įsakymas Nr. A1-118 \"Dėl leidimo dirbti užsieniečiams išdavimo sąlygų ir tvarkos aprašo patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "46",
+  "official_journal_page": null,
+  "official_journal_date": "2006-04-27",
+  "entry_into_force": "2006-04-28",
+  "notification_date": "2006-09-12",
+  "commission_reference": "MNE(2006)55913",
+  "nim_celex": "72003L0109LTU_135226",
+  "nim_id": "135226",
+  "transposes_celex": [
+    "32003L0109"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/198d770f-843d-403c-8b3e-d00495d7100f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
