@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo pakeitimo įstatymas Nr. X-542",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "42",
+  "official_journal_page": null,
+  "official_journal_date": "2006-04-15",
+  "entry_into_force": "2006-05-01",
+  "notification_date": "2006-04-25",
+  "commission_reference": "MNE(2006)52736",
+  "nim_celex": "72004L0049LTU_130815",
+  "nim_id": "130815",
+  "transposes_celex": [
+    "32004L0049",
+    "32004L0050",
+    "32004L0051"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b8d8f21f-95c1-4058-9955-84779355498a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
