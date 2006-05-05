@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2006 m. balandžio 20 d. įsakymas Nr. 3-150 „Dėl Mokesčio už Lietuvos Respublikoje įregistruotas krovinines transporto priemones mokėjimo, administravimo ir kontrolės įgyvendinimo tvarkos, Transporto priemonių savininkų ar valdytojų naudotojo mokesčio mokėjimo, administravimo ir kontrolės įgyvendinimo tvarkos, Mokesčio už važiavimą valstybinės reikšmės keliais didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis mokėjimo, administravimo, kontrolės ir leidimų važiuoti jomis valstybinės reikšmės keliais išdavimo tvarkos aprašų patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "49",
+  "official_journal_page": null,
+  "official_journal_date": "2006-05-04",
+  "entry_into_force": "2006-05-05",
+  "notification_date": "2008-09-04",
+  "commission_reference": "MNE(2008)54985",
+  "nim_celex": "72006L0038LTU_157935",
+  "nim_id": "157935",
+  "transposes_celex": [
+    "32006L0038"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/aa0051fb-f61e-4a7d-b58f-1da211625bc2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
