@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymo 2, 3, 5, 7, 8 ir 10 straipsnių pakeitimo įstatymas Nr. X-563",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "50",
+  "official_journal_page": null,
+  "official_journal_date": "2006-05-06",
+  "entry_into_force": "2006-05-06",
+  "notification_date": "2006-05-11",
+  "commission_reference": "MNE(2006)53096",
+  "nim_celex": "71998L0026LTU_131289",
+  "nim_id": "131289",
+  "transposes_celex": [
+    "31998L0026"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/edd14a08-5b83-4479-b7ed-94e547f2a725",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
