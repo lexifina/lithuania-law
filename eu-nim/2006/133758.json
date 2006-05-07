@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos vado 2006 m. balandžio 27 d. įsakymas Nr. 4-324 \" Dėl informacijos punkto nustatymo ir pagalbos tranzito, susijusio su išsiuntimu oro transportu, atvejais tvarkos aprašo patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "50",
+  "official_journal_page": null,
+  "official_journal_date": "2006-05-06",
+  "entry_into_force": "2006-05-07",
+  "notification_date": "2006-07-27",
+  "commission_reference": "MNE(2006)54817",
+  "nim_celex": "72003L0110LTU_133758",
+  "nim_id": "133758",
+  "transposes_celex": [
+    "32003L0110"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f2fcbc30-eda3-4bf4-9d75-91ac7ea03fa8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
