@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS SOCIALINĖS APSAUGOS IR DARBO MINISTRO IR LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2006 M. BALANDŽIO 12 D. ĮSAKYMAS NR. A1-104/D1-186 \"DĖL SAUGAUS DARBO ORGANIZAVIMO IR DARBO VIETŲ ĮRENGIMO REIKALAVIMŲ NAUDINGŲJŲ IŠKASENŲ GAVYBOS ĮMONĖSE PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "50",
+  "official_journal_page": null,
+  "official_journal_date": "2006-05-06",
+  "entry_into_force": "2006-05-07",
+  "notification_date": "2009-01-09",
+  "commission_reference": "MNE(2009)50006",
+  "nim_celex": "71992L0104LTU_159831",
+  "nim_id": "159831",
+  "transposes_celex": [
+    "31992L0104"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4944fda8-5cd0-432d-85aa-3d48faea90a2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
