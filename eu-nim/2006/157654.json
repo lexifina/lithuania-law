@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2006 m. gegužės 11 d. nutarimas Nr. 443 \"Dėl Nacionalinės energijos vartojimo efektyvumo didinimo 2006-2010 metų programos patvirtinimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "54",
+  "official_journal_page": null,
+  "official_journal_date": "2006-05-16",
+  "entry_into_force": "2006-05-17",
+  "notification_date": "2008-08-27",
+  "commission_reference": "MNE(2008)54706",
+  "nim_celex": "72006L0032LTU_157654",
+  "nim_id": "157654",
+  "transposes_celex": [
+    "32006L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/73f10d43-2eaa-43e5-b572-598986c55c1e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
