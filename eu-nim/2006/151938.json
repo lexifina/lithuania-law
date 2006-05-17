@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro 2006 m. balandžio 27 d. įsakymas Nr. 4-143 \"Dėl Lietuvos Respublikos ūkio ministerijos programų lėšų projektų veiklai finansuoti, kapitalui formuoti ir subsidijoms administravimo taisyklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "54",
+  "official_journal_page": null,
+  "official_journal_date": "2006-05-16",
+  "entry_into_force": "2006-05-17",
+  "notification_date": "2007-12-19",
+  "commission_reference": "MNE(2007)59051",
+  "nim_celex": "72002L0096LTU_151938",
+  "nim_id": "151938",
+  "transposes_celex": [
+    "32002L0096"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/afd5a771-70f2-4637-b803-8ed4294b0060",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
