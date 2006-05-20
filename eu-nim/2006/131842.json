@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2006 m. gegužės 5 d. įsakymas Nr. V-371 „Dėl Lietuvos higienos normos HN 16:2006 „Medžiagų ir gaminių, skirtų liestis su maistu, specialieji sveikatos saugos reikalavimai“ patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "58",
+  "official_journal_page": null,
+  "official_journal_date": "2006-05-23",
+  "entry_into_force": "2006-05-20",
+  "notification_date": "2006-05-25",
+  "commission_reference": "MNE(2006)53480",
+  "nim_celex": "72005L0031LTU_131842",
+  "nim_id": "131842",
+  "transposes_celex": [
+    "32005L0031"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e3b82efd-dac2-4a52-9399-be86e33e559e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
