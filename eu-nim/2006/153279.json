@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo 14, 23, 24 straipsnių pakeitimo ir papildymo bei Įstatymo papildymo 14(1) straipsniu įstatymas X-596",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "57",
+  "official_journal_page": null,
+  "official_journal_date": "2006-05-20",
+  "entry_into_force": "2006-05-20",
+  "notification_date": "2008-01-30",
+  "commission_reference": "MNE(2008)50826",
+  "nim_celex": "72004L0113LTU_153279",
+  "nim_id": "153279",
+  "transposes_celex": [
+    "32004L0113",
+    "32006L0054"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/be5f80d0-3562-42ec-a505-d200b14b9fda",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
