@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Viešosios įstaigos Lietuvos Respublikos apskaitos instituto direktoriaus 2006 m. gegužės 12 d. įsakymas Nr. VAS-6 \"Dėl 33-ojo verslo apskaitos standarto \"Finansų maklerio įmonių ir valdymo įmonių finansinė atskaitomybė\" tvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "57",
+  "official_journal_page": null,
+  "official_journal_date": "2006-05-20",
+  "entry_into_force": "2006-05-21",
+  "notification_date": "2007-04-02",
+  "commission_reference": "MNE(2007)52931",
+  "nim_celex": "72006L0048LTU_143571",
+  "nim_id": "143571",
+  "transposes_celex": [
+    "32006L0048"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8c0ce8c0-dd58-42a0-8ca4-30a5d554b999",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
