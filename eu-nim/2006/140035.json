@@ -1,0 +1,32 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2006 M. GEGUŽĖS 17 D. ĮSAKYMAS NR. D1-236 \"DĖL NUOTEKŲ TVARKYMO REGLAMENTO PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "59",
+  "official_journal_page": null,
+  "official_journal_date": "2006-05-25",
+  "entry_into_force": "2006-05-26",
+  "notification_date": "2007-01-22",
+  "commission_reference": "MNE(2007)50207",
+  "nim_celex": "71976L0464LTU_140035",
+  "nim_id": "140035",
+  "transposes_celex": [
+    "31976L0464",
+    "31982L0176",
+    "31983L0513",
+    "31984L0156",
+    "31984L0491",
+    "31986L0280",
+    "31988L0347",
+    "31990L0415",
+    "31991L0271",
+    "31998L0015",
+    "32000L0060"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1e1c44d3-79a7-4731-9fe9-5a77b3ec4742",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
