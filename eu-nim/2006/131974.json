@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2006 M. GEGUŽĖS 16 D. ĮSAKYMAS NR. D1-230 \"DĖL ŽALOS APLINKAI IR KITŲ NUOSTOLIŲ PRIPAŽINIMO MAŽAREIKŠME ŽALA TVARKOS APRAŠO IR MAŽAREIKŠMĖS ŽALOS IŠIEŠKOJIMO IŠLAIDŲ APSKAIČIAVIMO METODIKOS PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "59",
+  "official_journal_page": null,
+  "official_journal_date": "2006-05-25",
+  "entry_into_force": "2006-05-26",
+  "notification_date": "2006-05-30",
+  "commission_reference": "MNE(2006)53595",
+  "nim_celex": "72004L0035LTU_131974",
+  "nim_id": "131974",
+  "transposes_celex": [
+    "32004L0035"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fdaea2b2-63c9-42b5-abe2-21ab5f1d0210",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
