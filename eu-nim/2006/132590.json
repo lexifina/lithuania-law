@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės  kelių  transporto  inspekcijos prie Susisiekimo ministerijos viršininko 2006 m. gegužės 17 d. įsakymas Nr. 2B-165 „Dėl Valstybinės  kelių  transporto  inspekcijos prie Susisiekimo ministerijos viršininko 2004 m. rugsėjo 15 d. įsakymo Nr. 2B-264 „Dėl M1 klasės ir L kategorijos transporto  priemonių tipo atitikimo sertifikato formos ir turinio patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "59",
+  "official_journal_page": null,
+  "official_journal_date": "2006-05-25",
+  "entry_into_force": "2006-05-26",
+  "notification_date": "2006-06-16",
+  "commission_reference": "MNE(2006)54046",
+  "nim_celex": "72006L0028LTU_132590",
+  "nim_id": "132590",
+  "transposes_celex": [
+    "32006L0028"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/88b15a78-c741-4681-8d36-3b266aa5dca1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
