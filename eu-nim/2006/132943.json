@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2006 m. gegužės 16 d. įsakymas NR. D1-228 \"Dėl Aplinkos atkūrimo priemonių parinkimo bei išankstinio pritarimo gavimo tvarkos aprašo patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "59",
+  "official_journal_page": null,
+  "official_journal_date": "2006-05-25",
+  "entry_into_force": "2006-05-26",
+  "notification_date": "2006-06-28",
+  "commission_reference": "MNE(2006)54260",
+  "nim_celex": "72004L0035LTU_132943",
+  "nim_id": "132943",
+  "transposes_celex": [
+    "32004L0035",
+    "32009L0031"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cc740c8a-4deb-40ea-961f-9d62ea05c63b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
