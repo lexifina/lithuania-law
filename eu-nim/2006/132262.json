@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės kelių transporto inspekcijos prie Susisiekimo ministerijos viršininko 2006 m. gegužės 18 d. įsakymas Nr. 2B-167 „Dėl valstybinės kelių transporto inspekcijos prie Susisiekimo ministerijos viršininko 2005 m. spalio 29 d. įsakymo Nr. 2B-313 „Dėl transporto priemonių, jų elektrinių ir (arba) elektroninių surenkamųjų mazgų ir sistemų tipo patvirtinimo taisyklių dėl elektromagnetinio suderinamumo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "60",
+  "official_journal_page": null,
+  "official_journal_date": "2006-05-27",
+  "entry_into_force": "2006-05-28",
+  "notification_date": "2006-06-16",
+  "commission_reference": "MNE(2006)53809",
+  "nim_celex": "72005L0083LTU_132262",
+  "nim_id": "132262",
+  "transposes_celex": [
+    "32005L0083",
+    "32006L0028"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/369cb3f2-e9ff-4a93-ad71-d4394f83c790",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
