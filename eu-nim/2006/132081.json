@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2006 M. GEGUŽĖS 22 D. ĮSAKYMAS NR. D1-250 \"DĖL 2002 M. LIEPOS 1 D. LIETUVOS RESPUBLIKOS APLINKOS MINISTRO ĮSAKYMO NR. 352 „DĖL INTRODUKCIJOS, REINTRODUKCIJOS IR PERKĖLIMO TVARKOS, INVAZINIŲ RŪŠIŲ ORGANIZMŲ KONTROLĖS IR NAIKINIMO TVARKOS, INVAZINIŲ RŪŠIŲ KONTROLĖS TARYBOS SUDĖTIES IR NUOSTATŲ, INTRODUKCIJOS, REINTRODUKCIJOS IR PERKĖLIMO PROGRAMOS PATVIRTINIMO“ PAKEITIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "60",
+  "official_journal_page": null,
+  "official_journal_date": "2006-05-27",
+  "entry_into_force": "2006-05-28",
+  "notification_date": "2006-06-01",
+  "commission_reference": "MNE(2006)53680",
+  "nim_celex": "71979L0409LTU_132081",
+  "nim_id": "132081",
+  "transposes_celex": [
+    "31979L0409"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/83f5edc0-a78e-4898-98df-6e96605ef8f3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
