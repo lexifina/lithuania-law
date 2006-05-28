@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2006 M. GEGUŽĖS 22 D. ĮSAKYMAS NR. D1-256 \"DĖL APLINKOS MINISTRO 2003 M. GRUODŽIO 24 D. ĮSAKYMO NR. 701 „DĖL STATYBOS TECHNINIO REGLAMENTO STR 1.05.05:2004 „STATINIO PROJEKTO APLINKOS APSAUGOS DALIS“ PATVIRTINIMO“ PAKEITIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "60",
+  "official_journal_page": null,
+  "official_journal_date": "2006-05-27",
+  "entry_into_force": "2006-05-28",
+  "notification_date": "2006-06-01",
+  "commission_reference": "MNE(2006)53683",
+  "nim_celex": "71979L0409LTU_132084",
+  "nim_id": "132084",
+  "transposes_celex": [
+    "31979L0409"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/88dd4dca-17c6-437c-ac3e-1dc73978863f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
