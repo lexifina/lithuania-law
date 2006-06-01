@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2006 m. gegužės 25 d. nutarimas Nr. 470 \"Dėl Lietuvos Respublikos Vyriausybės 2005 m. balandžio 27 d. nutarimo Nr. 468 \"Dėl asmenų turto ir pajamų lygių antrinei teisinei pagalbai gauti nustatymo\" pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "61",
+  "official_journal_page": null,
+  "official_journal_date": "2006-05-31",
+  "entry_into_force": "2006-06-01",
+  "notification_date": "2006-07-21",
+  "commission_reference": "MNE(2006)54668",
+  "nim_celex": "72003L0008LTU_133555",
+  "nim_id": "133555",
+  "transposes_celex": [
+    "32003L0008"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bddab9a7-520b-420d-ab0e-6546bfce7e09",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
