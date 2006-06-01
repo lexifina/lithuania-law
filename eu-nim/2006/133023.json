@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2006 M. GEGUŽĖS 25 D. ĮSAKYMAS NR. D1-260 \"DĖL PREKYBOS SAUGOMŲ RŪŠIŲ LAUKINIAIS AUGALAIS \nTAISYKLIŲ PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "61",
+  "official_journal_page": null,
+  "official_journal_date": "2006-05-31",
+  "entry_into_force": "2006-06-01",
+  "notification_date": "2006-07-04",
+  "commission_reference": "MNE(2006)54315",
+  "nim_celex": "71992L0043LTU_133023",
+  "nim_id": "133023",
+  "transposes_celex": [
+    "31992L0043"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3cd68527-54c6-4e93-9e41-04630f0cd436",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
