@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2006 m. gegužės 29 d. nutarimas Nr. 485 „Dėl Lietuvos Respublikos Vyriausybės 2004 m. sausio 28 d. nutarimo Nr. 90 „Dėl tarptautinio laivų ir uosto įrenginių apsaugos kodekso reikalavimų įgyvendinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "61",
+  "official_journal_page": null,
+  "official_journal_date": "2006-05-31",
+  "entry_into_force": "2006-06-01",
+  "notification_date": "2007-03-06",
+  "commission_reference": "MNE(2007)50542",
+  "nim_celex": "72005L0065LTU_140450",
+  "nim_id": "140450",
+  "transposes_celex": [
+    "32005L0065"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e81db53e-12bd-47e5-aead-7a13c74dc4fd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
