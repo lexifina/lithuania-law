@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2006 m. gegužės 31 d. įsakymas Nr. V-435 „Dėl Leidimų atlikti klinikinius vaistinių preparatų tyrimus išdavimo, tyrimų atlikimo ir kontrolės tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "62",
+  "official_journal_page": null,
+  "official_journal_date": "2006-06-03",
+  "entry_into_force": "2006-06-04",
+  "notification_date": "2007-12-14",
+  "commission_reference": "MNE(2007)58950",
+  "nim_celex": "72001L0020LTU_151773",
+  "nim_id": "151773",
+  "transposes_celex": [
+    "32001L0020"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d3b0dd36-8e79-405d-a024-54229b11ffef",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
