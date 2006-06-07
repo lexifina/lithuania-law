@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2006 m. birželio 1 d. nutarimas Nr. 527 „Dėl Finansinių nusikaltimų tyrimo tarnybos prie Vidaus reikalų ministerijos disponuojamos informacijos apie kliento pinigines operacijas ir sandorius teikimo Lietuvos Respublikos teisėsaugos ir kitoms valstybės institucijoms bei Valstybės saugumo departamento ir Finansinių nusikaltimų tyrimo tarnybos prie Vidaus reikalų ministerijos keitimosi informacija įgyvendinant teroristų finansavimo prevencijos priemones taisyklių patvirtinimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "63",
+  "official_journal_page": null,
+  "official_journal_date": "2006-06-06",
+  "entry_into_force": "2006-06-07",
+  "notification_date": "2017-11-02",
+  "commission_reference": "MNE(2017)56135",
+  "nim_celex": "72016L2258LTU_252151",
+  "nim_id": "252151",
+  "transposes_celex": [
+    "32016L2258"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6db3db03-7567-45e0-904a-d7e2cd1e991c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
