@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2006 M. BIRŽELIO 7 D. ĮSAKYMAS NR. D1-284 'DĖL APLINKOS MINISTRO 2001 M. GRUODŽIO 12 D. ĮSAKYMO NR. 592 „DĖL DUOMENŲ KAUPIMO APIE EUROPOS BENDRIJOS SVARBOS GYVŪNŲ IR AUGALŲ RŪŠIS“ PAKEITIMO' (nauja redakcija)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "66",
+  "official_journal_page": null,
+  "official_journal_date": "2006-06-13",
+  "entry_into_force": "2006-06-14",
+  "notification_date": "2006-06-28",
+  "commission_reference": "MNE(2006)54267",
+  "nim_celex": "71992L0043LTU_132950",
+  "nim_id": "132950",
+  "transposes_celex": [
+    "31992L0043",
+    "32006L0105"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6849e3d4-6aa1-4691-9d6c-6684a1a0620d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
