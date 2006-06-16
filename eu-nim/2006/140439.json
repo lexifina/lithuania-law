@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2006 m. birželio 8 d. įsakymas Nr. 3-234 „Dėl informacijos apie nustatytus Lietuvos Respublikos jūrų uostų, šių uostų infrastruktūros ir suprastruktūros įrenginių (terminalų) ir laivų apsaugos lygius perdavimo tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "67",
+  "official_journal_page": null,
+  "official_journal_date": "2006-06-15",
+  "entry_into_force": "2006-06-16",
+  "notification_date": "2007-01-31",
+  "commission_reference": "MNE(2007)50531",
+  "nim_celex": "72005L0065LTU_140439",
+  "nim_id": "140439",
+  "transposes_celex": [
+    "32005L0065"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/98e4fabc-3053-4696-8d31-67024edd70e8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
