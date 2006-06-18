@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2006 m. birželio 14 d. nutarimas Nr. 581 „Dėl Valstybinės triukšmo strateginio kartografavimo programos patvirtinimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "68",
+  "official_journal_page": null,
+  "official_journal_date": "2006-06-17",
+  "entry_into_force": "2006-06-18",
+  "notification_date": "2008-01-30",
+  "commission_reference": "MNE(2008)50823",
+  "nim_celex": "72002L0049LTU_153276",
+  "nim_id": "153276",
+  "transposes_celex": [
+    "32002L0049"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a07972a1-3e5d-4ccf-8bcc-3a85e0e301dd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
