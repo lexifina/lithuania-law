@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2006 m. birželio 12 d. įsakymas Nr. 3-237 „Dėl Mokymo pajėgumų teikimo geležinkelio įmonėms (vežėjams) taisyklių patvirtinimo“ (suvestinė redakcija nuo 2015-09-01)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "70-2603",
+  "official_journal_page": null,
+  "official_journal_date": "2006-06-21",
+  "entry_into_force": "2006-06-22",
+  "notification_date": "2021-02-01",
+  "commission_reference": "MNE(2021)00333",
+  "nim_celex": "72016L0798LTU_202100333",
+  "nim_id": "202100333",
+  "transposes_celex": [
+    "32016L0798"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/94cfa6b7-bcbc-4b66-8a6b-20b393c5cd9b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
