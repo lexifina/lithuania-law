@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2006 m. gegužės 15 d. nutarimas Nr. 76 „Dėl kai kurių Lietuvos banko valdybos nutarimų apskaitos ir atskaitomybės klausimais pakeitimo ir pripažinimo netekusiais galios“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "70",
+  "official_journal_page": null,
+  "official_journal_date": "2006-06-22",
+  "entry_into_force": "2006-06-23",
+  "notification_date": "2006-06-28",
+  "commission_reference": "MNE(2006)54248",
+  "nim_celex": "71986L0635LTU_132910",
+  "nim_id": "132910",
+  "transposes_celex": [
+    "31986L0635"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7e68c9c1-4302-4719-a4b2-4cc7556e99f5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
