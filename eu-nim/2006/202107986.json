@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2006 m. birželio 14 d. įsakymas Nr. 1V-738 „Dėl Apskaitos atskyrimo taisyklių ir su apskaitos atskyrimu susijusių reikalavimų patvirtinimo“ (suvestinė redakcija nuo 2017 m. sausio 1 d.)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "70-2607",
+  "official_journal_page": null,
+  "official_journal_date": "2006-06-22",
+  "entry_into_force": "2006-06-23",
+  "notification_date": "2021-12-02",
+  "commission_reference": "MNE(2021)07986",
+  "nim_celex": "72018L1972LTU_202107986",
+  "nim_id": "202107986",
+  "transposes_celex": [
+    "32018L1972"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c5c946a3-5428-11ec-91ac-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
