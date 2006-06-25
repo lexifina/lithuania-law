@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2006 M. BIRŽELIO 20 D. ĮSAKYMAS NR. D1-300 \"DĖL APLINKOS MINISTRO 2004 M. RUGSĖJO 10 D. ĮSAKYMO NR. D1-481 „DĖL ELEKTROS IR ELEKTRONINĖS ĮRANGOS BEI JOS ATLIEKŲ TVARKYMO TAISYKLIŲ PATVIRTINIMO“ PAKEITIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "71",
+  "official_journal_page": null,
+  "official_journal_date": "2006-06-24",
+  "entry_into_force": "2006-06-25",
+  "notification_date": "2006-07-04",
+  "commission_reference": "MNE(2006)54318",
+  "nim_celex": "72002L0096LTU_133026",
+  "nim_id": "133026",
+  "transposes_celex": [
+    "32002L0096"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e76a22c4-ebfc-4cc7-a1ef-9cf8795ac058",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
