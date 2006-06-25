@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2006 M. BIRŽELIO 12 D. ĮSAKYMAS NR. D1-289 \"DĖL APLINKOS ORO UŽTERŠTUMO ARSENU, KADMIU, GYVSIDABRIU, NIKELIU IR POLICIKLINIAIS AROMATINIAIS ANGLIAVANDENILIAIS VERTINIMO TVARKOS APRAŠO PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "71",
+  "official_journal_page": null,
+  "official_journal_date": "2006-06-24",
+  "entry_into_force": "2006-06-25",
+  "notification_date": "2006-07-04",
+  "commission_reference": "MNE(2006)54317",
+  "nim_celex": "72004L0107LTU_133025",
+  "nim_id": "133025",
+  "transposes_celex": [
+    "32004L0107"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c5b2f11d-df29-4afb-8f78-d918386843ad",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
