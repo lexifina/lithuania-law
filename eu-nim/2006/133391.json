@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos puslaidininkinių gaminių topografijų teisinės apsaugos įstatymo 1, 10 straipsnio, VI skyriaus pakeitimo bei papildymo ir įstatymo papildymo priedu įstatymas Nr. X-652",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "72",
+  "official_journal_page": null,
+  "official_journal_date": "2006-06-28",
+  "entry_into_force": "2006-06-28",
+  "notification_date": "2006-07-18",
+  "commission_reference": "MNE(2006)54549",
+  "nim_celex": "72004L0048LTU_133391",
+  "nim_id": "133391",
+  "transposes_celex": [
+    "32004L0048"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d678366b-4201-441f-8b96-e4350bcf3062",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
