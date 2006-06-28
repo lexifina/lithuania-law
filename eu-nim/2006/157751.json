@@ -1,0 +1,26 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymo 4 straipsnio pakeitimo ir papildymo, Geležinkelių transporto kodekso 3, 4, 6, 7, 10, 11, 12, 13, 16, 19, 28, 30, 48 straipsnių ir priedo pakeitimo ir papildymo bei Kodekso papildymo 30(1) straipsniu įstatymas Nr. X-653",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "72",
+  "official_journal_page": null,
+  "official_journal_date": "2006-06-28",
+  "entry_into_force": "2006-06-28",
+  "notification_date": "2008-08-27",
+  "commission_reference": "MNE(2008)54802",
+  "nim_celex": "71991L0440LTU_157751",
+  "nim_id": "157751",
+  "transposes_celex": [
+    "31991L0440",
+    "32001L0014",
+    "32007L0059",
+    "32008L0057",
+    "32008L0110"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d5e97532-c542-44da-a3d6-68e3fb35ecfb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
