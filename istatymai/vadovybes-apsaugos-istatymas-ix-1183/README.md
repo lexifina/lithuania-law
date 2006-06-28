@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2002-11-22 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/c88caa45faa2e56ac12d5d60282516e3b0625969/istatymai/TAR.AF4E384215F8.md) |
+| 2006-06-28 | 2012-12-31 | Įstatymas Nr. X-678 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/c16d387da6357ef8ed1d8a064660ef9153234876/istatymai/TAR.AF4E384215F8.md) |
