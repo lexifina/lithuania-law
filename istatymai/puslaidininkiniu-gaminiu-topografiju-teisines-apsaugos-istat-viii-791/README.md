@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 1998-07-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/dbad17ded340ca292eae6918c6afeef061c203cf/istatymai/TAR.AF66A99A0A20.md) |
+| 2006-06-28 | 2013-05-31 | Įstatymas Nr. X-652 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/d05cd7606c302cb7242c8795ef771055edfdd6b7/istatymai/TAR.AF66A99A0A20.md) |
