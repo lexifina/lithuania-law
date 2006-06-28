@@ -1,0 +1,25 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo 1, 2, 3, 12, 18, 20, 24 straipsnių pakeitimo ir papildymo ir Įstatymo papildymo priedu įstatymas Nr. X-648",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "72",
+  "official_journal_page": null,
+  "official_journal_date": "2006-06-28",
+  "entry_into_force": "2006-06-28",
+  "notification_date": "2006-08-25",
+  "commission_reference": "MNE(2006)55483",
+  "nim_celex": "72004L0035LTU_134642",
+  "nim_id": "134642",
+  "transposes_celex": [
+    "32004L0035",
+    "32008L0050",
+    "32009L0031",
+    "32009L0126"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/20ddfd3f-308f-46b7-abce-138139c01686",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
