@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinių paslaugų įstatymas Nr. X-493 (suvestinė redakcija nuo 2021-01-02 iki 2021-02-28)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "17-589",
+  "official_journal_page": null,
+  "official_journal_date": "2006-02-10",
+  "entry_into_force": "2006-06-30",
+  "notification_date": "2021-02-17",
+  "commission_reference": "MNE(2021)01299",
+  "nim_celex": "72012L0029LTU_202101299",
+  "nim_id": "202101299",
+  "transposes_celex": [
+    "32012L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/611847c7-e9f9-43ed-b346-a3da3ebaac56",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
