@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2004-12-31 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/7cd59bb76f53ff127fc2d556fa72408808c2e768/istatymai/TAR.7E6F5E3523EA.md) |
+| 2006-06-30 | 2010-06-30 | Įstatymas Nr. X-692 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/474cc3c09e6033bf01fb57ed7f0a9e839043c356/istatymai/TAR.7E6F5E3523EA.md) |
