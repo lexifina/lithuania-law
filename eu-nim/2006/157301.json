@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos darbo kodekso 170 ir 178 straipsnių pakeitimo ir kodekso papildymo 179(1) straipsniu įstatymas Nr. X-660",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "72",
+  "official_journal_page": null,
+  "official_journal_date": "2006-06-28",
+  "entry_into_force": "2006-07-01",
+  "notification_date": "2008-07-28",
+  "commission_reference": "MNE(2008)54369",
+  "nim_celex": "72006L0054LTU_157301",
+  "nim_id": "157301",
+  "transposes_celex": [
+    "32006L0054",
+    "32010L0018"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/96524459-33e4-49df-8990-4dd233f5512d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
