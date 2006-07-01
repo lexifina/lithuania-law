@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2006 m. birželio 23 d. įsakymas Nr. 3-263 „Dėl Lietuvos Respublikos jūrų uostų, šių uostų infrastruktūros ir suprastruktūros įrenginių (terminalų) apsaugos planų reikalavimų patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "73",
+  "official_journal_page": null,
+  "official_journal_date": "2006-06-30",
+  "entry_into_force": "2006-07-01",
+  "notification_date": "2007-01-31",
+  "commission_reference": "MNE(2007)50535",
+  "nim_celex": "72005L0065LTU_140443",
+  "nim_id": "140443",
+  "transposes_celex": [
+    "32005L0065"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e3729b5e-1924-47a4-8989-fa2e9e2c3359",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
