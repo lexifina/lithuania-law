@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo proceso kodekso, bausmių vykdymo kodekso ir kardomojo kalinimo įstatymo pakeitimo ir papildymo įstatymas Nr. X-636",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "68",
+  "official_journal_page": null,
+  "official_journal_date": "2006-06-17",
+  "entry_into_force": "2006-07-01",
+  "notification_date": "2014-02-21",
+  "commission_reference": "MNE(2014)51134",
+  "nim_celex": "72001F0220LTU_213534",
+  "nim_id": "213534",
+  "transposes_celex": [
+    "32001F0220",
+    "32012L0013"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/323ca864-7119-4cca-ae03-a19c1188839a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
