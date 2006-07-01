@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Informacinės visuomenės plėtros komiteto prie Lietuvos Respublikos Vyriausybės direktoriaus 2006 m. birželio 13 d. įsakymas Nr. T-50 \"Dėl Duomenų informacijos rinkmenų sąrašui pateikimo taisyklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "68",
+  "official_journal_page": null,
+  "official_journal_date": "2006-06-17",
+  "entry_into_force": "2006-07-01",
+  "notification_date": "2006-09-05",
+  "commission_reference": "MNE(2006)55778",
+  "nim_celex": "72003L0098LTU_135044",
+  "nim_id": "135044",
+  "transposes_celex": [
+    "32003L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5ed825d3-7a9f-4f4e-9326-927fe79d0af3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
