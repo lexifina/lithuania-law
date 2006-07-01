@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos informacinės visuomenės paslaugų įstatymas Nr. X-614 (Suvestinė redakcija nuo 2018-05-09)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "65-2380",
+  "official_journal_page": null,
+  "official_journal_date": "2006-06-10",
+  "entry_into_force": "2006-07-01",
+  "notification_date": "2018-05-22",
+  "commission_reference": "MNE(2018)52502",
+  "nim_celex": "72016L1148LTU_258842",
+  "nim_id": "258842",
+  "transposes_celex": [
+    "32016L1148"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/19d235dc-db6a-4fb2-8508-d8a7ca79b593",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
