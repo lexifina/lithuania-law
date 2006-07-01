@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 2, 7, 10, 16, 18, 21, 24, 28, 36, 46, 49, 50, 52, 53, 56, 59, 65, 67, 68, 77(1) straipsnių, penktojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 23(1) ir 77(2) straipsniais įstatymas Nr. X-662",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "72",
+  "official_journal_page": null,
+  "official_journal_date": "2006-06-28",
+  "entry_into_force": "2006-07-01",
+  "notification_date": "2008-07-28",
+  "commission_reference": "MNE(2008)54372",
+  "nim_celex": "72006L0054LTU_157304",
+  "nim_id": "157304",
+  "transposes_celex": [
+    "32006L0054"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c712fb06-b4cc-4785-8892-e31f49b94488",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
