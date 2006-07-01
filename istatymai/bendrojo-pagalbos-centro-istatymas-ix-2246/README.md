@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2004-09-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/ccbbe4d9cc2bda02f18c68c3abb4de991ebc4c61/istatymai/TAR.95C4D287AAA9.md) |
+| 2006-07-01 | 2010-12-31 | Įstatymas Nr. X-589 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/8bf6e79a171721bd314de13892492f28d442e6da/istatymai/TAR.95C4D287AAA9.md) |
