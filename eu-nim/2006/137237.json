@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2006 M. BIRŽELIO 23 D. ĮSAKYMAS Nr. D1-311 \"DĖL PLANUOJAMOS ŪKINĖS VEIKLOS POVEIKIO APLINKAI VERTINIMO DOKUMENTŲ NAGRINĖJIMO APLINKOS MINISTERIJOJE IR JAI PAVALDŽIOSE INSTITUCIJOSE TVARKOS APRAŠO PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "75",
+  "official_journal_page": null,
+  "official_journal_date": "2006-07-05",
+  "entry_into_force": "2006-07-06",
+  "notification_date": "2006-10-31",
+  "commission_reference": "MNE(2006)57352",
+  "nim_celex": "71985L0337LTU_137237",
+  "nim_id": "137237",
+  "transposes_celex": [
+    "31985L0337",
+    "31997L0011"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6773fa39-55ef-4f77-9769-0551e2445316",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
