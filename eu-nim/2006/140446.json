@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2006 m. liepos 1 d. įsakymas Nr. 3-282 „Dėl Lietuvos Respublikos jūrų uostų, šių uostų infrastruktūros ir suprastruktūros įrenginių (terminalų) apsaugos vertinimo komisijos sudarymo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "76",
+  "official_journal_page": null,
+  "official_journal_date": "2006-07-11",
+  "entry_into_force": "2006-07-12",
+  "notification_date": "2007-01-31",
+  "commission_reference": "MNE(2007)50538",
+  "nim_celex": "72005L0065LTU_140446",
+  "nim_id": "140446",
+  "transposes_celex": [
+    "32005L0065"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/158ea5a1-20b5-413a-a106-021b60c6e66c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
