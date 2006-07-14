@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS GENETIŠKAI MODIFIKUOTŲ ORGANIZMŲ ĮSTATYMO 1, 2, 4, 5, 7, 8, 9, 10  STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, TREČIOJO SKIRSNIO PAVADINIMO PAKEITIMO, ĮSTATYMO PAPILDYMO 7(1), 7(2) STRAIPSNIAIS IR PRIEDO PAKEITIMO ĮSTATYMAS NR. X-720",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "77",
+  "official_journal_page": null,
+  "official_journal_date": "2006-07-14",
+  "entry_into_force": "2006-07-14",
+  "notification_date": "2007-10-05",
+  "commission_reference": "MNE(2007)57135",
+  "nim_celex": "71998L0081LTU_149375",
+  "nim_id": "149375",
+  "transposes_celex": [
+    "31998L0081"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/69df4b84-4083-4091-8ff0-ba3ea0582eaf",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
