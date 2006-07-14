@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vertybinių popierių rinkos įstatymo 2, 6, 7, 13, 14, 17, 18, 19, 19(1), 40, 45, 52, 61 straipsnių pakeitimo ir papildymo, įstatymo papildymo trečiuoju(1) skirsniu ir įstatymo priedo papildymo įstatymas Nr. X-714",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "77",
+  "official_journal_page": null,
+  "official_journal_date": "2006-07-14",
+  "entry_into_force": "2006-07-14",
+  "notification_date": "2006-07-17",
+  "commission_reference": "MNE(2006)54537",
+  "nim_celex": "72004L0025LTU_133363",
+  "nim_id": "133363",
+  "transposes_celex": [
+    "32004L0025"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/42d07f67-2436-4a17-8dbc-054ee72ba8f7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
