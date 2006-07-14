@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo kodekso 149, 150, 151, 162, 260, 265, 266, 307, 308, 309 straipsnių ir priedo pakeitimo bei papildymo ir Kodekso papildymo 151(1) straipsniu įstatymas Nr. X-711",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "77",
+  "official_journal_page": null,
+  "official_journal_date": "2006-07-14",
+  "entry_into_force": "2006-07-14",
+  "notification_date": "2007-11-19",
+  "commission_reference": "MNE(2007)58233",
+  "nim_celex": "72004F0757LTU_150848",
+  "nim_id": "150848",
+  "transposes_celex": [
+    "32004F0757",
+    "32005L0060"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/39680df0-6b71-43a8-9012-c9de3f092b3f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
