@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2006 m. birželio 28 d. įsakymas Nr. 3-267 „Dėl Lietuvos Respublikos susisiekimo ministro 1998 m. rugsėjo 11 d. įsakymo Nr. 348 \"Dėl kelių transporto priemonių gamybos ir perdirbimo tvarkos ir jų techninės ekspertizės atlikimo norminių dokumentų tvirtinimo\" pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "77",
+  "official_journal_page": null,
+  "official_journal_date": "2006-07-14",
+  "entry_into_force": "2006-07-15",
+  "notification_date": "2008-09-04",
+  "commission_reference": "MNE(2008)54991",
+  "nim_celex": "72006L0038LTU_157941",
+  "nim_id": "157941",
+  "transposes_celex": [
+    "32006L0038"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9833e935-6db8-4e76-bdd8-f4186e540470",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
