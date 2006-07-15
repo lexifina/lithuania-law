@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2006 m. liepos 4 d. nutarimas Nr. 674 „Dėl Atitikties vertinimo įstaigų paskyrimo atlikti techniniuose reglamentuose nustatytas atitikties vertinimo procedūras ir notifikavimo bei notifikuotųjų įstaigų veiklos priežiūros taisyklių patvirtinimo“ (Suvestinė redakcija nuo 2022-01-15)",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "77-2985",
+  "official_journal_page": null,
+  "official_journal_date": "2006-07-14",
+  "entry_into_force": "2006-07-15",
+  "notification_date": "2022-06-09",
+  "commission_reference": "MNE(2022)03425",
+  "nim_celex": "72019L0520LTU_202203425",
+  "nim_id": "202203425",
+  "transposes_celex": [
+    "32019L0520"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/146097c3-5a8b-478f-9eda-ff0c12828129",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
