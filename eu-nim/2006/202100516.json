@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos farmacijos įstatymasNr. X-709 (Suvestinė redakcija nuo 2020-12-31 iki 2021-05-25)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "78-3056",
+  "official_journal_page": null,
+  "official_journal_date": "2006-07-17",
+  "entry_into_force": "2006-07-17",
+  "notification_date": "2021-01-21",
+  "commission_reference": "MNE(2021)00516",
+  "nim_celex": "72018L1808LTU_202100516",
+  "nim_id": "202100516",
+  "transposes_celex": [
+    "32018L1808"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/02d56294-d864-4b38-913d-f4dabc6c1f49",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
