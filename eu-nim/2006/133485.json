@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS ĮMONIŲ FINANSINĖS ATSKAITOMYBĖS ĮSTATYMO 1, 2, 3, 10, 11, 12, 19, 20, 23, 24, 25 STRAIPSNIŲ BEI PRIEDO PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 19 (1)STRAIPSNIU BEI KETVIRTUOJU (1) SKIRSNIU ĮSTATYMAS NR. X-731",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "78",
+  "official_journal_page": null,
+  "official_journal_date": "2006-07-18",
+  "entry_into_force": "2006-07-18",
+  "notification_date": "2006-07-20",
+  "commission_reference": "MNE(2006)54610",
+  "nim_celex": "72001L0065LTU_133485",
+  "nim_id": "133485",
+  "transposes_celex": [
+    "32001L0065"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6dbcb86e-49af-4fa2-9f34-3e05f7416c53",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
