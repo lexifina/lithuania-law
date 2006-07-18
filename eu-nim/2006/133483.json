@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS  ĮMONIŲ KONSOLIDUOTOS FINANSINĖS ATSKAITOMYBĖS ĮSTATYMO 1, 2, 3, 8, 9, 11 STRAIPSNIŲ BEI PRIEDO PAKEITIMO IR PILDYMO IR ĮSTATYMO PAPILDYMO ANTRUOJU (1)SKIRSNIU ĮSTATYMAS Nr. X-732",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "78",
+  "official_journal_page": null,
+  "official_journal_date": "2006-07-18",
+  "entry_into_force": "2006-07-18",
+  "notification_date": "2006-07-20",
+  "commission_reference": "MNE(2006)54608",
+  "nim_celex": "72001L0065LTU_133483",
+  "nim_id": "133483",
+  "transposes_celex": [
+    "32001L0065"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/186fa9b0-5b9e-49b6-8900-4715354f4011",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
