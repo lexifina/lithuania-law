@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro 2006 m. liepos 14 d. įsakymas Nr. 4-284 \"Dėl 1984 m. lapkričio 27 d. Tarybos direktyvos 84/568/EEB dėl valstybių narių eksporto kreditų draudimo organizacijų, veikiančių valstybės narės vardu arba jai remiant, arba valstybės departamentų, veikiančių vietoj tokių organizacijų, abipusių įsipareigojimų, bendrų garantijų sutarčiai, į kurią įeina viena ar daugiau subrangos sutarčių vienoje ar daugiau Europos Bendrijų valstybių narių, nuostatų įgyvendinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "79",
+  "official_journal_page": null,
+  "official_journal_date": "2006-07-20",
+  "entry_into_force": "2006-07-21",
+  "notification_date": "2006-08-21",
+  "commission_reference": "MNE(2006)55286",
+  "nim_celex": "71984L0568LTU_134402",
+  "nim_id": "134402",
+  "transposes_celex": [
+    "31984L0568"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f9f7d72d-5156-43de-b984-8552a3337a8e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
