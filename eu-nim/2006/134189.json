@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2006 M. LIEPOS 10 D. ĮSAKYMAS NR. D1-337 'DĖL APLINKOS MINISTRO 2004 M. BALANDŽIO 29 D. ĮSAKYMO NR. D1-231 „DĖL ŠILTNAMIO DUJŲ APYVARTINIŲ TARŠOS LEIDIMŲ IŠDAVIMO IR PREKYBOS JAIS TVARKOS APRAŠO PATVIRTINIMO“ PAKEITIMO'",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "79",
+  "official_journal_page": null,
+  "official_journal_date": "2006-07-20",
+  "entry_into_force": "2006-07-21",
+  "notification_date": "2006-08-11",
+  "commission_reference": "MNE(2006)55156",
+  "nim_celex": "72003L0087LTU_134189",
+  "nim_id": "134189",
+  "transposes_celex": [
+    "32003L0087",
+    "32004L0101"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8ef255d8-60c4-4e19-a9fd-7fc3aa295710",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
