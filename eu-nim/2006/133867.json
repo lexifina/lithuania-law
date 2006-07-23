@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vertybinių popierių komisijos 2006 m. liepos 17 d. nutarimas Nr. 1K-9 \"Dėl Lietuvos Respublikos vertybinių popierių komisijos 2002 m. balandžio 12 d. nutarimo Nr. 14 „Dėl Lietuvos Respublikos vertybinių popierių komisijos 1998 m. vasario 20 d. nutarimo Nr. 7 „Dėl Oficialaus pasiūlymo pateikimo, registravimo ir įgyvendinimo taisyklių“ pakeitimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "80",
+  "official_journal_page": null,
+  "official_journal_date": "2006-07-22",
+  "entry_into_force": "2006-07-23",
+  "notification_date": "2006-08-01",
+  "commission_reference": "MNE(2006)54895",
+  "nim_celex": "72004L0025LTU_133867",
+  "nim_id": "133867",
+  "transposes_celex": [
+    "32004L0025"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0df5675e-03b1-425b-bd41-ee601fc10000",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
