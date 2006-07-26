@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2006 m. liepos 17 d. įsakymas Nr. 3-297 „Dėl reikalavimų geležinkelių transporto eismo saugos valdymo sistemoms patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "81",
+  "official_journal_page": null,
+  "official_journal_date": "2006-07-25",
+  "entry_into_force": "2006-07-26",
+  "notification_date": "2006-08-11",
+  "commission_reference": "MNE(2006)55162",
+  "nim_celex": "72004L0049LTU_134204",
+  "nim_id": "134204",
+  "transposes_celex": [
+    "32004L0049"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/182dcd75-b00c-4558-85a4-6a45a39d3586",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
