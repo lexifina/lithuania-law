@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės vaistų kontrolės tarnybos prie Lietuvos Respublikos sveikatos apsaugos ministerijos viršininko 2006 m. liepos 14 d. įsakymas Nr. 1A-396 ,,Ddėl paraiškos leidimui atlikti žmonėms skirtų vaistinių preparatų klinikinį tyrimą gauti, pranešimo apie esmines pataisas ir tyrimo pabaigos deklaracijos pateikimo tvarka“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "81",
+  "official_journal_page": null,
+  "official_journal_date": "2006-07-25",
+  "entry_into_force": "2006-07-26",
+  "notification_date": "2006-07-27",
+  "commission_reference": "MNE(2006)54815",
+  "nim_celex": "72005L0028LTU_133755",
+  "nim_id": "133755",
+  "transposes_celex": [
+    "32005L0028"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6f98f5d7-b847-4c17-a4a8-562aac83a1e7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
