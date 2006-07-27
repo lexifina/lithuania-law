@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos koncesijų įstatymo, Vietos savivaldos įstatymo pakeitimo ir papildymo įstatymas Nr. X-749",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "82",
+  "official_journal_page": null,
+  "official_journal_date": "2006-07-27",
+  "entry_into_force": "2006-07-27",
+  "notification_date": "2006-08-02",
+  "commission_reference": "MNE(2006)54931",
+  "nim_celex": "72004L0017LTU_133904",
+  "nim_id": "133904",
+  "transposes_celex": [
+    "32004L0017",
+    "32004L0018",
+    "32007L0066"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0fcdbe9c-c7e7-4153-abe5-2e7e2d6398a0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
