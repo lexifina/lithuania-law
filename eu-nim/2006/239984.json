@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos akcinių bendrovių įstatymo 2, 7, 8, 9, 12, 18, 20, 32, 34, 37, 45, 58 straipsnių, septintojo skirsnio pavadinimo, priedo pakeitimo ir papildymo bei 36 straipsnio pripažinimo netekusiu galios įstatymas Nr. X-750",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "82",
+  "official_journal_page": null,
+  "official_journal_date": "2006-07-27",
+  "entry_into_force": "2006-07-27",
+  "notification_date": "2016-08-18",
+  "commission_reference": "MNE(2016)55272",
+  "nim_celex": "72012L0030LTU_239984",
+  "nim_id": "239984",
+  "transposes_celex": [
+    "32012L0030"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ea6bb9c1-0c5e-4081-9e24-61cb830f54bb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
