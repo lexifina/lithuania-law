@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos kultūros ministro 2006 m. liepos 25 d. įsakymas Nr. ĮV-318\" Dėl nacionalinio korespondento paskyrimo įgyvendinant 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyvą 2004/48/EB dėl intelektinės nuosavybės teisių gynimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "84",
+  "official_journal_page": null,
+  "official_journal_date": "2006-07-31",
+  "entry_into_force": "2006-08-01",
+  "notification_date": "2006-08-09",
+  "commission_reference": "MNE(2006)55159",
+  "nim_celex": "72004L0048LTU_134192",
+  "nim_id": "134192",
+  "transposes_celex": [
+    "32004L0048"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a2c9d965-ac4a-4d94-80d0-08ec7e92a96d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
