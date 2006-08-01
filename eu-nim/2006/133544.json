@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2006 m. birželio 20 d. įsakymas Nr. V-516 ,,Dėl kraujo donorystės įstaigų kokybės sistemos standartų ir specifikacijų patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "71",
+  "official_journal_page": null,
+  "official_journal_date": "2006-06-24",
+  "entry_into_force": "2006-08-01",
+  "notification_date": "2006-07-21",
+  "commission_reference": "MNE(2006)54657",
+  "nim_celex": "72005L0062LTU_133544",
+  "nim_id": "133544",
+  "transposes_celex": [
+    "32005L0062"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3fa438ef-21ee-4914-9d23-1f5b4667d5e2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
