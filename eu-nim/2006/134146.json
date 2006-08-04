@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės kelių transporto inspekcijos prie Susisiekimo ministerijos viršininko  2006 m. liepos 19 d. įsakymas Nr. 2B-236 „Dėl priekinės apsaugos sistemų ir transporto priemonių, kuriose įrengta priekinės apsaugos sistema, tipo patvirtinimo taisyklių“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "85",
+  "official_journal_page": null,
+  "official_journal_date": "2006-08-03",
+  "entry_into_force": "2006-08-04",
+  "notification_date": "2006-08-10",
+  "commission_reference": "MNE(2006)55114",
+  "nim_celex": "72005L0066LTU_134146",
+  "nim_id": "134146",
+  "transposes_celex": [
+    "32005L0066"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9324def0-4c11-4f5c-a38e-25663718b4da",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
