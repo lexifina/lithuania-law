@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2006 m. liepos 28 d. įsakymas Nr. 3D-305 \"Dėl žemės ūkio ministro 2000 m. rugsėjo 29 d. įsakymo Nr. 274 \"Dėl privalomųjų javų sėklos kokybės reikalavimų\" pakeitimo'\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "86",
+  "official_journal_page": null,
+  "official_journal_date": "2006-08-05",
+  "entry_into_force": "2006-08-06",
+  "notification_date": "2006-11-28",
+  "commission_reference": "MNE(2006)57437",
+  "nim_celex": "72006L0055LTU_137342",
+  "nim_id": "137342",
+  "transposes_celex": [
+    "32006L0055"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d173f3d9-3849-4cab-ac87-f861bb93e916",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
