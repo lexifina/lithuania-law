@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS DRAUDIMO ĮSTATYMO 29, 35, 36, 43, 82, 100, 113, 135, 136, 151, 175, 180, 188, 191, 193, 199, 207 STRAIPSNIŲ PAKEITIMO BEI PAPILDYMO, ĮSTATYMO PAPILDYMO 79(1) IR 231 STRAIPSNIAIS, VIII SKYRIAUS PAPILDYMO PENKTUOJU SKIRSNIU IR PRIEDO PAPILDYMO ĮSTATYMAS NR.X-798",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "87",
+  "official_journal_page": null,
+  "official_journal_date": "2006-08-08",
+  "entry_into_force": "2006-08-08",
+  "notification_date": "2006-08-22",
+  "commission_reference": "MNE(2006)55339",
+  "nim_celex": "72002L0092LTU_134472",
+  "nim_id": "134472",
+  "transposes_celex": [
+    "32002L0092"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0270ce3b-b640-4b9b-99b7-ed6d709c325c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
