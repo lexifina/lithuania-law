@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2006 m. rugpjūčio 4 d. nutarimas Nr. 777 \"Dėl Lietuvos Respublikos Vyriausybės 2001 m. gruodžio 5 d. nutarimo Nr. 1474 \"Dėl teisės aktų, būtinų Elektros energetikos įstatymui įgyvendinti, patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "88",
+  "official_journal_page": null,
+  "official_journal_date": "2006-08-12",
+  "entry_into_force": "2006-08-13",
+  "notification_date": "2006-09-22",
+  "commission_reference": "MNE(2006)56209",
+  "nim_celex": "72003L0054LTU_135650",
+  "nim_id": "135650",
+  "transposes_celex": [
+    "32003L0054"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2128c5b2-2321-44e1-8654-2400050fe46c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
