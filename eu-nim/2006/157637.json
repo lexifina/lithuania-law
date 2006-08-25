@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės geležinkelio inspekcijos prie Susisiekimo ministerijos viršininko 2006 m. rugpjūčio 18 d. įsakymas Nr. V-68 „Dėl geležinkelio įmonės (vežėjo) paraiškos skirti viešosios geležinkelių infrastruktūros pajėgumus turinio reikalavimų ir prie paraiškos pridedamų dokumentų sąrašo nustatymo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "90",
+  "official_journal_page": null,
+  "official_journal_date": "2006-08-24",
+  "entry_into_force": "2006-08-25",
+  "notification_date": "2008-08-26",
+  "commission_reference": "MNE(2008)54691",
+  "nim_celex": "72001L0014LTU_157637",
+  "nim_id": "157637",
+  "transposes_celex": [
+    "32001L0014"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4bc7f956-754b-4311-b17f-bcb8ad1c5892",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
