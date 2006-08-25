@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2006 m. rugpjūčio 17 d. įsakymas Nr. V-690 „Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2003 m. gruodžio 23 d. įsakymo Nr. V-757 „Dėl Lietuvos higienos normos HN 62:2003 „Kosmetikos gaminiai: bendrieji reikalavimai, draudžiamos ir ribojamos medžiagos“ patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "90",
+  "official_journal_page": null,
+  "official_journal_date": "2006-08-24",
+  "entry_into_force": "2006-08-25",
+  "notification_date": "2006-08-31",
+  "commission_reference": "MNE(2006)55669",
+  "nim_celex": "72006L0065LTU_134886",
+  "nim_id": "134886",
+  "transposes_celex": [
+    "32006L0065"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5d1a07bb-5c36-4c88-b5a5-542ef0a70701",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
