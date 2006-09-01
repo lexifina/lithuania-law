@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS VISUOMENĖS INFORMAVIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS NR. X-752",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "82",
+  "official_journal_page": null,
+  "official_journal_date": "2006-07-27",
+  "entry_into_force": "2006-09-01",
+  "notification_date": "2006-11-15",
+  "commission_reference": "MNE(2006)57716",
+  "nim_celex": "72003L0035LTU_137696",
+  "nim_id": "137696",
+  "transposes_celex": [
+    "32003L0035"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f151ed98-cbf1-4ef1-9c6b-1cc990d7d38a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
