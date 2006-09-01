@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos visuomenės informavimo įstatymo pakeitimo įstatymas Nr. X-752",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "82",
+  "official_journal_page": null,
+  "official_journal_date": "2006-07-27",
+  "entry_into_force": "2006-09-01",
+  "notification_date": "2013-12-04",
+  "commission_reference": "MNE(2013)59345",
+  "nim_celex": "72011L0093LTU_211080",
+  "nim_id": "211080",
+  "transposes_celex": [
+    "32011L0093",
+    "32012L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/61bb832f-ead9-4def-b4f0-6d9436087fae",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
