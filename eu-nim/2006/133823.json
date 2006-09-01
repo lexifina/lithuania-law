@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos transporto veiklos pagrindų įstatymo 1 straipsnio, trečiojo skirsnio pavadinimo, 20, 21, 22, 23, 25 straipsnių pakeitimo, įstatymo papildymo 19(1) straipsniu bei Įstatymo priedo pakeitimo ir papildymo ĮSTATYMAS Nr.X-747",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "82",
+  "official_journal_page": null,
+  "official_journal_date": "2006-07-27",
+  "entry_into_force": "2006-09-01",
+  "notification_date": "2006-08-01",
+  "commission_reference": "MNE(2006)54857",
+  "nim_celex": "72004L0082LTU_133823",
+  "nim_id": "133823",
+  "transposes_celex": [
+    "32004L0082"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6eaf9276-218f-40e5-960e-6d9d2f33ba4d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
