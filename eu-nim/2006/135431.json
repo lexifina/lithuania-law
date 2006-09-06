@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2006 m. rugpjūčio 28 d. įsakymas Nr. 3-334 „Dėl kelių transporto priemonių kroviniams ir keleiviams vežti vairuotojų pradinės kvalifikacijos suteikimo bei periodinio mokymo sąlygų ir tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "94",
+  "official_journal_page": null,
+  "official_journal_date": "2006-09-05",
+  "entry_into_force": "2006-09-06",
+  "notification_date": "2006-09-18",
+  "commission_reference": "MNE(2006)56065",
+  "nim_celex": "72003L0059LTU_135431",
+  "nim_id": "135431",
+  "transposes_celex": [
+    "32003L0059",
+    "32004L0066"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/973ee35f-382d-4c95-b717-c21b14b525f4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
