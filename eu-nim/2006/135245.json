@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2006 m. rugpjūčio 30 d. įsakymas Nr. V-732 \"Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2002 m. gegužės 27 d. įsakymo Nr. 239 \"Dėl Lietuvos higienos normos HN 36:2002 \"Draudžiamos ir ribojamos medžiagos\" patvirtinimo\" pakeitimo ir Lietuvos Respublikos sveikatos apsaugos ministro 2004 m. birželio 9 d. įsakymo Nr. V-431 \"Dėl ftalatų ribojimo vaikų priežiūros priemonėse\" pripažinimo netekusiu galios\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "95",
+  "official_journal_page": null,
+  "official_journal_date": "2006-09-09",
+  "entry_into_force": "2006-09-10",
+  "notification_date": "2006-09-12",
+  "commission_reference": "MNE(2006)55931",
+  "nim_celex": "72005L0084LTU_135245",
+  "nim_id": "135245",
+  "transposes_celex": [
+    "32005L0084"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b0e848d5-eae8-4440-a410-fa148558391f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
