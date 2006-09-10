@@ -1,0 +1,26 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro, Lietuvos Respublikos ūkio ministro ir Lietuvos Respublikos susisiekimo ministro 2006 m. rugpjūčio 31 d. įsakymas Nr. D1-399/4-336/3-340 \"Dėl Lietuvos Respublikoje vartojamų naftos produktų, biodegalų ir skystojo kuro privalomųjų kokybės rodiklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "95",
+  "official_journal_page": null,
+  "official_journal_date": "2006-09-09",
+  "entry_into_force": "2006-09-10",
+  "notification_date": "2009-01-07",
+  "commission_reference": "MNE(2009)50049",
+  "nim_celex": "71987L0219LTU_159874",
+  "nim_id": "159874",
+  "transposes_celex": [
+    "31987L0219",
+    "31993L0012",
+    "31998L0070",
+    "32000L0071",
+    "32003L0017"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/dc53f7e6-7801-4190-a68d-d8f542bcc4f6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
