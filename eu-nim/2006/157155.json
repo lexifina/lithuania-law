@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Viešosios įstaigos Lietuvos Respublikos apskaitos instituto direktoriaus 2006 m. rugsėjo 6 d. įsakymas Nr. VAS-9 „Dėl 19-ojo verslo apskaitos standarto „Atidėjimai, neapibrėžtieji įsipareigojimai ir turtas bei pobalansiniai įvykiai“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "95",
+  "official_journal_page": null,
+  "official_journal_date": "2006-09-09",
+  "entry_into_force": "2006-09-10",
+  "notification_date": "2008-07-23",
+  "commission_reference": "MNE(2008)54224",
+  "nim_celex": "72006L0046LTU_157155",
+  "nim_id": "157155",
+  "transposes_celex": [
+    "32006L0046"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2e2d67e0-7759-451c-96d6-1b6c5e82c9eb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
