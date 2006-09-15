@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2006 m. rugsėjo 11 d. nutarimas Nr. 873 „Dėl Lietuvos Respublikos Vyriausybės 2000 m. lapkričio 8 d. nutarimo Nr. 1386 „Dėl Pavojingų Lietuvos ūkio objektų registro reorganizavimo į Valstybinės reikšmės ir pavojingų objektų registrą“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "97",
+  "official_journal_page": null,
+  "official_journal_date": "2006-09-14",
+  "entry_into_force": "2006-09-15",
+  "notification_date": "2007-08-28",
+  "commission_reference": "MNE(2007)56314",
+  "nim_celex": "71996L0082LTU_148267",
+  "nim_id": "148267",
+  "transposes_celex": [
+    "31996L0082"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/aa3abce4-2994-4442-b89a-4555cf3bec8b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
