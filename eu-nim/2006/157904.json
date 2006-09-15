@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Civilinės aviacijos administracijos direktoriaus 2006 m. rugsėjo 12 d. įsakymas Nr. 4R-178 „Dėl sveikatos pažymėjimų išdavimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "97",
+  "official_journal_page": null,
+  "official_journal_date": "2006-09-14",
+  "entry_into_force": "2006-09-15",
+  "notification_date": "2008-09-05",
+  "commission_reference": "MNE(2008)54954",
+  "nim_celex": "72006L0023LTU_157904",
+  "nim_id": "157904",
+  "transposes_celex": [
+    "32006L0023"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1d4d09b7-b535-4236-a237-19b9d0ff9b21",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
