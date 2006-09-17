@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2006 m. rugsėjo 8 d. įsakymas Nr. V-748 „Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2004 m. vasario 20 d. įsakymo Nr. V-78 „Dėl Kraujo ir kraujo komponentų įvežimo į Lietuvos Respubliką ir išvežimo iš jos sąlygų bei tvarkos patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "98",
+  "official_journal_page": null,
+  "official_journal_date": "2006-09-16",
+  "entry_into_force": "2006-09-17",
+  "notification_date": "2006-09-20",
+  "commission_reference": "MNE(2006)56095",
+  "nim_celex": "72005L0061LTU_135470",
+  "nim_id": "135470",
+  "transposes_celex": [
+    "32005L0061"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c04b91fb-6024-4488-8929-52b2e94ebb3b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
