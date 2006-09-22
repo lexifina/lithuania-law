@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro 2006 m. rugsėjo 14 d. įsakymas Nr.4-342 \"Dėl ilgalaikių sandorių, susijusių su eksportu, draudimo tvarkos aprašo patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "100",
+  "official_journal_page": null,
+  "official_journal_date": "2006-09-21",
+  "entry_into_force": "2006-09-22",
+  "notification_date": "2006-09-22",
+  "commission_reference": "MNE(2006)56207",
+  "nim_celex": "71998L0029LTU_135647",
+  "nim_id": "135647",
+  "transposes_celex": [
+    "31998L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/42585123-6f27-468d-ae1d-70e849d2cad3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
