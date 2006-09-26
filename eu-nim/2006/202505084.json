@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos valstybės politikų elgesio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Valstybės politikų elgesio kodeksas Nr. X-816",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "102-3938",
+  "official_journal_page": null,
+  "official_journal_date": "2006-09-26",
+  "entry_into_force": "2006-09-26",
+  "notification_date": "2025-09-18",
+  "commission_reference": "MNE(2025)05084",
+  "nim_celex": "72016L0343LTU_202505084",
+  "nim_id": "202505084",
+  "transposes_celex": [
+    "32016L0343"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7cb78d79-f247-4258-8230-85ca5fcb563f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
