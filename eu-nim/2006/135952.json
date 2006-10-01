@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2006 m. rugsėjo 26 d. įsakymas Nr. V-792 ,,Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2001 m. vasario 8 d. įsakymo Nr. 101 „Dėl Lietuvos medicinos normos MN 4:2001 „Medicinos prietaisų saugos techninis reglamentas“ ir medicinos normos MN 100:2001 „Aktyviųjų implantuojamųjų medicinos prietaisų saugos techninis reglamentas“ patvirtinimo“ taikymo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "105",
+  "official_journal_page": null,
+  "official_journal_date": "2006-09-30",
+  "entry_into_force": "2006-10-01",
+  "notification_date": "2006-10-17",
+  "commission_reference": "MNE(2006)56430",
+  "nim_celex": "72005L0050LTU_135952",
+  "nim_id": "135952",
+  "transposes_celex": [
+    "32005L0050"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f5048dd2-933c-4b84-9d1c-48621e95d6bb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
