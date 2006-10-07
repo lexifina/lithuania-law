@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2006 m. spalio 2 d. įsakymas Nr. 3-378 „Dėl Lietuvos Respublikos susisiekimo ministro 2003 m. vasario 20 d. įsakymo Nr. 3-79 „Dėl geležinkelių transporto eismo įvykių tyrimo ir jų padarinių likvidavimo nuostatų patvirtinimo“ ir Lietuvos Respublikos susisiekimo ministro 2006 m. liepos 17 d. įsakymo Nr. 3-297 „Dėl reikalavimų geležinkelių transporto eismo saugos valdymo sistemoms patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "107",
+  "official_journal_page": null,
+  "official_journal_date": "2006-10-06",
+  "entry_into_force": "2006-10-07",
+  "notification_date": "2006-10-17",
+  "commission_reference": "MNE(2006)56563",
+  "nim_celex": "72004L0049LTU_136129",
+  "nim_id": "136129",
+  "transposes_celex": [
+    "32004L0049"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/705aba1d-667f-430c-aee7-ece40a6bb387",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
