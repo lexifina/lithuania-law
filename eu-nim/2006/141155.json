@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2006 m. rugsėjo 28 d. nutarimas Nr. 121 „Dėl finansinės atskaitomybės“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "108",
+  "official_journal_page": null,
+  "official_journal_date": "2006-10-11",
+  "entry_into_force": "2006-10-12",
+  "notification_date": "2007-02-06",
+  "commission_reference": "MNE(2007)51065",
+  "nim_celex": "71983L0349LTU_141155",
+  "nim_id": "141155",
+  "transposes_celex": [
+    "31983L0349"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/22cc7763-92c0-466c-afc3-c43d3a8113ec",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
