@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2006 m. spalio 5 d. nutarimas Nr. 975 „Dėl Lietuvos Respublikos Vyriausybės 2002 m. gruodžio 11 d. nutarimo Nr. 1950 „Dėl kelių eismo taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "108",
+  "official_journal_page": null,
+  "official_journal_date": "2006-10-11",
+  "entry_into_force": "2006-10-12",
+  "notification_date": "2006-10-17",
+  "commission_reference": "MNE(2006)56728",
+  "nim_celex": "72003L0020LTU_136360",
+  "nim_id": "136360",
+  "transposes_celex": [
+    "32003L0020"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ef0d102c-df72-4534-b626-901adda99e2b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
