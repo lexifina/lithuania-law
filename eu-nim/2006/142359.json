@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybės sienos apsaugos tarnybos prie Lietuvos Respublikos Vidaus reikalų ministerijos vado 2006 m. spalio 6 d. įsakymas Nr. 4-505 \"Dėl asmenų, vykstančių per valstybės sieną, kelionės dokumentų žymėjimo ir dokumentų tikrinimo instrukcijų patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "109",
+  "official_journal_page": null,
+  "official_journal_date": "2006-10-12",
+  "entry_into_force": "2006-10-13",
+  "notification_date": "2007-03-05",
+  "commission_reference": "MNE(2007)52013",
+  "nim_celex": "72004L0038LTU_142359",
+  "nim_id": "142359",
+  "transposes_celex": [
+    "32004L0038"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/eaa5d562-ee4e-4589-8a72-3be3afe2df77",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
