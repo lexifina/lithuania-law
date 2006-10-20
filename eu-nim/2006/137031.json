@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2006 M. SPALIO 10 D. ĮSAKYMAS NR. D1-452 \"DĖL GENETIŠKAI MODIFIKUOTŲ ORGANIZMŲ KONTROLINIŲ MĖGINIŲ ĖMIMO IŠ APLINKOS TAISYKLIŲ PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "111",
+  "official_journal_page": null,
+  "official_journal_date": "2006-10-19",
+  "entry_into_force": "2006-10-20",
+  "notification_date": "2006-10-27",
+  "commission_reference": "MNE(2006)57197",
+  "nim_celex": "72001L0018LTU_137031",
+  "nim_id": "137031",
+  "transposes_celex": [
+    "32001L0018"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/95a0c434-801a-44d7-bcfa-d953ebf947c7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
