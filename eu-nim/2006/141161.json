@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2006 m. spalio 19 d. nutarimas Nr. 132 „Dėl Kredito įstaigų nemokumo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "113",
+  "official_journal_page": null,
+  "official_journal_date": "2006-10-24",
+  "entry_into_force": "2006-10-25",
+  "notification_date": "2007-02-07",
+  "commission_reference": "MNE(2007)51071",
+  "nim_celex": "71993L0006LTU_141161",
+  "nim_id": "141161",
+  "transposes_celex": [
+    "31993L0006"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cc508790-3c2d-4acb-9176-2305094cc35b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
