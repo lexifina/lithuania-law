@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2006 M. SPALIO 18 D. ĮSAKYMAS NR. D1-473 \"DĖL LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2004 M. GEGUŽĖS 3 D. ĮSAKYMO NR. D1-239 „DĖL DETALIŲJŲ PLANŲ RENGIMO TAISYKLIŲ PATVIRTINIMO“ PAKEITIMO\" (NAUJA REDAKCIJA)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "114",
+  "official_journal_page": null,
+  "official_journal_date": "2006-10-26",
+  "entry_into_force": "2006-10-27",
+  "notification_date": "2008-06-03",
+  "commission_reference": "MNE(2008)53041",
+  "nim_celex": "72001L0042LTU_155918",
+  "nim_id": "155918",
+  "transposes_celex": [
+    "32001L0042"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ac98be90-60d8-4886-9e71-a37b7600e7cf",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
