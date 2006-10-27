@@ -1,0 +1,12 @@
+Įstatymas skelbtas: Žin.,
+2006, Nr. 82-3248
+Neoficialus įstatymo tekstas
+LIETUVOS RESPUBLIKOS
+PROFESINIŲ PENSIJŲ KAUPIMO
+ĮSTATYMAS
+2006 m. liepos 4 d. Nr. X-745
+Vilnius
+PIRMASIS
+SKIRSNIS
+BENDROSIOS
+NUOSTATOS
