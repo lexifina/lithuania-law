@@ -1,0 +1,25 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos profesinių pensijų kaupimo įstatymas Nr. X-745",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "82",
+  "official_journal_page": null,
+  "official_journal_date": "2006-07-27",
+  "entry_into_force": "2006-10-27",
+  "notification_date": "2006-08-07",
+  "commission_reference": "MNE(2006)55061",
+  "nim_celex": "71980L0987LTU_134076",
+  "nim_id": "134076",
+  "transposes_celex": [
+    "31980L0987",
+    "31986L0378",
+    "31996L0097",
+    "31998L0049"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b66d4d6d-14dd-484a-b94b-1aa28b8034bd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
