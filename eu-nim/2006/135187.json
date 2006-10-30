@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės metrologijos tarnybos prie Lietuvos Respublikos aplinkos ministerijos direktoriaus 2006m. liepos 28 d. įsakymas Nr.V-96 \"Dėl matavimo priemonių teisinio metrologinio reglamentavimo taisyklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "86",
+  "official_journal_page": null,
+  "official_journal_date": "2006-08-05",
+  "entry_into_force": "2006-10-30",
+  "notification_date": "2006-09-11",
+  "commission_reference": "MNE(2006)55883",
+  "nim_celex": "72004L0022LTU_135187",
+  "nim_id": "135187",
+  "transposes_celex": [
+    "32004L0022"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ec612542-9094-4f61-acae-0d60fba2aaac",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
