@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo 2, 4, 11, 12, 14, 15, 16, 17, 22, 38, 40, 42, 43, 44, 45, 46, 47, 51, 53, 54, 56, 57, 61, 65, 72 straipsnių, VI skyriaus ir priedo pakeitimo ir papildymo ĮSTATYMAS Nr. X-855",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "116",
+  "official_journal_page": null,
+  "official_journal_date": "2006-10-31",
+  "entry_into_force": "2006-10-31",
+  "notification_date": "2006-10-31",
+  "commission_reference": "MNE(2006)57376",
+  "nim_celex": "72004L0048LTU_137261",
+  "nim_id": "137261",
+  "transposes_celex": [
+    "32004L0048"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1e1c0010-5d5a-4a8a-87fa-433eeacc3cd1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
