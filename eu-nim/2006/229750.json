@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos draudimo priežiūros komisijos 2006 m. spalio 24 d.  nutarimas  Nr. N-97  „Dėl Lietuvos Respublikos Draudimo priežiūros komisijos 2004 m. kovo 23 d. nutarimo Nr. N-33 „Dėl gyvybės draudimo šakos ir ne gyvybės draudimo šakos draudimo grupių aprašymo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "116",
+  "official_journal_page": null,
+  "official_journal_date": "2006-10-31",
+  "entry_into_force": "2006-11-01",
+  "notification_date": "2015-09-23",
+  "commission_reference": "MNE(2015)56499",
+  "nim_celex": "72009L0138LTU_229750",
+  "nim_id": "229750",
+  "transposes_celex": [
+    "32009L0138"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7dcdb269-5d4c-43c1-887d-c1632c71b9ae",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
