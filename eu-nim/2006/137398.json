@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos augalų veislių apsaugos įstatymo 1, 2, 4, 5, 18, 19, 24, 26, 29, 37 straipsnių, dešimtojo skirsnio pakeitimo ir papildymo ir Įstatymo papildymo priedu ĮSTATYMAS Nr. X-862",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "118",
+  "official_journal_page": null,
+  "official_journal_date": "2006-11-04",
+  "entry_into_force": "2006-11-04",
+  "notification_date": "2006-11-06",
+  "commission_reference": "MNE(2006)57487",
+  "nim_celex": "72004L0048LTU_137398",
+  "nim_id": "137398",
+  "transposes_celex": [
+    "32004L0048",
+    "32008L0090"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cc429fdf-0bc3-46a2-a891-c60b2afde261",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
