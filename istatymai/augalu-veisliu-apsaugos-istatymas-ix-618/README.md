@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2002-04-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/19239601e94571a9442d8baa26781cead17d9983/istatymai/TAR.7DE5B8AD5D5B.md) |
+| 2006-11-04 | 2010-10-01 | Įstatymas Nr. X-862 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/b241f91bc17c17014b8971d475c4ca80173b6cad/istatymai/TAR.7DE5B8AD5D5B.md) |
