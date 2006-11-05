@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2006 M. SPALIO 30 D. ĮSAKYMAS NR. D1-501 \"DĖL INFORMACIJOS, REIKALINGOS ATASKAITŲ RENGIMUI PAGAL 1992 M. GEGUŽĖS 21 D. TARYBOS DIREKTYVOS 92/43/EEB DĖL NATŪRALIŲ BUVEINIŲ IR LAUKINĖS FAUNOS BEI FLOROS APSAUGOS IR 1979 M. BALANDŽIO 2 D. TARYBOS DIREKTYVOS 79/409/EEB DĖL LAUKINIŲ PAUKŠČIŲ APSAUGOS REIKALAVIMUS, SURINKIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "118",
+  "official_journal_page": null,
+  "official_journal_date": "2006-11-04",
+  "entry_into_force": "2006-11-05",
+  "notification_date": "2006-11-09",
+  "commission_reference": "MNE(2006)57556",
+  "nim_celex": "71979L0409LTU_137497",
+  "nim_id": "137497",
+  "transposes_celex": [
+    "31979L0409",
+    "31992L0043"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b6b07cb3-520a-4fcf-bb4c-ffc10e881770",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
