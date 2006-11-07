@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žmogaus audinių, ląstelių ir organų donorystės ir transplantacijos įstatymo 1, 2, 3, 4, 9, 10, 11 straipsnių pakeitimo ir Įstatymo papildymo 2(1), 5(1) straipsniais ir priedu įstatymas Nr. X-867",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "119",
+  "official_journal_page": null,
+  "official_journal_date": "2006-11-07",
+  "entry_into_force": "2006-11-07",
+  "notification_date": "2006-11-07",
+  "commission_reference": "MNE(2006)57530",
+  "nim_celex": "72004L0023LTU_137460",
+  "nim_id": "137460",
+  "transposes_celex": [
+    "32004L0023"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2801fbd2-2513-4413-b3b4-1c7f4d1afa5d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
