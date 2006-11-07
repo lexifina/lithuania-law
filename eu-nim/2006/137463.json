@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių teisės pažeidimų kodekso papildymo 50(8) straipsniu ir 224, 259(1) straipsnių pakeitimo ĮSTATYMAS Nr. X-877",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "119",
+  "official_journal_page": null,
+  "official_journal_date": "2006-11-07",
+  "entry_into_force": "2006-11-07",
+  "notification_date": "2006-11-07",
+  "commission_reference": "MNE(2006)57533",
+  "nim_celex": "72004L0048LTU_137463",
+  "nim_id": "137463",
+  "transposes_celex": [
+    "32004L0048"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/70f4bcec-30ff-4dd0-84f1-6dd63658fe1e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
