@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2006 m. spalio 9 d. įsakymas Nr. D1-449 „Dėl transporto priemonių su uždegimo suspaudimu varikliais išmetamų dujinių teršalų bei kietųjų dalelių kiekių, taip pat transporto priemonių su priverstinio uždegimo varikliais, degalams naudojančių gamtines dujas ir suskystintas naftos dujas, išmetamų dujinių teršalų kiekių mažinimo priemonių tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "119",
+  "official_journal_page": null,
+  "official_journal_date": "2006-11-07",
+  "entry_into_force": "2006-11-08",
+  "notification_date": "2008-09-04",
+  "commission_reference": "MNE(2008)54987",
+  "nim_celex": "72006L0038LTU_157937",
+  "nim_id": "157937",
+  "transposes_celex": [
+    "32006L0038"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/703ea711-ef8d-43bb-ab50-a388fd549157",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
