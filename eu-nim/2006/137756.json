@@ -1,0 +1,33 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2006 M. SPALIO 31 D. ĮSAKYMAS NR. D1-503",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "120",
+  "official_journal_page": null,
+  "official_journal_date": "2006-11-09",
+  "entry_into_force": "2006-11-10",
+  "notification_date": "2006-11-15",
+  "commission_reference": "MNE(2006)57759",
+  "nim_celex": "71975L0439LTU_137756",
+  "nim_id": "137756",
+  "transposes_celex": [
+    "31975L0439",
+    "31984L0360",
+    "31988L0609",
+    "31991L0157",
+    "31991L0271",
+    "31993L0086",
+    "31994L0067",
+    "31996L0059",
+    "31996L0061",
+    "31996L0062",
+    "31999L0031",
+    "32000L0060"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1f08d8b2-81c9-44b4-830b-4e3de05f1230",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
