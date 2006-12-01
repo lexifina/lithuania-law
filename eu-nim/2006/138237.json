@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 2006 M. LAPKRIČIO 24 D. NUTARIMAS NR. 1168 \"DĖL APMOKESTINAMŲJŲ GAMINIŲ IR PAKUOČIŲ ATLIEKŲ NAUDOJIMO IR (AR) PERDIRBIMO 2007–2012 METŲ UŽDUOČIŲ PATVIRTINIMO\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "130",
+  "official_journal_page": null,
+  "official_journal_date": "2006-11-30",
+  "entry_into_force": "2006-12-01",
+  "notification_date": "2006-11-30",
+  "commission_reference": "MNE(2006)58079",
+  "nim_celex": "72005L0020LTU_138237",
+  "nim_id": "138237",
+  "transposes_celex": [
+    "32005L0020"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9a83326a-95c1-41d0-a3e2-fdc05f681403",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
