@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2006 m. lapkričio 24 d. nutarimas Nr. 1168 „Dėl apmokestinamųjų gaminių ir pakuočių atliekų naudojimo ir (ar) perdirbimo užduočių patvirtinimo“ (suvestinė redakcija nuo 2017-12-23)",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "130-4897",
+  "official_journal_page": null,
+  "official_journal_date": "2006-11-30",
+  "entry_into_force": "2006-12-01",
+  "notification_date": "2020-11-30",
+  "commission_reference": "MNE(2020)58219",
+  "nim_celex": "72018L0851LTU_290146",
+  "nim_id": "290146",
+  "transposes_celex": [
+    "32018L0851"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/dda4f9be-6f1a-4970-beab-540d4e2adb15",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
