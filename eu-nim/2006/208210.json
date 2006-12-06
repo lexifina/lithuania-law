@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2006 m. lapkričio 30 d. nutarimas Nr. 1191 \"Dėl Farmacinės veiklos licencijavimo taisyklių, Reikalavimų kvalifikuotam asmeniui, atsakingam už gamybą ir (ar) importą, aprašo ir farmacinės veiklos licencijų formų patvirtinimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "132",
+  "official_journal_page": null,
+  "official_journal_date": "2006-12-05",
+  "entry_into_force": "2006-12-06",
+  "notification_date": "2013-07-31",
+  "commission_reference": "MNE(2013)57147",
+  "nim_celex": "72011L0062LTU_208210",
+  "nim_id": "208210",
+  "transposes_celex": [
+    "32011L0062"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2cb62d49-8499-4ec3-b8f9-08f6cf1a26fc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
