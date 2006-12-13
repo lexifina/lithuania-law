@@ -1,0 +1,27 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2006 m. gruodžio 4 d. įsakymas Nr. D1-564 „Dėl Lietuvos Respublikos aplinkos ministro 2002 m. gruodžio 31 d. įsakymo Nr. 699 „Dėl Atliekų deginimo aplinkosauginių reikalavimų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "135",
+  "official_journal_page": null,
+  "official_journal_date": "2006-12-12",
+  "entry_into_force": "2006-12-13",
+  "notification_date": "2006-12-27",
+  "commission_reference": "MNE(2006)58954",
+  "nim_celex": "71975L0439LTU_139382",
+  "nim_id": "139382",
+  "transposes_celex": [
+    "31975L0439",
+    "31989L0369",
+    "31989L0429",
+    "31994L0067",
+    "32000L0076",
+    "32010L0075"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ece92b97-56e5-48db-9661-727f7ae38f9b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
