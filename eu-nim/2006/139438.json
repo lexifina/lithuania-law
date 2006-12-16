@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS ĮSTATYMO „DĖL UŽSIENIEČIŲ TEISINĖS PADĖTIES“ 2, 6, 7, 8, 11, 17, 18, 21, 25, 26, 28, 33, 34, 35, 40, 43, 46, 50, 51, 53, 54, 55, 56, 64, 79, 88, 90, 93, 97, 99, 100, 101, 102, 104, 106, 113, 115, 127, 130, 131, 132, 136, 138, 140 STRAIPSNIŲ PAKEITIMO, ĮSTATYMO PAPILDYMO 49(1), 101(1), 140(1) STRAIPSNIAIS, 30, 105 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS, X SKYRIAUS PAVADINIMO PAKEITIMO BEI ĮSTATYMO PRIEDO PAKEITIMO IR PAPILDYMO\nĮSTATYMAS NR. X-924",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "137",
+  "official_journal_page": null,
+  "official_journal_date": "2006-12-16",
+  "entry_into_force": "2006-12-16",
+  "notification_date": "2006-12-27",
+  "commission_reference": "MNE(2006)58983",
+  "nim_celex": "72004L0114LTU_139438",
+  "nim_id": "139438",
+  "transposes_celex": [
+    "32004L0114"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fcddb25d-c4b6-4203-8222-7b963f041bcc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
