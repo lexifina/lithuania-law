@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Įstatymo „Dėl užsieniečių teisinės padėties“ 2, 6, 7, 8, 11, 17, 18, 21, 25, 26, 28, 33, 34, 35, 40, 43, 46, 50, 51, 53, 54, 55, 56, 64, 79, 88, 90, 93, 97, 99, 100, 101, 102, 104, 106, 113, 115, 127, 130, 131, 132, 136, 138, 140 straipsnių pakeitimo, įstatymo papildymo 49(1), 101(1), 140(1) straipsniais, 30, 105 straipsnių pripažinimo netekusiais galios, X skyriaus pavadinimo pakeitimo bei Įstatymo priedo pakeitimo ir papildymo įstatymas Nr. X-924",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "137",
+  "official_journal_page": null,
+  "official_journal_date": "2006-12-16",
+  "entry_into_force": "2006-12-16",
+  "notification_date": "2012-08-08",
+  "commission_reference": "MNE(2012)53715",
+  "nim_celex": "72009L0052LTU_194896",
+  "nim_id": "194896",
+  "transposes_celex": [
+    "32009L0052"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9ea61e6b-03e6-4a61-b098-54d67af07044",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
