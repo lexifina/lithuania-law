@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS RINKLIAVŲ ĮSTATYMO 4 IR 6 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS NR. X-925",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "137",
+  "official_journal_page": null,
+  "official_journal_date": "2006-12-16",
+  "entry_into_force": "2006-12-16",
+  "notification_date": "2006-12-27",
+  "commission_reference": "MNE(2006)58985",
+  "nim_celex": "72004L0114LTU_139440",
+  "nim_id": "139440",
+  "transposes_celex": [
+    "32004L0114"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/be9e46d5-db23-44c0-aa52-40c04fa1b4de",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
