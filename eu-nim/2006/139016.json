@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2006 m. gruodžio 15 d. įsakymas Nr. 1V-1328 \"Dėl elektromagnetinio suderinamumo techninio reglamento patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "138",
+  "official_journal_page": null,
+  "official_journal_date": "2006-12-19",
+  "entry_into_force": "2006-12-20",
+  "notification_date": "2006-12-21",
+  "commission_reference": "MNE(2006)58661",
+  "nim_celex": "72004L0108LTU_139016",
+  "nim_id": "139016",
+  "transposes_celex": [
+    "32004L0108"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d4419f1b-898f-459f-9d41-2eaeeff27ee7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
