@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo 1, 4 straipsnių papildymo ir pakeitimo ir įstatymo papildymo priedu įstatymas Nr. X-961",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "141",
+  "official_journal_page": null,
+  "official_journal_date": "2006-12-28",
+  "entry_into_force": "2006-12-28",
+  "notification_date": "2007-03-05",
+  "commission_reference": "MNE(2007)52011",
+  "nim_celex": "72004L0038LTU_142357",
+  "nim_id": "142357",
+  "transposes_celex": [
+    "32004L0038"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c366144c-7a60-48dc-a4b9-232ff0b954dc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
