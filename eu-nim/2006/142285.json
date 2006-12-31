@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "STATISTIKOS DEPARTAMENTO PRIE LIETUVOS RESPUBLIKOS VYRIAUSYBĖS GENERALINIO  DIREKTORIAUS 2006 M. GRUODŽIO 15 D. ĮSAKYMAS NR. DĮ-251 \"DĖL VIETINIO TURIZMO ANKETOS FORMOS PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "145",
+  "official_journal_page": null,
+  "official_journal_date": "2006-12-30",
+  "entry_into_force": "2006-12-31",
+  "notification_date": "2007-03-01",
+  "commission_reference": "MNE(2007)51953",
+  "nim_celex": "72006L0110LTU_142285",
+  "nim_id": "142285",
+  "transposes_celex": [
+    "32006L0110"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f2973c58-e217-4536-a86d-52a1f7a1352d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
