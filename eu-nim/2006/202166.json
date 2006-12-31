@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2006 m. gruodžio 22 d. nutarimas Nr. 1330 \"Dėl valstybinės smurto prieš moteris mažinimo strategijos ir jos įgyvendinimo priemonių 2007-2009 metų plano patvirtinimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "144",
+  "official_journal_page": null,
+  "official_journal_date": "2006-12-30",
+  "entry_into_force": "2006-12-31",
+  "notification_date": "2013-03-18",
+  "commission_reference": "MNE(2013)51955",
+  "nim_celex": "72012L0029LTU_202166",
+  "nim_id": "202166",
+  "transposes_celex": [
+    "32012L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2015a47a-8fda-4973-ae9a-26cf2863327d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
