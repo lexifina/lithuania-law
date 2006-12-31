@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2006 m. gruodžio 28 d. nutarimas Nr. 1355 „Dėl Lietuvos Respublikos Vyriausybės 2006 m. gegužės 4 d. nutarimo Nr. 415 „Dėl Lietuvos Respublikos nacionalinio ryšių palaikymo punkto, skirto keistis informacija apie nelegalią migraciją, paskyrimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "144",
+  "official_journal_page": null,
+  "official_journal_date": "2006-12-30",
+  "entry_into_force": "2006-12-31",
+  "notification_date": "2015-03-05",
+  "commission_reference": "MNE(2015)51268",
+  "nim_celex": "72002F0946LTU_224095",
+  "nim_id": "224095",
+  "transposes_celex": [
+    "32002F0946"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/67c61364-2417-4ab1-9585-898cfb599168",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
