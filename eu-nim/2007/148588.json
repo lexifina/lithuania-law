@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos valstybinės maisto ir veterinarijos tarnybos direktoriaus 2006 m. gruodžio 22 d.  įsakymas Nr. B1-836 “Dėl Valstybinės maisto ir veterinarijos tarnybos direktoriaus 2003 m. gruodžio 23 d. įsakymo Nr. B1-989 „Dėl reikalavimų veterinarijos gydytojų profesiniam rengimui ir diplomų, pažymėjimų ir kitų veterinarijos gydytojo kvalifikaciją patvirtinančių dokumentų pripažinimo taisyklių patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "1",
+  "official_journal_page": null,
+  "official_journal_date": "2007-01-04",
+  "entry_into_force": "2007-01-01",
+  "notification_date": "2007-09-05",
+  "commission_reference": "MNE(2007)56568",
+  "nim_celex": "72006L0100LTU_148588",
+  "nim_id": "148588",
+  "transposes_celex": [
+    "32006L0100"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5b610647-97ea-4f3d-aa4b-1bf87a679590",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
