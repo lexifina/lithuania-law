@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2007 m. birželio 22 d. įsakymas Nr.  V-534\n,,Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2001 m. gruodžio 22 d. įsakymo Nr.  666 „Dėl Lietuvos higienos normos HN 107:2001 „Specialios paskirties maisto produktai“ patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "74",
+  "official_journal_page": null,
+  "official_journal_date": "2007-07-05",
+  "entry_into_force": "2007-01-01",
+  "notification_date": "2007-08-06",
+  "commission_reference": "MNE(2007)55581",
+  "nim_celex": "72007L0026LTU_147167",
+  "nim_id": "147167",
+  "transposes_celex": [
+    "32007L0026"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/22662997-9045-4a44-83eb-beb5aa0777d6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
