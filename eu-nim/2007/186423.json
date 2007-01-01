@@ -1,0 +1,20 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos viešojo administravimo įstatymo pakeitimo įstatymas Nr. X-736",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "77",
+  "official_journal_page": null,
+  "official_journal_date": "2006-07-14",
+  "entry_into_force": "2007-01-01",
+  "notification_date": "2011-09-19",
+  "commission_reference": "MNE(2011)56775",
+  "nim_celex": "72009L0050LTU_186423",
+  "nim_id": "186423",
+  "transposes_celex": [],
+  "cellar": "http://publications.europa.eu/resource/cellar/ad634779-94ed-4bdc-8939-c988bf5b8975",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
