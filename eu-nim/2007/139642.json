@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2006 m. lapkričio 9 d. nutarimas Nr. 139 „Dėl Išorinių kredito rizikos vertinimo institucijų pripažinimo tvarkos“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "142",
+  "official_journal_page": null,
+  "official_journal_date": "2006-12-29",
+  "entry_into_force": "2007-01-01",
+  "notification_date": "2006-12-29",
+  "commission_reference": "MNE(2006)59171",
+  "nim_celex": "72006L0048LTU_139642",
+  "nim_id": "139642",
+  "transposes_celex": [
+    "32006L0048",
+    "32009L0111",
+    "32010L0076"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/71cce7ce-4c61-4b02-9301-9213c988b2d4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
