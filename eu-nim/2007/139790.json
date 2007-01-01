@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2006 m. lapkričio 23 d. nutarimas Nr. 145 „Dėl Vidaus kapitalo pakankamumo vertinimo proceso bendrųjų nuostatų ir priežiūrinio tikrinimo ir vertinimo proceso bendrųjų nuostatų patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "143",
+  "official_journal_page": null,
+  "official_journal_date": "2006-12-30",
+  "entry_into_force": "2007-01-01",
+  "notification_date": "2007-01-02",
+  "commission_reference": "MNE(2007)50031",
+  "nim_celex": "72006L0049LTU_139790",
+  "nim_id": "139790",
+  "transposes_celex": [
+    "32006L0049"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/17885b65-1fbf-4a3b-be21-41b5ef713214",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
