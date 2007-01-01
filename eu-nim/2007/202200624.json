@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2006 m. gruodžio 7 d. nutarimas Nr. 153 „Dėl Finansinės grupės jungtinės (konsoliduotos) priežiūros taisyklių patvirtinimo“ (suvestinė redakcija nuo 2015-05-09 iki 2022-01-07)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "143-5461",
+  "official_journal_page": null,
+  "official_journal_date": "2006-12-30",
+  "entry_into_force": "2007-01-01",
+  "notification_date": "2022-03-08",
+  "commission_reference": "MNE(2022)00624",
+  "nim_celex": "72019L2034LTU_202200624",
+  "nim_id": "202200624",
+  "transposes_celex": [
+    "32019L2034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b3497ca5-a117-11ec-83e1-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
