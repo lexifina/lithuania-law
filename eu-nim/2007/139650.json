@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2006 m. lapkričio 9 d. nutarimas Nr. 140 „Dėl Patikimumo vertinimo ir jo tikrinimo nuostatų“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "142",
+  "official_journal_page": null,
+  "official_journal_date": "2006-12-29",
+  "entry_into_force": "2007-01-01",
+  "notification_date": "2006-12-29",
+  "commission_reference": "MNE(2006)59179",
+  "nim_celex": "72006L0049LTU_139650",
+  "nim_id": "139650",
+  "transposes_celex": [
+    "32006L0049"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/300b2efe-517d-4e2d-ab32-7f4be6bbe2f6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
