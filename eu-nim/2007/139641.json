@@ -1,0 +1,26 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2006 m. lapkričio 9 d. nutarimas Nr. 138 „Dėl Kapitalo pakankamumo skaičiavimo bendrųjų nuostatų“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "142",
+  "official_journal_page": null,
+  "official_journal_date": "2006-12-29",
+  "entry_into_force": "2007-01-01",
+  "notification_date": "2006-12-29",
+  "commission_reference": "MNE(2006)59170",
+  "nim_celex": "72006L0048LTU_139641",
+  "nim_id": "139641",
+  "transposes_celex": [
+    "32006L0048",
+    "32007L0018",
+    "32009L0083",
+    "32009L0111",
+    "32010L0076"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3e7cc5cf-ccdc-4921-81d8-5b6685dff772",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
