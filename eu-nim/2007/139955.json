@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro 2006 m. gruodžio 28 d. įsakymas Nr.4-496 \"Dėl Lietuvos Respublikos ūkio ministro 1999 m. gruodžio 29 d. įsakymo Nr. 440 \"Dėl tekstilės pavadinimų techninio reglamento ir tekstilės pluoštų mišinių kiekybinės analizės techninio reglamento patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "2",
+  "official_journal_page": null,
+  "official_journal_date": "2007-01-06",
+  "entry_into_force": "2007-01-07",
+  "notification_date": "2007-01-24",
+  "commission_reference": "MNE(2007)50134",
+  "nim_celex": "72006L0002LTU_139955",
+  "nim_id": "139955",
+  "transposes_celex": [
+    "32006L0002",
+    "32006L0003"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a08eeb07-c40d-442d-b548-2ad69d870803",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
