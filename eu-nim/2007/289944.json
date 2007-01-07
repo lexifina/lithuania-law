@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2006 m. gruodžio 28 d. įsakymas Nr. D1-618 „Dėl pakuočių surinkimo ir pakartotinio naudojimo užduočių nustatymo“ (suvestinė redakcija nuo 2012-09-15)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "2-108",
+  "official_journal_page": null,
+  "official_journal_date": "2007-01-06",
+  "entry_into_force": "2007-01-07",
+  "notification_date": "2020-11-18",
+  "commission_reference": "MNE(2020)58017",
+  "nim_celex": "72018L0852LTU_289944",
+  "nim_id": "289944",
+  "transposes_celex": [
+    "32018L0852"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d2ed3fa9-2b00-11eb-9d7e-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
