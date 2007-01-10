@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos direktoriaus 2006 m. gruodžio 29 d. įsakymas Nr. 1-528 „Dėl Lietuvos Respublikos pavojingų objektų tikrinimo programos patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "3",
+  "official_journal_page": null,
+  "official_journal_date": "2007-01-09",
+  "entry_into_force": "2007-01-10",
+  "notification_date": "2007-08-29",
+  "commission_reference": "MNE(2007)56347",
+  "nim_celex": "71996L0082LTU_148300",
+  "nim_id": "148300",
+  "transposes_celex": [
+    "31996L0082"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a0f88b22-d39f-4b1f-976b-61dace2e2153",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
