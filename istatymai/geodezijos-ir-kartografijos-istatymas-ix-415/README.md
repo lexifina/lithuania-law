@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2001-07-18 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/93efe906686c7150175e3bd21a06d1224b168c86/istatymai/TAR.EFE69222D6BC.md) |
+| 2007-01-11 | 2010-05-10 | Įstatymas Nr. X-1008 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/7699a9b0422a6bca4d1a7a9e06091a35bab443cd/istatymai/TAR.EFE69222D6BC.md) |
