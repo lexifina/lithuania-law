@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2006 M. GRUODŽIO 29 D. ĮSAKYMAS NR. D1-624 'DĖL APLINKOS MINISTRO 2002 M. BALANDŽIO 8 D. ĮSAKYMO NR. 160 „DĖL VALSTYBINIO APLINKOS MONITORINGO NUOSTATŲ PATVIRTINIMO“ PAKEITIMO IR APLINKOS MINISTRO 2002 M. KOVO 12 D. ĮSAKYMO NR. 106 „DĖL APLINKOS MONITORINGO DUOMENŲ FONDO NUOSTATŲ PATVIRTINIMO“ PRIPAŽINIMO NETEKUSIU GALIOS'",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "4",
+  "official_journal_page": null,
+  "official_journal_date": "2007-01-11",
+  "entry_into_force": "2007-01-12",
+  "notification_date": "2009-01-08",
+  "commission_reference": "MNE(2009)50048",
+  "nim_celex": "71991L0676LTU_159873",
+  "nim_id": "159873",
+  "transposes_celex": [
+    "31991L0676",
+    "32006L0118"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/caa88360-3013-4715-9f20-57007529bd85",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
