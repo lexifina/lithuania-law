@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2007 m. sausio 11 d. įsakymas Nr. 1V-30 \"Dėl Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2006 m. gruodžio 15 d. įsakymo Nr. 1V-1328 \"Dėl Elektromagnetinio suderinamumo techninio reglamento patvirtinimo\" papildymo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "5",
+  "official_journal_page": null,
+  "official_journal_date": "2007-01-13",
+  "entry_into_force": "2007-01-14",
+  "notification_date": "2007-01-22",
+  "commission_reference": "MNE(2007)50393",
+  "nim_celex": "72004L0108LTU_140275",
+  "nim_id": "140275",
+  "transposes_celex": [
+    "32004L0108"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/052a9849-abfc-4b0b-8d2b-090aa68793dd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
