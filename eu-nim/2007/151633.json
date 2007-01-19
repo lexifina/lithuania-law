@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2007 m. sausio 15 d. nutarimas Nr. 39 \"Dėl Lietuvos Respublikos Vyriausybės 2002 m. birželio 12 d. nutarimo Nr. 871 \"Dėl Rinkos kainos, pagal kurią mokesčio administratorius apskaičiuoja prekių ar paslaugų apmokestinamąją vertę savo sprendimu, nustatymo metodų ir jų taikymo tvarkos patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "7",
+  "official_journal_page": null,
+  "official_journal_date": "2007-01-18",
+  "entry_into_force": "2007-01-19",
+  "notification_date": "2007-12-11",
+  "commission_reference": "MNE(2007)58819",
+  "nim_celex": "72006L0069LTU_151633",
+  "nim_id": "151633",
+  "transposes_celex": [
+    "32006L0069"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e55c04ec-49d0-4e29-bba2-2a2284dfe33b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
