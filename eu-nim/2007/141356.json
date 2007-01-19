@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2007 M. SAUSIO 10 D. ĮSAKYMAS Nr. D1-22 \"DĖL APLINKOS MINISTRO 2000 M. RUGSĖJO 8 D. ĮSAKYMO NR. 372 „DĖL SAUGOMŲ RŪŠIŲ GYVŪNŲ, AUGALŲ IR GRYBŲ PAĖMIMO IŠ GAMTINĖS APLINKOS TVARKOS PATVIRTINIMO“ PAKEITIMO\" (nauja redakcija)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "7",
+  "official_journal_page": null,
+  "official_journal_date": "2007-01-18",
+  "entry_into_force": "2007-01-19",
+  "notification_date": "2007-02-08",
+  "commission_reference": "MNE(2007)51232",
+  "nim_celex": "71979L0409LTU_141356",
+  "nim_id": "141356",
+  "transposes_celex": [
+    "31979L0409",
+    "31992L0043"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6bae57c4-d2a3-4e14-8aef-458da2b92c6d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
