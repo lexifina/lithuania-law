@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2007 m. sausio 22 d. įsakymas Nr. V-35 \"Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2004 m. vasario 2 d. įsakymo Nr. V-39 \"Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2003 m. lapkričio 5 d. įsakymo Nr. V-655 \"Dėl farmacijos diplomų, pažymėjimų ir kitų kvalifikacijos dokumentų, įgytų Europos Sąjungos valstybėje narėje, Šveicarijoje arba  valstybėje, pasirašiusioje Europos ekonominės erdvės sutartį,    pripažinimo taisyklių patvirtinimo\" pakeitimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "11",
+  "official_journal_page": null,
+  "official_journal_date": "2007-01-26",
+  "entry_into_force": "2007-01-27",
+  "notification_date": "2007-03-01",
+  "commission_reference": "MNE(2007)51981",
+  "nim_celex": "72006L0100LTU_142313",
+  "nim_id": "142313",
+  "transposes_celex": [
+    "32006L0100"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/690d807c-e2b6-44a9-917d-22994f52a86b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
