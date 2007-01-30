@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos akcinių bendrovių įstatymo 15, 45, 52, 53, 58, 59, 60 straipsnių pakeitimo ir 78 straipsnio 1 dalies pripažinimo netekusia galios įstatymas Nr. X-1015",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "12",
+  "official_journal_page": null,
+  "official_journal_date": "2007-01-30",
+  "entry_into_force": "2007-01-30",
+  "notification_date": "2008-07-11",
+  "commission_reference": "MNE(2008)54034",
+  "nim_celex": "72006L0068LTU_156960",
+  "nim_id": "156960",
+  "transposes_celex": [
+    "32006L0068"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/31eedfa3-47c7-4ccb-b41b-bf9d2ebbc43d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
