@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos bankų įstatymo 2, 9, 21, 40, 55, 57, 58, 59, 64 straipsnių ir priedo pakeitimo ir papildymo įstatymas Nr. X-1038",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "12",
+  "official_journal_page": null,
+  "official_journal_date": "2007-01-30",
+  "entry_into_force": "2007-01-30",
+  "notification_date": "2007-02-20",
+  "commission_reference": "MNE(2007)50907",
+  "nim_celex": "72006L0049LTU_140950",
+  "nim_id": "140950",
+  "transposes_celex": [
+    "32006L0049"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/141ec27b-d085-465f-b076-4d14ac356a9d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
