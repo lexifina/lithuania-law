@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos finansų įstaigų įstatymo 1, 2, 20 straipsnių pakeitimo ir papildymo, įstatymo papildymo 38(1) straipsniu, dešimtojo skirsnio pripažinimo netekusiu galios ir įstatymo papildymo priedu įstatymas Nr. X-1037",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "12",
+  "official_journal_page": null,
+  "official_journal_date": "2007-01-30",
+  "entry_into_force": "2007-01-30",
+  "notification_date": "2007-02-20",
+  "commission_reference": "MNE(2007)50903",
+  "nim_celex": "71998L0026LTU_140945",
+  "nim_id": "140945",
+  "transposes_celex": [
+    "31998L0026",
+    "32005L0060",
+    "32006L0049"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4829d786-65bf-4d40-ac44-a9e458d89e14",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
