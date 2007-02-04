@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2007 m. sausio 29 d. nutarimas Nr. 93 „Dėl Lietuvos Respublikos Vyriausybės 2003 m. lapkričio 12 d. nutarimo Nr. 1407 „Dėl Juridinių asmenų registro įsteigimo ir Juridinių asmenų registro nuostatų patvirtinimo“ pakeitimo",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "15-537",
+  "official_journal_page": null,
+  "official_journal_date": "2007-02-03",
+  "entry_into_force": "2007-02-04",
+  "notification_date": "2019-07-25",
+  "commission_reference": "MNE(2019)54551",
+  "nim_celex": "72017L1132LTU_275688",
+  "nim_id": "275688",
+  "transposes_celex": [
+    "32017L1132"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/48199107-af9a-11e9-9d01-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
