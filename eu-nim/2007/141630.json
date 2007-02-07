@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės kelių transporto inspekcijos prie Susisiekimo ministerijos viršininko 2007 m. sausio 24 d. įsakymas Nr. 2B-37 „Dėl transporto priemonių galinės apsaugos įtaiso ir transporto priemonių, kuriose įrengtas galinės apsaugos įtaisas, tipo patvirtinimo taisyklių“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "16",
+  "official_journal_page": null,
+  "official_journal_date": "2007-02-06",
+  "entry_into_force": "2007-02-07",
+  "notification_date": "2007-02-13",
+  "commission_reference": "MNE(2007)51439",
+  "nim_celex": "72006L0020LTU_141630",
+  "nim_id": "141630",
+  "transposes_celex": [
+    "32006L0020"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7df47478-9de5-45f4-bb12-2b787a997536",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
