@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos finansinių priemonių rinkų įstatymas Nr. X-1024 (suvestinė redakcija nuo 2026-07-02 iki 2028-01-09)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "17-627",
+  "official_journal_page": null,
+  "official_journal_date": "2007-02-08",
+  "entry_into_force": "2007-02-08",
+  "notification_date": "2026-08-28",
+  "commission_reference": "MNE(2026)06728",
+  "nim_celex": "72017L0828LTU_202606728",
+  "nim_id": "202606728",
+  "transposes_celex": [
+    "32017L0828"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f4ef8d45-f44b-47a0-a709-26044e2c75d2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
