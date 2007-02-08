@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vertybinių popierių įstatymą Nr. X-1023 (suvestinė redakcija nuo 2024-12-21 iki 2025-06-30)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "17-626",
+  "official_journal_page": null,
+  "official_journal_date": "2007-02-08",
+  "entry_into_force": "2007-02-08",
+  "notification_date": "2025-07-10",
+  "commission_reference": "MNE(2025)04041",
+  "nim_celex": "72023L2864LTU_202504041",
+  "nim_id": "202504041",
+  "transposes_celex": [
+    "32023L2864"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c78d3bf5-18be-4661-a699-a469358e1708",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
