@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2007 m. vasario 6 d. įsakymas Nr. 3-35 „Dėl reikalavimų elektroninėms kelių rinkliavų surinkimo sistemoms“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "18",
+  "official_journal_page": null,
+  "official_journal_date": "2007-02-10",
+  "entry_into_force": "2007-02-11",
+  "notification_date": "2007-03-06",
+  "commission_reference": "MNE(2007)51496",
+  "nim_celex": "72004L0052LTU_141691",
+  "nim_id": "141691",
+  "transposes_celex": [
+    "32004L0052"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ef884e75-70c8-4745-a230-141574108757",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
