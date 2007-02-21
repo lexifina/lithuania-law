@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "STATISTIKOS DEPARTAMENTO PRIE LIETUVOS RESPUBLIKOS VYRIAUSYBĖS GENERALINIO DIREKTORIAUS 2007 M. VASARIO 8 D. ĮSAKYMAS NR. DĮ-41 \"DĖL ĮMONIŲ, TEIKIANČIŲ TURIZMO PASLAUGAS, STATISTINIO TYRIMO ATASKAITOS FORMOS PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "22",
+  "official_journal_page": null,
+  "official_journal_date": "2007-02-20",
+  "entry_into_force": "2007-02-21",
+  "notification_date": "2007-03-01",
+  "commission_reference": "MNE(2007)51957",
+  "nim_celex": "72006L0110LTU_142289",
+  "nim_id": "142289",
+  "transposes_celex": [
+    "32006L0110"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/08376327-4cea-4ce7-be5f-d4030f872a08",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
