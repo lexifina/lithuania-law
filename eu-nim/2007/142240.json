@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2007 m. vasario 13 d. įsakymas Nr. 3D-68 \"Dėl žemės ūkio ministro 2003 m. birželio 4 d. įsakymo Nr. 3D-225 \"Dėl produktų, skirtų gyvūnų mitybai, privalomųjų saugos reikalavimų techninio reglamento patvirtinimo ir žemės ūkio ministro 2001 m. birželio 21 d. įsakymo Nr. 206 \"Dėl privalomųjų prekinių pašarų saugos reikalavimų techninio reglamento patvirtinimo\" pripažinimo netekusiu galios\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "22",
+  "official_journal_page": null,
+  "official_journal_date": "2007-02-20",
+  "entry_into_force": "2007-02-21",
+  "notification_date": "2007-02-27",
+  "commission_reference": "MNE(2007)51910",
+  "nim_celex": "72005L0087LTU_142240",
+  "nim_id": "142240",
+  "transposes_celex": [
+    "32005L0087"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/332854f0-cffe-4ddf-94b1-87b2937fdc5c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
