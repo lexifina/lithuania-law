@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro ir Lietuvos Respublikos susisiekimo ministro 2007 m. vasario 12 d. įsakymas Nr. 1V-60/3-51 \"Dėl informacijos apie oro keliais vežamus užsieniečius pateikimo ir tvarkymo taisyklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "22",
+  "official_journal_page": null,
+  "official_journal_date": "2007-02-20",
+  "entry_into_force": "2007-02-21",
+  "notification_date": "2007-03-06",
+  "commission_reference": "MNE(2007)52081",
+  "nim_celex": "72004L0082LTU_142478",
+  "nim_id": "142478",
+  "transposes_celex": [
+    "32004L0082"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1b340be4-d67c-42dd-8392-df6ecb597d8a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
