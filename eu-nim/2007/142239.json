@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2007 M. VASARIO 15 D. ĮSAKYMAS NR. D1-100 \"DĖL LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2006 M. SPALIO 9 D. ĮSAKYMO NR. D1-449 „DĖL TRANSPORTO PRIEMONIŲ SU UŽDEGIMO SUSPAUDIMU VARIKLIAIS IŠMETAMŲ DUJINIŲ TERŠALŲ BEI KIETŲJŲ DALELIŲ KIEKIŲ, TAIP PAT TRANSPORTO PRIEMONIŲ SU PRIVERSTINIO UŽDEGIMO VARIKLIAIS, DEGALAMS NAUDOJANČIŲ GAMTINES DUJAS IR SUSKYSTINTAS NAFTOS DUJAS, IŠMETAMŲ DUJINIŲ TERŠALŲ KIEKIŲ MAŽINIMO PRIEMONIŲ TVARKOS APRAŠO PATVIRTINIMO“ PAKEITIMO IR APLINKOS MINISTRO 2007 M. SAUSIO 30 D. ĮSAKYMO NR. D1-65 PRIPAŽINIMO NETEKUSIU GALIOS\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "23",
+  "official_journal_page": null,
+  "official_journal_date": "2007-02-22",
+  "entry_into_force": "2007-02-23",
+  "notification_date": "2007-02-27",
+  "commission_reference": "MNE(2007)51909",
+  "nim_celex": "72006L0081LTU_142239",
+  "nim_id": "142239",
+  "transposes_celex": [
+    "32006L0081"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a63af20f-ecb8-47f8-aa5b-973acb81f213",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
