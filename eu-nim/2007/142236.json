@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2007 M. VASARIO 15 D. ĮSAKYMAS NR. D1-102 \"DĖL LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2004 M. KOVO 25 D. ĮSAKYMO NR. D1-131 „DĖL ARCHITEKTO DIPLOMŲ, PAŽYMĖJIMŲ IR KITŲ KVALIFIKACIJĄ PATVIRTINANČIŲ DOKUMENTŲ, ĮGYTŲ EUROPOS SĄJUNGOS VALSTYBĖJE NARĖJE, ŠVEICARIJOJE ARBA VALSTYBĖJE, PASIRAŠIUSIOJE EUROPOS EKONOMINĖS ERDVĖS SUTARTĮ, PRIPAŽINIMO LIETUVOS RESPUBLIKOJE TAISYKLIŲ TVIRTINIMO“ PAKEITIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "23",
+  "official_journal_page": null,
+  "official_journal_date": "2007-02-22",
+  "entry_into_force": "2007-02-23",
+  "notification_date": "2007-02-27",
+  "commission_reference": "MNE(2007)51906",
+  "nim_celex": "72006L0100LTU_142236",
+  "nim_id": "142236",
+  "transposes_celex": [
+    "32006L0100"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f5ff3912-bb97-4a8d-8d04-e846139f4208",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
