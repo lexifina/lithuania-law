@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2007-01-01 | 2007-02-28 | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/176252e3a8e9ac266f79c63b2795bbe0178bd0d0/istatymai/TAR.915C6D6EB2A5.md) |
+| 2007-03-01 | 2008-06-30 | Įstatymas Nr. X-1033 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/883b5f75d835f9de03d1ed00f884de3f74bde3ea/istatymai/TAR.915C6D6EB2A5.md) |
