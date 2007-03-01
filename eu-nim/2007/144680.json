@@ -1,0 +1,26 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vartotojų teisių gynimo įstatymo pakeitimo įstatymas Nr. X-1014 (nauja redakcija)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "12",
+  "official_journal_page": null,
+  "official_journal_date": "2007-01-30",
+  "entry_into_force": "2007-03-01",
+  "notification_date": "2007-05-04",
+  "commission_reference": "MNE(2007)53763",
+  "nim_celex": "71997L0007LTU_144680",
+  "nim_id": "144680",
+  "transposes_celex": [
+    "31997L0007",
+    "31998L0027",
+    "31999L0044",
+    "32002L0065",
+    "32009L0022"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/408ca91d-74ea-446f-b69a-2dd0476e69bb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
