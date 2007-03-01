@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2006 m. gruodžio 11 d. nutarimas Nr. 1242 „Dėl Lietuvos Respublikos Vyriausybės 2003 m. birželio 17 d. nutarimo Nr. 783 „Dėl keleivių, bagažo ir krovinių vežimo geležinkelio transportu licencijavimo taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "136",
+  "official_journal_page": null,
+  "official_journal_date": "2006-12-14",
+  "entry_into_force": "2007-03-01",
+  "notification_date": "2006-12-15",
+  "commission_reference": "MNE(2006)58544",
+  "nim_celex": "72004L0049LTU_138857",
+  "nim_id": "138857",
+  "transposes_celex": [
+    "32004L0049"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d5af3f0b-c2d9-436e-be05-f2d6f107aa41",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
