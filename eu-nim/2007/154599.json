@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vertybinių popierių komisijos 2007 m. vasario 23 d. nutarimas Nr. 1K-4 \"Dėl reglamentuojamos informacijos viešo skelbimo taisyklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "26",
+  "official_journal_page": null,
+  "official_journal_date": "2007-03-01",
+  "entry_into_force": "2007-03-02",
+  "notification_date": "2008-03-14",
+  "commission_reference": "MNE(2008)51840",
+  "nim_celex": "72007L0014LTU_154599",
+  "nim_id": "154599",
+  "transposes_celex": [
+    "32007L0014"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/32312766-712e-4b58-8084-e82d7979c75b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
