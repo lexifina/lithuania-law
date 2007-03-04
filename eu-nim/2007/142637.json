@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "NACIONALINIO AKREDITACIJOS BIURO\nPRIE LIETUVOS RESPUBLIKOS APLINKOS MINISTERIJOS DIREKTORIAUS 2003 M. GEGUŽĖS 26 D. ĮSAKYMAS NR. V-41 \"DĖL AKREDITACIJOS DOKUMENTO AD 5.13 PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "27",
+  "official_journal_page": null,
+  "official_journal_date": "2007-03-03",
+  "entry_into_force": "2007-03-04",
+  "notification_date": "2007-03-09",
+  "commission_reference": "MNE(2007)52210",
+  "nim_celex": "72004L0009LTU_142637",
+  "nim_id": "142637",
+  "transposes_celex": [
+    "32004L0009"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e5a2dc6b-8b15-4168-b6d6-ec09b202bd01",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
