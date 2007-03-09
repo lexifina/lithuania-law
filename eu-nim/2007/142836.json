@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "STATISTIKOS DEPARTAMENTO PRIE LIETUVOS RESPUBLIKOS VYRIAUSYBĖS GENERALINIO DIREKTORIAUS 2007 M. VASARIO 27 D. ĮSAKYMAS NR. DĮ-65 \"DĖL ŽEMĖS ŪKIO STRUKTŪROS TYRIMO ANKETOS FORMOS PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "29",
+  "official_journal_page": null,
+  "official_journal_date": "2007-03-08",
+  "entry_into_force": "2007-03-09",
+  "notification_date": "2007-03-14",
+  "commission_reference": "MNE(2007)52367",
+  "nim_celex": "72006L0110LTU_142836",
+  "nim_id": "142836",
+  "transposes_celex": [
+    "32006L0110"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0dea0e80-a89e-41ea-8cea-fabe6afb27b1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
