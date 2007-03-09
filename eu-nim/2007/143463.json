@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2007 m. vasario 28 d. įsakymas Nr. 3D-98 „Dėl Ralstonia solanacearum (Smith) Yabuuchi et al. kenksmingojo organizmo fitosanitarinės kontrolės ir fitosanitarijos priemonių taikymo taisyklių patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "29",
+  "official_journal_page": null,
+  "official_journal_date": "2007-03-08",
+  "entry_into_force": "2007-03-09",
+  "notification_date": "2007-04-06",
+  "commission_reference": "MNE(2007)52866",
+  "nim_celex": "72006L0063LTU_143463",
+  "nim_id": "143463",
+  "transposes_celex": [
+    "32006L0063"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8345d791-95dd-4481-8828-795f6b881c86",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
