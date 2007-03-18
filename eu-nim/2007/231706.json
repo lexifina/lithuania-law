@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2007 m. kovo 13 d. įsakymas Nr. A1-67 \"Dėl Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2006 m. balandžio 5 d. įsakymo Nr. A1-94 \"Dėl Asmens (šeimos) socialinių paslaugų poreikio nustatymo ir skyrimo tvarkos aprašo ir Senyvo amžiaus asmens bei suaugusio asmens su negalia socialinės globos poreikio nustatymo metodikos patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "32",
+  "official_journal_page": null,
+  "official_journal_date": "2007-03-17",
+  "entry_into_force": "2007-03-18",
+  "notification_date": "2015-11-13",
+  "commission_reference": "MNE(2015)58313",
+  "nim_celex": "72012L0029LTU_231706",
+  "nim_id": "231706",
+  "transposes_celex": [
+    "32012L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/68f3e18b-c152-48d4-9752-7cbef47a89c8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
