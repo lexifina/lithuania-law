@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2007 m. kovo 14 d. nutarimas Nr. 247 „Dėl Lietuvos Respublikos Vyriausybės 1996 m. rugsėjo 18 d. nutarimo Nr. 1079 „Dėl Visuomenės dalyvavimo teritorijų planavimo procese nuostatų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "33",
+  "official_journal_page": null,
+  "official_journal_date": "2007-03-20",
+  "entry_into_force": "2007-03-21",
+  "notification_date": "2007-08-29",
+  "commission_reference": "MNE(2007)56360",
+  "nim_celex": "71996L0082LTU_148315",
+  "nim_id": "148315",
+  "transposes_celex": [
+    "31996L0082",
+    "32001L0042"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/31980990-ba47-4ad0-a3d8-cffede063f1e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
