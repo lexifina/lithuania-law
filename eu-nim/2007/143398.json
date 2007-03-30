@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vertybinių popierių komisijos 2007 m. kovo 22 d. nutarimas Nr. 1K-11 'Dėl Finansų maklerio įmonių ir valdymo įmonių vidaus kapitalo pakankamumo vertinimo proceso taisyklių patvirtinimo'",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "36",
+  "official_journal_page": null,
+  "official_journal_date": "2007-03-29",
+  "entry_into_force": "2007-03-30",
+  "notification_date": "2007-04-02",
+  "commission_reference": "MNE(2007)52818",
+  "nim_celex": "72006L0048LTU_143398",
+  "nim_id": "143398",
+  "transposes_celex": [
+    "32006L0048",
+    "32010L0076"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/67650fca-d427-4870-9087-51465424c4bf",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
