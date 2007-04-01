@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2007 M. KOVO 23 D. ĮSAKYMAS NR. D1-172 \"DĖL POŽEMINIO VANDENS TELKINIŲ BŪKLĖS VERTINIMO KRITERIJŲ NUSTATYMO TVARKOS APRAŠO PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "37",
+  "official_journal_page": null,
+  "official_journal_date": "2007-03-31",
+  "entry_into_force": "2007-04-01",
+  "notification_date": "2007-04-19",
+  "commission_reference": "MNE(2007)53361",
+  "nim_celex": "72006L0118LTU_144135",
+  "nim_id": "144135",
+  "transposes_celex": [
+    "32006L0118"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a3753a97-e3c9-4c93-bfc6-91b761723f4c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
