@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos draudimo priežiūros komisijos 2007 m. sausio 16 d. nutarimas Nr. N-9 \"Dėl Lietuvos Respublikos draudimo priežiūros komisijos 2004 m. kovo 9 d. nutarimo Nr. N-24 \"Dėl Draudimo įmonės draudimo techninių atidėjinių padengimo turtu taisyklių patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "8",
+  "official_journal_page": null,
+  "official_journal_date": "2007-01-19",
+  "entry_into_force": "2007-04-01",
+  "notification_date": "2007-12-22",
+  "commission_reference": "MNE(2007)58904",
+  "nim_celex": "72005L0068LTU_151725",
+  "nim_id": "151725",
+  "transposes_celex": [
+    "32005L0068"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/db09f657-ef7f-4dd7-8678-2dc4847bb479",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
