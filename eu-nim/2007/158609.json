@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės geležinkelių inspekcijos prie Susisiekimo ministerijos viršininko 2007 m. kovo 28 d. įsakymas Nr. V-24 „Dėl geležinkelių infrastruktūros valdytojų ir geležinkelių įmonių (vežėjų) eismo saugos ataskaitų“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "37",
+  "official_journal_page": null,
+  "official_journal_date": "2007-03-31",
+  "entry_into_force": "2007-04-01",
+  "notification_date": "2008-10-29",
+  "commission_reference": "MNE(2008)55640",
+  "nim_celex": "72004L0049LTU_158609",
+  "nim_id": "158609",
+  "transposes_celex": [
+    "32004L0049"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/602f6ed0-6f33-4bf1-a3ac-f048975e7111",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
