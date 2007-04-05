@@ -1,0 +1,26 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos standartizacijos įstatymo pakeitimo įstatymas Nr.X-1056",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "39",
+  "official_journal_page": null,
+  "official_journal_date": "2007-04-05",
+  "entry_into_force": "2007-04-05",
+  "notification_date": "2007-11-29",
+  "commission_reference": "MNE(2007)58411",
+  "nim_celex": "72005L0032LTU_151156",
+  "nim_id": "151156",
+  "transposes_celex": [
+    "32005L0032",
+    "32009L0125",
+    "32010L0031",
+    "32010L0040",
+    "32013L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2d9cc083-354d-46ee-b55b-06d8706517e0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
