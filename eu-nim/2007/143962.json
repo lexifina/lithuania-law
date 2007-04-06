@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2007 m. kovo 29 d. įsakymas Nr. V-217 ,,Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2002 m. gruodžio 24 d. įsakymo Nr. 686 ,,Dėl Lietuvos higienos normos HN 53-2:2002 ,,Leidžiami vartoti maisto priedai. Specifiniai saldiklių, dažiklių ir kitų maisto priedų grynumo kriterijai“ patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "39",
+  "official_journal_page": null,
+  "official_journal_date": "2007-04-05",
+  "entry_into_force": "2007-04-06",
+  "notification_date": "2007-04-16",
+  "commission_reference": "MNE(2007)53249",
+  "nim_celex": "72006L0033LTU_143962",
+  "nim_id": "143962",
+  "transposes_celex": [
+    "32006L0033"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/db2d1de6-ac2d-472c-8a6c-99be2becc4b1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
