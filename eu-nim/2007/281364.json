@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2007 m. balandžio 4 d. įsakymas  Nr. 3-122  „Dėl Tarptautinio laivo matmenų liudijimo ir žvejybos laivo matmenų liudijimo išdavimo tvarkos aprašo, Tarptautinio laivo matmenų liudijimo ir žvejybos laivo matmenų liudijimo formos patvirtinimo“ (Suvestinė redakcija nuo 2011-06-29)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "40-1499",
+  "official_journal_page": null,
+  "official_journal_date": "2007-04-07",
+  "entry_into_force": "2007-04-08",
+  "notification_date": "2020-03-06",
+  "commission_reference": "MNE(2020)51265",
+  "nim_celex": "72017L0159LTU_281364",
+  "nim_id": "281364",
+  "transposes_celex": [
+    "32017L0159"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6d19a781-64fe-11ea-b735-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
