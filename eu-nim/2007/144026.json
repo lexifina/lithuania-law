@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2007 m. kovo 23 d. įsakymas Nr. V-175 \"Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2004 m. vasario 2 d. įsakymo Nr. V-41 \"Dėl Diplomų, pažymėjimų ir kitų oficialias bendrosios praktikos slaugytojų profesines kvalifikacijas patvirtinančių dokumentų, įgytų Europos Sąjungos valstybėse narėse, Šveicarijoje ar valstybėse, pasirašiusiose Europos ekonominės erdvės susitarimą, pripažinimo Lietuvos Respublikoje taisyklių tvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "40",
+  "official_journal_page": null,
+  "official_journal_date": "2007-04-07",
+  "entry_into_force": "2007-04-08",
+  "notification_date": "2007-04-16",
+  "commission_reference": "MNE(2007)53277",
+  "nim_celex": "72006L0100LTU_144026",
+  "nim_id": "144026",
+  "transposes_celex": [
+    "32006L0100"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0a6bd5cd-a0f6-4cf8-9a76-913094d4fc87",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
