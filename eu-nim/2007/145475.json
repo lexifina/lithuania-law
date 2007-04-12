@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės maisto ir veterinarijos tarnybos direktoriaus 2007 m. balandžio 4 d. įsakymas Nr. B1-373 \"Dėl nacionalinio atpažinimo žymens ir nacionalinio sveikumo ženklo naudojimo tvarkos aprašo patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "41",
+  "official_journal_page": null,
+  "official_journal_date": "2007-04-11",
+  "entry_into_force": "2007-04-12",
+  "notification_date": "2007-05-29",
+  "commission_reference": "MNE(2007)54338",
+  "nim_celex": "72007L0010LTU_145475",
+  "nim_id": "145475",
+  "transposes_celex": [
+    "32007L0010"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5d45d367-94bd-4d5a-9856-f0be154c0f96",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
