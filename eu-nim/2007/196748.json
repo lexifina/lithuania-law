@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2007 m. balandžio 6 d. įsakymas Nr. V-244 \"Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2000 m. spalio 19 d. įsakymo Nr. 563 \"Dėl Kraujo ir jo komponentų ruošimo rekomendacijų patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "42",
+  "official_journal_page": null,
+  "official_journal_date": "2007-04-14",
+  "entry_into_force": "2007-04-15",
+  "notification_date": "2012-10-24",
+  "commission_reference": "MNE(2012)55296",
+  "nim_celex": "72004L0033LTU_196748",
+  "nim_id": "196748",
+  "transposes_celex": [
+    "32004L0033"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5ffe02a8-3809-4e3d-bc1c-bfa24a28c83a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
