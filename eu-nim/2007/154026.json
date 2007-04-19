@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS GAMTINIŲ DUJŲ ĮSTATYMO PAKEITIMO ĮSTATYMAS NR. X-1054",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "43",
+  "official_journal_page": null,
+  "official_journal_date": "2007-04-19",
+  "entry_into_force": "2007-04-19",
+  "notification_date": "2008-02-20",
+  "commission_reference": "MNE(2008)51408",
+  "nim_celex": "72006L0032LTU_154026",
+  "nim_id": "154026",
+  "transposes_celex": [
+    "32006L0032",
+    "32006L0111"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f0fc8473-8a05-40fb-99c2-1d83ac5918a8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
