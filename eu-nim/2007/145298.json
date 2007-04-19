@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos gamtinių dujų įstatymo pakeitimo įstatymas Nr. X-1054 (nauja redakcija)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "43",
+  "official_journal_page": null,
+  "official_journal_date": "2007-04-19",
+  "entry_into_force": "2007-04-19",
+  "notification_date": "2007-05-24",
+  "commission_reference": "MNE(2007)54214",
+  "nim_celex": "72003L0055LTU_145298",
+  "nim_id": "145298",
+  "transposes_celex": [
+    "32003L0055",
+    "32004L0067"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/eac86435-4f28-468f-86ef-01baedc48a7f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
