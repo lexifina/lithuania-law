@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos biomedicininių tyrimų etikos įstatymo 2 ir 3 straipsnių pakeitimo ir papildymo įstatymas Nr. X-1074",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "43",
+  "official_journal_page": null,
+  "official_journal_date": "2007-04-19",
+  "entry_into_force": "2007-04-19",
+  "notification_date": "2009-02-20",
+  "commission_reference": "MNE(2009)50835",
+  "nim_celex": "72007L0047LTU_160684",
+  "nim_id": "160684",
+  "transposes_celex": [
+    "32007L0047"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/05762112-36a3-4cfb-8c49-775b22bda199",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
