@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro ir Lietuvos Respublikos aplinkos ministro 2007 m. kovo 23 d. įsakymas Nr. 3-96/D1-171 „Dėl civilinių ikigarsinių reaktyvinių lėktuvų skrydžių ribojimo Lietuvos Respublikos oro uostuose taisyklių patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "44",
+  "official_journal_page": null,
+  "official_journal_date": "2007-04-21",
+  "entry_into_force": "2007-04-22",
+  "notification_date": "2007-05-02",
+  "commission_reference": "MNE(2007)53561",
+  "nim_celex": "72006L0093LTU_144415",
+  "nim_id": "144415",
+  "transposes_celex": [
+    "32006L0093"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3817ee02-548e-4e3e-a57c-d69178035a30",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
