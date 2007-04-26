@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos mokesčių administravimo įstatymo 13 ir 16 straipsnių pakeitimo įstatymas Nr. X-1086",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "46",
+  "official_journal_page": null,
+  "official_journal_date": "2007-04-26",
+  "entry_into_force": "2007-04-26",
+  "notification_date": "2012-12-27",
+  "commission_reference": "MNE(2012)57944",
+  "nim_celex": "72011L0016LTU_199663",
+  "nim_id": "199663",
+  "transposes_celex": [
+    "32011L0016"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7eb8942e-a075-4111-b3c1-2892df4ee908",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
