@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės maisto ir veterinarijos tarnybos direktoriaus 2007 m. balandžio 23 d. įsakymas Nr. B1-421 \"Dėl Valstybinės maisto ir veterinarijos tarnybos direktoriaus 2002 m. birželio 24 d. įsakymo Nr. 284 \"Dėl bendrųjų gyvūnų tam tikrų ligų ir specifinių kiaulių vezikulinės ligos kontrolės reikalavimų patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "47",
+  "official_journal_page": null,
+  "official_journal_date": "2007-04-28",
+  "entry_into_force": "2007-04-29",
+  "notification_date": "2007-05-29",
+  "commission_reference": "MNE(2007)54268",
+  "nim_celex": "72007L0010LTU_145367",
+  "nim_id": "145367",
+  "transposes_celex": [
+    "32007L0010"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b4bf3bc0-b0f3-47d9-b839-af217802e8a2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
