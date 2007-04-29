@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro 2007 m. balandžio 25 d. įsakymas Nr. 1V-150 „Dėl Lietuvos Respublikos vidaus reikalų ministro 2002 m. gruodžio 19 d. įsakymo Nr. 588 „Dėl Vairuotojo pažymėjimų išdavimo ir keitimo taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "47",
+  "official_journal_page": null,
+  "official_journal_date": "2007-04-28",
+  "entry_into_force": "2007-04-29",
+  "notification_date": "2007-09-03",
+  "commission_reference": "MNE(2007)56454",
+  "nim_celex": "72006L0126LTU_148423",
+  "nim_id": "148423",
+  "transposes_celex": [
+    "32006L0126"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/65b114c6-139c-4357-9fde-1b37485c0a23",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
