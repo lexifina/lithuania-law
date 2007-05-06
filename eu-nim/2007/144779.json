@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2007 m. balandžio 25 d. nutarimas Nr. 418 \"Dėl Lietuvos Respublikos Vyriausybės 2003 m. liepos 18 d. nutarimo Nr. 947 \"Dėl Europos Sąjungos valstybių narių teisininkų profesinių vardų sąrašo patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "49",
+  "official_journal_page": null,
+  "official_journal_date": "2007-05-05",
+  "entry_into_force": "2007-05-06",
+  "notification_date": "2007-05-08",
+  "commission_reference": "MNE(2007)53848",
+  "nim_celex": "72006L0100LTU_144779",
+  "nim_id": "144779",
+  "transposes_celex": [
+    "32006L0100"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/93a6b369-50b9-408f-b723-9a9032461b70",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
