@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės kelių transporto inspekcijos prie Susisiekimo ministerijos viršininko 2007 m. gegužės 18 d. įsakymas Nr. 2B-192 „Dėl Valstybinės kelių transporto inspekcijos prie Susisiekimo ministerijos viršininko 2006 m. balandžio 28 d. įsakymo Nr. 2B-143 „Dėl dviračių ir triračių motorinių transporto priemonių tam tikrų sudėtinių dalių ir jų charakteristikų tipo patvirtinimo taisyklių“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "58",
+  "official_journal_page": null,
+  "official_journal_date": "2007-05-26",
+  "entry_into_force": "2007-05-27",
+  "notification_date": "2007-06-19",
+  "commission_reference": "MNE(2007)54511",
+  "nim_celex": "72006L0120LTU_145737",
+  "nim_id": "145737",
+  "transposes_celex": [
+    "32006L0120"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/94f53d38-62f8-4a8c-a616-982f629ccdea",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
