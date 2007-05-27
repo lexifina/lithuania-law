@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2007 m. gegužės 9 d. įsakymas Nr. V-355 „Dėl Nacionalinio transplantacijos biuro nuostatų patvirtinimo ir Lietuvos Respublikos sveikatos apsaugos ministro 2000 m. rugpjūčio 12 d. įsakymo Nr. 457 „Dėl Nacionalinio organų transplantacijos biuro nuostatų patvirtinimo“ pripažinimo netekusio galios“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "58",
+  "official_journal_page": null,
+  "official_journal_date": "2007-05-26",
+  "entry_into_force": "2007-05-27",
+  "notification_date": "2007-07-02",
+  "commission_reference": "MNE(2007)54368",
+  "nim_celex": "72004L0023LTU_145517",
+  "nim_id": "145517",
+  "transposes_celex": [
+    "32004L0023"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/65511db5-0fcf-4894-be6e-80dd9fe73fad",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
