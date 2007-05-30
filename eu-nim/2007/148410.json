@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2007 m. gegužės 22 d. įsakymas Nr. V-406 „Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2002 m. rugpjūčio 14 d. įsakymo Nr. 421 „Dėl biocidų autorizacijos ir registracijos taisyklių patvirtinimo“pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "59",
+  "official_journal_page": null,
+  "official_journal_date": "2007-05-29",
+  "entry_into_force": "2007-05-30",
+  "notification_date": "2008-01-03",
+  "commission_reference": "MNE(2007)56441",
+  "nim_celex": "72006L0050LTU_148410",
+  "nim_id": "148410",
+  "transposes_celex": [
+    "32006L0050"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2eeb975c-3f55-483d-8e32-943fb28afad8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
