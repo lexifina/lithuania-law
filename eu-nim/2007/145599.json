@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2007 m. gegužės 16 d. nutarimas Nr. 499 \"Dėl Lietuvos Respublikos Vyriausybės 2004 m. gegužės 3 d. nutarimo Nr. 535 \"Dėl aukštojo mokslo diplomų, diplomų, pažymėjimų ir kitų kvalifikaciją patvirtinančių dokumentų, išduotų Europos Sąjungos, Europos Ekonominės Erdvės valstybėse ar Šveicarijos Konfederacijoje, pripažinimo norint dirbti pagal reglamentuojamą profesiją ar verstis reglamentuojama profesine veikla Lietuvos Respublikoje nuostatų ir tam tikros struktūros kursų sąrašo patvirtinimo\" pakeitimo \"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "60",
+  "official_journal_page": null,
+  "official_journal_date": "2007-05-31",
+  "entry_into_force": "2007-06-01",
+  "notification_date": "2007-06-01",
+  "commission_reference": "MNE(2007)54418",
+  "nim_celex": "72006L0100LTU_145599",
+  "nim_id": "145599",
+  "transposes_celex": [
+    "32006L0100"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/428e9d9c-f246-4074-8727-ad5c86362197",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
