@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos švietimo ir mokslo ministro 2007 m. gegužės 23 d. įsakymas Nr. ISAK-982 „Dėl švietimo ir mokslo ministro 2004 m. lapkričio 29 d. įsakymo Nr. ISAK-1871 „Dėl Švietimo ir mokslo institucijų registro“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "60",
+  "official_journal_page": null,
+  "official_journal_date": "2007-05-31",
+  "entry_into_force": "2007-06-01",
+  "notification_date": "2007-09-18",
+  "commission_reference": "MNE(2007)56674",
+  "nim_celex": "72005L0071LTU_148722",
+  "nim_id": "148722",
+  "transposes_celex": [
+    "32005L0071"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7d747f21-3c9a-4ede-9483-345675d304f1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
