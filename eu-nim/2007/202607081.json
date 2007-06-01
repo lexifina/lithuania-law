@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2006 m. gruodžio 29 d. įsakymas Nr. D1-637 „Dėl Statybinių atliekų tvarkymo taisyklių patvirtinimo“ (suvestinė redakcija nuo 2025-09-26)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "10-403",
+  "official_journal_page": null,
+  "official_journal_date": "2007-01-25",
+  "entry_into_force": "2007-06-01",
+  "notification_date": "2026-09-18",
+  "commission_reference": "MNE(2026)07081",
+  "nim_celex": "72024L1275LTU_202607081",
+  "nim_id": "202607081",
+  "transposes_celex": [
+    "32024L1275"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bca2c944-7dba-490f-b0a8-2259fc72b62f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
