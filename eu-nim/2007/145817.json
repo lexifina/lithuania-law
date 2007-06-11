@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS TRANSPORTO PRIEMONIŲ VALDYTOJŲ CIVILINĖS ATSAKOMYBĖS PRIVALOMOJO DRAUDIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS NR. X-1137",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "61",
+  "official_journal_page": null,
+  "official_journal_date": "2007-06-02",
+  "entry_into_force": "2007-06-11",
+  "notification_date": "2007-06-11",
+  "commission_reference": "MNE(2007)54544",
+  "nim_celex": "72005L0014LTU_145817",
+  "nim_id": "145817",
+  "transposes_celex": [
+    "32005L0014"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0568c5af-6499-4856-b234-3a8fa9878100",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
