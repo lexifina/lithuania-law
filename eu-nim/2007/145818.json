@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS DRAUDIMO ĮSTATYMO 1, 2, 57 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI PRIEDO PAPILDYMO ĮSTATYMAS NR. X-1139",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "61",
+  "official_journal_page": null,
+  "official_journal_date": "2007-06-02",
+  "entry_into_force": "2007-06-11",
+  "notification_date": "2007-06-11",
+  "commission_reference": "MNE(2007)54545",
+  "nim_celex": "72005L0014LTU_145818",
+  "nim_id": "145818",
+  "transposes_celex": [
+    "32005L0014"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/af500e36-28fe-40ac-b730-05403caaf985",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
