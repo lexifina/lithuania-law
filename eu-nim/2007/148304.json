@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos direktoriaus 2007 m. birželio 4 d. įsakymas Nr. 1-182 „Dėl Valstybinės reikšmės ir pavojingų objektų registro anketų patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "65",
+  "official_journal_page": null,
+  "official_journal_date": "2007-06-12",
+  "entry_into_force": "2007-06-13",
+  "notification_date": "2007-08-29",
+  "commission_reference": "MNE(2007)56351",
+  "nim_celex": "71996L0082LTU_148304",
+  "nim_id": "148304",
+  "transposes_celex": [
+    "31996L0082"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0620731e-749b-4fca-a1fb-a414a1b8bd8c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
