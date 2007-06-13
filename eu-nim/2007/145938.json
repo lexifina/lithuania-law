@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2007 m. gegužės 30 d. nutarimas Nr. 546 „Dėl kelių transporto priemonių vairuotojų vairavimo ir poilsio režimo tikrinimo ir ataskaitų teikimo tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "65",
+  "official_journal_page": null,
+  "official_journal_date": "2007-06-12",
+  "entry_into_force": "2007-06-13",
+  "notification_date": "2007-06-29",
+  "commission_reference": "MNE(2007)54633",
+  "nim_celex": "72006L0022LTU_145938",
+  "nim_id": "145938",
+  "transposes_celex": [
+    "32006L0022",
+    "32015L0719"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/877ff438-e8c8-406d-a819-192bea3f2396",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
