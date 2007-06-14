@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2007 m. birželio 13 d. įsakymas Nr. 3-208 „Dėl Susisiekimo ministerijos reguliavimo sričiai priskirtų valstybės įmonių, viešųjų įstaigų ir akcinių bei uždarųjų akcinių bendrovių strateginių veiklos planų rengimo ir įgyvendinimo stebėsenos tvarkos“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Administracinės priemonės",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2007-06-13",
+  "entry_into_force": "2007-06-14",
+  "notification_date": "2015-12-10",
+  "commission_reference": "MNE(2015)58879",
+  "nim_celex": "72012L0034LTU_232301",
+  "nim_id": "232301",
+  "transposes_celex": [
+    "32012L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ad332870-ca7a-4def-9a18-0c0c903a31d4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
