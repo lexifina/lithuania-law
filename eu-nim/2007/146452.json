@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2007 m. birželio 12 d. įsakymas  Nr. V-484 ,,Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2001 m. gruodžio 29 d. įsakymo Nr. 687 \"Dėl Saugos duomenų lapo reikalavimų ir jo pateikimo profesionaliems naudotojams tvarkos patvirtinimo\" pripažinimo netekusiu galios\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "67",
+  "official_journal_page": null,
+  "official_journal_date": "2007-06-16",
+  "entry_into_force": "2007-06-17",
+  "notification_date": "2007-06-28",
+  "commission_reference": "MNE(2007)55028",
+  "nim_celex": "72006L0121LTU_146452",
+  "nim_id": "146452",
+  "transposes_celex": [
+    "32006L0121"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6240115b-bc3f-46d4-a382-30cfaea2ca2d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
