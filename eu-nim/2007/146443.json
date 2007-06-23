@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo 1, 2, 5, 8, 12, 15, 16, 21, 25, 27, 29, 34, 38, 39, 44, 45 straipsnių pakeitimo ir papildymo, V skyriaus pavadinimo pakeitimo bei Įstatymo papildymo 12(1) straipsniu ir priedu ĮSTATYMAS  Nr. X-1169",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "69",
+  "official_journal_page": null,
+  "official_journal_date": "2007-06-23",
+  "entry_into_force": "2007-06-23",
+  "notification_date": "2007-06-28",
+  "commission_reference": "MNE(2007)55019",
+  "nim_celex": "71989L0391LTU_146443",
+  "nim_id": "146443",
+  "transposes_celex": [
+    "31989L0391",
+    "32009L0013"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/53228608-4022-4107-a0e8-85c6859aa9d4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
