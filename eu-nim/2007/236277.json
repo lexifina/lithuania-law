@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių bylų teisenos įstatymo 2, 3, 15, 18, 19, 20, 22, 33, 35, 40, 46 ir 88 straipsnių pakeitimo įstatymas Nr. X-1174",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "72",
+  "official_journal_page": null,
+  "official_journal_date": "2007-06-30",
+  "entry_into_force": "2007-06-30",
+  "notification_date": "2016-04-05",
+  "commission_reference": "MNE(2016)52203",
+  "nim_celex": "72003L0109LTU_236277",
+  "nim_id": "236277",
+  "transposes_celex": [
+    "32003L0109"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/28a01114-ace6-40ff-b81e-2cbb4b04ba3c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
