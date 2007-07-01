@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro ir\nLietuvos Respublikos sveikatos apsaugos ministro 2007 m. birželio 11 d. įsakymas Nr. D1-329/V-469 \"Dėl Lietuvos Respublikos aplinkos ministro ir Lietuvos Respublikos sveikatos apsaugos ministro 2000 m. spalio 30 d. įsakymo Nr. 471/582 „Dėl teršalų, kurių kiekis aplinkos ore vertinamas pagal Europos Sąjungos kriterijus, sąrašo patvirtinimo ir ribinių aplinkos oro užterštumo verčių nustatymo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "67",
+  "official_journal_page": null,
+  "official_journal_date": "2007-06-16",
+  "entry_into_force": "2007-07-01",
+  "notification_date": "2007-06-28",
+  "commission_reference": "MNE(2007)55027",
+  "nim_celex": "71996L0062LTU_146451",
+  "nim_id": "146451",
+  "transposes_celex": [
+    "31996L0062"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/26164cfb-fc90-4f8e-9366-82bc56587adc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
