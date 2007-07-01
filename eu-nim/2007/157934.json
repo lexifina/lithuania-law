@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2007 m. kovo 23 d. įsakymas Nr. 3-97 „Dėl Vinječių formos, jų reikalavimų, įsigijimo ir naudojimo tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "37",
+  "official_journal_page": null,
+  "official_journal_date": "2007-03-31",
+  "entry_into_force": "2007-07-01",
+  "notification_date": "2008-09-04",
+  "commission_reference": "MNE(2008)54984",
+  "nim_celex": "72006L0038LTU_157934",
+  "nim_id": "157934",
+  "transposes_celex": [
+    "32006L0038"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/83a956ec-21d6-412f-ae91-5816b83014a6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
