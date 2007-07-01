@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2007 m. sausio 11 d. įsakymas Nr. 3-07 „Dėl geležinkelių transporto eismo saugos reikalavimų kitokio nei 1435 mm ir 1520 mm vėžės pločio geležinkeliuose patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "6",
+  "official_journal_page": null,
+  "official_journal_date": "2007-01-16",
+  "entry_into_force": "2007-07-01",
+  "notification_date": "2008-10-28",
+  "commission_reference": "MNE(2008)55638",
+  "nim_celex": "72004L0049LTU_158607",
+  "nim_id": "158607",
+  "transposes_celex": [
+    "32004L0049"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8550ce03-2f17-41d9-aacb-82bfd66e740a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
