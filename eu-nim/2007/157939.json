@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės kelių transporto inspekcijos prie Susisiekimo ministerijos viršininko 2007 m. birželio 29 d.  įsakymas Nr. 2B-238 „Dėl techninių reikalavimų nacionaliniam transporto priemonių tipui patvirtinti“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "74",
+  "official_journal_page": null,
+  "official_journal_date": "2007-07-05",
+  "entry_into_force": "2007-07-06",
+  "notification_date": "2008-09-04",
+  "commission_reference": "MNE(2008)54989",
+  "nim_celex": "72006L0038LTU_157939",
+  "nim_id": "157939",
+  "transposes_celex": [
+    "32006L0038"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ca23ed77-4299-4bf9-86a2-a9aebc801d26",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
