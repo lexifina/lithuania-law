@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos valstybinės maisto ir veterinarijos tarnybos direktoriaus 2007 m. birželio 15 d. įsakymas Nr. B1-553 \"Dėl paukščių gripo kontrolės reikalavimų patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "74",
+  "official_journal_page": null,
+  "official_journal_date": "2007-07-05",
+  "entry_into_force": "2007-07-06",
+  "notification_date": "2007-08-07",
+  "commission_reference": "MNE(2007)55313",
+  "nim_celex": "72005L0094LTU_146810",
+  "nim_id": "146810",
+  "transposes_celex": [
+    "32005L0094"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a80c8db2-e9fa-4816-b2dd-8b4d9b446765",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
