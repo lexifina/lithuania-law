@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Viešosios įstaigos \"Lietuvos Respublikos apskaitos institutas\" direktoriaus 2007 m. birželio 29 d. nutarimas Nr. VAS-4 \"Dėl 24-ojo verslo apskaitos standarto \"Pelno mokestis\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "75",
+  "official_journal_page": null,
+  "official_journal_date": "2007-07-07",
+  "entry_into_force": "2007-07-08",
+  "notification_date": "2015-08-05",
+  "commission_reference": "MNE(2015)55777",
+  "nim_celex": "72013L0034LTU_228958",
+  "nim_id": "228958",
+  "transposes_celex": [
+    "32013L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c4651afb-0aac-4076-a0f7-cffa18c7bc8f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
