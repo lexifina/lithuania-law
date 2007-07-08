@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2007 m. liepos 2 d. įsakymas Nr. V-556 „Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2002 m. gegužės 27 d. įsakymo Nr. 239 „Dėl Lietuvos higienos normos HN 36:2002 „Draudžiamos ir ribojamos medžiagos“ patvirtinimo“ pakeitimo",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "75",
+  "official_journal_page": null,
+  "official_journal_date": "2007-07-07",
+  "entry_into_force": "2007-07-08",
+  "notification_date": "2007-09-03",
+  "commission_reference": "MNE(2007)56444",
+  "nim_celex": "72006L0122LTU_148413",
+  "nim_id": "148413",
+  "transposes_celex": [
+    "32006L0122"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6654a1eb-d67b-4b17-a7e1-65e5156d98f6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
