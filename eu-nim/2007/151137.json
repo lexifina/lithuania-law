@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2007 M. LIEPOS 4 D. ĮSAKYMAS NR. D1-384 \"DĖL LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2004 M. BALANDŽIO 27 D. ĮSAKYMO NR. D1-207 „DĖL ATLIEKŲ VEŽIMO TVARKOS APRAŠO PATVIRTINIMO“ PAKEITIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "76",
+  "official_journal_page": null,
+  "official_journal_date": "2007-07-10",
+  "entry_into_force": "2007-07-11",
+  "notification_date": "2007-11-28",
+  "commission_reference": "MNE(2007)58402",
+  "nim_celex": "72002L0096LTU_151137",
+  "nim_id": "151137",
+  "transposes_celex": [
+    "32002L0096"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ff3a675b-0721-4a8d-9ed3-ea00742f3baa",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
