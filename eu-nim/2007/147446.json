@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2007 m. liepos 10 d. įsakymas Nr. V-571 \"Dėl biocidų veikliųjų medžiagų sąrašo patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "78",
+  "official_journal_page": null,
+  "official_journal_date": "2007-07-14",
+  "entry_into_force": "2007-07-15",
+  "notification_date": "2007-08-07",
+  "commission_reference": "MNE(2007)55775",
+  "nim_celex": "72007L0020LTU_147446",
+  "nim_id": "147446",
+  "transposes_celex": [
+    "32007L0020"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/110a2d3d-35d3-4763-a7e0-015c1a68f5b1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
