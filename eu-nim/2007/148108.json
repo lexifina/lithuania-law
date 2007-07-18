@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vertybinių popierių komisijos 2007 m. liepos 12 d. nutarimas Nr. 1K-25 \"Dėl Finansinės grupės jungtinės (konsoliduotos) priežiūros taisyklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "79",
+  "official_journal_page": null,
+  "official_journal_date": "2007-07-17",
+  "entry_into_force": "2007-07-18",
+  "notification_date": "2007-08-27",
+  "commission_reference": "MNE(2007)56201",
+  "nim_celex": "72006L0048LTU_148108",
+  "nim_id": "148108",
+  "transposes_celex": [
+    "32006L0048",
+    "32006L0049"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/84b3f830-e65e-4a10-b3b0-f632af25f02c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
