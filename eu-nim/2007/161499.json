@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2007 m. liepos 9 d. įsakymas Nr. 3D-325 „Dėl cukraus, skirto žmonėms vartoti, gliukozės ir invertuotojo cukraus sirupų bei tirpalų sudėties ir tyrimo metodų techninio reglamento patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "79",
+  "official_journal_page": null,
+  "official_journal_date": "2007-07-17",
+  "entry_into_force": "2007-07-18",
+  "notification_date": "2009-05-14",
+  "commission_reference": "MNE(2009)51634",
+  "nim_celex": "71979L0796LTU_161499",
+  "nim_id": "161499",
+  "transposes_celex": [
+    "31979L0796"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/31439e62-7597-4b4a-978a-4a88dbb50668",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
