@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos  mokesčių administravimo įstatymo 2, 12, 13, 15, 25, 33, 37, 38, 66, 76, 77, 78, 80, 81, 84, 87, 89, 93, 97, 100, 101, 104, 105, 108, 113, 117, 118, 128, 130, 132, 133, 135, 141, 142, 164, 165 straipsnių ir priedo pakeitimo bei papildymo ir Įstatymo papildymo 133(1) straipsniu įstatymas Nr. X-1249",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "80",
+  "official_journal_page": null,
+  "official_journal_date": "2007-07-19",
+  "entry_into_force": "2007-07-19",
+  "notification_date": "2012-12-27",
+  "commission_reference": "MNE(2012)57945",
+  "nim_celex": "72011L0016LTU_199664",
+  "nim_id": "199664",
+  "transposes_celex": [
+    "32011L0016"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cd72dc6a-154f-4cff-97f2-c5c0d6f769d6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
