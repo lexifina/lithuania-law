@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Baudžiamojo kodekso 7, 38, 47, 63, 66, 70, 75, 82, 93, 129, 166, 167, 172, 178, 180, 181, 182, 183, 184, 185, 189, 194, 196, 197, 198, 198(1), 198 (2), 199, 202, 213, 214, 215, 225, 227, 228, 231, 233, 235, 252, 256, 257, 263, 284, 285, 312 straipsnių, priedo pakeitimo ir papildymo, XXVI, XXX skyrių pavadinimų pakeitimo ir kodekso papildymo 256(1), 257(1) straipsniais įstatymas Nr. X-1233",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "81",
+  "official_journal_page": null,
+  "official_journal_date": "2007-07-21",
+  "entry_into_force": "2007-07-21",
+  "notification_date": "2007-10-01",
+  "commission_reference": "MNE(2007)57043",
+  "nim_celex": "72004L0023LTU_149237",
+  "nim_id": "149237",
+  "transposes_celex": [
+    "32004L0023",
+    "32007L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4509fe8d-b753-430d-805b-2990fe59e8de",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
