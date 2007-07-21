@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS BAUDŽIAMOJO KODEKSO 7, 38, 47, 63, 66, 70, 75, 82, 93, 129, 166, 167, 172, 178, 180, 181, 182, 183, 184, 185, 189, 194, 196, 197, 198, 198(1), 198(2), 199, 202, 213, 214, 215, 225, 227, 228, 231, 233, 235, 252, 256, 257, 262, 284, 285, 312 STRAIPSNIŲ, PRIEDO PAKEITIMO IR PAPILDYMO, XXVI, XXX SKYRIŲ PAVADINIMŲ PAKEITIMO IR KODEKSO PAPILDYMO 256(1), 257(1) STRAIPSNIAIS ĮSTATYMAS NR. X-1233",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "81",
+  "official_journal_page": null,
+  "official_journal_date": "2007-07-21",
+  "entry_into_force": "2007-07-21",
+  "notification_date": "2008-03-28",
+  "commission_reference": "MNE(2007)55904",
+  "nim_celex": "72005L0035LTU_147661",
+  "nim_id": "147661",
+  "transposes_celex": [
+    "32005L0035",
+    "32005L0060"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ca83e2a6-bf1e-4df1-9b05-37bbf6aaf303",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
