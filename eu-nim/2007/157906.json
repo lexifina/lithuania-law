@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 7 straipsnio pakeitimo įstatymas Nr. X-1259",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "81",
+  "official_journal_page": null,
+  "official_journal_date": "2007-07-21",
+  "entry_into_force": "2007-07-21",
+  "notification_date": "2008-09-03",
+  "commission_reference": "MNE(2008)54956",
+  "nim_celex": "72006L0038LTU_157906",
+  "nim_id": "157906",
+  "transposes_celex": [
+    "32006L0038",
+    "32011L0076"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1605afed-4c96-4d3c-8dfe-01bfd9419278",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
