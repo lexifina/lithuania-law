@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2007 m. liepos 9 d. įsakymas Nr. 3-245 'Dėl Lietuvos Respublikos vidaus vandenų laivų registre įregistruotų vidaus vandenų transporto priemonių techninės priežiūros atlikimo taisyklių patvirtinimo'",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "83",
+  "official_journal_page": null,
+  "official_journal_date": "2007-07-26",
+  "entry_into_force": "2007-07-27",
+  "notification_date": "2013-03-19",
+  "commission_reference": "MNE(2012)57968",
+  "nim_celex": "72009L0100LTU_199714",
+  "nim_id": "199714",
+  "transposes_celex": [
+    "32009L0100",
+    "32012L0048"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/553fcdac-ae35-4adb-ae80-bc248379fc98",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
