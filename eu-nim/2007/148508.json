@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro 2007 m. liepos 17 d. įsakymas Nr. 4-298 \"Dėl  Lietuvos Respublikos ūkio ministro 2002 m. gegužės 10 d. įsakymo Nr. 163 „Dėl reglamentų tvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "81",
+  "official_journal_page": null,
+  "official_journal_date": "2007-07-21",
+  "entry_into_force": "2007-08-11",
+  "notification_date": "2007-09-04",
+  "commission_reference": "MNE(2007)56508",
+  "nim_celex": "72005L0032LTU_148508",
+  "nim_id": "148508",
+  "transposes_celex": [
+    "32005L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c9db53ac-86af-41d3-bc86-71e236fa2be6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
