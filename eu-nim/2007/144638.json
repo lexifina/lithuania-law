@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS ELEKTRONINIŲ RYŠIŲ ĮSTATYMO 65 STRAIPSNIO PAKEITIMO ĮSTATYMAS Nr.X-1092",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "46",
+  "official_journal_page": null,
+  "official_journal_date": "2007-04-26",
+  "entry_into_force": "2007-09-01",
+  "notification_date": "2007-05-03",
+  "commission_reference": "MNE(2007)53732",
+  "nim_celex": "72002L0022LTU_144638",
+  "nim_id": "144638",
+  "transposes_celex": [
+    "32002L0022"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9b1fff80-00d0-481e-be9e-d07c5c267eb1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
