@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2007 m. rugpjūčio 22 d. nutarimas Nr. 875 \"Dėl asmenų prašymų nagrinėjimo ir jų aptarnavimo viešojo administravimo institucijose, įstaigose ir kituose viešojo administravimo subjektuose taisyklių patvirtinimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "94",
+  "official_journal_page": null,
+  "official_journal_date": "2007-09-01",
+  "entry_into_force": "2007-09-02",
+  "notification_date": "2015-01-20",
+  "commission_reference": "MNE(2014)56427",
+  "nim_celex": "72011L0098LTU_221210",
+  "nim_id": "221210",
+  "transposes_celex": [
+    "32011L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/676f3f91-b4f1-4035-95f0-c936aef2b78b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
