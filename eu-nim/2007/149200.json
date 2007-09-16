@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2007 m. rugsėjo 5 d. nutarimas Nr. 953 „Dėl Lietuvos Respublikos Vyriausybės 2000 m. kovo 23 d. nutarimo Nr. 337 „Dėl pavojingų krovinių vežimo kelių transportu Lietuvos Respublikoje“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "98",
+  "official_journal_page": null,
+  "official_journal_date": "2007-09-15",
+  "entry_into_force": "2007-09-16",
+  "notification_date": "2007-09-27",
+  "commission_reference": "MNE(2007)57014",
+  "nim_celex": "72006L0089LTU_149200",
+  "nim_id": "149200",
+  "transposes_celex": [
+    "32006L0089"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9cb2e65e-8793-4e6a-81b9-41765b1bb77e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
