@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Viešosios įstaigos Lietuvos Respublikos apskaitos instituto direktoriaus 2007 m. rugsėjo 17 d. įsakymas Nr. VAS-6 „Dėl 26-ojo verslo apskaitos standarto „Išvestinės finansinės priemonės“ tvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "99",
+  "official_journal_page": null,
+  "official_journal_date": "2007-09-20",
+  "entry_into_force": "2007-09-21",
+  "notification_date": "2015-11-04",
+  "commission_reference": "MNE(2015)57943",
+  "nim_celex": "72013L0034LTU_231322",
+  "nim_id": "231322",
+  "transposes_celex": [
+    "32013L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9ed07a86-1e5a-4ff0-a297-bbc9fb7c517b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
