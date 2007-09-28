@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės kelių transporto inspekcijos prie Susisiekimo ministerijos viršininko 2007 m. rugpjūčio 10 d. įsakymas Nr. 2B-284 „Dėl ataskaitų formų apie vairuotojų vairavimo ir poilsio režimo tikrinimą patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "101",
+  "official_journal_page": null,
+  "official_journal_date": "2007-09-27",
+  "entry_into_force": "2007-09-28",
+  "notification_date": "2007-12-11",
+  "commission_reference": "MNE(2007)58743",
+  "nim_celex": "72006L0022LTU_151556",
+  "nim_id": "151556",
+  "transposes_celex": [
+    "32006L0022"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b7d0194f-7ef5-4cf7-96d6-43609d04eace",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
