@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės metrologijos tarnybos direktoriaus 2007 m. rugsėjo 28 d. įsakymas Nr. V-76 \"Dėl Komisijos direktyvos 2007/13/EB perkėlimo į Lietuvos teisę\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "103",
+  "official_journal_page": null,
+  "official_journal_date": "2007-10-04",
+  "entry_into_force": "2007-10-05",
+  "notification_date": "2007-10-09",
+  "commission_reference": "MNE(2007)57198",
+  "nim_celex": "72007L0013LTU_149455",
+  "nim_id": "149455",
+  "transposes_celex": [
+    "32007L0013"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9dbaac8e-131d-4011-a40c-cc7387d74f57",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
