@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro ir Lietuvos Respublikos sveikatos apsaugos ministro 2007 m. spalio 5 d. įsakymas Nr. A1-277/V-785 „Dėl 2007 m. birželio 20 d. Europos Parlamento ir Tarybos direktyvos 2007/30/EB, iš dalies keičiančios Tarybos direktyvą 89/391/EEB, jos atskiras direktyvas ir Tarybos direktyvas 83/477/EEB, 91/383/EEB, 92/29/EEB bei 94/33/EB, siekiant supaprastinti ir racionalizuoti praktinio įgyvendinimo ataskaitas, įgyvendinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "105",
+  "official_journal_page": null,
+  "official_journal_date": "2007-10-11",
+  "entry_into_force": "2007-10-12",
+  "notification_date": "2015-12-30",
+  "commission_reference": "MNE(2015)59755",
+  "nim_celex": "71994L0033LTU_233220",
+  "nim_id": "233220",
+  "transposes_celex": [
+    "31994L0033"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a15c8910-c7b3-4b96-b3f4-44241ffd76a5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
