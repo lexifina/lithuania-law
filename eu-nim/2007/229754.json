@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro 2007 m. spalio 4 d. įsakymas Nr. 1V-340 \"Dėl Laikinojo užsieniečių apgyvendinimo Užsieniečių registracijos centre sąlygų ir tvarkos aprašo patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "105",
+  "official_journal_page": null,
+  "official_journal_date": "2007-10-11",
+  "entry_into_force": "2007-10-12",
+  "notification_date": "2015-09-14",
+  "commission_reference": "MNE(2015)56503",
+  "nim_celex": "72013L0033LTU_229754",
+  "nim_id": "229754",
+  "transposes_celex": [
+    "32013L0033"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6726a564-f383-4e04-9b16-3a75181e3035",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
