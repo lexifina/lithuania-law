@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2007 m. spalio 8 d. įsakymas Nr. V-797 \"Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2007 m. balandžio 25 d. įsakymo Nr. V-295 \"Dėl Farmacinės veiklos atitikties gerai platinimo praktikai tikrinimo nuostatų patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "106",
+  "official_journal_page": null,
+  "official_journal_date": "2007-10-13",
+  "entry_into_force": "2007-10-14",
+  "notification_date": "2013-07-31",
+  "commission_reference": "MNE(2013)57146",
+  "nim_celex": "72011L0062LTU_208209",
+  "nim_id": "208209",
+  "transposes_celex": [
+    "32011L0062"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bfaab7be-8d0b-4a7e-9e67-f6fa0a43543b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
