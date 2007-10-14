@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2007 M. SPALIO 9 D. ĮSAKYMAS NR. D1-516 \"DĖL APLINKOS MINISTRO 2002 M. VASARIO 27 D. ĮSAKYMO NR. 80 \"DĖL TARŠOS INTEGRUOTOS PREVENCIJOS IR KONTROLĖS LEIDIMŲ IŠDAVIMO, ATNAUJINIMO IR PANAIKINIMO TAISYKLIŲ PATVIRTINIMO\" PAKEITIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "106",
+  "official_journal_page": null,
+  "official_journal_date": "2007-10-13",
+  "entry_into_force": "2007-10-14",
+  "notification_date": "2007-10-22",
+  "commission_reference": "MNE(2007)57448",
+  "nim_celex": "71996L0061LTU_149757",
+  "nim_id": "149757",
+  "transposes_celex": [
+    "31996L0061"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/086cd0fa-bf16-4498-a2a1-619a89cc0930",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
