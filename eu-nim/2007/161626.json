@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2007 M. SPALIO 18 D. ĮSAKYMAS NR. D1-529 \"DĖL APLINKOS MINISTRO 2005 M. BALANDŽIO 1 D. ĮSAKYMO NR. D1-183 „DĖL BENDRO ĮGYVENDINIMO PROJEKTŲ VYKDYMO TAISYKLIŲ PATVIRTINIMO“ PAKEITIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "109",
+  "official_journal_page": null,
+  "official_journal_date": "2007-10-23",
+  "entry_into_force": "2007-10-24",
+  "notification_date": "2009-04-27",
+  "commission_reference": "MNE(2009)51760",
+  "nim_celex": "72004L0101LTU_161626",
+  "nim_id": "161626",
+  "transposes_celex": [
+    "32004L0101"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/119fbff1-ad5b-4ddf-ab9f-2d84f48f5825",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
