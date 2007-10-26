@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2007 m. spalio 17 d. nutarimas Nr. 1100 „Dėl Lietuvos Respublikos Vyriausybės 2005 m. balandžio 21 d. nutarimo Nr. 447 „Dėl Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo įgyvendinimo“ pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "110",
+  "official_journal_page": null,
+  "official_journal_date": "2007-10-25",
+  "entry_into_force": "2007-10-26",
+  "notification_date": "2013-12-05",
+  "commission_reference": "MNE(2013)59298",
+  "nim_celex": "72011L0076LTU_211027",
+  "nim_id": "211027",
+  "transposes_celex": [
+    "32011L0076"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d9e64f91-3f58-4360-bb22-37798c25de55",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
