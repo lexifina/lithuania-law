@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2007 m. spalio 24 d. nutarimas Nr. 1130 \"Dėl Lietuvos Respublikos Vyriausybės 2000 m. rugpjūčio 23 d. nutarimo Nr. 961 \"Dėl žmogaus audinių ir organų donorų bei recipientų registro įsteigimo ir jo nuostatų patvirtinimo\"pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "112",
+  "official_journal_page": null,
+  "official_journal_date": "2007-10-30",
+  "entry_into_force": "2007-10-31",
+  "notification_date": "2007-11-12",
+  "commission_reference": "MNE(2007)58123",
+  "nim_celex": "72004L0023LTU_150689",
+  "nim_id": "150689",
+  "transposes_celex": [
+    "32004L0023"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/dd53d959-d2f0-4d9d-b506-c1a375367cd2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
