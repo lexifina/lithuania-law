@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vertybinių popierių komisijos 2007 m. gegužės 31 d. nutarimas Nr. 1K-22 \"Dėl Investicinių paslaugų teikimo ir klientų pavedimų priėmimo ir vykdymo taisyklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "64",
+  "official_journal_page": null,
+  "official_journal_date": "2007-06-09",
+  "entry_into_force": "2007-11-01",
+  "notification_date": "2007-06-19",
+  "commission_reference": "MNE(2007)54611",
+  "nim_celex": "72006L0073LTU_145916",
+  "nim_id": "145916",
+  "transposes_celex": [
+    "32006L0073"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b31bd8a2-1414-4dec-8af1-03ea6c89628a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
