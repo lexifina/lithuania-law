@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Viešosios įstaigos Lietuvos Respublikos apskaitos instituto direktoriaus 2007 m. lapkričio 5 d. įsakymas Nr. VAS-7 „Dėl 16-ojo verslo apskaitos standarto „Konsoliduota finansinė atskaitomybė ir investicijos į dukterines įmones“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "114",
+  "official_journal_page": null,
+  "official_journal_date": "2007-11-08",
+  "entry_into_force": "2007-11-09",
+  "notification_date": "2008-07-24",
+  "commission_reference": "MNE(2008)54244",
+  "nim_celex": "72006L0043LTU_157175",
+  "nim_id": "157175",
+  "transposes_celex": [
+    "32006L0043"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/42421c6a-b4bb-4fc6-af19-aa07a3a3e218",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
