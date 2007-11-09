@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2007 m. spalio 31 d. įsakymas Nr. 3-347 \"Dėl Užmokesčių už viešosios geležinkelių infrastruktūros valdytojo geležinkelio įmonėms (vežėjams) teikiamas papildomas ir (ar) pagalbines paslaugas nustatymo taisyklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "114",
+  "official_journal_page": null,
+  "official_journal_date": "2007-11-08",
+  "entry_into_force": "2007-11-09",
+  "notification_date": "2015-07-28",
+  "commission_reference": "MNE(2015)55395",
+  "nim_celex": "72012L0034LTU_228524",
+  "nim_id": "228524",
+  "transposes_celex": [
+    "32012L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4fbf1783-c533-4b6d-925f-3e53ef751fc3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
