@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2007 M. LAPKRIČIO 7 D. ĮSAKYMAS NR. D1-587 'DĖL LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2003 M. RUGPJŪČIO 4 D. ĮSAKYMO NR. 413 „DĖL GENETIŠKAI MODIFIKUOTŲ MIKROORGANIZMŲ RIBOTO NAUDOJIMO LIETUVOS RESPUBLIKOJE TVARKOS PATVIRTINIMO“ PAPILDYMO'",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "115",
+  "official_journal_page": null,
+  "official_journal_date": "2007-11-10",
+  "entry_into_force": "2007-11-11",
+  "notification_date": "2007-11-15",
+  "commission_reference": "MNE(2007)58189",
+  "nim_celex": "71990L0219LTU_150797",
+  "nim_id": "150797",
+  "transposes_celex": [
+    "31990L0219",
+    "31998L0081",
+    "32009L0041"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/66d66937-df02-460b-96a4-b18f4128cd9e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
