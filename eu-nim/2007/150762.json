@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS APSAUGOS VALSTYBINĖS KONTROLĖS ĮSTATYMO 12 STRAIPSNIO PAKEITIMO, IV SKYRIAUS PAPILDYMO KETVIRTUOJU SKIRSNIU IR ĮSTATYMO PRIEDO PAKEITIMO ĮSTATYMAS NR. X-1299",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "116",
+  "official_journal_page": null,
+  "official_journal_date": "2007-11-13",
+  "entry_into_force": "2007-11-13",
+  "notification_date": "2007-11-14",
+  "commission_reference": "MNE(2007)58168",
+  "nim_celex": "72005L0035LTU_150762",
+  "nim_id": "150762",
+  "transposes_celex": [
+    "32005L0035"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e02ad157-1333-4e2b-91a6-71fc93c96fbc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
