@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO\nIR LIETUVOS RESPUBLIKOS ŪKIO MINISTRO 2007 M. LAPKRIČIO 19 D. ĮSAKYMAS NR. D1-609/4-477 \"DĖL NACIONALINIO APYVARTINIŲ TARŠOS LEIDIMŲ \nPASKIRSTYMO 2008–2012 METAMS PLANO PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "120",
+  "official_journal_page": null,
+  "official_journal_date": "2007-11-22",
+  "entry_into_force": "2007-11-23",
+  "notification_date": "2007-11-29",
+  "commission_reference": "MNE(2007)58409",
+  "nim_celex": "72003L0087LTU_151154",
+  "nim_id": "151154",
+  "transposes_celex": [
+    "32003L0087"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d6a9fd18-b686-441e-8aef-67832dfbe9bf",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
