@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Viešosios įstaigos \"Lietuvos Respublikos apskaitos institutas\" direktoriaus 2007 m. lapkričio 20 d. įsakymas Nr. VAS-8 \"Dėl 13-ojo verslo apskaitos standarto \"Nematerialusis turtas\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "121",
+  "official_journal_page": null,
+  "official_journal_date": "2007-11-24",
+  "entry_into_force": "2007-11-25",
+  "notification_date": "2015-08-05",
+  "commission_reference": "MNE(2015)55762",
+  "nim_celex": "72013L0034LTU_228943",
+  "nim_id": "228943",
+  "transposes_celex": [
+    "32013L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/df3dde61-dee1-4f5b-a2b6-9ca9c7ecea74",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
