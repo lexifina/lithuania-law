@@ -1,0 +1,30 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2007 m. spalio 31 d. nutarimas Nr. 1224 „Dėl Lietuvos Respublikos Vyriausybės 2002 m. balandžio 12 d. nutarimo Nr. 519 „Dėl valstybinio strateginio atliekų tvarkymo plano patvirtinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "122",
+  "official_journal_page": null,
+  "official_journal_date": "2007-11-27",
+  "entry_into_force": "2007-11-28",
+  "notification_date": "2007-11-28",
+  "commission_reference": "MNE(2007)58401",
+  "nim_celex": "71975L0439LTU_151136",
+  "nim_id": "151136",
+  "transposes_celex": [
+    "31975L0439",
+    "31975L0442",
+    "31991L0689",
+    "31994L0062",
+    "31999L0031",
+    "32000L0053",
+    "32002L0096",
+    "32006L0066",
+    "32008L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fbb5178e-894c-4530-81cb-2ea60509037d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
