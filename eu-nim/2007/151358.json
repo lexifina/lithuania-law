@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 2, 3, 28, 31, 32, 40, 62, 80 straipsnių ir 2 priedo pakeitimo ir papildymo ĮSTATYMAS Nr. X-1322",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "125",
+  "official_journal_page": null,
+  "official_journal_date": "2007-12-01",
+  "entry_into_force": "2007-12-01",
+  "notification_date": "2007-12-10",
+  "commission_reference": "MNE(2007)58569",
+  "nim_celex": "72006L0069LTU_151358",
+  "nim_id": "151358",
+  "transposes_celex": [
+    "32006L0069"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7c4cceb3-fa5e-459f-bef7-a8462daf89b3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
