@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2007 m. spalio 11 d. nutarimas Nr. 133 „Dėl Testavimo nepalankiausiomis sąlygomis bendrųjų nuostatų patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "109",
+  "official_journal_page": null,
+  "official_journal_date": "2007-10-23",
+  "entry_into_force": "2007-12-01",
+  "notification_date": "2008-01-04",
+  "commission_reference": "MNE(2007)59263",
+  "nim_celex": "72006L0048LTU_152247",
+  "nim_id": "152247",
+  "transposes_celex": [
+    "32006L0048",
+    "32006L0049"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/16e90c19-aa5d-4d57-be75-8f8d9981d873",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
