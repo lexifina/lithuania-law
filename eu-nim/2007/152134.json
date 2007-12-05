@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės kelių transporto inspekcijos prie Susisiekimo ministerijos viršininko 2007 m. lapkričio 27 d. įsakymas Nr. 2B-388 „Dėl Transporto priemonių oro kondicionavimo sistemų tipo patvirtinimo taisyklių“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "126",
+  "official_journal_page": null,
+  "official_journal_date": "2007-12-04",
+  "entry_into_force": "2007-12-05",
+  "notification_date": "2007-12-27",
+  "commission_reference": "MNE(2007)59215",
+  "nim_celex": "72006L0040LTU_152134",
+  "nim_id": "152134",
+  "transposes_celex": [
+    "32006L0040"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/da15d44d-1fbe-46d8-b2c1-e4271f5d4c2b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
