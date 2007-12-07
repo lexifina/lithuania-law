@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2007 M. LAPKRIČIO 30 D. ĮSAKYMAS NR. D1-652 \"DĖL FUNKCIJŲ, UŽTIKRINANČIŲ ŠILTNAMIO DUJŲ APSKAITOS IR ATASKAITŲ TEIKIMO REIKALAVIMŲ ĮGYVENDINIMĄ, PASISKIRSTYMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "127",
+  "official_journal_page": null,
+  "official_journal_date": "2007-12-06",
+  "entry_into_force": "2007-12-07",
+  "notification_date": "2009-04-27",
+  "commission_reference": "MNE(2009)51782",
+  "nim_celex": "72003L0087LTU_161648",
+  "nim_id": "161648",
+  "transposes_celex": [
+    "32003L0087"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2625cf29-3823-4f91-b46f-f5aad5be4e65",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
