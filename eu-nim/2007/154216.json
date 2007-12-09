@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Socialinės apsaugos ir darbo ministro 2007 m. gruodžio 5 d. įsakymas Nr. A1-350 „Dėl socialinės apsaugos ir darbo ministro 2000 m. kovo 6 d. įsakymo Nr. 28 „Dėl techninio reglamento „Mašinų sauga“ patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "129",
+  "official_journal_page": null,
+  "official_journal_date": "2007-12-08",
+  "entry_into_force": "2007-12-09",
+  "notification_date": "2008-03-21",
+  "commission_reference": "MNE(2008)51516",
+  "nim_celex": "72006L0042LTU_154216",
+  "nim_id": "154216",
+  "transposes_celex": [
+    "32006L0042"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c8d228e6-00fc-4118-b26b-545c02f5e022",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
