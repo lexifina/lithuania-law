@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 2007 M. GRUODŽIO 5 D. NUTARIMAS NR. 1282 \"DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 2004 M. RUGPJŪČIO 18 D. NUTARIMO NR. 967 „DĖL PLANŲ IR PROGRAMŲ STRATEGINIO PASEKMIŲ APLINKAI VERTINIMO TVARKOS APRAŠO PATVIRTINIMO“ PAKEITIMO\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "131",
+  "official_journal_page": null,
+  "official_journal_date": "2007-12-13",
+  "entry_into_force": "2007-12-14",
+  "notification_date": "2007-12-17",
+  "commission_reference": "MNE(2007)58989",
+  "nim_celex": "72001L0042LTU_151849",
+  "nim_id": "151849",
+  "transposes_celex": [
+    "32001L0042"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0aa9d793-8002-4ce2-b094-276641940a31",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
