@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2007 m. gruodžio 5 d. nutarimas Nr. 1305 „Dėl pirminės ir suvestinės triukšmo valdymo informacijos teikimo Triukšmo prevencijos tarybai, valstybės institucijoms, apskričių viršininkams ir visuomenei taisyklių patvirtinimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "132",
+  "official_journal_page": null,
+  "official_journal_date": "2007-12-15",
+  "entry_into_force": "2007-12-16",
+  "notification_date": "2008-09-25",
+  "commission_reference": "MNE(2008)55227",
+  "nim_celex": "72002L0049LTU_158180",
+  "nim_id": "158180",
+  "transposes_celex": [
+    "32002L0049"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/91574dd7-b432-4bd6-8538-44af2819fc92",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
