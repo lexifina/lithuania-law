@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2007 m. gruodžio 12 d. nutarimas Nr. 1332 „Dėl Vietos nustatymo įrangos įsigijimo, įdiegimo (pritaikymo), atnaujinimo ir veikimo palaikymo išlaidų kompensavimo valstybės lėšomis tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "135",
+  "official_journal_page": null,
+  "official_journal_date": "2007-12-21",
+  "entry_into_force": "2007-12-22",
+  "notification_date": "2007-12-27",
+  "commission_reference": "MNE(2007)59217",
+  "nim_celex": "72002L0022LTU_152136",
+  "nim_id": "152136",
+  "transposes_celex": [
+    "32002L0022"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5a1151ab-fc19-4368-8385-226875bacf90",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
