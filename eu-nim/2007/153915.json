@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 2007 M. GRUODŽIO 12 D. NUTARIMAS NR. 1333 'DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 2005 M. LIEPOS 14 D. NUTARIMO NR. 768 „DĖL INFORMACIJOS APIE FINANSINIUS SANTYKIUS TARP VALSTYBĖS INSTITUCIJŲ IR ĮMONIŲ, KURIOMS VALSTYBĖS INSTITUCIJOS GALI DARYTI LEMIAMĄ ĮTAKĄ, IR APIE TAM TIKRAS ĮMONES KAUPIMO TAISYKLIŲ PATVIRTINIMO“ PAKEITIMO'",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "135",
+  "official_journal_page": null,
+  "official_journal_date": "2007-12-21",
+  "entry_into_force": "2007-12-22",
+  "notification_date": "2008-02-21",
+  "commission_reference": "MNE(2008)51305",
+  "nim_celex": "71980L0723LTU_153915",
+  "nim_id": "153915",
+  "transposes_celex": [
+    "31980L0723",
+    "32006L0111"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a3bef484-34c7-4a95-a131-e4092bd3a3ac",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
