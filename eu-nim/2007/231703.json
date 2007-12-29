@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymo pakeitimo įstatymas Nr. X-1384",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "140",
+  "official_journal_page": null,
+  "official_journal_date": "2007-12-29",
+  "entry_into_force": "2007-12-29",
+  "notification_date": "2015-11-13",
+  "commission_reference": "MNE(2015)58310",
+  "nim_celex": "72012L0029LTU_231703",
+  "nim_id": "231703",
+  "transposes_celex": [
+    "32012L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3274fe44-ad6d-441f-a850-55ca40067b8a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
