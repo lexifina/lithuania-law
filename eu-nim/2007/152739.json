@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2007 m. gruodžio 21 d. įsakymas Nr. V-1055 \"Dėl Lietuvos higienos normos HN 92:2007 \"Paplūdimiai ir jų maudyklų vandens kokybė\" patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "139",
+  "official_journal_page": null,
+  "official_journal_date": "2007-12-29",
+  "entry_into_force": "2007-12-30",
+  "notification_date": "2008-01-22",
+  "commission_reference": "MNE(2008)50386",
+  "nim_celex": "72006L0007LTU_152739",
+  "nim_id": "152739",
+  "transposes_celex": [
+    "32006L0007"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8eca2f5e-e095-41b1-bedb-b3241e4ddaa5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
