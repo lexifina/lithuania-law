@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2007m. gruodžio 22 d. įsakymas Nr. 3-416 \"Dėl Lietuvos Respublikos susisiekimo ministro 2006 m. kovo 24 d. įsakymo Nr. 3-114 \"Dėl Transporto priemonių ir sudėtinių transporto priemonių dalių atitikties įvertinimo tvarkos aprašo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "138",
+  "official_journal_page": null,
+  "official_journal_date": "2007-12-29",
+  "entry_into_force": "2007-12-30",
+  "notification_date": "2008-01-02",
+  "commission_reference": "MNE(2007)59250",
+  "nim_celex": "72007L0037LTU_152234",
+  "nim_id": "152234",
+  "transposes_celex": [
+    "32007L0037"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5dd7a289-57b7-4d11-94f8-e887e12592dc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
