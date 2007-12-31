@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRO 2007 M. GRUODŽIO 22 D. ĮSAKYMAS NR. V-1069 \"DĖL LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRO 2001 M. GRUODŽIO 22 D. ĮSAKYMO NR. 666 „DĖL LIETUVOS HIGIENOS NORMOS HN 107:2001 „SPECIALIOS PASKIRTIES MAISTO PRODUKTAI“ PATVIRTINIMO“ PAKEITIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "140",
+  "official_journal_page": null,
+  "official_journal_date": "2007-12-29",
+  "entry_into_force": "2007-12-31",
+  "notification_date": "2008-01-21",
+  "commission_reference": "MNE(2008)50112",
+  "nim_celex": "72006L0141LTU_152425",
+  "nim_id": "152425",
+  "transposes_celex": [
+    "32006L0141"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c1bb40b2-5895-4319-b363-8abf0369a3dd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
