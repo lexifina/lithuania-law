@@ -1,0 +1,7 @@
+Įstatymas skelbtas: Žin., 2007, Nr. 120-4880
+Neoficialus įstatymo tekstas
+LIETUVOS RESPUBLIKOS
+VALSTYBINIŲ SOCIALINIO DRAUDIMO SENATVĖS IR INVALIDUMO PENSIJŲ DALIES IŠMOKĖJIMO
+ĮSTATYMAS
+2007 m. lapkričio 6 d. Nr. X-1313
+Vilnius
