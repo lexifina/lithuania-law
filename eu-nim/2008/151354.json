@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS BIOMEDICININIŲ TYRIMŲ ETIKOS ĮSTATYMO 1, 2, 4, 12, 13, 14, 15, 16, 17 STRAIPSNIŲ IR PRIEDO PAKEITIMO IR PAPILDYMO ĮSTATYMAS Nr. X-1325",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "125",
+  "official_journal_page": null,
+  "official_journal_date": "2007-12-01",
+  "entry_into_force": "2008-01-01",
+  "notification_date": "2007-12-05",
+  "commission_reference": "MNE(2007)58565",
+  "nim_celex": "72001L0020LTU_151354",
+  "nim_id": "151354",
+  "transposes_celex": [
+    "32001L0020"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3b3df532-3740-427c-9f4a-1c21ff0996e9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
