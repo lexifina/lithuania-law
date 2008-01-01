@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo 3, 4, 26, 27 straipsnių pakeitimo įstatymas Nr. X-1401",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "138",
+  "official_journal_page": null,
+  "official_journal_date": "2007-12-29",
+  "entry_into_force": "2008-01-01",
+  "notification_date": "2014-04-30",
+  "commission_reference": "MNE(2014)52598",
+  "nim_celex": "72011L0098LTU_215482",
+  "nim_id": "215482",
+  "transposes_celex": [
+    "32011L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3636280c-07e0-4ac2-8e72-d42a6613ea6b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
