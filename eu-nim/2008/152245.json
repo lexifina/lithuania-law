@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2007 m. spalio 25 d. nutarimas Nr. 141 „Dėl Lietuvos banko valdybos 2006 m. lapkričio 9 d. nutarimu Nr. 138 „Dėl Kapitalo pakankamumo skaičiavimo bendrųjų nuostatų“ patvirtintų Kapitalo pakankamumo skaičiavimo bendrųjų nuostatų 6.5 punkto įgyvendinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "112",
+  "official_journal_page": null,
+  "official_journal_date": "2007-10-30",
+  "entry_into_force": "2008-01-01",
+  "notification_date": "2008-01-04",
+  "commission_reference": "MNE(2007)59261",
+  "nim_celex": "72006L0048LTU_152245",
+  "nim_id": "152245",
+  "transposes_celex": [
+    "32006L0048",
+    "32006L0049"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7f690e8d-b355-4f6a-945b-4141acc2c755",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
