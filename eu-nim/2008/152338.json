@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių teisės pažeidimų kodekso 77, 83(1), 83(2), 110(1), 123, 142(2), 142(4), 145, 163(2), 173(16), 188(15), 193(2), 224, 225, 225(2), 227, 229, 231, 232(1), 233, 237, 259(1), 262, 264, 271, 281, 320 straipsnių pakeitimo ir kodekso papildymo 44(6), 115(3), 134(1), 136(1), 136(2), 142(5), 142(6), 142(7), 142(8), 142(9), 142(10), 214(28), 214(29), 270(2) straipsniais ĮSTATYMAS nr. X-1381",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "138",
+  "official_journal_page": null,
+  "official_journal_date": "2007-12-29",
+  "entry_into_force": "2008-01-01",
+  "notification_date": "2008-01-03",
+  "commission_reference": "MNE(2008)50051",
+  "nim_celex": "72006L0022LTU_152338",
+  "nim_id": "152338",
+  "transposes_celex": [
+    "32006L0022"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7b9bf474-c842-4a4a-9d9a-dc4c274c25a5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
