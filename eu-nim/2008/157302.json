@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos darbo kodekso 179(1) straipsnio pakeitimo įstatymas Nr. X-1345",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "132",
+  "official_journal_page": null,
+  "official_journal_date": "2007-12-15",
+  "entry_into_force": "2008-01-01",
+  "notification_date": "2008-07-28",
+  "commission_reference": "MNE(2008)54370",
+  "nim_celex": "72006L0054LTU_157302",
+  "nim_id": "157302",
+  "transposes_celex": [
+    "32006L0054"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/de6fc4d4-3228-4733-8496-25fe78360246",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
