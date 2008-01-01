@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2007 m. gruodžio 19 d. nutarimas Nr. 185 „Dėl Subordinuotųjų paskolų ir jų įtraukimo į banko kapitalą bendrųjų nuostatų patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "137",
+  "official_journal_page": null,
+  "official_journal_date": "2007-12-28",
+  "entry_into_force": "2008-01-01",
+  "notification_date": "2008-01-04",
+  "commission_reference": "MNE(2007)59264",
+  "nim_celex": "72006L0048LTU_152248",
+  "nim_id": "152248",
+  "transposes_celex": [
+    "32006L0048",
+    "32006L0049"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/42086f9a-219f-46e9-b69d-f8e9351eb8f5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
