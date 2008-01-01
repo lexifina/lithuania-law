@@ -1,0 +1,13 @@
+Įstatymas
+skelbtas: Žin., 2007, Nr. 77-3046
+Neoficialus
+įstatymo tekstas
+LIETUVOS RESPUBLIKOS
+VIEŠOJO SEKTORIAUS ATSKAITOMYBĖS
+ĮSTATYMAS
+2007 m. birželio 26 d. Nr. X-1212
+Vilnius
+PIRMASIS
+SKIRSNIS
+BENDROSIOS
+NUOSTATOS
