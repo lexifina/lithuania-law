@@ -1,0 +1,20 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos šilumos ūkio įstatymo pakeitimo įstatymas Nr. X-1329",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "130",
+  "official_journal_page": null,
+  "official_journal_date": "2007-12-11",
+  "entry_into_force": "2008-01-01",
+  "notification_date": "2009-07-27",
+  "commission_reference": "MNE(2009)53359",
+  "nim_celex": "72004L0008LTU_163275",
+  "nim_id": "163275",
+  "transposes_celex": [],
+  "cellar": "http://publications.europa.eu/resource/cellar/f3103ba5-130d-4652-b2f7-c1ab7558d6bb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
