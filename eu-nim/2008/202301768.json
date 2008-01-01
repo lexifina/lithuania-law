@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymas Nr. X-1212 (suvestinė redakcija nuo 2023-01-01)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "77-3046",
+  "official_journal_page": null,
+  "official_journal_date": "2007-07-12",
+  "entry_into_force": "2008-01-01",
+  "notification_date": "2023-03-21",
+  "commission_reference": "MNE(2023)01768",
+  "nim_celex": "72021L0514LTU_202301768",
+  "nim_id": "202301768",
+  "transposes_celex": [
+    "32021L0514"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9330db54-ca15-11ed-a05c-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
