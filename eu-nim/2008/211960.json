@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos biudžeto sandaros įstatymo 2, 5, 11, 12, 14, 20, 21, 29, 30, 31, 32, 33, 35 straipsnių pakeitimo ir papildymo įstatymas Nr. X-1354",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "132",
+  "official_journal_page": null,
+  "official_journal_date": "2007-12-15",
+  "entry_into_force": "2008-01-01",
+  "notification_date": "2013-12-23",
+  "commission_reference": "MNE(2013)60091",
+  "nim_celex": "72011L0085LTU_211960",
+  "nim_id": "211960",
+  "transposes_celex": [
+    "32011L0085"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9b61400f-1c81-4c9b-beb5-ccfc011fe81b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
