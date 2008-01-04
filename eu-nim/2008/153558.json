@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos draudimo priežiūros komisijos 2007 m. gruodžio 28 d. nutarimas Nr. N-114 „Dėl Lietuvos Respublikos draudimo priežiūros komisijos 2004 m. balandžio 23 d. nutarimo Nr. N-48 „Dėl papildomos draudimo įmonių, priklausančių grupei, priežiūros metodikos patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "1",
+  "official_journal_page": null,
+  "official_journal_date": "2008-01-03",
+  "entry_into_force": "2008-01-04",
+  "notification_date": "2008-02-07",
+  "commission_reference": "MNE(2008)51008",
+  "nim_celex": "72005L0068LTU_153558",
+  "nim_id": "153558",
+  "transposes_celex": [
+    "32005L0068"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/55af332b-77f1-4c5f-acc9-cb9f1132d009",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
