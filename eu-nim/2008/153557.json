@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos draudimo priežiūros komisijos 2007 m. gruodžio 28 d. nutarimas Nr. N-112 „Dėl Lietuvos Respublikos draudimo priežiūros komisijos 2004 m. balandžio 20 d. nutarimo Nr. N-45 „Dėl duomenų, kurie susiję su Lietuvos Respublikos draudimo priežiūros komisijos vykdoma Lietuvos Respublikos draudimo įstatyme nustatytų subjektų priežiūra, sąrašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "1",
+  "official_journal_page": null,
+  "official_journal_date": "2008-01-03",
+  "entry_into_force": "2008-01-04",
+  "notification_date": "2008-02-07",
+  "commission_reference": "MNE(2008)51007",
+  "nim_celex": "72005L0068LTU_153557",
+  "nim_id": "153557",
+  "transposes_celex": [
+    "32005L0068"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6fd982f4-8c3e-41d1-bac0-34b63e18a4a2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
