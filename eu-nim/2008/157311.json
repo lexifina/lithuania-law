@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2007 m. gruodžio 27 d. įsakymas Nr. A1-375 „Dėl Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2005 m. gruodžio 22 d. įsakymo Nr. A1-337 „Dėl įmonių socialinę atsakomybę 2006-2008 metais skatinančių priemonių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "1",
+  "official_journal_page": null,
+  "official_journal_date": "2008-01-03",
+  "entry_into_force": "2008-01-04",
+  "notification_date": "2008-07-28",
+  "commission_reference": "MNE(2008)54379",
+  "nim_celex": "72006L0054LTU_157311",
+  "nim_id": "157311",
+  "transposes_celex": [
+    "32006L0054"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2d4f5d63-f0fe-49ac-af03-32909baaedee",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
