@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2007 M. GRUODŽIO 27 D. ĮSAKYMAS NR. D1-706 \"DĖL STATYBOS TECHNINIO REGLAMENTO STR 2.01.01(4):2008 \n„ESMINIS STATINIO REIKALAVIMAS „NAUDOJIMO SAUGA“ PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "1",
+  "official_journal_page": null,
+  "official_journal_date": "2008-01-03",
+  "entry_into_force": "2008-01-04",
+  "notification_date": "2009-02-12",
+  "commission_reference": "MNE(2009)50572",
+  "nim_celex": "71989L0106LTU_160409",
+  "nim_id": "160409",
+  "transposes_celex": [
+    "31989L0106"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4e1356fe-2f9a-47d4-9718-5f13085103c9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
