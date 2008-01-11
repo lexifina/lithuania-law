@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2007 m. gruodžio 27 d. nutarimas Nr. 1442 \"Dėl Nacionalinės energetikos strategijos įgyvendinimo 2008-2012 metų plano patvirtinimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "4",
+  "official_journal_page": null,
+  "official_journal_date": "2008-01-10",
+  "entry_into_force": "2008-01-11",
+  "notification_date": "2008-08-27",
+  "commission_reference": "MNE(2008)54705",
+  "nim_celex": "72006L0032LTU_157653",
+  "nim_id": "157653",
+  "transposes_celex": [
+    "32006L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6d621c18-d2c7-4f13-8461-8d5dac73ac5b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
