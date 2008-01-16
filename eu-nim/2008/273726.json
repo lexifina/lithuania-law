@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos generalinio prokuroro 2008 m. sausio 9 d. įsakymas Nr. I-8 \"Dėl Rekomendacijų dėl liudytojo apklausos Lietuvos Respublikos baudžiamojo proceso kodekso 80 straipsnio 1 punkte ir 82 straipsnio 3 dalyje nustatyta tvarka patvirtinimo\" (Suvestinė redakcija nuo 2011-09-04)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "6-234",
+  "official_journal_page": null,
+  "official_journal_date": "2008-01-15",
+  "entry_into_force": "2008-01-16",
+  "notification_date": "2019-06-10",
+  "commission_reference": "MNE(2019)53479",
+  "nim_celex": "72016L0800LTU_273726",
+  "nim_id": "273726",
+  "transposes_celex": [
+    "32016L0800"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4274f234-94d1-4333-91dd-91078ab4efa8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
