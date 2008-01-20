@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2008 m. sausio 14 d. įsakymas Nr. V-22 „Dėl mažos rizikos biocidų veikliųjų medžiagų sąrašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "8",
+  "official_journal_page": null,
+  "official_journal_date": "2008-01-19",
+  "entry_into_force": "2008-01-20",
+  "notification_date": "2008-01-23",
+  "commission_reference": "MNE(2008)50608",
+  "nim_celex": "72007L0070LTU_152993",
+  "nim_id": "152993",
+  "transposes_celex": [
+    "32007L0070"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a77727da-1c63-4a73-a746-88e3af7a4722",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
