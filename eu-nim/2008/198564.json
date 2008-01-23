@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro 2008 m. sausio 9 d. įsakymas Nr. 4-6 \"Dėl Skirstomųjų plieninių dujotiekių įrengimo taisyklių ir skirstomųjų polietileninių dujotiekių įrengimo taisyklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "9",
+  "official_journal_page": null,
+  "official_journal_date": "2008-01-22",
+  "entry_into_force": "2008-01-23",
+  "notification_date": "2012-12-04",
+  "commission_reference": "MNE(2012)56927",
+  "nim_celex": "72009L0073LTU_198564",
+  "nim_id": "198564",
+  "transposes_celex": [
+    "32009L0073"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/828be4a5-8a82-472a-9883-7c2151a7f92f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
