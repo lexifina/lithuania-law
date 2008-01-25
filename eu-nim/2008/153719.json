@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro ir Lietuvos Respublikos aplinkos ministro 2008 m. sausio 15 d. įsakymas Nr.A1-22/D1-34 „Dėl Darboviečių įrengimo statybvietėse nuostatų patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "10",
+  "official_journal_page": null,
+  "official_journal_date": "2008-01-24",
+  "entry_into_force": "2008-01-25",
+  "notification_date": "2008-02-11",
+  "commission_reference": "MNE(2008)51131",
+  "nim_celex": "71992L0057LTU_153719",
+  "nim_id": "153719",
+  "transposes_celex": [
+    "31992L0057"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f2eeab04-7712-4c11-bd55-51797216442a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
