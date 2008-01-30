@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos draudimo priežiūros komisijos 2008 m. sausio 22 d. nutarimas Nr. N-7 „Dėl Lietuvos Respublikos draudimo priežiūros komisijos 2004 m. rugsėjo 7 d. nutarimo Nr. N-107 „Dėl draudimo įmonės ir užsienio valstybės draudimo įmonės filialo Lietuvos Respublikoje verslo plano turinio, formos ir verslo plano pateikimo tvarkos patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "12",
+  "official_journal_page": null,
+  "official_journal_date": "2008-01-29",
+  "entry_into_force": "2008-01-30",
+  "notification_date": "2008-02-07",
+  "commission_reference": "MNE(2008)51006",
+  "nim_celex": "72005L0068LTU_153556",
+  "nim_id": "153556",
+  "transposes_celex": [
+    "32005L0068"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d5dc04f2-322f-49ad-aa8e-8f2955224901",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
