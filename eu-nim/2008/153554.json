@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos draudimo priežiūros komisijos 2008 m. sausio 22 d. nutarimas Nr. N-5 „Dėl Lietuvos Respublikos draudimo priežiūros komisijos 2004 m. spalio 1 d. nutarimo Nr. N-117 „Dėl metodikos draudimo techninių atidėjinių dydžiams apskaičiuoti patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "12",
+  "official_journal_page": null,
+  "official_journal_date": "2008-01-29",
+  "entry_into_force": "2008-01-30",
+  "notification_date": "2008-02-07",
+  "commission_reference": "MNE(2008)51004",
+  "nim_celex": "72005L0068LTU_153554",
+  "nim_id": "153554",
+  "transposes_celex": [
+    "32005L0068"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1ebbdf81-c908-4732-9fe7-5194a7c6e924",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
