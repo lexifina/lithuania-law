@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2008 sausio 24 d. nutarimas Nr. 7  „Dėl Minimalių banko strateginio veiklos plano sudarymo reikalavimų patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "13",
+  "official_journal_page": null,
+  "official_journal_date": "2008-01-31",
+  "entry_into_force": "2008-02-01",
+  "notification_date": "2008-02-01",
+  "commission_reference": "MNE(2008)50911",
+  "nim_celex": "72000L0012LTU_153396",
+  "nim_id": "153396",
+  "transposes_celex": [
+    "32000L0012"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/872a1ebb-7ed4-4efe-b337-3078d63f6387",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
