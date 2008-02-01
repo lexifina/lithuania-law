@@ -1,0 +1,20 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymas Nr. X-1409",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "6",
+  "official_journal_page": null,
+  "official_journal_date": "2008-01-15",
+  "entry_into_force": "2008-02-01",
+  "notification_date": "2011-11-11",
+  "commission_reference": "MNE(2011)57518",
+  "nim_celex": "72008L0122LTU_187163",
+  "nim_id": "187163",
+  "transposes_celex": [],
+  "cellar": "http://publications.europa.eu/resource/cellar/eac0e65e-2914-43a3-a581-82dc5886a455",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
