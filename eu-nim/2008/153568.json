@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos draudimo priežiūros komisijos 2008 m. sausio 29 d. nutarimas Nr. N-8 „Dėl asmenų, tiesiogiai ar netiesiogiai valdančių draudimo įmonės ar perdraudimo įmonės akcijas, turimų balsų skaičiavimo tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "15",
+  "official_journal_page": null,
+  "official_journal_date": "2008-02-05",
+  "entry_into_force": "2008-02-06",
+  "notification_date": "2008-02-07",
+  "commission_reference": "MNE(2008)51018",
+  "nim_celex": "72005L0068LTU_153568",
+  "nim_id": "153568",
+  "transposes_celex": [
+    "32005L0068",
+    "32009L0138"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5036d631-7b54-4758-9de2-ee7e1be0c822",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
