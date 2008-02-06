@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos draudimo priežiūros komisijos 2008 m. sausio 29 d. nutarimas Nr. N-10 „Dėl draudimo veiklos ir perdraudimo veiklos licencijavimo taisyklių, leidimų užsienio valstybės draudimo įmonės filialo ir užsienio valstybės perdraudimo įmonės filialo veiklai išdavimo taisyklių ir įsipareigojimo teikti informaciją formos patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "15",
+  "official_journal_page": null,
+  "official_journal_date": "2008-02-05",
+  "entry_into_force": "2008-02-06",
+  "notification_date": "2008-02-07",
+  "commission_reference": "MNE(2008)51015",
+  "nim_celex": "72005L0068LTU_153565",
+  "nim_id": "153565",
+  "transposes_celex": [
+    "32005L0068"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/736cc72c-3b41-49db-b3ee-880a9fe85e86",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
