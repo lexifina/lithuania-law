@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos generalinio prokuroro 2008 m. vasario 21 d. įsakymas Nr. I-31 „Dėl nacionalinio nario, nacionalinio nario pavaduotojo, nacionalinio korespondento, nacionalinio korespondento terorizmo klausimais Eurojuste paskyrimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Administracinės priemonės",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2008-02-21",
+  "entry_into_force": "2008-02-22",
+  "notification_date": "2015-03-16",
+  "commission_reference": "MNE(2015)51380",
+  "nim_celex": "72002D0187LTU_224217",
+  "nim_id": "224217",
+  "transposes_celex": [
+    "32002D0187"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d0be9a8c-3530-4533-823a-7ee106ef145d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
