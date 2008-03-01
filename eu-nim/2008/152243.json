@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo pakeitimo įstatymas Nr. X-1303",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "117",
+  "official_journal_page": null,
+  "official_journal_date": "2007-11-15",
+  "entry_into_force": "2008-03-01",
+  "notification_date": "2008-01-04",
+  "commission_reference": "MNE(2007)59259",
+  "nim_celex": "72006L0049LTU_152243",
+  "nim_id": "152243",
+  "transposes_celex": [
+    "32006L0049"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d28c69c4-1490-46ca-bc91-efb932a5f984",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
