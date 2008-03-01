@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos finansinio užtikrinimo susitarimų įstatymo 3 straipsnio papildymo įstatymas Nr. X-1309",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "117",
+  "official_journal_page": null,
+  "official_journal_date": "2007-11-15",
+  "entry_into_force": "2008-03-01",
+  "notification_date": "2007-11-22",
+  "commission_reference": "MNE(2007)58296",
+  "nim_celex": "72002L0047LTU_150981",
+  "nim_id": "150981",
+  "transposes_celex": [
+    "32002L0047"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/550af0b4-0873-4ec2-8c4d-b87293eed8a3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
