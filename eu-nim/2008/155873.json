@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Civilinės aviacijos administracijos direktoriaus 2007 m. liepos 17 d. įsakymas Nr.4R-155 „Dėl Skrydžių vadovų licencijavimo taisyklių patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "82",
+  "official_journal_page": null,
+  "official_journal_date": "2007-07-24",
+  "entry_into_force": "2008-03-01",
+  "notification_date": "2008-06-03",
+  "commission_reference": "MNE(2008)53000",
+  "nim_celex": "72006L0023LTU_155873",
+  "nim_id": "155873",
+  "transposes_celex": [
+    "32006L0023"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b06cb450-d89c-42d3-b9e6-6c9f40babe2e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
