@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS KOLEKTYVINIO INVESTAVIMO SUBJEKTŲ ĮSTATYMO PAKEITIMO\nĮSTATYMAS NR X-1303 (nauja redakcija)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "117",
+  "official_journal_page": null,
+  "official_journal_date": "2007-11-15",
+  "entry_into_force": "2008-03-01",
+  "notification_date": "2007-11-16",
+  "commission_reference": "MNE(2007)58214",
+  "nim_celex": "71985L0611LTU_150823",
+  "nim_id": "150823",
+  "transposes_celex": [
+    "31985L0611"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/95ea1b74-1867-4116-b414-7668bb6dcccf",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
