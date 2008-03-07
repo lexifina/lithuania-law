@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2008 m. vasario 26 d. nutarimas Nr. 163 \"Dėl gamtinių dujų tiekimo saugumo užtikrinimo priemonių aprašo patvirtinimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "27",
+  "official_journal_page": null,
+  "official_journal_date": "2008-03-06",
+  "entry_into_force": "2008-03-07",
+  "notification_date": "2008-10-28",
+  "commission_reference": "MNE(2008)55757",
+  "nim_celex": "72004L0067LTU_158729",
+  "nim_id": "158729",
+  "transposes_celex": [
+    "32004L0067"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6c53f19a-05bc-4f95-86d3-1fb1a9054293",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
