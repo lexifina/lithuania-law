@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės kelių transporto inspekcijos prie Susisiekimo ministerijos viršininko 2008 m. vasario 29 d. įsakymas Nr. 2B-97 „Dėl transporto priemonių išorinių elementų tipo patvirtinimo taisyklių“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "27",
+  "official_journal_page": null,
+  "official_journal_date": "2008-03-06",
+  "entry_into_force": "2008-03-07",
+  "notification_date": "2008-03-14",
+  "commission_reference": "MNE(2008)51850",
+  "nim_celex": "72007L0015LTU_154609",
+  "nim_id": "154609",
+  "transposes_celex": [
+    "32007L0015"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7b7c74bf-d63a-4f55-b23d-32fe6038031a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
