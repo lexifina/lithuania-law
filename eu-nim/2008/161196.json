@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2008 m. kovo 12 d. nutarimas Nr. 236 \"Dėl nuostolingų universaliųjų pašto paslaugų kompensavimo taisyklių patvirtinimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "33",
+  "official_journal_page": null,
+  "official_journal_date": "2008-03-20",
+  "entry_into_force": "2008-03-21",
+  "notification_date": "2009-03-27",
+  "commission_reference": "MNE(2009)51332",
+  "nim_celex": "72002L0039LTU_161196",
+  "nim_id": "161196",
+  "transposes_celex": [
+    "32002L0039"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cc5225b0-4ffa-4384-b2de-7811a430e58f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
