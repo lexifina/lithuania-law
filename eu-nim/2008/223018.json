@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2008 m. kovo 5 d. nutarimas Nr. 219 \"Dėl Lietuvos Respublikos teismų paskirtų piniginių sankcijų perdavimo vykdyti kitoms Europos Sąjungos valstybėms narėms taisyklių patvirtinimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "33",
+  "official_journal_page": null,
+  "official_journal_date": "2008-03-20",
+  "entry_into_force": "2008-03-21",
+  "notification_date": "2015-03-03",
+  "commission_reference": "MNE(2015)50442",
+  "nim_celex": "72005F0214LTU_223018",
+  "nim_id": "223018",
+  "transposes_celex": [
+    "32005F0214"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5eb07603-6322-11e7-b2f2-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
