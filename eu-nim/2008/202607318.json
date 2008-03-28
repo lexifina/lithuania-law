@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2008 m. kovo 12 d. įsakymas Nr. D1-131 “Dėl statybos techninio reglamento STR 2.01.01(6):2008 ”Esminis statinio reikalavimas ”Energijos taupymas ir šilumos išsaugojimas” patvirtinimo”",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "35-1255",
+  "official_journal_page": null,
+  "official_journal_date": "2008-03-27",
+  "entry_into_force": "2008-03-28",
+  "notification_date": "2026-09-17",
+  "commission_reference": "MNE(2026)07318",
+  "nim_celex": "72024L1275LTU_202607318",
+  "nim_id": "202607318",
+  "transposes_celex": [
+    "32024L1275"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7fac8d55-3184-4aec-9a3c-984e52444cc0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
