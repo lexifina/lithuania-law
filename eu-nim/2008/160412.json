@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2008 M. KOVO 12 D. ĮSAKYMAS NR. D1‑132 \"DĖL STATYBOS TECHNINIO REGLAMENTO STR 2.01.01(5):2008 „ESMINIS STATINIO REIKALAVIMAS „APSAUGA NUO TRIUKŠMO“ PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "35",
+  "official_journal_page": null,
+  "official_journal_date": "2008-03-27",
+  "entry_into_force": "2008-03-28",
+  "notification_date": "2009-02-12",
+  "commission_reference": "MNE(2009)50575",
+  "nim_celex": "71989L0106LTU_160412",
+  "nim_id": "160412",
+  "transposes_celex": [
+    "31989L0106"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/de21caa5-aacd-4659-a8c0-e7abc184e3e2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
