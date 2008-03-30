@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2008 M. KOVO 26 D. ĮSAKYMAS NR. D1-157 \"DĖL APLINKOS MINISTRO 2001 M. RUGSĖJO 28 D. ĮSAKYMO NR. 486 „DĖL IŠMETAMŲ TERŠALŲ IŠ DIDELIŲ KURĄ DEGINANČIŲ ĮRENGINIŲ NORMŲ IR IŠMETAMŲ TERŠALŲ IŠ KURĄ DEGINANČIŲ ĮRENGINIŲ NORMŲ LAND 43-2001 NUSTATYMO“ PAKEITIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "36",
+  "official_journal_page": null,
+  "official_journal_date": "2008-03-29",
+  "entry_into_force": "2008-03-30",
+  "notification_date": "2008-04-08",
+  "commission_reference": "MNE(2008)52204",
+  "nim_celex": "72001L0080LTU_154998",
+  "nim_id": "154998",
+  "transposes_celex": [
+    "32001L0080"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/50eb28ee-8e5f-4312-a03e-c4af9169f260",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
