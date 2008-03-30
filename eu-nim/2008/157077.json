@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Civilinės aviacijos administracijos direktoriaus 2007 m. gruodžio 14 d. įsakymas Nr. 4R-271 ,,Dėl skrydžių vadovų kalbos mokėjimo lygio įvertinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "36",
+  "official_journal_page": null,
+  "official_journal_date": "2008-03-29",
+  "entry_into_force": "2008-03-30",
+  "notification_date": "2008-07-23",
+  "commission_reference": "MNE(2008)54149",
+  "nim_celex": "72006L0023LTU_157077",
+  "nim_id": "157077",
+  "transposes_celex": [
+    "32006L0023"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3fa06c9f-cea6-43a1-87c7-d1a1d23e5278",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
