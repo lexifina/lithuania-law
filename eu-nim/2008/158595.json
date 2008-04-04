@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2008 m. kovo 28 d. įsakymas Nr. 3-97 „Dėl Lietuvos Respublikos susisiekimo ministro 2003 m. vasario 20 d. įsakymo Nr. 3-79 \"Dėl geležinkelių transporto eismo įvykių tyrimo ir jų padarinių likvidavimo nuostatų patvirtinimo\" pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "38",
+  "official_journal_page": null,
+  "official_journal_date": "2008-04-03",
+  "entry_into_force": "2008-04-04",
+  "notification_date": "2008-10-28",
+  "commission_reference": "MNE(2008)55626",
+  "nim_celex": "72004L0049LTU_158595",
+  "nim_id": "158595",
+  "transposes_celex": [
+    "32004L0049"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/12d174f5-adc7-4b4c-8042-2d7eb94c9c35",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
