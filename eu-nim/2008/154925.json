@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2008 m. kovo 26 d. įsakymas Nr. V-233",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "38",
+  "official_journal_page": null,
+  "official_journal_date": "2008-04-03",
+  "entry_into_force": "2008-04-04",
+  "notification_date": "2008-04-04",
+  "commission_reference": "MNE(2008)52149",
+  "nim_celex": "72004L0023LTU_154925",
+  "nim_id": "154925",
+  "transposes_celex": [
+    "32004L0023",
+    "32006L0086"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/16813239-ec83-4f94-82f0-4d8fe0607e8a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
