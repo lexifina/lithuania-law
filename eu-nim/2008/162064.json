@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro 2008 m. kovo 28 d. įsakymas Nr. 4-123 \"Dėl Lietuvos Respublikos ūkio ministro 2003 m. birželio 30 d. įsakymo Nr. 4-262 \"Dėl elektros energijos supirkimo iš bendrų šilumos ir elektros energijos gamintojų tvarkos patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "39",
+  "official_journal_page": null,
+  "official_journal_date": "2008-04-05",
+  "entry_into_force": "2008-04-06",
+  "notification_date": "2009-07-27",
+  "commission_reference": "MNE(2009)52184",
+  "nim_celex": "72004L0008LTU_162064",
+  "nim_id": "162064",
+  "transposes_celex": [
+    "32004L0008"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ef96c979-0487-441a-b05c-8e0357efc9a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
