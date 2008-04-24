@@ -1,0 +1,20 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymas Nr. X-1478",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "47",
+  "official_journal_page": null,
+  "official_journal_date": "2008-04-24",
+  "entry_into_force": "2008-04-24",
+  "notification_date": "2011-09-16",
+  "commission_reference": "MNE(2011)56751",
+  "nim_celex": "72009L0050LTU_186399",
+  "nim_id": "186399",
+  "transposes_celex": [],
+  "cellar": "http://publications.europa.eu/resource/cellar/b3b84ae5-ef68-40ad-b0e4-97b1716b9d0f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
