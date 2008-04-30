@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2006 m. balandžio 25 d. įsakymas Nr. A1-119 \"Dėl darbuotojų apsaugos nuo elektromagnetinių laukų keliamos rizikos nuostatų patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "47",
+  "official_journal_page": null,
+  "official_journal_date": "2006-04-28",
+  "entry_into_force": "2008-04-30",
+  "notification_date": "2006-06-22",
+  "commission_reference": "MNE(2006)54186",
+  "nim_celex": "72004L0040LTU_132791",
+  "nim_id": "132791",
+  "transposes_celex": [
+    "32004L0040"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c48ab48f-936b-4c0d-9ec1-6f3bc675df53",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
