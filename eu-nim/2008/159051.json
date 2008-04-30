@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo 1, 2, 4, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 21, 23, 24, 26, 33 straipsnių pakeitimo ir papildymo ir 22 straipsnio pripažinimo netekusiu galios įstatymas Nr. X-1492",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "50",
+  "official_journal_page": null,
+  "official_journal_date": "2008-04-30",
+  "entry_into_force": "2008-04-30",
+  "notification_date": "2008-11-11",
+  "commission_reference": "MNE(2008)56061",
+  "nim_celex": "72005L0085LTU_159051",
+  "nim_id": "159051",
+  "transposes_celex": [
+    "32005L0085"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/227c841b-4c71-4812-9e83-ea92dab4f8e2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
