@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2008 m. balandžio 30 d. įsakymas Nr. V-400 ,, Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2006 m. gegužės 5 d. įsakymo Nr. V-371 „Dėl Lietuvos higienos normos HN 16:2006 „Medžiagų ir gaminių, skirtų liestis su maistu, specialieji sveikatos saugos reikalavimai“ patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "56",
+  "official_journal_page": null,
+  "official_journal_date": "2008-05-17",
+  "entry_into_force": "2008-05-01",
+  "notification_date": "2008-06-03",
+  "commission_reference": "MNE(2008)52964",
+  "nim_celex": "72007L0019LTU_155836",
+  "nim_id": "155836",
+  "transposes_celex": [
+    "32007L0019"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/497c6b76-3cef-47da-a43f-66758c0d0083",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
