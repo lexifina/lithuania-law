@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos saugios laivybos administracijos direktoriaus 2008 m. kovo 13 d. įsakymas Nr. V‑79 \"Dėl Lietuvos saugios laivybos administracijos dokumentų, išduodamų jūrininkams, plaukiojantiems tarptautiniais reisais, pildymo taisyklių patvirtinimo\"",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "32",
+  "official_journal_page": null,
+  "official_journal_date": "2008-03-18",
+  "entry_into_force": "2008-05-01",
+  "notification_date": "2014-10-28",
+  "commission_reference": "MNE(2014)56031",
+  "nim_celex": "72012L0035LTU_220699",
+  "nim_id": "220699",
+  "transposes_celex": [
+    "32012L0035"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/46493c47-8434-4396-a459-4070acf82ac8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
