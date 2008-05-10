@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo 3, 6, 7, 11, 21, 22, 23, 27, 29, 30, 36, 37 straipsnių ir Įstatymo priedo pakeitimo ir papildymo įstatymas Nr. X-1510",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "53-1954",
+  "official_journal_page": null,
+  "official_journal_date": "2008-05-10",
+  "entry_into_force": "2008-05-10",
+  "notification_date": "2018-01-02",
+  "commission_reference": "MNE(2017)57244",
+  "nim_celex": "72015L2193LTU_254087",
+  "nim_id": "254087",
+  "transposes_celex": [
+    "32015L2193"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9f9eb342-a26f-4b3b-8661-b4ad02ea25db",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
