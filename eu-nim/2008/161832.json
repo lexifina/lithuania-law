@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2008 M. BALANDŽIO 30 D. ĮSAKYMAS NR. D1-230 \"DĖL CHEMINĖMIS MEDŽIAGOMIS UŽTERŠTŲ TERITORIJŲ TVARKYMO APLINKOS APSAUGOS REIKALAVIMŲ PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "53",
+  "official_journal_page": null,
+  "official_journal_date": "2008-05-10",
+  "entry_into_force": "2008-05-11",
+  "notification_date": "2009-06-12",
+  "commission_reference": "MNE(2009)51961",
+  "nim_celex": "72006L0118LTU_161832",
+  "nim_id": "161832",
+  "transposes_celex": [
+    "32006L0118"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/dd6f90f2-ba2c-44a4-9c7f-8b2a8f43873a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
