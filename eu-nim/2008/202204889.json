@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos krašto apsaugos ministro 2008 m. vasario 29 d. įsakymas Nr. V-163 ,,Dėl karo tarnybos statuto patvirtinimo“ (suvestinė redakcija nuo 2021-01-09)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "30-1057",
+  "official_journal_page": null,
+  "official_journal_date": "2008-03-13",
+  "entry_into_force": "2008-05-11",
+  "notification_date": "2022-08-01",
+  "commission_reference": "MNE(2022)04889",
+  "nim_celex": "72019L1152LTU_202204889",
+  "nim_id": "202204889",
+  "transposes_celex": [
+    "32019L1152"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f5c5241a-7392-41e6-816f-d4e0b148aa03",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
