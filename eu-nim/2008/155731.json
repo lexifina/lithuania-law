@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro ir Lietuvos Respublikos aplinkos ministro 2008 m. balandžio 24 d. įsakymas Nr. V-322/D1-224 \"Dėl Lietuvos Respublikos sveikatos apsaugos ministro ir Lietuvos Respublikos aplinkos ministro 2000 m. gruodžio 29 d. įsakymo Nr. 762/556 \"Dėl cheminių medžiagų ir preparatų, galinčių sukelti pavojų žmogaus sveikatai ir aplinkai, savybių tyrimo tvarkos\" pripažinimo netekusiu galios",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "53",
+  "official_journal_page": null,
+  "official_journal_date": "2008-05-10",
+  "entry_into_force": "2008-05-11",
+  "notification_date": "2008-05-15",
+  "commission_reference": "MNE(2008)52879",
+  "nim_celex": "72006L0121LTU_155731",
+  "nim_id": "155731",
+  "transposes_celex": [
+    "32006L0121"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cf8b11af-cc4c-4851-9d47-e5f9ac9e5db2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
