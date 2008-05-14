@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2008 m. balandžio 30 d. įsakymas Nr. V‑363 \"Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2007 m. spalio 9 d. įsakymo Nr. V-799 \"Dėl Sergamumo ir mirtingumo nuo pagrindinių neinfekcinių ligų mažinimo 2007-2013 metų programos patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "54",
+  "official_journal_page": null,
+  "official_journal_date": "2008-05-13",
+  "entry_into_force": "2008-05-14",
+  "notification_date": "2013-04-18",
+  "commission_reference": "MNE(2013)52843",
+  "nim_celex": "72011L0036LTU_203301",
+  "nim_id": "203301",
+  "transposes_celex": [
+    "32011L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/992e260e-aebd-4083-942d-a1ab7b5338a6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
