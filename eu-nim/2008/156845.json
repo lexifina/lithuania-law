@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro ir Lietuvos Respublikos susisiekimo ministro 2008 m. gegužės 9 d. įsakymas Nr. A1-150/3-161 „Dėl mobiliųjų talpyklų, skirtų pavojingoms medžiagoms ir preparatams vežti keliais, priežiūros laikinųjų taisyklių patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "55",
+  "official_journal_page": null,
+  "official_journal_date": "2008-05-15",
+  "entry_into_force": "2008-05-16",
+  "notification_date": "2008-07-08",
+  "commission_reference": "MNE(2008)53921",
+  "nim_celex": "71994L0063LTU_156845",
+  "nim_id": "156845",
+  "transposes_celex": [
+    "31994L0063"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ebd4a5ce-9b65-4800-a8e9-337cfa838914",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
