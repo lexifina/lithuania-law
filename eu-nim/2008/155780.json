@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2008 m. gegužės 7 d. įsakymas Nr. D1‑240 \"Dėl Lietuvos Respublikos aplinkos ministro 1999 m. liepos 14 d. įsakymo Nr. 217 „Dėl Atliekų tvarkymo taisyklių patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "55",
+  "official_journal_page": null,
+  "official_journal_date": "2008-05-15",
+  "entry_into_force": "2008-05-16",
+  "notification_date": "2008-05-21",
+  "commission_reference": "MNE(2008)52926",
+  "nim_celex": "72006L0021LTU_155780",
+  "nim_id": "155780",
+  "transposes_celex": [
+    "32006L0021"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a0d0c7fc-ff27-4649-9153-a9b2c3fde5ab",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
