@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vyriausiojo valstybinio darbo inspektoriaus 2008 m. gegužės 7 d. įsakymas Nr. V-132 „Dėl nušalinimo nuo darbo dėl neblaivumo (girtumo) ar apsvaigimo nuo psichiką veikiančių medžiagų metodinių rekomendacijų patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "55",
+  "official_journal_page": null,
+  "official_journal_date": "2008-05-15",
+  "entry_into_force": "2008-05-16",
+  "notification_date": "2008-09-05",
+  "commission_reference": "MNE(2008)54483",
+  "nim_celex": "72006L0023LTU_157416",
+  "nim_id": "157416",
+  "transposes_celex": [
+    "32006L0023"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3aa6dcce-ae37-4bd6-83db-e8b2b7f04dd7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
