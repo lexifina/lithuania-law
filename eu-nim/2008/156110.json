@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS GEOLOGIJOS TARNYBOS PRIE APLINKOS MINISTERIJOS DIREKTORIAUS 2008 M. GEGUŽĖS 9 D. ĮSAKYMAS NR. 1‑81 \"DĖL LIETUVOS GEOLOGIJOS TARNYBOS PRIE APLINKOS MINISTERIJOS DIREKTORIAUS 2003 M. SAUSIO 10 D. ĮSAKYMO NR. 1‑01 „DĖL MARKŠEIDERINIŲ DARBŲ ATLIKIMO KIETŲJŲ NAUDINGŲJŲ IŠKASENŲ TELKINIUOSE LAIKINŲJŲ TAISYKLIŲ PATVIRTINIMO“ PAKEITIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "56",
+  "official_journal_page": null,
+  "official_journal_date": "2008-05-17",
+  "entry_into_force": "2008-05-18",
+  "notification_date": "2008-06-05",
+  "commission_reference": "MNE(2008)53219",
+  "nim_celex": "72006L0021LTU_156110",
+  "nim_id": "156110",
+  "transposes_celex": [
+    "32006L0021"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/efb4b40c-1947-4f32-960a-dcc500f1b8d0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
