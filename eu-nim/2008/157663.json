@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro 2008 m. gegužės 16 d. įsakymas Nr. 4-199 \"Dėl Lietuvos Respublikos ūkio ministro 2007 m. sausio 31 d. įsakymo Nr. 4-40 \"Dėl elektros įrenginių įrengimo bendrųjų taisyklių, elektros linijų ir instaliacijos įrengimo taisyklių, elektros įrenginių relinės apsaugos ir automatikos įrengimo taisyklių ir skirstyklų ir pastočių elektros įrenginių įrengimo taisyklių patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "58",
+  "official_journal_page": null,
+  "official_journal_date": "2008-05-22",
+  "entry_into_force": "2008-05-23",
+  "notification_date": "2008-08-27",
+  "commission_reference": "MNE(2008)54715",
+  "nim_celex": "72006L0032LTU_157663",
+  "nim_id": "157663",
+  "transposes_celex": [
+    "32006L0032",
+    "32009L0072"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/93ede12e-ee3f-40a0-ba0f-bbb1df8f3e4a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
