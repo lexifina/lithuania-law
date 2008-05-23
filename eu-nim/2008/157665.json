@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro 2008 m. gegužės 16 d. įsakymas Nr. 4-198 \"Dėl Lietuvos Respublikos ūkio ministro 2002 m. vasario 5 d. įsakymo Nr. 43 \"Dėl gamtinių dujų perdavimo, paskirstymo, laikymo ir tiekimo taisyklių patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "58",
+  "official_journal_page": null,
+  "official_journal_date": "2008-05-22",
+  "entry_into_force": "2008-05-23",
+  "notification_date": "2008-08-27",
+  "commission_reference": "MNE(2008)54717",
+  "nim_celex": "72006L0032LTU_157665",
+  "nim_id": "157665",
+  "transposes_celex": [
+    "32006L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/daacef90-b009-4ea8-a159-59f2d5ebd046",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
