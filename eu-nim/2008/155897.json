@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo kodekso 129, 135, 138 straipsnių ir priedo pakeitimo įstatymas Nr. X-1527",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "59",
+  "official_journal_page": null,
+  "official_journal_date": "2008-05-24",
+  "entry_into_force": "2008-05-24",
+  "notification_date": "2008-06-03",
+  "commission_reference": "MNE(2008)53024",
+  "nim_celex": "72004L0023LTU_155897",
+  "nim_id": "155897",
+  "transposes_celex": [
+    "32004L0023",
+    "32008F0913"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0f0f27a4-06cf-4c06-96b7-7528377ffc3d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
