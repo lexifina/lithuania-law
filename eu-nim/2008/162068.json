@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro 2008 m. gegužės 19 d. įsakymas Nr. 4-206 \"Dėl elektros energijos, pagamintos didelio efektyvumo kogeneracijos proceso metu, kilmės garantijos pažymėjimų išdavimo taisyklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "59",
+  "official_journal_page": null,
+  "official_journal_date": "2008-05-24",
+  "entry_into_force": "2008-05-25",
+  "notification_date": "2009-07-27",
+  "commission_reference": "MNE(2009)52188",
+  "nim_celex": "72004L0008LTU_162068",
+  "nim_id": "162068",
+  "transposes_celex": [
+    "32004L0008"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3fe97622-ed88-4891-9f0b-62df311d09f3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
