@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos geologijos tarnybos prie Aplinkos ministerijos direktoriaus 2008 m. gegužės 9 d. įsakymas Nr. 1‑80 \"Dėl Lietuvos geologijos tarnybos prie Aplinkos ministerijos direktoriaus 2005 m. rugsėjo 5 d. įsakymo Nr. 1‑107 „Dėl Naudingųjų iškasenų (išskyrus angliavandenilius) išteklių ir žemės gelmių ertmių naudojimo projektų rengimo taisyklių patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "59",
+  "official_journal_page": null,
+  "official_journal_date": "2008-05-24",
+  "entry_into_force": "2008-05-25",
+  "notification_date": "2008-06-04",
+  "commission_reference": "MNE(2008)53208",
+  "nim_celex": "72006L0021LTU_156099",
+  "nim_id": "156099",
+  "transposes_celex": [
+    "32006L0021"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7c9fa250-649e-4724-8593-0a86d9794325",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
