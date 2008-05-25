@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2008 m. gegužės 20 d. įsakymas Nr. V-475 \"Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2002 m. gruodžio 24 d. įsakymo Nr. 677 \"Dėl Lietuvos higienos normos HN 119:2002 \"Maisto produktų ženklinimas\" tvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "59",
+  "official_journal_page": null,
+  "official_journal_date": "2008-05-24",
+  "entry_into_force": "2008-05-25",
+  "notification_date": "2008-06-05",
+  "commission_reference": "MNE(2008)53031",
+  "nim_celex": "72007L0068LTU_155907",
+  "nim_id": "155907",
+  "transposes_celex": [
+    "32007L0068"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ab1d4c87-cf73-4ac1-b69d-3f4932b0d7be",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
