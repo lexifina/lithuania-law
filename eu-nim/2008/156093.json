@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2008 m. vasario 25 d. įsakymas Nr. D1‑111 \"Dėl aplinkos ministro 1999 m. liepos 14 d. įsakymo Nr. 217 \"Dėl atliekų tvarkymo taisyklių patvirtinimo\" pakeitimo ir atliekų naudojimo ar  šalinimo techninių reglamentų rengimo metodinių rekomendacijų patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "26",
+  "official_journal_page": null,
+  "official_journal_date": "2008-03-04",
+  "entry_into_force": "2008-06-01",
+  "notification_date": "2008-06-04",
+  "commission_reference": "MNE(2008)53202",
+  "nim_celex": "72006L0021LTU_156093",
+  "nim_id": "156093",
+  "transposes_celex": [
+    "32006L0021",
+    "32008L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2abca201-72a1-43a4-9512-31bbccc9f8c0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
