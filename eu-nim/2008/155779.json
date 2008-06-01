@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2008 M. BALANDŽIO 30 D. ĮSAKYMAS NR. D1‑232 \"DĖL KAI KURIŲ LIETUVOS RESPUBLIKOS APLINKOS MINISTRO ĮSAKYMŲ PRIPAŽINIMO NETEKUSIAIS GALIOS\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "55",
+  "official_journal_page": null,
+  "official_journal_date": "2008-05-15",
+  "entry_into_force": "2008-06-01",
+  "notification_date": "2008-05-21",
+  "commission_reference": "MNE(2008)52925",
+  "nim_celex": "72006L0121LTU_155779",
+  "nim_id": "155779",
+  "transposes_celex": [
+    "32006L0121"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0be92f12-7244-4240-a721-f13ba4f6ab9f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
