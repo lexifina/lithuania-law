@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2008 M. GEGUŽĖS 6 D. ĮSAKYMAS NR. D1‑237 \"DĖL APLINKOS MINISTRO 2002 M. LAPKRIČIO 19 D. ĮSAKYMO NR. 599 „DĖL PAVOJINGŲ CHEMINIŲ MEDŽIAGŲ IR PREPARATŲ PAKUOTĖS REIKALAVIMŲ BEI PAKAVIMO TVARKOS“ PAKEITIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "53",
+  "official_journal_page": null,
+  "official_journal_date": "2008-05-10",
+  "entry_into_force": "2008-06-01",
+  "notification_date": "2008-05-14",
+  "commission_reference": "MNE(2008)52870",
+  "nim_celex": "72006L0121LTU_155722",
+  "nim_id": "155722",
+  "transposes_celex": [
+    "32006L0121"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/543f0ef8-69bf-450c-9f03-ce8716d06f02",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
