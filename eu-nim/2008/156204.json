@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro ir Lietuvos Respublikos sveikatos apsaugos ministro 2008 m. gegužės 27 d. įsakymas Nr. D1-279/V-490 \"Dėl Lietuvos Respublikos aplinkos ministro ir Lietuvos Respublikos sveikatos apsaugos ministro 2005 m. gruodžio 12 d. įsakymo Nr. D1-598/V-966 „Dėl pranešimų apie tiekiamas rinkai naujas chemines medžiagas tvarkos aprašo ir cheminių medžiagų rizikos žmonių sveikatai ir aplinkai vertinimo tvarkos aprašo patvirtinimo“ pripažinimo netekusiu galios\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "62",
+  "official_journal_page": null,
+  "official_journal_date": "2008-05-31",
+  "entry_into_force": "2008-06-01",
+  "notification_date": "2008-06-25",
+  "commission_reference": "MNE(2008)53313",
+  "nim_celex": "72006L0121LTU_156204",
+  "nim_id": "156204",
+  "transposes_celex": [
+    "32006L0121"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d23dc0ef-4a9f-4a7c-b896-0384e48f04b3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
