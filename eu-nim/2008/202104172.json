@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo 1, 2, 3, 6, 7, 8, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 30, 31, 33, 36, 37, 38, 40, 41 straipsnių pakeitimo ir papildymo priedu įstatymas Nr. X-1348",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "135-5452",
+  "official_journal_page": null,
+  "official_journal_date": "2007-12-20",
+  "entry_into_force": "2008-06-04",
+  "notification_date": "2021-06-18",
+  "commission_reference": "MNE(2021)04172",
+  "nim_celex": "72021L0555LTU_202104172",
+  "nim_id": "202104172",
+  "transposes_celex": [
+    "32021L0555"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f324bdce-d585-11eb-895a-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
