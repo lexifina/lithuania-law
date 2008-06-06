@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2008 m. gegužės 30 d. įsakymas Nr. A1-178 „Dėl laikinųjų pavojingų medžiagų stacionariųjų beslėgių talpyklų\npriežiūros taisyklių patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "64",
+  "official_journal_page": null,
+  "official_journal_date": "2008-06-05",
+  "entry_into_force": "2008-06-06",
+  "notification_date": "2008-07-08",
+  "commission_reference": "MNE(2008)53920",
+  "nim_celex": "71994L0063LTU_156844",
+  "nim_id": "156844",
+  "transposes_celex": [
+    "31994L0063"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e53a9bcf-c9e3-42e3-bd2d-1f8ea39026da",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
