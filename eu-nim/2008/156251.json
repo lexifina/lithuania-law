@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės kelių transporto inspekcijos prie Susisiekimo ministerijos viršininko 2008 m. gegužės 29 d. įsakymas Nr. 2B-225 „Dėl Transporto priemonių apšvietimo ir apšvietimo-signalizavimo įtaisų tipo patvirtinimo taisyklių“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "65",
+  "official_journal_page": null,
+  "official_journal_date": "2008-06-07",
+  "entry_into_force": "2008-06-08",
+  "notification_date": "2008-07-10",
+  "commission_reference": "MNE(2008)53360",
+  "nim_celex": "72007L0035LTU_156251",
+  "nim_id": "156251",
+  "transposes_celex": [
+    "32007L0035"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/58f4800d-f3c3-407e-aa7c-b2d43e69a910",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
