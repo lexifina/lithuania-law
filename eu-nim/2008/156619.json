@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRO 2008 M. GEGUŽĖS 29 D. ĮSAKYMAS NR. V-514 \"DĖL LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRO 2008 m. BALANDŽIO 1 d. ĮSAKYMO NR. V-252 „DĖL LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRO 2003 m. GRUODŽIO 24 d. ĮSAKYMO NR. V-773 „DĖL LIETUVOS HIGIENOS NORMOS HN 54:2003 „MAISTO PRODUKTAI. DIDŽIAUSIOS LEIDŽIAMOS TERŠALŲ IR PESTICIDŲ LIKUČIŲ KONCENTRACIJOS“ PATVIRTINIMO“ PAKEITIMO“ PAKEITIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "65",
+  "official_journal_page": null,
+  "official_journal_date": "2008-06-07",
+  "entry_into_force": "2008-06-08",
+  "notification_date": "2008-06-28",
+  "commission_reference": "MNE(2008)53695",
+  "nim_celex": "72007L0073LTU_156619",
+  "nim_id": "156619",
+  "transposes_celex": [
+    "32007L0073"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d2e36dd2-31f8-42c6-b123-5712cba9670f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
