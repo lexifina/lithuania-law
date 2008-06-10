@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos kriminalinės policijos biuro 2008 m. birželio 10 d. viršininko įsakymas Nr. 38-V-99 „Dėl Lietuvos kriminalinės policijos biuro Tarptautinių ryšių valdybos informacinės sistemos nuostatų patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Informaciniai pranešimai",
+  "official_journal_reference": "38-V-99/2008",
+  "official_journal_page": null,
+  "official_journal_date": "2008-06-10",
+  "entry_into_force": "2008-06-10",
+  "notification_date": "2018-05-22",
+  "commission_reference": "MNE(2018)52522",
+  "nim_celex": "72016L0681LTU_258862",
+  "nim_id": "258862",
+  "transposes_celex": [
+    "32016L0681"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fdcdb082-f34e-41e9-964f-9185632e88fb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
