@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2008 m. birželio 12 d. įsakymas Nr. 3D-324 „Dėl žemės ūkio ministro 2004 m. balandžio 19 d. įsakymo Nr. 3D-187 „Dėl veikliųjų medžiagų, kurios gali būti augalų apsaugos produktų sudėtyje, sąrašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "69",
+  "official_journal_page": null,
+  "official_journal_date": "2008-06-17",
+  "entry_into_force": "2008-06-18",
+  "notification_date": "2008-07-16",
+  "commission_reference": "MNE(2008)53998",
+  "nim_celex": "72007L0076LTU_156923",
+  "nim_id": "156923",
+  "transposes_celex": [
+    "32007L0076"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/31a1f9c1-7a32-44fe-bdcc-30f43dc72e48",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
