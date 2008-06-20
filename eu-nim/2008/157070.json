@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2008 m. birželio 16 d. įsakymas Nr. 3-226 \"Dėl Lietuvos Respublikos susisiekimo ministro 2001 m. gegužės 28 d. įsakymo Nr. 182 \"Dėl biudžetinės įstaigos Civilinės aviacijos administracijos nuostatų patvirtinimo\" pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "70",
+  "official_journal_page": null,
+  "official_journal_date": "2008-06-19",
+  "entry_into_force": "2008-06-20",
+  "notification_date": "2008-07-23",
+  "commission_reference": "MNE(2008)54143",
+  "nim_celex": "72006L0023LTU_157070",
+  "nim_id": "157070",
+  "transposes_celex": [
+    "32006L0023"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/aa8eca7c-e813-4387-804f-7f12fefecd27",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
