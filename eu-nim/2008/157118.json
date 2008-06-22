@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Valstybinės maisto ir veterinarijos tarnybos direktoriaus 2008 m. birželio 13 d. įsakymas Nr. B1-318 \"Dėl Valstybinės maisto ir veterinarijos tarnybos direktoriaus 2008 m. balandžio 24 d. įsakymo Nr. B1-246 \"Dėl veterinarijos reikalavimų akvakultūros gyvūnams ir jų produktams, vandens gyvūnų ligų prevencijai ir valstybinei veterinarinei kontrolei patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "71",
+  "official_journal_page": null,
+  "official_journal_date": "2008-06-21",
+  "entry_into_force": "2008-06-22",
+  "notification_date": "2008-07-21",
+  "commission_reference": "MNE(2008)54187",
+  "nim_celex": "72008L0053LTU_157118",
+  "nim_id": "157118",
+  "transposes_celex": [
+    "32008L0053"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/46a6e49b-a43c-4514-a907-eda16946c484",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
