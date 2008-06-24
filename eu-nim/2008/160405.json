@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2008 M. BALANDŽIO 17 D. ĮSAKYMAS NR. D1-217 \"DĖL LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2002 M. BALANDŽIO 18 D. ĮSAKYMO NR. 189 „DĖL STATYBOS TECHNINIO REGLAMENTO STR 1.03.02:2002 „STATYBOS PRODUKTŲ ATITIKTIES DEKLARAVIMAS“ PATVIRTINIMO“ PAKEITIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "47",
+  "official_journal_page": null,
+  "official_journal_date": "2008-04-24",
+  "entry_into_force": "2008-06-24",
+  "notification_date": "2009-02-12",
+  "commission_reference": "MNE(2009)50568",
+  "nim_celex": "71989L0106LTU_160405",
+  "nim_id": "160405",
+  "transposes_celex": [
+    "31989L0106"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a01abcb4-a20a-4732-a6e5-a1b95420d039",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
