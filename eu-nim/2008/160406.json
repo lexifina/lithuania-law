@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2008 M. BALANDŽIO 17 D. ĮSAKYMAS NR. D1-215 \"DĖl LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2002 M. BALANDŽIO 18 D. ĮSAKYMO NR. 188 „DĖL STATYBOS TECHNINIO REGLAMENTO STR 1.03.03:2002 „TECHNINIAI LIUDIJIMAI. RENGIMAS IR TVIRTINIMAS“ PATVIRTINIMO“ PAKEITIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "47",
+  "official_journal_page": null,
+  "official_journal_date": "2008-04-24",
+  "entry_into_force": "2008-06-24",
+  "notification_date": "2009-02-12",
+  "commission_reference": "MNE(2009)50569",
+  "nim_celex": "71989L0106LTU_160406",
+  "nim_id": "160406",
+  "transposes_celex": [
+    "31989L0106"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/27186a91-d4b8-47b0-b447-6f57a87fa8f4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
