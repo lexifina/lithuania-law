@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro 2008 m. birželio 19 d. įsakymas Nr. 4-263 \"Dėl Lietuvos Respublikos ūkio ministro 2004 m. balandžio 28 d. įsakymo Nr. 4-136 \"Dėl informacijos, susijusios su energetikos veikla, teikimo valstybės institucijoms, įstaigoms ir trečiosioms šalims taisyklių patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "72",
+  "official_journal_page": null,
+  "official_journal_date": "2008-06-26",
+  "entry_into_force": "2008-06-27",
+  "notification_date": "2008-08-27",
+  "commission_reference": "MNE(2008)54714",
+  "nim_celex": "72006L0032LTU_157662",
+  "nim_id": "157662",
+  "transposes_celex": [
+    "32006L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cdf2d3bd-7a38-486c-881d-2096d6112000",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
