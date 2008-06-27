@@ -1,0 +1,26 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo kodekso 42, 67, 129, 135, 138 straipsnių pakeitimo ir papildymo bei Kodekso papildymo 72(1), 72(2) straipsiais įstatymas Nr. X-1597",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "73",
+  "official_journal_page": null,
+  "official_journal_date": "2008-06-27",
+  "entry_into_force": "2008-06-27",
+  "notification_date": "2011-03-21",
+  "commission_reference": "MNE(2011)51994",
+  "nim_celex": "72005F0212LTU_178662",
+  "nim_id": "178662",
+  "transposes_celex": [
+    "32005F0212",
+    "32008F0913",
+    "32008L0099",
+    "32009L0123",
+    "32011L0099"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bb2c47f6-f450-41b0-84e3-7ed6eb3dcce6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
