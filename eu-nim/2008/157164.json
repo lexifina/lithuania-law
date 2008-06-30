@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2008 m. gegužės 29 d. nutarimas Nr. 86 „Dėl kai kurių Lietuvos banko teisės aktų dėl apskaitos ir finansinės atskaitomybės pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "66",
+  "official_journal_page": null,
+  "official_journal_date": "2008-06-10",
+  "entry_into_force": "2008-06-30",
+  "notification_date": "2008-07-23",
+  "commission_reference": "MNE(2008)54233",
+  "nim_celex": "72006L0046LTU_157164",
+  "nim_id": "157164",
+  "transposes_celex": [
+    "32006L0046"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b509bd69-0d90-4c64-80b6-e88beff989da",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
