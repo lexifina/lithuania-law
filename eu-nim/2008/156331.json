@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2008 m. gegužės 29 d. nutarimas Nr. 87 „Dėl Lietuvos banko valdybos 2004 m. sausio 29 d. nutarimo Nr. 1 „Dėl likvidumo normatyvo skaičiavimo taisyklių“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "66",
+  "official_journal_page": null,
+  "official_journal_date": "2008-06-10",
+  "entry_into_force": "2008-06-30",
+  "notification_date": "2008-06-26",
+  "commission_reference": "MNE(2008)53423",
+  "nim_celex": "72000L0012LTU_156331",
+  "nim_id": "156331",
+  "transposes_celex": [
+    "32000L0012"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a0f5ceb4-b2e0-4bdf-b817-a6cf3ff435eb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
