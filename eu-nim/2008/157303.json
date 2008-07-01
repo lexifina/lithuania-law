@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos darbo kodekso 22, 24, 43, 47, 52, 58, 67, 68, 69, 70, 71, 72, 73, 76, 77, 78, 79, 80, 83, 84, 85, 130, 193, 194 straipsnių pakeitimo ir papildymo, Kodekso papildymo 75(1), 130(1) straipsniais bei Kodekso priedo papildymo įstatymas Nr. X-1534",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "63",
+  "official_journal_page": null,
+  "official_journal_date": "2008-06-03",
+  "entry_into_force": "2008-07-01",
+  "notification_date": "2008-07-28",
+  "commission_reference": "MNE(2008)54371",
+  "nim_celex": "72006L0054LTU_157303",
+  "nim_id": "157303",
+  "transposes_celex": [
+    "32006L0054",
+    "32008L0104",
+    "32009L0038"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1374e654-80e0-4fa8-878d-828ec7d87d37",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
