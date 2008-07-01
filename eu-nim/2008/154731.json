@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos bioetikos komiteto pirmininko 2007 m. birželio 11 d. įsakymas Nr. V-8 „Dėl Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupės darbo reglamento patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "24",
+  "official_journal_page": null,
+  "official_journal_date": "2008-02-28",
+  "entry_into_force": "2008-07-01",
+  "notification_date": "2008-03-26",
+  "commission_reference": "MNE(2008)51968",
+  "nim_celex": "72001L0020LTU_154731",
+  "nim_id": "154731",
+  "transposes_celex": [
+    "32001L0020"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/18b7f935-6504-4613-a152-39e1f470fbaa",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
