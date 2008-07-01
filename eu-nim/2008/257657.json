@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos akcinių bendrovių įstatymo 13, 15, 24, 34, 39, 44, 49, 51, 52, 53, 54, 56, 60 straipsnių ir priedo pakeitimo ir papildymo, įstatymo papildymo 45(1) straipsniu įstatymas Nr. X-1540",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "63-2378",
+  "official_journal_page": null,
+  "official_journal_date": "2008-06-03",
+  "entry_into_force": "2008-07-01",
+  "notification_date": "2018-04-05",
+  "commission_reference": "MNE(2018)51796",
+  "nim_celex": "72017L1132LTU_257657",
+  "nim_id": "257657",
+  "transposes_celex": [
+    "32017L1132"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/77acd321-dac7-40da-99c3-abbea2e4ebe3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
