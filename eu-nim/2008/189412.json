@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Saugaus eismo automobilių keliais įstatymo pakeitimo įstatymas Nr. X-1337",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "128",
+  "official_journal_page": null,
+  "official_journal_date": "2007-12-07",
+  "entry_into_force": "2008-07-01",
+  "notification_date": "2012-03-06",
+  "commission_reference": "MNE(2012)50999",
+  "nim_celex": "72003L0020LTU_189412",
+  "nim_id": "189412",
+  "transposes_celex": [
+    "32003L0020"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6cb5bdeb-477d-4323-95c3-ad1620fa02b8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
