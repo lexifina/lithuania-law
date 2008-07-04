@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2008 m. birželio 18 d. nutarimas Nr. 637 „Dėl Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo įgyvendinimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "75",
+  "official_journal_page": null,
+  "official_journal_date": "2008-07-03",
+  "entry_into_force": "2008-07-04",
+  "notification_date": "2008-07-03",
+  "commission_reference": "MNE(2008)53891",
+  "nim_celex": "72005L0036LTU_156815",
+  "nim_id": "156815",
+  "transposes_celex": [
+    "32005L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4a1dfa1c-e2ee-41cb-b43d-d3192612ac55",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
