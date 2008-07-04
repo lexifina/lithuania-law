@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro 2008 m. birželio 25 d. įsakymas Nr. 4-266 \"Dėl Naujų gamtinių dujų sistemų naujoje dujofikuojamoje teritorijoje įrengimo ir naujų vartotojų gamtinių dujų sistemų prijungimo prie perdavimo ar skirstymo sistemų taisyklių patvirtinimo\"",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "75",
+  "official_journal_page": null,
+  "official_journal_date": "2008-07-03",
+  "entry_into_force": "2008-07-04",
+  "notification_date": "2012-05-18",
+  "commission_reference": "MNE(2012)52399",
+  "nim_celex": "72009L0073LTU_190853",
+  "nim_id": "190853",
+  "transposes_celex": [
+    "32009L0073"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/418f3fb5-932f-48dc-bce8-e98d18ec2bb3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
