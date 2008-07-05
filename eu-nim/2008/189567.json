@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos tabako kontrolės įstatymo 10, 11, 12, 19, 26 straipsnių pakeitimo ir papildymo įstatymas Nr. X-1637",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "76",
+  "official_journal_page": null,
+  "official_journal_date": "2008-07-05",
+  "entry_into_force": "2008-07-05",
+  "notification_date": "2012-02-29",
+  "commission_reference": "MNE(2012)51154",
+  "nim_celex": "72011L0064LTU_189567",
+  "nim_id": "189567",
+  "transposes_celex": [
+    "32011L0064"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/46ee8455-d02a-48ec-af45-b225aeb5a68b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
