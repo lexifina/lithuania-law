@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS ATLIEKŲ TVARKYMO ĮSTATYMO 2, 30, 34 STRAIPSNIŲ, 5 PRIEDO PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 34(8), 34(9), 34(10), 34(11) STRAIPSNIAIS ĮSTATYMAS NR. X-1605",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "76",
+  "official_journal_page": null,
+  "official_journal_date": "2008-07-05",
+  "entry_into_force": "2008-07-05",
+  "notification_date": "2008-07-10",
+  "commission_reference": "MNE(2008)53981",
+  "nim_celex": "72002L0096LTU_156906",
+  "nim_id": "156906",
+  "transposes_celex": [
+    "32002L0096",
+    "32006L0066"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/67b9ca1f-e349-4ebe-b689-dc8e89857e8a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
