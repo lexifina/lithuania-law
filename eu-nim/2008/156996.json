@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos lygių galimybių įstatymo pakeitimo įstatymas Nr. X-1602 (nauja redakcija)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "76",
+  "official_journal_page": null,
+  "official_journal_date": "2008-07-05",
+  "entry_into_force": "2008-07-05",
+  "notification_date": "2008-07-14",
+  "commission_reference": "MNE(2008)54069",
+  "nim_celex": "72000L0043LTU_156996",
+  "nim_id": "156996",
+  "transposes_celex": [
+    "32000L0043",
+    "32000L0078"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/560f1a62-f85d-4c24-b222-2fd7ce11a5f1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
