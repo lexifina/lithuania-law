@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos įstatymas \"Dėl darbuotojų dalyvavimo bendrovėje po vienos valstybės ribas peržengiančio ribotos atsakomybės bendrovių jungimosi\" Nr. X-1607",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "76-3001",
+  "official_journal_page": null,
+  "official_journal_date": "2008-07-05",
+  "entry_into_force": "2008-07-05",
+  "notification_date": "2019-03-21",
+  "commission_reference": "MNE(2018)56919",
+  "nim_celex": "72017L1132LTU_266590",
+  "nim_id": "266590",
+  "transposes_celex": [
+    "32017L1132"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e1e8f094-5694-401f-a4df-79ac2657497a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
