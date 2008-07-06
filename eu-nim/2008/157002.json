@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2008 m. birželio 28 d. įsakymas Nr. V-649 \"Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2000 m. gegužės 31 d. įsakymo Nr. 301 \"Dėl profilaktinių sveikatos tikrinimų sveikatos priežiūros įstaigose\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "76",
+  "official_journal_page": null,
+  "official_journal_date": "2008-07-05",
+  "entry_into_force": "2008-07-06",
+  "notification_date": "2008-07-15",
+  "commission_reference": "MNE(2008)54075",
+  "nim_celex": "72006L0023LTU_157002",
+  "nim_id": "157002",
+  "transposes_celex": [
+    "32006L0023"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7ce593ad-fb8b-47e3-9e1d-3ab512665394",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
