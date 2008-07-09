@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2008 M. LIEPOS 2 D. ĮSAKYMAS NR. D1-358 \"DĖL PAUKŠČIŲ APSAUGAI SVARBIŲ TERITORIJŲ ATRANKOS KRITERIJŲ PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "77",
+  "official_journal_page": null,
+  "official_journal_date": "2008-07-08",
+  "entry_into_force": "2008-07-09",
+  "notification_date": "2009-01-14",
+  "commission_reference": "MNE(2009)50125",
+  "nim_celex": "71979L0409LTU_159950",
+  "nim_id": "159950",
+  "transposes_celex": [
+    "31979L0409",
+    "32006L0105"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/74e263db-e175-4a47-8e7f-42efffde2340",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
