@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vertybinių popierių komisijos 2008 m. liepos 3 d. nutarimas Nr. 1K-14 \"Dėl Suderintųjų kolektyvinio investavimo subjektų turto reikalavimų\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "79",
+  "official_journal_page": null,
+  "official_journal_date": "2008-07-12",
+  "entry_into_force": "2008-07-13",
+  "notification_date": "2008-07-22",
+  "commission_reference": "MNE(2008)54142",
+  "nim_celex": "72007L0016LTU_157069",
+  "nim_id": "157069",
+  "transposes_celex": [
+    "32007L0016"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d544c809-320a-4b46-b789-5fbf165d57d5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
