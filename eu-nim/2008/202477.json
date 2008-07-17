@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos prokuratūros įstatymo 5, 7, 14, 15, 19, 23, 25, 26, 29, 32, 33, 34, 36, 39, 44, 52 straipsnių pakeitimo ir papildymo ir Įstatymo papildymo 37(1) straipsniu įstatymas Nr. X-1661",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "81",
+  "official_journal_page": null,
+  "official_journal_date": "2008-07-17",
+  "entry_into_force": "2008-07-17",
+  "notification_date": "2013-04-02",
+  "commission_reference": "MNE(2013)52187",
+  "nim_celex": "72011L0036LTU_202477",
+  "nim_id": "202477",
+  "transposes_celex": [
+    "32011L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4fcb059c-689a-4e49-9283-ae092eb84b05",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
