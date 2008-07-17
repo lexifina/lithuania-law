@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių teisės pažeidimų kodekso 21, 26, 27, 29, 41(4), 41(5), 44(2), 46(1), 50, 50(4), 50(7), 51(3), 56(1), 56(2), 64, 91(8), 111, 112, 112(1), 112(2), 119, 119(1), 119(2), 120, 121, 122, 122(1), 130, 136, 138, 138(1), 141, 143, 172(2), 188(10), 188(13), 207(7), 224, 225, 225(2,) 227, 229, 233, 234, 237, 241(1), 242, 244, 259(1), 261, 262, 266, 269, 270, 281, 320 straipsnių pakeitimo ir papildymo ir Kodekso papildymo 41(11), 51(23), 84(2), 84(3), 84(4), 112(3), 112(4), 112(5), 112(6), 112(7), 112(8), 119(3), 188(18) straipsniais įstatymas Nr. X-1675",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "81",
+  "official_journal_page": null,
+  "official_journal_date": "2008-07-17",
+  "entry_into_force": "2008-07-17",
+  "notification_date": "2008-07-18",
+  "commission_reference": "MNE(2008)54144",
+  "nim_celex": "72005L0056LTU_157072",
+  "nim_id": "157072",
+  "transposes_celex": [
+    "32005L0056"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3c341a55-72b2-4b34-8c9d-50ed79db068a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
