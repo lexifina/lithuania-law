@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos atliekų tvarkymo įstatymo 1, 2, 4, 8 straipsnių pakeitimo ir papildymo įstatymas Nr. X-1674",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "81",
+  "official_journal_page": null,
+  "official_journal_date": "2008-07-17",
+  "entry_into_force": "2008-07-17",
+  "notification_date": "2008-07-17",
+  "commission_reference": "MNE(2008)54117",
+  "nim_celex": "72006L0021LTU_157044",
+  "nim_id": "157044",
+  "transposes_celex": [
+    "32006L0021",
+    "32008L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7171fb60-02ac-4463-902d-5357083a5aa9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
