@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS PLANUOJAMOS ŪKINĖS VEIKLOS POVEIKIO APLINKAI VERTINIMO ĮSTATYMO 2, 3, 5, 6, 8, 9, 10, 11 STRAIPSNIŲ IR ĮSTATYMO 1, 2 PRIEDŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS NR. X-1654",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "81",
+  "official_journal_page": null,
+  "official_journal_date": "2008-07-17",
+  "entry_into_force": "2008-07-17",
+  "notification_date": "2008-11-06",
+  "commission_reference": "MNE(2008)55979",
+  "nim_celex": "71985L0337LTU_158969",
+  "nim_id": "158969",
+  "transposes_celex": [
+    "31985L0337",
+    "31997L0011",
+    "32003L0035"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a0106a69-af0a-4773-ae87-08b18bc10d46",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
