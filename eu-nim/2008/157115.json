@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2008 m. liepos 9 d. nutarimas Nr. 666 \"Dėl  Lietuvos Respublikos Vyriausybės 2003 m. lapkričio 12 d. nutarimo Nr. 1407 \"Dėl Juridinių asmenų registro įsteigimo ir Juridinių asmenų registro nuostatų patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "82",
+  "official_journal_page": null,
+  "official_journal_date": "2008-07-19",
+  "entry_into_force": "2008-07-20",
+  "notification_date": "2008-07-21",
+  "commission_reference": "MNE(2008)54184",
+  "nim_celex": "72005L0056LTU_157115",
+  "nim_id": "157115",
+  "transposes_celex": [
+    "32005L0056",
+    "32006L0068",
+    "32012L0017"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a9aac6cd-5e0f-4b75-8657-8e18ce5f2f09",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
