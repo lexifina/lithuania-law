@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo 2, 60, 62 straipsnių ir įstatymo priedo pakeitimo ir papildymo įstatymas Nr. X-1630",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "75",
+  "official_journal_page": null,
+  "official_journal_date": "2008-07-03",
+  "entry_into_force": "2008-07-23",
+  "notification_date": "2008-07-10",
+  "commission_reference": "MNE(2008)53995",
+  "nim_celex": "72007L0016LTU_156920",
+  "nim_id": "156920",
+  "transposes_celex": [
+    "32007L0016"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1f154122-349a-453d-98da-d490da67d0e8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
