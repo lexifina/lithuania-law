@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2008 m. liepos 9 d. nutarimas Nr. 692 \"Dėl Efektyvaus energijos išteklių ir energijos vartojimo stebėsenos taisyklių patvirtinimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "83",
+  "official_journal_page": null,
+  "official_journal_date": "2008-07-22",
+  "entry_into_force": "2008-07-23",
+  "notification_date": "2008-08-27",
+  "commission_reference": "MNE(2008)54704",
+  "nim_celex": "72006L0032LTU_157652",
+  "nim_id": "157652",
+  "transposes_celex": [
+    "32006L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9af0559b-c12e-49c5-b953-b4021fc09083",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
