@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2008 m. liepos 21 d. įsakymas Nr. V-680 „Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2004 m. vasario 2 d. įsakymo Nr. V-43 \"Dėl Gydytojų diplomų, pažymėjimų ir kitų oficialias kvalifikacijas patvirtinančių dokumentų, įgytų Europos Sąjungos valstybėje narėje, Šveicarijoje arba valstybėje, pasirašiusioje Europos ekonominės erdvės susitarimą, pripažinimo Lietuvos Respublikoje taisyklių tvirtinimo\" pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "85",
+  "official_journal_page": null,
+  "official_journal_date": "2008-07-26",
+  "entry_into_force": "2008-07-27",
+  "notification_date": "2008-08-27",
+  "commission_reference": "MNE(2008)54796",
+  "nim_celex": "72006L0100LTU_157745",
+  "nim_id": "157745",
+  "transposes_celex": [
+    "32006L0100"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/16cc9e8e-476a-4c94-8910-e4919ac2c331",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
