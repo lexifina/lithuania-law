@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Viešosios įstaigos Lietuvos Respublikos apskaitos instituto direktoriaus 2008 m. liepos 17 d. įsakymas Nr. VAS-6 „Dėl 11-ojo verslo apskaitos standarto „Sąnaudos“ papildymo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "85",
+  "official_journal_page": null,
+  "official_journal_date": "2008-07-26",
+  "entry_into_force": "2008-07-27",
+  "notification_date": "2008-09-25",
+  "commission_reference": "MNE(2008)55236",
+  "nim_celex": "72006L0043LTU_158189",
+  "nim_id": "158189",
+  "transposes_celex": [
+    "32006L0043"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6a8ec101-aaea-4f3c-9015-4978f7cd9d65",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
