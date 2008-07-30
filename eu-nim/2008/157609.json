@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2008 M. LIEPOS 21 D. ĮSAKYMAS NR. D1-386 \"DĖL APLINKOS MINISTRO 2001 m. GRUODŽIO 21 d. ĮSAKYMO Nr. 625 „DĖL IŠEIKVOTŲ BATERIJŲ IR AKUMULIATORIŲ TVARKYMO TAISYKLIŲ PATVIRTINIMO“ PAKEITIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "86",
+  "official_journal_page": null,
+  "official_journal_date": "2008-07-29",
+  "entry_into_force": "2008-07-30",
+  "notification_date": "2008-08-25",
+  "commission_reference": "MNE(2008)54665",
+  "nim_celex": "72006L0066LTU_157609",
+  "nim_id": "157609",
+  "transposes_celex": [
+    "32006L0066"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/06a5fc94-0acc-425f-8ca7-123d22f6d5f9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
