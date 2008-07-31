@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2008 m. bielio 20 d. įsakymas nr. 3D-352 \"Dėl Žemės ūkio ministro 2004 m. lapkričio 3 d. įsakymo Nr. 3D-596 „Dėl pašarų, skirtų konkretiems gyvūnų mitybos tikslams, tiekimo į apyvartą taisyklių patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "74",
+  "official_journal_page": null,
+  "official_journal_date": "2008-06-30",
+  "entry_into_force": "2008-07-31",
+  "notification_date": "2008-07-11",
+  "commission_reference": "MNE(2008)54035",
+  "nim_celex": "72008L0004LTU_156962",
+  "nim_id": "156962",
+  "transposes_celex": [
+    "32008L0004",
+    "32008L0038"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f0deedec-a0bc-43a2-b866-56c6e47e2c75",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
