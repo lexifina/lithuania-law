@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos civilinių ginčų taikinamojo tarpininkavimo įstatymas Nr. X-1702",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "87",
+  "official_journal_page": null,
+  "official_journal_date": "2008-07-31",
+  "entry_into_force": "2008-07-31",
+  "notification_date": "2017-01-19",
+  "commission_reference": "MNE(2017)50446",
+  "nim_celex": "72014L0104LTU_244416",
+  "nim_id": "244416",
+  "transposes_celex": [
+    "32014L0104"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ef38dde7-fb85-492e-8e5e-2b7f045ae354",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
