@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės kelių transporto inspekcijos prie susisiekimo ministerijos viršininko 2008 m. liepos 29 d. įsakymas Nr. 2B-290 „Dėl Techninių motorinių transporto priemonių ir jų priekabų reikalavimų“ pakeitimo“ (Suvestinė redakcija nuo 2018-05-20)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "88-3550",
+  "official_journal_page": null,
+  "official_journal_date": "2008-08-02",
+  "entry_into_force": "2008-08-01",
+  "notification_date": "2018-11-12",
+  "commission_reference": "MNE(2018)56008",
+  "nim_celex": "72014L0045LTU_264966",
+  "nim_id": "264966",
+  "transposes_celex": [
+    "32014L0045"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1061bfe6-f064-45e3-ae2e-18fe1608bc77",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
