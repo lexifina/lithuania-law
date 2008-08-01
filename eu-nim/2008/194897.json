@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro 2008 m. liepos 17 d. įsakymas Nr. Nr. 4-320 \"Dėl Lietuvos Respublikos ūkio ministro 2006 m. vasario 28 d. įsakymo Nr. 4-73 \"Dėl pastatuose įrengtų šildymo katilų, šildymo sistemų ir oro kondicionavimo sistemų efektyvumo tikrinimo reglamentų patvirtinimo\" pakeitimo",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "87",
+  "official_journal_page": null,
+  "official_journal_date": "2008-07-31",
+  "entry_into_force": "2008-08-01",
+  "notification_date": "2012-09-28",
+  "commission_reference": "MNE(2012)53716",
+  "nim_celex": "72010L0031LTU_194897",
+  "nim_id": "194897",
+  "transposes_celex": [
+    "32010L0031"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/431071fe-18ba-4cce-bc00-4435fbeacae0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
