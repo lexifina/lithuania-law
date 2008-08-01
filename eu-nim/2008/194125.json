@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos išmokų vaikams įstatymo 1, 2, 3, 5, 6, 7, 8, 9, 10, 12, 13, 14, 18, 20, 22 straipsnių ir antrojo, trečiojo skirsnių pavadinimų pakeitimo įstatymas Nr. X-1664",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "81",
+  "official_journal_page": null,
+  "official_journal_date": "2008-07-17",
+  "entry_into_force": "2008-08-01",
+  "notification_date": "2012-07-24",
+  "commission_reference": "MNE(2012)53451",
+  "nim_celex": "72010L0041LTU_194125",
+  "nim_id": "194125",
+  "transposes_celex": [
+    "32010L0041"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/21ea1835-9ea8-4c55-a80b-874a9d418a7d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
