@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2008 M. LIEPOS 21 D. ĮSAKYMAS NR. D1-389 \"DĖL LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2001 M. BALANDŽIO 20 D. ĮSAKYMO NR. 219 „DĖL GAMTINIŲ BUVEINIŲ APSAUGAI SVARBIŲ TERITORIJŲ KRITERIJŲ PATVIRTINIMO“ PAKEITIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "87",
+  "official_journal_page": null,
+  "official_journal_date": "2008-07-31",
+  "entry_into_force": "2008-08-01",
+  "notification_date": "2008-09-05",
+  "commission_reference": "MNE(2008)55026",
+  "nim_celex": "71992L0043LTU_157976",
+  "nim_id": "157976",
+  "transposes_celex": [
+    "31992L0043"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e4b6ddd8-841d-4b85-b9ca-46b9934cb176",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
