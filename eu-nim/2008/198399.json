@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 5, 9, 14 straipsnių pakeitimo ir papildymo įstatymas Nr. X-1672",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "81",
+  "official_journal_page": null,
+  "official_journal_date": "2008-07-17",
+  "entry_into_force": "2008-08-01",
+  "notification_date": "2012-11-19",
+  "commission_reference": "MNE(2012)56762",
+  "nim_celex": "72010L0053LTU_198399",
+  "nim_id": "198399",
+  "transposes_celex": [
+    "32010L0053"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0079f03f-1eba-4cef-8c5f-759e04ed122f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
