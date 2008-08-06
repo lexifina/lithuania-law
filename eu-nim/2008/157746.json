@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2008 m. liepos 28 d. įsakymas Nr. V-701 „Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2004 m. vasario 2 d. įsakymo Nr. V-40 \"Dėl Diplomų, pažymėjimų ir kitų oficialias gydytojų odontologų kvalifikacijas patvirtinančių dokumentų, įgytų Europos Sąjungos valstybėse narėse, Šveicarijoje ar valstybėse, pasirašiusiose Europos ekonominės erdvės susitarimą, pripažinimo Lietuvos Respublikoje taisyklių” pakeitimo”",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "89",
+  "official_journal_page": null,
+  "official_journal_date": "2008-08-05",
+  "entry_into_force": "2008-08-06",
+  "notification_date": "2008-08-27",
+  "commission_reference": "MNE(2008)54797",
+  "nim_celex": "72006L0100LTU_157746",
+  "nim_id": "157746",
+  "transposes_celex": [
+    "32006L0100"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e76177eb-4346-4825-a571-35b40cecf163",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
