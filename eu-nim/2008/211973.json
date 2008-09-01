@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos buhalterinės apskaitos įstatymo 2, 3, 6, 7, 8, 9, 10, 17, 18, 19, 22 straipsnių bei priedo pakeitimo ir papildymo ir 24 straipsnio pripažinimo netekusiu galios įstatymas Nr. X-1679",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "82",
+  "official_journal_page": null,
+  "official_journal_date": "2008-07-19",
+  "entry_into_force": "2008-09-01",
+  "notification_date": null,
+  "commission_reference": "MNE(2013)60104",
+  "nim_celex": "72011L0085LTU_211973",
+  "nim_id": "211973",
+  "transposes_celex": [
+    "32011L0085"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c8f6ef5b-01f8-4488-a5ee-ea82d12ade88",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
