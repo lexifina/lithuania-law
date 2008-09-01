@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos audito įstatymo pakeitimo įstatymas Nr. X-1676",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "82",
+  "official_journal_page": null,
+  "official_journal_date": "2008-07-19",
+  "entry_into_force": "2008-09-01",
+  "notification_date": "2008-07-24",
+  "commission_reference": "MNE(2008)54270",
+  "nim_celex": "72006L0043LTU_157202",
+  "nim_id": "157202",
+  "transposes_celex": [
+    "32006L0043"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8b03261d-94e0-4602-8ac1-30e632a97bce",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
