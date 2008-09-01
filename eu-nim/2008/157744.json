@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2008 m. rugpjūčio 20 d. nutarimas Nr. 125 „Dėl Lietuvos banko valdybos 2004 m. rugsėjo 2 d. nutarimo Nr. 148 „Dėl Banko vidaus audito organizavimo bendrųjų nuostatų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "97",
+  "official_journal_page": null,
+  "official_journal_date": "2008-08-26",
+  "entry_into_force": "2008-09-01",
+  "notification_date": "2008-08-28",
+  "commission_reference": "MNE(2008)54795",
+  "nim_celex": "72006L0043LTU_157744",
+  "nim_id": "157744",
+  "transposes_celex": [
+    "32006L0043"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a406fdc7-40ab-4e48-8d74-fdee1d629128",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
