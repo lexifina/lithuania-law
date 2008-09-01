@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos teismų įstatymo 33, 34, 36, 38, 39, 42, 43, 47, 51, 55(1), 57, 61, 63, 64, 69(1), 81 straipsnių, IX skyriaus pavadinimo, 83, 84, 85, 86, 90, 98, 101, 103 straipsnių, XII skyriaus antrojo skirsnio pavadinimo, 106, 107, 108, 119, 120, 122, 124, 127, 128, 129 straipsnių pakeitimo ir papildymo, 89, 109, 110, 111, 112, 125 straipsnių pripažinimo netekusiais galios ir Įstatymo papildymo 53(1), 53(2) straipsniais ir IX skyriaus trečiuoju skirsniu įstatymas Nr. X-1685",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "81",
+  "official_journal_page": null,
+  "official_journal_date": "2008-07-17",
+  "entry_into_force": "2008-09-01",
+  "notification_date": "2011-08-18",
+  "commission_reference": "MNE(2011)56044",
+  "nim_celex": "72008F0977LTU_185511",
+  "nim_id": "185511",
+  "transposes_celex": [
+    "32008F0977",
+    "32009L0081"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/16530d1a-b750-4c95-828d-444e192bfd39",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
