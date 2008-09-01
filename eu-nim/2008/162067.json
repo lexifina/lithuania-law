@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro 2008 m. birželio 18 d. įsakymas Nr. 4-253 \"Dėl Lietuvos Respublikos ūkio ministro 2002 m. rugsėjo 17 d. įsakymo Nr. 326 \"Dėl elektros energijos vartotojų, gamintojų energetikos objektų (tinklų, įrenginių, sistemų) prijungimo prie veikiančių energetikos įmonių objektų (tinklų, įrenginių, sistemų) tvarkos ir sąlygų patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "73",
+  "official_journal_page": null,
+  "official_journal_date": "2008-06-27",
+  "entry_into_force": "2008-09-01",
+  "notification_date": "2009-07-27",
+  "commission_reference": "MNE(2009)52187",
+  "nim_celex": "72004L0008LTU_162067",
+  "nim_id": "162067",
+  "transposes_celex": [
+    "32004L0008"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f31c23a4-c6c1-4e57-a7ad-fe8492df0a4f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
