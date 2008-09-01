@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo pakeitimo įstatymas Nr. X-1633",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "79",
+  "official_journal_page": null,
+  "official_journal_date": "2008-07-12",
+  "entry_into_force": "2008-09-01",
+  "notification_date": "2008-07-22",
+  "commission_reference": "MNE(2008)54201",
+  "nim_celex": "72006L0046LTU_157132",
+  "nim_id": "157132",
+  "transposes_celex": [
+    "32006L0046"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/76f6e9ad-ef4a-4845-bd3a-d50536fb0cda",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
