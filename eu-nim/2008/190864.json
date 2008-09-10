@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės kainų ir energetikos kontrolės komisijos 2008 m. rugpjūčio 29 d. nutarimas Nr. O3-107 „Dėl Gamtinių dujų tiekimo kainų viršutinių ribų skaičiavimo metodikos patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "103",
+  "official_journal_page": null,
+  "official_journal_date": "2008-09-09",
+  "entry_into_force": "2008-09-10",
+  "notification_date": "2012-05-18",
+  "commission_reference": "MNE(2012)52410",
+  "nim_celex": "72009L0073LTU_190864",
+  "nim_id": "190864",
+  "transposes_celex": [
+    "32009L0073"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/03b4f194-4349-4fb1-8607-a02c8d89a9d2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
