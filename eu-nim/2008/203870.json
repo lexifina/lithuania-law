@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2008 m. rugsėjo 3 d. nutarimas Nr. 860 \"Dėl Radioaktyviųjų atliekų tvarkymo strategijos patvirtinimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "105",
+  "official_journal_page": null,
+  "official_journal_date": "2008-09-12",
+  "entry_into_force": "2008-09-13",
+  "notification_date": "2013-05-13",
+  "commission_reference": "MNE(2013)53314",
+  "nim_celex": "72011L0070LTU_203870",
+  "nim_id": "203870",
+  "transposes_celex": [
+    "32011L0070"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fd1d8dde-69e0-40d2-8f6c-26ecb47bc7be",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
