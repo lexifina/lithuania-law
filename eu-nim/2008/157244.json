@@ -1,0 +1,25 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos viešųjų pirkimų įstatymo 2, 6, 7, 8, 9, 10, 11, 12, 16, 17, 18, 19, 22, 23, 24, 27, 28, 30, 31, 33, 38, 39, 41, 51, 57, 58, 70, 72, 75, 79, 81, 93, 95, 98, 100 straipsnių, IV skyriaus, 1 ir 2 priedėlių ir priedo pakeitimo ir papildymo įstatymas Nr. X-1673",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "81",
+  "official_journal_page": null,
+  "official_journal_date": "2008-07-17",
+  "entry_into_force": "2008-09-15",
+  "notification_date": "2008-07-25",
+  "commission_reference": "MNE(2008)54312",
+  "nim_celex": "72004L0017LTU_157244",
+  "nim_id": "157244",
+  "transposes_celex": [
+    "32004L0017",
+    "32004L0018",
+    "32007L0066",
+    "32009L0081"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/523c4538-8d00-4172-9bb9-4f2734910c83",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
