@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos finansų ministro 2008 m. rugsėjo 10 d. įsakymas Nr. 1K-280 „Dėl valstybių ne narių auditorių ir valstybių ne narių audito įmonių įrašymo į auditorių ir audito įmonių sąrašus, atlikto audito kokybės peržiūros, tyrimų ir drausminių nuobaudų skyrimo taisyklių patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "106",
+  "official_journal_page": null,
+  "official_journal_date": "2008-09-16",
+  "entry_into_force": "2008-09-17",
+  "notification_date": "2008-09-25",
+  "commission_reference": "MNE(2008)55237",
+  "nim_celex": "72006L0043LTU_158190",
+  "nim_id": "158190",
+  "transposes_celex": [
+    "32006L0043"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0b18907a-48d3-4d96-a8c0-fb6a24a1f54d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
