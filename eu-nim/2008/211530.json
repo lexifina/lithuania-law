@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro 2008 m. rugsėjo 10 d. įsakymas Nr. 1V-329 „Dėl Motorinių transporto priemonių vairuotojų egzaminavimo sąlygų ir tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "106",
+  "official_journal_page": null,
+  "official_journal_date": "2008-09-16",
+  "entry_into_force": "2008-09-17",
+  "notification_date": "2013-12-17",
+  "commission_reference": "MNE(2013)59701",
+  "nim_celex": "72012L0036LTU_211530",
+  "nim_id": "211530",
+  "transposes_celex": [
+    "32012L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3b344c38-e422-42d7-a144-2f31a8bfb7cb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
