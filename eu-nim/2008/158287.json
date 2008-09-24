@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2008 m. rugsėjo 10 d. nutarimas Nr. 913 „Dėl Lietuvos Respublikos Vyriausybės 2004 m. rugpjūčio 17 d. nutarimo Nr. 966 „Dėl pramoninių avarijų prevencijos, likvidavimo ir tyrimo nuostatų patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "109",
+  "official_journal_page": null,
+  "official_journal_date": "2008-09-23",
+  "entry_into_force": "2008-09-24",
+  "notification_date": "2008-09-29",
+  "commission_reference": "MNE(2008)55330",
+  "nim_celex": "71996L0082LTU_158287",
+  "nim_id": "158287",
+  "transposes_celex": [
+    "31996L0082"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d3e7e074-3552-420c-a590-eeca54c2b19f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
