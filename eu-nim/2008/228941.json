@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Audito ir apskaitos tarnybos direktoriaus 2008 m. rugsėjo 16 d. įsakymas Nr. VAS-9 \"Dėl 12-ojo verslo apskaitos standarto \"Ilgalaikis materialusis turtas\" naujos redakcijos\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "109",
+  "official_journal_page": null,
+  "official_journal_date": "2008-09-23",
+  "entry_into_force": "2008-09-24",
+  "notification_date": "2015-08-05",
+  "commission_reference": "MNE(2015)55760",
+  "nim_celex": "72013L0034LTU_228941",
+  "nim_id": "228941",
+  "transposes_celex": [
+    "32013L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1d0e34cc-1273-46c9-adf4-c40655690ed2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
