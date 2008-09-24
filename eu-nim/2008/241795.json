@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2008 m. rugsėjo 10 d. įsakymas Nr. 3-327 „Dėl Klaipėdos valstybinio jūrų uosto laivybos taisyklių patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "109",
+  "official_journal_page": null,
+  "official_journal_date": "2015-01-01",
+  "entry_into_force": "2008-09-24",
+  "notification_date": "2016-11-16",
+  "commission_reference": "MNE(2016)56625",
+  "nim_celex": "72016L0802LTU_241795",
+  "nim_id": "241795",
+  "transposes_celex": [
+    "32016L0802"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/babc2026-9135-41b0-bbb9-aa5ad0ed15a0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
