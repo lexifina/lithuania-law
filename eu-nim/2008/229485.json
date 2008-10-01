@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2008 m. rugsėjo 24 d. nutarimas Nr. 938 „Dėl Lietuvos Respublikos Vyriausybės 2004 m. balandžio 7 d. nutarimo Nr. 388 „Dėl Ataskaitų, susijusių su Europos Sąjungos aplinkos sektoriaus teisės aktų įgyvendinimu, teikimo Europos Komisijai tvarkos patvirtinimo ir informacijos, kurios reikia ataskaitoms Europos aplinkos agentūrai parengti, teikimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "112",
+  "official_journal_page": null,
+  "official_journal_date": "2008-09-30",
+  "entry_into_force": "2008-10-01",
+  "notification_date": "2015-09-07",
+  "commission_reference": "MNE(2015)56258",
+  "nim_celex": "72012L0018LTU_229485",
+  "nim_id": "229485",
+  "transposes_celex": [
+    "32012L0018"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/90326944-f6bc-448e-9dd6-732060af2c0d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
