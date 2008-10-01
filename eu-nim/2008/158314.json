@@ -1,0 +1,27 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 2008 M. RUGSĖJO 24 D. NUTARIMAS NR. 938 'DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 2004 M. BALANDŽIO 7 D. NUTARIMO NR. 388 „DĖL ATASKAITŲ, SUSIJUSIŲ SU EUROPOS SĄJUNGOS APLINKOS SEKTORIAUS TEISĖS AKTŲ ĮGYVENDINIMU, TEIKIMO EUROPOS KOMISIJAI TVARKOS PATVIRTINIMO IR INFORMACIJOS, KURIOS REIKIA ATASKAITOMS EUROPOS APLINKOS AGENTŪRAI PARENGTI, TEIKIMO“ PAKEITIMO'",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "112",
+  "official_journal_page": null,
+  "official_journal_date": "2008-09-30",
+  "entry_into_force": "2008-10-01",
+  "notification_date": "2008-09-30",
+  "commission_reference": "MNE(2008)55356",
+  "nim_celex": "71991L0692LTU_158314",
+  "nim_id": "158314",
+  "transposes_celex": [
+    "31991L0692",
+    "31996L0082",
+    "32002L0049",
+    "32004L0035",
+    "32005L0035",
+    "32006L0066"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/384c1ce3-27ae-4c39-9fce-6a407c9169a2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
