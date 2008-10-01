@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2008 m. rugsėjo 25 d. nutarimas Nr. 150 „Dėl Lietuvos banko valdybos 2007 m. lapkričio 8 d. nutarimo Nr. 148 „Dėl  Dienos paskolų eurais suteikimo taisyklių patvirtinimo“  patvirtintų Dienos paskolų eurais suteikimo taisyklių pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "112",
+  "official_journal_page": null,
+  "official_journal_date": "2008-09-30",
+  "entry_into_force": "2008-10-01",
+  "notification_date": "2008-11-10",
+  "commission_reference": "MNE(2008)56054",
+  "nim_celex": "71998L0026LTU_159044",
+  "nim_id": "159044",
+  "transposes_celex": [
+    "31998L0026"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/781abe56-30f8-4e28-90d0-858eff6a76d4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
