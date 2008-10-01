@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2008 M. RUGSĖJO 25 D. ĮSAKYMAS NR. D1-498 'DĖL LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 1999 M. LIEPOS 19 D. ĮSAKYMO NR. 221 „DĖL LIETUVOS ŪKIO OBJEKTUOSE NAUDOJAMŲ PAVOJINGŲ MEDŽIAGŲ RIBINIŲ KIEKIŲ PATVIRTINIMO“ PRIPAŽINIMO NETEKUSIU GALIOS'",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "112",
+  "official_journal_page": null,
+  "official_journal_date": "2008-09-30",
+  "entry_into_force": "2008-10-01",
+  "notification_date": "2008-10-02",
+  "commission_reference": "MNE(2008)55396",
+  "nim_celex": "71996L0082LTU_158356",
+  "nim_id": "158356",
+  "transposes_celex": [
+    "31996L0082",
+    "32003L0105"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/46f59072-3f7d-46c5-89bb-ed80b080e065",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
