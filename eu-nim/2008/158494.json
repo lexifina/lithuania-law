@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2008 m. rugsėjo 24 d. nutarimas Nr. 942 \"Dėl kriterijų, kuriais vadovaujantis klientas laikomas keliančiu mažą pinigų plovimo ir (ar) teroristų finansavimo grėsmę, ir kriterijų, kuriais vadovaujantis laikoma, kad yra didelė pinigų plovimo ir (ar) teroristų finansavimo grėsmė, sąrašo, Kliento ir naudos gavėjo tapatybės, kelių tarpusavyje susijusių piniginių operacijų nustatymo taisyklių patvirtinimo ir informacijos apie pastebėtus galimo pinigų plovimo ir (ar) teroristų finansavimo požymius, Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo pažeidimus ir priemones, kurių buvo imtasi prieš pažeidėjus, pateikimo tvarkos nustatymo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "114",
+  "official_journal_page": null,
+  "official_journal_date": "2008-10-04",
+  "entry_into_force": "2008-10-05",
+  "notification_date": "2008-10-09",
+  "commission_reference": "MNE(2008)55526",
+  "nim_celex": "72006L0070LTU_158494",
+  "nim_id": "158494",
+  "transposes_celex": [
+    "32006L0070"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ecaf80ea-a5d7-40e8-a09c-95d7c4307e99",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
