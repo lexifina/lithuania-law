@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2008 m. rugsėjo 30 d. įsakymas Nr. A1-327 „Dėl profesinių kvalifikacijų pripažinimo koordinatoriaus paskyrimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "114",
+  "official_journal_page": null,
+  "official_journal_date": "2008-10-04",
+  "entry_into_force": "2008-10-05",
+  "notification_date": "2008-10-10",
+  "commission_reference": "MNE(2008)55557",
+  "nim_celex": "72005L0036LTU_158525",
+  "nim_id": "158525",
+  "transposes_celex": [
+    "32005L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a5c3f7f3-6369-4d2b-852e-ffcf6e5754ca",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
