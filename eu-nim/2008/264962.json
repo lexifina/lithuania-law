@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2008 m. spalio 6 d. įsakymas Nr. 3-375 „Dėl Reikalavimų įmonėms, atliekančioms motorinių transporto priemonių ir jų priekabų privalomąją techninę apžiūrą, ir kvalifikacijos reikalavimų darbuotojams patvirtinimo“ (Suvestinė redakcija nuo 2018-05-20)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "118-4484",
+  "official_journal_page": null,
+  "official_journal_date": "2008-10-14",
+  "entry_into_force": "2008-10-15",
+  "notification_date": "2018-11-12",
+  "commission_reference": "MNE(2018)56004",
+  "nim_celex": "72014L0045LTU_264962",
+  "nim_id": "264962",
+  "transposes_celex": [
+    "32014L0045"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5c215d42-062d-4d3a-a584-3390dc055db8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
