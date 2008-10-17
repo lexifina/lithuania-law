@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2008 m. spalio 7 d. įsakymas Nr. V-962 \"Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2007 m. liepos 10 d. įsakymo Nr. V-571 \"Dėl biocidų veikliųjų medžiagų sąrašo patvirtinimo\" papildymo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "119",
+  "official_journal_page": null,
+  "official_journal_date": "2008-10-16",
+  "entry_into_force": "2008-10-17",
+  "notification_date": "2008-11-04",
+  "commission_reference": "MNE(2008)55828",
+  "nim_celex": "72008L0079LTU_158803",
+  "nim_id": "158803",
+  "transposes_celex": [
+    "32008L0079"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2d0e5345-48bc-452a-9cdb-4101620bf352",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
