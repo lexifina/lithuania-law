@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2008 m. spalio 14 d. nutarimas Nr. 1017 „Dėl 2007 m. liepos 11 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 862/2007 dėl Bendrijos migracijos statistikos ir tarptautinės apsaugos statistikos ir panaikinančio Tarybos reglamentą (EEB) Nr. 311/76 dėl statistinių duomenų rinkimo apie darbuotojus užsieniečius nuostatų įgyvendinimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "121-4594",
+  "official_journal_page": null,
+  "official_journal_date": "2008-10-21",
+  "entry_into_force": "2008-10-22",
+  "notification_date": "2024-01-31",
+  "commission_reference": "MNE(2024)00531",
+  "nim_celex": "72021L1883LTU_202400531",
+  "nim_id": "202400531",
+  "transposes_celex": [
+    "32021L1883"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/90288c8e-097d-4eda-b751-87cebf917829",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
