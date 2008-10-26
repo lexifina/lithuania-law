@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos kultūros ministro 2008 m. spalio 14 d. įsakymas Nr. ĮV-485 „Dėl restauratoriaus profesinės kvalifikacijos pripažinimo norint dirbti pagal restauratoriaus profesiją ar laikinai arba vienkartinai teikti restauratoriaus paslaugas Lietuvos Respublikoje tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "123",
+  "official_journal_page": null,
+  "official_journal_date": "2008-10-25",
+  "entry_into_force": "2008-10-26",
+  "notification_date": "2008-10-28",
+  "commission_reference": "MNE(2008)55758",
+  "nim_celex": "72005L0036LTU_158730",
+  "nim_id": "158730",
+  "transposes_celex": [
+    "32005L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2bc5d97d-abc1-493b-bd96-db55e35286ce",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
