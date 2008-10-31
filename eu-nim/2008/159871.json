@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro ir Lietuvos respublikos aplinkos ministro 2008 m. spalio 22 d. įsakymas Nr. 4-499/D1-556 \"Dėl Lietuvos Respublikos ūkio ministro ir Lietuvos Respublikos aplinkos ministro 2004 m. balandžio 19 d. įsakymo Nr. 4-117/D3-196 \"Dėl Baterijų ir akumuliatorių, kuriuose yra pavojingų cheminių medžiagų, tiekimo į rinką reikalavimų patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "125",
+  "official_journal_page": null,
+  "official_journal_date": "2008-10-30",
+  "entry_into_force": "2008-10-31",
+  "notification_date": "2009-02-10",
+  "commission_reference": "MNE(2009)50046",
+  "nim_celex": "72008L0103LTU_159871",
+  "nim_id": "159871",
+  "transposes_celex": [
+    "32008L0103"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/25967ef4-c8b6-411d-a61e-a86cabcef49e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
