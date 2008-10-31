@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos švietimo ir mokslo ministro 2008 m. spalio 23 d. įsakymas Nr. ISAK-2826 \"Dėl profesinės kvalifikacijos pripažinimo norint dirbti ar teikti laikinas arba vienkartines paslaugas Lietuvos Respublikoje pagal reglamentuojamą profesiją, priskirtą Lietuvos Respublikos švietimo ir mokslo ministerijos kuruojamai sričiai, tvarkos aprašo patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "125",
+  "official_journal_page": null,
+  "official_journal_date": "2008-10-30",
+  "entry_into_force": "2008-10-31",
+  "notification_date": "2008-11-04",
+  "commission_reference": "MNE(2008)55887",
+  "nim_celex": "72005L0036LTU_158871",
+  "nim_id": "158871",
+  "transposes_celex": [
+    "32005L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3a3da83f-9d9a-4e09-bba5-26d3e20592ba",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
