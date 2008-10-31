@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRO 2008 M. SPALIO 22 D. ĮSAKYMAS NR. V-1011 \"DĖL LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS \nMINISTRO 2004 M. VASARIO 2 D. ĮSAKYMO NR. V-43 „DĖL GYDYTOJŲ DIPLOMŲ, PAŽYMĖJIMŲ IR KITŲ OFICIALIAS PROFESINES KVALIFIKACIJAS PATVIRTINANČIŲ \nDOKUMENTŲ, ĮGYTŲ EUROPOS SĄJUNGOS VALSTYBĖSE NARĖSE, ŠVEICARIJOJE AR VALSTYBĖSE, PASIRAŠIUSIOSE EUROPOS EKONOMINĖS ERDVĖS SUSITARIMĄ, PRIPAŽINIMO LIETUVOS RESPUBLIKOJE TAISYKLIŲ TVIRTINIMO“ PAKEITIMO“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "125",
+  "official_journal_page": null,
+  "official_journal_date": "2008-10-30",
+  "entry_into_force": "2008-10-31",
+  "notification_date": "2008-11-04",
+  "commission_reference": "MNE(2008)55896",
+  "nim_celex": "72005L0036LTU_158880",
+  "nim_id": "158880",
+  "transposes_celex": [
+    "32005L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3e2ff2e8-a5c1-4870-a433-a3a0070c4b94",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
