@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "FARMACIJOS DEPARTAMENTO PRIE SVEIKATOS APSAUGOS MINISTERIJOS DIREKTORIAUS 2008 M. SPALIO 27 D. ĮSAKYMAS NR. 45V \"DĖL VAISTININKO PADĖJĖJO (FARMAKOTECHNIKO) PROFESINĖS KVALIFIKACIJOS PRIPAŽINIMO, NORINT LIETUVOS RESPUBLIKOJE DIRBTI PAGAL VAISTININKO PADĖJĖJO (FARMAKOTECHNIKO) PROFESIJĄ AR LAIKINAI ARBA VIENKARTINAI TEIKTI VAISTININKO PADĖJĖJO (FARMAKOTECHNIKO) PASLAUGAS, TVARKOS APRAŠO PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "125",
+  "official_journal_page": null,
+  "official_journal_date": "2008-10-30",
+  "entry_into_force": "2008-10-31",
+  "notification_date": "2008-11-04",
+  "commission_reference": "MNE(2008)55902",
+  "nim_celex": "72005L0036LTU_158886",
+  "nim_id": "158886",
+  "transposes_celex": [
+    "32005L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6f26f200-4607-4fbe-a0c9-ffcf1cef86b4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
