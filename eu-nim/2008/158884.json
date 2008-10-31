@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRO 2008 M. SPALIO 22 D. ĮSAKYMAS NR. V-1012 \"DĖL LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRO 2004 M. VASARIO 2 D. ĮSAKYMO NR. V-40 „DĖL DIPLOMŲ, PAŽYMĖJIMŲ IR KITŲ OFICIALIAS GYDYTOJŲ ODONTOLOGŲ PROFESINES KVALIFIKACIJAS PATVIRTINANČIŲ DOKUMENTŲ, ĮGYTŲ EUROPOS SĄJUNGOS VALSTYBĖSE NARĖSE, ŠVEICARIJOJE AR VALSTYBĖSE, PASIRAŠIUSIOSE EUROPOS EKONOMINĖS ERDVĖS SUSITARIMĄ, PRIPAŽINIMO LIETUVOS RESPUBLIKOJE TAISYKLIŲ TVIRTINIMO“ PAKEITIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "125",
+  "official_journal_page": null,
+  "official_journal_date": "2008-10-30",
+  "entry_into_force": "2008-10-31",
+  "notification_date": "2008-11-04",
+  "commission_reference": "MNE(2008)55900",
+  "nim_celex": "72005L0036LTU_158884",
+  "nim_id": "158884",
+  "transposes_celex": [
+    "32005L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/acf4e258-5072-4408-8f24-d817620685dd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
