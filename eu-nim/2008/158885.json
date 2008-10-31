@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRO 2008 M. SPALIO 22 D. ĮSAKYMAS NR. V-1013 \"DĖL LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRO 2005 M. GRUODŽIO 21 D. ĮSAKYMO NR. V-1003 „DĖL DIPLOMŲ, PAŽYMĖJIMŲ IR KITŲ KVALIFIKACIJĄ PATVIRTINANČIŲ DOKUMENTŲ, IŠDUOTŲ EUROPOS SĄJUNGOS, EUROPOS EKONOMINĖS ERDVĖS VALSTYBĖSE AR ŠVEICARIJOS KONFEDERACIJOJE, PRIPAŽINIMO NORINT DIRBTI LIETUVOS RESPUBLIKOJE PAGAL REGLAMENTUOJAMĄ PROFESIJĄ, PRISKIRTĄ SVEIKATOS APSAUGOS MINISTERIJOS KURUOJAMAI SRIČIAI, TVARKOS APRAŠO PATVIRTINIMO“ PAKEITIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "125",
+  "official_journal_page": null,
+  "official_journal_date": "2008-10-30",
+  "entry_into_force": "2008-10-31",
+  "notification_date": "2008-11-04",
+  "commission_reference": "MNE(2008)55901",
+  "nim_celex": "72005L0036LTU_158885",
+  "nim_id": "158885",
+  "transposes_celex": [
+    "32005L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/760262ce-7232-4e25-91a4-86667cb40698",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
