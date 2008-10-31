@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS ŪKIO MINISTRO IR LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2008 M. SPALIO 22 D. ĮSAKYMAS Nr. 4-499/D1-556 \"DĖL LIETUVOS RESPUBLIKOS ŪKIO MINISTRO IR LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2004 M. BALANDŽIO 19 D. ĮSAKYMO NR. 4-117/D3-196 „DĖL BATERIJŲ IR AKUMULIATORIŲ, KURIUOSE YRA PAVOJINGŲ CHEMINIŲ MEDŽIAGŲ, TIEKIMO Į RINKĄ REIKALAVIMŲ PATVIRTINIMO“ PAKEITIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "125",
+  "official_journal_page": null,
+  "official_journal_date": "2008-10-30",
+  "entry_into_force": "2008-10-31",
+  "notification_date": "2008-11-05",
+  "commission_reference": "MNE(2008)55924",
+  "nim_celex": "72006L0066LTU_158912",
+  "nim_id": "158912",
+  "transposes_celex": [
+    "32006L0066"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/860d6c25-db4c-4881-96a1-10014428ae43",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
