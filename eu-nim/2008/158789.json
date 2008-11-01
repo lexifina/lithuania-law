@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo 5, 9 straipsnių pakeitimo ir papildymo įstatymas Nr. X-1749",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "121",
+  "official_journal_page": null,
+  "official_journal_date": "2008-10-21",
+  "entry_into_force": "2008-11-01",
+  "notification_date": "2008-10-31",
+  "commission_reference": "MNE(2008)55816",
+  "nim_celex": "71994L0019LTU_158789",
+  "nim_id": "158789",
+  "transposes_celex": [
+    "31994L0019",
+    "32009L0014"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f5b00bad-a95f-4855-b762-f7e80517655e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
