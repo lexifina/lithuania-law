@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos darbo rinkos mokymo tarnybos prie Socialinės apsaugos ir darbo ministerijos direktoriaus 2008 m. spalio 24 d. įsakymas Nr. V(12)-245 \"Dėl socialinio darbuotojo profesinės kvalifikacijos pripažinimo norint dirbti pagal socialinio darbuotojo profesiją ar laikinai arba vienkartinai teikti socialinio darbuotojo paslaugas Lietuvos Respublikoje tvarkos aprašo patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "126",
+  "official_journal_page": null,
+  "official_journal_date": "2008-11-04",
+  "entry_into_force": "2008-11-05",
+  "notification_date": "2008-11-05",
+  "commission_reference": "MNE(2008)55925",
+  "nim_celex": "72005L0036LTU_158913",
+  "nim_id": "158913",
+  "transposes_celex": [
+    "32005L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/74fbcb59-8560-4f41-91d3-24952e07f19c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
