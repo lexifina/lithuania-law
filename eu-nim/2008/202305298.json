@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2008 m. spalio 24 d. įsakymas Nr. 3-406 „Dėl Privalomosios transporto priemonių techninės apžiūros atlikimo tvarkos aprašo patvirtinimo“ (suvestinė redakcija nuo 2023-08-12 iki 2023-10-31)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "126-4826",
+  "official_journal_page": null,
+  "official_journal_date": "2008-11-04",
+  "entry_into_force": "2008-11-05",
+  "notification_date": "2023-11-16",
+  "commission_reference": "MNE(2023)05298",
+  "nim_celex": "72021L1717LTU_202305298",
+  "nim_id": "202305298",
+  "transposes_celex": [
+    "32021L1717"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/838f1373-90a3-44c2-9fe3-304c724004f9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
