@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos valstybinės maisto ir veterinarijos tarnybos direktoriaus 2008 m. spalio 23 d. įsakymas Nr. B1-540 \"Dėl Valstybinės maisto ir veterinarijos tarnybos direktoriaus 2005 m. spalio 29 d. įsakymo Nr. B1-594 \"Dėl veterinarinių vaistų gamybos, registravimo ir tiekimo Lietuvos Respublikos rinkai reikalavimų patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "128",
+  "official_journal_page": null,
+  "official_journal_date": "2008-11-08",
+  "entry_into_force": "2008-11-09",
+  "notification_date": "2008-12-15",
+  "commission_reference": "MNE(2008)56639",
+  "nim_celex": "72001L0082LTU_159631",
+  "nim_id": "159631",
+  "transposes_celex": [
+    "32001L0082"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/76c5e941-3ea4-4319-9166-4ec70329cd14",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
