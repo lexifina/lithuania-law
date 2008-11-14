@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės atominės energetikos saugos inspekcijos viršininko 2008 m. spalio 24 d. įsakymas Nr. 22.3-107 „Dėl Avarinės parengties reikalavimų branduolinės energetikos objektą eksploatuojančiai organizacijai patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "130",
+  "official_journal_page": null,
+  "official_journal_date": "2008-11-13",
+  "entry_into_force": "2008-11-14",
+  "notification_date": "2017-08-29",
+  "commission_reference": "MNE(2017)54731",
+  "nim_celex": "72014L0087LTU_250341",
+  "nim_id": "250341",
+  "transposes_celex": [
+    "32014L0087"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/53cf27a8-4bf8-455c-9592-4794e06b8623",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
