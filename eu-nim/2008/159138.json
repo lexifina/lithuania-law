@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Civilinės aviacijos administracijos direktoriaus 2008 m. spalio 31 d. įsakymas Nr.4R-215 „Dėl sveikatos pažymėjimų išdavimo tvarkos“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "130",
+  "official_journal_page": null,
+  "official_journal_date": "2008-11-13",
+  "entry_into_force": "2008-11-14",
+  "notification_date": "2008-11-14",
+  "commission_reference": "MNE(2008)56148",
+  "nim_celex": "72006L0023LTU_159138",
+  "nim_id": "159138",
+  "transposes_celex": [
+    "32006L0023"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fea6d32a-8e3a-4426-a8bf-d396faa42ad7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
