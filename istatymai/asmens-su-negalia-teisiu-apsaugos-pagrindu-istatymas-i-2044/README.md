@@ -19,3 +19,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2005-07-01 | 2005-10-26 | Įstatymas Nr. IX-2228 / Įstatymas Nr. X-208 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22ksmvRgmAFA%22) |
 | 2005-10-27 | 2005-12-31 | Įstatymas Nr. X-373 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22ENmTMUhNjA%22) |
 | 2006-01-01 | 2008-11-14 | Įstatymas Nr. X-373 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22lumCcFMqFo%22) |
+| 2008-11-15 | 2010-05-24 | Įstatymas Nr. X-1778 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22FfbeVvaOcV%22) |
