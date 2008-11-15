@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2008-08-18 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/33b642305b7a31ac747bbe08950e637baa20495c/istatymai/TAR.789C6EE505FD.md) |
+| 2008-11-15 | 2013-12-31 | Įstatymas Nr. X-1777 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/b5aa1b0e66ba59bb090f23073d5e9c144285c3a1/istatymai/TAR.789C6EE505FD.md) |
