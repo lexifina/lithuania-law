@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro ir Lietuvos Respublikos ūkio ministro 2008 m. lapkričio 7 d. įsakymas Nr. D1-592/4-531 \"Dėl Apyvartinių taršos leidimų rezervo naujiems įrenginiams paskirstymo 2008–2012 m. ir apyvartinių taršos leidimų iš nutraukiančių veiklą įrenginių perdavimo į apyvartinių taršos leidimų rezervą naujiems įrenginiams taisyklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "133",
+  "official_journal_page": null,
+  "official_journal_date": "2008-11-20",
+  "entry_into_force": "2008-11-21",
+  "notification_date": "2009-02-12",
+  "commission_reference": "MNE(2008)56809",
+  "nim_celex": "72003L0087LTU_159805",
+  "nim_id": "159805",
+  "transposes_celex": [
+    "32003L0087"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c0208540-adf2-4a63-97fc-63b50e670b32",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
