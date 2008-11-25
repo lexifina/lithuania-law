@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 51(4), 51(12), 67, 84(1), 88, 176, 224, 233, 241(1), 241(4), 242, 259(1), 288, 320 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI KODEKSO PAPILDYMO 51(24), 87(8), 87(9) STRAIPSNIAIS ĮSTATYMAS NR. X-1766",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "135",
+  "official_journal_page": null,
+  "official_journal_date": "2008-11-25",
+  "entry_into_force": "2008-11-25",
+  "notification_date": "2008-11-25",
+  "commission_reference": "MNE(2008)56351",
+  "nim_celex": "71994L0062LTU_159341",
+  "nim_id": "159341",
+  "transposes_celex": [
+    "31994L0062",
+    "32006L0066"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/14a72949-28ea-4a0e-b54a-07bddb2f8148",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
