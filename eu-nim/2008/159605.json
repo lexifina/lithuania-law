@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos valstybinės maisto ir veterinarijos tarnybos direktoriaus 2008 m. lakpričio 13 d. įsakymas Nr. B1-563 \"Dėl kai kurių įsakymų pripažinimo netekusiais galios\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "135",
+  "official_journal_page": null,
+  "official_journal_date": "2008-11-25",
+  "entry_into_force": "2008-11-26",
+  "notification_date": "2008-12-15",
+  "commission_reference": "MNE(2008)56613",
+  "nim_celex": "72004L0041LTU_159605",
+  "nim_id": "159605",
+  "transposes_celex": [
+    "32004L0041"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/762de6ec-dfa7-4ddd-9c44-cb942a57d558",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
