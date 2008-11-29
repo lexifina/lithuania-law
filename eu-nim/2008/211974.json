@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos buhalterinės apskaitos įstatymo 1, 2, 3, 6, 7, 9, 10, 11, 14, 17, 19, 22 straipsnių pakeitimo ir papildymo įstatymo 3 ir 13 straipsnių pakeitimo įstatymas Nr. X-1823",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "137",
+  "official_journal_page": null,
+  "official_journal_date": "2008-11-29",
+  "entry_into_force": "2008-11-29",
+  "notification_date": null,
+  "commission_reference": "MNE(2013)60105",
+  "nim_celex": "72011L0085LTU_211974",
+  "nim_id": "211974",
+  "transposes_celex": [
+    "32011L0085"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e6374789-f511-49f8-ab5f-9f6983bc184e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
