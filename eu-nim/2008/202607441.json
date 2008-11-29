@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos civilinį procesą reglamentuojančių Europos Sąjungos ir tarptautinės teisės aktų įgyvendinimo įstatymas Nr. X-1809 (suvestinė redakcija nuo 2024-01-01 iki 2025-06-30)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "137-5366",
+  "official_journal_page": null,
+  "official_journal_date": "2008-11-29",
+  "entry_into_force": "2008-11-29",
+  "notification_date": "2026-10-23",
+  "commission_reference": "MNE(2026)07441",
+  "nim_celex": "72024L2853LTU_202607441",
+  "nim_id": "202607441",
+  "transposes_celex": [
+    "32024L2853"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8dac7c59-0856-4d6e-817d-adb0f3851701",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
