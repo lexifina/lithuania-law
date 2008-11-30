@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės akreditavimo sveikatos priežiūros veiklai tarnybos prie Sveikatos apsaugos ministerijos direktoriaus 2008 m. lapkričio 5 d. įsakymas Nr. T1-730 \"Dėl Valstybinės akreditavimo sveikatos priežiūros veiklai tarnybos prie Sveikatos apsaugos ministerijos generalinio direktoriaus 2004 m. rugpjūčio 5 d. įsakymo Nr. T1-136 ,,Dėl pranešimų apie nesaugius ir neatitinkančius reikalavimų medicinos prietaisus pateikimo tvarkos patvirtinimo\"pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "137",
+  "official_journal_page": null,
+  "official_journal_date": "2008-11-29",
+  "entry_into_force": "2008-11-30",
+  "notification_date": "2009-02-20",
+  "commission_reference": "MNE(2009)50833",
+  "nim_celex": "72007L0047LTU_160682",
+  "nim_id": "160682",
+  "transposes_celex": [
+    "32007L0047"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/94747821-42d8-4e96-b371-9a3f12740f82",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
