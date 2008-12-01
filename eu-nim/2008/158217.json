@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2008 m. liepos 16 d. nutarimas Nr. 729 „Dėl Lietuvos Respublikos Vyriausybės 2004 m. balandžio 16 d. nutarimas Nr. 439 „Dėl keleivių įvežamų prekių neapmokestinimo importo pridėtinės vertės mokesčiu ir akcizais taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "85",
+  "official_journal_page": null,
+  "official_journal_date": "2008-07-26",
+  "entry_into_force": "2008-12-01",
+  "notification_date": "2008-09-26",
+  "commission_reference": "MNE(2008)55264",
+  "nim_celex": "72007L0074LTU_158217",
+  "nim_id": "158217",
+  "transposes_celex": [
+    "32007L0074"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/00842f85-5571-4288-934a-270286e790d7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
