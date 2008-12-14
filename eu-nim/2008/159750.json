@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro 2008 m. gruodžio 2 d. įsakymas Nr. 4-604 \"Dėl Lietuvos Respublikos ūkio ministro 2004 m. kovo 31 d. įsakymo Nr. 4-97 \"Dėl automobilių remonto paslaugų teikimo tvarkos ir naudotų automobilių sudėtinių dalių tinkamumo toliau vartoti ir realizavimo tvarkos patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "143",
+  "official_journal_page": null,
+  "official_journal_date": "2008-12-13",
+  "entry_into_force": "2008-12-14",
+  "notification_date": "2008-12-23",
+  "commission_reference": "MNE(2008)56755",
+  "nim_celex": "72000L0053LTU_159750",
+  "nim_id": "159750",
+  "transposes_celex": [
+    "32000L0053"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ab512fe4-1666-4be5-8c89-cb15506ac50c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
