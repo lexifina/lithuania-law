@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Viešosios įstaigos audito ir apskaitos tarnybos direktoriaus 2008 m. gruodžio 22 d. įsakymas Nr. VAS-18 \"Dėl 31-ojo verslo apskaitos standarto \"Atlygis darbuotojui\" tvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "148",
+  "official_journal_page": null,
+  "official_journal_date": "2008-12-27",
+  "entry_into_force": "2008-12-28",
+  "notification_date": "2015-08-05",
+  "commission_reference": "MNE(2015)55782",
+  "nim_celex": "72013L0034LTU_228963",
+  "nim_id": "228963",
+  "transposes_celex": [
+    "32013L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b79133ea-2fda-4aeb-8b4e-4d402b0cd5f2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
