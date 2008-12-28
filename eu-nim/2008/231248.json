@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Audito ir apskaitos tarnybos direktoriaus 2008 m. gruodžio 17 d. įsakymas Nr. VAS-15 „Dėl 15-ojo verslo apskaitos standarto „Investicijos į asocijuotąsias įmones\" tvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "148",
+  "official_journal_page": null,
+  "official_journal_date": "2008-12-27",
+  "entry_into_force": "2008-12-28",
+  "notification_date": "2015-11-02",
+  "commission_reference": "MNE(2015)57869",
+  "nim_celex": "72013L0034LTU_231248",
+  "nim_id": "231248",
+  "transposes_celex": [
+    "32013L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9d98544a-2fdc-4d6d-a78f-16cdf4342e8e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
