@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS CIVILINIO KODEKSO 6.188 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "149",
+  "official_journal_page": null,
+  "official_journal_date": "2008-12-30",
+  "entry_into_force": "2008-12-30",
+  "notification_date": "2009-01-09",
+  "commission_reference": "MNE(2009)50084",
+  "nim_celex": "71993L0013LTU_159909",
+  "nim_id": "159909",
+  "transposes_celex": [
+    "31993L0013"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1342142a-a41c-4f2a-b50e-a998f2cdb868",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
