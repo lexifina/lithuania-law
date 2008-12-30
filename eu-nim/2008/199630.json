@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus vandenų transporto kodekso 2, 3, 4, 6, 13, 15, 16, 18, 19, 20, 25, 26, 27, 28, 51, 70 straipsnių ir Kodekso priedo pakeitimo bei papildymo įstatymas Nr. X-1790",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "134",
+  "official_journal_page": null,
+  "official_journal_date": "2008-11-22",
+  "entry_into_force": "2008-12-30",
+  "notification_date": "2013-03-19",
+  "commission_reference": "MNE(2012)57916",
+  "nim_celex": "72009L0100LTU_199630",
+  "nim_id": "199630",
+  "transposes_celex": [
+    "32009L0100"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b0ac716e-6f37-4d09-a88b-e9f335f6022d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
