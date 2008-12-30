@@ -1,0 +1,10 @@
+Įstatymas
+sklebtas: Žin., 2008, Nr. 149-6020
+Neoficialus
+įstatymo tekstas
+LIETUVOS RESPUBLIKOS
+2009 METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ RODIKLIŲ
+PATVIRTINIMO
+ĮSTATYMAS
+2008 m. gruodžio 22 d. Nr. XI-96
+Vilnius
