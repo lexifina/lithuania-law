@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 2, 3, 5, 6, 7, 8, 9, 10, 12, 13(1), 16, 17, 18, 19, 20, 21, 22, 23, 27, 29, 30 straipsnių pakeitimo ir papildymo ir Įstatymo papildymo 18(1) straipsniu įstatymas Nr. XI-111",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "149",
+  "official_journal_page": null,
+  "official_journal_date": "2008-12-30",
+  "entry_into_force": "2008-12-30",
+  "notification_date": "2015-01-20",
+  "commission_reference": "MNE(2014)56425",
+  "nim_celex": "72011L0098LTU_221208",
+  "nim_id": "221208",
+  "transposes_celex": [
+    "32011L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4b70a1e2-56e7-4884-8f08-ecad95377bd4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
