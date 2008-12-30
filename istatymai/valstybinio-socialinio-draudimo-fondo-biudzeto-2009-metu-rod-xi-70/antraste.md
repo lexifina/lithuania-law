@@ -1,0 +1,7 @@
+Neoficialus įstatymo tekstas
+Įstatymas skelbtas: Žin., 2008, Nr. 149-5998
+LIETUVOS RESPUBLIKOS
+VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO 2009 METŲ RODIKLIŲ PATVIRTINIMO
+ĮSTATYMAS
+2008 m. gruodžio 18 d. Nr. XI-70
+Vilnius
