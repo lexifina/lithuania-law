@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 3, 4, 5, 6, 8, 9, 16, 18(1), 19 straipsnių pakeitimo ir papildymo įstatymas Nr. XI-71",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "149",
+  "official_journal_page": null,
+  "official_journal_date": "2008-12-30",
+  "entry_into_force": "2009-01-01",
+  "notification_date": "2014-04-25",
+  "commission_reference": "MNE(2014)52596",
+  "nim_celex": "72011L0098LTU_215480",
+  "nim_id": "215480",
+  "transposes_celex": [
+    "32011L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/56340357-18e9-4b44-8ae3-6232665d2223",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
