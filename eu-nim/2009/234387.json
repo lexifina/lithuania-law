@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2008 m. spalio 10 d. įsakymas Nr. V-973 „Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2000 m. gegužės 31 d. įsakymo Nr. 301 „Dėl profilaktinių sveikatos tikrinimų sveikatos priežiūros įstaigose“ 7 priedo „Vairuotojų sveikatos tikrinimo tvarka“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "121",
+  "official_journal_page": null,
+  "official_journal_date": "2008-10-21",
+  "entry_into_force": "2009-01-01",
+  "notification_date": "2016-02-05",
+  "commission_reference": "MNE(2016)51021",
+  "nim_celex": "72014L0085LTU_234387",
+  "nim_id": "234387",
+  "transposes_celex": [
+    "32014L0085"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/787186f4-c303-407c-93ca-07d15b8846f0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
