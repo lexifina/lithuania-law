@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo pakeitimo įstatymas Nr. X-1444",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "22",
+  "official_journal_page": null,
+  "official_journal_date": "2008-02-23",
+  "entry_into_force": "2009-01-01",
+  "notification_date": "2015-05-08",
+  "commission_reference": "MNE(2015)53161",
+  "nim_celex": "72015L0413LTU_226160",
+  "nim_id": "226160",
+  "transposes_celex": [
+    "32015L0413"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ea4acd7e-7c03-4c11-a93d-d2dee53f04a0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
