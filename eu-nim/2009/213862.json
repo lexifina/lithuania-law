@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2007 m. gruodžio 5 d. įsakymas Nr. V-998 „Dėl asmens sveikatos priežiūros įstaigų laboratorijų veiklos vertinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "131",
+  "official_journal_page": null,
+  "official_journal_date": "2007-12-13",
+  "entry_into_force": "2009-01-01",
+  "notification_date": "2014-02-27",
+  "commission_reference": "MNE(2014)51388",
+  "nim_celex": "72010L0053LTU_213862",
+  "nim_id": "213862",
+  "transposes_celex": [
+    "32010L0053"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e0eb2f2b-1580-4409-91ec-5bdbbceb4a46",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
