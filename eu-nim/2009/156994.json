@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 3 straipsnio, 3, 4 ir 6 priedėlių pakeitimo įstatymas Nr. X-1604",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "75",
+  "official_journal_page": null,
+  "official_journal_date": "2008-07-03",
+  "entry_into_force": "2009-01-01",
+  "notification_date": "2008-07-14",
+  "commission_reference": "MNE(2008)54067",
+  "nim_celex": "72006L0038LTU_156994",
+  "nim_id": "156994",
+  "transposes_celex": [
+    "32006L0038",
+    "32011L0076"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2a87c33a-409e-4f96-a2fd-de2f6997014b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
