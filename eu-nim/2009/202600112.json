@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos transporto saugos administracijos direktoriaus 2008 m. gruodžio 2 d. įsakymas Nr. 2B-479 „Dėl motorinių transporto priemonių ir jų priekabų kategorijų ir klasių pagal konstrukciją reikalavimų patvirtinimo“ (Suvestinė redakcija nuo 2020-09-01)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "141-5606",
+  "official_journal_page": null,
+  "official_journal_date": "2008-12-09",
+  "entry_into_force": "2009-01-01",
+  "notification_date": "2026-01-08",
+  "commission_reference": "MNE(2026)00112",
+  "nim_celex": "72022L0362LTU_202600112",
+  "nim_id": "202600112",
+  "transposes_celex": [
+    "32022L0362"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/645ee430-3393-484d-a622-a6fb5475e07a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
