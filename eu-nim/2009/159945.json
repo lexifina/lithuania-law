@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Viešųjų pirkimų tarnybos prie Lietuvos Respublikos Vyriausybės direktoriaus 2008 m. gruodžio 24 d. įsakymas Nr. 1S-133 \"Dėl Viešųjų pirkimų tarnybos prie Lietuvos Respublikos Vyriausybės direktoriaus 2006 m. spalio 12 d. įsakymo Nr. 1S-53 \"Dėl Viešųjų pirkimų pasiūlymų vertinimo rekomendacijų patvirtinimo\" pakeitimo ir papildymo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "150",
+  "official_journal_page": null,
+  "official_journal_date": "2008-12-31",
+  "entry_into_force": "2009-01-01",
+  "notification_date": "2009-01-27",
+  "commission_reference": "MNE(2009)50120",
+  "nim_celex": "72006L0032LTU_159945",
+  "nim_id": "159945",
+  "transposes_celex": [
+    "32006L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2c257f7c-5252-438e-9c03-90ae51ca48ac",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
