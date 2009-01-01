@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRO 2008 m. SPALIO 10 d. ĮSAKYMAS NR. V-973 \"DĖL LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRO 2000 M. GEGUŽĖS 31 D. ĮSAKYMO NR. 301 „DĖL PROFILAKTINIŲ SVEIKATOS TIKRINIMŲ \nSVEIKATOS PRIEŽIŪROS ĮSTAIGOSE“ PAKEITIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "121",
+  "official_journal_page": null,
+  "official_journal_date": "2008-10-21",
+  "entry_into_force": "2009-01-01",
+  "notification_date": "2008-10-27",
+  "commission_reference": "MNE(2008)55685",
+  "nim_celex": "72006L0126LTU_158654",
+  "nim_id": "158654",
+  "transposes_celex": [
+    "32006L0126"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d76a4cb1-c70e-468a-9e8b-6d46712e88e6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
