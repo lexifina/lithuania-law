@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikois energetikos įstatymo 2, 4, 6, 16, 17, 21, 27, 28 straipsnių ir priedo pakeitimo ir papildymo bei įstatymo papildymo 7(1) straipsniu įstatymas Nr. X-1767",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "135",
+  "official_journal_page": null,
+  "official_journal_date": "2008-11-25",
+  "entry_into_force": "2009-01-01",
+  "notification_date": "2008-11-27",
+  "commission_reference": "MNE(2008)56366",
+  "nim_celex": "72005L0089LTU_159356",
+  "nim_id": "159356",
+  "transposes_celex": [
+    "32005L0089",
+    "32006L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7105413d-be1b-4524-92d4-5ce5785ac9d8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
