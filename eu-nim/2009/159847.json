@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos akcizų įstatymo 21, 22, 23, 24, 28, 33, 34, 35 ir 37 straipsnių pakeitimo įstatymas Nr. XI-79",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "149",
+  "official_journal_page": null,
+  "official_journal_date": "2008-12-30",
+  "entry_into_force": "2009-01-01",
+  "notification_date": "2009-01-21",
+  "commission_reference": "MNE(2009)50022",
+  "nim_celex": "72003L0096LTU_159847",
+  "nim_id": "159847",
+  "transposes_celex": [
+    "32003L0096"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ccf0f257-974d-4b2c-a80b-5d9925a25f93",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
