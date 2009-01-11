@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2008 m. gruodžio 24 d. įsakymas Nr. V-1272 “Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2004 m. lapkričio 26 d. įsakymo Nr. V-834 „Dėl radioaktyviųjų medžiagų ir radioaktyviųjų atliekų įvežimo, išvežimo, vežimo tranzitu ir vežimo šalies viduje taisyklių patvirtinimo“ pripažinimo netekusiu galios“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "3",
+  "official_journal_page": null,
+  "official_journal_date": "2009-01-10",
+  "entry_into_force": "2009-01-11",
+  "notification_date": "2009-01-23",
+  "commission_reference": "MNE(2009)50344",
+  "nim_celex": "72006L0117LTU_160174",
+  "nim_id": "160174",
+  "transposes_celex": [
+    "32006L0117"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/776dd045-8299-447f-acfb-cf731277e5c7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
