@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro ir Valstybinės atominės energetikos saugos inspekcijos viršininko 2008 m. gruodžio 24 d. įsakymas Nr. V-1271/22.3-139 „Dėl Radioaktyviųjų medžiagų, radioaktyviųjų atliekų ir panaudoto branduolinio kuro įvežimo, išvežimo, vežimo tranzitu ir vežimo Lietuvos Respublikoje taisyklių patvirtinimo“ (Suvestinė redakcija nuo 2016-08-01)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "3-64",
+  "official_journal_page": null,
+  "official_journal_date": "2009-01-10",
+  "entry_into_force": "2009-01-11",
+  "notification_date": "2019-06-17",
+  "commission_reference": "MNE(2019)53774",
+  "nim_celex": "72013L0059LTU_274179",
+  "nim_id": "274179",
+  "transposes_celex": [
+    "32013L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/96af5cbe-93fb-11e9-9369-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
