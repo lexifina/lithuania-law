@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2008 m. gruodžio 31 d. įsakymas Nr. 3-527 'Dėl Tarnybos Lietuvos Respublikos jūrų laivuose statuto patvirtinimo'",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "4",
+  "official_journal_page": null,
+  "official_journal_date": "2009-01-13",
+  "entry_into_force": "2009-01-14",
+  "notification_date": "2014-10-28",
+  "commission_reference": "MNE(2014)56034",
+  "nim_celex": "72009L0013LTU_220702",
+  "nim_id": "220702",
+  "transposes_celex": [
+    "32009L0013",
+    "32012L0035"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5a47a05f-eea9-455a-bbab-d7fb1c44e3af",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
