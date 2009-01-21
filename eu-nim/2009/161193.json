@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2008 m. gruodžio 30 d. įsakymas Nr. 1V-1172 \"Dėl Ryšių reguliavimo tarnybos prie Lietuvos Respublikos Vyriausybės direktoriaus 2002 m. spalio 14 d. įsakymo Nr. 138 \"Dėl Radijo ryšio įrenginių ir telekomunikacijų galinių įrenginių techninio reglamento patvirtinimo\" pakeitimo ir papildymo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "7",
+  "official_journal_page": null,
+  "official_journal_date": "2009-01-20",
+  "entry_into_force": "2009-01-21",
+  "notification_date": "2009-04-08",
+  "commission_reference": "MNE(2009)51329",
+  "nim_celex": "72008L0063LTU_161193",
+  "nim_id": "161193",
+  "transposes_celex": [
+    "32008L0063"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/aed2c399-f08e-43a7-9049-9aad69e78f7f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
