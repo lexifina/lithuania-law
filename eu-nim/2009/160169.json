@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS VALSTYBINĖS MAISTO IR VETERINARIJOS TARNYBOS DIREKTORIAUS 2008 m. GRUODŽIO 30 d. ĮSAKYMAS NR. B1-665 \"DĖL KAI KURIŲ MEDŽIAGŲ, TURINČIŲ HORMONINĮ AR TIROSTATINĮ POVEIKĮ, IR BETA  AGONISTŲ DRAUDIMO NAUDOTI GYVULININKYSTĖJE REIKALAVIMŲ PATVIRTINIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "8",
+  "official_journal_page": null,
+  "official_journal_date": "2009-01-22",
+  "entry_into_force": "2009-01-23",
+  "notification_date": "2009-01-23",
+  "commission_reference": "MNE(2009)50339",
+  "nim_celex": "71996L0022LTU_160169",
+  "nim_id": "160169",
+  "transposes_celex": [
+    "31996L0022"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/49b31f89-0f0d-4d89-90f8-34c53158f385",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
