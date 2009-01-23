@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos valstybinės maisto ir veterinarijos tarnybos direktoriaus 2008 m. gruodžio 30 d. įsakymas Nr. B1-665 \"Dėl Kai kurių medžiagų, turinčių hormoninį ar tirostatinį poveikį, ir beta agonistų draudimo naudoti gyvulininkystėje reikalavimų patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "8",
+  "official_journal_page": null,
+  "official_journal_date": "2009-01-22",
+  "entry_into_force": "2009-01-23",
+  "notification_date": "2009-02-03",
+  "commission_reference": "MNE(2009)50341",
+  "nim_celex": "72008L0097LTU_160171",
+  "nim_id": "160171",
+  "transposes_celex": [
+    "32008L0097"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1bfc5f27-33ad-4b7c-bc01-f283992cba1e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
