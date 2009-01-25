@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybės sienos apsaugos tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos vado 2009 m. sausio 6 d. įsakymas Nr. 4-1 „Dėl Pasienio kontrolės punktų statinio paskirties bendrųjų reikalavimų taisyklių patvirtinimo“ (Suvestinė redakcija nuo 2017-01-17)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "9-347",
+  "official_journal_page": null,
+  "official_journal_date": "2009-01-24",
+  "entry_into_force": "2009-01-25",
+  "notification_date": "2026-09-02",
+  "commission_reference": "MNE(2026)06902",
+  "nim_celex": "72024L1346LTU_202606902",
+  "nim_id": "202606902",
+  "transposes_celex": [
+    "32024L1346"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2e9aa92a-dbe5-4fa2-9b8f-cc3eedbff4c5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
