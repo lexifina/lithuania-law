@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2008 m. gruodžio 29 d. įsakymas Nr. 3-512 „Dėl Minimalių techninių reikalavimų vidaus vandenų transporto priemonėms, plaukiojančioms Lietuvos Respublikos vidaus vandenimis, ir Europos Bendrijos vidaus vandenų laivybos sertifikatų išdavimo tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "11",
+  "official_journal_page": null,
+  "official_journal_date": "2009-01-29",
+  "entry_into_force": "2009-01-30",
+  "notification_date": "2009-02-17",
+  "commission_reference": "MNE(2009)50481",
+  "nim_celex": "72006L0137LTU_160315",
+  "nim_id": "160315",
+  "transposes_celex": [
+    "32006L0137"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a5f17c84-55d8-4eca-bf93-f4931cec9749",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
