@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2008 m. gruodžio 30 d. įsakymas Nr. 3-523 „Dėl Lietuvos Respublikos susisiekimo ministro 2007 m. liepos 9 d. įsakymo Nr. 3-245 \"Dėl Lietuvos Respublikos vidaus vandenų laivų registre įregistruotų vidaus vandenų transporto priemonių techninės priežiūros atlikimo taisyklių patvirtinimo\" pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "11",
+  "official_journal_page": null,
+  "official_journal_date": "2009-01-29",
+  "entry_into_force": "2009-01-30",
+  "notification_date": "2009-04-01",
+  "commission_reference": "MNE(2009)50484",
+  "nim_celex": "72006L0087LTU_160318",
+  "nim_id": "160318",
+  "transposes_celex": [
+    "32006L0087"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5e1fbf28-c52a-4b54-a45c-ef607628ab63",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
