@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2009 m. sausio 21 d. nutarimas Nr. 44 „Dėl Lietuvos Respublikos Vyriausybės 2002 m. birželio 13 d. nutarimo Nr. 902 „Dėl denatūruoto etilo alkoholio, kuriam netaikomi akcizai“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "12",
+  "official_journal_page": null,
+  "official_journal_date": "2009-01-31",
+  "entry_into_force": "2009-02-01",
+  "notification_date": null,
+  "commission_reference": "MNE(2009)50526",
+  "nim_celex": "71992L0083LTU_160361",
+  "nim_id": "160361",
+  "transposes_celex": [
+    "31992L0083"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9837fe67-455b-444f-9b67-f19b9212ff8c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
