@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2005-07-14 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/85c3837295eb74ec6bbc6a0a7494f28fda1df163/istatymai/TAR.0258F89BCE57.md) |
+| 2009-03-01 | 2014-12-22 | Įstatymas Nr. X-1843 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/64723901906f69978d6b33684340c3c4e36e7282/istatymai/TAR.0258F89BCE57.md) |
