@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2009 M. VASARIO 26 D. ĮSAKYMAS NR. D1-71 \"DĖL LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2001 M. RUGSĖJO 21 D. ĮSAKYMO NR. 472 „DĖL POŽEMINIO VANDENS APSAUGOS NUO TARŠOS PAVOJINGOMIS MEDŽIAGOMIS TAISYKLIŲ PATVIRTINIMO“ PAKEITIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "24",
+  "official_journal_page": null,
+  "official_journal_date": "2009-03-03",
+  "entry_into_force": "2009-03-04",
+  "notification_date": "2009-03-12",
+  "commission_reference": "MNE(2009)50991",
+  "nim_celex": "72006L0118LTU_160851",
+  "nim_id": "160851",
+  "transposes_celex": [
+    "32006L0118"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/86145af4-7be1-4b22-9810-3ee1d50b501b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
