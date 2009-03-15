@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos elektroninių ryšių įstatymo 1, 3, 7, 12, 34, 77 straipsnių, devintojo skirsnio ir priedo pakeitimo ir papildymo bei Įstatymo papildymo nauju priedu įstatymas Nr. X-1835",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "137",
+  "official_journal_page": null,
+  "official_journal_date": "2008-11-29",
+  "entry_into_force": "2009-03-15",
+  "notification_date": "2009-04-08",
+  "commission_reference": "MNE(2009)51330",
+  "nim_celex": "72008L0063LTU_161194",
+  "nim_id": "161194",
+  "transposes_celex": [
+    "32008L0063",
+    "32009L0136",
+    "32010L0040"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1f9f9e0b-d97f-414a-b881-94f2dc7b39bc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
