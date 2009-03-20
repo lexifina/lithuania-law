@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2009 m. kovo 4 d.  nutarimas Nr. 178 „Dėl 2007 m. gruodžio 6 d. Tarybos sprendimo 2007/845/TVR dėl valstybių narių turto susigrąžinimo tarnybų bendradarbiavimo nusikalstamu būdu įgytų pajamų bei kito susijusio turto paieškos ir nustatymo srityje įgyvendinimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "30-1191",
+  "official_journal_page": null,
+  "official_journal_date": "2009-03-19",
+  "entry_into_force": "2009-03-20",
+  "notification_date": "2021-07-28",
+  "commission_reference": "MNE(2021)05412",
+  "nim_celex": "72019L1153LTU_202105412",
+  "nim_id": "202105412",
+  "transposes_celex": [
+    "32019L1153"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/230e1225-d8fd-46bc-8d43-88d265ffccaa",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
