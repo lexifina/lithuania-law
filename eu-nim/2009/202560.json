@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos teisingumo ministro 2009 m. kovo 20 d. įsakymas Nr. 1R-88 „Dėl smurtinių nusikaltimų, dėl kurių padaryta žala kompensuojama, sąrašo patvirtinimo",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "34",
+  "official_journal_page": null,
+  "official_journal_date": "2009-03-28",
+  "entry_into_force": "2009-03-29",
+  "notification_date": "2013-04-02",
+  "commission_reference": "MNE(2013)52268",
+  "nim_celex": "72002F0475LTU_202560",
+  "nim_id": "202560",
+  "transposes_celex": [
+    "32002F0475",
+    "32011L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e0476929-c839-4365-9dc9-1e9bec51a610",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
