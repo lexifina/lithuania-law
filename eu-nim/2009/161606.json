@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2009 M. KOVO 17 D. ĮSAKYMAS NR. D1-105 \"DĖL LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2002 M. LAPKRIČIO 11 D. ĮSAKYMO Nr. 586 „DĖL LAUKINIŲ GYVŪNŲ NAUDOJIMO MOKSLO, KULTŪROS, ŠVIETIMO, AUKLĖJIMO IR ESTETIKOS TIKSLAMS TAISYKLIŲ PATVIRTINIMO“ PAKEITIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "34",
+  "official_journal_page": null,
+  "official_journal_date": "2009-03-28",
+  "entry_into_force": "2009-03-29",
+  "notification_date": "2009-04-23",
+  "commission_reference": "MNE(2009)51741",
+  "nim_celex": "71979L0409LTU_161606",
+  "nim_id": "161606",
+  "transposes_celex": [
+    "31979L0409"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/10908e13-3f1f-46c5-ae83-e4e80498d382",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
