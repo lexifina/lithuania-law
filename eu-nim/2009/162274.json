@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 2009 M. KOVO 4 D. NUTARIMAS NR. 192 \"DĖL LIETUVOS RESPUBLIKOS SAUGOMŲ TERITORIJŲ ARBA JŲ DALIŲ, KURIOSE YRA BUVEINIŲ APSAUGAI SVARBIŲ TERITORIJŲ, SĄRAŠO PATVIRTINIMO IR JŲ RIBŲ NUSTATYMO\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "34",
+  "official_journal_page": null,
+  "official_journal_date": "2009-03-28",
+  "entry_into_force": "2009-03-29",
+  "notification_date": "2009-06-09",
+  "commission_reference": "MNE(2009)52391",
+  "nim_celex": "71992L0043LTU_162274",
+  "nim_id": "162274",
+  "transposes_celex": [
+    "31992L0043"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/77d69451-86d2-409c-b21d-bc16ae5f676f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
