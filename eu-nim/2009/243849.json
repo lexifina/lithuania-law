@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "2008 m. liepos 1 d. Lietuvos Respublikos kardomojo kalinimo įstatymo pakeitimo įstatymas  Nr. X-1660",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "81",
+  "official_journal_page": null,
+  "official_journal_date": "2008-07-17",
+  "entry_into_force": "2009-04-01",
+  "notification_date": "2016-12-30",
+  "commission_reference": "MNE(2016)57955",
+  "nim_celex": "72013L0048LTU_243849",
+  "nim_id": "243849",
+  "transposes_celex": [
+    "32013L0048"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/898d7508-d42b-11e6-ad7c-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
