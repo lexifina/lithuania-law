@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2008 m. rugsėjo 25 d. nutarimas Nr. 149 „Dėl Vidaus kontrolės ir rizikos vertinimo (valdymo) organizavimo nuostatų“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "127",
+  "official_journal_page": null,
+  "official_journal_date": "2008-11-06",
+  "entry_into_force": "2009-04-01",
+  "notification_date": "2008-11-11",
+  "commission_reference": "MNE(2008)56057",
+  "nim_celex": "71995L0026LTU_159047",
+  "nim_id": "159047",
+  "transposes_celex": [
+    "31995L0026",
+    "32000L0012"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4d48ab3c-c5f7-46e9-9e7b-3a0eb5afffe0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
