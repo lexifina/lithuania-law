@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo 2, 5, 10, 22, 41, 57, 58, 73, 90, 105 straipsnių bei priedo pakeitimo ir papildymo įstatymas Nr. XI-204",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "38",
+  "official_journal_page": null,
+  "official_journal_date": "2009-04-04",
+  "entry_into_force": "2009-04-04",
+  "notification_date": "2009-04-08",
+  "commission_reference": "MNE(2009)51575",
+  "nim_celex": "72007L0044LTU_161440",
+  "nim_id": "161440",
+  "transposes_celex": [
+    "32007L0044"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7126e21c-569c-45b5-9762-8d0a4d8d826e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
