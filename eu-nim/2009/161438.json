@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos draudimo įstatymo 2, 16, 20, 22, 55(2) straipsnių bei priedo pakeitimo ir papildymo įstatymas Nr. XI-200",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "38",
+  "official_journal_page": null,
+  "official_journal_date": "2009-04-04",
+  "entry_into_force": "2009-04-04",
+  "notification_date": "2009-04-08",
+  "commission_reference": "MNE(2009)51573",
+  "nim_celex": "72007L0044LTU_161438",
+  "nim_id": "161438",
+  "transposes_celex": [
+    "32007L0044"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/63b7a099-0cb1-45e1-91d2-737270cf2518",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
