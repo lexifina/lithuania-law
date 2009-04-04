@@ -16,3 +16,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2007-01-30 | 2008-02-29 | Įstatymas Nr. X-1037 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/157dac6e92d255592eaa9752c0d5265a291ac048/istatymai/TAR.779892D853B4.md) |
 | 2008-03-01 | 2008-08-31 | Įstatymas Nr. X-1306 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/a18d9405b2908a9b4ce77a99aaecd20c2a3ab866/istatymai/TAR.779892D853B4.md) |
 | 2008-09-01 | 2009-04-03 | Įstatymas Nr. X-1680 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/535674b21b6a69c01bddefa02cdcfb85702e6868/istatymai/TAR.779892D853B4.md) |
+| 2009-04-04 | 2009-12-27 | Įstatymas Nr. XI-203 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/5227af2e4048708243421a8432983dda251c2a1a/istatymai/TAR.779892D853B4.md) |
