@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos finansinių priemonių rinkų įstatymo 3, 7, 10, 14, 20, 41, 42, 43, 47, 51, 62, 64, 80, 82, 83, 85, 86, 95, 97 straipsnių bei priedo pakeitimo ir papildymo ir Įstatymo papildymo 85(1) straipsniu įstatymas Nr. XI-199",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "38",
+  "official_journal_page": null,
+  "official_journal_date": "2009-04-04",
+  "entry_into_force": "2009-04-04",
+  "notification_date": "2009-04-08",
+  "commission_reference": "MNE(2009)51574",
+  "nim_celex": "72007L0044LTU_161439",
+  "nim_id": "161439",
+  "transposes_celex": [
+    "32007L0044"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b0436bd6-5d06-4257-92e8-179641348058",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
