@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės metrologijos tarnybos direktoriaus 2008 m. rugsėjo 11 d. įsakymas Nr. V-73 \"Dėl Valstybinės metrologijos tarnybos direktoriaus 2003 m. lapkričio 19 d. įsakymo Nr. V-145 „Dėl fasuotų produktų kiekio ir matavimo indų kontrolės techninio reglamento tvirtinimo“ pakeitimo ir papildymo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "106",
+  "official_journal_page": null,
+  "official_journal_date": "2008-09-16",
+  "entry_into_force": "2009-04-11",
+  "notification_date": "2008-09-18",
+  "commission_reference": "MNE(2008)55148",
+  "nim_celex": "72007L0045LTU_158100",
+  "nim_id": "158100",
+  "transposes_celex": [
+    "32007L0045"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f4294596-7ca0-4639-9ccf-54b57139decf",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
