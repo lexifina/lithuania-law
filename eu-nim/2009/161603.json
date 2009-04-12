@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2009 M. BALANDŽIO 6 D. ĮSAKYMAS NR. D1-144 \"DĖL APLINKOS MINISTRO 2003 M. BIRŽELIO 30 D. ĮSAKYMO NR. 329 „DĖL DUOMENŲ APIE UPIŲ BASEINŲ RAJONE ESANČIUS SAUGOMUS PLOTUS RINKIMO IR SISTEMINIMO TVARKOS PATVIRTINIMO“ PAKEITIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "41",
+  "official_journal_page": null,
+  "official_journal_date": "2009-04-11",
+  "entry_into_force": "2009-04-12",
+  "notification_date": "2009-04-21",
+  "commission_reference": "MNE(2009)51738",
+  "nim_celex": "72000L0060LTU_161603",
+  "nim_id": "161603",
+  "transposes_celex": [
+    "32000L0060"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/83f813a7-3e9b-44b3-8d3f-f2590df8a1c7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
