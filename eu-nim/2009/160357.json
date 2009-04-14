@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2009 m. sausio 22 d. įsakymas Nr. V-22 \"Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2003 m. \ngruodžio 23 d. įsakymo Nr. V-757 \"Dėl Lietuvos higienos normos HN 62:2003 \"Kosmetikos gaminiai: bendrieji reikalavimai, draudžiamos ir ribojamos medžiagos\" patvirtinimo\" pakeitimo",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "12",
+  "official_journal_page": null,
+  "official_journal_date": "2009-01-31",
+  "entry_into_force": "2009-04-14",
+  "notification_date": "2009-02-09",
+  "commission_reference": "MNE(2009)50522",
+  "nim_celex": "72008L0088LTU_160357",
+  "nim_id": "160357",
+  "transposes_celex": [
+    "32008L0088"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d2db84bb-5525-4fdd-b92c-ba6f04d187c8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
