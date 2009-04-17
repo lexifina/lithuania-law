@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2009 M. BALANDŽIO 9 D. ĮSAKYMAS NR. D1-155 \"DĖL LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2002 m. RUGSĖJO 30 d. ĮSAKYMO Nr. 513 „DĖL MEDŽIOJAMŲJŲ GYVŪNŲ GAUSOS REGULIAVIMO TERITORIJOSE, KURIOSE MEDŽIOTI DRAUDŽIAMA, TVARKOS PATVIRTINIMO“ PAKEITIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "42",
+  "official_journal_page": null,
+  "official_journal_date": "2009-04-16",
+  "entry_into_force": "2009-04-17",
+  "notification_date": "2009-06-08",
+  "commission_reference": "MNE(2009)51740",
+  "nim_celex": "71979L0409LTU_161605",
+  "nim_id": "161605",
+  "transposes_celex": [
+    "31979L0409",
+    "31992L0043"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a0853f55-7d6d-4648-9f05-4ecbb7f50a3c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
