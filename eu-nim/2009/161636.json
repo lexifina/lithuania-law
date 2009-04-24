@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2009 m. balandžio 21 d. nutarimas Nr. 92 „Dėl pranešimo apie banko kvalifikuotosios įstatinio kapitalo ir (arba) balsavimo teisių dalies įsigijimo ir perleidimo taisyklių“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "45",
+  "official_journal_page": null,
+  "official_journal_date": "2009-04-23",
+  "entry_into_force": "2009-04-24",
+  "notification_date": "2009-04-24",
+  "commission_reference": "MNE(2009)51770",
+  "nim_celex": "72000L0012LTU_161636",
+  "nim_id": "161636",
+  "transposes_celex": [
+    "32000L0012",
+    "32007L0044"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bc9e3112-7465-4bc5-a439-bc52b76c7f88",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
