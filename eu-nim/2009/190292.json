@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Letuvos Respublikos aplinkos ministro 2009 m. balandžio 28 d. įsakymas Nr. D1-227\n \"Dėl Lietuvos Respublikos aplinkos ministro 2003 m. gruodžio 24 d. įsakymo Nr. 719 „Dėl požeminio\nvandens telkinių vertinimo ir jų priskyrimo upių baseinų rajonams metodinių\nreikalavimų patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "51",
+  "official_journal_page": null,
+  "official_journal_date": null,
+  "entry_into_force": "2009-04-28",
+  "notification_date": "2012-04-20",
+  "commission_reference": "MNE(2012)51863",
+  "nim_celex": "72006L0118LTU_190292",
+  "nim_id": "190292",
+  "transposes_celex": [
+    "32006L0118"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d9cc1040-a7c8-49fc-b67d-d4e1ecf24f2d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
