@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2009 m. balandžio 28 d. įsakymas Nr. 3-169 \"Dėl Motorinių transporto priemonių, priekabų ir šių transporto priemonių sudedamųjų dalių atitikties įvertinimo atlikimo taisyklių\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "49",
+  "official_journal_page": null,
+  "official_journal_date": "2009-04-30",
+  "entry_into_force": "2009-04-29",
+  "notification_date": "2013-12-05",
+  "commission_reference": "MNE(2013)59210",
+  "nim_celex": "72013L0015LTU_210930",
+  "nim_id": "210930",
+  "transposes_celex": [
+    "32013L0015"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9ad97d01-2b26-4307-8142-9c76bedae457",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
