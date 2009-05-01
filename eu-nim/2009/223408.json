@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2009 m. vasario 19 d. įsakymas Nr. V-117 „Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2001 m. gruodžio 28 d. įsakymo Nr. 671 \"Dėl Lietuvos higienos normos HN 113:2001 \"Laivai. Higienos normos ir taisyklės\" patvirtinimo\" pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "23",
+  "official_journal_page": null,
+  "official_journal_date": "2009-02-28",
+  "entry_into_force": "2009-05-01",
+  "notification_date": "2015-02-12",
+  "commission_reference": "MNE(2015)50726",
+  "nim_celex": "72009L0013LTU_223408",
+  "nim_id": "223408",
+  "transposes_celex": [
+    "32009L0013"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4014b5e6-f97b-11e4-a4c8-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
