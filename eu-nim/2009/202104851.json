@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos mokslo ir studijų įstatymas Nr. XI-242 (Suvestinė redakcija)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Informaciniai pranešimai",
+  "official_journal_reference": "54-2140",
+  "official_journal_page": null,
+  "official_journal_date": "2009-05-11",
+  "entry_into_force": "2009-05-11",
+  "notification_date": "2021-07-16",
+  "commission_reference": "MNE(2021)04851",
+  "nim_celex": "72019L1024LTU_202104851",
+  "nim_id": "202104851",
+  "transposes_celex": [
+    "32019L1024"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8c035169-edf5-11eb-a71c-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
