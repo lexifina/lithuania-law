@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2009 m. gegužės 12 d. įsakymas Nr. A1-316 „Dėl Lietuvos Respublikos valstybinės darbo inspekcijos prie Socialinės apsaugos ir darbo ministerijos nuostatų patvirtinimo\" (suvestinė redakcija nuo 2021-12-01 iki 2022-03-31)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "58-2262",
+  "official_journal_page": null,
+  "official_journal_date": "2009-05-19",
+  "entry_into_force": "2009-05-20",
+  "notification_date": "2026-06-08",
+  "commission_reference": "MNE(2026)03684",
+  "nim_celex": "72023L0970LTU_202603684",
+  "nim_id": "202603684",
+  "transposes_celex": [
+    "32023L0970"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/21b72172-8250-4b7c-b9a4-f8a844cb2d7f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
