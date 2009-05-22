@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos teisingumo ministro 2009 m. gegužės 15 d. įsakymas Nr. 1R-162 „Dėl teisėjų mokymo organizavimo ir įgytų žinių patikrinimo taisyklių patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "59",
+  "official_journal_page": null,
+  "official_journal_date": "2009-05-21",
+  "entry_into_force": "2009-05-22",
+  "notification_date": "2014-02-21",
+  "commission_reference": "MNE(2014)51138",
+  "nim_celex": "72012L0013LTU_213538",
+  "nim_id": "213538",
+  "transposes_celex": [
+    "32012L0013"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/826fad4e-e85d-4fdd-b985-960c683c911e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
