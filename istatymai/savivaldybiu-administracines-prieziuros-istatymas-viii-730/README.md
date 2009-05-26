@@ -15,3 +15,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2004-06-24 | 2006-04-21 | Įstatymas Nr. IX-2264 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/5b5606fdfd4a025dbc79413887022357c6461d55/istatymai/TAR.33DE665E5E0E.md) |
 | 2006-04-22 | 2006-06-27 | Įstatymas Nr. IX-2264 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/71f699c9e14d727b80c5fdb642f4d6f66aa4e3b6/istatymai/TAR.33DE665E5E0E.md) |
 | 2006-06-28 | 2009-05-25 | Įstatymas Nr. X-684 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/c7536516950af25d23f0b6a12fc8487764e3fb05/istatymai/TAR.33DE665E5E0E.md) |
+| 2009-05-26 | 2010-04-09 | Įstatymas Nr. IX-2264 / Įstatymas Nr. XI-251 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/c340a2f69bf9e3146ce7fd90c73daeeb3b7904ac/istatymai/TAR.33DE665E5E0E.md) |
