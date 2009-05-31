@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės atominės energetikos saugos inspekcijos viršininko 2009 m. gegužės 26 d. įsakymas Nr. 22.3-49 „Dėl Eksploatavimo patirties naudojimo branduolinėje energetikoje reikalavimų patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "64",
+  "official_journal_page": null,
+  "official_journal_date": "2009-05-30",
+  "entry_into_force": "2009-05-31",
+  "notification_date": "2017-08-29",
+  "commission_reference": "MNE(2017)54732",
+  "nim_celex": "72014L0087LTU_250342",
+  "nim_id": "250342",
+  "transposes_celex": [
+    "32014L0087"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bbab9362-b960-48f0-9244-419d3ce2fdf2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
