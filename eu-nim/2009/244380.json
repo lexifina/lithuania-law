@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos generalinio prokuroro 2009 m. gegužės 19 d. įsakymas Nr. I-82 „Dėl Rekomendacijų dėl transporto priemonių, kurios įtariama yra pagrobtos, paėmimo, saugojimo, tikrinimo ir grąžinimo atliekant ikiteisminį tyrimą patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "64",
+  "official_journal_page": null,
+  "official_journal_date": "2009-05-30",
+  "entry_into_force": "2009-05-31",
+  "notification_date": "2017-01-18",
+  "commission_reference": "MNE(2017)50424",
+  "nim_celex": "72014L0042LTU_244380",
+  "nim_id": "244380",
+  "transposes_celex": [
+    "32014L0042"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5a2d86df-9851-43e0-9cef-04bc80bc1040",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
