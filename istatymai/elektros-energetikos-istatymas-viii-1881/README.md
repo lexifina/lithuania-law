@@ -11,3 +11,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2002-01-01 | 2004-07-09 | Teisės aktų registras (Seimo kanceliarija) | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22pdSKdzZmMT%22) |
 | 2004-07-10 | 2009-01-31 | Įstatymas Nr. IX-2307 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22YjVUqGYPjL%22) |
 | 2009-02-01 | 2009-05-31 | Įstatymas Nr. XI-131 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22VPTCqpHXMR%22) |
+| 2009-06-01 | 2009-07-31 | Įstatymas Nr. XI-198 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22ZtoLoRKxgM%22) |
