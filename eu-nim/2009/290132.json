@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2009 m. gegužės 27 d. įsakymas Nr. D1-291 „Dėl Gamintojų ir importuotojų registravimo taisyklių patvirtinimo“ (suvestinė redakcija nuo 2019-11-01 iki 2020-12-31)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "65-2599",
+  "official_journal_page": null,
+  "official_journal_date": "2009-06-02",
+  "entry_into_force": "2009-06-03",
+  "notification_date": "2020-11-30",
+  "commission_reference": "MNE(2020)58205",
+  "nim_celex": "72018L0851LTU_290132",
+  "nim_id": "290132",
+  "transposes_celex": [
+    "32018L0851"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/117e307b-71d2-4f5b-9f16-6a3b4afc1ba2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
