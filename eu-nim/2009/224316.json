@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro 2009 m. birželio 8 d. įsakymas Nr. 1V-246 „Dėl 2008 m. birželio 23 d. Tarybos sprendimo 2008/615/TVR Dėl tarpvalstybinio bendradarbiavimo gerinimo, visų pirma kovos su terorizmu ir tarpvalstybiniu nusikalstamumo srityje, įgyvendinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Administracinės priemonės",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2009-06-08",
+  "entry_into_force": "2009-06-09",
+  "notification_date": "2015-03-09",
+  "commission_reference": "MNE(2015)51478",
+  "nim_celex": "72008D0615LTU_224316",
+  "nim_id": "224316",
+  "transposes_celex": [
+    "32008D0615"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ee76f281-6322-11e7-b2f2-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
