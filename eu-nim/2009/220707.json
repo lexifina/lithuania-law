@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2009 m. birželio 17 d. nutarimas Nr. 617 \"Dėl Lietuvos Respublikos Vyriausybės 2006 m. gegužės 12 d. nutarimo Nr. 452 \"Dėl Transporto priemones vairuojančių ir kitų asmenų neblaivumo (girtumo) ar apsvaigimo nustatymo taisyklių patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "76",
+  "official_journal_page": null,
+  "official_journal_date": "2009-06-27",
+  "entry_into_force": "2009-06-28",
+  "notification_date": "2014-10-28",
+  "commission_reference": "MNE(2014)56039",
+  "nim_celex": "72012L0035LTU_220707",
+  "nim_id": "220707",
+  "transposes_celex": [
+    "32012L0035"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/daaba932-4409-41fe-9217-412f0207e4a3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
