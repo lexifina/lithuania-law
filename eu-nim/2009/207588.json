@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos šilumos ūkio įstatymo 2, 15, 22, 32 straipsnių pakeitimo ir papildymo įstatymas Nr. XI-250",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "61",
+  "official_journal_page": null,
+  "official_journal_date": "2009-05-26",
+  "entry_into_force": "2009-07-01",
+  "notification_date": "2013-07-11",
+  "commission_reference": "MNE(2013)56621",
+  "nim_celex": "72006L0032LTU_207588",
+  "nim_id": "207588",
+  "transposes_celex": [
+    "32006L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a29cde03-7878-4e58-8206-88306fb7ce22",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
