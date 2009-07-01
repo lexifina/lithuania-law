@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos įstatymo pakeitimo įstatymas Nr. X-1682 (nauja redakcija)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "81",
+  "official_journal_page": null,
+  "official_journal_date": "2008-07-17",
+  "entry_into_force": "2009-07-01",
+  "notification_date": "2008-08-26",
+  "commission_reference": "MNE(2008)54764",
+  "nim_celex": "71993L0007LTU_157713",
+  "nim_id": "157713",
+  "transposes_celex": [
+    "31993L0007"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4a233b18-da0b-4b53-abfb-298603301e0b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
