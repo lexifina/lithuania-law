@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių teisės pažeidimų kodekso 44(1), 44(3), 44(4) ir 44(5) straipsnių pakeitimo įstatymas Nr. XI-60",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "149",
+  "official_journal_page": null,
+  "official_journal_date": "2008-12-30",
+  "entry_into_force": "2009-07-01",
+  "notification_date": "2013-07-31",
+  "commission_reference": "MNE(2013)57158",
+  "nim_celex": "72011L0062LTU_208221",
+  "nim_id": "208221",
+  "transposes_celex": [
+    "32011L0062"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6244a677-6fb6-41e0-a51a-542d970dd93a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
