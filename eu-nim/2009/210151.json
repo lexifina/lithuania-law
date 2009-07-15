@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2009 m. liepos 1 d. įsakymas Nr. V-541 „Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2007 m. kovo 2 d. įsakymo Nr. V-156 „Dėl Asmens sveikatos priežiūros įstaigų licencijavimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "83",
+  "official_journal_page": null,
+  "official_journal_date": "2009-07-14",
+  "entry_into_force": "2009-07-15",
+  "notification_date": "2013-10-30",
+  "commission_reference": "MNE(2013)58625",
+  "nim_celex": "72011L0024LTU_210151",
+  "nim_id": "210151",
+  "transposes_celex": [
+    "32011L0024"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b3ac911b-c490-461e-a434-c4f098b398f0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
