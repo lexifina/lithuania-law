@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2009 liepos 10 d. įsakymas Nr. 3D-488 „Dėl Importuojamų, eksportuojamų ir vidaus rinkai tiekiamų šviežių vaisių ir daržovių atitikties prekybos standartams patikros taisyklių patvirtinimo“ (suvestinė redakcija nuo 2019-01-01)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "84-3548",
+  "official_journal_page": null,
+  "official_journal_date": "2009-07-16",
+  "entry_into_force": "2009-07-17",
+  "notification_date": "2020-12-02",
+  "commission_reference": "MNE(2020)58296",
+  "nim_celex": "72018L0851LTU_290247",
+  "nim_id": "290247",
+  "transposes_celex": [
+    "32018L0851"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5ce7668e-4c61-467e-9a75-7b6400ce981e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
