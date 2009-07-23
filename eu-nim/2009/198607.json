@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Klimato kaitos valdymo finansinių instrumentų įstatymas Nr. XI-329",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "87",
+  "official_journal_page": null,
+  "official_journal_date": "2009-07-23",
+  "entry_into_force": "2009-07-23",
+  "notification_date": "2013-02-28",
+  "commission_reference": "MNE(2012)56969",
+  "nim_celex": "72009L0073LTU_198607",
+  "nim_id": "198607",
+  "transposes_celex": [
+    "32009L0073"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/80b28e29-7bae-4e23-9f41-3c41d0c9d062",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
