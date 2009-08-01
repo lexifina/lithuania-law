@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos užimtumo rėmimo įstatymo pakeitimo įstatymas Nr. XI-334",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "86",
+  "official_journal_page": null,
+  "official_journal_date": "2009-07-21",
+  "entry_into_force": "2009-08-01",
+  "notification_date": "2013-07-26",
+  "commission_reference": "MNE(2013)57071",
+  "nim_celex": "72011L0095LTU_208117",
+  "nim_id": "208117",
+  "transposes_celex": [
+    "32011L0095"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3c2724b9-0e8e-4084-be1b-56db2f97fb5e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
