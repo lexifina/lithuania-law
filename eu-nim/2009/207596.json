@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės kainų ir energetikos kontrolės komisijos 2009 m. liepos 8 d. nutarimas Nr. 03-96 \"Dėl Šilumos kainų nustatymo metodikos\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "92",
+  "official_journal_page": null,
+  "official_journal_date": "2009-08-01",
+  "entry_into_force": "2009-08-02",
+  "notification_date": "2013-07-11",
+  "commission_reference": "MNE(2013)56629",
+  "nim_celex": "72006L0032LTU_207596",
+  "nim_id": "207596",
+  "transposes_celex": [
+    "32006L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ee5fd694-f257-4840-a7f6-a910eec0eae8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
