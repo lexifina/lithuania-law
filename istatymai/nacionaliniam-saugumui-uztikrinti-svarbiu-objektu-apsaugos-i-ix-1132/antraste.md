@@ -1,5 +1,5 @@
-LIETUVOS RESPUBLIKOS
-STRATEGINĘ REIKŠMĘ NACIONALINIAM SAUGUMUI TURINČIŲ ĮMONIŲ IR ĮRENGINIŲ BEI KITŲ NACIONALINIAM SAUGUMUI UŽTIKRINTI SVARBIŲ ĮMONIŲ
-Į S T A T Y M A S
+Strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių
+bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių
+ĮSTATYMAS
 2002 m. spalio 10 d. Nr. IX-1132
 Vilnius
