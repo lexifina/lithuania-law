@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos finansinio tvarumo įstatymas Nr. XI-393 (suvestinė redakcija nuo 2020-12-30)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "93-3985",
+  "official_journal_page": null,
+  "official_journal_date": "2009-08-04",
+  "entry_into_force": "2009-08-04",
+  "notification_date": "2021-12-29",
+  "commission_reference": "MNE(2021)08959",
+  "nim_celex": "72019L0879LTU_202108959",
+  "nim_id": "202108959",
+  "transposes_celex": [
+    "32019L0879"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/886f3bec-6d38-11ec-9136-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
