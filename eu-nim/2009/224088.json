@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos civilinio kodekso 2.33 straipsnio papildymo įstatymas Nr. XI-372",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "93",
+  "official_journal_page": null,
+  "official_journal_date": "2009-08-04",
+  "entry_into_force": "2009-08-04",
+  "notification_date": "2015-03-09",
+  "commission_reference": "MNE(2015)51261",
+  "nim_celex": "72005F0212LTU_224088",
+  "nim_id": "224088",
+  "transposes_celex": [
+    "32005F0212"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4e5aca21-6322-11e7-b2f2-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
