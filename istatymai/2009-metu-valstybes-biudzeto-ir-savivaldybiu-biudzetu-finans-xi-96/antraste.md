@@ -1,5 +1,5 @@
 Įstatymas
-sklebtas: Žin., 2008, Nr. 149-6020
+skelbtas: Žin., 2008, Nr. 149-6020
 Neoficialus
 įstatymo tekstas
 LIETUVOS RESPUBLIKOS
