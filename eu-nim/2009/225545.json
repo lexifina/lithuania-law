@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ 2, 4, 5, 8, 10, 11, 21, 26, 34, 35, 43, 45, 51, 53, 62, 63, 64, 80, 81, 93, 101, 102, 106, 125 ir 1401 straipsnių pakeitimo bei papildymo ir Įstatymo papildymo  1411 straipsniu įstatymas Nr. XI-392",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "93",
+  "official_journal_page": null,
+  "official_journal_date": "2009-08-04",
+  "entry_into_force": "2009-08-04",
+  "notification_date": "2015-04-10",
+  "commission_reference": "MNE(2015)52563",
+  "nim_celex": "72011L0095LTU_225545",
+  "nim_id": "225545",
+  "transposes_celex": [
+    "32011L0095"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/75e77e43-f976-11e4-a4c8-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
