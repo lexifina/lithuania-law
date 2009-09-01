@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 2, 58 ir 91 straipsnių pakeitimo įstatymas Nr. XI-386",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "93-3978",
+  "official_journal_page": null,
+  "official_journal_date": "2015-01-01",
+  "entry_into_force": "2009-09-01",
+  "notification_date": "2018-07-19",
+  "commission_reference": "MNE(2018)53845",
+  "nim_celex": "72018L0912LTU_261007",
+  "nim_id": "261007",
+  "transposes_celex": [
+    "32018L0912"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6477e992-006a-416e-bb2d-f7149d7de080",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
