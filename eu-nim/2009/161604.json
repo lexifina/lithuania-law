@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2009 M. BALANDŽIO 7 D. ĮSAKYMAS NR. D1-148 \"DĖL LIETUVOS RESPUBLIKOS APLINKOS MINISTRO 2000 m. RUGSĖJO 8 d. ĮSAKYMO Nr. 372 „DĖL SAUGOMŲ RŪŠIŲ GYVŪNŲ, AUGALŲ IR GRYBŲ PAĖMIMO IŠ GAMTINĖS APLINKOS TVARKOS PATVIRTINIMO“ PAKEITIMO\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "41",
+  "official_journal_page": null,
+  "official_journal_date": "2009-04-11",
+  "entry_into_force": "2009-09-01",
+  "notification_date": "2009-04-21",
+  "commission_reference": "MNE(2009)51739",
+  "nim_celex": "71979L0409LTU_161604",
+  "nim_id": "161604",
+  "transposes_celex": [
+    "31979L0409",
+    "31992L0043"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/051f410e-dc40-4876-bf1e-b06edba141c5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
