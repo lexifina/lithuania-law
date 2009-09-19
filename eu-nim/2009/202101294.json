@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos generalinio prokuroro 2009 m. rugsėjo 16 d. įsakymas Nr. I-126 „Dėl Rekomendacijų dėl nepilnamečio liudytojo ir nukentėjusiojo apklausos patvirtinimo“ (suvestinė redakcija nuo 2018 m. liepos 1 d.)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "112-4806",
+  "official_journal_page": null,
+  "official_journal_date": "2009-09-18",
+  "entry_into_force": "2009-09-19",
+  "notification_date": "2021-02-17",
+  "commission_reference": "MNE(2021)01294",
+  "nim_celex": "72012L0029LTU_202101294",
+  "nim_id": "202101294",
+  "transposes_celex": [
+    "32012L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0a086cf2-e435-47ca-a2bd-db9d32c22148",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
