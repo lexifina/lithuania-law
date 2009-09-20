@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2009 m. rugsėjo 9 d. nutarimas Nr. 1104 „Dėl Prekybos žmonėmis prevencijos ir kontrolės 2009–2012 metų programos patvirtinimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "112",
+  "official_journal_page": null,
+  "official_journal_date": "2009-09-19",
+  "entry_into_force": "2009-09-20",
+  "notification_date": "2013-04-03",
+  "commission_reference": "MNE(2013)52286",
+  "nim_celex": "72011L0036LTU_202579",
+  "nim_id": "202579",
+  "transposes_celex": [
+    "32011L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/15a687c4-9b75-478e-b7ce-a76e6013defb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
