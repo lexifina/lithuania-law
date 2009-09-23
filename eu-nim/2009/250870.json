@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2009 m. rugsėjo 16 d. įsakymas Nr. D1-546 „Dėl Ūkio subjektų aplinkos monitoringo nuostatų patvirtinimo“ (Suvestinė redakcija nuo 2017-01-01)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "113",
+  "official_journal_page": null,
+  "official_journal_date": "2009-09-22",
+  "entry_into_force": "2009-09-23",
+  "notification_date": "2017-09-12",
+  "commission_reference": "MNE(2017)55130",
+  "nim_celex": "72014L0052LTU_250870",
+  "nim_id": "250870",
+  "transposes_celex": [
+    "32014L0052"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2a3a64eb-f022-4361-9630-b13345b9afc1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
