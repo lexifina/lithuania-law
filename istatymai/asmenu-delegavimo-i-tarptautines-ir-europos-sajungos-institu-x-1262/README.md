@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2007-10-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/c37a5be5931521135dfdbfedf730fdc9f3ee40a1/istatymai/TAR.981F27E01089.md) |
+| 2009-10-01 | 2012-08-31 | Įstatymas Nr. XI-337 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/081883b6eeb1ab61871cb08c749fe4de49924573/istatymai/TAR.981F27E01089.md) |
