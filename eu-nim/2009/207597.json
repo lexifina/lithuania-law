@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės kainų ir energetikos kontrolės komisijos 2009 m. spalio 13 d. nutarimas Nr. O3-157 \"Dėl Gamtinių dujų perdavimo ir skirstymo kainų viršutinių ribų skaičiavimo metodikos pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "126",
+  "official_journal_page": null,
+  "official_journal_date": "2009-10-22",
+  "entry_into_force": "2009-10-23",
+  "notification_date": "2013-07-11",
+  "commission_reference": "MNE(2013)56630",
+  "nim_celex": "72006L0032LTU_207597",
+  "nim_id": "207597",
+  "transposes_celex": [
+    "32006L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0163aa49-c132-46d4-a350-ae1dd73b4c4b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
