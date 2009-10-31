@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos policijos veiklos įstatymo 1, 2, 3, 6(2), 7, 11, 12, 15, 16, 18, 19 straipsnių pakeitimo ir papildymo įstatymas Nr. XI-444",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "130",
+  "official_journal_page": null,
+  "official_journal_date": "2009-10-31",
+  "entry_into_force": "2009-10-31",
+  "notification_date": "2015-03-06",
+  "commission_reference": "MNE(2015)51029",
+  "nim_celex": "72008D0616LTU_223813",
+  "nim_id": "223813",
+  "transposes_celex": [
+    "32008D0616"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/62de7d01-6324-11e7-b2f2-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
