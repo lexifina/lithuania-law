@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės kainų ir energetikos kontrolės komisijos 2009 m. lapkričio 9 d. nutarimas Nr. O3-199 \"Dėl Visuomeninių elektros energijos kainų, visuomeninio tiekimo paslaugos kainos ir jų viršutinių ribų nustatymo metodikos\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "135",
+  "official_journal_page": null,
+  "official_journal_date": "2009-11-12",
+  "entry_into_force": "2009-11-13",
+  "notification_date": "2013-07-12",
+  "commission_reference": "MNE(2013)56632",
+  "nim_celex": "72006L0032LTU_207599",
+  "nim_id": "207599",
+  "transposes_celex": [
+    "32006L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9fc1db56-901f-47af-8f10-41df5977e2e9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
