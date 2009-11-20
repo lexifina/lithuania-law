@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2009 m. lapkričio 12 d. įsakymas Nr. V-922 „Dėl Lietuvos higienos normos HN 78:2009 „Kokybės kontrolės reikalavimai ir vertinimo kriterijai medicininėje rentgenodiagnostikoje“ patvirtinimo“ (suvestinė redakcija nuo 2015-05-01)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "137-6025",
+  "official_journal_page": null,
+  "official_journal_date": "2009-11-19",
+  "entry_into_force": "2009-11-20",
+  "notification_date": "2019-06-17",
+  "commission_reference": "MNE(2019)53778",
+  "nim_celex": "72013L0059LTU_274183",
+  "nim_id": "274183",
+  "transposes_celex": [
+    "32013L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b5ba71eb-93fb-11e9-9369-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
