@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos policijos generalinio komisaro 2009 m. gruodžio 23 d. įsakymas Nr. 5-V-968 „Dėl Lietuvos Respublikos policijos įstaigų keitimosi informacija su kitų Europos Sąjungos valstybių narių teisėsaugos institucijomis“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Administracinės priemonės",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2009-12-23",
+  "entry_into_force": "2009-12-24",
+  "notification_date": "2015-03-06",
+  "commission_reference": "MNE(2015)51425",
+  "nim_celex": "72006F0960LTU_224263",
+  "nim_id": "224263",
+  "transposes_celex": [
+    "32006F0960"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/08ed164e-6323-11e7-b2f2-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
