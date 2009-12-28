@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos mokėjimų įstatymo pakeitimo įstatymas Nr. XI-550",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "153",
+  "official_journal_page": null,
+  "official_journal_date": "2009-12-28",
+  "entry_into_force": "2009-12-28",
+  "notification_date": "2013-12-10",
+  "commission_reference": "MNE(2013)59577",
+  "nim_celex": "72011L0083LTU_211355",
+  "nim_id": "211355",
+  "transposes_celex": [
+    "32011L0083"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b6e67c01-7782-415f-8432-5bb91e9a18a7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
