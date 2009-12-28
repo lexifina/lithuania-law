@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos paslaugų įstatymas Nr. XI-570 (suvestinė redakcija nuo 2017-07-01)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "153-6901",
+  "official_journal_page": null,
+  "official_journal_date": "2009-12-28",
+  "entry_into_force": "2009-12-28",
+  "notification_date": "2018-01-16",
+  "commission_reference": "MNE(2018)50238",
+  "nim_celex": "72015L2302LTU_254459",
+  "nim_id": "254459",
+  "transposes_celex": [
+    "32015L2302"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/14b85b55-1d37-42bd-9e48-2c2d2d7e40b0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
