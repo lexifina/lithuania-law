@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos pelno mokesčio įstatymo 4, 5, 12, 13, 17, 18, 26, 31, 33, 34, 35, 38(2), 40(1), 41, 55 straipsnių pakeitimo ir papildymo ir Įstatymo papildymo X(1) skyriumi įstatymas Nr.XI-539",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "153",
+  "official_journal_page": null,
+  "official_journal_date": "2009-12-28",
+  "entry_into_force": "2009-12-28",
+  "notification_date": "2013-03-26",
+  "commission_reference": "MNE(2013)52116",
+  "nim_celex": "72009L0133LTU_202385",
+  "nim_id": "202385",
+  "transposes_celex": [
+    "32009L0133"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/16fc4e95-2129-4db1-afa9-24f9f9958b5e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
