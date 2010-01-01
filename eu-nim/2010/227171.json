@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos civilinės saugos įstatymas Nr. XI-635",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "159",
+  "official_journal_page": null,
+  "official_journal_date": "2009-12-31",
+  "entry_into_force": "2010-01-01",
+  "notification_date": "2015-06-23",
+  "commission_reference": "MNE(2015)54153",
+  "nim_celex": "72012L0018LTU_227171",
+  "nim_id": "227171",
+  "transposes_celex": [
+    "32012L0018"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/909380e5-f0d3-40ea-9276-1eeb8aa26925",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
