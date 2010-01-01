@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2009 m. gruodžio 23 d. nutarimas Nr. 1706 „Dėl 2009 m. balandžio 6 d. Tarybos sprendimo 2009/371/TVR dėl Europos policijos biuro (Europolo) įsteigimo įgyvendinimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "153",
+  "official_journal_page": null,
+  "official_journal_date": "2009-12-28",
+  "entry_into_force": "2010-01-01",
+  "notification_date": "2015-03-06",
+  "commission_reference": "MNE(2015)51039",
+  "nim_celex": "72009D0371LTU_223823",
+  "nim_id": "223823",
+  "transposes_celex": [
+    "32009D0371"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5457653e-6326-11e7-b2f2-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
