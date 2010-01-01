@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2009 m. gruodžio 23 d. nutarimas Nr. 1784 \"Dėl Lietuvos Respublikos Vyriausybės 2005 m. birželio 14 d. nutarimo Nr. 647 \"Dėl Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklių patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "158",
+  "official_journal_page": null,
+  "official_journal_date": "2009-12-31",
+  "entry_into_force": "2010-01-01",
+  "notification_date": "2013-12-23",
+  "commission_reference": "MNE(2013)60124",
+  "nim_celex": "72011L0085LTU_211994",
+  "nim_id": "211994",
+  "transposes_celex": [
+    "32011L0085"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/df3a907e-0629-4fb0-a570-56209ba390db",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
