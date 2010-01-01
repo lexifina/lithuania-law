@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos pensijų sistemos reformos įstatymo 2 ir 3 straipsnių pakeitimo įstatymas Nr. XI-478",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "141",
+  "official_journal_page": null,
+  "official_journal_date": "2009-11-28",
+  "entry_into_force": "2010-01-01",
+  "notification_date": "2012-09-19",
+  "commission_reference": "MNE(2012)54055",
+  "nim_celex": "72008L0094LTU_195317",
+  "nim_id": "195317",
+  "transposes_celex": [
+    "32008L0094"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8d6037d1-a50e-4eb5-9571-681245011834",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
