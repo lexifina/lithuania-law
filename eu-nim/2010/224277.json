@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos policijos generalinio komisaro 2009 m. gruodžio 31 d. įsakymas Nr. 5-V-992 „Dėl Lietuvos policijos generalinio komisaro 2007 m. rugpjūčio 3 d. įsakymo Nr. 5-V-522 „Dėl Lietuvos kriminalinės policijos biuro nuostatų ir struktūros schemos patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Administracinės priemonės",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2009-12-31",
+  "entry_into_force": "2010-01-01",
+  "notification_date": "2015-03-06",
+  "commission_reference": "MNE(2015)51439",
+  "nim_celex": "72009D0371LTU_224277",
+  "nim_id": "224277",
+  "transposes_celex": [
+    "32009D0371"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0de7a042-6326-11e7-b2f2-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
