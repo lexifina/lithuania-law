@@ -1,31 +1,29 @@
 # Nr. I-1163
 Lietuvos Respublikos
-mokesčio už valstybinius gamtos išteklius
-įstatymo
+mokesčio už valstybinius
+gamtos išteklius įstatymo
 1 priedas
-MOKESČIO UŽ NAUDINGĄSIAS IŠKASENAS TARIFAI
+MokesčiO už naudingąsias IŠKASENas tarifai
 Eil. Nr.
 Ištekliai
 Matavimo vnt.
-Tarifas Lt
+Tarifas (Lt)
 1.
 Anhidritas
 m3
-1,52
+3,04
 2.
 Dolomitas
 m3
-0,65
+1,3
 3.
-Durpės: mažaskaidės
+Durpės
 m3
-0,54
-Kitos
-0,2
+0,62
 4.
 Gintaras
 kg
-34,9
+69,8
 5.
 Klintis
 m3
@@ -33,20 +31,15 @@ m3
 6.
 Kreidos mergelis
 m3
-1,13
+2,26
 7.
-Molis:
+Molis:devono periodotriaso periodokitas
 m3
-devono periodo
-0,98
-triaso periodo
-0,65
-kitas
-0,39
+1,961,30,78
 8.
 Opoka
 m3
-0,9
+1,8
 9.
 Sapropelis
 m3
@@ -54,17 +47,17 @@ m3
 10.
 Smėlis moliui liesinti
 m3
-0,33
+0,66
 11.
 Smėlis stiklui gaminti
 m3
-2,0
+4,0
 12.
 Smėlis silikatiniams dirbiniams
 m3
-0,3
+0,6
 13.
 Kitas smėlis
 m3
-0,25
+0,5
 14.
