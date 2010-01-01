@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Viešosios įstaigos \"Audito ir apskaitos tarnyba\" direktoriaus 2009 m. lapkričio 11 d. įsakymas Nr. VAS-9 \"Dėl 18-ojo verslo apskaitos standarto \"Finansinis turtas ir finansiniai įsipareigojimai\" tvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "137",
+  "official_journal_page": null,
+  "official_journal_date": "2009-11-19",
+  "entry_into_force": "2010-01-01",
+  "notification_date": "2015-08-05",
+  "commission_reference": "MNE(2015)55772",
+  "nim_celex": "72013L0034LTU_228953",
+  "nim_id": "228953",
+  "transposes_celex": [
+    "32013L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a7cd49b4-2ace-41d2-b36b-8ad132ce9912",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
