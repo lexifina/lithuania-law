@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Viešosios įstaigos audito ir apskaitos tarnybos direktoriaus 2009 m. gruodžio 29 d. įsakymas Nr. VAS-12 \"Dėl 34-ojo verslo apskaitos standarto \"Segmentų atskleidimas finansinėje atskaitomybėje\" pakeitimo\"",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "159",
+  "official_journal_page": null,
+  "official_journal_date": "2009-12-31",
+  "entry_into_force": "2010-01-01",
+  "notification_date": "2015-08-05",
+  "commission_reference": "MNE(2015)55790",
+  "nim_celex": "72013L0034LTU_228971",
+  "nim_id": "228971",
+  "transposes_celex": [
+    "32013L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/24d0199b-a158-419d-aedc-2566fa391de3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
