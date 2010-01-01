@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės kainų ir energetikos kontrolės komisijos 2009 m. gruodžio 28 d. nutarimas Nr. 03-260 \"Dėl Balansavimo energijos kainos reguliavimo tvarkos aprašo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "156",
+  "official_journal_page": null,
+  "official_journal_date": "2009-12-30",
+  "entry_into_force": "2010-01-01",
+  "notification_date": "2012-08-22",
+  "commission_reference": "MNE(2012)53840",
+  "nim_celex": "72009L0072LTU_195067",
+  "nim_id": "195067",
+  "transposes_celex": [
+    "32009L0072"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9712ce28-7168-44f9-bc63-62831f68b6b3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
