@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos policijos generalinio komisaro 2009 m. gruodžio 29 d. įsakymas Nr. 5-V-983 „Dėl Europolo nacionalinio padalinio paskyrimo",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Administracinės priemonės",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2009-12-29",
+  "entry_into_force": "2010-01-01",
+  "notification_date": "2015-03-06",
+  "commission_reference": "MNE(2015)51435",
+  "nim_celex": "72009D0371LTU_224273",
+  "nim_id": "224273",
+  "transposes_celex": [
+    "32009D0371"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c5afc55e-6325-11e7-b2f2-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
