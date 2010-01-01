@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos mokslo ir studijų įstatymas Nr. XI-242",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "54",
+  "official_journal_page": null,
+  "official_journal_date": "2009-05-26",
+  "entry_into_force": "2010-01-01",
+  "notification_date": "2016-12-05",
+  "commission_reference": "MNE(2016)57312",
+  "nim_celex": "72014L0066LTU_243060",
+  "nim_id": "243060",
+  "transposes_celex": [
+    "32014L0066"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a6749274-451a-4e6e-b3c3-e994b925b320",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
