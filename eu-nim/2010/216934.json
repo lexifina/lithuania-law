@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos darbo kodekso 87, 88 straipsnių pakeitimo, 90 straipsnio pripažinimo netekusiu galios ir kodekso priedo papildymo įstatymas Nr. XI-589",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "1",
+  "official_journal_page": null,
+  "official_journal_date": "2010-01-05",
+  "entry_into_force": "2010-01-05",
+  "notification_date": "2014-08-28",
+  "commission_reference": "MNE(2014)53269",
+  "nim_celex": "72011L0098LTU_216934",
+  "nim_id": "216934",
+  "transposes_celex": [
+    "32011L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/14a403a3-e816-4c6f-b27a-de2220367a83",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
