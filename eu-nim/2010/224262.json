@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro 2010 m. sausio 11 d. įsakymas Nr. 1V-3 „Dėl Lietuvos Respublikos vidaus reikalų ministro 2006 m. liepos 31 d. įsakymo Nr. 1V-296 \"Dėl centrinės institucijos konvencijos dėl Šengeno susitarimo įgyvendinimo, 1985 m. birželio 14 d. sudaryto tarp Beneliukso ekonominės sąjungos valstybių, Vokietijos federacinės respublikos ir Prancūzijos respublikos vyriausybių, dėl laipsniško jų bendrų sienų kontrolės panaikinimo 39 ir 46 straipsniams įgyvendinti paskyrimo bei kompetentingų institucijų ir centrinės institucijos bendradarbiavimo įgyvendinant konvencijos dėl Šengeno susitarimo įgyvendinimo, 1985 m. birželio 14 d. sudaryto tarp Beneliukso ekonominės sąjungos valstybių, Vokietijos federacinės respublikos ir Prancūzijos respublikos vyriausybių, dėl laipsniško jų bendrų sienų kontrolės panaikinimo 39 ir 46 straipsnius tvarkos aprašo patvirtinimo“ pripažinimo netekusiu galios\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Administracinės priemonės",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2010-01-11",
+  "entry_into_force": "2010-01-12",
+  "notification_date": "2015-03-06",
+  "commission_reference": "MNE(2015)51424",
+  "nim_celex": "72006F0960LTU_224262",
+  "nim_id": "224262",
+  "transposes_celex": [
+    "32006F0960"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d65d8364-6322-11e7-b2f2-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
