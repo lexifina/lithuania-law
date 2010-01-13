@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2009 m. gruodžio 29 d. įsakymas Nr. V-1072 \"Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2000 m. gegužės 31 d. įsakymo Nr. 301 \"Dėl profilaktinių sveikatos tikrinimų sveikatos priežiūros įstaigose\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "4",
+  "official_journal_page": null,
+  "official_journal_date": "2010-01-12",
+  "entry_into_force": "2010-01-13",
+  "notification_date": "2013-11-20",
+  "commission_reference": "MNE(2013)59100",
+  "nim_celex": "72009L0148LTU_210757",
+  "nim_id": "210757",
+  "transposes_celex": [
+    "32009L0148"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1e2597ad-c94f-46c3-b2ed-21ec7a85278b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
