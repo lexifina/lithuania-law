@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2010 m. sausio 12 d. nutarimas Nr. 30 „Dėl Lietuvos Respublikos Vyriausybės 2001 m. rugsėjo 25 d. nutarimo Nr. 1156 „Dėl Valstybinės duomenų apsaugos inspekcijos struktūrinės reformos, įgaliojimų suteikimo, Valstybinės duomenų apsaugos inspekcijos nuostatų patvirtinimo ir su tuo susijusių Lietuvos Respublikos Vyriausybės nutarimų dalinio pakeitimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "7",
+  "official_journal_page": null,
+  "official_journal_date": "2010-01-19",
+  "entry_into_force": "2010-01-20",
+  "notification_date": "2015-03-06",
+  "commission_reference": "MNE(2015)51044",
+  "nim_celex": "72009D0371LTU_223828",
+  "nim_id": "223828",
+  "transposes_celex": [
+    "32009D0371"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8d56dfcc-6325-11e7-b2f2-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
