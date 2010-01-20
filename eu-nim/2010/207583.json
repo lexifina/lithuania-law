@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2010 m. sausio 12 d. nutarimas Nr. 7 \"Dėl Lietuvos Respublikos Vyriausybės 2008 m. spalio 8 d. nutarimo Nr. 1023 \"Dėl Prekių, kurioms viešųjų pirkimų metu taikomi energijos vartojimo efektyvumo reikalavimai, ir šių prekių energijos vartojimo efektyvumo reikalavimų sąrašo patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "7",
+  "official_journal_page": null,
+  "official_journal_date": "2010-01-19",
+  "entry_into_force": "2010-01-20",
+  "notification_date": "2013-07-11",
+  "commission_reference": "MNE(2013)56616",
+  "nim_celex": "72006L0032LTU_207583",
+  "nim_id": "207583",
+  "transposes_celex": [
+    "32006L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1968cc06-c832-4abc-9d76-a28ca4b08726",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
