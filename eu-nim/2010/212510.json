@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo pakeitimo įstatymas Nr. XI-642",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "12",
+  "official_journal_page": null,
+  "official_journal_date": "2010-01-30",
+  "entry_into_force": "2010-01-30",
+  "notification_date": "2014-01-15",
+  "commission_reference": "MNE(2014)50290",
+  "nim_celex": "72013L0009LTU_212510",
+  "nim_id": "212510",
+  "transposes_celex": [
+    "32013L0009"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c2d23979-532c-457c-8080-a3686918c21c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
