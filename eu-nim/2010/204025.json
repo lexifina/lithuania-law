@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2010 m. vasario 10 d. nutarimas Nr. 102 „Dėl Lietuvos Respublikos Vyriausybės 1999 m. spalio 22 d. nutarimo Nr. 1175 „Dėl informacijos apie aplinką Lietuvos Respublikoje teikimo visuomenei tvarkos aprašo patvirtinimo“ pakeitimo",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "19",
+  "official_journal_page": null,
+  "official_journal_date": "2010-02-13",
+  "entry_into_force": "2010-02-14",
+  "notification_date": "2013-05-10",
+  "commission_reference": "MNE(2013)53451",
+  "nim_celex": "72010L0075LTU_204025",
+  "nim_id": "204025",
+  "transposes_celex": [
+    "32010L0075"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d0040fce-78c8-4ec3-bce7-9a7240421a21",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
