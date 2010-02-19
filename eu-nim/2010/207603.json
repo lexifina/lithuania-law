@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2010 m. vasario 11 d. įsakymas Nr. 1-38 \"Dėl Elektros energijos tiekimo ir naudojimo taisyklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "20",
+  "official_journal_page": null,
+  "official_journal_date": "2010-02-18",
+  "entry_into_force": "2010-02-19",
+  "notification_date": "2013-07-12",
+  "commission_reference": "MNE(2013)56636",
+  "nim_celex": "72006L0032LTU_207603",
+  "nim_id": "207603",
+  "transposes_celex": [
+    "32006L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/40b399b8-34cc-419d-b759-21438d0849ba",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
