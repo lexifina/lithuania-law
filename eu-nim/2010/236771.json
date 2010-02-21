@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Dėl Lietuvos Respublikos Vyriausybės 2006 m. liepos 4 d. nutarimo Nr. 674 \"Dėl Bandymų laboratorijų, sertifikacijos ir kontrolės įstaigų paskyrimo ir paskelbimo (notifikavimo) taisyklių patvirtinimo\" pakeitimo",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "21",
+  "official_journal_page": null,
+  "official_journal_date": "2010-02-20",
+  "entry_into_force": "2010-02-21",
+  "notification_date": "2016-04-21",
+  "commission_reference": "MNE(2016)52565",
+  "nim_celex": "72014L0030LTU_236771",
+  "nim_id": "236771",
+  "transposes_celex": [
+    "32014L0030"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c7b57bf3-0854-4610-a4a1-eb61f07e4f42",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
