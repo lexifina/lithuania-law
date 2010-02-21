@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2010 m. vasario 10 d. nutarimas Nr. 144 „Dėl Lietuvos Respublikos Vyriausybės 2006 m. liepos 4 d. nutarimo Nr. 674 „Dėl bandymų laboratorijų, sertifikacijos ir kontrolės įstaigų paskyrimo ir paskelbimo (notifikavimo) taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "21",
+  "official_journal_page": null,
+  "official_journal_date": "2010-02-20",
+  "entry_into_force": "2010-02-21",
+  "notification_date": "2016-03-30",
+  "commission_reference": "MNE(2016)51958",
+  "nim_celex": "72014L0029LTU_235922",
+  "nim_id": "235922",
+  "transposes_celex": [
+    "32014L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/202c09cf-e80f-466f-9ebe-c66a5223604a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
