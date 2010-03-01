@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo pakeitimo įstatymas Nr. XI-499",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "145",
+  "official_journal_page": null,
+  "official_journal_date": "2009-12-08",
+  "entry_into_force": "2010-03-01",
+  "notification_date": "2013-04-30",
+  "commission_reference": "MNE(2013)53175",
+  "nim_celex": "72011L0036LTU_203690",
+  "nim_id": "203690",
+  "transposes_celex": [
+    "32011L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/962d420e-320f-4435-9a61-8d5bb55acd62",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
