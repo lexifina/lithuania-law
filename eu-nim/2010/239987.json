@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos akcinių bendrovių įstatymo 2, 4, 7, 10, 11, 12, 14, 17, 18, 26, 26(1), 32, 34, 35, 37, 41, 45, 47, 48, 53, 57, 62, 63, 65, 72, 73, 74, 75, 77, 78 straipsnių pakeitimo ir papildymo ir Įstatymo papildymo 41(1) straipsniu įstatymas Nr. XI-564",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "154",
+  "official_journal_page": null,
+  "official_journal_date": "2009-12-28",
+  "entry_into_force": "2010-03-01",
+  "notification_date": "2016-08-19",
+  "commission_reference": "MNE(2016)55275",
+  "nim_celex": "72012L0030LTU_239987",
+  "nim_id": "239987",
+  "transposes_celex": [
+    "32012L0030"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/79ee706d-6ef6-447a-b2c9-81ef64197242",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
