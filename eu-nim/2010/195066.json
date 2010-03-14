@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2010 m. kovo 5 d. įsakymas Nr. 1-80 \"Dėl Energetikos įrenginių avarijų ir sutrikimų tyrimo ir apskaitos nuostatų patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "29",
+  "official_journal_page": null,
+  "official_journal_date": "2010-03-13",
+  "entry_into_force": "2010-03-14",
+  "notification_date": "2012-08-22",
+  "commission_reference": "MNE(2012)53839",
+  "nim_celex": "72009L0072LTU_195066",
+  "nim_id": "195066",
+  "transposes_celex": [
+    "32009L0072"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e684c20f-9e22-48a8-9b2e-1e08453bd4b1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
