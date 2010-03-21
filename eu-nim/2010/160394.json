@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2009 m. sausio 19 d. įsakymas Nr. V-18 'Dėl Lietuvos medicinos normos MN 4:2009 'Medicinos prietaisų saugos techninis reglamentas' ir Lietuvos medicinos normos MN 100:2009 'Aktyviųjų implantuojamųjų medicinos prietaisų saugos techninis reglamentas' patvirtinimo",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "13",
+  "official_journal_page": null,
+  "official_journal_date": "2009-02-03",
+  "entry_into_force": "2010-03-21",
+  "notification_date": "2009-02-20",
+  "commission_reference": "MNE(2009)50559",
+  "nim_celex": "72007L0047LTU_160394",
+  "nim_id": "160394",
+  "transposes_celex": [
+    "32007L0047",
+    "32011L0024",
+    "32011L0065"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/19621f85-f757-4bc5-a598-ef62fd44fe01",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
