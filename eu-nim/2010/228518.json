@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2010 m. kovo 10 d. nutarimas Nr. 278 \"Dėl Lietuvos Respublikos Vyriausybės 2004 m. gegužės 19 d. nutarimo Nr. 611 \"Dėl Viešosios geležinkelių infrastruktūros pajėgumų skyrimo taisyklių patvirtinimo\" pakeitimo",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "33",
+  "official_journal_page": null,
+  "official_journal_date": "2010-03-23",
+  "entry_into_force": "2010-03-24",
+  "notification_date": "2015-07-28",
+  "commission_reference": "MNE(2015)55389",
+  "nim_celex": "72012L0034LTU_228518",
+  "nim_id": "228518",
+  "transposes_celex": [
+    "32012L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/948d9404-55c3-4f8e-bca5-77c898abd82b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
