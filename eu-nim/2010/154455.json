@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro ir Lietuvos Respublikos sveikatos apsaugos ministro 2007 m. gruodžio 14 d. įsakymas Nr.A1-366/V-1025 „Dėl darbuotojų apsaugos nuo dirbtinės optinės spinduliuotės keliamos rizikos nuostatų patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "136",
+  "official_journal_page": null,
+  "official_journal_date": "2007-12-22",
+  "entry_into_force": "2010-04-01",
+  "notification_date": "2008-03-13",
+  "commission_reference": "MNE(2008)51712",
+  "nim_celex": "72006L0025LTU_154455",
+  "nim_id": "154455",
+  "transposes_celex": [
+    "32006L0025"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e3b9f17a-abf9-4cc1-8988-76f192be5ad0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
