@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2010 m. balandžio 2 d. įsakymas Nr. 3-202 \"Dėl Lietuvos Respublikos susisiekimo ministro 2001 m. gruodžio 29 d. įsakymo Nr. 480 \"Dėl Laivų įrenginių sertifikavimo nuostatų patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "44",
+  "official_journal_page": null,
+  "official_journal_date": "2010-04-17",
+  "entry_into_force": "2010-04-18",
+  "notification_date": "2014-11-10",
+  "commission_reference": "MNE(2014)55864",
+  "nim_celex": "72013L0052LTU_220452",
+  "nim_id": "220452",
+  "transposes_celex": [
+    "32013L0052"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fdcf515a-426d-44d0-9266-1ec4cd1f3b77",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
