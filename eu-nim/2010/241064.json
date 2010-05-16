@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2010 m. gegužės 10 d. įsakymas Nr. 1-139 \"Dėl teisės rengti Energijos vartojimo pastatuose auditą atliekančių specialistų mokymo kursus suteikimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "56",
+  "official_journal_page": null,
+  "official_journal_date": "2010-05-15",
+  "entry_into_force": "2010-05-16",
+  "notification_date": "2016-10-10",
+  "commission_reference": "MNE(2016)56061",
+  "nim_celex": "72012L0027LTU_241064",
+  "nim_id": "241064",
+  "transposes_celex": [
+    "32012L0027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/61948e83-5643-454f-b54d-aac9c7f4b866",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
