@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2010 m. gegužės 4 d. nutarimas Nr. 535 „Dėl Lietuvos kvalifikacijų sandaros aprašo patvirtinimo“ (Suvestinė redakcija nuo 2011-08-31)",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "56-2761",
+  "official_journal_page": null,
+  "official_journal_date": "2010-05-15",
+  "entry_into_force": "2010-05-16",
+  "notification_date": "2018-10-29",
+  "commission_reference": "MNE(2018)55753",
+  "nim_celex": "72018L0645LTU_264524",
+  "nim_id": "264524",
+  "transposes_celex": [
+    "32018L0645"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6262426a-549d-40a7-978b-16c7de521410",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
