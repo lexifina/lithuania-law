@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės vartotojų teisių apsaugos tarnybos direktoriaus 2010 m. gegužės 14 d. Įsakymas Nr. 1-62 „Dėl Skubaus keitimosi informacija apie pavojingus vartotojams gaminius taisyklių patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "58",
+  "official_journal_page": null,
+  "official_journal_date": "2010-05-20",
+  "entry_into_force": "2010-05-21",
+  "notification_date": "2017-01-19",
+  "commission_reference": "MNE(2017)50460",
+  "nim_celex": "72014L0028LTU_244430",
+  "nim_id": "244430",
+  "transposes_celex": [
+    "32014L0028"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1b6e1014-4d07-41cd-8990-eca338dbea43",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
