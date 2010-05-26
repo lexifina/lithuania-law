@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2010 m. gegužės 19 d. įsakymas Nr. 3-331 \"Dėl Lietuvos Respublikos susisiekimo ministro 2006 m. liepos 17 d. įsakymo Nr. 3-297 \"Dėl Reikalavimų geležinkelių transporto eismo saugos valdymo sistemoms patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "60",
+  "official_journal_page": null,
+  "official_journal_date": "2010-05-25",
+  "entry_into_force": "2010-05-26",
+  "notification_date": "2015-07-13",
+  "commission_reference": "MNE(2015)54602",
+  "nim_celex": "72014L0082LTU_227642",
+  "nim_id": "227642",
+  "transposes_celex": [
+    "32014L0082"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1f4ab1cf-c85a-4dbc-a0a7-e814e6cd719c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
