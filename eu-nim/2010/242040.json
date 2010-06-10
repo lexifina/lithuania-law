@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos profesinio mokymo įstatymo 2, 6, 10, 11, 12, 13, 14, 18, 19, 21, 22, 23, 24, 27, 28, 31, 33 straipsnių pakeitimo ir papildymo, Įstatymo papildymo 12-1 straipsniu ir 26 straipsnio pripažinimo netekusiu galios įstatymas Nr. XI-839",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "Nr. 67-3338",
+  "official_journal_page": null,
+  "official_journal_date": "2010-06-10",
+  "entry_into_force": "2010-06-10",
+  "notification_date": "2016-11-16",
+  "commission_reference": "MNE(2016)56816",
+  "nim_celex": "72014L0054LTU_242040",
+  "nim_id": "242040",
+  "transposes_celex": [
+    "32014L0054"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9ec76d80-875b-493f-99a3-cc21b54f095a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
