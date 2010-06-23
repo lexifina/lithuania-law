@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2010 m. birželio 16 d. nutarimas Nr. 743 „Dėl Lietuvos Respublikos Vyriausybės 2004 m. lapkričio 22 d. nutarimo Nr. 1468 „Dėl Lietuvos Respublikos geležinkelių riedmenų ir konteinerių registro įsteigimo, jo nuostatų patvirtinimo ir veiklos pradžios nustatymo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "72",
+  "official_journal_page": null,
+  "official_journal_date": "2010-06-22",
+  "entry_into_force": "2010-06-23",
+  "notification_date": "2012-06-25",
+  "commission_reference": "MNE(2012)52794",
+  "nim_celex": "72004L0049LTU_191905",
+  "nim_id": "191905",
+  "transposes_celex": [
+    "32004L0049"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/abeb3c81-6e3d-4471-9ec3-cc1fa5d6b1c9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
