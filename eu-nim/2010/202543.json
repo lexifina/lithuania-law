@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo kodekso 95 straipsnio pakeitimo bei papildymo, kodekso papildymo 170(2) straipsniu ir kodekso priedo papildymo įstatymas Nr. XI-901",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "75",
+  "official_journal_page": null,
+  "official_journal_date": "2010-06-29",
+  "entry_into_force": "2010-06-29",
+  "notification_date": "2013-04-18",
+  "commission_reference": "MNE(2013)52252",
+  "nim_celex": "72008F0913LTU_202543",
+  "nim_id": "202543",
+  "transposes_celex": [
+    "32008F0913",
+    "32011L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3c6414ce-54ce-409a-bcfe-023dcf46b219",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
