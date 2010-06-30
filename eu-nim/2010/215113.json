@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos policijos generalinio komisaro 2010 m. birželio 30 d. įsakymas Nr. 5-V-546 „Dėl laikinųjų pranešimų policijai, teikiamų elektroniniu būdu, duomenų tvarkymo taisyklių patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Administracinės priemonės",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2010-06-30",
+  "entry_into_force": "2010-06-30",
+  "notification_date": "2014-04-09",
+  "commission_reference": "MNE(2014)52346",
+  "nim_celex": "72013L0040LTU_215113",
+  "nim_id": "215113",
+  "transposes_celex": [
+    "32013L0040"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cb0051b3-8754-4fe1-b873-3a8e1863e8fb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
