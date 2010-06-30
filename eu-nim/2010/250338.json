@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės atominės energetikos saugos inspekcijos viršininko 2010 m. birželio 21 d. įsakymas Nr. 22.3-56 „Dėl Branduolinės saugos reikalavimų BSR-1.4.1-2016 „Vadybos sistema“ patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "75",
+  "official_journal_page": null,
+  "official_journal_date": "2010-06-29",
+  "entry_into_force": "2010-06-30",
+  "notification_date": "2017-08-29",
+  "commission_reference": "MNE(2017)54728",
+  "nim_celex": "72014L0087LTU_250338",
+  "nim_id": "250338",
+  "transposes_celex": [
+    "32014L0087"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/50408415-6fe0-430a-a8f7-03d783be69fa",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
