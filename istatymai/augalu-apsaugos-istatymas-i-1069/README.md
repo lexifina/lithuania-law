@@ -14,3 +14,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2001-06-06 | 2001-12-31 | Įstatymas Nr. IX-320 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/2e38720d0294eeb2bf68e0f3f819c8f58be4ffe2/istatymai/TAR.AD44354DA25E.md) |
 | 2002-01-01 | 2004-04-30 | Įstatymas Nr. IX-635 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/4e1d45c7540290deba7b1bcfcc2c4ad5c3caf48c/istatymai/TAR.AD44354DA25E.md) |
 | 2004-05-01 | 2010-06-30 | Įstatymas Nr. IX-1761 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/a4643ae4db63cc67ee6a1f772d84e9ecb5b68d99/istatymai/TAR.AD44354DA25E.md) |
+| 2010-07-01 | 2012-06-30 | Įstatymas Nr. XI-652 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/1bcb1dba55481912cf2a51af4733f9101561c8ba/istatymai/TAR.AD44354DA25E.md) |
