@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2008-06-07 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/6469afc2c1b6c544cc4ab0bbca59658cab683805/istatymai/TAR.D64349B259B7.md) |
+| 2010-07-01 | 2023-06-30 | Įstatymas Nr. XI-750 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/6ed957be5e346c17648aa94a67a15fa872de4f32/istatymai/TAR.D64349B259B7.md) |
