@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2010 m. birželio 21 d. nutarimas Nr. 875 „Dėl Lietuvos Respublikos Vyriausybės 2009 m. gegužės 27 d. nutarimo Nr. 480 „Dėl Valstybės paskolų ir valstybės remiamų paskolų studentams suteikimo, administravimo ir grąžinimo tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "77",
+  "official_journal_page": null,
+  "official_journal_date": "2010-06-30",
+  "entry_into_force": "2010-07-01",
+  "notification_date": "2017-01-31",
+  "commission_reference": "MNE(2017)50834",
+  "nim_celex": "72014L0036LTU_244894",
+  "nim_id": "244894",
+  "transposes_celex": [
+    "32014L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/21fbdc6a-0d44-49be-be34-3bba9838da2a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
