@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2009 m. gruodžio 16 d. nutarimas Nr. 1721 \"Dėl Lietuvos Respublikos Vyriausybės 2003 m. balandžio 18 d. nutarimo Nr. 480 \"Dėl Bendrųjų reikalavimų valstybės ir savivaldybių institucijų ir įstaigų interneto svetainėms aprašo patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "154",
+  "official_journal_page": null,
+  "official_journal_date": "2015-01-01",
+  "entry_into_force": "2010-07-01",
+  "notification_date": "2017-01-31",
+  "commission_reference": "MNE(2017)50620",
+  "nim_celex": "72014L0036LTU_244649",
+  "nim_id": "244649",
+  "transposes_celex": [
+    "32014L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7d1cfb61-1cbd-413c-85ba-70d4b0768b92",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
