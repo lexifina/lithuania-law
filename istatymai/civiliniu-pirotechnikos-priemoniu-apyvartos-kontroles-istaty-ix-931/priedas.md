@@ -1,5 +1,6 @@
 # RESPUBLIKOS PREZIDENTAS VALDAS ADAMKUS
-Lietuvos Respublikos
-civilinių pirotechnikos priemonių apyvartos kontrolės įstatymo priedas
-ĮGYVENDINAMAS EUROPOS SĄJUNGOS TEISĖS AKTAS
-1996 m. gruodžio 9 d. Tarybos direktyva 96/82/EB dėl didelių su pavojingomis medžiagomis susijusių avarijų pavojaus kontrolės.
+Lietuvos Respublikos civilinių pirotechnikos
+priemonių apyvartos kontrolės įstatymo
+priedas
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+1. 2007 m. gegužės 23 d. Europos Parlamento ir Tarybos direktyva 2007/23/EB dėl pirotechnikos gaminių pateikimo į rinką (OL 2007 L 154, p. 1).
