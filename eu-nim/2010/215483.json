@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo 3, 13 ir 19 straipsnių pakeitimo įstatymas Nr. XI-640",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "1",
+  "official_journal_page": null,
+  "official_journal_date": "2010-01-05",
+  "entry_into_force": "2010-07-01",
+  "notification_date": "2014-04-30",
+  "commission_reference": "MNE(2014)52599",
+  "nim_celex": "72011L0098LTU_215483",
+  "nim_id": "215483",
+  "transposes_celex": [
+    "32011L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6c922e5f-23ac-4b73-9a62-6b62ca36a8cc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
