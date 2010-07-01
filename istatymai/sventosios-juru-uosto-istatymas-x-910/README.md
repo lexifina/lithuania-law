@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2007-03-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/3a06b90256a71575abe8819aacd45a2252c87dff/istatymai/TAR.74D8B260CB90.md) |
+| 2010-07-01 | 2010-12-27 | Įstatymas Nr. XI-716 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/4be84830e21ccc74c9108df2fa166c8c8d750184/istatymai/TAR.74D8B260CB90.md) |
