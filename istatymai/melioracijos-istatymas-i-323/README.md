@@ -15,3 +15,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2002-04-01 | 2004-02-20 | Įstatymas Nr. IX-634 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/872f3f24ca9b84ae9733a2ff464650502e97ba46/istatymai/TAR.D0429A864011.md) |
 | 2004-02-21 | 2010-05-10 | Įstatymas Nr. IX-2009 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/7c9c13c33a397e4573ddf8baa01bcd2e07717343/istatymai/TAR.D0429A864011.md) |
 | 2010-05-11 | 2010-06-30 | Įstatymas Nr. XI-787 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/33085e7a504c55478521b2530331e70b6f116d8b/istatymai/TAR.D0429A864011.md) |
+| 2010-07-01 | 2020-12-31 | Įstatymas Nr. XI-787 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/90eb664f3c3e4c4c6310a2597059d247ed547954/istatymai/TAR.D0429A864011.md) |
