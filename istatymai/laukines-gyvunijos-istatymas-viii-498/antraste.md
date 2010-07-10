@@ -1,5 +1,3 @@
-LAUKINĖS GYVŪNIJOS
-Į S T A T Y M A S
 1997 m. lapkričio 6 d. Nr. VIII-498
 Vilnius
 PIRMASIS SKIRSNIS
