@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos viešojo administravimo įstatymo 1, 2, 9, 43 straipsnių pakeitimo ir papildymo, Įstatymo papildymo nauju ketvirtuoju skirsniu ir 9-1 straipsnio pripažinimo netekusiu galios įstatymas Nr. XI-934",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "81",
+  "official_journal_page": null,
+  "official_journal_date": "2010-07-10",
+  "entry_into_force": "2010-07-10",
+  "notification_date": "2016-05-17",
+  "commission_reference": "MNE(2016)53221",
+  "nim_celex": "72013L0053LTU_237553",
+  "nim_id": "237553",
+  "transposes_celex": [
+    "32013L0053"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/af00424d-11b5-4ff4-af0c-e0937a8aa141",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
