@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2010 m. liepos 7 d. įsakymas Nr. 3D-626 „Dėl žemės ūkio ministro 1999 m. spalio 7 d. įsakymo Nr. 383 „Dėl Privalomųjų rinkai tiekiamos sodo augalų dauginamosios medžiagos ir sodo augalų reikalavimų aprašo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "82-4359",
+  "official_journal_page": null,
+  "official_journal_date": "2010-07-12",
+  "entry_into_force": "2010-07-13",
+  "notification_date": "2021-02-03",
+  "commission_reference": "MNE(2021)00589",
+  "nim_celex": "71993L0048LTU_202100589",
+  "nim_id": "202100589",
+  "transposes_celex": [
+    "31993L0048"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0378501a-3d85-4334-a11e-06c9df36c20a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
