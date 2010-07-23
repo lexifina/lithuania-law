@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2010 m. liepos 14 d. įsakymas Nr. 3D-655 \"Dėl žemės ūkio ministro 2001 m. birželio 19 d. įsakymo Nr. 3D-199 \"Dėl Purkštuvų tikrinimo taisyklių patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "87",
+  "official_journal_page": null,
+  "official_journal_date": "2010-07-22",
+  "entry_into_force": "2010-07-23",
+  "notification_date": "2012-05-30",
+  "commission_reference": "MNE(2012)52507",
+  "nim_celex": "72009L0128LTU_191088",
+  "nim_id": "191088",
+  "transposes_celex": [
+    "32009L0128"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/57771995-800a-4010-a638-89f01f1bb9d9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
