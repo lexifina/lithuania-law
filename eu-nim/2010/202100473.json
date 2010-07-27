@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2010 m. liepos 15 d. įsakymas Nr. 3D-657 „Dėl žemės ūkio ministro 2004 m. gruodžio 30 d. įsakymo Nr. 3D-692 „Dėl Nacionalinio augalų veislių sąrašo sudarymo ir tvarkymo nuostatų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "89-4713",
+  "official_journal_page": null,
+  "official_journal_date": "2010-07-26",
+  "entry_into_force": "2010-07-27",
+  "notification_date": "2021-02-01",
+  "commission_reference": "MNE(2021)00473",
+  "nim_celex": "72002L0053LTU_202100473",
+  "nim_id": "202100473",
+  "transposes_celex": [
+    "32002L0053"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/81b1d9fc-ed91-478f-bb61-844eceb45419",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
