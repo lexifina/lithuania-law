@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2010 m. liepos 21 d. nutarimas Nr. 1113 \"Dėl Lietuvos Respublikos Vyriausybės 2003 m. lapkričio 12 d. nutarimo Nr. 1407 \"Dėl juridinių asmenų registro įsteigimo ir juridinių asmenų registro nuostatų patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "90",
+  "official_journal_page": null,
+  "official_journal_date": "2010-07-29",
+  "entry_into_force": "2010-07-30",
+  "notification_date": "2014-07-09",
+  "commission_reference": "MNE(2014)54163",
+  "nim_celex": "72012L0017LTU_218191",
+  "nim_id": "218191",
+  "transposes_celex": [
+    "32012L0017"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/eff1df50-af6b-4260-ac58-bd900595bf08",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
