@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės atominės energetikos saugos inspekcijos viršininko 2010 m. liepos 21 d. įsakymas Nr. 22.3-59 „Dėl branduolinės saugos reikalavimų BSR-3.1.1-2010 „Bendrieji reikalavimai panaudoto branduolinio kuro sausojo tipo saugyklai“ patvirtinimo“ (Suvestinė redakcija nuo 2018-11-01)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "91",
+  "official_journal_page": null,
+  "official_journal_date": "2010-07-31",
+  "entry_into_force": "2010-08-01",
+  "notification_date": "2018-12-10",
+  "commission_reference": "MNE(2018)56535",
+  "nim_celex": "72013L0059LTU_265728",
+  "nim_id": "265728",
+  "transposes_celex": [
+    "32013L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/86808cc3-a8ec-40d9-84fc-19ccf55ab26b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
