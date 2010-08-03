@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2010 m. liepos 29 d. įsakymas Nr. 3D-698 „Dėl Lietuvos Respublikos žemės ūkio ministro 2000 m. rugsėjo 29 d. įsakymo Nr. 275 „Dėl Privalomųjų rinkai tiekiamos runkelių sėklos kokybės reikalavimų aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "92-4869",
+  "official_journal_page": null,
+  "official_journal_date": "2010-08-02",
+  "entry_into_force": "2010-08-03",
+  "notification_date": "2021-02-01",
+  "commission_reference": "MNE(2021)00500",
+  "nim_celex": "71998L0096LTU_202100500",
+  "nim_id": "202100500",
+  "transposes_celex": [
+    "31998L0096"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f9bdda50-80f5-4ce7-a917-0ca91557b208",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
