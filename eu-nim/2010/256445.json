@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2010 m. rugpjūčio 4 d. įsakymas Nr. 3D-706 „Dėl Žemės ūkio ministro 2000 m. gruodžio 29 d. įsakymo Nr. 381 „Dėl Privalomųjų aliejinių ir pluoštinių augalų sėklos kokybės reikalavimų aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "96-4994",
+  "official_journal_page": null,
+  "official_journal_date": "2010-08-12",
+  "entry_into_force": "2010-08-13",
+  "notification_date": "2018-03-20",
+  "commission_reference": "MNE(2018)51215",
+  "nim_celex": "71998L0096LTU_256445",
+  "nim_id": "256445",
+  "transposes_celex": [
+    "31998L0096"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/647c33b4-6c01-4ebf-9189-8387e1c00075",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
