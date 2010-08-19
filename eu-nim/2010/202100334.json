@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2010 m. rugpjūčio 16 d. įsakymas Nr. 3-506 „Dėl Nacionalinių geležinkelių transporto eismo saugos taisyklių sąrašo patvirtinimo“ (Suvestinė redakcija nuo 2015-09-01)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "99-5154",
+  "official_journal_page": null,
+  "official_journal_date": "2010-08-18",
+  "entry_into_force": "2010-08-19",
+  "notification_date": "2021-02-01",
+  "commission_reference": "MNE(2021)00334",
+  "nim_celex": "72016L0798LTU_202100334",
+  "nim_id": "202100334",
+  "transposes_celex": [
+    "32016L0798"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cedd30e6-afae-44cb-83a6-813d13a485db",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
