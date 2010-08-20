@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2010 m. rugpjūčio 10 d. įsakymas Nr. 3D-730 \"Dėl žemės ūkio ministro 2002 m. liepos 12 d. įsakymo Nr. 266 \"Dėl dauginamosios medžiagos tiekėjų atestacijos tvarkos aprašo patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "99",
+  "official_journal_page": null,
+  "official_journal_date": "2010-08-19",
+  "entry_into_force": "2010-08-20",
+  "notification_date": "2016-12-29",
+  "commission_reference": "MNE(2016)57891",
+  "nim_celex": "72014L0097LTU_243785",
+  "nim_id": "243785",
+  "transposes_celex": [
+    "32014L0097"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5ae95a1c-3cc6-46d0-8fa7-23741c09c48e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
