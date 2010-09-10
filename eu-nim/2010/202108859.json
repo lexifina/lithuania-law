@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos viršininko ir Muitinės departamento prie Lietuvos Respublikos finansų ministerijos generalinio direktoriaus 2010 m. rugsėjo 3 d. įsakymas Nr. VA-97/1B-553 „Dėl Akcizais apmokestinamų prekių, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, gabenimo tais atvejais, kai neveikia Valstybinės mokesčių inspekcijos akcizų informacinė sistema ir (arba) Muitinės deklaracijų apdorojimo sistema, taisyklių patvirtinimo“ (suvestinė redakcija nuo 2017-02-01)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "106-5502",
+  "official_journal_page": null,
+  "official_journal_date": "2010-09-09",
+  "entry_into_force": "2010-09-10",
+  "notification_date": "2022-03-21",
+  "commission_reference": "MNE(2021)08859",
+  "nim_celex": "72020L0262LTU_202108859",
+  "nim_id": "202108859",
+  "transposes_celex": [
+    "32020L0262"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/26dbd5b3-ac13-11ec-83e1-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
