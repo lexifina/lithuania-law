@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės kelių transporto inspekcijos prie Susisiekimo ministerijos viršininko 2010 m. rugsėjo 10 d. įsakymas Nr. 2B-408 „Dėl Techninės apžiūros kontrolierių mokymo ir žinių įvertinimo tvarkos aprašo patvirtinimo“ (Suvestinė redakcija nuo 2018-05-20)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "109-5619",
+  "official_journal_page": null,
+  "official_journal_date": "2010-09-16",
+  "entry_into_force": "2010-09-17",
+  "notification_date": "2018-11-12",
+  "commission_reference": "MNE(2018)56000",
+  "nim_celex": "72014L0045LTU_264958",
+  "nim_id": "264958",
+  "transposes_celex": [
+    "32014L0045"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2f3d17eb-d337-48b8-9f26-ca8b8ea5660e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
