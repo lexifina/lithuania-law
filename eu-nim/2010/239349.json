@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2010 m. gegužės 26 d. įsakymas Nr. A1-207 „Dėl Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2006 m. lapkričio 13 d. įsakymo Nr. A1-306 „Dėl Lietuvos Darbo biržos prie Socialinės apsaugos ir darbo ministerijos nuostatų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "62",
+  "official_journal_page": null,
+  "official_journal_date": "2010-05-29",
+  "entry_into_force": "2010-10-01",
+  "notification_date": "2016-07-13",
+  "commission_reference": "MNE(2016)54805",
+  "nim_celex": "72014L0054LTU_239349",
+  "nim_id": "239349",
+  "transposes_celex": [
+    "32014L0054"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d139cbfd-f78a-4193-a282-ec7dfd04251d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
