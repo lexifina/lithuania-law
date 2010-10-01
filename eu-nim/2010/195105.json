@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos statybos įstatymo 1, 2, 3, 5, 6, 12, 16, 20, 21, 23, 24, 27, 28, 33, 35, 40, 42, 45 straipsnių pakeitimo ir papildymo, šeštojo skirsnio pavadinimo pakeitimo, 23(1) straipsnio pripažinimo netekusiu galios ir Įstatymo papildymo 28(1) straipsniu, keturioliktuoju skirsniu ir 1 priedu įstatymas Nr. XI-992",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "84",
+  "official_journal_page": null,
+  "official_journal_date": "2010-07-15",
+  "entry_into_force": "2010-10-01",
+  "notification_date": "2012-08-22",
+  "commission_reference": "MNE(2012)53878",
+  "nim_celex": "72010L0031LTU_195105",
+  "nim_id": "195105",
+  "transposes_celex": [
+    "32010L0031"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/76c8651c-c411-40c5-85ef-8a135cab7ae9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
