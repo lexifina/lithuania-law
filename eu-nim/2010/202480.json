@@ -1,0 +1,28 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo proceso kodekso papildymo 3(1) straipsniu ir 18, 21, 38, 55, 64, 78, 81, 102, 112, 121, 125, 134, 135, 136, 137, 142, 151, 157, 168, 170, 176, 178, 181, 342, 348, 389, 418, 440 straipsnių pakeitimo ir papildymo įstatymas Nr. XI-1014",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "113",
+  "official_journal_page": null,
+  "official_journal_date": "2010-09-25",
+  "entry_into_force": "2010-10-01",
+  "notification_date": "2013-04-18",
+  "commission_reference": "MNE(2013)52190",
+  "nim_celex": "72001F0220LTU_202480",
+  "nim_id": "202480",
+  "transposes_celex": [
+    "32001F0220",
+    "32008F0909",
+    "32010L0064",
+    "32011L0036",
+    "32011L0099",
+    "32012L0013",
+    "32012L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/15a620c0-a751-49da-9065-7638f145ce7c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
