@@ -15,3 +15,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2009-08-01 | 2009-12-27 | Įstatymas Nr. XI-345 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22HxiTQBDqbC%22) |
 | 2009-12-28 | 2009-12-31 | Įstatymas Nr. XI-641 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22wPoZYKOqDn%22) |
 | 2010-01-01 | 2010-10-01 | Įstatymas Nr. XI-641 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22mTVkoPZqMB%22) |
+| 2010-10-02 | 2012-02-06 | Įstatymas Nr. IX-2307 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22DfzwUSwJKL%22) |
