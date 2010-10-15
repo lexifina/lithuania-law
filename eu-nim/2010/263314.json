@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2010 m. spalio 8 d. įsakymas Nr. 3D-903 „Dėl žemės ūkio ministro 2003 m. birželio 30 d. įsakymo Nr. 3D-263 „Dėl Augalo pasą ir saugomas zonas reglamentuojančių taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "122-6214",
+  "official_journal_page": null,
+  "official_journal_date": "2010-10-14",
+  "entry_into_force": "2010-10-15",
+  "notification_date": "2018-09-19",
+  "commission_reference": "MNE(2018)55163",
+  "nim_celex": "72018L0484LTU_263314",
+  "nim_id": "263314",
+  "transposes_celex": [
+    "32018L0484"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8760b462-2e0f-4c04-8c5d-325653b9400b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
