@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės kainų ir energetikos kontrolės komisijos 2010 m. spalio 6 d. nutarimas Nr. O3-209 \"Dėl Gamtinių dujų perdavimo ir skirstymo kainų viršutinių ribų skaičiavimo metodikos dalinio pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "122",
+  "official_journal_page": null,
+  "official_journal_date": "2010-10-14",
+  "entry_into_force": "2010-10-15",
+  "notification_date": "2013-07-11",
+  "commission_reference": "MNE(2013)56631",
+  "nim_celex": "72006L0032LTU_207598",
+  "nim_id": "207598",
+  "transposes_celex": [
+    "32006L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/26b27ccb-fb9a-4fdc-94bf-01d4df921af7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
