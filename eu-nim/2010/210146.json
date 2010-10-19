@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2010 m. spalio 13 d. nutarimas Nr. 1443 „Dėl Lietuvos Respublikos Vyriausybės 1998 m. liepos 24 d. nutarimo Nr. 926 „Dėl Lietuvos Respublikos sveikatos apsaugos ministerijos nuostatų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "123",
+  "official_journal_page": null,
+  "official_journal_date": "2010-10-18",
+  "entry_into_force": "2010-10-19",
+  "notification_date": "2013-10-30",
+  "commission_reference": "MNE(2013)58620",
+  "nim_celex": "72011L0024LTU_210146",
+  "nim_id": "210146",
+  "transposes_celex": [
+    "32011L0024"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/447f8ef3-e22f-4f64-a9ad-09d52ff693e7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
