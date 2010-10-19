@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2010 m. spalio 13 d. nutarimas Nr. 1463 \"Dėl Lietuvos Respublikos Vyriausybės 1998 m. liepos 17 d. nutarimo Nr. 892 \"Dėl Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos nuostatų patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "123",
+  "official_journal_page": null,
+  "official_journal_date": "2010-10-18",
+  "entry_into_force": "2010-10-19",
+  "notification_date": "2015-11-25",
+  "commission_reference": "MNE(2015)58615",
+  "nim_celex": "72013L0033LTU_232022",
+  "nim_id": "232022",
+  "transposes_celex": [
+    "32013L0033"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5e215609-b780-4723-b8ac-997362ad3688",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
