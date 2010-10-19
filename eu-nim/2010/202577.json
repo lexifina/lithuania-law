@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2010 m. spalio 13 d. nutarimas Nr. 1465 „Dėl Lietuvos Respublikos Vyriausybės 2001 m. kovo 14 d. nutarimo Nr. 291 „Dėl Lietuvos Respublikos vidaus reikalų ministerijos nuostatų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "123",
+  "official_journal_page": null,
+  "official_journal_date": "2010-10-18",
+  "entry_into_force": "2010-10-19",
+  "notification_date": "2013-04-03",
+  "commission_reference": "MNE(2013)52284",
+  "nim_celex": "72011L0036LTU_202577",
+  "nim_id": "202577",
+  "transposes_celex": [
+    "32011L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e7f928fe-8e1c-4a98-bdd1-7c37a89cfe6b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
