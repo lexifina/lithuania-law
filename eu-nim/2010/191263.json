@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2010 m. spalio 13 d. nutarimas Nr. 1480 „Dėl Lietuvos Respublikos susisiekimo ministerijos nuostatų patvirtinimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "125",
+  "official_journal_page": null,
+  "official_journal_date": "2010-10-23",
+  "entry_into_force": "2010-10-24",
+  "notification_date": "2012-06-15",
+  "commission_reference": "MNE(2012)52635",
+  "nim_celex": "72004L0049LTU_191263",
+  "nim_id": "191263",
+  "transposes_celex": [
+    "32004L0049"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e6999501-1d47-428c-a703-0923b1136cd7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
