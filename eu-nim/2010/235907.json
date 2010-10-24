@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2010 m. spalio 13 d. nutarimas Nr. 1478 „Dėl Lietuvos Respublikos Vyriausybės 1998 m. liepos 23 d. nutarimo Nr. 921 \"Dėl Lietuvos Respublikos ūkio ministerijos nuostatų patvirtinimo\" pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "125",
+  "official_journal_page": null,
+  "official_journal_date": "2010-10-23",
+  "entry_into_force": "2010-10-24",
+  "notification_date": "2016-03-30",
+  "commission_reference": "MNE(2016)51943",
+  "nim_celex": "72014L0032LTU_235907",
+  "nim_id": "235907",
+  "transposes_celex": [
+    "32014L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9f12e525-fa91-4e24-b7e6-3166f6c31558",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
