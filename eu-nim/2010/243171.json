@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2010 m. spalio 25 d. įsakymas Nr. 1-297 „Dėl šilumos tiekimo ir vartojimo taisyklių patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "127",
+  "official_journal_page": null,
+  "official_journal_date": "2015-01-01",
+  "entry_into_force": "2010-11-01",
+  "notification_date": "2016-12-06",
+  "commission_reference": "MNE(2016)57391",
+  "nim_celex": "72012L0027LTU_243171",
+  "nim_id": "243171",
+  "transposes_celex": [
+    "32012L0027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/316fd79d-84e7-4fd3-9f44-9380e3e97e5a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
