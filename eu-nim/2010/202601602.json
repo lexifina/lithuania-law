@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2010 m. spalio 25 d. įsakymas Nr. 1-297 „Dėl Šilumos tiekimo ir vartojimo taisyklių patvirtinimo“ (suvestinė redakcija nuo 2021-01-01)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "127-6488",
+  "official_journal_page": null,
+  "official_journal_date": "2010-10-28",
+  "entry_into_force": "2010-11-01",
+  "notification_date": "2026-03-12",
+  "commission_reference": "MNE(2026)01602",
+  "nim_celex": "72023L1791LTU_202601602",
+  "nim_id": "202601602",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b38d96f0-99bf-47a7-aae9-db5aa98dcba4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
