@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2010 m. lapkričio 5 d. įsakymas Nr. 3-654 „Dėl nacionalinės laivų eismo stebėsenos informacinės sistemos sukūrimo, įdiegimo ir priežiūros tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "135",
+  "official_journal_page": null,
+  "official_journal_date": "2010-11-18",
+  "entry_into_force": "2010-11-19",
+  "notification_date": "2015-10-26",
+  "commission_reference": "MNE(2015)57720",
+  "nim_celex": "72014L0100LTU_231098",
+  "nim_id": "231098",
+  "transposes_celex": [
+    "32014L0100"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a3c56481-c9d0-4196-bea6-ac4b8ad9939d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
