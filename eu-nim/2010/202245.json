@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių teisės pažeidimų kodekso 99(8) straipsnio pakeitimo įstatymas Nr. XI-1133",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "139",
+  "official_journal_page": null,
+  "official_journal_date": "2010-11-27",
+  "entry_into_force": "2010-11-27",
+  "notification_date": "2013-03-21",
+  "commission_reference": "MNE(2013)52020",
+  "nim_celex": "72009L0119LTU_202245",
+  "nim_id": "202245",
+  "transposes_celex": [
+    "32009L0119"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4e2eaf37-c733-454c-a447-bd3c1a2d6c9b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
