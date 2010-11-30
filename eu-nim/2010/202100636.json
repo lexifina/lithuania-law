@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2010 m. lapkričio 24 d. įsakymas Nr. 3D-1024 „Dėl žemės ūkio ministro 2001 m. birželio 29 d. įsakymo Nr. 224 „Dėl Privalomųjų rinkai tiekiamos daržovių sėklos kokybės reikalavimų aprašo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "140-7180",
+  "official_journal_page": null,
+  "official_journal_date": "2010-11-29",
+  "entry_into_force": "2010-11-30",
+  "notification_date": "2021-02-04",
+  "commission_reference": "MNE(2021)00636",
+  "nim_celex": "71988L0332LTU_202100636",
+  "nim_id": "202100636",
+  "transposes_celex": [
+    "31988L0332"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ef66af0d-5d8b-468a-8b2c-8a496ab7416e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
