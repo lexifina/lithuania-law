@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo kodekso 3, 67, 72, 190 straipsnių pakeitimo ir papildymo ir Kodekso papildymo 72(3), 189(1) straipsniais įstatymas Nr. XI-1199",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "145",
+  "official_journal_page": null,
+  "official_journal_date": "2010-12-11",
+  "entry_into_force": "2010-12-11",
+  "notification_date": "2013-12-04",
+  "commission_reference": "MNE(2013)59314",
+  "nim_celex": "72011L0093LTU_211044",
+  "nim_id": "211044",
+  "transposes_celex": [
+    "32011L0093"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6a00433d-d9b8-42e2-a15a-a52d60b6e88f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
