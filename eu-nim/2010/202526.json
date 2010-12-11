@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo proceso kodekso 91, 94, 151, 198, 199, 212, 216, 238, 254, 279, 283, 303, 327, 342, 357, 361, 421 straipsnių pakeitimo ir papildymo ir Kodekso papildymo 170(1), 199(1) straipsniais įstatymas Nr. XI-1200",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "145",
+  "official_journal_page": null,
+  "official_journal_date": "2010-12-11",
+  "entry_into_force": "2010-12-11",
+  "notification_date": "2013-04-18",
+  "commission_reference": "MNE(2013)52235",
+  "nim_celex": "72008F0909LTU_202526",
+  "nim_id": "202526",
+  "transposes_celex": [
+    "32008F0909",
+    "32011L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2311bca1-2503-4e28-a6cd-e5db3ce9e2fa",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
