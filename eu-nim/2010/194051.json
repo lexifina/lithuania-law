@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 2, 6, 10, 12, 16, 17, 18, 19, 20, 21, 22 straipsnių pakeitimo ir papildymo įstatymas Nr. XI-1152",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "145",
+  "official_journal_page": null,
+  "official_journal_date": "2010-12-11",
+  "entry_into_force": "2010-12-11",
+  "notification_date": "2012-07-24",
+  "commission_reference": "MNE(2012)53431",
+  "nim_celex": "72010L0041LTU_194051",
+  "nim_id": "194051",
+  "transposes_celex": [
+    "32010L0041"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/87d4796a-2fa5-4dc7-974d-5149caf37e0f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
