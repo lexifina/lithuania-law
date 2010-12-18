@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos akcizų įstatymo 3, 9, 10, 15, 16, 18, 19, 21, 30, 31, 37, 43 straipsnių ir 3 priedo pakeitimo ir Įstatymo papildymo 58(1) straipsniu įstatymas Nr. XI-1185",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "148",
+  "official_journal_page": null,
+  "official_journal_date": "2010-12-18",
+  "entry_into_force": "2010-12-18",
+  "notification_date": "2012-09-26",
+  "commission_reference": "MNE(2012)54427",
+  "nim_celex": "72009L0132LTU_195750",
+  "nim_id": "195750",
+  "transposes_celex": [
+    "32009L0132"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1cde7edd-df44-43b9-8410-e2342a37cae0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
