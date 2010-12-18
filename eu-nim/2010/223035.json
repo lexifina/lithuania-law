@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 2, 3, 5(1), 9, 12, 12(1), 12(3), 13, 14, 15, 19, 35, 36, 40, 41, 42, 45, 46, 47, 50, 51, 52, 53, 56, 58, 71, 71(1), 75, 83, 92, 95, 98, 101, 104, 106, 115(1), 115(2), 115(3), 115(5), 116, 118, 120 straipsnių ir Įstatymo 2 priedo pakeitimo ir papildymo įstatymas Nr. XI-1187",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "148",
+  "official_journal_page": null,
+  "official_journal_date": "2010-12-18",
+  "entry_into_force": "2010-12-18",
+  "notification_date": "2015-01-29",
+  "commission_reference": "MNE(2015)50459",
+  "nim_celex": "72008L0008LTU_223035",
+  "nim_id": "223035",
+  "transposes_celex": [
+    "32008L0008"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7b8a98c7-612d-447a-8033-557fe1192c39",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
