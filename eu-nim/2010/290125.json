@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2010 m. gruodžio 16 d. įsakymas Nr. D1-1004 „Dėl reikalavimų regioniniams ir savivaldybių atliekų tvarkymo planams patvirtinimo“ (suvestinė redakcija nuo 2014-11-27)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "149-7654",
+  "official_journal_page": null,
+  "official_journal_date": "2010-12-21",
+  "entry_into_force": "2010-12-22",
+  "notification_date": "2020-11-30",
+  "commission_reference": "MNE(2020)58198",
+  "nim_celex": "72018L0851LTU_290125",
+  "nim_id": "290125",
+  "transposes_celex": [
+    "32018L0851"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9ae409bd-969b-4c20-9ecd-bb4dde771d9a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
