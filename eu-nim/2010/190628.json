@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2010 m. gruodžio 22 d. nutarimas Nr. 1814 \"Dėl Lietuvos Respublikos Vyriausybės 2004 m. rugpjūčio 19 d. nutarimo Nr. 996 \"Dėl saugomų teritorijų tipinių apsaugos reglamentų patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "153",
+  "official_journal_page": null,
+  "official_journal_date": "2010-12-28",
+  "entry_into_force": "2010-12-29",
+  "notification_date": "2012-05-23",
+  "commission_reference": "MNE(2012)52192",
+  "nim_celex": "72009L0128LTU_190628",
+  "nim_id": "190628",
+  "transposes_celex": [
+    "32009L0128"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5edcd72c-6654-448d-b5fc-46335931f76e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
