@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2010 m. gruodžio 22 d. nutarimas Nr. 1807 \"Dėl 2008 m. spalio 24 d. Tarybos pamatinio sprendimo 2008/841/TVR dėl kovos su organizuotu nusikalstamumu 7 straipsnio 1 dalies c punkto nuostatos netaikymo Lietuvos Respublikai\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "153",
+  "official_journal_page": null,
+  "official_journal_date": "2010-12-28",
+  "entry_into_force": "2010-12-29",
+  "notification_date": "2015-03-04",
+  "commission_reference": "MNE(2015)50561",
+  "nim_celex": "72008F0841LTU_223157",
+  "nim_id": "223157",
+  "transposes_celex": [
+    "32008F0841"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ac9cecc2-6323-11e7-b2f2-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
