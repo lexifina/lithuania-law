@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės augalininkystės tarnybos prie Žemės ūkio ministerijos direktoriaus 2010 m. spalio 22 d. įsakymas Nr. A1-113 „Dėl augalų rūšių veislių tikrinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "126-6485",
+  "official_journal_page": null,
+  "official_journal_date": "2010-10-25",
+  "entry_into_force": "2010-12-31",
+  "notification_date": "2021-02-01",
+  "commission_reference": "MNE(2021)00455",
+  "nim_celex": "72003L0090LTU_202100455",
+  "nim_id": "202100455",
+  "transposes_celex": [
+    "32003L0090"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2fe93b72-6544-43c8-988f-50c6a3d3f6a5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
