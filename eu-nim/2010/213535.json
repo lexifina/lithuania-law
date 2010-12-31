@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo proceso kodekso 181, 187, 188, 218, 220 straipsnių pakeitimo ir papildymo įstatymas XI-1269",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "157",
+  "official_journal_page": null,
+  "official_journal_date": "2010-12-31",
+  "entry_into_force": "2010-12-31",
+  "notification_date": "2014-02-21",
+  "commission_reference": "MNE(2014)51135",
+  "nim_celex": "72001F0220LTU_213535",
+  "nim_id": "213535",
+  "transposes_celex": [
+    "32001F0220",
+    "32012L0013"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2333069d-9ad3-4372-8ae5-a5726e0e6cb2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
