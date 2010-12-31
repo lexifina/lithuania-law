@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos cheminių medžiagų ir preparatų įstatymo 1, 2, 4, 5, 6, 7, 8, 9, 11, 14, 15, 16, 17 straipsnių pakeitimo, 13 straipsnio pripažinimo netekusiu galios ir Įstatymo priedo pakeitimo įstatymas Nr. XI-1221",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "157",
+  "official_journal_page": null,
+  "official_journal_date": "2010-12-31",
+  "entry_into_force": "2010-12-31",
+  "notification_date": "2013-10-15",
+  "commission_reference": "MNE(2013)58263",
+  "nim_celex": "72010L0075LTU_209687",
+  "nim_id": "209687",
+  "transposes_celex": [
+    "32010L0075"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/11a63f2a-075d-47d4-adbc-7438354d4bf2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
