@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Radiacinės saugos įstatymo 1, 2, 5, 7, 8, 9, 10, 13, 14, 15, 18, 22, 23, 24 straipsnių pakeitimo ir papildymo bei Įstatymo papildymo 8(1), 8(2), 8(3) ir 8(4) straipsniais įstatymas Nr. XI-1019",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "119",
+  "official_journal_page": null,
+  "official_journal_date": "2010-10-07",
+  "entry_into_force": "2011-01-01",
+  "notification_date": "2012-06-06",
+  "commission_reference": "MNE(2012)52606",
+  "nim_celex": "72003L0122LTU_191226",
+  "nim_id": "191226",
+  "transposes_celex": [
+    "32003L0122"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0d8fe93c-6007-4562-a25c-91eee4821582",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
