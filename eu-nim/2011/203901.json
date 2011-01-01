@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos radio ir televizijos komisijos 2010 m. gruodžio 29 d. Nr. KS-120 \"Dėl Užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjų registravimo tvarkos aprašo patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "158",
+  "official_journal_page": null,
+  "official_journal_date": "2010-12-31",
+  "entry_into_force": "2011-01-01",
+  "notification_date": "2013-05-08",
+  "commission_reference": "MNE(2013)53345",
+  "nim_celex": "72007L0065LTU_203901",
+  "nim_id": "203901",
+  "transposes_celex": [
+    "32007L0065"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5b44d49b-eb5e-4c32-a967-502b8ebf62c9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
