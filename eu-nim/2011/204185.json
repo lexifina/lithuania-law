@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos finansų ministro 2010 m. gruodžio 17 d. įsakymas Nr. 1K-395 \"Dėl finansų ministro 2002 m. rugsėjo 11 d. įsakymo Nr. 280 \"Dėl Kombinuoto akcizo tarifo už cigaretes apskaičiavimo tvarkos patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "152",
+  "official_journal_page": null,
+  "official_journal_date": "2010-12-23",
+  "entry_into_force": "2011-01-01",
+  "notification_date": "2013-05-14",
+  "commission_reference": "MNE(2013)53594",
+  "nim_celex": "72011L0064LTU_204185",
+  "nim_id": "204185",
+  "transposes_celex": [
+    "32011L0064"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5ec12a96-1d63-48e8-8d87-3fb61d4c1b74",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
