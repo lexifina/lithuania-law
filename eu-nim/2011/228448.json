@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos krašto apsaugos ministro, Lietuvos Respublikos aplinkos ministro ir Lietuvos Respublikos vidaus reikalų ministro 2010 m. gruodžio 27 d. įsakymas Nr. V-1435/D1-1043/1V-799 „Dėl Lietuvos Respublikos krašto apsaugos ministro, Lietuvos Respublikos aplinkos ministro ir Lietuvos Respublikos vidaus reikalų ministro 2009 m. lapkričio 9 d. įsakymo Nr. V-1044/D1-673/1V-596 „Dėl teršimo incidentų likvidavimo jūros rajone darbų plano patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "1",
+  "official_journal_page": null,
+  "official_journal_date": "2011-01-04",
+  "entry_into_force": "2011-01-05",
+  "notification_date": "2015-07-21",
+  "commission_reference": "MNE(2015)55335",
+  "nim_celex": "72013L0030LTU_228448",
+  "nim_id": "228448",
+  "transposes_celex": [
+    "32013L0030"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3fcebea4-8e79-4645-bbc1-3fd60c1da69a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
