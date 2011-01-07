@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2011 m. sausio 3 d. įsakymas Nr. A1-2 \"Dėl Nacionalinės smurto prieš vaikus prevencijos ir pagalbos vaikams 2011-2015 metų programos patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "2",
+  "official_journal_page": null,
+  "official_journal_date": "2011-01-06",
+  "entry_into_force": "2011-01-07",
+  "notification_date": "2015-11-13",
+  "commission_reference": "MNE(2015)58307",
+  "nim_celex": "72012L0029LTU_231700",
+  "nim_id": "231700",
+  "transposes_celex": [
+    "32012L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ada30021-89a6-48e4-bd5c-ba378b79bc69",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
