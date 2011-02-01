@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro ir Lietuvos Respublikos aplinkos ministro 2011 m. sausio 24 d. įsakymas Nr. 1-10/D1-61 \"Dėl infrastruktūros plėtros (šilumos, elektros, dujų ir naftos tiekimo tinklų) specialiųjų planų rengimo taisyklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "11",
+  "official_journal_page": null,
+  "official_journal_date": "2011-01-27",
+  "entry_into_force": "2011-02-01",
+  "notification_date": "2012-10-05",
+  "commission_reference": "MNE(2012)53578",
+  "nim_celex": "72010L0031LTU_194593",
+  "nim_id": "194593",
+  "transposes_celex": [
+    "32010L0031"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/371a65cd-4f0e-48c8-8299-2ed4591df9e1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
