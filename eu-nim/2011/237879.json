@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro 2011 m. sausio 31 d. įsakymas Nr. 1V-79 „Dėl Lietuvos Respublikos vidaus reikalų ministro 2000 m. spalio 6 d. įsakymo Nr. 388 „Dėl Migracijos departamento prie vidaus reikalų ministerijos nuostatų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "16",
+  "official_journal_page": null,
+  "official_journal_date": "2011-02-08",
+  "entry_into_force": "2011-02-09",
+  "notification_date": "2016-05-24",
+  "commission_reference": "MNE(2016)53524",
+  "nim_celex": "72013L0033LTU_237879",
+  "nim_id": "237879",
+  "transposes_celex": [
+    "32013L0033"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b5d94172-4e61-481b-b069-cfde7ef98898",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
