@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2011 m. vasario 3 d. įsakymas Nr. 1-28 \"Dėl apšvietimo elektros įrenginių įrengimo taisyklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "17",
+  "official_journal_page": null,
+  "official_journal_date": "2011-02-10",
+  "entry_into_force": "2011-02-11",
+  "notification_date": "2012-08-22",
+  "commission_reference": "MNE(2012)53834",
+  "nim_celex": "72009L0072LTU_195061",
+  "nim_id": "195061",
+  "transposes_celex": [
+    "32009L0072"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a8323ce8-1fda-4b03-8ce5-34a881361ea0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
