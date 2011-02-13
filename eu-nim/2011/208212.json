@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės vaistų kontrolės tarnybos prie Lietuvos Respublikos sveikatos apsaugos ministerijos viršininko 2011 m. vasario 8 d. įsakymas Nr. 1A-120 \"Dėl Didmeninio platinimo licencijų turėtojų ir juridinių asmenų, norinčių gauti didmeninio platinimo licencijas, patikrinimų taisyklių bei Geros platinimo praktikos tikrinimo pažymos formos patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "18",
+  "official_journal_page": null,
+  "official_journal_date": "2011-02-12",
+  "entry_into_force": "2011-02-13",
+  "notification_date": "2013-07-31",
+  "commission_reference": "MNE(2013)57149",
+  "nim_celex": "72011L0062LTU_208212",
+  "nim_id": "208212",
+  "transposes_celex": [
+    "32011L0062"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/806a3010-7646-44d0-87fc-0fec5092da33",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
