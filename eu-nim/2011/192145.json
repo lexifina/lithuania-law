@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2011 m. vasario 21 d. įsakymas Nr. 3-100 “Dėl energijos vartojimo efektyvumo ir aplinkos apsaugos reikalavimų, taikomų įsigyjant kelių transporto priemones, nustatymo ir atvejų, kada juos privaloma taikyti, tvarkos aprašo patvirtinimo”",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "23",
+  "official_journal_page": null,
+  "official_journal_date": "2011-02-24",
+  "entry_into_force": "2011-02-25",
+  "notification_date": "2012-06-26",
+  "commission_reference": "MNE(2012)52870",
+  "nim_celex": "72006L0032LTU_192145",
+  "nim_id": "192145",
+  "transposes_celex": [
+    "32006L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b767111a-f492-4c75-8da4-0599c6cbaa98",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
