@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2011 m. vasario 21 d. įsakymas Nr. 3-103 \"Dėl Lietuvos Respublikos susisiekimo ministro 2007 m. vasario 6 d. įsakymo Nr. 3-35 \"Dėl reikalavimų elektroninėms kelių rinkliavų surinkimo sistemoms\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "23",
+  "official_journal_page": null,
+  "official_journal_date": "2011-02-24",
+  "entry_into_force": "2011-02-25",
+  "notification_date": "2013-10-24",
+  "commission_reference": "MNE(2013)51206",
+  "nim_celex": "72004L0052LTU_201102",
+  "nim_id": "201102",
+  "transposes_celex": [
+    "32004L0052"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/020735bc-a684-4daf-83c0-1522bc30f5a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
