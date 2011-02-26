@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos direktoriaus 2011 m. vasario 23 d. įsakymas Nr. 1-70 ,,Dėl Ekstremaliųjų situacijų valdymo planų rengimo metodinių rekomendacijų patvirtinimo“ (suvestinė redakcija nuo 2020-05-01)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "24-1200",
+  "official_journal_page": null,
+  "official_journal_date": "2011-02-25",
+  "entry_into_force": "2011-02-26",
+  "notification_date": "2021-01-27",
+  "commission_reference": "MNE(2021)00563",
+  "nim_celex": "72013L0059LTU_202100563",
+  "nim_id": "202100563",
+  "transposes_celex": [
+    "32013L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b981969a-cf57-4f29-8756-1153f79c52d8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
