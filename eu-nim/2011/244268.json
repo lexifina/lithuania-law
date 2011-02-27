@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "2011 m. vasario 23 d. Lietuvos Vyriausybės nutarimas Nr. 205 „Dėl Lietuvos Respublikos Vyriausybės 2001 m. balandžio 26 d. nutarimo Nr. 478 \"Dėl Valstybės lėšų, skirtų valstybės kapitalo investicijoms, planavimo, tikslinimo, naudojimo, apskaitos ir kontrolės taisyklių patvirtinimo\" pakeitimo“",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "24",
+  "official_journal_page": null,
+  "official_journal_date": "2011-02-26",
+  "entry_into_force": "2011-02-27",
+  "notification_date": "2017-01-13",
+  "commission_reference": "MNE(2017)50350",
+  "nim_celex": "72012L0034LTU_244268",
+  "nim_id": "244268",
+  "transposes_celex": [
+    "32012L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e34f5898-2b09-4db2-a883-40de7a850886",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
