@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos policijos generalinio komisaro 2011 m. vasario 28 d. įsakymas Nr. 5-V-166 „Dėl Juridinių asmenų ginklų ir šaudmenų civilinės apyvartos ir jos kontrolės taisyklių patvirtinimo“ (Suvestinė redakcija nuo 2018-10-01)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "28-1364",
+  "official_journal_page": null,
+  "official_journal_date": "2011-03-05",
+  "entry_into_force": "2011-03-06",
+  "notification_date": "2018-10-08",
+  "commission_reference": "MNE(2018)55413",
+  "nim_celex": "72017L0853LTU_263699",
+  "nim_id": "263699",
+  "transposes_celex": [
+    "32017L0853"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/db435c58-54e2-4288-af93-24eb8fb86e8f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
