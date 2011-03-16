@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2011 m. kovo 9 d. nutarimas Nr. 271 „Dėl Lietuvos Respublikos Vyriausybės 2004 m. sausio 28 d. nutarimo Nr. 90 „Dėl Lietuvos Respublikos jūrų uostų, šių uostų infrastruktūros ir suprastruktūros įrenginių (terminalų) bei laivų apsaugos stiprinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "31",
+  "official_journal_page": null,
+  "official_journal_date": "2011-03-15",
+  "entry_into_force": "2011-03-16",
+  "notification_date": "2014-01-30",
+  "commission_reference": "MNE(2014)50771",
+  "nim_celex": "72005L0065LTU_213065",
+  "nim_id": "213065",
+  "transposes_celex": [
+    "32005L0065"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f298e07e-a164-48ad-8116-f01c440ac5d2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
