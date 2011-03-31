@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo kodekso 3, 7, 95, 100, 101, 102, 103, 105, 106, 109, 111 straipsnių pakeitimo ir papildymo, 104 straipsnio pripažinimo netekusiu galios ir Kodekso papildymo 113(1) straipsniu įstatymas Nr. XI-1291",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "38",
+  "official_journal_page": null,
+  "official_journal_date": "2011-03-31",
+  "entry_into_force": "2011-03-31",
+  "notification_date": "2013-12-04",
+  "commission_reference": "MNE(2013)59317",
+  "nim_celex": "72011L0093LTU_211047",
+  "nim_id": "211047",
+  "transposes_celex": [
+    "32011L0093"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c8627714-a61f-48e6-a970-de8014c1ac5f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
