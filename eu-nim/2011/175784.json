@@ -1,0 +1,20 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vartojimo kredito įstatymas Nr. XI-1253",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "1",
+  "official_journal_page": null,
+  "official_journal_date": "2011-01-04",
+  "entry_into_force": "2011-04-01",
+  "notification_date": "2011-01-07",
+  "commission_reference": "MNE(2011)50151",
+  "nim_celex": "72008L0048LTU_175784",
+  "nim_id": "175784",
+  "transposes_celex": [],
+  "cellar": "http://publications.europa.eu/resource/cellar/a204b02a-0acc-4397-8b56-f0d039d4dfab",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
