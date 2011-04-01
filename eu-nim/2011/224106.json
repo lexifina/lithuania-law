@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos pilietybės įstatymas Nr. XI-1196",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "144",
+  "official_journal_page": null,
+  "official_journal_date": "2010-12-09",
+  "entry_into_force": "2011-04-01",
+  "notification_date": "2015-03-05",
+  "commission_reference": "MNE(2015)51279",
+  "nim_celex": "72002F0946LTU_224106",
+  "nim_id": "224106",
+  "transposes_celex": [
+    "32002F0946"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/720c10da-f679-4b60-b8b2-e04d3c6a9c53",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
