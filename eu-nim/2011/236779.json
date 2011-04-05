@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos atitikties įvertinimo įstatymo pakeitimo įstatymas Nr. XI-1299",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "40",
+  "official_journal_page": null,
+  "official_journal_date": "2011-04-05",
+  "entry_into_force": "2011-04-05",
+  "notification_date": "2016-04-19",
+  "commission_reference": "MNE(2016)52573",
+  "nim_celex": "72014L0034LTU_236779",
+  "nim_id": "236779",
+  "transposes_celex": [
+    "32014L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d94307f3-8138-4944-ab12-fbf9c0666c69",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
