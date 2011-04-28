@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymas Nr. XI-1307 (Suvestinė redakcija nuo 2023-06-01 iki 2023-12-31)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "49-2362",
+  "official_journal_page": null,
+  "official_journal_date": "2011-04-28",
+  "entry_into_force": "2011-04-28",
+  "notification_date": "2023-08-09",
+  "commission_reference": "MNE(2023)04499",
+  "nim_celex": "72021L1187LTU_202304499",
+  "nim_id": "202304499",
+  "transposes_celex": [
+    "32021L1187"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/93fb7a6d-4266-48e8-8f59-34621b51cd4e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
