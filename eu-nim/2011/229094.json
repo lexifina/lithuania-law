@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo kodekso 47 straipsnio pakeitimo įstatymas Nr. XI-1350",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "49",
+  "official_journal_page": null,
+  "official_journal_date": "2011-04-28",
+  "entry_into_force": "2011-04-28",
+  "notification_date": "2015-09-01",
+  "commission_reference": "MNE(2015)55896",
+  "nim_celex": "72013L0040LTU_229094",
+  "nim_id": "229094",
+  "transposes_celex": [
+    "32013L0040"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ff0b3538-feea-4283-a899-bb9ee77264b8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
