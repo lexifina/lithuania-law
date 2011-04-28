@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos audito įstatymo 1, 2, 5, 6, 8, 9, 12, 13, 14, 16, 17, 18, 20, 21, 22, 23, 24, 27, 30, 32, 33, 34, 43, 44, 49, 50, 58, 59 straipsnių ir įstatymo priedo pakeitimo ir papildymo įstatymas Nr. XI-1316",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "49",
+  "official_journal_page": null,
+  "official_journal_date": "2011-04-28",
+  "entry_into_force": "2011-04-28",
+  "notification_date": "2015-10-29",
+  "commission_reference": "MNE(2015)57798",
+  "nim_celex": "72013L0034LTU_231176",
+  "nim_id": "231176",
+  "transposes_celex": [
+    "32013L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e33d3d20-8bb5-4534-a281-834ddc1c91a9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
