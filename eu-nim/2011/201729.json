@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos darbo kodekso 2 straipsnio pakeitimo įstatymas Nr. XI-1315",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "49",
+  "official_journal_page": null,
+  "official_journal_date": "2011-04-28",
+  "entry_into_force": "2011-04-28",
+  "notification_date": "2013-02-28",
+  "commission_reference": "MNE(2013)51628",
+  "nim_celex": "72011L0098LTU_201729",
+  "nim_id": "201729",
+  "transposes_celex": [
+    "32011L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a0512255-4f15-465b-b3c3-6ccef60bfca1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
