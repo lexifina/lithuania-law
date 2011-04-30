@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2011 m. balandžio 7 d. įsakymas Nr. 1V-367 „Dėl Užmokesčių už Lietuvos Respublikos ryšių reguliavimo tarnybos teikiamas paslaugas ir atliekamus darbus tarifų bei mokėjimo tvarkos aprašo patvirtinimo“ (suvestinė redakcija nuo 2021 m. sausio 1 d.)",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "45-2148",
+  "official_journal_page": null,
+  "official_journal_date": "2011-04-12",
+  "entry_into_force": "2011-04-30",
+  "notification_date": "2021-06-11",
+  "commission_reference": "MNE(2021)01592",
+  "nim_celex": "72018L1972LTU_202101592",
+  "nim_id": "202101592",
+  "transposes_celex": [
+    "32018L1972"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/05232b61-1a06-4c8e-b3e7-1d4b2809d990",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
