@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos viešojo administravimo įstatymo 2, 3, 4, 4(1), 6, 7, 8, 10, 11, 14, 15, 16, 23, 24, 34 straipsnių pakeitimo ir Įstatymo papildymo 44 straipsniu įstatymas Nr. XI-1259",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "4",
+  "official_journal_page": null,
+  "official_journal_date": "2011-01-10",
+  "entry_into_force": "2011-05-01",
+  "notification_date": "2014-11-25",
+  "commission_reference": "MNE(2014)56397",
+  "nim_celex": "72011L0098LTU_221180",
+  "nim_id": "221180",
+  "transposes_celex": [
+    "32011L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/864da35f-b213-4534-bab0-98b7b8e96a30",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
