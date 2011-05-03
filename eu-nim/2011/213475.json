@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos atliekų tvarkymo įstatymo 1, 2, 4, 6, 7, 8, 9, 10, 11, 13, 14, 15, 17, 26, 27, 28, 30, 32, 36 straipsnių, antrojo skirsnio, šeštojo skirsnio pavadinimo ir 4, 5 priedų pakeitimo ir papildymo, įstatymo papildymo antruoju(1) skirsniu ir 4(1), 6(1), 7(1), 11(1), 11(2), 12(1), 18(1), 29(1) straipsniais, 29 straipsnio ir 1, 2, 3 priedų pripažinimo netekusiais galios įstatymas Nr. XI-1324",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "52",
+  "official_journal_page": null,
+  "official_journal_date": "2011-05-03",
+  "entry_into_force": "2011-05-03",
+  "notification_date": "2014-02-14",
+  "commission_reference": "MNE(2014)51097",
+  "nim_celex": "72012L0019LTU_213475",
+  "nim_id": "213475",
+  "transposes_celex": [
+    "32012L0019"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/af8ef048-7829-4ddc-a3e8-8a829b5c82d1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
