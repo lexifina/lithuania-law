@@ -1,0 +1,13 @@
+Įstatymas skelbtas: Žin.,
+2011, Nr. 62-2936
+Neoficialus įstatymo tekstas
+LIETUVOS
+RESPUBLIKOS
+ATSINAUJINANČIŲ IŠTEKLIŲ
+ENERGETIKOS
+ĮSTATYMAS
+2011 m. gegužės 12 d. Nr. XI-1375
+Vilnius
+PIRMASIS SKIRSNIS
+BENDROSIOS
+NUOSTATOS
