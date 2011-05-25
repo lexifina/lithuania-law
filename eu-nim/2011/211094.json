@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos švietimo ir mokslo ministro 2011 m. gegužės 19 d. įsakymas Nr. V-839 „Dėl Vaikų socializacijos centro veiklos modelio aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "62",
+  "official_journal_page": null,
+  "official_journal_date": "2011-05-24",
+  "entry_into_force": "2011-05-25",
+  "notification_date": "2013-12-05",
+  "commission_reference": "MNE(2013)59359",
+  "nim_celex": "72011L0093LTU_211094",
+  "nim_id": "211094",
+  "transposes_celex": [
+    "32011L0093"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/42bf1db1-3993-472c-8728-cb20025f0a10",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
