@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2011 m. gegužės 18 d. nutarimas Nr. 572 „Dėl Lietuvos Respublikos Vyriausybės 2001 m. rugsėjo 25 d. nutarimo Nr. 1156 „Dėl Valstybinės duomenų apsaugos inspekcijos struktūrinės reformos, įgaliojimų suteikimo, Valstybinės duomenų apsaugos inspekcijos nuostatų patvirtinimo ir su tuo susijusių Lietuvos Respublikos Vyriausybės nutarimų dalinio pakeitimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "61",
+  "official_journal_page": null,
+  "official_journal_date": "2011-05-21",
+  "entry_into_force": "2011-05-27",
+  "notification_date": "2015-03-06",
+  "commission_reference": "MNE(2015)51056",
+  "nim_celex": "72009D0917LTU_223840",
+  "nim_id": "223840",
+  "transposes_celex": [
+    "32009D0917"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f00e3785-6326-11e7-b2f2-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
