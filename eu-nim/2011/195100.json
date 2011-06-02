@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2011 m. birželio 2 d. įsakymas Nr. 1-138 „Dėl Pažangiųjų tinklų (Smart Grid) plėtros krypčių nustatymo ir proceso koordinavimo darbo grupės sudarymo“",
+  "type_of_act": "Administracinės priemonės",
+  "official_journal": "Administracinės priemonės",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2011-06-02",
+  "entry_into_force": "2011-06-02",
+  "notification_date": null,
+  "commission_reference": "MNE(2012)53873",
+  "nim_celex": "72009L0072LTU_195100",
+  "nim_id": "195100",
+  "transposes_celex": [
+    "32009L0072"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7df223b4-7d1a-4d87-8b55-ae47607204b6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
