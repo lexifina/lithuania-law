@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės metrologijos tarnybos direktoriaus 2011 m. gegužės 30 d. įsakymas Nr. V-77 „Dėl 2011 m. kovo 9 d. Europos Parlamento ir Tarybos direktyvos 2011/17/ES 1 straipsnio, 5 straipsnio 1 dalies, 6 straipsnio 1 dalies įgyvendinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "67",
+  "official_journal_page": null,
+  "official_journal_date": "2011-06-02",
+  "entry_into_force": "2011-06-03",
+  "notification_date": "2015-07-02",
+  "commission_reference": "MNE(2015)54805",
+  "nim_celex": "72011L0017LTU_227865",
+  "nim_id": "227865",
+  "transposes_celex": [
+    "32011L0017"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/58e09f4c-b045-43c1-b1fd-148e32bc8c2d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
