@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2011 m. birželio 8 d. nutarimas Nr. 681 \"Dėl Lietuvos Respublikos Vyriausybės 2001 m. gegužės 14 d. nutarimo Nr. 543 \"Dėl Lietuvos Respublikos valstybės biudžeto ir savivaldybių biudžetų sudarymo ir vykdymo taisyklių patvirtinimo\" pakeitimo ir kai kurių Lietuvos Respublikos Vyriausybės nutarimų, keitusių šį nutarimą, pakeitimo ar pripažinimo netekusiais galios\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "71",
+  "official_journal_page": null,
+  "official_journal_date": "2011-06-11",
+  "entry_into_force": "2011-06-12",
+  "notification_date": "2013-12-23",
+  "commission_reference": "MNE(2013)60099",
+  "nim_celex": "72011L0085LTU_211968",
+  "nim_id": "211968",
+  "transposes_celex": [
+    "32011L0085"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5b53d218-2e5f-4bdb-baa3-cab240c32308",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
