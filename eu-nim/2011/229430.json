@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 15 straipsnių ir 1, 2, 3 priedų pakeitimo ir papildymo įstatymas Nr. XI-1433",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "77",
+  "official_journal_page": null,
+  "official_journal_date": "2011-06-28",
+  "entry_into_force": "2011-06-28",
+  "notification_date": "2015-09-07",
+  "commission_reference": "MNE(2015)56204",
+  "nim_celex": "72012L0018LTU_229430",
+  "nim_id": "229430",
+  "transposes_celex": [
+    "32012L0018"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cf22008a-d445-4566-b15e-03a8049bd0e7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
