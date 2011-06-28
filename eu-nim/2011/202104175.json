@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2011 m. birželio 15 d. nutarimas Nr. 739 „Dėl ginklų, ginklų priedėlių, šaudmenų, jų dalių eksporto, importo, vežimo ir gabenimo tranzitu“ (suvestinė redakcija nuo 2020-08-06)",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "77-3747",
+  "official_journal_page": null,
+  "official_journal_date": "2011-06-27",
+  "entry_into_force": "2011-06-28",
+  "notification_date": "2021-06-18",
+  "commission_reference": "MNE(2021)04175",
+  "nim_celex": "72021L0555LTU_202104175",
+  "nim_id": "202104175",
+  "transposes_celex": [
+    "32021L0555"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f10c8c2d-d585-11eb-895a-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
