@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2011 m. birželio 15 d. nutarimas Nr. 739 „Dėl ginklų ir šaudmenų vežimo",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "77-3747",
+  "official_journal_page": null,
+  "official_journal_date": "2011-06-28",
+  "entry_into_force": "2011-06-29",
+  "notification_date": "2019-03-21",
+  "commission_reference": "MNE(2018)56401",
+  "nim_celex": "72017L0853LTU_265554",
+  "nim_id": "265554",
+  "transposes_celex": [
+    "32017L0853"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e373b5ef-16f0-44d0-ba2c-ff1f09e8d6d5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
