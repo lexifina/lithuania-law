@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymas Nr. XI-1336 (Suvestinė redakcija nuo 2018-07-16)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "52-2511",
+  "official_journal_page": null,
+  "official_journal_date": "2011-05-03",
+  "entry_into_force": "2011-07-01",
+  "notification_date": "2018-07-20",
+  "commission_reference": "MNE(2018)53886",
+  "nim_celex": "72016L0680LTU_261056",
+  "nim_id": "261056",
+  "transposes_celex": [
+    "32016L0680"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2a496947-ad91-4878-813e-c1042d5f549d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
