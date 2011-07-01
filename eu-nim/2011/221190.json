@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Ligos ir motinystės socialinio draudimo įstatymo 5, 6, 16, 18, 19, 20 ir 21 straipsnių pakeitimo įstatymas Nr. XI-982",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "86",
+  "official_journal_page": null,
+  "official_journal_date": "2010-07-20",
+  "entry_into_force": "2011-07-01",
+  "notification_date": "2014-11-27",
+  "commission_reference": "MNE(2014)56407",
+  "nim_celex": "72011L0098LTU_221190",
+  "nim_id": "221190",
+  "transposes_celex": [
+    "32011L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3c57533c-87b4-4ef1-a700-d439958d0cc0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
