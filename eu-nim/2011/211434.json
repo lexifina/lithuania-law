@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos asmens duomenų, tvarkomų vykdant policijos ir teisminį bendradarbiavimą baudžiamosiose bylose, teisinės apsaugos įstatymas Nr. XI-1336",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "52",
+  "official_journal_page": null,
+  "official_journal_date": "2011-05-03",
+  "entry_into_force": "2011-07-01",
+  "notification_date": "2013-12-12",
+  "commission_reference": "MNE(2013)59632",
+  "nim_celex": "72008F0977LTU_211434",
+  "nim_id": "211434",
+  "transposes_celex": [
+    "32008F0977",
+    "32011L0082"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c5006cbb-8e38-4d51-ad7f-2d3235c231ee",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
