@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos švietimo įstatymo pakeitimo įstatymas Nr. XI-1281",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "38",
+  "official_journal_page": null,
+  "official_journal_date": "2011-03-31",
+  "entry_into_force": "2011-07-01",
+  "notification_date": "2013-02-28",
+  "commission_reference": "MNE(2013)51625",
+  "nim_celex": "72011L0098LTU_201726",
+  "nim_id": "201726",
+  "transposes_celex": [
+    "32011L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/19883868-ddcc-4407-81b6-295f3450491a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
