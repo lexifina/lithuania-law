@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos akcinių bendrovių įstatymo 20, 61, 62, 63, 64, 65, 67, 69, 70, 74 straipsnių pakeitimo ir papildymo, Įstatymo papildymo 65-1, 70-1 straipsniais ir įstatymo priedo pakeitimo įstatymas Nr. XI-1489",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "81-3966",
+  "official_journal_page": null,
+  "official_journal_date": "2011-07-05",
+  "entry_into_force": "2011-07-05",
+  "notification_date": "2018-08-28",
+  "commission_reference": "MNE(2018)54458",
+  "nim_celex": "72017L1132LTU_262065",
+  "nim_id": "262065",
+  "transposes_celex": [
+    "32017L1132"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bf57bf7f-4a20-484d-ad31-71a81fffc06f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
