@@ -1,0 +1,27 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo kodekso 7, 42, 67, 68, 74, 123(1),125, 126, 134, 142, 144, 176, 177, 204, 205, 210, 211, 213, 220, 223, 225, 226, 227, 228, 228(1), 229, 230, 253(1),255, 257, 263, 268, 278, 281, 297, 308(1) straipsnių pakeitimo ir papildymo, kodekso papildymo 68(1), 68(2) straipsniais ir 44, 45 straipsnių pripažinimo netekusiais galios įstatymas Nr.XI-1472",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "81",
+  "official_journal_page": null,
+  "official_journal_date": "2011-07-05",
+  "entry_into_force": "2011-07-05",
+  "notification_date": "2012-08-22",
+  "commission_reference": "MNE(2012)53847",
+  "nim_celex": "72000F0383LTU_195074",
+  "nim_id": "195074",
+  "transposes_celex": [
+    "32000F0383",
+    "32002F0475",
+    "32003F0568",
+    "32005F0212",
+    "32009L0072",
+    "32011L0099"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f2d5fd5c-323f-4408-aa17-087801f93c4d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
