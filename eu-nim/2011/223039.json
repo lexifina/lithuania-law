@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo proceso kodekso 212, 309, 342, 357, 361 straipsnių pakeitimo ir 349, 350 straipsnių pripažinimo netekusiais galios įstatymas Nr. XI-1473",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "81",
+  "official_journal_page": null,
+  "official_journal_date": "2011-07-05",
+  "entry_into_force": "2011-07-05",
+  "notification_date": "2015-03-03",
+  "commission_reference": "MNE(2015)50463",
+  "nim_celex": "72008F0909LTU_223039",
+  "nim_id": "223039",
+  "transposes_celex": [
+    "32008F0909",
+    "32012L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5e92fbc1-9027-48fc-b90b-b58106979757",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
