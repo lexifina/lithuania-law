@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo proceso kodekso 132(1) straipsnio pakeitimo įstatymas Nr. XI-1505",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "86",
+  "official_journal_page": null,
+  "official_journal_date": "2011-07-13",
+  "entry_into_force": "2011-07-13",
+  "notification_date": "2015-05-27",
+  "commission_reference": "MNE(2015)52445",
+  "nim_celex": "72011L0099LTU_225425",
+  "nim_id": "225425",
+  "transposes_celex": [
+    "32011L0099"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/29c04be4-e465-4408-84c2-742d3bf12894",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
