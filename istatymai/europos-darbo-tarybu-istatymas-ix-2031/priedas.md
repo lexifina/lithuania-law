@@ -1,6 +1,6 @@
-# įstatymo Nr. IX-2031
+# RESPUBLIKOS PREZIDENTAS ROLANDAS PAKSAS
+Lietuvos Respublikos
+2011 m. birželio 22 d. įstatymo Nr. XI-1507
 priedas
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
-1. 1994 m. rugsėjo 22 d. Tarybos direktyva Nr. 94/45/EB dėl Europos darbų tarybos steigimo arba Bendrijos mastu veikiančių įmonių ir Bendrijos mastu veikiančių įmonių grupių darbuotojų informavimo bei konsultavimo tvarkos nustatymo.
-2. 1997 m. gruodžio 15 d. Tarybos direktyva Nr. 97/74/EB, išplečianti 1994 m. Direktyvos 94/45/EB dėl Europos darbų tarybos steigimo arba Bendrijos mastu veikiančių įmonių ir Bendrijos mastu veikiančių įmonių grupių darbuotojų informavimo bei konsultavimo tvarkos nustatymo taikymą Jungtinei Didžiosios Britanijos ir Šiaurės Airijos Karalystei.
-______________
+1. 2009 m. gegužės 6 d. Europos Parlamento ir Tarybos direktyva 2009/38/EB dėl Europos darbo tarybos steigimo arba Bendrijos mastu veikiančių įmonių ir Bendrijos mastu veikiančių įmonių grupių darbuotojų informavimo bei konsultavimosi su jais tvarkos nustatymo (OL 2009 L 122, p. 28–44).
