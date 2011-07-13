@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo 2, 3, 4, 6, 7, 14, 15, 16, 30 straipsnių, IV skyriaus pirmojo skirsnio pavadinimo ir priedo pakeitimo ir papildymo įstatymas Nr. XI-1463",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "85",
+  "official_journal_page": null,
+  "official_journal_date": "2011-07-13",
+  "entry_into_force": "2011-07-13",
+  "notification_date": "2013-05-09",
+  "commission_reference": "MNE(2013)53438",
+  "nim_celex": "72010L0075LTU_204008",
+  "nim_id": "204008",
+  "transposes_celex": [
+    "32010L0075"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3d08ab9a-046e-4b6c-92f7-6f9651d85700",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
