@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro 2011 m. liepos 14 d. įsakymas Nr. 1V-519 \"Dėl leidimo gyventi Lietuvos Respublikoje blanko privalomosios formos patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "91",
+  "official_journal_page": null,
+  "official_journal_date": "2011-07-19",
+  "entry_into_force": "2011-07-20",
+  "notification_date": "2015-01-20",
+  "commission_reference": "MNE(2014)56433",
+  "nim_celex": "72011L0098LTU_221216",
+  "nim_id": "221216",
+  "transposes_celex": [
+    "32011L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a1f9758c-6aa8-4273-b882-04d553ffbe04",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
