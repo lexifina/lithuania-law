@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos švietimo ir mokslo ministro 2011 m. liepos 20 d. įsakymas Nr. V-1369 „Dėl švietimo ir mokslo ministro 2004 m. birželio 25 d. įsakymo Nr. ISAK-1019 „Dėl priėmimo į valstybinę ir savivaldybės bendrojo lavinimo, profesinio mokymo įstaigą bendrųjų kriterijų sąrašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "96",
+  "official_journal_page": null,
+  "official_journal_date": "2011-07-23",
+  "entry_into_force": "2011-07-24",
+  "notification_date": "2016-05-06",
+  "commission_reference": "MNE(2016)52986",
+  "nim_celex": "72014L0054LTU_237281",
+  "nim_id": "237281",
+  "transposes_celex": [
+    "32014L0054"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2b1986a0-693d-48ab-9fb8-2854cd03b4d2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
