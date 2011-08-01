@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos elektroninių ryšių įstatymo 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 16, 17, 18, 21, 22, 23, 27, 28, 29, 30, 31, 32, 33, 34, 36, 37, 39, 40, 41, 48, 49, 50, 51, 52, 54, 56, 57, 58, 59, 61, 62, 63, 64, 66, 68, 69, 71, 72, 73, 74, 75, 77 straipsnių, antrojo skirsnio pavadinimo ir 2 priedo pakeitimo ir papildymo, Įstatymo papildymo 23-1, 23-2, 42-1 straipsniais ir 35 straipsnio pripažinimo netekusiu galios įstatymas Nr. XI-1552",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "91",
+  "official_journal_page": null,
+  "official_journal_date": "2011-07-19",
+  "entry_into_force": "2011-08-01",
+  "notification_date": "2016-07-12",
+  "commission_reference": "MNE(2016)54259",
+  "nim_celex": "72014L0053LTU_238713",
+  "nim_id": "238713",
+  "transposes_celex": [
+    "32014L0053"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2e259380-69ce-4564-9565-07e0cb1c656a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
