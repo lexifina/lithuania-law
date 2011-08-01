@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos gamtinių dujų įstatymo pakeitimo įstatymas Nr. XI-1564",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "87",
+  "official_journal_page": null,
+  "official_journal_date": "2011-07-14",
+  "entry_into_force": "2011-08-01",
+  "notification_date": "2015-12-31",
+  "commission_reference": "MNE(2015)59822",
+  "nim_celex": "72012L0027LTU_233291",
+  "nim_id": "233291",
+  "transposes_celex": [
+    "32012L0027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/09efe794-19bf-4393-abf3-05fe9c6c980a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
