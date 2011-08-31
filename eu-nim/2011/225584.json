@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2011 m. rugpjūčio 26 d.  įsakymas Nr. A1-380 „Dėl Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2002 m. vasario 13 d. įsakymo Nr. 20 „Dėl Užsieniečių apgyvendinimo pabėgėlių priėmimo centre sąlygų ir tvarkos, užsieniečių užimtumo organizavimo bei drausminio poveikio priemonių taikymo jiems tvarkos aprašo, užsieniečių teisės kas mėnesį gauti piniginę pašalpą smulkioms išlaidoms tvarkos aprašo ir užsieniečio teisės gauti kompensaciją už naudojimąsi visuomeninio transporto priemonėmis įgyvendinimo tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "107-5078",
+  "official_journal_page": null,
+  "official_journal_date": "2011-08-30",
+  "entry_into_force": "2011-08-31",
+  "notification_date": "2015-04-24",
+  "commission_reference": "MNE(2015)52602",
+  "nim_celex": "72011L0095LTU_225584",
+  "nim_id": "225584",
+  "transposes_celex": [
+    "32011L0095"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/35b671a7-f97b-11e4-a4c8-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
