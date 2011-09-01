@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos švietimo ir mokslo ministro 2011 m. vasario 21 d. įsakymas Nr. V-269 „Dėl Vidurinio ugdymo bendrųjų programų patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "26",
+  "official_journal_page": null,
+  "official_journal_date": "2011-03-03",
+  "entry_into_force": "2011-09-01",
+  "notification_date": "2013-04-18",
+  "commission_reference": "MNE(2013)52289",
+  "nim_celex": "72011L0036LTU_202582",
+  "nim_id": "202582",
+  "transposes_celex": [
+    "32011L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f3693e05-e982-4139-ac75-39d6382d1519",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
