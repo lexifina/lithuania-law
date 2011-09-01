@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos profesinio mokymo įstatymo 6, 7, 11, 14, 18, 22, 23, 28 ir 31 straipsnių pakeitimo įstatymas Nr. XI-1498",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "Nr. 86-4140",
+  "official_journal_page": null,
+  "official_journal_date": "2011-07-13",
+  "entry_into_force": "2011-09-01",
+  "notification_date": "2016-11-16",
+  "commission_reference": "MNE(2016)56817",
+  "nim_celex": "72014L0054LTU_242041",
+  "nim_id": "242041",
+  "transposes_celex": [
+    "32014L0054"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/35665d17-c6ef-4f1f-aed7-8c1ef3d802d5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
