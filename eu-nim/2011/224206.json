@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos teisingumo ministro, Lietuvos Respublikos vidaus reikalų ministro ir Lietuvos Respublikos generalinio prokuroro 2011 m. liepos 29 d. įsakymas Nr. 1R-194/1V-580/I-176 „Dėl 1961 m. birželio 26 d. Lietuvos Respublikos baudžiamajame kodekse ir 2000 m. rugsėjo 26 d. Lietuvos Respublikos baudžiamajame kodekse apibrėžtų nusikalstamų veikų ir nustatytų bausmių, baudžiamojo ir auklėjamojo poveikio priemonių bei kitų įpareigojimų ir draudimų atitikties 2009 m. balandžio 6 d. Tarybos sprendimo 2009/316/TVR dėl Europos nuosprendžių registrų informacinės sistemos (ECRIS) sukūrimo pagal Pamatinio sprendimo 2009/315/TVR 11 straipsnį A ir B prieduose nustatytoms kategorijoms rekomendacinės lentelės patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "99",
+  "official_journal_page": null,
+  "official_journal_date": "2011-08-04",
+  "entry_into_force": "2011-09-01",
+  "notification_date": "2015-03-06",
+  "commission_reference": "MNE(2015)51369",
+  "nim_celex": "72009D0316LTU_224206",
+  "nim_id": "224206",
+  "transposes_celex": [
+    "32009D0316"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cbf43b97-6325-11e7-b2f2-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
