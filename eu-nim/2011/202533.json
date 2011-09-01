@@ -1,0 +1,27 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo proceso kodekso 3, 9, 40, 63, 64, 145, 147, 152, 154, 158, 160, 161, 162, 163, 170, 172, 178, 179, 181, 183, 212, 214, 217, 218, 220, 237, 254, 276, 372, 373, 374(1), 374(2), 418, 419, 421, 422, 426, 429 straipsnių pakeitimo ir papildymo ir kodekso papildymo 3(2), 160(1) straipsniais įstatymas Nr. XI-1478",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "81",
+  "official_journal_page": null,
+  "official_journal_date": "2011-07-05",
+  "entry_into_force": "2011-09-01",
+  "notification_date": "2013-04-18",
+  "commission_reference": "MNE(2013)52242",
+  "nim_celex": "72001F0220LTU_202533",
+  "nim_id": "202533",
+  "transposes_celex": [
+    "32001F0220",
+    "32010L0064",
+    "32011L0036",
+    "32011L0099",
+    "32012L0013",
+    "32012L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c1e78940-f7d9-4a2e-8259-68e0a8a7dd61",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
