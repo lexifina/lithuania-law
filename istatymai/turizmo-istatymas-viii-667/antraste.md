@@ -1,5 +1,3 @@
-TURIZMO
-Į S T A T Y M A S
 1998 m. kovo 19 d. Nr. VIII-667
 Vilnius
 PIRMASIS SKIRSNIS
