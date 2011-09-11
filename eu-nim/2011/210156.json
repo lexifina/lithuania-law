@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2011 m. rugsėjo 7 d. įsakymas Nr. V-839 \"Dėl Valstybinės medicininio audito inspekcijos prie Sveikatos apsaugos ministerijos reorganizavimo, reorganizavimo sąlygų aprašo ir Valstybinės akreditavimo sveikatos priežiūros veiklai tarnybos prie Sveikatos apsaugos ministerijos nuostatų patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "112",
+  "official_journal_page": null,
+  "official_journal_date": "2011-09-10",
+  "entry_into_force": "2011-09-11",
+  "notification_date": "2013-10-30",
+  "commission_reference": "MNE(2013)58630",
+  "nim_celex": "72011L0024LTU_210156",
+  "nim_id": "210156",
+  "transposes_celex": [
+    "32011L0024"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3aec5f5a-50b9-4422-abe8-ae7956ddffcf",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
