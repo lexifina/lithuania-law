@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "State Food and Vetenary Service's Republic of Lithuania information note No. B6-(1.20)-254 of 11 September 2011 concerning the nomination of the national contact point for the implementation of Directive 2010/63/EU",
+  "type_of_act": "Administracinės priemonės",
+  "official_journal": "Informaciniai pranešimai",
+  "official_journal_reference": "B6-(1.20)-254",
+  "official_journal_page": null,
+  "official_journal_date": "2011-09-11",
+  "entry_into_force": null,
+  "notification_date": null,
+  "commission_reference": "MNE(2012)56773",
+  "nim_celex": "72010L0063LTU_198410",
+  "nim_id": "198410",
+  "transposes_celex": [
+    "32010L0063"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/429b9ec6-fbfd-40e0-afb2-2a26e8b656ed",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
