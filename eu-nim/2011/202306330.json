@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos transporto saugos administracijos direktoriaus 2011 m. rugsėjo 16 d. įsakymas Nr. 2B-340 „Dėl Ūkio subjektų, susijusių su kelių transportu, stebėsenos ir informavimo valstybės informacinės sistemos „Vektra“ nuostatų patvirtinimo“ (Suvestinė redakcija nuo 2022-09-28)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "115-5452",
+  "official_journal_page": null,
+  "official_journal_date": "2011-09-22",
+  "entry_into_force": "2011-09-23",
+  "notification_date": "2023-12-04",
+  "commission_reference": "MNE(2023)06330",
+  "nim_celex": "72022L0738LTU_202306330",
+  "nim_id": "202306330",
+  "transposes_celex": [
+    "32022L0738"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b0193cd4-066b-427a-b59e-cdfb8f3b91f9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
