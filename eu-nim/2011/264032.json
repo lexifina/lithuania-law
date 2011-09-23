@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2011 m. rugsėjo 14 d. nutarimas Nr. 1069 „Dėl Trečiųjų šalių piliečių reglamentuojamų profesinių kvalifikacijų pripažinimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "115-5403",
+  "official_journal_page": null,
+  "official_journal_date": "2011-09-22",
+  "entry_into_force": "2011-09-23",
+  "notification_date": "2018-10-12",
+  "commission_reference": "MNE(2018)55549",
+  "nim_celex": "72016L0801LTU_264032",
+  "nim_id": "264032",
+  "transposes_celex": [
+    "32016L0801"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0d6d7c7c-3fa4-444e-8dd2-f95d4a60265f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
