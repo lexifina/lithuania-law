@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "The Ministry's of Environment of the Republic of Lithuania information note No. (10-2)-D8-8727 of 29th September 2011 Concerning the Lithuanaian application pursuant to Article 10c of Directive 2003/87/EC",
+  "type_of_act": "Administracinės priemonės",
+  "official_journal": "Informaciniai pranešimai",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2011-09-29",
+  "entry_into_force": "2011-09-29",
+  "notification_date": null,
+  "commission_reference": "MNE(2013)51890",
+  "nim_celex": "72009L0029LTU_202062",
+  "nim_id": "202062",
+  "transposes_celex": [
+    "32009L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b2602f8d-2116-4e96-8d75-e8342618dfac",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
