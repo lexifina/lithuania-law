@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "The Ministry's of Environment of the Republic of Lithuania information note of 30th September 2011 No. (10-2)-D8-8783 Concerning notification Lithuanian national implementation measures pursuant to Article 11(1) of Directive 2003/87/EC",
+  "type_of_act": "Administracinės priemonės",
+  "official_journal": "Informaciniai pranešimai",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2011-09-30",
+  "entry_into_force": "2011-09-30",
+  "notification_date": null,
+  "commission_reference": "MNE(2013)51885",
+  "nim_celex": "72009L0029LTU_202057",
+  "nim_id": "202057",
+  "transposes_celex": [
+    "32009L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2ff2b5af-c586-42d2-b5cb-786f361047e6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
