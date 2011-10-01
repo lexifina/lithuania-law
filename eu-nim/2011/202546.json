@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos teismų įstatymo 36, 37, 93, 94, 120 straipsnių pakeitimo ir įstatymo papildymo 37(1) straipsniu įstatymas Nr. XI-1482",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "85",
+  "official_journal_page": null,
+  "official_journal_date": "2011-07-13",
+  "entry_into_force": "2011-10-01",
+  "notification_date": "2013-04-18",
+  "commission_reference": "MNE(2013)52255",
+  "nim_celex": "72011L0036LTU_202546",
+  "nim_id": "202546",
+  "transposes_celex": [
+    "32011L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2e6804b4-d760-46dd-822c-f1887accaf94",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
