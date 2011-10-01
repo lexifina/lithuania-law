@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos branduolinės saugos įstatymas Nr. XI-1539 (suvestinė redakcija nuo 2021-05-01 iki 2025-11-30)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "91-4316",
+  "official_journal_page": null,
+  "official_journal_date": "2011-07-19",
+  "entry_into_force": "2011-10-01",
+  "notification_date": "2026-05-13",
+  "commission_reference": "MNE(2026)02858",
+  "nim_celex": "72024L1203LTU_202602858",
+  "nim_id": "202602858",
+  "transposes_celex": [
+    "32024L1203"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/28ad205e-f2e5-41d6-92d1-f131bacf5159",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
