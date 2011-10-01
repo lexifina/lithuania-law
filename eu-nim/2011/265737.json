@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės atominės energetikos saugos inspekcijos viršininko 2011 m. rugsėjo 27 d. įsakymas Nr. 22.3-89 „Dėl Branduolinės saugos reikalavimų BSR-1.9.1-2011 „Radionuklidų išmetimo į aplinką iš branduolinės energetikos objektų normos ir reikalavimai radionuklidų išmetimo į aplinką planui“ patvirtinimo“ (Suvestinė redakcija nuo 2018-02-06)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "118-5599",
+  "official_journal_page": null,
+  "official_journal_date": "2011-09-30",
+  "entry_into_force": "2011-10-01",
+  "notification_date": "2018-12-10",
+  "commission_reference": "MNE(2018)56544",
+  "nim_celex": "72013L0059LTU_265737",
+  "nim_id": "265737",
+  "transposes_celex": [
+    "32013L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c4cbead5-8554-48ec-bad2-c1c0098d2931",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
