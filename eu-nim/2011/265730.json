@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės atominės energetikos saugos inspekcijos viršininko 2011 m. rugpjūčio 25 d. įsakymas Nr. 22.3-82 „Dėl Branduolinės saugos reikalavimų BSR-1.1.3-2016 „Valstybinės atominės energetikos saugos inspekcijos patikrinimai“ patvirtinimo“ (Suvestinė redakcija nuo 2018-11-23 iki 2019-04-30)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "107-5083",
+  "official_journal_page": null,
+  "official_journal_date": "2011-08-30",
+  "entry_into_force": "2011-10-01",
+  "notification_date": "2018-12-10",
+  "commission_reference": "MNE(2018)56537",
+  "nim_celex": "72013L0059LTU_265730",
+  "nim_id": "265730",
+  "transposes_celex": [
+    "32013L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2c0b4dfd-31d2-4c36-b56a-893e651397b1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
