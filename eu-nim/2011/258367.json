@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės atominės energetikos saugos inspekcijos viršininko 2011 m. rugsėjo 27 d. įsakymas Nr. 22.3-91 „Dėl Valstybinės atominės energetikos saugos inspekcijos viršininko 2010 m. liepos 20 d. įsakymo Nr. 22.3-58 „Dėl branduolinės saugos reikalavimų BSR-2.1.3-2010 „Atominių elektrinių aikštelių vertinimo bendrieji reikalavimai“ patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "118-5600",
+  "official_journal_page": null,
+  "official_journal_date": "2011-09-30",
+  "entry_into_force": "2011-10-01",
+  "notification_date": "2018-05-03",
+  "commission_reference": "MNE(2018)52204",
+  "nim_celex": "72014L0087LTU_258367",
+  "nim_id": "258367",
+  "transposes_celex": [
+    "32014L0087"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0f606418-1739-41dc-8ee1-a8bce4ef0f78",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
