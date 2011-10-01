@@ -1,0 +1,25 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos civilinio proceso kodekso pakeitimo ir papildymo įstatymas Nr. XI-1480",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "85",
+  "official_journal_page": null,
+  "official_journal_date": "2011-07-13",
+  "entry_into_force": "2011-10-01",
+  "notification_date": "2011-08-31",
+  "commission_reference": "MNE(2011)56337",
+  "nim_celex": "72007L0066LTU_185911",
+  "nim_id": "185911",
+  "transposes_celex": [
+    "32007L0066",
+    "32008F0977",
+    "32010L0041",
+    "32010L0075"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/505b824b-7e0f-44d4-b7d4-436fc963570b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
