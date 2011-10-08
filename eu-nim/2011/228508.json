@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos geležinkelių transporto kodekso 1, 3, 4, 7, 11, 12, 13, 16, 23, 24, 25, 29, 33 straipsnių, priedo pakeitimo ir papildymo, Kodekso papildymo 4-1, 25-1, 33-1 straipsniais ir 8, 27 straipsnių pripažinimo netekusiais galios įstatymas Nr. XI-1595",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "121",
+  "official_journal_page": null,
+  "official_journal_date": "2011-10-08",
+  "entry_into_force": "2011-10-08",
+  "notification_date": "2015-07-28",
+  "commission_reference": "MNE(2015)55379",
+  "nim_celex": "72012L0034LTU_228508",
+  "nim_id": "228508",
+  "transposes_celex": [
+    "32012L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/dc09a84e-70d8-4b39-b542-9a6f34085715",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
