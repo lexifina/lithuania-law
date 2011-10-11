@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių bylų teisenos įstatymo 11, 12, 21, 22, 23, 24, 34, 37, 39, 50, 51, 53, 57, 61, 62, 64, 66, 68, 70, 71, 72, 73, 74, 75, 77, 78, 82, 83, 85, 87, 93, 101, 105, 106, 107, 110, 118, 119, 121, 129, 130, 131, 132, 134, 135, 137, 138, 142, 150, 155, 156, 157 straipsnių pakeitimo ir papildymo įstatymas Nr. XI-1485",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "85",
+  "official_journal_page": null,
+  "official_journal_date": "2011-07-13",
+  "entry_into_force": "2011-10-11",
+  "notification_date": "2015-11-25",
+  "commission_reference": "MNE(2015)58590",
+  "nim_celex": "72013L0032LTU_231997",
+  "nim_id": "231997",
+  "transposes_celex": [
+    "32013L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/db1165f2-0234-449b-b7d2-1ac6c55a1c82",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
