@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2011 m. spalio 10 d. įsakymas Nr. 1V-960 „Dėl Prieigos, įskaitant tinklų sujungimą, suteikimo ir teikimo taisyklių patvirtinimo“ (suvestinė redakcija nuo 2020 m. sausio 1 d. iki 2022 m. vasario 24 d.)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "124-5937",
+  "official_journal_page": null,
+  "official_journal_date": "2011-10-15",
+  "entry_into_force": "2011-10-16",
+  "notification_date": "2022-03-17",
+  "commission_reference": "MNE(2022)01842",
+  "nim_celex": "72018L1972LTU_202201842",
+  "nim_id": "202201842",
+  "transposes_celex": [
+    "32018L1972"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/52ff1f1c-459b-4879-bcf3-50cba5066322",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
