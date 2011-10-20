@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2011 m. spalio 13 d. įsakymas Nr. V-900 „Dėl Radioaktyviosiose medžiagose esančių radionuklidų išmetimo į aplinką iš medicinos, pramonės objektų, išskyrus branduolinės energetikos objektus, ir atliekant mokslinius tyrimus leidžiamųjų lygių nustatymo, radioaktyviųjų medžiagų išmetimo į aplinką plano rengimo ir derinimo tvarkos aprašo patvirtinimo“ (suvestinė redakcija nuo 2021-01-01)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "126-5999",
+  "official_journal_page": null,
+  "official_journal_date": "2011-10-19",
+  "entry_into_force": "2011-10-20",
+  "notification_date": "2021-01-27",
+  "commission_reference": "MNE(2021)00680",
+  "nim_celex": "72013L0059LTU_202100680",
+  "nim_id": "202100680",
+  "transposes_celex": [
+    "32013L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/96455ab5-c85b-4ec0-914b-2d57b09a0ab3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
