@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "State Food and Veterinary Service's Republic of Lithuania information note No. B6-(1.20)-2177 of 24 October 2011 concerning the nomination of the contact person for the PARARE network",
+  "type_of_act": "Administracinės priemonės",
+  "official_journal": "Informaciniai pranešimai",
+  "official_journal_reference": "B6-(1.20)-2177",
+  "official_journal_page": null,
+  "official_journal_date": "2011-10-24",
+  "entry_into_force": null,
+  "notification_date": null,
+  "commission_reference": "MNE(2012)56774",
+  "nim_celex": "72010L0063LTU_198411",
+  "nim_id": "198411",
+  "transposes_celex": [
+    "32010L0063"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/071f1ab9-1f5f-473b-80d2-bda091166c7f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
