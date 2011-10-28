@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2011 m. spalio 19 d. nutarimas Nr. 1217 „Dėl įgaliojimų suteikimo įgyvendinant Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymą“ (suvestinė redakcija nuo 2023-05-01)",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "129-6114",
+  "official_journal_page": null,
+  "official_journal_date": "2011-10-27",
+  "entry_into_force": "2011-10-28",
+  "notification_date": "2023-08-08",
+  "commission_reference": "MNE(2023)04112",
+  "nim_celex": "72018L2001LTU_202304112",
+  "nim_id": "202304112",
+  "transposes_celex": [
+    "32018L2001"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b3ba5ca3-4053-41be-916a-37027b91872e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
