@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2011 m. liepos 29 d. įsakymas Nr. V-737 „Dėl Lietuvos higienos normos HN 47:2011 „Asmens sveikatos priežiūros įstaigos: bendrieji sveikatos saugos reikalavimai“ patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "100",
+  "official_journal_page": null,
+  "official_journal_date": "2011-08-06",
+  "entry_into_force": "2011-11-01",
+  "notification_date": "2014-02-27",
+  "commission_reference": "MNE(2014)51386",
+  "nim_celex": "72010L0053LTU_213860",
+  "nim_id": "213860",
+  "transposes_celex": [
+    "32010L0053"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/78b65191-f74c-4f33-9e4a-a72b2606a6c8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
