@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro ir Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2011 m. rugsėjo 1 d. įsakymas Nr. V-824/A1-389 \"Dėl Lietuvos higienos normos HN 23:2011 „Cheminių medžiagų profesinio poveikio ribiniai dydžiai. Matavimo ir poveikio vertinimo bendrieji reikalavimai“ patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "112-5274",
+  "official_journal_page": null,
+  "official_journal_date": "2011-09-01",
+  "entry_into_force": "2011-11-01",
+  "notification_date": "2020-02-14",
+  "commission_reference": "MNE(2020)51106",
+  "nim_celex": "72017L2398LTU_281056",
+  "nim_id": "281056",
+  "transposes_celex": [
+    "32017L2398"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0b87c198-547e-11ea-aece-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
