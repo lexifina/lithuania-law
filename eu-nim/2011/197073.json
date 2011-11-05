@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinio turizmo departamento prie ūkio ministerijos direktoriaus 2011 m. spalio 27 d. įsakymas Nr. V-122 \"Dėl Valstybinio turizmo departamento prie ūkio ministerijos direktoriaus 2003 m. kovo 26 d. įsakymo Nr. 18-V \"Dėl turizmo paslaugų teikimo sutarties standartinių sąlygų\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "131",
+  "official_journal_page": null,
+  "official_journal_date": "2011-11-04",
+  "entry_into_force": "2011-11-05",
+  "notification_date": "2012-10-29",
+  "commission_reference": "MNE(2012)55561",
+  "nim_celex": "71990L0314LTU_197073",
+  "nim_id": "197073",
+  "transposes_celex": [
+    "31990L0314"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6125a613-eca2-4328-a15d-dccbaac7add8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
