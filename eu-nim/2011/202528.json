@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos generalinio prokuroro 2011 m. lapkričio 8 d. įsakymas Nr. I-297 „Dėl Lietuvos Respublikos generalinio prokuroro 2009 m. rugsėjo 16 d. įsakymo Nr. I-126 „Dėl rekomendacijų dėl nepilnamečio liudytojo ir nukentėjusiojo apklausos patvirtinimo“ pakeitimo ir papildymo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "135",
+  "official_journal_page": null,
+  "official_journal_date": "2011-11-12",
+  "entry_into_force": "2011-11-13",
+  "notification_date": "2013-04-02",
+  "commission_reference": "MNE(2013)52237",
+  "nim_celex": "72011L0036LTU_202528",
+  "nim_id": "202528",
+  "transposes_celex": [
+    "32011L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1de3f97e-4ef3-4535-b9c0-c8a444f7512d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
