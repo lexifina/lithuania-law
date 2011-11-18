@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2011 m. lapkričio 10 d. įsakymas Nr. 3D-811 „Dėl žemės ūkio ministro 2004 m. balandžio 26  d. įsakymo Nr. 3D-227 „Dėl Geros augalų apsaugos praktikos taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "138",
+  "official_journal_page": null,
+  "official_journal_date": "2011-11-17",
+  "entry_into_force": "2011-11-18",
+  "notification_date": "2012-07-12",
+  "commission_reference": "MNE(2012)52896",
+  "nim_celex": "72009L0128LTU_192325",
+  "nim_id": "192325",
+  "transposes_celex": [
+    "32009L0128"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f3d92372-1f7a-4d85-9653-96818b90ff67",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
