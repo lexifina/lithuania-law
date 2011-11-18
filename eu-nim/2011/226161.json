@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2011 m. lapkričio 9 d. nutarimas Nr. 1324 „Dėl Tarpvalstybinio keitimosi DNR duomenimis, daktiloskopiniais duomenimis, transporto priemonių registracijos, jų savininkų ir valdytojų duomenimis ir informacija, susijusia su didelio masto tarpvalstybinio pobūdžio renginiais ar teroristinių nusikaltimų prevencija, tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "137",
+  "official_journal_page": null,
+  "official_journal_date": "2011-11-17",
+  "entry_into_force": "2011-11-18",
+  "notification_date": "2015-05-08",
+  "commission_reference": "MNE(2015)53162",
+  "nim_celex": "72015L0413LTU_226161",
+  "nim_id": "226161",
+  "transposes_celex": [
+    "32015L0413"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e182d444-367a-4a6c-8e4e-b084ac65b208",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
