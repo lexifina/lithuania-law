@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2011 m. lapkričio 9 d. nutarimas Nr. 1327 \"Dėl Lietuvos aukštosios jūreivystės mokyklos pertvarkymo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "139",
+  "official_journal_page": null,
+  "official_journal_date": "2011-11-18",
+  "entry_into_force": "2011-11-19",
+  "notification_date": "2015-02-10",
+  "commission_reference": "MNE(2015)50422",
+  "nim_celex": "72009L0013LTU_222979",
+  "nim_id": "222979",
+  "transposes_celex": [
+    "32009L0013"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/17593a24-f979-11e4-a4c8-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
