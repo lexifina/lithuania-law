@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2011 m. lapkričio 16 d. nutarimas Nr. 1347 \"Dėl Lietuvos Respublikos Vyriausybės 1999 m. gegužės 25 d. nutarimo Nr. 653 \"Dėl Veiklos su jonizuojančiosios spinduliuotės šaltiniais licencijavimo taisyklių patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "142",
+  "official_journal_page": null,
+  "official_journal_date": "2011-11-24",
+  "entry_into_force": "2011-11-25",
+  "notification_date": "2012-06-06",
+  "commission_reference": "MNE(2012)52343",
+  "nim_celex": "72003L0122LTU_190797",
+  "nim_id": "190797",
+  "transposes_celex": [
+    "32003L0122"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/567415d8-4a2d-46e1-a379-c5806eb2305f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
