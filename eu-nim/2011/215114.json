@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos policijos generalinio komisaro 2011 m. spalio 27 d. įsakymas Nr. 5-V-940 „Dėl Lietuvos policijos generalinio komisaro 2010 m. birželio 30 d. įsakymo Nr. 5-V-546 „Dėl laikinųjų pranešimų policijai, teikiamų elektroniniu būdu, duomenų tvarkymo taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Administracinės priemonės",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2011-11-27",
+  "entry_into_force": "2011-11-27",
+  "notification_date": "2014-04-09",
+  "commission_reference": "MNE(2014)52347",
+  "nim_celex": "72013L0040LTU_215114",
+  "nim_id": "215114",
+  "transposes_celex": [
+    "32013L0040"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b405d507-9044-44a8-a4f2-e6855f375928",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
