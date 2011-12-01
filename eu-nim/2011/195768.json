@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vartotojų teisių apsaugos įstatymo 2, 5, 16, 36, 37 straipsnių ir devintojo skirsnio pakeitimo ir Įstatymo priedo papildymo įstatymas Nr. XI-1620",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "129",
+  "official_journal_page": null,
+  "official_journal_date": "2011-10-27",
+  "entry_into_force": "2011-12-01",
+  "notification_date": "2014-08-28",
+  "commission_reference": "MNE(2012)54444",
+  "nim_celex": "72002L0065LTU_195768",
+  "nim_id": "195768",
+  "transposes_celex": [
+    "32002L0065"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3b6925a7-df4a-43b0-8518-53f7455b9373",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
