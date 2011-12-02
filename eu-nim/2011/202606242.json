@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2011 m. lapkričio 28 d. įsakymas Nr. 1-293 „Dėl prekybos gamtinėmis dujomis taisyklių patvirtinimo“ (suvestinė redakcija nuo 2020-03-28)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "147-6900",
+  "official_journal_page": null,
+  "official_journal_date": "2011-12-01",
+  "entry_into_force": "2011-12-02",
+  "notification_date": "2026-08-06",
+  "commission_reference": "MNE(2026)06242",
+  "nim_celex": "72024L1788LTU_202606242",
+  "nim_id": "202606242",
+  "transposes_celex": [
+    "32024L1788"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/59d5f691-c474-4f83-9983-462305736977",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
