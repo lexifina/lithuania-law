@@ -1,10 +1,10 @@
 # RESPUBLIKOS PREZIDENTAS ALGIRDAS BRAZAUSKAS
-Lietuvos Respublikos
-kelių transporto kodekso
+Lietuvos Respublikos kelių
+transporto kodekso
 priedas
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
-1. 1992 m. kovo 16 d. Tarybos reglamentas (EEB) Nr. 684/92 dėl bendrųjų tarptautinio keleivių vežimo tolimojo susisiekimo ir miesto autobusais taisyklių (OL 2004 m. specialusis leidimas, 6 skyrius, 1 tomas, p. 306) su paskutiniais pakeitimais, padarytais 1997 m. gruodžio 11 d. Tarybos reglamentu (EB) Nr. 11/98 (OL 2004 m. specialusis leidimas, 6 skyrius, 3 tomas, p. 62).
-2. 1992 m. kovo 26 d. Tarybos reglamentas (EEB) Nr. 881/92 dėl patekimo į rinką vežant krovinius Bendrijos keliais į valstybės narės teritoriją ar iš jos arba kertant vienos ar kelių valstybių narių teritorijas (OL 2004 m. specialusis leidimas, 7 skyrius, 1 tomas, p. 370) su paskutiniais pakeitimais, padarytais 2002 m. kovo 1 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 484/2002 (OL 2004 m. specialusis leidimas, 7 skyrius, 6 tomas, p. 90).
-3. 1996 m. balandžio 29 d. Tarybos direktyva 96/26/EB dėl leidimo verstis krovinių ir keleivių vežėjo kelių transporto verslu ir diplomų, pažymėjimų bei kitų oficialių profesinę kvalifikaciją patvirtinančių dokumentų tarpusavio pripažinimo, skirto palengvinti šiems vežėjams naudojimąsi įsisteigimo laisve nacionalinio ir tarptautinio vežimo srityje (OL 2004 m. specialusis leidimas, 6 skyrius, 2 tomas, p. 285) su paskutiniais pakeitimais, padarytais 1998 m. spalio 1 d. Tarybos direktyva 98/76/EB (OL 2004 m. specialusis leidimas, 6 skyrius, 3 tomas, p. 285).
-4. 2006 m. kovo 15 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 561/2006 dėl tam tikrų su kelių transportu susijusių socialinių teisės aktų suderinimo ir iš dalies keičiantis Tarybos reglamentus (EEB) Nr. 3821/85 ir (EB) Nr. 2135/98 bei panaikinantis Reglamentą (EEB) Nr. 3820/85 (OL 2006 L 102, p. 1).
-5. 2007 m. spalio 23 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1370/2007 dėl keleivinio geležinkelio ir kelių transporto viešųjų paslaugų ir panaikinantis Tarybos reglamentus (EEB) Nr. 1191/69 ir (EEB) Nr. 1107/70 (OL 2007 L 315, p. 1).
+1. 2006 m. kovo 15 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 561/2006 dėl tam tikrų su kelių transportu susijusių socialinių teisės aktų suderinimo ir iš dalies keičiantis Tarybos reglamentus (EEB) Nr. 3821/85 ir (EB) Nr. 2135/98 bei panaikinantis Tarybos reglamentą (EEB) Nr. 3820/85 (OL 2006 L 102, p. 1).
+2. 2007 m. spalio 23 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1370/2007 dėl keleivinio geležinkelių ir kelių transporto viešųjų paslaugų ir panaikinantis Tarybos reglamentus (EEB) Nr. 1191/69 ir (EEB) Nr. 1107/70 (OL 2007 L 315, p. 1).
+3. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1071/2009, nustatantis bendrąsias profesinės vežimo kelių transportu veiklos sąlygų taisykles ir panaikinantis Tarybos direktyvą 96/26/EB (OL 2009 L 300, p. 51).
+4. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1072/2009 dėl bendrųjų patekimo į tarptautinio krovinių vežimo kelių transportu rinką taisyklių (OL 2009 L 300, p. 72).
+5. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1073/2009 dėl bendrųjų patekimo į tarptautinę keleivių vežimo tolimojo susisiekimo ir miesto autobusais rinką taisyklių ir iš dalies keičiantis Reglamentą (EB) Nr. 561/2006 (OL 2009 L 300, p. 88).
