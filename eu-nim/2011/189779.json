@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos kelių transporto kodekso 3, 7, 8, 13, 14, 18 straipsnių, priedo pakeitimo ir papildymo, Kodekso papildymo 8(1) straipsniu įstatymas Nr. XI-1622",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "132",
+  "official_journal_page": null,
+  "official_journal_date": "2011-11-05",
+  "entry_into_force": "2011-12-04",
+  "notification_date": "2012-03-14",
+  "commission_reference": "MNE(2012)51362",
+  "nim_celex": "72000L0030LTU_189779",
+  "nim_id": "189779",
+  "transposes_celex": [
+    "32000L0030",
+    "32010L0047"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/eb3644c3-bdbf-4160-83f3-7d57785b77b6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
