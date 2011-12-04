@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2011 m. gruodžio 7 d. nutarimas Nr. 1434 „Dėl kelių transporto veiklos licencijavimo taisyklių patvirtinimo“ (Suvestinė redakcija nuo 2022-11-25)",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "152-7150",
+  "official_journal_page": null,
+  "official_journal_date": "2011-12-13",
+  "entry_into_force": "2011-12-04",
+  "notification_date": "2023-12-04",
+  "commission_reference": "MNE(2023)06329",
+  "nim_celex": "72022L0738LTU_202306329",
+  "nim_id": "202306329",
+  "transposes_celex": [
+    "32022L0738"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1c1d70d7-0451-4e36-ad35-17843c4dad80",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
