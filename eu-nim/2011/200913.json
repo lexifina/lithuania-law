@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2011 m. gruodžio 7 d. nutarimas Nr. 1421 \"Dėl Lietuvos Respublikos Vyriausybės 2003 m. birželio 12 d. nutarimo Nr. 756 \"Dėl Kelionės organizatoriaus prievolių įvykdymo užtikrinimo draudimo taisyklių patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "151",
+  "official_journal_page": null,
+  "official_journal_date": "2011-12-10",
+  "entry_into_force": "2011-12-11",
+  "notification_date": "2013-01-31",
+  "commission_reference": "MNE(2013)51041",
+  "nim_celex": "71990L0314LTU_200913",
+  "nim_id": "200913",
+  "transposes_celex": [
+    "31990L0314"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/61c2c869-ab0b-4fb7-8440-944271dea39c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
