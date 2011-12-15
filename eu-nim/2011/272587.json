@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatymas Nr. XI-1425 (Suvestinė redakcija nuo 2018-07-01)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "72-3475",
+  "official_journal_page": null,
+  "official_journal_date": "2011-06-14",
+  "entry_into_force": "2011-12-15",
+  "notification_date": "2019-05-09",
+  "commission_reference": "MNE(2019)52794",
+  "nim_celex": "72012L0029LTU_272587",
+  "nim_id": "272587",
+  "transposes_celex": [
+    "32012L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/af6ad166-e983-40df-abd5-5e52f24a7991",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
