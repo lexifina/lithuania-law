@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro ir Lietuvos Respublikos ūkio ministro 201120 m. gruodžio 9 d. įsakymas Nr. D1-957/4-902 \"Dėl Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemoje dalyvaujančių orlaivio naudotojų 2012 metams ir 2013-2020 metų laikotarpiu sąrašo patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "153",
+  "official_journal_page": null,
+  "official_journal_date": "2011-12-15",
+  "entry_into_force": "2011-12-16",
+  "notification_date": "2014-06-06",
+  "commission_reference": "MNE(2014)53357",
+  "nim_celex": "72008L0101LTU_217031",
+  "nim_id": "217031",
+  "transposes_celex": [
+    "32008L0101"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/98c2f6b0-edfe-45fc-be4f-04be34a3c348",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
