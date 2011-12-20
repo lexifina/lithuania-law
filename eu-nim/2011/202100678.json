@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2011 m. gruodžio 7 d. įsakymas Nr. V-1040 „Dėl Lietuvos higienos normos HN 99:2019 „Gyventojų apsauga įvykus branduolinei ar radiologinei avarijai“ patvirtinimo“ (suvestinė redakcija nuo 2020-04-01)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "Nr. 155-7369",
+  "official_journal_page": null,
+  "official_journal_date": "2011-12-19",
+  "entry_into_force": "2011-12-20",
+  "notification_date": "2021-01-27",
+  "commission_reference": "MNE(2021)00678",
+  "nim_celex": "72013L0059LTU_202100678",
+  "nim_id": "202100678",
+  "transposes_celex": [
+    "32013L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a915314f-38d6-4249-9ee5-faa6b10a0799",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
