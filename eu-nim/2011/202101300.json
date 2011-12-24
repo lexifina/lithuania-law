@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro, Lietuvos Respublikos sveikatos apsaugos ministro ir Lietuvos Respublikos vidaus reikalų ministro 2011 m. gruodžio 19 d. įsakymas  Nr. A1-534/V-1072/1V-931 „Dėl specializuotos pagalbos centrų programos patvirtinimo“ (suvestinė redakcija nuo 2020-07-01)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "159-7530",
+  "official_journal_page": null,
+  "official_journal_date": "2011-12-23",
+  "entry_into_force": "2011-12-24",
+  "notification_date": "2021-02-17",
+  "commission_reference": "MNE(2021)01300",
+  "nim_celex": "72012L0029LTU_202101300",
+  "nim_id": "202101300",
+  "transposes_celex": [
+    "32012L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7cfce9a9-8acf-4d60-a315-9e821c055575",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
