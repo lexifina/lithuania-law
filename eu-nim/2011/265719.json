@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Radiacinės saugos centro direktoriaus 2011 m. gruodžio 20 d. įsakymas Nr. 90V „Dėl Asmens (tarnybos), atsakingo už radiacinę saugą, tipinių pareigų ir teisių aprašo patvirtinimo“ pakeitimo“ (Suvestinė redakcija nuo 2018-10-25)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "158",
+  "official_journal_page": null,
+  "official_journal_date": "2011-12-24",
+  "entry_into_force": "2011-12-25",
+  "notification_date": "2018-12-10",
+  "commission_reference": "MNE(2018)56526",
+  "nim_celex": "72013L0059LTU_265719",
+  "nim_id": "265719",
+  "transposes_celex": [
+    "32013L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8acc1f80-9715-4298-b9d5-48d4b1a4b534",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
