@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo  51, 14, 19, 31, 32, 36, 43, 47, 49, 53, 57, 64, 66, 71, 711, 78, 79, 80, 83, 92  straipsnių pakeitimo ir papildymo, 2 priedo papildymo, 82 straipsnio pripažinimo netekusiu galios ir įstatymo papildymo 63-1, 78-1, 89-1 straipsniais Įstatymas Nr. XI-1817",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "161",
+  "official_journal_page": null,
+  "official_journal_date": "2011-12-29",
+  "entry_into_force": "2011-12-29",
+  "notification_date": "2016-01-14",
+  "commission_reference": "MNE(2016)50008",
+  "nim_celex": "72006L0112LTU_233332",
+  "nim_id": "233332",
+  "transposes_celex": [
+    "32006L0112"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a3bc36a4-a53d-4f2a-b953-d022b74d6131",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
