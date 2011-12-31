@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo proceso kodekso 109, 219, 220, 227, 234, 254, 256, 426 straipsnių pakeitimo ir Kodekso papildymo 308(1) straipsniu įstatymas Nr.XI-1852",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "164",
+  "official_journal_page": null,
+  "official_journal_date": "2011-12-31",
+  "entry_into_force": "2011-12-31",
+  "notification_date": "2014-01-13",
+  "commission_reference": "MNE(2014)50245",
+  "nim_celex": "72010L0064LTU_212455",
+  "nim_id": "212455",
+  "transposes_celex": [
+    "32010L0064",
+    "32012L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a2e7d568-930c-4e88-b242-ff62b3ad0ed8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
