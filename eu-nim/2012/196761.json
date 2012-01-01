@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymo pakeitimo įstatymas Nr.XI-2154",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "81",
+  "official_journal_page": null,
+  "official_journal_date": "2012-07-12",
+  "entry_into_force": "2012-01-01",
+  "notification_date": "2012-10-24",
+  "commission_reference": "MNE(2012)55309",
+  "nim_celex": "71993L0015LTU_196761",
+  "nim_id": "196761",
+  "transposes_celex": [
+    "31993L0015",
+    "32008L0043"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9e846771-0458-40b5-ab61-9a093bb4b95a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
