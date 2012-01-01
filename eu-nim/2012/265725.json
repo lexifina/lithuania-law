@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės atominės energetikos saugos inspekcijos viršininko 2011 m. lapkričio 25 d. įsakymas Nr. 22.3-117 „Dėl Branduolinės saugos reikalavimų BSR-2.1.4-2011 „Branduolinės elektrinės saugos analizės ataskaitos rengimas ir naudojimas“ patvirtinimo“ (Suvestinė redakcija nuo 2015-11-01 iki 2019-04-30)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "148",
+  "official_journal_page": null,
+  "official_journal_date": "2011-12-03",
+  "entry_into_force": "2012-01-01",
+  "notification_date": "2018-12-10",
+  "commission_reference": "MNE(2018)56532",
+  "nim_celex": "72013L0059LTU_265725",
+  "nim_id": "265725",
+  "transposes_celex": [
+    "32013L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/47543348-f105-41c8-b0b7-fc38749b1b4d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
