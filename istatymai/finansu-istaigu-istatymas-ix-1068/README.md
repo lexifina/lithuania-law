@@ -20,3 +20,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2009-12-28 | 2011-05-02 | Įstatymas Nr. XI-554 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/1b2b309970b1c55b34ab56ae995c246dbfe8b0de/istatymai/TAR.779892D853B4.md) |
 | 2011-05-03 | 2011-08-31 | Įstatymas Nr. XI-1339 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/aff4c8b1348c3ac06452537279014754d0c38286/istatymai/TAR.779892D853B4.md) |
 | 2011-09-01 | 2011-12-31 | Įstatymas Nr. XI-1373 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/73805d2a2b58fd3e2e98b1378a2d7c7539ff90b8/istatymai/TAR.779892D853B4.md) |
+| 2012-01-01 | 2013-06-30 | Įstatymas Nr. XI-1675 / Įstatymas Nr. XI-1872 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/272e5dcd000d71113b2c84105bd5ce68390f128c/istatymai/TAR.779892D853B4.md) |
