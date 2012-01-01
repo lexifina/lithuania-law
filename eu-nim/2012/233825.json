@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Lietuvos banko įstatymo 3, 6, 8, 11, 12, 41, 51, 52 straipsnių, septintojo skirsnio ir priedo pakeitimo ir papildymo ir įstatymo papildymo septintuoju-1 skirsniu ir nauju 1 priedu įstatymas Nr. XI-1666",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "145",
+  "official_journal_page": null,
+  "official_journal_date": "2011-12-01",
+  "entry_into_force": "2012-01-01",
+  "notification_date": "2016-03-25",
+  "commission_reference": "MNE(2016)50480",
+  "nim_celex": "72011L0089LTU_233825",
+  "nim_id": "233825",
+  "transposes_celex": [
+    "32011L0089"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6094e163-2224-4778-81e3-878b58ca534c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
