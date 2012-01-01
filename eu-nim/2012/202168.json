@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vartojimo kredito įstatymo pakeitimo įstatymas Nr. XI-1684",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "146",
+  "official_journal_page": null,
+  "official_journal_date": "2011-12-01",
+  "entry_into_force": "2012-01-01",
+  "notification_date": "2013-03-18",
+  "commission_reference": "MNE(2013)51957",
+  "nim_celex": "72008L0048LTU_202168",
+  "nim_id": "202168",
+  "transposes_celex": [
+    "32008L0048"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4424475c-7e45-4bb0-a09a-7a2216e13be8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
