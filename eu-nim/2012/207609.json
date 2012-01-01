@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2011 m. gruodžio 14 d. įsakymas Nr. D1-972 \"Dėl Lietuvos Respublikos aplinkos ministro 2005 m. gruodžio 28 d. įsakymo Nr. D1-641 \"Dėl Statybos techninio reglamento STR.1.02.09:2005 \"Teisės atlikti pastatų energinio naudingumo sertifikavimą įgijimo tvarkos aprašas\" patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "157",
+  "official_journal_page": null,
+  "official_journal_date": "2011-12-23",
+  "entry_into_force": "2012-01-01",
+  "notification_date": "2013-07-12",
+  "commission_reference": "MNE(2013)56642",
+  "nim_celex": "72006L0032LTU_207609",
+  "nim_id": "207609",
+  "transposes_celex": [
+    "32006L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/42e829a9-8d03-4646-bc90-f358cfec2821",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
