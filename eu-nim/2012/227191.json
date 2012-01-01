@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos pavojingų krovinių vežimo automobilių, geležinkelių ir vidaus vandenų transportu įstatymo pakeitimo įstatymas Nr. XI-1401",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "71",
+  "official_journal_page": null,
+  "official_journal_date": "2011-06-11",
+  "entry_into_force": "2012-01-01",
+  "notification_date": "2015-06-25",
+  "commission_reference": "MNE(2015)54173",
+  "nim_celex": "72012L0018LTU_227191",
+  "nim_id": "227191",
+  "transposes_celex": [
+    "32012L0018"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/32085707-8e17-4049-90cf-6e3b0e81232c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
