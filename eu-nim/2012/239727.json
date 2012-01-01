@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos finansinių priemonių rinkų įstatymo pakeitimo įstatymas Nr. XI-1672",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "145",
+  "official_journal_page": null,
+  "official_journal_date": "2011-12-01",
+  "entry_into_force": "2012-01-01",
+  "notification_date": "2016-08-01",
+  "commission_reference": "MNE(2016)55118",
+  "nim_celex": "72014L0057LTU_239727",
+  "nim_id": "239727",
+  "transposes_celex": [
+    "32014L0057"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c6220017-e2bb-490b-b8ff-edf7aa50229b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
