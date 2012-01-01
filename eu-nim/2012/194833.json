@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos statybos įstatymo 10, 14, 15, 17, 29, 43(1) straipsnių pakeitimo ir papildymo ir Įstatymo papildymo 18(1) straipsniu įstatymas Nr. XI-1427",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "72",
+  "official_journal_page": null,
+  "official_journal_date": "2012-06-14",
+  "entry_into_force": "2012-01-01",
+  "notification_date": "2012-08-22",
+  "commission_reference": "MNE(2012)53653",
+  "nim_celex": "72010L0031LTU_194833",
+  "nim_id": "194833",
+  "transposes_celex": [
+    "32010L0031"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1d0fa7c3-e123-486c-aec5-2699e46b7993",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
