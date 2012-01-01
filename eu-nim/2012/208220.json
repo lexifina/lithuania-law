@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos farmacijos įstatymo 2, 4, 9, 12, 14, 17, 20, 23, 27, 33, 39, 55, 57, 62, 64 straipsnių pakeitimo ir Įstatymo priedo papildymo įstatymas Nr. XI-1383",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "69",
+  "official_journal_page": null,
+  "official_journal_date": "2011-06-07",
+  "entry_into_force": "2012-01-01",
+  "notification_date": "2013-07-31",
+  "commission_reference": "MNE(2013)57157",
+  "nim_celex": "72011L0062LTU_208220",
+  "nim_id": "208220",
+  "transposes_celex": [
+    "32011L0062"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d5966ee7-9707-48cf-9d9f-6c23fa0b8dd1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
