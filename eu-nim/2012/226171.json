@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos įmonių bankroto įstatymo 10, 11, 29 ir 32 straipsnių pakeitimo įstatymas Nr. XI-1695",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "146",
+  "official_journal_page": null,
+  "official_journal_date": "2011-12-01",
+  "entry_into_force": "2012-01-01",
+  "notification_date": "2015-05-08",
+  "commission_reference": "MNE(2015)53172",
+  "nim_celex": "72009L0138LTU_226171",
+  "nim_id": "226171",
+  "transposes_celex": [
+    "32009L0138"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/032161dd-5251-4886-91ad-1bca40a5c37f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
