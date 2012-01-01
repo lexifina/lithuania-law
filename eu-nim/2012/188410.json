@@ -1,0 +1,20 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymas Nr. XI-1868",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "163",
+  "official_journal_page": null,
+  "official_journal_date": "2011-12-31",
+  "entry_into_force": "2012-01-01",
+  "notification_date": "2012-02-22",
+  "commission_reference": "MNE(2012)50017",
+  "nim_celex": "72009L0110LTU_188410",
+  "nim_id": "188410",
+  "transposes_celex": [],
+  "cellar": "http://publications.europa.eu/resource/cellar/d37951ba-a451-4e89-bd4d-32c98d39088e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
