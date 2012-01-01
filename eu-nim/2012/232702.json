@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2011 m. lapkričio 30 d. nutarimas Nr. 1386 „Dėl Lietuvos Respublikos savitarpio pagalbos išieškant mokesčius įstatymo nuostatų įgyvendinimo ir Lietuvos Respublikos Vyriausybės 2004 m. vasario 23 d. nutarimo Nr. 194 \"Dėl Lietuvos Respublikos pagalbos Europos Sąjungos valstybių narių institucijoms išieškant reikalaujamas skolas, susijusias su rinkliavomis, muitais, mokesčiais ir kitomis pinigų sumomis, teikimo ir naudojimosi kitų Europos Sąjungos valstybių narių institucijų teikiama pagalba išieškant minėtas pinigų sumas įstatymo 3, 21 ir 22 straipsnių nuostatų įgyvendinimo\" pripažinimo netekusiu galios“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "148",
+  "official_journal_page": null,
+  "official_journal_date": "2011-12-03",
+  "entry_into_force": "2012-01-01",
+  "notification_date": "2015-12-14",
+  "commission_reference": "MNE(2015)59247",
+  "nim_celex": "72014L0107LTU_232702",
+  "nim_id": "232702",
+  "transposes_celex": [
+    "32014L0107"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/21f56382-6508-4b17-a8fc-d973d1a56e9c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
