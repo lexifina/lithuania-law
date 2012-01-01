@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos bankų įstatymo 2, 9, 59, 64, 65, 70(1), 71 straipsnių ir priedo pakeitimo ir papildymo įstatymas Nr. XI-1883",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "163",
+  "official_journal_page": null,
+  "official_journal_date": "2011-12-31",
+  "entry_into_force": "2012-01-01",
+  "notification_date": "2013-06-14",
+  "commission_reference": "MNE(2013)55058",
+  "nim_celex": "72011L0089LTU_205899",
+  "nim_id": "205899",
+  "transposes_celex": [
+    "32011L0089"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6587c4bc-528b-48ca-a529-a1ec92082bdf",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
