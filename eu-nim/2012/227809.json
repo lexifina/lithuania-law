@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatymo 7 ir 9 straipsnių pakeitimo įstatymas Nr. XI-1624",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "132",
+  "official_journal_page": null,
+  "official_journal_date": "2011-11-05",
+  "entry_into_force": "2012-01-01",
+  "notification_date": "2015-07-16",
+  "commission_reference": "MNE(2015)54751",
+  "nim_celex": "72011L0093LTU_227809",
+  "nim_id": "227809",
+  "transposes_celex": [
+    "32011L0093"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4f7920d6-7563-4966-b9d4-f194e189d79c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
