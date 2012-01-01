@@ -1,6 +1,6 @@
 # Žvyras
 m3
-0,6
+1,12
 Lietuvos Respublikos
 mokesčio už valstybinius
 gamtos išteklius įstatymo
@@ -10,13 +10,18 @@ Eil. Nr.
 Ištekliai
 Tarifas (Lt/m3)
 1.
-Požeminis vanduo, išskyrus mineralinį
+Požeminis vanduo, išskyrus mineralinį:
+a) vandens tiekėjo tiekiamas namų ūkio reikmėms ir patalpų šildymui;
 0,06
+b) juridinių asmenų naudojamas komerciniams tikslams, supilstytas į tarą;
+10,8
+c) kitas (a ir b punktuose nenurodytas) požeminis vanduo.
+0,24
 2.
 Mineralinis vanduo, išskyrus mineralinį vandenį, naudojamą gydymo įstaigose
 10,8
 3.
-Mineralinis vanduo, naudojamas gydymo ?staigose
+Mineralinis vanduo, naudojamas gydymo įstaigose
 5,4
 4.
 Paviršinis vanduo pramonei ir žemės ūkiui

@@ -11,15 +11,15 @@ Tarifas (Lt)
 1.
 Anhidritas
 m3
-3,04
+5
 2.
 Dolomitas
 m3
-1,3
+2,5
 3.
 Durpės
 m3
-0,62
+2,0
 4.
 Gintaras
 kg
@@ -27,15 +27,19 @@ kg
 5.
 Klintis
 m3
-1,73
+2,09
 6.
 Kreidos mergelis
 m3
 2,26
 7.
-Molis:devono periodotriaso periodokitas
+Molis: devono periodo
 m3
-1,961,30,78
+2,16
+triaso periodo
+2,09
+kitas
+1,28
 8.
 Opoka
 m3
@@ -47,7 +51,7 @@ m3
 10.
 Smėlis moliui liesinti
 m3
-0,66
+1,2
 11.
 Smėlis stiklui gaminti
 m3
@@ -55,9 +59,9 @@ m3
 12.
 Smėlis silikatiniams dirbiniams
 m3
-0,6
+1,1
 13.
 Kitas smėlis
 m3
-0,5
+0,95
 14.
