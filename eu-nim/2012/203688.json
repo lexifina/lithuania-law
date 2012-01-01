@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo 12 straipsnio pakeitimo įstatymas Nr. XI-1775",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "155",
+  "official_journal_page": null,
+  "official_journal_date": "2011-12-20",
+  "entry_into_force": "2012-01-01",
+  "notification_date": "2013-04-30",
+  "commission_reference": "MNE(2013)53173",
+  "nim_celex": "72011L0036LTU_203688",
+  "nim_id": "203688",
+  "transposes_celex": [
+    "32011L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/24912fb4-4fcc-4a8f-8981-e0e92612c62d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
