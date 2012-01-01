@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos mokėjimų įstatymo 2, 3, 6, 7 straipsnių pakeitimo ir papildymo įstatymas Nr. XI-1876",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "163",
+  "official_journal_page": null,
+  "official_journal_date": "2011-12-31",
+  "entry_into_force": "2012-01-01",
+  "notification_date": "2015-03-09",
+  "commission_reference": "MNE(2015)51394",
+  "nim_celex": "72001F0413LTU_224231",
+  "nim_id": "224231",
+  "transposes_celex": [
+    "32001F0413"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/77e4b93b-43a3-4d46-b2ec-9890093d8df9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
