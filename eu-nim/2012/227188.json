@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos įstatymo pakeitimo įstatymas Nr. XI-1888",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "160",
+  "official_journal_page": null,
+  "official_journal_date": "2011-12-28",
+  "entry_into_force": "2012-01-01",
+  "notification_date": "2015-06-25",
+  "commission_reference": "MNE(2015)54170",
+  "nim_celex": "72012L0018LTU_227188",
+  "nim_id": "227188",
+  "transposes_celex": [
+    "32012L0018"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/02c416aa-fb92-4f2b-bbb0-30edac80b9fc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
