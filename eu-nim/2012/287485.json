@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2011 m. rugpjūčio 31 d. įsakymas Nr. D1-661 „Dėl Mišrių komunalinių atliekų sudėties nustatymo, komunalinių biologiškai skaidžių atliekų kiekio vertinimo tvarkos aprašo patvirtinimo“ (suvestinė redakcija nuo 2018-07-01)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "109-5148",
+  "official_journal_page": null,
+  "official_journal_date": "2011-09-03",
+  "entry_into_force": "2012-01-01",
+  "notification_date": "2020-12-01",
+  "commission_reference": "MNE(2020)56205",
+  "nim_celex": "72018L0851LTU_287485",
+  "nim_id": "287485",
+  "transposes_celex": [
+    "32018L0851"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4d4124a9-a0fb-4afb-b9ba-0bc5541a6276",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
