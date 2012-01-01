@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Audito ir apskaitos tarnybos direktoriaus 2011 m. gruodžio 23 d. įsakymas Nr. VAS-21 \"Dėl 7-ojo verslo apskaitos standarto \"Apskaitos politikos, apskaitinių įvertinimų keitimas ir klaidų taisymas\" tvirtinimo\"",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "161",
+  "official_journal_page": null,
+  "official_journal_date": "2011-12-29",
+  "entry_into_force": "2012-01-01",
+  "notification_date": "2015-08-05",
+  "commission_reference": "MNE(2015)55752",
+  "nim_celex": "72013L0034LTU_228933",
+  "nim_id": "228933",
+  "transposes_celex": [
+    "32013L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7c2a437f-8559-4c4d-82e1-36b64c5dd92f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
