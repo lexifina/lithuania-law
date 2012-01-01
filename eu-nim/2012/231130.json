@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos centrinės kredito unijos įstatymo 2, 4, 9, 56 straipsnių ir priedo pakeitimo ir papildymo įstatymas Nr. XI-1884",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "163",
+  "official_journal_page": null,
+  "official_journal_date": "2011-12-31",
+  "entry_into_force": "2012-01-01",
+  "notification_date": "2015-10-28",
+  "commission_reference": "MNE(2015)57752",
+  "nim_celex": "72013L0036LTU_231130",
+  "nim_id": "231130",
+  "transposes_celex": [
+    "32013L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fa9ba734-5073-4e7c-9275-88ee20c4f7c0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
