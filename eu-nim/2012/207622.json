@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2011 m. gruodžio 28 d. įsakymas Nr. D1-1034 \"Dėl Lietuvos Respublikos aplinkos ministro 2007 m. lapkričio 10 d. įsakymo Nr. D1-601 \"Dėl Statybos techninio reglamento STR 1.02.06:2007 \"Teisės eiti statybos techninės veiklos pagrindinių sričių vadovų pareigas įgijimo tvarkos ir teritorijų planavimo specialistų atestavimo tvarkos aprašas\" patvirtinimo\" pakeitimo",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "3",
+  "official_journal_page": null,
+  "official_journal_date": "2012-01-06",
+  "entry_into_force": "2012-01-07",
+  "notification_date": "2013-07-12",
+  "commission_reference": "MNE(2013)56655",
+  "nim_celex": "72006L0032LTU_207622",
+  "nim_id": "207622",
+  "transposes_celex": [
+    "32006L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/46d44972-bda3-4bb0-bbb1-c28622994461",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
