@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės kelių transporto inspekcijos prie Susisiekimo ministerijos viršininko 2012 m. sausio 4 d. įsakymas Nr. 2B-5 “Dėl Laikinųjų ūkio subjektų veiklos priežiūros taisyklių patvirtinimo”",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "5-162",
+  "official_journal_page": null,
+  "official_journal_date": "2012-01-07",
+  "entry_into_force": "2012-01-08",
+  "notification_date": "2023-06-07",
+  "commission_reference": "MNE(2023)03258",
+  "nim_celex": "72020L1057LTU_202303258",
+  "nim_id": "202303258",
+  "transposes_celex": [
+    "32020L1057"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3ac9edf6-0695-11ee-b12e-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
