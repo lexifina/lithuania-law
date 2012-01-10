@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos atliekų tvarkymo įstatymo 2, 12, 30, 34, 34(3) straipsnių, aštuntojo(1) skirsnio pakeitimo ir papildymo, įstatymo papildymo aštuntuoju(2), aštuntuoju(3), aštuntuoju(4), aštuntuoju(5), aštuntuoju(6), aštuntuoju(7), aštuntuoju(8), aštuntuoju(9), aštuntuoju(10) skirsniais ir 16 straipsnio pripažinimo netekusiu galios įstatymas Nr. XI-1892",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "6",
+  "official_journal_page": null,
+  "official_journal_date": "2012-01-10",
+  "entry_into_force": "2012-01-10",
+  "notification_date": "2014-02-14",
+  "commission_reference": "MNE(2014)51098",
+  "nim_celex": "72012L0019LTU_213478",
+  "nim_id": "213478",
+  "transposes_celex": [
+    "32012L0019"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7e38d09c-b1be-4ae8-999e-3bd4a7527db1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
