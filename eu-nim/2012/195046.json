@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo 2, 6, 7, 8, 9, 10 straipsnių pakeitimo ir papildymo bei įstatymo papildymo 7(1) straipsniu įstatymas Nr. XI-1893",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "6",
+  "official_journal_page": null,
+  "official_journal_date": "2012-01-10",
+  "entry_into_force": "2012-01-10",
+  "notification_date": "2012-08-23",
+  "commission_reference": "MNE(2012)53820",
+  "nim_celex": "72009L0128LTU_195046",
+  "nim_id": "195046",
+  "transposes_celex": [
+    "32009L0128"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9d8b934f-cddf-4981-9177-403381d1352d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
