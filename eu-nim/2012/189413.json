@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo 2, 16, 19, 20, 21, 22, 23, 24, 25, 26, 28, 33, 39, 58, 75 straipsnių ir Įstatymo priedo pakeitimo ir papildymo ir Įstatymo papildymo 20(1) straipsniu ir 1, 2 priedais įstatymas Nr. XI-1833",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "6",
+  "official_journal_page": null,
+  "official_journal_date": "2012-01-10",
+  "entry_into_force": "2012-01-10",
+  "notification_date": "2012-02-21",
+  "commission_reference": "MNE(2012)51000",
+  "nim_celex": "72001L0029LTU_189413",
+  "nim_id": "189413",
+  "transposes_celex": [
+    "32001L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/40d81229-3e45-4f7b-950d-aac27df5714d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
