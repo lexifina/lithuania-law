@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Aplinkos ministro 2011 m. gruodžio 29 d. įsakymas Nr. D1-1055 \"Dėl Daugiabučių namų atnaujinimo (modernizavimo) programos įgyvendinimo stebėsenos tvarkos aprašo patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "6",
+  "official_journal_page": null,
+  "official_journal_date": "2012-01-10",
+  "entry_into_force": "2012-01-11",
+  "notification_date": "2012-09-28",
+  "commission_reference": "MNE(2012)53698",
+  "nim_celex": "72010L0031LTU_194879",
+  "nim_id": "194879",
+  "transposes_celex": [
+    "32010L0031"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/54d228bd-12e1-41bf-bbfb-63d12d7d676e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
