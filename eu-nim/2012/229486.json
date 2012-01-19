@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2012 m. sausio 11 d. nutarimas Nr. 25 „Dėl Lietuvos Respublikos Vyriausybės 2004 m. balandžio 7 d. nutarimo Nr. 388 „Dėl Ataskaitų, susijusių su Europos Sąjungos aplinkos sektoriaus teisės aktų įgyvendinimu, teikimo Europos Komisijai ir Europos cheminių medžiagų agentūrai tvarkos patvirtinimo ir informacijos, kurios reikia ataskaitoms Europos aplinkos agentūrai parengti, teikimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "9",
+  "official_journal_page": null,
+  "official_journal_date": "2012-01-18",
+  "entry_into_force": "2012-01-19",
+  "notification_date": "2015-09-07",
+  "commission_reference": "MNE(2015)56259",
+  "nim_celex": "72012L0018LTU_229486",
+  "nim_id": "229486",
+  "transposes_celex": [
+    "32012L0018"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f841224b-2512-48e0-8fb9-2440acf31659",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
