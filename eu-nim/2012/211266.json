@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos policijos mokyklos viršininko 2012 m. sausio 26 d. įsakymas Nr. 144-V-29 „Dėl seminarų teminių planų patvirtinimo“",
+  "type_of_act": "Administracinės priemonės",
+  "official_journal": "Administracinės priemonės",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2012-01-26",
+  "entry_into_force": "2012-01-26",
+  "notification_date": null,
+  "commission_reference": "MNE(2013)59500",
+  "nim_celex": "72011L0093LTU_211266",
+  "nim_id": "211266",
+  "transposes_celex": [
+    "32011L0093"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e7967596-83f4-43a3-8c78-c91410bed687",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
