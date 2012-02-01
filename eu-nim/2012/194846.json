@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2011 m. birželio 7 d. įsakymas Nr. D1-462 \"Dėl Lietuvos Respublikos aplinkos ministro 2005 m. gruodžio 20 d. įsakymo Nr. D1-624 \"Dėl statybos techninio reglamento STR 2.01.09:2005 \"Pastatų energinis naudingumas. Energinio naudingumo sertifikavimas\" patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "73",
+  "official_journal_page": null,
+  "official_journal_date": "2011-06-16",
+  "entry_into_force": "2012-02-01",
+  "notification_date": "2012-08-22",
+  "commission_reference": "MNE(2012)53666",
+  "nim_celex": "72010L0031LTU_194846",
+  "nim_id": "194846",
+  "transposes_celex": [
+    "32010L0031"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/dfe2cbdd-5c3e-49cd-96e4-72b5e10a98a5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
