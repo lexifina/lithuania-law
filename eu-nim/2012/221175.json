@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos įstatymo \"Dėl užsieniečių teisinės padėties\" 2, 19, 77, 113, 114, 125, 126, 127, 128, 129, 132, 133, 139 straipsnių ir Įstatymo priedo pakeitimo ir papildymo įstatymas Nr. XI-1786",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "156",
+  "official_journal_page": null,
+  "official_journal_date": "2011-12-22",
+  "entry_into_force": "2012-02-01",
+  "notification_date": "2015-01-20",
+  "commission_reference": "MNE(2014)56392",
+  "nim_celex": "72011L0098LTU_221175",
+  "nim_id": "221175",
+  "transposes_celex": [
+    "32011L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8fdf370f-1cb2-4749-949e-001a0e550b30",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
