@@ -20,3 +20,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2006-06-28 | 2007-05-18 | Įstatymas Nr. X-649 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/c9a9d14ad6f6271b5dff31f221a0b6aa3000545e/istatymai/TAR.07786E0929A8.md) |
 | 2007-05-19 | 2012-02-02 | Įstatymas Nr. X-1119 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/ac87fda820795cc229369b3475e77e9cd109438f/istatymai/TAR.07786E0929A8.md) |
 | 2007-10-01 | 2012-02-02 | Įstatymas Nr. X-1119 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/1d731f36cba7ab397158e810e9c3499625d1881a/istatymai/TAR.07786E0929A8.md) |
+| 2012-02-03 | 2015-10-27 | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/66fe9494a84b2f6914c81bb4d722fa421aa50b87/istatymai/TAR.07786E0929A8.md) |
