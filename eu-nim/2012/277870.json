@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2012 m. sausio 18 d. nutarimas Nr. 99 „Dėl Valstybinio gyventojų apsaugos plano branduolinės ar radiologinės avarijos atveju patvirtinimo“  (Suvestinė redakcija nuo 2018-11-08)",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "15-654",
+  "official_journal_page": null,
+  "official_journal_date": "2012-02-02",
+  "entry_into_force": "2012-02-03",
+  "notification_date": "2019-10-15",
+  "commission_reference": "MNE(2019)55850",
+  "nim_celex": "72014L0087LTU_277870",
+  "nim_id": "277870",
+  "transposes_celex": [
+    "32014L0087"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/00881ed1-f1a1-11e9-a32c-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
