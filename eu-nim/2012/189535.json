@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2012 m. sausio 25 d. nutarimas Nr. 92 \"Dėl Lietuvos Respublikos Vyriausybės 2003 m. kovo 10 d. nutarimo Nr. 299 \"Dėl Angliavandenilių išteklių naudojimo konkurso nuostatų patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "15",
+  "official_journal_page": null,
+  "official_journal_date": "2012-02-02",
+  "entry_into_force": "2012-02-03",
+  "notification_date": "2012-03-06",
+  "commission_reference": "MNE(2012)51122",
+  "nim_celex": "71994L0022LTU_189535",
+  "nim_id": "189535",
+  "transposes_celex": [
+    "31994L0022"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c3f1d9e6-e6f1-43b2-8da7-4486065b6a94",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
