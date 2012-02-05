@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2012 m. sausio 26 d. nutarimas Nr. 03-23 „Dėl Vartotojų ir finansų rinkos dalyvių ginčų nagrinėjimo tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "16",
+  "official_journal_page": null,
+  "official_journal_date": "2012-02-04",
+  "entry_into_force": "2012-02-05",
+  "notification_date": "2013-03-18",
+  "commission_reference": "MNE(2012)54547",
+  "nim_celex": "72008L0048LTU_195913",
+  "nim_id": "195913",
+  "transposes_celex": [
+    "32008L0048"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/df16c33c-b2b8-4a88-b8ba-25714ebbf39a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
