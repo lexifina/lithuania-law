@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos elektros energetikos įstatymo pakeitimo įstatymas Nr. XI-1919",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "17",
+  "official_journal_page": null,
+  "official_journal_date": "2012-02-07",
+  "entry_into_force": "2012-02-07",
+  "notification_date": "2012-05-18",
+  "commission_reference": "MNE(2012)52396",
+  "nim_celex": "72006L0032LTU_190850",
+  "nim_id": "190850",
+  "transposes_celex": [
+    "32006L0032",
+    "32009L0072"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/56e26712-4d14-4488-8d6b-ce2a5b3f1fc9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
