@@ -1,16 +1,13 @@
 # RESPUBLIKOS PREZIDENTAS VALDAS ADAMKUS
-Lietuvos Respublikos
-elektros energetikos įstatymo
+Lietuvos Respublikos elektros
+energetikos įstatymo
 priedas
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
-1. 1978 m. liepos 25 d. Ketvirtoji Tarybos direktyva 78/660/EEB, grindžiama Europos Ekonominės Bendrijos Steigimo Sutarties 54 straipsnio 3 dalies g punktu, dėl tam tikrų tipų bendrovių metinių atskaitomybių.
-2. 1983 m. birželio 13 d. Septintoji Tarybos direktyva 83/349/EEB, grindžiama Europos Ekonominės Bendrijos steigimo sutarties 54 (3) (g) straipsniu, dėl konsoliduotos atskaitomybės.
-3. 1990 m. spalio 29 d. Europos Parlamento ir Tarybos direktyva 90/547/EEB „Dėl elektros energijos tranzito elektros perdavimo tinklais“.
-4. 1996 m. balandžio 22 d. Tarybos reglamentas 736/96 „Dėl Komisijos informavimo apie Bendrijos svarbius investicinius projektus naftos, gamtinių dujų ir elektros energijos sektoriuose“.
-5. 1996 m. gruodžio 16 d. Komisijos reglamentas 2386/96/EB, taikantis 1996 m. balandžio 22 d. Tarybos reglamentą Nr. 736/96/EB dėl pranešimo Komisijai apie Bendrijos interesus atitinkančius investicinius projektus naftos, gamtinių dujų ir elektros energijos sektoriuose (Tekstas svarbus EEE).
-6. 1998 m. birželio 22 d. Europos Parlamento ir Tarybos direktyva 98/34/EB, nustatanti informacijos apie standartus ir techninius reglamentus pateikimo tvarką.
-7. 2001 m. rugsėjo 27 d. Europos Parlamento ir Tarybos direktyva 2001/77/EB „Dėl elektros energijos, pagamintos iš atsinaujinančių energijos išteklių, rėmimo vidaus elektros rinkoje“.
-8. 2003 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2003/54/EB „Dėl elektros energijos vidaus rinkos bendrųjų taisyklių, panaikinanti Direktyvą 96/92/EB“.
-9. 2003 m. birželio 26 d. Europos Parlamento ir Tarybos reglamentas 1228/2003/EB „Dėl prieigos prie tarpvalstybinių elektros mainų tinklo sąlygų“.
-10. 2003 m. birželio 26 d. Europos Parlamento ir Tarybos sprendimas 1229/2003/EB, nustatantis tam tikras gaires transeuropiniams energetikos tinklams ir panaikinantis Sprendimą 1254/96/EB.
-11. 2003 m. lapkričio 11 d. Komisijos sprendimas 2003/796/EB „Dėl Europos kontrolės grupės elektros energijos ir dujų sektoriuje įsteigimo (Tekstas svarbus EEE)“.
+1. 2001 m. rugsėjo 27 d. Europos Parlamento ir Tarybos direktyva 2001/77/EB dėl elektros, pagamintos iš atsinaujinančiųjų energijos išteklių, skatinimo elektros energijos vidaus rinkoje (OL 2004 m. specialusis leidimas, 12 skyrius, 2 tomas, p. 121) su paskutiniais pakeitimais, padarytais 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/28/EB (OL 2009 L 140, p. 16).
+2. 2003 m. lapkričio 11 d. Komisijos sprendimas 2003/796/EB dėl Europos elektros energijos ir dujų reguliavimo grupės įsteigimo (OL 2004 m. specialusis leidimas, 12 skyrius, 2 tomas, p. 255).
+3. 2006 m. rugsėjo 6 d. Europos Parlamento ir Tarybos sprendimas Nr. 1364/2006/EB, nustatantis gaires transeuropiniams energetikos tinklams ir panaikinantis Sprendimą 96/391/EB ir Sprendimą Nr. 1229/2003/EB (OL 2006 L 262, p. 1).
+4. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyva 2009/72/EB dėl elektros energijos vidaus rinkos bendrųjų taisyklių, panaikinanti Direktyvą 2003/54/EB (OL 2009 L 211, p. 55).
+5. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 713/2009, įsteigiantis Energetikos reguliavimo institucijų bendradarbiavimo agentūrą (OL 2009 L 211, p. 1).
+6. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 714/2009 dėl prieigos prie tarpvalstybinių elektros energijos mainų tinklo sąlygų, panaikinantis Reglamentą (EB) Nr. 1228/2003 (OL 2009 L 211, p. 15).
+7. 2010 m. birželio 24 d. Tarybos reglamentas (ES, Euratomas) Nr. 617/2010 dėl pranešimo Komisijai apie energetikos infrastruktūros investicinius projektus Europos Sąjungoje ir dėl Reglamento (EB) Nr. 736/96 panaikinimo (OL 2010 L 180, p. 7).
+8. 2010 m. rugsėjo 21 d. Komisijos reglamentas (ES, Euratomas) Nr. 833/2010, kuriuo įgyvendinamas Tarybos reglamentas (ES, Euratomas) Nr. 617/2010 dėl pranešimo Komisijai apie energetikos infrastruktūros investicinius projektus Europos Sąjungoje (OL 2010 L 248, p. 36).
