@@ -1,0 +1,20 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "EM estime MNE non nécessaire - MS does not consider NEM necessary.",
+  "type_of_act": null,
+  "official_journal": null,
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": null,
+  "entry_into_force": null,
+  "notification_date": "2012-02-14",
+  "commission_reference": "MNE(2012)50887",
+  "nim_celex": "72012L0001LTU_189297",
+  "nim_id": "189297",
+  "transposes_celex": [],
+  "cellar": "http://publications.europa.eu/resource/cellar/031bbd36-d454-4ab2-8427-f43a14318e0c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
