@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2012 m. vasario 7 d. nutarimas Nr. 172 „Dėl Lietuvos Respublikos Vyriausybės 2009 m. liepos 8 d. nutarimo Nr. 707 „Dėl Lietuvos Respublikos Vyriausybės 2005 m. balandžio 27 d. nutarimo Nr. 468 „Dėl asmenų turto ir pajamų lygių antrinei teisinei pagalbai gauti nustatymo“ pakeitimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "22",
+  "official_journal_page": null,
+  "official_journal_date": "2012-02-18",
+  "entry_into_force": "2012-02-19",
+  "notification_date": "2012-05-03",
+  "commission_reference": "MNE(2012)52073",
+  "nim_celex": "72003L0008LTU_190505",
+  "nim_id": "190505",
+  "transposes_celex": [
+    "32003L0008"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/35b01d1c-515e-42d5-b0ee-915522921326",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
