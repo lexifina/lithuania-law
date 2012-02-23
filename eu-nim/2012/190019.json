@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2012 m. vasario 15 d. nutarimas Nr. 183 \"Dėl Lietuvos Respublikos Vyriausybės 2010 m. gegužės 19 d. nutarimo Nr. 553 \"Dėl Geležinkelio įmonių (vežėjų) skundų nagrinėjimo taisyklių patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "23",
+  "official_journal_page": null,
+  "official_journal_date": "2012-02-22",
+  "entry_into_force": "2012-02-23",
+  "notification_date": "2012-05-30",
+  "commission_reference": "MNE(2012)51599",
+  "nim_celex": "72001L0014LTU_190019",
+  "nim_id": "190019",
+  "transposes_celex": [
+    "32001L0014"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/afa16e1a-53f6-4a2d-ba8e-cab3949482c1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
