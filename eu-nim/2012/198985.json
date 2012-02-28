@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės kainų ir energetikos kontrolės komisijos 2012 m. vasario 28 d. nutarimas Nr. O3-47 „Dėl Valstybinės kainų ir energetikos kontrolės komisijos 2008 m. vasario 11 d. nutarimu Nr. O3-19 patvirtinto Valstybinės kainų ir energetikos kontrolės komisijos darbo reglamento pakeitimo“",
+  "type_of_act": "Administracinės priemonės",
+  "official_journal": "Administracinės priemonės",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2012-02-28",
+  "entry_into_force": "2012-02-28",
+  "notification_date": null,
+  "commission_reference": "MNE(2012)57324",
+  "nim_celex": "72009L0073LTU_198985",
+  "nim_id": "198985",
+  "transposes_celex": [
+    "32009L0073"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/90e685e2-ec5d-4410-9a50-2c67410f2c57",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
