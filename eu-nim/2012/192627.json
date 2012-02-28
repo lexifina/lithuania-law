@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Programos \"Leader\" ir Žemdirbių mokymo metodikos centro direktoriaus 2012 m. vasario 28 d. įsakymas Nr. 36MP-9 \"Dėl mokymo programų tvirtinimo\"",
+  "type_of_act": "Administracinės priemonės",
+  "official_journal": "Administracinės priemonės",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2012-02-28",
+  "entry_into_force": "2012-02-28",
+  "notification_date": null,
+  "commission_reference": "MNE(2012)53007",
+  "nim_celex": "72009L0128LTU_192627",
+  "nim_id": "192627",
+  "transposes_celex": [
+    "32009L0128"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ba0fa3a4-f8f2-4ae3-93c8-2137fc27f6ed",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
