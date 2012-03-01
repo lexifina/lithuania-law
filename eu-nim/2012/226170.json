@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos įmonių bankroto įstatymo 1, 4, 5, 6, 8, 9, 10, 11, 12, 18, 21, 23, 26, 33, 35, 36, 37 straipsnių pakeitimo ir papildymo, Įstatymo papildymo 11(1) straipsniu ir trečiuoju(1) skirsniu įstatymas Nr. XI-1867",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "4",
+  "official_journal_page": null,
+  "official_journal_date": "2012-01-06",
+  "entry_into_force": "2012-03-01",
+  "notification_date": "2015-05-08",
+  "commission_reference": "MNE(2015)53171",
+  "nim_celex": "72009L0138LTU_226170",
+  "nim_id": "226170",
+  "transposes_celex": [
+    "32009L0138"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6101c06d-8cef-4eb7-842a-1d2c6e5c905e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
