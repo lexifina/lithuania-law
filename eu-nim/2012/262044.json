@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos akcinių bendrovių įstatymo 18, 20, 28, 32, 34, 37, 38, 42, 58, 59, 60, 78 straipsnių pakeitimo ir papildymo ir įstatymo papildymo 601 straipsniu įstatymas Nr. XI-1798",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "160-7565",
+  "official_journal_page": null,
+  "official_journal_date": "2011-12-28",
+  "entry_into_force": "2012-03-01",
+  "notification_date": "2018-08-28",
+  "commission_reference": "MNE(2018)54437",
+  "nim_celex": "72017L1132LTU_262044",
+  "nim_id": "262044",
+  "transposes_celex": [
+    "32017L1132"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/83440c2c-222d-4b2f-81cd-bc3c37fc026a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
