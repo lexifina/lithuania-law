@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos automobilių kelių direkcijos prie Susisiekimo ministerijos direktoriaus 2012 m. vasario 23 d. įsakymas Nr. V-41 „Dėl Lietuvos automobilių kelių direkcijos prie Susisiekimo ministerijos direktoriaus 2011 m. lapkričio 4 d. įsakymo Nr. V-438 „Dėl kelių infrastruktūros saugumo valdymo gairių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "26",
+  "official_journal_page": null,
+  "official_journal_date": "2012-02-29",
+  "entry_into_force": "2012-03-01",
+  "notification_date": "2012-03-28",
+  "commission_reference": "MNE(2012)51206",
+  "nim_celex": "72008L0096LTU_189619",
+  "nim_id": "189619",
+  "transposes_celex": [
+    "32008L0096"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/261039df-6ef8-45af-92e8-3df5721e6aaa",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
