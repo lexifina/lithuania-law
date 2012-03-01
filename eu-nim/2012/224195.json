@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos įtariamųjų, kaltinamųjų ir nuteistųjų registro įstatymas Nr. XI-1503",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "86",
+  "official_journal_page": null,
+  "official_journal_date": "2011-07-13",
+  "entry_into_force": "2012-03-01",
+  "notification_date": "2015-03-06",
+  "commission_reference": "MNE(2015)51358",
+  "nim_celex": "72009F0315LTU_224195",
+  "nim_id": "224195",
+  "transposes_celex": [
+    "32009F0315"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3e0ccd28-6327-11e7-b2f2-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
