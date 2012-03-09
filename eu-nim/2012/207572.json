@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2012 m. kovo 2 d. įsakymas Nr. 1-41 \"Dėl Lietuvos Respublikos energetikos ministro 2010 m. gruodžio 14 d. įsakymo Nr. 1-346 \"Dėl Prekybos naftos produktais, biokuru, bioalyva ir kitais degiaisiais skystais produktais Lietuvos Respublikoje taisyklių patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "29",
+  "official_journal_page": null,
+  "official_journal_date": "2012-03-08",
+  "entry_into_force": "2012-03-09",
+  "notification_date": "2013-07-11",
+  "commission_reference": "MNE(2013)56605",
+  "nim_celex": "72006L0032LTU_207572",
+  "nim_id": "207572",
+  "transposes_celex": [
+    "32006L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f486a398-d070-4a31-a5a4-2f5a76bab836",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
