@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės kainų ir energetikos kontrolės komisijos 2012 m. kovo 2 d. nutarimas  Nr. O3-48 „Dėl Reikalavimų gamtinių dujų perdavimo sistemos balansavimo taisyklėms patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "29",
+  "official_journal_page": null,
+  "official_journal_date": "2012-03-08",
+  "entry_into_force": "2012-03-09",
+  "notification_date": "2012-05-18",
+  "commission_reference": "MNE(2012)52401",
+  "nim_celex": "72009L0073LTU_190855",
+  "nim_id": "190855",
+  "transposes_celex": [
+    "32009L0073"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9a7113dd-d230-4a48-ad2d-ecf59ae909c4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
