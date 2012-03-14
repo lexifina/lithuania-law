@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos direktoriaus 2012 m. kovo 7 d. įsakymas Nr. 1P-(1.3.)-91 \"Dėl Lietuvos erdvinės informacijos portalo nuostatų ir Lietuvos erdvinės informacijos portalo duomenų saugos nuostatų patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "31",
+  "official_journal_page": null,
+  "official_journal_date": "2012-03-13",
+  "entry_into_force": "2012-03-14",
+  "notification_date": "2012-03-27",
+  "commission_reference": "MNE(2012)51371",
+  "nim_celex": "72007L0002LTU_189788",
+  "nim_id": "189788",
+  "transposes_celex": [
+    "32007L0002"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/febacae5-6ddc-4b19-b8b1-5c340695a252",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
