@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2012 m. vasario 29 d. nutarimas Nr. 225 'Dėl Lietuvos Respublikos Vyriausybės 2005 m. balandžio 13 d. nutarimo Nr. 403 'Dėl Kelių transporto priemonių techninės būklės kontrolės Lietuvos Respublikos keliuose taisyklių patvirtinimo' pakeitimo'",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "29",
+  "official_journal_page": null,
+  "official_journal_date": "2012-03-08",
+  "entry_into_force": "2012-03-20",
+  "notification_date": "2012-03-14",
+  "commission_reference": "MNE(2012)51360",
+  "nim_celex": "72000L0030LTU_189777",
+  "nim_id": "189777",
+  "transposes_celex": [
+    "32000L0030",
+    "32010L0047"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f0f07ed8-7e42-4386-892b-60b701406036",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
