@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės kainų ir energetikos kontrolės komisijos 2012 m. kovo 19 d. nutarimas Nr. O3-51 \"Dėl Elektros energijos perdavimo sistemos operatoriaus paskyrimo dokumentų, duomenų ir informacijos pateikimo tvarkos ir sąlygų aprašo patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "34",
+  "official_journal_page": null,
+  "official_journal_date": "2012-03-22",
+  "entry_into_force": "2012-03-23",
+  "notification_date": "2016-03-29",
+  "commission_reference": "MNE(2016)52011",
+  "nim_celex": "72009L0072LTU_235980",
+  "nim_id": "235980",
+  "transposes_celex": [
+    "32009L0072"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/857b984f-a4d9-46f6-a3f8-3109e19b1fbc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
