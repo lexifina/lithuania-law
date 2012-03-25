@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2012 m. kovo 22 d. įsakymas Nr. 1-54 \"Dėl Sutarčių su buitiniais vartotojais dėl gamtinių dujų tiekimo, perdavimo ir skirstymo standartinių sąlygų aprašo patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "35",
+  "official_journal_page": null,
+  "official_journal_date": "2012-03-24",
+  "entry_into_force": "2012-03-25",
+  "notification_date": "2012-12-04",
+  "commission_reference": "MNE(2012)56926",
+  "nim_celex": "72009L0073LTU_198563",
+  "nim_id": "198563",
+  "transposes_celex": [
+    "32009L0073"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/80bd66d5-5203-4374-a941-f9f6b5b80425",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
