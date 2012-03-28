@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2012 m. kovo 21 d. nutarimas Nr. 315 \"Dėl Lietuvos Respublikos Vyriausybės 2004 m. gegužės 19 d. nutarimo Nr. 611 \"Dėl Viešosios geležinkelių infrastruktūros pajėgumų skyrimo taisyklių patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "36",
+  "official_journal_page": null,
+  "official_journal_date": "2012-03-27",
+  "entry_into_force": "2012-03-28",
+  "notification_date": "2012-05-30",
+  "commission_reference": "MNE(2012)51600",
+  "nim_celex": "72001L0014LTU_190020",
+  "nim_id": "190020",
+  "transposes_celex": [
+    "32001L0014"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/90877296-3af9-45a8-a0a8-eb7963cafc51",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
