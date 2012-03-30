@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos policijos generalinio komisaro 2012 m. kovo 26 d. įsakymas Nr. 5-V-229 „Dėl Paimto, konfiskuoto turto, turto, į kurį nuosavybės teisės laikinai apribotos, daiktinių įrodymų priėmimo, apskaitos, saugojimo, perdavimo, grąžinimo ir naikinimo instrukcijos patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "37",
+  "official_journal_page": null,
+  "official_journal_date": "2012-03-29",
+  "entry_into_force": "2012-03-30",
+  "notification_date": "2017-01-18",
+  "commission_reference": "MNE(2017)50417",
+  "nim_celex": "72014L0042LTU_244373",
+  "nim_id": "244373",
+  "transposes_celex": [
+    "32014L0042"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/deb62794-575a-442d-b591-cae416cb5c62",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
