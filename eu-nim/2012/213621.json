@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vyriausios rinkimų komisijos įstatymo 2, 3 straipsnių pakeitimo ir papildymo ir Įstatymo papildymo priedu įstatymas Nr. XI-1958",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "39",
+  "official_journal_page": null,
+  "official_journal_date": "2012-03-31",
+  "entry_into_force": "2012-03-31",
+  "notification_date": "2014-02-18",
+  "commission_reference": "MNE(2014)51215",
+  "nim_celex": "72013L0001LTU_213621",
+  "nim_id": "213621",
+  "transposes_celex": [
+    "32013L0001"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/65b2df86-7d30-4db3-bc83-e15db8d03e24",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
