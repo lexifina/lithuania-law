@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės ligonių kasos prie Sveikatos apsaugos ministerijos direktoriaus 2012 m. vasario 20 d. įsakymas Nr. 1K-32 \"Dėl apdraustųjų privalomuoju Sveikatos draudimu išlaidų būtinajai medicinos pagalbai, suteiktai kitoje Europos Sąjungos šalyje, ir kitose Europos Sąjungos šalyse apdraustų asmenų išlaidų būtinajai medicinos pagalbai, suteiktai Lietuvoje, kompensavimo aprašo patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "24",
+  "official_journal_page": null,
+  "official_journal_date": "2012-02-25",
+  "entry_into_force": "2012-04-01",
+  "notification_date": "2013-10-30",
+  "commission_reference": "MNE(2013)58638",
+  "nim_celex": "72011L0024LTU_210164",
+  "nim_id": "210164",
+  "transposes_celex": [
+    "32011L0024"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/953e1a7c-1a6c-4ac6-84fd-b909ecda259a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
