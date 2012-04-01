@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2012 m. vasario 29 d. nutarimas Nr. 212 „Dėl Išsilavinimo ir kvalifikacijų, susijusių su aukštuoju mokslu ir įgytų pagal užsienio valstybių ir tarptautinių organizacijų švietimo programas, pripažinimo tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "29",
+  "official_journal_page": null,
+  "official_journal_date": "2012-03-08",
+  "entry_into_force": "2012-04-01",
+  "notification_date": "2013-02-28",
+  "commission_reference": "MNE(2013)51635",
+  "nim_celex": "72011L0095LTU_201737",
+  "nim_id": "201737",
+  "transposes_celex": [
+    "32011L0095",
+    "32011L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ad680b77-516e-41d7-afee-831aed7d35ba",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
