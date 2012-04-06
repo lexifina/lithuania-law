@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos švietimo ir mokslo ministro 2012 m. kovo 28 d. įsakymas Nr. V-551 „Dėl Užsienio šalių institucijose ar pagal tarptautinių organizacijų švietimo programas išsilavinimą įgijusių asmenų konkuravimo dėl priėmimo į valstybės finansuojamas studijų vietas ir dėl studijų stipendijų tvarkos aprašo patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "41",
+  "official_journal_page": null,
+  "official_journal_date": "2012-04-05",
+  "entry_into_force": "2012-04-06",
+  "notification_date": "2016-05-06",
+  "commission_reference": "MNE(2016)52987",
+  "nim_celex": "72014L0054LTU_237282",
+  "nim_id": "237282",
+  "transposes_celex": [
+    "32014L0054"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c93e1c8b-88fa-46e4-8e29-261c390b73aa",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
