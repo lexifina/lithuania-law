@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės kainų ir energetikos kontrolės komisijos 2012 m. balandžio 11 d. nutarimas Nr. O3-85 „Dėl Ginčų sprendimo ne teisme tvarkos aprašo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "44",
+  "official_journal_page": null,
+  "official_journal_date": "2012-04-14",
+  "entry_into_force": "2012-04-15",
+  "notification_date": "2012-05-18",
+  "commission_reference": "MNE(2012)52406",
+  "nim_celex": "72009L0073LTU_190860",
+  "nim_id": "190860",
+  "transposes_celex": [
+    "32009L0073"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/40e406ec-ed8b-4984-9d93-0e73fa63534b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
