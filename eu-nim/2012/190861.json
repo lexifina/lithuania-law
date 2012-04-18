@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės kainų ir energetikos kontrolės komisijos 2012 m. balandžio 11 d. nutarimas Nr. O3-90 „Dėl Gamtinių dujų įmonių teikiamų paslaugų patikimumo ir kokybės rodiklių, jų įvertinimo tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "45",
+  "official_journal_page": null,
+  "official_journal_date": "2012-04-17",
+  "entry_into_force": "2012-04-18",
+  "notification_date": "2012-05-18",
+  "commission_reference": "MNE(2012)52407",
+  "nim_celex": "72009L0073LTU_190861",
+  "nim_id": "190861",
+  "transposes_celex": [
+    "32009L0073"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6268af18-fa14-46cc-8b75-1c7079b03b47",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
