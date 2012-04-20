@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2012 m. balandžio 11 d. nutarimas Nr. 390 \"Dėl Lietuvos Respublikos Vyriausybės 2009 m. lapkričio 25 d. nutarimo Nr. 1558 \"Dėl Potvynių rizikos vertinimo ir valdymo tvarkos aprašo patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "46-2230",
+  "official_journal_page": null,
+  "official_journal_date": "2012-04-19",
+  "entry_into_force": "2012-04-20",
+  "notification_date": "2012-04-24",
+  "commission_reference": "MNE(2012)51867",
+  "nim_celex": "72007L0060LTU_190296",
+  "nim_id": "190296",
+  "transposes_celex": [
+    "32007L0060"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f291989d-3b53-4456-9ce6-5e31ad773bcb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
