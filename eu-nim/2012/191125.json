@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro ir Valstybinės atominės energetikos saugos inspekcijos viršininko 2012 m. balandžio 11 d. įsakymas Nr. V-316/22.3-41 \"Dėl Lietuvos Respublikos sveikatos apsaugos ministro ir valstybinės atominės energetikos saugos inspekcijos viršininko 2008-m. gruodžio 24-d. įsakymo Nr.-V-1271/22.3-139 \"Dėl Radioaktyviųjų medžiagų, radioaktyviųjų atliekų ir panaudoto branduolinio kuro įvežimo, išvežimo, vežimo tranzitu ir vežimo Lietuvos Respublikoje taisyklių patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "46",
+  "official_journal_page": null,
+  "official_journal_date": "2012-04-19",
+  "entry_into_force": "2012-04-20",
+  "notification_date": "2012-05-30",
+  "commission_reference": "MNE(2012)52544",
+  "nim_celex": "72011L0070LTU_191125",
+  "nim_id": "191125",
+  "transposes_celex": [
+    "32011L0070"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/592db62e-ab94-4dd8-a993-71c08bfd43c6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
