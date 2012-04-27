@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2012 m. balandžio 18 d. nutarimas Nr. 435 \"Dėl Įtariamųjų, kaltinamųjų ir nuteistųjų registro nuostatų patvirtinimo ir veiklos pradžios nustatymo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "49",
+  "official_journal_page": null,
+  "official_journal_date": "2012-04-20",
+  "entry_into_force": "2012-04-27",
+  "notification_date": "2015-09-02",
+  "commission_reference": "MNE(2015)56168",
+  "nim_celex": "72013L0040LTU_229393",
+  "nim_id": "229393",
+  "transposes_celex": [
+    "32013L0040"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a7dad5ba-ff81-4dc1-8d87-e4827a860277",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
