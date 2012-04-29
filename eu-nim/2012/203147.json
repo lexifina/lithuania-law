@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2012 m. balandžio 26 d. įsakymas Nr. A1-209 „Dėl Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2006 m. balandžio 25 d. įsakymo Nr. A-119 „Dėl darbuotojų apsaugos nuo elektromagnetinių laukų keliamos rizikos nuostatų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "50",
+  "official_journal_page": null,
+  "official_journal_date": "2012-04-28",
+  "entry_into_force": "2012-04-29",
+  "notification_date": "2013-04-19",
+  "commission_reference": "MNE(2013)52735",
+  "nim_celex": "72012L0011LTU_203147",
+  "nim_id": "203147",
+  "transposes_celex": [
+    "32012L0011"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/13f68d6a-d81b-4f16-a742-926f89406fb5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
