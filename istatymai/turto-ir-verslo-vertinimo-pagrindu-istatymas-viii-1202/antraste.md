@@ -1,6 +1,5 @@
-LIETUVOS RESPUBLIKOS
-TURTO IR VERSLO VERTINIMO PAGRINDŲ
-Į S T A T Y M A S
+turto ir verslo vertinimo pagrindų
+įstatymas
 1999 m. gegužės 25 d. Nr. VIII-1202
 Vilnius
 PIRMASIS SKIRSNIS
