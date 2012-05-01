@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro 2012 m. kovo 15 d. įsakymas Nr. 4-243 \"Dėl Lietuvos Respublikos ūkio ministro 2001 m. birželio 29 d. įsakymo Nr. 217 \"Dėl Daiktų grąžinimo ir keitimo taisyklių patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "34",
+  "official_journal_page": null,
+  "official_journal_date": "2012-03-22",
+  "entry_into_force": "2012-05-01",
+  "notification_date": "2012-09-07",
+  "commission_reference": "MNE(2012)54228",
+  "nim_celex": "71999L0044LTU_195502",
+  "nim_id": "195502",
+  "transposes_celex": [
+    "31999L0044"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0267119a-3e78-4c47-9be4-154872ce444c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
