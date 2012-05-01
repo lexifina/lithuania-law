@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2011 m. lapkričio 22 d. įsakymas Nr. V-1001 „Dėl Privalomojo radiacinės saugos mokymo ir instruktavimo tvarkos aprašo patvirtinimo“ pakeitimo“ (Suvestinė redakcija nuo 2018-10-05)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "143-6726",
+  "official_journal_page": null,
+  "official_journal_date": "2011-11-26",
+  "entry_into_force": "2012-05-01",
+  "notification_date": "2018-12-10",
+  "commission_reference": "MNE(2018)56511",
+  "nim_celex": "72013L0059LTU_265704",
+  "nim_id": "265704",
+  "transposes_celex": [
+    "32013L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/30c06039-8274-44b4-b566-9ef1783976ea",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
