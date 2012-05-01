@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2012 m. vasario 3 d. įsakymas Nr. 1-22 \"Dėl Elektros įrenginių įrengimo bendrųjų taisyklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "18",
+  "official_journal_page": null,
+  "official_journal_date": "2012-02-09",
+  "entry_into_force": "2012-05-01",
+  "notification_date": "2012-08-22",
+  "commission_reference": "MNE(2012)53835",
+  "nim_celex": "72009L0072LTU_195062",
+  "nim_id": "195062",
+  "transposes_celex": [
+    "32009L0072",
+    "32010L0031"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4b4aaeb5-7592-4bfe-a92b-ba20de642bfe",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
