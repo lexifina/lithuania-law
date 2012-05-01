@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2011 m. gruodžio 16 d. įsakymas Nr. 3-782 \"Dėl Lietuvos Respublikos susisiekimo ministro 2001 m. balandžio 9 d. įsakymo Nr. 110 \"Dėl Mokymo įstaigų, suteikiančių asmenims teorinį ir praktinį pasirengimą, būtiną jūrinio laipsnio diplomui, kvalifikacijos liudijimui ar jų patvirtinimui gauti, akreditavimo nuostatų patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "165",
+  "official_journal_page": null,
+  "official_journal_date": "2011-12-31",
+  "entry_into_force": "2012-05-01",
+  "notification_date": "2014-10-28",
+  "commission_reference": "MNE(2014)56028",
+  "nim_celex": "72012L0035LTU_220696",
+  "nim_id": "220696",
+  "transposes_celex": [
+    "32012L0035"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6c88c4ae-9306-4ec4-9f43-71319674bc7a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
