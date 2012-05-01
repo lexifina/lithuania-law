@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2011 m. gruodžio 20 d. įsakymas Nr. 1-309 \"Dėl Elektros linijų ir instaliacijos įrengimo taisyklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "2",
+  "official_journal_page": null,
+  "official_journal_date": "2012-01-05",
+  "entry_into_force": "2012-05-01",
+  "notification_date": "2012-08-22",
+  "commission_reference": "MNE(2012)53836",
+  "nim_celex": "72009L0072LTU_195063",
+  "nim_id": "195063",
+  "transposes_celex": [
+    "32009L0072"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/440b433e-ecb5-4f9b-a2f9-6a28dc0f0dd8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
