@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2012 m. sausio 2 d. įsakymas Nr. 1-2 „Dėl Dujų sistemų pastatuose įrengimo taisyklių patvirtinimo“ (suvestinė redakcija nuo 2020-09-02)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "3-96",
+  "official_journal_page": null,
+  "official_journal_date": "2012-01-06",
+  "entry_into_force": "2012-05-01",
+  "notification_date": "2026-03-12",
+  "commission_reference": "MNE(2026)01600",
+  "nim_celex": "72023L1791LTU_202601600",
+  "nim_id": "202601600",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/669a3bcb-8b49-4a4a-b15b-c9fdc58f7c9d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
