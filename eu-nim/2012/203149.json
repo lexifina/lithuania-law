@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2012 m. balandžio 27 d. įsakymas Nr. V-374 „Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2011 m. kovo 2 d. įsakymo Nr. V-199 \"Dėl Lietuvos higienos normos HN 80:2011 \"Elektromagnetinis laukas darbo vietose ir gyvenamojoje aplinkoje. Parametrų normuojamos vertės ir matavimo reikalavimai 10 kHz-300 GHz radijo dažnių juostoje“ patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "51",
+  "official_journal_page": null,
+  "official_journal_date": "2012-05-03",
+  "entry_into_force": "2012-05-04",
+  "notification_date": "2013-04-19",
+  "commission_reference": "MNE(2013)52737",
+  "nim_celex": "72012L0011LTU_203149",
+  "nim_id": "203149",
+  "transposes_celex": [
+    "32012L0011"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b3136a1e-af57-45c0-9ce4-4b80d88f26cb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
