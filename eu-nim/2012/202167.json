@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2012 m. gegužės 7 d. įsakymas Nr. A1-227 \"Dėl Specializuotos pagalbos centrų veiklos aprašo patvirtinimo\"",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "54",
+  "official_journal_page": null,
+  "official_journal_date": "2012-05-10",
+  "entry_into_force": "2012-05-11",
+  "notification_date": "2013-03-18",
+  "commission_reference": "MNE(2013)51956",
+  "nim_celex": "72012L0029LTU_202167",
+  "nim_id": "202167",
+  "transposes_celex": [
+    "32012L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cd1278fa-8e20-4984-a4c8-4fd83196a55a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
