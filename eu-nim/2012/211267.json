@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos policijos mokyklos viršininko 2012 m. gegužės 21 d. įsakymas Nr. 144-V-154 \"Dėl seminaro \"Apsauga nuo smurto artimoje aplinkoje\" teminio plano patvirtinimo\"",
+  "type_of_act": "Administracinės priemonės",
+  "official_journal": "Administracinės priemonės",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2012-05-21",
+  "entry_into_force": "2012-05-21",
+  "notification_date": null,
+  "commission_reference": "MNE(2013)59501",
+  "nim_celex": "72011L0093LTU_211267",
+  "nim_id": "211267",
+  "transposes_celex": [
+    "32011L0093"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/69739eee-92fc-4ae8-9f63-76ffa56f53eb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
