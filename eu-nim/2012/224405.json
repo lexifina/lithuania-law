@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2012 m. gegužės 18 d. įsakymas Nr. V-449 „Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2000 m. sausio 6 d. įsakymo Nr. 5 „Dėl narkotinių ir psichotropinių medžiagų sąrašų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "59",
+  "official_journal_page": null,
+  "official_journal_date": "2012-05-24",
+  "entry_into_force": "2012-05-25",
+  "notification_date": "2015-03-09",
+  "commission_reference": "MNE(2015)51561",
+  "nim_celex": "72005D0387LTU_224405",
+  "nim_id": "224405",
+  "transposes_celex": [
+    "32005D0387"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fe0bb4bc-6321-11e7-b2f2-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
