@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos prekių ženklų įstatymo 2, 5, 7, 8, 9, 11, 12, 13, 15, 16, 19, 23, 25, 26, 27, 32, 34, 36, 38, 43, 44, 46, 47, 49 straipsnių, Įstatymo priedo pakeitimo ir papildymo ir Įstatymo papildymo 23(1) straipsniu įstatymas Nr. XI-2396",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "135",
+  "official_journal_page": null,
+  "official_journal_date": "2012-11-22",
+  "entry_into_force": "2012-06-01",
+  "notification_date": "2013-03-18",
+  "commission_reference": "MNE(2013)51960",
+  "nim_celex": "72008L0095LTU_202171",
+  "nim_id": "202171",
+  "transposes_celex": [
+    "32008L0095"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1689e089-da84-4ab7-93e9-abd0f8e5af86",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
