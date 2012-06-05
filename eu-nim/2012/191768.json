@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių teisės pažeidimų kodekso 107(3) straipsnio pakeitimo ir papildymo įstatymas Nr. XI-2022",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "63",
+  "official_journal_page": null,
+  "official_journal_date": "2012-06-05",
+  "entry_into_force": "2012-06-05",
+  "notification_date": "2012-06-21",
+  "commission_reference": "MNE(2012)52767",
+  "nim_celex": "72009L0128LTU_191768",
+  "nim_id": "191768",
+  "transposes_celex": [
+    "32009L0128"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d1309799-f562-4029-b95e-4913a929702b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
