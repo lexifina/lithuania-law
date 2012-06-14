@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro ir Lietuvos Respublikos žemės ūkio ministro 2012 m. birželio 8 d. įsakymas Nr. D1-490/3D-391 „Dėl vandenų taršos dėl žemės ūkio veiklos poveikio mažinimo programos patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "66",
+  "official_journal_page": null,
+  "official_journal_date": "2012-06-13",
+  "entry_into_force": "2012-06-14",
+  "notification_date": "2012-09-27",
+  "commission_reference": "MNE(2012)52881",
+  "nim_celex": "71991L0676LTU_192225",
+  "nim_id": "192225",
+  "transposes_celex": [
+    "31991L0676"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bd18d440-baa6-4c03-9e45-fc1b43352e28",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
