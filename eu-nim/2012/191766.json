@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos suskystintų gamtinių dujų terminalo įstatymas Nr. XI-2053",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "68",
+  "official_journal_page": null,
+  "official_journal_date": "2012-06-19",
+  "entry_into_force": "2012-06-19",
+  "notification_date": "2012-06-25",
+  "commission_reference": "MNE(2012)52765",
+  "nim_celex": "72009L0073LTU_191766",
+  "nim_id": "191766",
+  "transposes_celex": [
+    "32009L0073"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/614409d2-b013-4854-a7ba-931494c1b2ed",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
