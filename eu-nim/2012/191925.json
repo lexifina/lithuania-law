@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos gamtinių dujų įstatymo 2, 5, 19, 20, 21, 23, 26, 28, 29, 30, 33, 35, 36, 37, 38, 40, 43, 46, 47, 54, 56, 57, 58, 63 straipsnių pakeitimo ir papildymo ir 22 straipsnio pripažinimo netekusiu galios įstatymas Nr. XI-2054",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "68",
+  "official_journal_page": null,
+  "official_journal_date": "2012-06-19",
+  "entry_into_force": "2012-06-19",
+  "notification_date": "2012-06-25",
+  "commission_reference": "MNE(2012)52796",
+  "nim_celex": "72009L0073LTU_191925",
+  "nim_id": "191925",
+  "transposes_celex": [
+    "32009L0073"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/626dfb3a-b7bc-47f8-9d67-15d8d86096d8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
