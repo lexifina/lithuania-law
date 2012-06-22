@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2012 m. birželio 18 d. įsakymas Nr. 1-115 \"Dėl naujų gamtinių dujų sistemų, tiesioginių vamzdynų ir biodujų gamybos įrenginių prijungimo prie veikiančių gamtinių dujų perdavimo ar skirstymo sistemų tvarkos ir sąlygų aprašo patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "69",
+  "official_journal_page": null,
+  "official_journal_date": "2012-06-21",
+  "entry_into_force": "2012-06-22",
+  "notification_date": "2012-12-04",
+  "commission_reference": "MNE(2012)56921",
+  "nim_celex": "72009L0073LTU_198558",
+  "nim_id": "198558",
+  "transposes_celex": [
+    "32009L0073"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b6573d23-3d36-4e14-a248-b9342e575545",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
