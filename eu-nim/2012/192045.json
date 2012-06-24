@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro 2012 m. birželio 14 d. įsakymas Nr. 1V-468 \"Dėl Lietuvos Respublikos vidaus reikalų ministro 2005 m. birželio 14 d. įsakymo Nr. 1V-186 „Dėl vairuotojo pažymėjimo blanko aprašymo ir privalomosios formos patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "70",
+  "official_journal_page": null,
+  "official_journal_date": "2012-06-23",
+  "entry_into_force": "2012-06-24",
+  "notification_date": "2012-06-27",
+  "commission_reference": "MNE(2012)52846",
+  "nim_celex": "72006L0126LTU_192045",
+  "nim_id": "192045",
+  "transposes_celex": [
+    "32006L0126"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1b324d02-0f89-46f4-8191-4b1b8977f936",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
