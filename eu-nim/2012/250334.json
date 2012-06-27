@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo 2, 3, 4, 5, 6, 7, 11, 14, 15, 18, 22 straipsnių pakeitimo ir papildymo įstatymas XI-2063",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "72",
+  "official_journal_page": null,
+  "official_journal_date": "2012-06-27",
+  "entry_into_force": "2012-06-27",
+  "notification_date": "2017-08-29",
+  "commission_reference": "MNE(2017)54724",
+  "nim_celex": "72014L0087LTU_250334",
+  "nim_id": "250334",
+  "transposes_celex": [
+    "32014L0087"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/74cc3260-38a9-45ee-b981-aea103bc2bcc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
