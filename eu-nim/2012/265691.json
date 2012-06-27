@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2012 m. birželio 20 d. nutarimas Nr. 722 „Dėl Branduolinės energetikos srities veiklos licencijų ir leidimų išdavimo taisyklių patvirtinimo ir Lietuvos Respublikos Vyriausybės 1998 m. sausio 27 d. nutarimo Nr. 103 „Dėl Veiklos branduolinėje energetikoje licencijavimo nuostatų patvirtinimo“ (Suvestinė redakcija nuo 2018-06-09)",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "71-3659",
+  "official_journal_page": null,
+  "official_journal_date": "2012-06-26",
+  "entry_into_force": "2012-06-27",
+  "notification_date": "2018-12-10",
+  "commission_reference": "MNE(2018)56498",
+  "nim_celex": "72013L0059LTU_265691",
+  "nim_id": "265691",
+  "transposes_celex": [
+    "32013L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/371c175e-7e77-4f27-b3f4-b897280f70b7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
