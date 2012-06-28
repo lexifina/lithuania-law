@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Kalėjimų departamento prie Lietuvos Respublikos teisingumo ministerijos direktoriaus 2012 birželio 25 d. įsakymas Nr. V-211 „Dėl Nusikalstamo elgesio rizikos vertinimo metodikų ir elgesio pataisos programų aprobavimo Lietuvos bausmių vykdymo sistemoje tvarkos aprašo patvirtinimo ir adaptuotų nusikalstamo elgesio rizikos vertinimo metodikų ir elgesio pataisos programų aprobavimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "72",
+  "official_journal_page": null,
+  "official_journal_date": "2012-06-27",
+  "entry_into_force": "2012-06-28",
+  "notification_date": "2013-12-04",
+  "commission_reference": "MNE(2013)59352",
+  "nim_celex": "72011L0093LTU_211087",
+  "nim_id": "211087",
+  "transposes_celex": [
+    "32011L0093"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/be0507e3-6b4d-412b-a1f7-475b3d87964f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
