@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2012 m. birželio 18 d. įsakymas Nr. D1-521 \"Dėl Lietuvos Respublikos aplinkos ministro 2009 m. birželio 23 d. įsakymo Nr. D1-350 \"Dėl Informacinės sistemos \"Aplinkos informacijos valdymo integruota kompiuterinė sistema\" (IS \"AIVIKS\") nuostatų patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "72-3755",
+  "official_journal_page": null,
+  "official_journal_date": "2012-06-27",
+  "entry_into_force": "2012-06-28",
+  "notification_date": "2022-11-17",
+  "commission_reference": "MNE(2022)06897",
+  "nim_celex": "72000L0060LTU_202206897",
+  "nim_id": "202206897",
+  "transposes_celex": [
+    "32000L0060"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9078b1a3-671b-11ed-b14f-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
