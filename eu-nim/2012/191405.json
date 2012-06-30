@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2012 m. gegužės 29 d. nutarimas Nr. 617 „Dėl Lietuvos Respublikos Vyriausybės 2004 m. liepos 22 d. nutarimo Nr. 932 „Dėl Strateginių prekių eksporto, importo, tranzito ir tarpininkavimo licencijavimo taisyklių ir strateginių prekių kontrolės vykdymo taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "64",
+  "official_journal_page": null,
+  "official_journal_date": "2012-06-07",
+  "entry_into_force": "2012-06-30",
+  "notification_date": "2012-06-12",
+  "commission_reference": "MNE(2012)52671",
+  "nim_celex": "72009L0043LTU_191405",
+  "nim_id": "191405",
+  "transposes_celex": [
+    "32009L0043"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3fc8ca70-3214-4fb0-abf0-990661da979d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
