@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2012 m. birželio 27 d. nutarimas Nr. 762 „Dėl Lietuvos Respublikos Vyriausybės 2001 m. kovo 14 d. nutarimo Nr. 291 „Dėl Lietuvos Respublikos vidaus reikalų ministerijos nuostatų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "75",
+  "official_journal_page": null,
+  "official_journal_date": "2012-06-29",
+  "entry_into_force": "2012-06-30",
+  "notification_date": "2013-04-03",
+  "commission_reference": "MNE(2013)52285",
+  "nim_celex": "72011L0036LTU_202578",
+  "nim_id": "202578",
+  "transposes_celex": [
+    "32011L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9d53d746-0451-4e41-9f6f-976fca3bc726",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
