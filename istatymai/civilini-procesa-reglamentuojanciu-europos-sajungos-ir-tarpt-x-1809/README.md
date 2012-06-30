@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2008-11-29 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/b349de6061506b3d9caa34c33073b9fa3096fc72/istatymai/TAR.68CC8934A031.md) |
+| 2012-06-30 | 2014-07-31 | Įstatymas Nr. XI-2081 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/f533c40dad1914c1aacae13983fd43a657ce64b4/istatymai/TAR.68CC8934A031.md) |
