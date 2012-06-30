@@ -12,3 +12,4 @@ priedas
 5. 2006 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1896/2006, nustatantis Europos mokėjimo įsakymo procedūrą (OL 2006 L 399, p. 1).
 6. 2007 m. liepos 11 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 861/2007, nustatantis Europos ieškinių dėl nedidelių sumų nagrinėjimo procedūrą (OL 2007 L 199, p. 1).
 7. 2007 m. lapkričio 13 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1393/2007 dėl teisminių ir neteisminių dokumentų civilinėse arba komercinėse bylose įteikimo valstybėse narėse („dokumentų įteikimas“) ir panaikinantis Tarybos reglamentą (EB) Nr. 1348/2000 (OL 2007 L 324, p. 79).
+8. 2008 m. gruodžio 18 d. Tarybos reglamentas (EB) Nr. 4/2009 dėl jurisdikcijos, taikytinos teisės, teismo sprendimų pripažinimo ir vykdymo bei bendradarbiavimo išlaikymo prievolių srityje (OL 2009 L 7, p. 1).
