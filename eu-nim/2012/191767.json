@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos augalų apsaugos įstatymo pakeitimo įstatymas Nr. XI-2021",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "63",
+  "official_journal_page": null,
+  "official_journal_date": "2012-06-05",
+  "entry_into_force": "2012-07-01",
+  "notification_date": "2012-06-21",
+  "commission_reference": "MNE(2012)52766",
+  "nim_celex": "72009L0128LTU_191767",
+  "nim_id": "191767",
+  "transposes_celex": [
+    "32009L0128"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/22798674-9b20-4d03-8da4-e1603a74e6aa",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
