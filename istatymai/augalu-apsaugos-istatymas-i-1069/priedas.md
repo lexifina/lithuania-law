@@ -2,5 +2,6 @@
 Lietuvos Respublikos
 augalų apsaugos įstatymo
 priedas
-ĮGYVENDINAMAS EUROPOS SĄJUNGOS TEISĖS AKTAS
-1991 m. liepos 15 d. Tarybos direktyva 91/414/EEB dėl augalų apsaugos produktų pateikimo į rinką (OL 2004 m. specialusis leidimas, 3 skyrius, 11 tomas, p. 332) su paskutiniais pakeitimais, padarytais 2009 m. liepos 13 d. Tarybos direktyva 2009/82/EB (OL 2009 L 196, p. 10).
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+1. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1107/2009 dėl augalų apsaugos produktų pateikimo į rinką ir panaikinantis Tarybos direktyvas 79/117/EEB ir 91/414/EEB (OL 2009 L 309, p. 1).
+2. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos direktyva 2009/128/EB, nustatanti Bendrijos veiksmų pagrindus siekiant tausiojo pesticidų naudojimo (OL 2009 L 309, p. 71).
