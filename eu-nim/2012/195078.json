@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo pakeitimo įstatymas Nr. XI-2055",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "68",
+  "official_journal_page": null,
+  "official_journal_date": "2012-06-19",
+  "entry_into_force": "2012-07-01",
+  "notification_date": "2012-08-22",
+  "commission_reference": "MNE(2012)53851",
+  "nim_celex": "72009L0119LTU_195078",
+  "nim_id": "195078",
+  "transposes_celex": [
+    "32009L0119"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9c299a25-06a2-422b-904e-b07b1d2d5c69",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
