@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos bausmių vykdymo kodekso 18, 19, 66, 90, 91, 126, 138, 140, 152, 154, 157, 158, 159, 164, 176 straipsnių pakeitimo ir 127, 160, 161, 162, 163, 179 straipsnių pripažinimo netekusiais galios įstatymas Nr. XI-1863",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "4",
+  "official_journal_page": null,
+  "official_journal_date": "2012-01-06",
+  "entry_into_force": "2012-07-01",
+  "notification_date": "2013-12-04",
+  "commission_reference": "MNE(2013)59342",
+  "nim_celex": "72011L0093LTU_211077",
+  "nim_id": "211077",
+  "transposes_celex": [
+    "32011L0093"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b1041b39-63b3-401b-8dc9-3c87d701765c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
