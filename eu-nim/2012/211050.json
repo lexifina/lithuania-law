@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo kodekso 48, 64, 67, 75, 82, 87, 92 straipsnių pakeitimo ir 77, 94 straipsnių pripažinimo netekusiais galios įstatymas Nr. XI-1861",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "5",
+  "official_journal_page": null,
+  "official_journal_date": "2012-01-07",
+  "entry_into_force": "2012-07-01",
+  "notification_date": "2013-12-04",
+  "commission_reference": "MNE(2013)59320",
+  "nim_celex": "72005F0212LTU_211050",
+  "nim_id": "211050",
+  "transposes_celex": [
+    "32005F0212",
+    "32011L0093",
+    "32011L0099"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f4f70134-ca8f-4099-9139-d05e7fae74ac",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
