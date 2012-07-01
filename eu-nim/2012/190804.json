@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo 2, 4, 6, 12 straipsnių pakeitimo ir papildymo įstatymas Nr. XI-1980",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "51",
+  "official_journal_page": null,
+  "official_journal_date": "2012-05-03",
+  "entry_into_force": "2012-07-01",
+  "notification_date": "2012-08-30",
+  "commission_reference": "MNE(2012)52350",
+  "nim_celex": "72003L0004LTU_190804",
+  "nim_id": "190804",
+  "transposes_celex": [
+    "32003L0004"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0be4d1e1-645a-4139-9b0e-0c606fbd6265",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
