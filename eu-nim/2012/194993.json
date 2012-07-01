@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus vandenų transporto kodekso 4(1) ir 16 straipsnių pakeitimo įstatymas Nr. XI-2132",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "77",
+  "official_journal_page": null,
+  "official_journal_date": "2012-07-01",
+  "entry_into_force": "2012-07-01",
+  "notification_date": "2012-08-16",
+  "commission_reference": "MNE(2012)53777",
+  "nim_celex": "71987L0540LTU_194993",
+  "nim_id": "194993",
+  "transposes_celex": [
+    "31987L0540"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4659d3b8-fca3-4234-b71b-606853af5a76",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
