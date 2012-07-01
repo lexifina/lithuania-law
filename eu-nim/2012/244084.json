@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos civilinio proceso kodekso 542, 543, 544, 545, 551, 554, 566, 715, 744, 745, 746, 747 straipsnių pakeitimo ir papildymo ir 546, 547, 548, 549, 550, 552, 553, 555, 556, 557, 558, 559, 560, 561, 562, 563, 564, 565, 567, 568, 569 straipsnių pripažinimo netekusiais galios įstatymas Nr. XI-1843",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "6",
+  "official_journal_page": null,
+  "official_journal_date": "2012-01-10",
+  "entry_into_force": "2012-07-01",
+  "notification_date": "2017-01-06",
+  "commission_reference": "MNE(2017)50179",
+  "nim_celex": "72014L0017LTU_244084",
+  "nim_id": "244084",
+  "transposes_celex": [
+    "32014L0017"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/96f4d666-286a-4323-a323-3432634ff568",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
