@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo 1, 2, 11, 12, 13, 18, 19, 22, 25, 27, 29, 33 straipsnių ir priedo pakeitimo ir papildymo įstatymas Nr. XI-2045",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "69",
+  "official_journal_page": null,
+  "official_journal_date": "2012-06-21",
+  "entry_into_force": "2012-07-01",
+  "notification_date": "2012-08-16",
+  "commission_reference": "MNE(2012)53778",
+  "nim_celex": "71991L0383LTU_194994",
+  "nim_id": "194994",
+  "transposes_celex": [
+    "31991L0383",
+    "32010L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9b8a527b-92e3-433d-abae-f860f9bb51a2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
