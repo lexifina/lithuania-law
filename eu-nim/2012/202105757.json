@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Seimo nutarimas Nr. XI-2133 \"Dėl Nacionalinės energetinės nepriklausomybės strategijos patvirtinimo\" (suvestinė redakcija nuo 2018-06-30)",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "80-4149",
+  "official_journal_page": null,
+  "official_journal_date": "2012-07-10",
+  "entry_into_force": "2012-07-11",
+  "notification_date": "2021-08-04",
+  "commission_reference": "MNE(2021)05757",
+  "nim_celex": "72018L2001LTU_202105757",
+  "nim_id": "202105757",
+  "transposes_celex": [
+    "32018L2001"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c1a8f214-f685-11eb-9037-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
