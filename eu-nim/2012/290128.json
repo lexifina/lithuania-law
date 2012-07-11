@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2012 m. birželio 28 d. įsakymas Nr. D1-554 „Dėl Reikalavimų visuomenės švietimui ir informavimui atliekų, kurioms taikomas gamintojo atsakomybės principas, tvarkymo klausimais tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "80-4206",
+  "official_journal_page": null,
+  "official_journal_date": "2012-07-10",
+  "entry_into_force": "2012-07-11",
+  "notification_date": "2020-11-30",
+  "commission_reference": "MNE(2020)58201",
+  "nim_celex": "72018L0851LTU_290128",
+  "nim_id": "290128",
+  "transposes_celex": [
+    "32018L0851"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/466c01ae-b2aa-4ae5-a093-f8b15b4bf793",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
