@@ -15,9 +15,9 @@ socialinio draudimo netekto darbingumo pensijos dydį, netekus 60–70 procentų
 darbingumo (II grupės invalidumo pensija), o po to
 mažinamas 50 procentų.
 3. Valstybinių
-socialinio draudimo našlaičių (maitintojo netekimo) pensijų gavėjams kompensacinis
-priedas apskaičiuojamas šio straipsnio 1 dalyje nustatyta tvarka, taikant pusės
-ribinio valstybinės socialinio draudimo pensijos dydžio dydį.
+socialinio draudimo našlaičių (maitintojo netekimo) pensijų gavėjams
+kompensacinis priedas apskaičiuojamas šio straipsnio 1 dalyje nustatyta tvarka,
+taikant pusės ribinio valstybinės socialinio draudimo pensijos dydžio dydį.
 4. Asmenims,
 kurie gauna užsienio valstybės pensiją, asmens teisė gauti kompensacinį
 priedą nustatoma asmeniui pateikus duomenis apie užsienio valstybės paskirtos
@@ -53,19 +53,19 @@ draudžiamųjų pajamų
 1. Valstybinių socialinio draudimo senatvės, ištarnauto
 laiko pensijų, perskaičiuotų pagal šio įstatymo 6 ir 7 straipsnius, ir
 kompensacijų už ypatingas darbo sąlygas gavėjams (toliau šiame straipsnyje –
-pensijų gavėjai), kurie po pensijos paskyrimo yra arba buvo draudžiami
-privalomuoju valstybiniu socialiniu pensijų draudimu pagal Valstybinių
-socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies 1, 3, 4, 5 ir 13
-punktus ir praėjusį kalendorinį mėnesį turėjo draudžiamųjų pajamų, mokama
-pensijos dalis, apskaičiuota taikant koeficientą, apskaičiuotą pagal šio
-įstatymo 2 priede nurodytą formulę, atsižvelgiant į praėjusio kalendorinio
-mėnesio draudžiamųjų pajamų dydį.
+pensijų gavėjai), kurie po pensijos paskyrimo yra arba buvo draudžiami privalomuoju
+valstybiniu socialiniu pensijų draudimu pagal Valstybinių socialinio draudimo
+pensijų įstatymo 2 straipsnio 1 dalies 1, 3, 4, 5 ir 13 punktus ir praėjusį
+kalendorinį mėnesį turėjo draudžiamųjų pajamų, mokama pensijos dalis,
+apskaičiuota taikant koeficientą, apskaičiuotą pagal šio įstatymo 2 priede
+nurodytą formulę, atsižvelgiant į praėjusio kalendorinio mėnesio draudžiamųjų
+pajamų dydį.
 2. Pensijų gavėjams, nurodytiems Valstybinių socialinio
 draudimo pensijų įstatymo 2 straipsnio 1 dalies 8 punkte, mokama
 pagrindinė valstybinės socialinio draudimo pensijos dalis, nustatyta šio
 įstatymo 6 straipsnyje, ir priedas už stažo metus. Pasibaigus mokestiniam
-laikotarpiui, šių asmenų pensijos perskaičiuojamos už atitinkamą mokestinį laikotarpį,
-atsižvelgiant į metinėje pajamų mokesčio ar metinėje pelno mokesčio
+laikotarpiui, šių asmenų pensijos perskaičiuojamos už atitinkamą mokestinį
+laikotarpį, atsižvelgiant į metinėje pajamų mokesčio ar metinėje pelno mokesčio
 deklaracijoje deklaruotų apmokestinamųjų pajamų ar apmokestinamojo pelno dydį,
 taikant koeficientą, apskaičiuotą pagal šio įstatymo 2 priede nurodytą formulę.
 Jeigu šie asmenys mokestiniu laikotarpiu valstybiniu socialiniu pensijų
@@ -86,7 +86,12 @@ duomenis apie dirbančių pensijų gavėjų mėnesio draudžiamąsias pajamas pr
 teikti Valstybinio socialinio draudimo fondo valdybos teritoriniams skyriams
 kas mėnesį Valstybinio socialinio draudimo fondo valdybos direktoriaus
 nustatyta tvarka.
+8 straipsnis netenka galios nuo
+2012-09-01.
 Straipsnio
 pakeitimai:
 Nr. XI-1072,
 2010-10-26, Žin., 2010, Nr. 132-6717 (2010-11-11)
+Nr.
+XI-2195,
+2012-06-30, Žin., 2012, Nr. 82-4274 (2012-07-13)

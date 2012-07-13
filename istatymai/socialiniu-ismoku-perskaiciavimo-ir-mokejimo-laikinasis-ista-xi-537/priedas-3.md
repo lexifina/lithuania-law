@@ -21,4 +21,9 @@ K = 0,3, kai DP > = 4 200.
 Šioje formulėje:
 K – koeficientas;
 DP– asmens draudžiamosios pajamos.
-_______________
+2 priedas netenka galios nuo 2012-09-01.
+Priedo
+pakeitimai:
+Nr.
+XI-2195,
+2012-06-30, Žin., 2012, Nr. 82-4274 (2012-07-13)
