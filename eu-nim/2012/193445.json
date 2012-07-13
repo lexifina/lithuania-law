@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo kodekso 147, 147(1), 157, 303 straipsnių ir priedo pakeitimo ir papildymo ir Kodekso papildymo 147(2) straipsniu įstatymas Nr. XI-2198",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "82",
+  "official_journal_page": null,
+  "official_journal_date": "2012-07-13",
+  "entry_into_force": "2012-07-13",
+  "notification_date": "2012-08-06",
+  "commission_reference": "MNE(2012)53247",
+  "nim_celex": "72004L0023LTU_193445",
+  "nim_id": "193445",
+  "transposes_celex": [
+    "32004L0023",
+    "32011L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cba2bc5b-a2d6-41fd-b58f-8fa917845bf6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
