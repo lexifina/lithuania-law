@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2012 m. liepos 5 d. įsakymas Nr. 3D-568 \"Dėl žemės ūkio ministro 2004 m. gruodžio 29 d. įsakymo Nr. 3D-685 \"Dėl Žemės ir miškų ūkio traktorių, jų priekabų ir prikabinamųjų mašinų atitikties įvertinimo taisyklių patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "81",
+  "official_journal_page": null,
+  "official_journal_date": "2012-07-12",
+  "entry_into_force": "2012-07-13",
+  "notification_date": "2012-07-24",
+  "commission_reference": "MNE(2012)53311",
+  "nim_celex": "72011L0072LTU_193670",
+  "nim_id": "193670",
+  "transposes_celex": [
+    "32011L0072",
+    "32011L0087"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/07ed159d-9228-484e-b96d-f568995c5183",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
