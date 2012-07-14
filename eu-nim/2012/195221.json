@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2012 m. liepos 4 d. įsakymas Nr. D1-575 \"Dėl Lietuvos Respublikos aplinkos ministro 2007 m. kovo 23 d. įsakymo Nr. D1-172 \"Dėl Požeminio vandens telkinių būklės vertinimo kriterijų nustatymo tvarkos aprašo patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "82",
+  "official_journal_page": null,
+  "official_journal_date": "2012-07-13",
+  "entry_into_force": "2012-07-14",
+  "notification_date": "2012-11-06",
+  "commission_reference": "MNE(2012)53977",
+  "nim_celex": "72006L0118LTU_195221",
+  "nim_id": "195221",
+  "transposes_celex": [
+    "32006L0118"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/93f2a011-718f-4897-a869-93d8c77edb09",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
