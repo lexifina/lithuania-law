@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2012 m. liepos 3 d. įsakymnas Nr. V-668 \"Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2004 m. balandžio 19 d. įsakymo Nr. V-237 ,,Dėl statistinės ataskaitos formos tvirtinimo ir sveikatos apsaugos ministro 1999 m. lapkričio 29 d. įsakymo Nr. 515 ,,dėl sveikatos priežiūros įstaigų veiklos apskaitos ir atskaitomybės tvarkos\" pakeitimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "82",
+  "official_journal_page": null,
+  "official_journal_date": "2012-07-13",
+  "entry_into_force": "2012-07-14",
+  "notification_date": "2013-03-06",
+  "commission_reference": "MNE(2013)51708",
+  "nim_celex": "72002L0098LTU_201862",
+  "nim_id": "201862",
+  "transposes_celex": [
+    "32002L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e92f9a15-3e16-4ebc-ba7a-1f5a31f80c80",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
