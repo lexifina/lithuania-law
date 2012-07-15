@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės maisto ir veterinarijos tarnybos direktoriaus 2012 m. birželio 29 d. įsakymas Nr. Nr. B1-513 \"Dėl Valstybinės maisto ir veterinarijos tarnybos direktoriaus 2002 m. birželio 14 d. įsakymo Nr. 276 \"Dėl Mėlynojo liežuvio ligos kontrolės ir likvidavimo veterinarijos reikalavimų patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "83",
+  "official_journal_page": null,
+  "official_journal_date": "2012-07-14",
+  "entry_into_force": "2012-07-15",
+  "notification_date": "2012-08-01",
+  "commission_reference": "MNE(2012)53635",
+  "nim_celex": "72012L0005LTU_194805",
+  "nim_id": "194805",
+  "transposes_celex": [
+    "32012L0005"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2970f24f-e747-4b37-a3f5-11a16eb21cc3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
