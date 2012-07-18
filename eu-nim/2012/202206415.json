@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2012 m. liepos 5 d. įsakymas Nr. V-698 \"Dėl Privalomojo sveikatos draudimo fondo biudžeto lėšomis kompensuojamų ortopedijos techninių priemonių ir medicinos priemonių bei jų bazinių kainų sąrašų patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "84",
+  "official_journal_page": "4405",
+  "official_journal_date": "2012-07-17",
+  "entry_into_force": "2012-07-18",
+  "notification_date": "2022-12-07",
+  "commission_reference": "MNE(2022)06415",
+  "nim_celex": "72011L0024LTU_202206415",
+  "nim_id": "202206415",
+  "transposes_celex": [
+    "32011L0024"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8f769f51-779d-11ed-9887-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
