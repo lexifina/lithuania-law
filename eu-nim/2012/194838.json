@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2012 m. liepos 12 d. nutarimas Nr. 03-147 „Dėl Kolektyvinio investavimo subjektų rizikos vertinimo, valdymo ir dėl išvestinių finansinių priemonių prisiimtos rizikos apimties bei sandorio šalies rizikos skaičiavimo taisyklių patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "85",
+  "official_journal_page": null,
+  "official_journal_date": "2012-07-19",
+  "entry_into_force": "2012-07-20",
+  "notification_date": "2012-09-05",
+  "commission_reference": "MNE(2012)53658",
+  "nim_celex": "72010L0043LTU_194838",
+  "nim_id": "194838",
+  "transposes_celex": [
+    "32010L0043"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f95cc69a-7897-4435-8ddd-56ba68f7a415",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
