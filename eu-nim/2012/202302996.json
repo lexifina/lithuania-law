@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2012 m. liepos 12 d. nutarimas Nr. 03-144 „Dėl Valdymo įmonių veiklos organizavimo ir vykdymo taisyklių patvirtinimo“ (suvestinė redakcija nuo 2019-02-21 iki 2022-07-31)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "85-4494",
+  "official_journal_page": null,
+  "official_journal_date": "2012-07-19",
+  "entry_into_force": "2012-07-20",
+  "notification_date": "2023-06-14",
+  "commission_reference": "MNE(2023)02996",
+  "nim_celex": "72021L1270LTU_202302996",
+  "nim_id": "202302996",
+  "transposes_celex": [
+    "32021L1270"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/200cd013-0c0e-11ee-b12e-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
