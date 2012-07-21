@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2012 m. liepos 12 d.  nutarimas Nr. 03-154 „Dėl Valdymo įmonių, kolektyvinio investavimo subjektų ir pensijų fondų informacijos rengimo ir teikimo taisyklių patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "86",
+  "official_journal_page": null,
+  "official_journal_date": "2012-07-20",
+  "entry_into_force": "2012-07-21",
+  "notification_date": "2016-12-21",
+  "commission_reference": "MNE(2016)57671",
+  "nim_celex": "72014L0091LTU_243540",
+  "nim_id": "243540",
+  "transposes_celex": [
+    "32014L0091"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/884e77e0-7ffd-41be-aa88-7d92349a8d0c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
