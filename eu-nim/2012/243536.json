@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2012 m. liepos 12 d. nutarimas Nr. 03-166 „Dėl Finansų maklerio įmonių, valdymo įmonių ir investicinių bendrovių darbuotojų atlyginimų politikos reikalavimų patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "87",
+  "official_journal_page": null,
+  "official_journal_date": "2012-07-21",
+  "entry_into_force": "2012-07-22",
+  "notification_date": "2016-12-21",
+  "commission_reference": "MNE(2016)57667",
+  "nim_celex": "72014L0091LTU_243536",
+  "nim_id": "243536",
+  "transposes_celex": [
+    "32014L0091"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/612995dd-3c1a-4785-97be-b3651a89f3b4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
