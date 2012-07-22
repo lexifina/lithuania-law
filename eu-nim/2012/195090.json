@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2012 m. liepos 12 d. nutarimas Nr. 03-160 „Dėl Finansų maklerio įmonių ir valdymo įmonių visuomenei skelbiamos informacijos taisyklių patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "87",
+  "official_journal_page": null,
+  "official_journal_date": "2012-07-21",
+  "entry_into_force": "2012-07-22",
+  "notification_date": "2013-05-13",
+  "commission_reference": "MNE(2012)53863",
+  "nim_celex": "72010L0076LTU_195090",
+  "nim_id": "195090",
+  "transposes_celex": [
+    "32010L0076"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fe1c90cf-989f-4f71-a8b5-72e89dbe6f44",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
