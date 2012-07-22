@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro2012 m. liepos 5 d. įsakymas Nr. 4-642 \"Dėl Lietuvos Respublikos ūkio ministro 2000 m. spalio 6 d. įsakymo Nr. 349 \"Dėl Slėginių įrenginių techninio reglamento tvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "4",
+  "official_journal_page": null,
+  "official_journal_date": "2012-07-21",
+  "entry_into_force": "2012-07-22",
+  "notification_date": "2013-01-04",
+  "commission_reference": "MNE(2013)50078",
+  "nim_celex": "71997L0023LTU_199825",
+  "nim_id": "199825",
+  "transposes_celex": [
+    "31997L0023"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/653bae93-2d60-4110-bb57-c4a0356673f3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
