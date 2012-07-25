@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2012 m. liepos 18 d. nutarimas Nr.896 \"Dėl Atliekų tvarkytojų valstybės registro įsteigimo, Atliekų tvarkytojų valstybės registro nuostatų patvirtinimo ir registro veiklos pradžios nustatymo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "88",
+  "official_journal_page": null,
+  "official_journal_date": "2012-07-24",
+  "entry_into_force": "2012-07-25",
+  "notification_date": "2012-08-30",
+  "commission_reference": "MNE(2012)53975",
+  "nim_celex": "72008L0098LTU_195219",
+  "nim_id": "195219",
+  "transposes_celex": [
+    "32008L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d5063596-ce5c-4dad-98be-b957ad8c7a60",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
