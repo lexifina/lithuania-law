@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2012 m. liepos 18 d. nutarimas Nr. 937 „Dėl licencijavimo pagrindų aprašo ir Licencijų informacinės sistemos nuostatų patvirtinimo“ (suvestinė redakcija nuo 2023-04-22 iki 2023-12-31)",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "90-4697",
+  "official_journal_page": null,
+  "official_journal_date": "2012-07-28",
+  "entry_into_force": "2012-07-29",
+  "notification_date": "2024-07-12",
+  "commission_reference": "MNE(2024)03125",
+  "nim_celex": "72023L2413LTU_202403125",
+  "nim_id": "202403125",
+  "transposes_celex": [
+    "32023L2413"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cf75db34-d26b-418a-b574-96bed72d1833",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
