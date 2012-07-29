@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės vaistų kontrolės tarnybos prie Lietuvos Res­pub­likos sveikatos apsaugos ministerijos viršininko 2012 m. liepos 24 d. įsakymas Nr. (1.4)1A-782 \"Dėl Paraiškų gauti vaistinio preparato rinkodaros teisę, atnaujinti vaistinio preparato rinkodaros teisę, reglamentiniam rinkodaros pažymėjimo sąlygų keitimui, vaistinio preparato rinkodaros teisei perleisti, nereglamentiniam pakuotės ir (ar) pakuotės lapelio keitimui formų ir rinkodaros (registracijos) pažymėjimo priedų formų patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "90",
+  "official_journal_page": null,
+  "official_journal_date": "2012-07-28",
+  "entry_into_force": "2012-07-29",
+  "notification_date": "2013-04-26",
+  "commission_reference": "MNE(2013)53115",
+  "nim_celex": "72010L0084LTU_203617",
+  "nim_id": "203617",
+  "transposes_celex": [
+    "32010L0084"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/19b97b5b-4334-4f4e-ba78-2c08abc4ed02",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
