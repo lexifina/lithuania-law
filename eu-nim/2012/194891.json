@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo 1, 6, 9 straipsnių pakeitimo ir papildymo,  įstatymo papildymo ketvirtuoju (1) skirsniu, 13(1) straipsniu  ir priedu įstatymas Nr. XI-2193",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "82",
+  "official_journal_page": null,
+  "official_journal_date": "2012-07-13",
+  "entry_into_force": "2012-08-01",
+  "notification_date": "2012-08-08",
+  "commission_reference": "MNE(2012)53710",
+  "nim_celex": "72009L0052LTU_194891",
+  "nim_id": "194891",
+  "transposes_celex": [
+    "32009L0052"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7e734040-05bb-4ab9-a03f-e46ef72dd0cf",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
