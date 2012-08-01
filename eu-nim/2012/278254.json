@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2012 m. liepos 4 d. įsakymas Nr. 1-127 \"Dėl Elektros energijos gamintojų ir vartotojų elektros įrenginių prijungimo prie elektros tinklų tvarkos aprašo patvirtinimo\" (Suvestinė redakcija nuo 2019-10-01 iki 2019-12-31)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "82-4279",
+  "official_journal_page": null,
+  "official_journal_date": "2012-07-13",
+  "entry_into_force": "2012-08-01",
+  "notification_date": "2019-11-15",
+  "commission_reference": "MNE(2019)56140",
+  "nim_celex": "72019L0944LTU_278254",
+  "nim_id": "278254",
+  "transposes_celex": [
+    "32019L0944"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/afab329d-eed0-4d6c-93fd-06787ae6a68d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
