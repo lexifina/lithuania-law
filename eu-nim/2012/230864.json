@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2012 m. rugpjūčio 2 d. įsakymas Nr. 1-148 \"Dėl Energijos vartojimo pastatuose, įrenginiuose ir technologiniams procesams audito atlikimo tvarkos ir sąlygų ir energijos vartojimo pastatuose, įrenginiuose ir technologiniams procesams auditą atliekančių specialistų rengimo ir atestavimo tvarkos aprašo patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "93",
+  "official_journal_page": null,
+  "official_journal_date": "2012-08-04",
+  "entry_into_force": "2012-08-05",
+  "notification_date": "2015-10-27",
+  "commission_reference": "MNE(2015)57486",
+  "nim_celex": "72012L0027LTU_230864",
+  "nim_id": "230864",
+  "transposes_celex": [
+    "32012L0027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/743842e5-af70-4802-9f3f-b22f06a3c77b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
