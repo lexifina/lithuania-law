@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro ir Lietuvos Respublikos aplinkos ministro 2012 m. rugpjūčio 7 d. įsakymas Nr. 4-804/D1-647 \"Dėl Lietuvos Respublikos vidaus rinkai tiekiamų pakuočių atitikties Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatyme nustatytiems reikalavimams\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "94",
+  "official_journal_page": null,
+  "official_journal_date": "2012-08-09",
+  "entry_into_force": "2012-08-10",
+  "notification_date": "2012-08-14",
+  "commission_reference": "MNE(2012)53742",
+  "nim_celex": "71994L0062LTU_194945",
+  "nim_id": "194945",
+  "transposes_celex": [
+    "31994L0062"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ff54f287-9f94-4afe-b50d-9da8713e041b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
