@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 1, 2, 8, 43, 54 straipsnių pakeitimo ir papildymo bei Įstatymo papildymo 1(1) straipsniu ir priedu įstatymas Nr. XI-2137",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "80",
+  "official_journal_page": null,
+  "official_journal_date": "2012-07-10",
+  "entry_into_force": "2012-08-11",
+  "notification_date": "2012-08-03",
+  "commission_reference": "MNE(2012)53556",
+  "nim_celex": "72009L0050LTU_194465",
+  "nim_id": "194465",
+  "transposes_celex": [
+    "32009L0050"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2899e87b-6930-4cff-98da-b3fb686f7b97",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
