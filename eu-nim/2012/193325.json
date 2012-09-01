@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo 2, 7, 13, 23, 24, 36, 37 ir 43 straipsnių pakeitimo įstatymas Nr. XI-2155",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "81",
+  "official_journal_page": null,
+  "official_journal_date": "2012-07-12",
+  "entry_into_force": "2012-09-01",
+  "notification_date": "2012-07-12",
+  "commission_reference": "MNE(2012)53199",
+  "nim_celex": "72008L0051LTU_193325",
+  "nim_id": "193325",
+  "transposes_celex": [
+    "32008L0051"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e3b7b05d-eec3-436f-8c84-b8c862c13369",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
