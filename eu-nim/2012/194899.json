@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 5, 6, 17, 20 ir 21 straipsnių pakeitimo įstatymas Nr. XI-2048",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "69",
+  "official_journal_page": null,
+  "official_journal_date": "2012-06-21",
+  "entry_into_force": "2012-09-01",
+  "notification_date": "2012-08-08",
+  "commission_reference": "MNE(2012)53718",
+  "nim_celex": "72010L0041LTU_194899",
+  "nim_id": "194899",
+  "transposes_celex": [
+    "32010L0041"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1d802e5c-e0b2-4bbd-8fa6-72df42de4e60",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
