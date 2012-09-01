@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkinių bendrijų įstatymo pakeitimo įstatymas Nr. XI-2073",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "78",
+  "official_journal_page": null,
+  "official_journal_date": "2012-07-04",
+  "entry_into_force": "2012-09-01",
+  "notification_date": "2015-08-06",
+  "commission_reference": "MNE(2015)55793",
+  "nim_celex": "72013L0034LTU_228974",
+  "nim_id": "228974",
+  "transposes_celex": [
+    "32013L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/174f66b2-ec45-4031-bf70-2e01a6fa4d14",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
