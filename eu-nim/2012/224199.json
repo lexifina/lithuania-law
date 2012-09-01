@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Informatikos ir ryšių departamento prie Lietuvos Respublikos vidaus reikalų ministerijos 2012 m. rugpjūčio 10 d. įsakymas Nr. 5V-67 „Dėl Įtariamųjų, kaltinamųjų ir nuteistųjų registro objektų registravimo ir duomenų teikimo taisyklių patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "102",
+  "official_journal_page": null,
+  "official_journal_date": "2012-08-31",
+  "entry_into_force": "2012-09-01",
+  "notification_date": "2015-03-06",
+  "commission_reference": "MNE(2015)51362",
+  "nim_celex": "72009F0315LTU_224199",
+  "nim_id": "224199",
+  "transposes_celex": [
+    "32009F0315"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b530067a-6326-11e7-b2f2-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
