@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2012 m. rugpjūčio 29 d. nutarimas Nr. 1024 \"Dėl Lietuvos Respublikos Vyriausybės 2011 m. spalio 27 d. nutarimo Nr. 1246 \"Dėl Gamtinių dujų perdavimo, skirstymo, laikymo, skystinimo, tiekimo ir rinkos operatoriaus licencijavimo taisyklių patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "102",
+  "official_journal_page": null,
+  "official_journal_date": "2012-08-31",
+  "entry_into_force": "2012-09-01",
+  "notification_date": "2012-10-08",
+  "commission_reference": "MNE(2012)54442",
+  "nim_celex": "72009L0073LTU_195765",
+  "nim_id": "195765",
+  "transposes_celex": [
+    "32009L0073"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/05589477-2127-4e8c-8d90-237a8ec872dc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
