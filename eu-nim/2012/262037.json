@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos akcinių bendrovių įstatymo 72 straipsnio pakeitimo ir papildymo įstatymas Nr. XI-2075",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "78-4016",
+  "official_journal_page": null,
+  "official_journal_date": "2012-07-04",
+  "entry_into_force": "2012-09-01",
+  "notification_date": "2018-08-28",
+  "commission_reference": "MNE(2018)54430",
+  "nim_celex": "72017L1132LTU_262037",
+  "nim_id": "262037",
+  "transposes_celex": [
+    "32017L1132"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/42cb0449-0428-4c8a-95f8-5040d13b5d73",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
