@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2012 m. rugsėjo 4 d. įsakymas Nr. 3D-704 „Dėl žemės ūkio ministro 2012 m. birželio 29 d. įsakymo Nr. 3D-535 „Dėl Augalų apsaugos plano patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "105",
+  "official_journal_page": null,
+  "official_journal_date": "2012-09-08",
+  "entry_into_force": "2012-09-09",
+  "notification_date": "2012-09-10",
+  "commission_reference": "MNE(2012)54245",
+  "nim_celex": "72009L0128LTU_195534",
+  "nim_id": "195534",
+  "transposes_celex": [
+    "32009L0128"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e44f8941-70d4-480b-9b07-7931425e1516",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
