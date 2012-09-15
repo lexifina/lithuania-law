@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos finansų ministro 2012 m. rugsėjo 6 d. įsakymas Nr. 1K-297 „Dėl informacinės sistemos „E. sąskaita“ nuostatų patvirtinimo (suvestinė redakcija nuo 2018-11-15)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "107-5425",
+  "official_journal_page": null,
+  "official_journal_date": "2012-09-14",
+  "entry_into_force": "2012-09-15",
+  "notification_date": "2019-06-11",
+  "commission_reference": "MNE(2019)53625",
+  "nim_celex": "72014L0055LTU_273944",
+  "nim_id": "273944",
+  "transposes_celex": [
+    "32014L0055"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e2f1a362-5f08-4e88-b35e-467292ced91e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
