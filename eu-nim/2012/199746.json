@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės kainų ir energetikos kontrolės komisijos 2012 m. rugsėjo 14 d. nutarimas Nr. 03-250 \"Dėl AB \"Lietuvos dujos\" gamtinių dujų perdavimo sistemos balansavimo taisyklių derinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "108",
+  "official_journal_page": null,
+  "official_journal_date": "2012-09-19",
+  "entry_into_force": "2012-09-20",
+  "notification_date": "2013-02-28",
+  "commission_reference": "MNE(2013)50002",
+  "nim_celex": "72009L0073LTU_199746",
+  "nim_id": "199746",
+  "transposes_celex": [
+    "32009L0073"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/02d317da-9974-49b2-a1c2-6afff39cd7b0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
