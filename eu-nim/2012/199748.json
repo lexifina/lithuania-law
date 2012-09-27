@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės kainų ir energetikos kontrolės komisijos 2012 m. rugsėjo 21 d. nutarimas Nr. 03-253 \"Dėl Valstybinės kainų ir energetikos kontrolės komisijos 2012 m. birželio 18 d. nutarimo Nr. 03-155 \"Dėl energetikos įmonių reguliuojamos veiklos priežiūros tvarkos aprašo patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "111",
+  "official_journal_page": null,
+  "official_journal_date": "2012-09-26",
+  "entry_into_force": "2012-09-27",
+  "notification_date": "2013-02-28",
+  "commission_reference": "MNE(2013)50004",
+  "nim_celex": "72009L0073LTU_199748",
+  "nim_id": "199748",
+  "transposes_celex": [
+    "32009L0073"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bcb862cd-0148-4405-b604-1c43cf0a0e77",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
