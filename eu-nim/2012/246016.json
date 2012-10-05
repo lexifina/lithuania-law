@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2012 m. rugsėjo 26 d. nutarimas Nr. 1196 „Dėl Lietuvos Respublikos Vyriausybės 2000 m. rugpjūčio 23 d. nutarimo Nr. 961 „Dėl Žmogaus audinių, ląstelių ir organų donorų bei recipientų registro įsteigimo ir jo nuostatų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "115",
+  "official_journal_page": null,
+  "official_journal_date": "2012-10-04",
+  "entry_into_force": "2012-10-05",
+  "notification_date": "2017-03-14",
+  "commission_reference": "MNE(2017)51524",
+  "nim_celex": "72004L0023LTU_246016",
+  "nim_id": "246016",
+  "transposes_celex": [
+    "32004L0023"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bd991e79-adfd-4941-bd02-88f34db31c94",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
