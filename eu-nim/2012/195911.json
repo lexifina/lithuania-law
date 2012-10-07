@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2012 m. rugsėjo 28 d. įsakymas Nr. V-919 \"Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2007 m. liepos 10 d. įsakymo Nr. V-596 \"Dėl Vaistinių preparatų rinkodaros teisės suteikimo taisyklių, Supaprastintos homeopatinių vaistinių preparatų registravimo procedūros aprašo, Supaprastintos tradicinių augalinių vaistinių preparatų registravimo procedūros aprašo, specialios homeopatinių vaistinių preparatų registravimo procedūros aprašo, Vaistinių preparatų rinkodaros teisės suteikimo taikant savitarpio pripažinimo ir decentralizuotą procedūras aprašo, Vaistinių preparatų analitinių, farmakotoksikologinių ir klinikinių tyrimų standartų ir protokolų, Vaistinių preparatų pakuotės ženklinimo ir pakuotės lapelio reikalavimų aprašo, pagalbinių medžiagų, kurios turi būti nurodomos ant vaistinio preparato pakuotės ir pakuotės lapelyje, sąrašo, vaistinio preparato rinkodaros teisės perleidimo kitam asmeniui tvarkos aprašo patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "116",
+  "official_journal_page": null,
+  "official_journal_date": "2012-10-06",
+  "entry_into_force": "2012-10-07",
+  "notification_date": "2012-10-09",
+  "commission_reference": "MNE(2012)54545",
+  "nim_celex": "72010L0084LTU_195911",
+  "nim_id": "195911",
+  "transposes_celex": [
+    "32010L0084"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8ef903a1-a231-46c3-a65b-06312d0e02f2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
