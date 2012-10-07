@@ -1,0 +1,26 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2012 m. spalio 3 d. nutarimas Nr. 1208 \"Dėl Lietuvos Respublikos Vyriausybės 2003 m. lapkričio 12 d. nutarimo Nr. 1407 \"Dėl Juridinių asmenų registro įsteigimo ir Juridinių asmenų registro nuostatų patvirtinimo\" pakeitimo ir juridinių asmenų, jų filialų ir atstovybių, užsienio juridinių asmenų ir kitų organizacijų filialų ir atstovybių pažymėjimų ir jų dublikatų pripažinimo netekusiais galios\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "116",
+  "official_journal_page": null,
+  "official_journal_date": "2012-10-06",
+  "entry_into_force": "2012-10-07",
+  "notification_date": "2012-10-31",
+  "commission_reference": "MNE(2012)55663",
+  "nim_celex": "71989L0666LTU_197178",
+  "nim_id": "197178",
+  "transposes_celex": [
+    "31989L0666",
+    "32005L0056",
+    "32009L0101",
+    "32011L0035",
+    "32012L0017"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c122951e-478f-469f-91b3-e17a2ce5a810",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
