@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Aplinkos apsaugos agentūros direktoriaus 2012 m. rugsėjo 21 d. įsakymas Nr. AV-239 „Dėl Aplinkos apsaugos reikalavimų elektros ir elektroninės įrangos atliekų tvarkytojams kontrolinio klausimyno patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "117",
+  "official_journal_page": null,
+  "official_journal_date": "2012-10-06",
+  "entry_into_force": "2012-10-10",
+  "notification_date": "2014-02-14",
+  "commission_reference": "MNE(2014)51102",
+  "nim_celex": "72012L0019LTU_213482",
+  "nim_id": "213482",
+  "transposes_celex": [
+    "32012L0019"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/871baaec-1a55-4db9-bd24-365734dbf2a5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
