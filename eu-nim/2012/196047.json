@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos rinkimų į Europos Parlamentą įstatymo 24, 37, 93 straipsnių pakeitimo ir Įstatymo papildymo 95 straipsniu įstatymas Nr. XI-2269",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "119",
+  "official_journal_page": null,
+  "official_journal_date": "2012-10-13",
+  "entry_into_force": "2012-10-13",
+  "notification_date": "2012-10-15",
+  "commission_reference": "MNE(2012)54661",
+  "nim_celex": "71993L0109LTU_196047",
+  "nim_id": "196047",
+  "transposes_celex": [
+    "31993L0109"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/37a26051-ffaf-488d-8407-8f071ccc1c4e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
