@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo 2, 35, 36, 87, 89, 90 straipsnių pakeitimo ir papildymo įstatymas Nr. XI-2267",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "119",
+  "official_journal_page": null,
+  "official_journal_date": "2012-10-13",
+  "entry_into_force": "2012-10-13",
+  "notification_date": "2012-10-15",
+  "commission_reference": "MNE(2012)54660",
+  "nim_celex": "71994L0080LTU_196046",
+  "nim_id": "196046",
+  "transposes_celex": [
+    "31994L0080"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/865930a1-a04b-4040-bd02-6f0b7b957739",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
