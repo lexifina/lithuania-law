@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2012 m. spalio 24 d. nutarimas Nr. 1280 „Dėl Lietuvos Respublikos integruotos jūrų politikos įgyvendinimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "125",
+  "official_journal_page": null,
+  "official_journal_date": "2012-10-27",
+  "entry_into_force": "2012-10-28",
+  "notification_date": "2016-11-25",
+  "commission_reference": "MNE(2016)57006",
+  "nim_celex": "72014L0089LTU_242627",
+  "nim_id": "242627",
+  "transposes_celex": [
+    "32014L0089"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8a1a879d-11c5-4e5b-aa6b-547e42798635",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
