@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2012 m. spalio 23 d. įsakymas Nr. 3-685 \"Dėl Lietuvos Respublikos susisiekimo ministro 2006 m. birželio 12 d. įsakymo Nr. 3-238 \"Dėl Bendrųjų eismo saugos rodiklių nustatymo aprašo patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "125",
+  "official_journal_page": null,
+  "official_journal_date": "2012-10-27",
+  "entry_into_force": "2012-10-28",
+  "notification_date": "2012-12-11",
+  "commission_reference": "MNE(2012)57254",
+  "nim_celex": "72004L0049LTU_198903",
+  "nim_id": "198903",
+  "transposes_celex": [
+    "32004L0049"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5493ea96-482e-4207-a27b-6a129fbd2829",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
