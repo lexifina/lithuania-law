@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2012 m. spalio 23 d. įsakymas Nr. D1-857 „Dėl Minimalių komunalinių atliekų tvarkymo paslaugos kokybės reikalavimų patvirtinimo“ (suvestinė redakcija nuo 2018-01-01)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "125-6295",
+  "official_journal_page": null,
+  "official_journal_date": "2012-10-27",
+  "entry_into_force": "2012-10-28",
+  "notification_date": "2020-11-30",
+  "commission_reference": "MNE(2020)58195",
+  "nim_celex": "72018L0851LTU_290122",
+  "nim_id": "290122",
+  "transposes_celex": [
+    "32018L0851"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8fa49e3c-dfa4-429d-bb37-4fd63c830a94",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
