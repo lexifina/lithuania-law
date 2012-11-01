@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2012 m. liepos 27 d. įsakymas Nr. 1V-964 'Dėl Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2011 m. balandžio 29 d. įsakymo Nr. 1V-460 'Dėl Abonento teisės išlaikyti abonentinį numerį, keičiant viešųjų telefono ryšio paslaugų teikėją, paslaugų teikimo vietą arba būdą, užtikrinimo sąlygų ir tvarkos aprašo patvirtinimo' pakeitimo'",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "91",
+  "official_journal_page": null,
+  "official_journal_date": "2012-07-31",
+  "entry_into_force": "2012-11-01",
+  "notification_date": "2012-08-30",
+  "commission_reference": "MNE(2012)54007",
+  "nim_celex": "72009L0136LTU_195268",
+  "nim_id": "195268",
+  "transposes_celex": [
+    "32009L0136"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c55c606f-826d-44e6-8bc8-2ae44e06ad36",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
