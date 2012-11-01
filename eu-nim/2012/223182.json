@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro ir Lietuvos Respublikos sveikatos apsaugos ministro 2012 m. spalio 25 d. įsakymas Nr. A1-457/V-961 \"Dėl Profesinės rizikos vertinimo bendrųjų nuostatų patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "126",
+  "official_journal_page": null,
+  "official_journal_date": "2012-10-31",
+  "entry_into_force": "2012-11-01",
+  "notification_date": "2015-02-10",
+  "commission_reference": "MNE(2015)50586",
+  "nim_celex": "72009L0013LTU_223182",
+  "nim_id": "223182",
+  "transposes_celex": [
+    "32009L0013"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/30907c3f-f976-11e4-a4c8-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
