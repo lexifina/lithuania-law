@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos generalinio prokuroro 2012 m. spalio 30 d. įsakymas Nr. I-318 \"Dėl Rekomendacijų dėl prokurorų specializacijos baudžiamajame procese patvirtinimo\" (suvestinė redakcija nuo 2022-06-17)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "128-6455",
+  "official_journal_page": null,
+  "official_journal_date": "2012-11-06",
+  "entry_into_force": "2012-11-07",
+  "notification_date": "2026-05-13",
+  "commission_reference": "MNE(2026)02863",
+  "nim_celex": "72024L1203LTU_202602863",
+  "nim_id": "202602863",
+  "transposes_celex": [
+    "32024L1203"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/24853e1a-2b55-4b74-900b-08e9b51e1bb6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
