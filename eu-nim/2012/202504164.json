@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės maisto ir veterinarijos tarnybos direktoriaus 2012 m. spalio 31 d. įsakymas Nr. B1-866 „Dėl Mokslo ir mokymo tikslais naudojamų gyvūnų laikymo, priežiūros ir naudojimo reikalavimų patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "130-6595",
+  "official_journal_page": null,
+  "official_journal_date": "2012-11-10",
+  "entry_into_force": "2012-11-11",
+  "notification_date": "2025-07-18",
+  "commission_reference": "MNE(2025)04164",
+  "nim_celex": "72024L1262LTU_202504164",
+  "nim_id": "202504164",
+  "transposes_celex": [
+    "32024L1262"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1c00d32f-84ba-422d-81a1-888083c129ef",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
