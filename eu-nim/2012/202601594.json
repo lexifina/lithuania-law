@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2012 m. lapkričio 5 d. įsakymas Nr. 1-216 „Dėl Elektros energijos, pagamintos didelio efektyvumo kogeneracijos proceso metu, kilmės garantijų pažymėjimų išdavimo taisyklių patvirtinimo“ (suvestinė redakcija nuo 2016-04-16)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "132-6712",
+  "official_journal_page": null,
+  "official_journal_date": "2012-11-15",
+  "entry_into_force": "2012-11-16",
+  "notification_date": "2026-03-12",
+  "commission_reference": "MNE(2026)01594",
+  "nim_celex": "72023L1791LTU_202601594",
+  "nim_id": "202601594",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ec526f5d-bf27-4a49-8a07-13eb0471ec5e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
