@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro 2012 m. lapkričio 9 d. įsakymas Nr. 1V-800 \"Dėl Lietuvos Respublikos vidaus reikalų ministro 2008 m. rugsėjo 10 d. įsakymo Nr. 1V-328 \"Dėl Motorinių transporto priemonių vairuotojo pažymėjimų išdavimo taisyklių patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "132",
+  "official_journal_page": null,
+  "official_journal_date": "2012-11-15",
+  "entry_into_force": "2012-11-16",
+  "notification_date": "2013-01-14",
+  "commission_reference": "MNE(2012)57321",
+  "nim_celex": "72006L0126LTU_198982",
+  "nim_id": "198982",
+  "transposes_celex": [
+    "32006L0126"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/49093e3d-1708-4fe2-8a77-93fa17d213d8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
