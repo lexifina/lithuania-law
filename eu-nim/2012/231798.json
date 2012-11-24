@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo proceso kodekso 170, 173, 214 straipsnių pakeitimo ir papildymo įstatymas Nr. XI-2407",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "136",
+  "official_journal_page": null,
+  "official_journal_date": "2012-11-24",
+  "entry_into_force": "2012-11-24",
+  "notification_date": "2015-11-16",
+  "commission_reference": "MNE(2015)58404",
+  "nim_celex": "72012L0029LTU_231798",
+  "nim_id": "231798",
+  "transposes_celex": [
+    "32012L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/98ea7436-be2a-4d00-bba5-038653360c1f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
