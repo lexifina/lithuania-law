@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2012 m. lapkričio 29 d. įsakymas Nr. V-1075 \"Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2003 m. gruodžio 23 d. įsakymo Nr. V-758 \"Dėl Lietuvos higienos normos HN 28:2003 \"Natūralaus mineralinio vandens ir šaltinio vandens naudojimo ir pateikimo į rinką reikalavimai\" patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "141",
+  "official_journal_page": null,
+  "official_journal_date": "2012-12-06",
+  "entry_into_force": "2012-12-07",
+  "notification_date": "2013-02-04",
+  "commission_reference": "MNE(2013)51248",
+  "nim_celex": "72009L0054LTU_201146",
+  "nim_id": "201146",
+  "transposes_celex": [
+    "32009L0054"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f5b540b4-53ae-42ee-bb02-bf0b9e6c2aa8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
