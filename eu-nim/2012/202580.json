@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2012 m. gruodžio 3 d. įsakymas Nr. A1-548 „Dėl Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2002 m. balandžio 18 d. įsakymo Nr. 56 „Dėl Vaiko laikinosios globos (rūpybos) nuostatų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "141",
+  "official_journal_page": null,
+  "official_journal_date": "2012-12-06",
+  "entry_into_force": "2012-12-07",
+  "notification_date": "2013-04-03",
+  "commission_reference": "MNE(2013)52287",
+  "nim_celex": "72011L0036LTU_202580",
+  "nim_id": "202580",
+  "transposes_celex": [
+    "32011L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5d3e441d-ee1f-4e04-ba1b-c3cc87eb72b5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
