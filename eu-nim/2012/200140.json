@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2012 m. gruodžio 10 d. įsakymas Nr. 3-801 \"Dėl Lietuvos Respublikos susisiekimo ministro 2003 m. sausio 23 d. įsakymo Nr. 3-37 \"Dėl Geležinkelio įmonių (vežėjų) ir geležinkelių infrastruktūros valdytojų saugos sertifikavimo taisyklių patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "145",
+  "official_journal_page": null,
+  "official_journal_date": "2012-12-14",
+  "entry_into_force": "2012-12-15",
+  "notification_date": "2013-01-31",
+  "commission_reference": "MNE(2013)50376",
+  "nim_celex": "72004L0049LTU_200140",
+  "nim_id": "200140",
+  "transposes_celex": [
+    "32004L0049"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e1850201-609a-4124-bf3a-2e17521f6239",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
