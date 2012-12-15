@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2012 m. gruodžio 10 d. įsakymas Nr. 3-803 \"Dėl Lietuvos Respublikos susisiekimo ministro 2006 m. gruodžio 27 d. įsakymo Nr. 3-509 \"Dėl Valstybinės geležinkelio inspekcijos prie Susisiekimo ministerijos nuostatų patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "145",
+  "official_journal_page": null,
+  "official_journal_date": "2012-12-14",
+  "entry_into_force": "2012-12-15",
+  "notification_date": "2013-02-11",
+  "commission_reference": "MNE(2013)50377",
+  "nim_celex": "72004L0049LTU_200141",
+  "nim_id": "200141",
+  "transposes_celex": [
+    "32004L0049"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d6b7c1e7-64e5-46c6-88d0-925da571e213",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
