@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2012 m. gruodžio 12 d. įsakymas Nr. D1-1099 \"Dėl Lietuvos Respublikos aplinkos ministro 2003 m. lapkričio 25 d. įsakymo Nr. 591 \"Dėl Upių baseinų rajono valdymo plano ir priemonių programos vandensaugos tikslams pasiekti rengimo bei derinimo su užsienio valstybėmis tvarkos patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "146",
+  "official_journal_page": null,
+  "official_journal_date": "2012-12-15",
+  "entry_into_force": "2012-12-16",
+  "notification_date": "2013-01-22",
+  "commission_reference": "MNE(2012)57788",
+  "nim_celex": "72008L0105LTU_199493",
+  "nim_id": "199493",
+  "transposes_celex": [
+    "32008L0105"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b59eb678-72b5-4901-bec4-fe1f58de702a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
