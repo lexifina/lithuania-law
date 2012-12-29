@@ -15,3 +15,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2006-10-01 | 2009-12-31 | Aktas Nr. X-619 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/5e2177ecb0cc89177990ed259014135e03a39a67/istatymai/TAR.F617B8D97E05.md) |
 | 2010-01-01 | 2010-12-31 | Aktas Nr. XI-467 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/eccc8736104551f26fde02cf53bc403f4d65e496/istatymai/TAR.F617B8D97E05.md) |
 | 2011-01-01 | 2012-12-28 | Aktas Nr. XI-1034 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/8e3f47ab608f0edbcc06eabfb8381d8d8c82931f/istatymai/TAR.F617B8D97E05.md) |
+| 2012-12-29 | 2012-12-31 | Aktas Nr. XII-75 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/ccb53cdccbfd02aa7bbf5b0e20a83b8c20c2128c/istatymai/TAR.F617B8D97E05.md) |
