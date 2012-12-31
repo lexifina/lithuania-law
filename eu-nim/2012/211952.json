@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos biudžeto sandaros įstatymo 1, 2, 3, 8, 10, 14, 17, 18, 19, 20, 21, 24, 30, 31, 32, 33, 35, 37 straipsnių, penktojo skirsnio pavadinimo pakeitimo, Įstatymo papildymo šeštuoju skirsniu ir priedu bei 16 straipsnio pripažinimo netekusiu galios įstatymas Nr. XI-2274",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "126",
+  "official_journal_page": null,
+  "official_journal_date": "2012-10-31",
+  "entry_into_force": "2012-12-31",
+  "notification_date": "2013-12-23",
+  "commission_reference": "MNE(2013)60083",
+  "nim_celex": "72011L0085LTU_211952",
+  "nim_id": "211952",
+  "transposes_celex": [
+    "32011L0085"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f6b3e333-af80-4fd5-898b-04ba278ba3c5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
