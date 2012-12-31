@@ -47,47 +47,8 @@ pakeitimai:
 Nr. XI-1072,
 2010-10-26, Žin., 2010, Nr. 132-6717 (2010-11-11)
 8
-straipsnis. Valstybinių socialinio draudimo senatvės, ištarnauto laiko pensijų
-ir kompensacijų už ypatingas darbo sąlygas mokėjimas asmenims, turintiems
-draudžiamųjų pajamų
-1. Valstybinių socialinio draudimo senatvės, ištarnauto
-laiko pensijų, perskaičiuotų pagal šio įstatymo 6 ir 7 straipsnius, ir
-kompensacijų už ypatingas darbo sąlygas gavėjams (toliau šiame straipsnyje –
-pensijų gavėjai), kurie po pensijos paskyrimo yra arba buvo draudžiami privalomuoju
-valstybiniu socialiniu pensijų draudimu pagal Valstybinių socialinio draudimo
-pensijų įstatymo 2 straipsnio 1 dalies 1, 3, 4, 5 ir 13 punktus ir praėjusį
-kalendorinį mėnesį turėjo draudžiamųjų pajamų, mokama pensijos dalis,
-apskaičiuota taikant koeficientą, apskaičiuotą pagal šio įstatymo 2 priede
-nurodytą formulę, atsižvelgiant į praėjusio kalendorinio mėnesio draudžiamųjų
-pajamų dydį.
-2. Pensijų gavėjams, nurodytiems Valstybinių socialinio
-draudimo pensijų įstatymo 2 straipsnio 1 dalies 8 punkte, mokama
-pagrindinė valstybinės socialinio draudimo pensijos dalis, nustatyta šio
-įstatymo 6 straipsnyje, ir priedas už stažo metus. Pasibaigus mokestiniam
-laikotarpiui, šių asmenų pensijos perskaičiuojamos už atitinkamą mokestinį
-laikotarpį, atsižvelgiant į metinėje pajamų mokesčio ar metinėje pelno mokesčio
-deklaracijoje deklaruotų apmokestinamųjų pajamų ar apmokestinamojo pelno dydį,
-taikant koeficientą, apskaičiuotą pagal šio įstatymo 2 priede nurodytą formulę.
-Jeigu šie asmenys mokestiniu laikotarpiu valstybiniu socialiniu pensijų
-draudimu yra draudžiami ir pagal Valstybinių socialinio draudimo pensijų
-įstatymo 2 straipsnio 1, 3, 4, 5 ir 13 punktus, mokėtina pensijos dalis
-apskaičiuojama pagal šio straipsnio 1 dalies nuostatas.
-3. Šio
-straipsnio 2 dalies nuostatos netaikomos, jeigu pensijos gavėjas yra
-individualios įmonės savininkas, tikrosios ūkinės bendrijos narys ar
-komanditinės ūkinės bendrijos narys, tačiau individuali įmonė ar ūkinė bendrija
-veiklos laikinai nevykdo ir tai yra deklaruota Lietuvos Respublikos mokesčių
-administravimo įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka arba
-individuali įmonė ar ūkinė bendrija teisės aktų nustatyta tvarka įgijo
-bankrutuojančio arba likviduojamo juridinio asmens teisinį statusą ir
-bankrutuojantis juridinis asmuo nevykdo ūkinės komercinės veiklos.
-4. Draudėjai
-duomenis apie dirbančių pensijų gavėjų mėnesio draudžiamąsias pajamas privalo
-teikti Valstybinio socialinio draudimo fondo valdybos teritoriniams skyriams
-kas mėnesį Valstybinio socialinio draudimo fondo valdybos direktoriaus
-nustatyta tvarka.
-8 straipsnis netenka galios nuo
-2012-09-01.
+straipsnis. Neteko
+galios nuo 2012-09-01.
 Straipsnio
 pakeitimai:
 Nr. XI-1072,
