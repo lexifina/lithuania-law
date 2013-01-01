@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 2, 6 straipsnių ir 4 priedėlio pakeitimo ir papildymo įstatymas Nr. XI-2197",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "80",
+  "official_journal_page": null,
+  "official_journal_date": "2012-07-10",
+  "entry_into_force": "2013-01-01",
+  "notification_date": "2014-01-21",
+  "commission_reference": "MNE(2014)50512",
+  "nim_celex": "72011L0076LTU_212757",
+  "nim_id": "212757",
+  "transposes_celex": [
+    "32011L0076"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3a120b09-2c3a-438a-8e75-cc0070af1ff0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
