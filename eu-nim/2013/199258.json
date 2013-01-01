@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos farmacijos įstatymo 2, 8, 10, 12, 14, 15, 17, 18, 35, 62, 64, 66, 67, 69 straipsnių, vienuoliktojo skirsnio, Įstatymo priedo pakeitimo ir papildymo įstatymas Nr. XI-2376",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "135",
+  "official_journal_page": null,
+  "official_journal_date": "2012-11-22",
+  "entry_into_force": "2013-01-01",
+  "notification_date": "2012-12-13",
+  "commission_reference": "MNE(2012)57562",
+  "nim_celex": "72010L0084LTU_199258",
+  "nim_id": "199258",
+  "transposes_celex": [
+    "32010L0084"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/122af83f-3b18-449d-93e3-5ff9361d50d2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
