@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos gyvūnų globos, laikymo ir naudojimo įstatymo pakeitimo įstatymas Nr. XI-2271",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "122",
+  "official_journal_page": null,
+  "official_journal_date": "2012-10-20",
+  "entry_into_force": "2013-01-01",
+  "notification_date": "2012-10-25",
+  "commission_reference": "MNE(2012)55323",
+  "nim_celex": "72010L0063LTU_196786",
+  "nim_id": "196786",
+  "transposes_celex": [
+    "32010L0063"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b5f3ebbf-1171-4b9f-8904-1a8e9fb2aab1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
