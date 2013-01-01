@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Audito ir apskaitos tarnybos direktoriaus 2012 m. birželio 4 d. įsakymas Nr. VAS-8 „Dėl viešosios įstaigos Lietuvos Respublikos apskaitos instituto standartų tarybos 2003 m. gruodžio 18 d. nutarimo Nr. 1 „Dėl verslo apskaitos standartų patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "64",
+  "official_journal_page": null,
+  "official_journal_date": "2012-06-07",
+  "entry_into_force": "2013-01-01",
+  "notification_date": "2015-11-02",
+  "commission_reference": "MNE(2015)57867",
+  "nim_celex": "72013L0034LTU_231246",
+  "nim_id": "231246",
+  "transposes_celex": [
+    "32013L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d51431d4-8d16-46d9-9462-1c05ab681b31",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
