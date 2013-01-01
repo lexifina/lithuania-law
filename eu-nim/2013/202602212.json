@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2012 m. lapkričio 29 d. nutarimas Nr. 03-245 \"Dėl bendros vartojimo kredito kainos metinės normos apskaičiavimo tvarkos aprašo patvirtinimo\" (suvestinė redakcija nuo 2016-02-01)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "140-7230",
+  "official_journal_page": null,
+  "official_journal_date": "2012-12-05",
+  "entry_into_force": "2013-01-01",
+  "notification_date": "2026-04-02",
+  "commission_reference": "MNE(2026)02212",
+  "nim_celex": "72023L2225LTU_202602212",
+  "nim_id": "202602212",
+  "transposes_celex": [
+    "32023L2225"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0e304bc9-55b9-49a4-8240-b212adbb3f5e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
