@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Nacionalinės teismų administracijos direktoriaus 2012 m. spalio 26 d. įsakymas Nr. 6P-116-(1.1) \"Dėl Nacionalinės teismų administracijos mokymo centro nuostatų patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Administracinės priemonės",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2012-10-26",
+  "entry_into_force": "2013-01-01",
+  "notification_date": "2013-08-02",
+  "commission_reference": "MNE(2013)57198",
+  "nim_celex": "72010L0064LTU_208261",
+  "nim_id": "208261",
+  "transposes_celex": [
+    "32010L0064"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/913f2cc2-ae08-4f02-a5d1-b5fcc72204a5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
