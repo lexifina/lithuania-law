@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos garantinio fondo įstatymo pakeitimo įstatymas Nr. XI-2079",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "78",
+  "official_journal_page": null,
+  "official_journal_date": "2012-07-04",
+  "entry_into_force": "2013-01-01",
+  "notification_date": "2012-08-30",
+  "commission_reference": "MNE(2012)53943",
+  "nim_celex": "72008L0094LTU_195186",
+  "nim_id": "195186",
+  "transposes_celex": [
+    "32008L0094"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/44882803-8e24-42e0-90e9-3e17ef9adabc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
