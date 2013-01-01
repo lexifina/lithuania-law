@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo proceso ir operatyvinės veiklos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatymo pavadinimo ir 1, 2, 4, 5, 6, 15 straipsnių pakeitimo įstatymas Nr. XI-2242",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "122",
+  "official_journal_page": null,
+  "official_journal_date": "2012-10-20",
+  "entry_into_force": "2013-01-01",
+  "notification_date": "2013-04-02",
+  "commission_reference": "MNE(2013)52181",
+  "nim_celex": "72011L0036LTU_202471",
+  "nim_id": "202471",
+  "transposes_celex": [
+    "32011L0036",
+    "32012L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/41140314-2641-49d7-9775-bb501eb917e5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
