@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2012 m. gruodžio 28 d. nutarimas Nr. 1572 „Dėl Lietuvos Respublikos Vyriausybės 2001 m. sausio 25 d. nutarimo Nr. 82 „Dėl Bendros vartojimo kredito kainos metinės normos apskaičiavimo tvarkos patvirtinimo“ ir jį keitusio nutarimo pripažinimo netekusiais galios“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "155",
+  "official_journal_page": null,
+  "official_journal_date": "2012-12-31",
+  "entry_into_force": "2013-01-01",
+  "notification_date": "2013-01-03",
+  "commission_reference": "MNE(2013)50028",
+  "nim_celex": "72008L0048LTU_199772",
+  "nim_id": "199772",
+  "transposes_celex": [
+    "32008L0048",
+    "32011L0090"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b88d4e00-f177-452e-8b52-4c3719962ffb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
