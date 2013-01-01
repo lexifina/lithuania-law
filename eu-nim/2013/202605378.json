@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2012 m. balandžio 18 d. nutarimas Nr. 430 „Dėl Apsisprendimo laikotarpio, per kurį užsienietis, kaip esanti ar buvusi su prekyba žmonėmis susijusių nusikaltimų auka, turi priimti sprendimą, ar bendradarbiauti su ikiteisminio tyrimo įstaiga ar teismu, suteikimo tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "49-2385",
+  "official_journal_page": null,
+  "official_journal_date": "2012-04-26",
+  "entry_into_force": "2013-01-01",
+  "notification_date": "2026-07-13",
+  "commission_reference": "MNE(2026)05378",
+  "nim_celex": "72024L1712LTU_202605378",
+  "nim_id": "202605378",
+  "transposes_celex": [
+    "32024L1712"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/76152853-caff-4467-b841-d8255fb519a8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
