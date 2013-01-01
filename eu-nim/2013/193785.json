@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos įstatymo \"Dėl užsieniečių teisinės padėties\" 1, 2, 6, 9, 10, 11, 12(1), 17, 19, 21, 22, 24, 26, 33, 37, 38, 40, 43, 49(1), 50, 53, 54, 55, 57, 58, 89, 97, 98, 99, 100, 101, 102, 104, 106, 113, 128, 131, 133, 139, 140(1), 141(1) straipsnių ir priedo pakeitimo ir papildymo, Įstatymo papildymo 44(1), 49(3), 98(1), 99(1), 103(1), 105, 105(1), 105(2), 105(3), 105(4), 106(1) straipsniais ir 12(2), 13, 14, 15, 16, 18, 20, 145 straipsnių pripažinimo netekusiais galios įstatymas Nr. XI-2189",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "85",
+  "official_journal_page": null,
+  "official_journal_date": "2012-07-19",
+  "entry_into_force": "2013-01-01",
+  "notification_date": "2012-07-25",
+  "commission_reference": "MNE(2012)53340",
+  "nim_celex": "72003L0109LTU_193785",
+  "nim_id": "193785",
+  "transposes_celex": [
+    "32003L0109"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4739f1af-105f-4e88-85cc-41a00e97007d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
