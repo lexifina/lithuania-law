@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Audito ir apskaitos tarnybos direktoriaus 2012 m. gegužės 29 d. įsakymas Nr. VAS-7 „Dėl viešosios įstaigos Lietuvos Respublikos apskaitos instituto direktoriaus 2006 m. liepos 17 d. įsakymo Nr. VAS-8 „Dėl 8-ojo verslo apskaitos standarto „Nuosavas kapitalas\" pakeitimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "62",
+  "official_journal_page": null,
+  "official_journal_date": "2012-06-01",
+  "entry_into_force": "2013-01-01",
+  "notification_date": "2015-10-30",
+  "commission_reference": "MNE(2015)57849",
+  "nim_celex": "72013L0034LTU_231228",
+  "nim_id": "231228",
+  "transposes_celex": [
+    "32013L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/97d11012-b282-4feb-b227-f03dad6a36d1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
