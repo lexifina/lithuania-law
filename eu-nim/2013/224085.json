@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos asmens duomenų, tvarkomų vykdant policijos ir teisminį bendradarbiavimą baudžiamosiose bylose, teisinės apsaugos įstatymo 2 straipsnio pakeitimo įstatymas Nr. XI-2237",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "122",
+  "official_journal_page": null,
+  "official_journal_date": "2012-10-20",
+  "entry_into_force": "2013-01-01",
+  "notification_date": "2015-03-04",
+  "commission_reference": "MNE(2015)51258",
+  "nim_celex": "72008F0977LTU_224085",
+  "nim_id": "224085",
+  "transposes_celex": [
+    "32008F0977"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6c58d42e-6325-11e7-b2f2-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
