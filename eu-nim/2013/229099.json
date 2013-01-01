@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos informacinės visuomenės paslaugų įstatymo 2 straipsnio papildymo ir pakeitimo ir Įstatymo papildymo IV-1 skyriumi įstatymas Nr. XI-2382",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "136",
+  "official_journal_page": null,
+  "official_journal_date": "2012-11-24",
+  "entry_into_force": "2013-01-01",
+  "notification_date": "2015-09-01",
+  "commission_reference": "MNE(2015)55901",
+  "nim_celex": "72013L0040LTU_229099",
+  "nim_id": "229099",
+  "transposes_celex": [
+    "32013L0040"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/11e3bb3e-d643-4829-845f-7f64313601e5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
