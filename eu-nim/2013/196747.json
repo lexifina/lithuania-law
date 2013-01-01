@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2012 m. rugpjūčio 29 d. nutarimas Nr. 1031 'Dėl Lietuvos Respublikos Vyriausybės 2002 m. birželio 13 d. nutarimo Nr. 899 'Dėl pridėtinės vertės mokesčio grąžinimo užsienio asmenims' pakeitimo'",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "102",
+  "official_journal_page": null,
+  "official_journal_date": "2012-08-31",
+  "entry_into_force": "2013-01-01",
+  "notification_date": "2012-10-24",
+  "commission_reference": "MNE(2012)55295",
+  "nim_celex": "72006L0112LTU_196747",
+  "nim_id": "196747",
+  "transposes_celex": [
+    "32006L0112",
+    "32008L0009"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c11a31c0-d667-428d-8550-970b3a66d57f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
