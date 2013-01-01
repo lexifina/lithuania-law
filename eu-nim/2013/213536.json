@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo proceso kodekso 77(2), 170 ir 181 straipsnių pakeitimo įstatymas Nr. XI-2240",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "122",
+  "official_journal_page": null,
+  "official_journal_date": "2012-10-20",
+  "entry_into_force": "2013-01-01",
+  "notification_date": "2014-02-21",
+  "commission_reference": "MNE(2014)51136",
+  "nim_celex": "72001F0220LTU_213536",
+  "nim_id": "213536",
+  "transposes_celex": [
+    "32001F0220",
+    "32003F0577",
+    "32012L0013"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f47a1e0c-7c91-4fb9-b6ce-4044e64f0bc1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
