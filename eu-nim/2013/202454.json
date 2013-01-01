@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos kriminalinės žvalgybos įstatymas Nr. XI-2234",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "122",
+  "official_journal_page": null,
+  "official_journal_date": "2012-10-20",
+  "entry_into_force": "2013-01-01",
+  "notification_date": "2013-04-02",
+  "commission_reference": "MNE(2013)52166",
+  "nim_celex": "72011L0036LTU_202454",
+  "nim_id": "202454",
+  "transposes_celex": [
+    "32011L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/47cb291d-6d45-4067-8b6b-439a70332ffc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
