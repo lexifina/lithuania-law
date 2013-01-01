@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės maisto ir veterinarijos tarnybos direktoriaus 2012 m. lapkričio 6 d. įsakymas Nr. B1-870 „Dėl Lietuvos bandomųjų gyvūnų etikos komisijos prie Valstybinės maisto ir veterinarijos tarnybos sudarymo ir jos darbo reglamento patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "130",
+  "official_journal_page": null,
+  "official_journal_date": "2012-11-10",
+  "entry_into_force": "2013-01-01",
+  "notification_date": "2012-11-14",
+  "commission_reference": "MNE(2012)56543",
+  "nim_celex": "72010L0063LTU_198165",
+  "nim_id": "198165",
+  "transposes_celex": [
+    "32010L0063"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b880d866-fd95-4a08-b041-ba8114aee1a3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
