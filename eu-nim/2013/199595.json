@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės maisto ir veterinarijos tarnybos direktoriaus 2012 m. lapkričio 30 d. įsakymas Nr. B1-969 \"Dėl Valstybinės maisto ir veterinarijos tarnybos direktoriaus 2008 m. balandžio 24 d. įsakymo Nr. B1-246 \"Dėl Veterinarijos reikalavimų akvakultūros gyvūnams ir jų produktams, vandens gyvūnų ligų prevencijai ir valstybinei veterinarinei kontrolei patvirtinimo\" pakeitimo",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "142",
+  "official_journal_page": null,
+  "official_journal_date": "2012-12-08",
+  "entry_into_force": "2013-01-01",
+  "notification_date": "2012-12-21",
+  "commission_reference": "MNE(2012)57881",
+  "nim_celex": "72012L0031LTU_199595",
+  "nim_id": "199595",
+  "transposes_celex": [
+    "32012L0031"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/49947d7d-abe3-48c1-b885-6d930cb5b6f0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
