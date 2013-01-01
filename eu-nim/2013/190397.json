@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos automobilių kelių direkcijos prie Susisiekimo ministerijos direktoriaus 2012 m. balandžio 16 d. įsakymas Nr. V-87 \"Dėl automobilių kelių darbo vietų aptvėrimo ir eismo reguliavimo taisyklių T DVAER 12 patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "46",
+  "official_journal_page": null,
+  "official_journal_date": "2012-04-19",
+  "entry_into_force": "2013-01-01",
+  "notification_date": "2012-05-09",
+  "commission_reference": "MNE(2012)51965",
+  "nim_celex": "72008L0096LTU_190397",
+  "nim_id": "190397",
+  "transposes_celex": [
+    "32008L0096"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/280d42d1-cb6b-4fee-9c47-12622e01b890",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
