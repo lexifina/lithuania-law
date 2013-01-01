@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2012 m. gruodžio 28 d. įsakymas Nr. D1-111 \"Dėl Lietuvos Respublikos aplinkos ministro 2004 m. balandžio 29 d. įsakymo Nr. D1-231 „Dėl šiltnamio dujų apyvartinių taršos leidimų išdavimo ir prekybos jais tvarkos aprašo patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "154",
+  "official_journal_page": null,
+  "official_journal_date": "2012-12-29",
+  "entry_into_force": "2013-01-01",
+  "notification_date": "2013-04-19",
+  "commission_reference": "MNE(2013)52896",
+  "nim_celex": "72010L0075LTU_203357",
+  "nim_id": "203357",
+  "transposes_celex": [
+    "32010L0075"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/10c9bbcb-7506-4bd8-9f5b-07b67e380621",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
