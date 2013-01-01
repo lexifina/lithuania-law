@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Socialinės apsaugos ir darbo ministro 2012 m. gruodžio 28 d. Nr. A1-587 \"Dėl sprendimo dėl užsieniečio aukštos profesinės kvalifikacijos reikalaujančio darbo atitikties Lietuvos Respublikos darbo rinkos poreikiams priėmimo tvarkos aprašo patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "1",
+  "official_journal_page": null,
+  "official_journal_date": "2013-01-03",
+  "entry_into_force": "2013-01-01",
+  "notification_date": "2013-01-24",
+  "commission_reference": "MNE(2013)51015",
+  "nim_celex": "72009L0050LTU_200867",
+  "nim_id": "200867",
+  "transposes_celex": [
+    "32009L0050"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/641d00af-71f6-4e5b-acda-bce660a0dec0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
