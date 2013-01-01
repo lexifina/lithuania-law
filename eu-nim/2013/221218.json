@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 2, 3, 4, 5, 16, 17, 21, 22, 25, 26, 27, 29, 31, 36 straipsnių pakeitimo ir papildymo įstatymas Nr. XI-2302",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "127",
+  "official_journal_page": null,
+  "official_journal_date": "2012-11-03",
+  "entry_into_force": "2013-01-01",
+  "notification_date": "2015-01-20",
+  "commission_reference": "MNE(2014)56435",
+  "nim_celex": "72009L0013LTU_221218",
+  "nim_id": "221218",
+  "transposes_celex": [
+    "32009L0013",
+    "32011L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4cdc51ec-f9cf-4cc2-85f9-fc78f4549ed1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
