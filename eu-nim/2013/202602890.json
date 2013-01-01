@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2012 m. rugpjūčio 2 d. nutarimas Nr. 03-176 „Dėl Bankų vidaus valdymo bendrųjų reikalavimų aprašo patvirtinimo“ (Suvestinė redakcija nuo 2025-07-11)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "94-4874",
+  "official_journal_page": null,
+  "official_journal_date": "2012-08-09",
+  "entry_into_force": "2013-01-01",
+  "notification_date": "2026-05-17",
+  "commission_reference": "MNE(2026)02890",
+  "nim_celex": "72024L1619LTU_202602890",
+  "nim_id": "202602890",
+  "transposes_celex": [
+    "32024L1619"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/231ed50f-aacb-49f6-b2f4-f76e2a115dbb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
