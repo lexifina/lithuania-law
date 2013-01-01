@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos buhalterinės apskaitos įstatymo 1, 2, 3, 5, 6, 7, 9, 10, 11, 12, 14, 15, 16, 18, 19, 20, 21 straipsnių, trečiojo, penktojo skirsnių pavadinimų ir priedo pakeitimo ir papildymo ir įstatymo papildymo 101 ir 102 straipsniais įstatymo 2, 8 ir 23 straipsnių pakeitimo įstatymas Nr. XI-2174",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "83",
+  "official_journal_page": null,
+  "official_journal_date": "2012-07-14",
+  "entry_into_force": "2013-01-01",
+  "notification_date": "2015-10-29",
+  "commission_reference": "MNE(2015)57799",
+  "nim_celex": "72013L0034LTU_231177",
+  "nim_id": "231177",
+  "transposes_celex": [
+    "32013L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/67f86102-7df2-4296-b27a-3c4314e7bc51",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
