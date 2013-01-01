@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos finansų ministro 2012 m. gruodžio 28 d. įsakymas Nr. 1K-457 \"Dėl biudžeto pajamų planų šališkumo vertinimo ir išvadų dėl šališkumo rengimo Finansų ministerijoje tvarkos aprašo patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "1",
+  "official_journal_page": null,
+  "official_journal_date": "2013-01-03",
+  "entry_into_force": "2013-01-01",
+  "notification_date": "2013-12-23",
+  "commission_reference": "MNE(2013)60096",
+  "nim_celex": "72011L0085LTU_211965",
+  "nim_id": "211965",
+  "transposes_celex": [
+    "32011L0085"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d1a26958-6127-4e23-9586-4b50e4457d2b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
