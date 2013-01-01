@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2012 m. liepos 18 d. nutarimas Nr. 936 'Dėl Lietuvos Respublikos Vyriausybės 2006 m. sausio 19 d. nutarimo Nr. 61 'Dėl banko garantijos, laidavimo sutarties bei kitų sutarčių, įrodančių, kad elektros ir elektroninės įrangos atliekų tvarkymas bus finansuojamas, sudarymo ir vykdymo, lėšų, gautų pagal šias sutartis, kaupimo, naudojimo ir grąžinimo taisyklių ir elektros ir elektroninės įrangos atliekų tvarkymo užduočių patvirtinimo' pakeitimo'",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "90",
+  "official_journal_page": null,
+  "official_journal_date": "2012-07-28",
+  "entry_into_force": "2013-01-01",
+  "notification_date": "2012-09-07",
+  "commission_reference": "MNE(2012)54226",
+  "nim_celex": "72002L0096LTU_195500",
+  "nim_id": "195500",
+  "transposes_celex": [
+    "32002L0096",
+    "32012L0019"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/09f887dd-1c82-4b5a-87e6-be2da715754a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
