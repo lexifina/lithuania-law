@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 13 ir 19 straipsnių pakeitimo įstatymas XI-2107",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "78",
+  "official_journal_page": null,
+  "official_journal_date": "2012-07-04",
+  "entry_into_force": "2013-01-01",
+  "notification_date": "2013-01-14",
+  "commission_reference": "MNE(2013)50577",
+  "nim_celex": "72006L0126LTU_200361",
+  "nim_id": "200361",
+  "transposes_celex": [
+    "32006L0126"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cdd44193-ac76-4eae-ac9c-77fab43a972d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
