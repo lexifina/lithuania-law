@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Audito ir apskaitos tarnybos direktoriaus 2011 m. gruodžio 23 d. įsakymas Nr. VAS-20 \"Dėl 37-ojo verslo apskaitos standarto \"Jungtinė veikla\" tvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "161",
+  "official_journal_page": null,
+  "official_journal_date": "2011-12-29",
+  "entry_into_force": "2013-01-01",
+  "notification_date": "2015-08-05",
+  "commission_reference": "MNE(2015)55751",
+  "nim_celex": "72013L0034LTU_228932",
+  "nim_id": "228932",
+  "transposes_celex": [
+    "32013L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bef792c5-d230-4933-bd8c-7f472b936140",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
