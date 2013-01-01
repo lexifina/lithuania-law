@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos finansų ministro 2012 m. gruodžio 13 d. įsakymas Nr. 1K-426 \"Dėl ekonominės raidos scenarijaus šališkumo vertinimo ir išvadų dėl šališkumo rengimo Finansų ministerijoje patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "151",
+  "official_journal_page": null,
+  "official_journal_date": "2012-12-21",
+  "entry_into_force": "2013-01-01",
+  "notification_date": "2013-12-23",
+  "commission_reference": "MNE(2013)60097",
+  "nim_celex": "72011L0085LTU_211966",
+  "nim_id": "211966",
+  "transposes_celex": [
+    "32011L0085"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2cb7ac12-479e-4a6d-9982-0b2e6d26e85d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
