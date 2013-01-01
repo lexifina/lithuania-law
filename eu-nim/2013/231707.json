@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2012 m. gruodžio 3 d. įsakymas Nr. A1-547 „Dėl vaiko gerovės 2013–2018 m. programos patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "140",
+  "official_journal_page": null,
+  "official_journal_date": "2012-12-05",
+  "entry_into_force": "2013-01-01",
+  "notification_date": "2015-11-13",
+  "commission_reference": "MNE(2015)58314",
+  "nim_celex": "72012L0029LTU_231707",
+  "nim_id": "231707",
+  "transposes_celex": [
+    "32012L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c394167f-8541-453e-a828-a5a79fb8a94a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
