@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos statybos įstatymo papildymo 9(1), 9(2) straipsniais ir 24, 43(1), 51 straipsnių, 2 priedo pakeitimo ir papildymo įstatymas Nr. XI-2031",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "63",
+  "official_journal_page": null,
+  "official_journal_date": "2012-06-05",
+  "entry_into_force": "2013-01-09",
+  "notification_date": "2012-08-22",
+  "commission_reference": "MNE(2012)53646",
+  "nim_celex": "72010L0031LTU_194826",
+  "nim_id": "194826",
+  "transposes_celex": [
+    "32010L0031"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/26c6ce3d-f643-4032-a3b5-8720a849b035",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
