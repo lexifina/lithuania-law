@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2013 m. sausio 9 d. nutarimas Nr. 9 \"Dėl Lietuvos Respublikos Vyriausybės 2002 m. lapkričio 7 d. nutarimo Nr. 1747 \"Dėl Valstybinės kainų ir energetikos kontrolės komisijos nuostatų patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "4",
+  "official_journal_page": null,
+  "official_journal_date": "2013-01-12",
+  "entry_into_force": "2013-01-13",
+  "notification_date": "2013-04-18",
+  "commission_reference": "MNE(2013)52860",
+  "nim_celex": "72009L0073LTU_203319",
+  "nim_id": "203319",
+  "transposes_celex": [
+    "32009L0073"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b61aee89-c0db-46a1-a152-e567f7682c66",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
