@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2013 m. sausio 7 d. įsakymas Nr. D1-19 „Dėl Lietuvos Respublikos aplinkos ministro 2003 m. gruodžio 19 d. įsakymo Nr. 663 „Dėl titano dioksido gamybos proceso atliekų šalinimo taisyklių  patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "4",
+  "official_journal_page": null,
+  "official_journal_date": "2013-01-12",
+  "entry_into_force": "2013-01-13",
+  "notification_date": "2013-01-22",
+  "commission_reference": "MNE(2013)50572",
+  "nim_celex": "72010L0075LTU_200356",
+  "nim_id": "200356",
+  "transposes_celex": [
+    "32010L0075"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7c2ca75a-bd0e-4d3d-bd61-31369e29a156",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
