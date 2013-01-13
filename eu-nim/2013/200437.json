@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2013 m. sausio 9 d. įsakymas Nr. 3-11 \"Dėl Lietuvos Respublikos susisiekimo ministro 2004 m. sausio 15 d. įsakymo Nr. 3-23 \"Dėl Užsienio valstybių laivų valstybinės kontrolės Lietuvos Respublikoje vykdymo taisyklių patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "4",
+  "official_journal_page": null,
+  "official_journal_date": "2013-01-12",
+  "entry_into_force": "2013-01-13",
+  "notification_date": "2013-01-29",
+  "commission_reference": "MNE(2013)50652",
+  "nim_celex": "72009L0020LTU_200437",
+  "nim_id": "200437",
+  "transposes_celex": [
+    "32009L0020"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8f879845-0693-4698-bcb4-8fbddfa30dce",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
