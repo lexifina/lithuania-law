@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro 2012 m. liepos 9 d. įsakymas Nr.1V-516 \"Dėl Reikalavimų motorinių transporto priemonių vairuotojų egzaminuotojams aprašo patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "82",
+  "official_journal_page": null,
+  "official_journal_date": "2012-07-13",
+  "entry_into_force": "2013-01-19",
+  "notification_date": "2012-07-25",
+  "commission_reference": "MNE(2012)53249",
+  "nim_celex": "72006L0126LTU_193448",
+  "nim_id": "193448",
+  "transposes_celex": [
+    "32006L0126"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0257e207-8fbf-4764-8de7-3ee64bce9b9d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
