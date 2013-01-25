@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2013 m. sausio 11 d. įsakymas Nr. 1V-55 \"Dėl Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2005 m. liepos 1 d. įsakymo Nr. 1V-625 \"Dėl Universaliųjų pašto paslaugų teikėjo sąnaudų apskaitos taisyklių patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "9",
+  "official_journal_page": null,
+  "official_journal_date": "2013-01-24",
+  "entry_into_force": "2013-01-25",
+  "notification_date": "2013-01-31",
+  "commission_reference": "MNE(2013)51193",
+  "nim_celex": "72008L0006LTU_201089",
+  "nim_id": "201089",
+  "transposes_celex": [
+    "32008L0006"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/78c3009c-a802-4f83-a058-bda80ba6e46c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
