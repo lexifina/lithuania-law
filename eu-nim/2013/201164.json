@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2013 m. sausio 18 d. įsakymas Nr. 3-32 „Dėl Lietuvos Respublikos susisiekimo ministro 1996 m. rugsėjo 20 d. įsakymo Nr. 297 „Dėl Techninio geležinkelių naudojimo nuostatų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "9",
+  "official_journal_page": null,
+  "official_journal_date": "2013-01-24",
+  "entry_into_force": "2013-01-25",
+  "notification_date": "2013-02-08",
+  "commission_reference": "MNE(2013)51266",
+  "nim_celex": "71991L0440LTU_201164",
+  "nim_id": "201164",
+  "transposes_celex": [
+    "31991L0440",
+    "32001L0014"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/62a0f78c-aac8-479b-a584-b2e9e8a8962a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
