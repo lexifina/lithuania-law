@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vertybinių popierių įstatymo 2, 4, 5, 6, 7, 9, 10, 12, 15, 20, 23, 25, 26, 27, 31, 33, 34, 37, 38, 42, 46, 48 straipsnių pakeitimo ir papildymo, Įstatymo papildymo 6(1) straipsniu ir penktuoju(1) skirsniu ir įstatymo priedo papildymo įstatymas Nr. XII-148",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "11",
+  "official_journal_page": null,
+  "official_journal_date": "2013-01-30",
+  "entry_into_force": "2013-01-30",
+  "notification_date": "2013-02-01",
+  "commission_reference": "MNE(2013)51218",
+  "nim_celex": "72010L0073LTU_201114",
+  "nim_id": "201114",
+  "transposes_celex": [
+    "32010L0073"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3f984818-8510-43f5-b8a6-5be75fa50f54",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
