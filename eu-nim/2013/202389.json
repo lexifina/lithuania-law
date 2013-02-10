@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2013 m. vasario 6 d. nutarimas Nr. 99 „Dėl Lietuvos Respublikos Vyriausybės 2000 m. gruodžio 15 d. nutarimo Nr. 1458 \"Dėl konkrečių valstybės rinkliavos dydžių ir šios rinkliavos mokėjimo ir grąžinimo taisyklių patvirtinimo\" pakeitimo",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "15",
+  "official_journal_page": null,
+  "official_journal_date": "2013-02-09",
+  "entry_into_force": "2013-02-10",
+  "notification_date": "2013-03-26",
+  "commission_reference": "MNE(2013)52120",
+  "nim_celex": "72004L0038LTU_202389",
+  "nim_id": "202389",
+  "transposes_celex": [
+    "32004L0038"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/69c600d3-e941-4f08-a8ac-6cf264e7bbdb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
