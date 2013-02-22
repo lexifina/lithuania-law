@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2013 m. vasario 19 d. įsakymas Nr. A1-60 „Dėl Projektų, skirtų socialinei pagalbai nukentėjusiesiems nuo prekybos žmonėmis ir priverstinės prostitucijos teikti ir jų grąžinimui į visuomenę ir darbo rinką, vertinimo komisijos sudarymo ir Projektų, skirtų socialinei pagalbai nukentėjusiesiems nuo prekybos žmonėmis ir priverstinės prostitucijos teikti ir jų grąžinimui į visuomenę ir darbo rinką, atrankos konkurso organizavimo 2013-2015 metais nuostatų patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "20",
+  "official_journal_page": null,
+  "official_journal_date": "2013-02-21",
+  "entry_into_force": "2013-02-22",
+  "notification_date": "2015-11-13",
+  "commission_reference": "MNE(2015)58308",
+  "nim_celex": "72012L0029LTU_231701",
+  "nim_id": "231701",
+  "transposes_celex": [
+    "32012L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6d56c715-ba05-4b31-b2f3-3d6f76f7b6ea",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
