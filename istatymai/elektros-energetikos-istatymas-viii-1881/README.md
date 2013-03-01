@@ -19,3 +19,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2012-02-07 | 2012-06-29 | Įstatymas Nr. XI-1919 / Teisės aktų registras (Seimo kanceliarija) | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22bLlSiANzoI%22) |
 | 2012-06-30 | 2012-06-30 | Įstatymas Nr. XI-2086 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22TMLvYuJNWu%22) |
 | 2012-07-01 | 2013-02-28 | Įstatymas Nr. XI-2095 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22vIJoKtYpLS%22) |
+| 2013-03-01 | 2014-03-19 | Įstatymas Nr. XII-171 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22JbDlxYoVuo%22) |
