@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2013 m. vasario 20 d. įsakymas Nr. V-185 \"Dėl Sveikatos priežiūros ar farmacijos specialisto pranešimo apie įtariamą nepageidaujamą reakciją (ĮNR) pateikimo tvarkos aprašo, Sveikatos priežiūros ar farmacijos specialisto pranešimo apie įtariamą nepageidaujamą reakciją (ĮNR) formos ir Paciento pranešimo apie įtariamą nepageidaujamą reakciją (ĮNR) formos patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "22",
+  "official_journal_page": null,
+  "official_journal_date": "2013-02-28",
+  "entry_into_force": "2013-03-01",
+  "notification_date": "2013-04-16",
+  "commission_reference": "MNE(2013)52795",
+  "nim_celex": "72010L0084LTU_203245",
+  "nim_id": "203245",
+  "transposes_celex": [
+    "32010L0084"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/054c9a1b-8bd9-4541-a7f7-e20662e53a37",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
