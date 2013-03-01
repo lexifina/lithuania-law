@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos fizinių asmenų bankroto įstatymas Nr. XI-2000 (suvestinė redakcija  nuo 2021-05-19 iki 2021-07-08)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "57-2823",
+  "official_journal_page": null,
+  "official_journal_date": "2012-05-19",
+  "entry_into_force": "2013-03-01",
+  "notification_date": "2022-04-16",
+  "commission_reference": "MNE(2022)02563",
+  "nim_celex": "72019L1023LTU_202202563",
+  "nim_id": "202202563",
+  "transposes_celex": [
+    "32019L1023"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8a2f9993-c220-11ec-b6f4-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
