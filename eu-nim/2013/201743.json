@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2013 m. vasario 19 d. įsakymas Nr. V-177 „Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2003 m. gruodžio 23 d. įsakymo Nr. V-757 „Dėl Lietuvos higienos normos HN 62:2003 „Kosmetikos gaminiai: bendrieji reikalavimai, draudžiamos ir ribojamos medžiagos“ patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "22",
+  "official_journal_page": null,
+  "official_journal_date": "2013-02-28",
+  "entry_into_force": "2013-03-01",
+  "notification_date": "2013-02-28",
+  "commission_reference": "MNE(2013)51641",
+  "nim_celex": "72012L0021LTU_201743",
+  "nim_id": "201743",
+  "transposes_celex": [
+    "32012L0021"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3bbb5a3a-b5ea-432f-a54d-d36a33c95585",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
