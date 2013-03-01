@@ -1,5 +1,7 @@
-# įstatymo Nr. IX-1873
+# RESPUBLIKOS PREZIDENTAS ROLANDAS PAKSAS
+Lietuvos Respublikos
+mokėjimų, atliekamų pagal komercines
+sutartis, vėlavimo prevencijos įstatymo
 priedas
-EUROPOS SĄJUNGOS TEISĖS AKTAI, SU KURIAIS SUDERINTAS LIETUVOS RESPUBLIKOS MOKĖJIMŲ, ATLIEKAMŲ PAGAL KOMERCINIUS SANDORIUS, VĖLAVIMO PREVENCIJOS ĮSTATYMAS
-Lietuvos Respublikos mokėjimų, atliekamų pagal komercinius sandorius, vėlavimo prevencijos įstatymas suderintas su 2000 m. birželio 29 d. Europos Parlamento ir Tarybos direktyva 2000/35/EB „Dėl kovos su pavėluotu mokėjimu komerciniuose sandoriuose“.
-______________
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+1. 2011 m. vasario 16 d. Europos Parlamento ir Tarybos direktyva 2011/7/ES dėl kovos su pavėluotu mokėjimu, atliekamu pagal komercinius sandorius (OL 2011 L 48, p. 1).
