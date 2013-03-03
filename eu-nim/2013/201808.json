@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2013 m. vasario 28 d. įsakymas Nr. 3-128 \"Dėl Universaliosios pašto paslaugos kokybės reikalavimų aprašo patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "23",
+  "official_journal_page": null,
+  "official_journal_date": "2013-03-02",
+  "entry_into_force": "2013-03-03",
+  "notification_date": "2013-03-07",
+  "commission_reference": "MNE(2013)51673",
+  "nim_celex": "72008L0006LTU_201808",
+  "nim_id": "201808",
+  "transposes_celex": [
+    "32008L0006"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d4d8c04d-aa5f-4b0c-9b25-80c897645884",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
