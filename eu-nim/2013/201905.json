@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2013 m. vasario 28 d. nutarimas Nr. 03-44 „Dėl Vertybinių popierių prospekto rengimo, tvirtinimo ir viešo informacijos atskleidimo taisyklių patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "25",
+  "official_journal_page": null,
+  "official_journal_date": "2013-03-08",
+  "entry_into_force": "2013-03-09",
+  "notification_date": "2013-03-12",
+  "commission_reference": "MNE(2013)51749",
+  "nim_celex": "72010L0073LTU_201905",
+  "nim_id": "201905",
+  "transposes_celex": [
+    "32010L0073"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5c205085-0c7a-4577-abd2-724d2833e2fc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
