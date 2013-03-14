@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos krašto apsaugos ministro 2013 m. kovo 5 d. įsakymas Nr. V-187 \"Dėl krašto apsaugos ministro 2009 m. gruodžio 29 d. įsakymo Nr. V-1216 \"Dėl Bendrojo karinės įrangos sąrašo patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "27",
+  "official_journal_page": null,
+  "official_journal_date": "2013-03-13",
+  "entry_into_force": "2013-03-14",
+  "notification_date": "2013-03-14",
+  "commission_reference": "MNE(2013)51882",
+  "nim_celex": "72012L0047LTU_202054",
+  "nim_id": "202054",
+  "transposes_celex": [
+    "32012L0047"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/94e7e476-503a-4d5f-bb6f-c400af7f7467",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
