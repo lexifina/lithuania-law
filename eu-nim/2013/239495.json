@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos policijos generalinio komisaro 2013 m. kovo 19 d. įsakymas Nr. 5-V-221 „Dėl specialiųjų mokymo modulių programos „Kriminalinės policijos pareigūnų veikla“ patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Administracinės priemonės",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2013-03-19",
+  "entry_into_force": "2013-03-20",
+  "notification_date": "2016-08-01",
+  "commission_reference": "MNE(2016)54929",
+  "nim_celex": "72014L0057LTU_239495",
+  "nim_id": "239495",
+  "transposes_celex": [
+    "32014L0057"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/99ae8848-e84c-4269-9612-d9bf1854e509",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
