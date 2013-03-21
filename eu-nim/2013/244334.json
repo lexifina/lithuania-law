@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2013 m. kovo 13 d. nutarimas Nr. 219 „Dėl Lietuvos Respublikos teismų priimtų sprendimų konfiskuoti perdavimo vykdyti kitoms Europos Sąjungos valstybėms narėms taisyklių patvirtinimo ir piniginių lėšų bei turto, gauto įvykdžius sprendimus konfiskuoti, paskirstymo tvarkos“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "29",
+  "official_journal_page": null,
+  "official_journal_date": "2013-03-20",
+  "entry_into_force": "2013-03-21",
+  "notification_date": "2017-01-18",
+  "commission_reference": "MNE(2017)50395",
+  "nim_celex": "72014L0042LTU_244334",
+  "nim_id": "244334",
+  "transposes_celex": [
+    "32014L0042"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5c6e1178-06f5-4663-9552-c484cf1d324d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
