@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės maisto ir veterinarijos tarnybos direktoriaus 2013 m. kovo 15 d. įsakymas Nr. B1-266 „Dėl Valstybinės maisto ir veterinarijos tarnybos  direktoriaus 2010 m. balandžio 27 d. įsakymo Nr. B1-173 „Dėl Viščiukų broilerių laikymo reikalavimų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "29",
+  "official_journal_page": null,
+  "official_journal_date": "2013-03-20",
+  "entry_into_force": "2013-03-21",
+  "notification_date": "2013-03-22",
+  "commission_reference": "MNE(2013)52047",
+  "nim_celex": "72007L0043LTU_202273",
+  "nim_id": "202273",
+  "transposes_celex": [
+    "32007L0043"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b75047ff-8c55-4a44-b922-52f0a0fd46d4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
