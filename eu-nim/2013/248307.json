@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos generalinio prokuroro 2013 m. kovo 19 d. įsakymas Nr. I-73 \"Dėl Rekomendacijų dėl finansų tyrimo tvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "30",
+  "official_journal_page": null,
+  "official_journal_date": "2013-03-23",
+  "entry_into_force": "2013-03-24",
+  "notification_date": "2017-06-14",
+  "commission_reference": "MNE(2017)53195",
+  "nim_celex": "72014L0041LTU_248307",
+  "nim_id": "248307",
+  "transposes_celex": [
+    "32014L0041"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c95c629d-1c25-4183-abe3-eb3b90ee9f2b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
