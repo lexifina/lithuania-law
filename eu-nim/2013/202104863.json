@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Informacinės visuomenės plėtros komiteto prie Susisiekimo ministerijos direktoriaus 2013 m. kovo 25 d. įsakymas Nr. T-36 „Dėl Duomenų teikimo formatų ir standartų rekomendacijų patvirtinimo“ pakeitimo“ (Suvestinė redakcija)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "34-1684",
+  "official_journal_page": null,
+  "official_journal_date": "2013-03-30",
+  "entry_into_force": "2013-03-31",
+  "notification_date": "2021-07-16",
+  "commission_reference": "MNE(2021)04863",
+  "nim_celex": "72019L1024LTU_202104863",
+  "nim_id": "202104863",
+  "transposes_celex": [
+    "32019L1024"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3af49420-ee00-11eb-a71c-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
