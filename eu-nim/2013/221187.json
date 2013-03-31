@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2013 m. kovo 17 d. įsakymas Nr. A1-133 „Dėl leidimo dirbti užsieniečiams išdavimo sąlygų ir tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "34",
+  "official_journal_page": null,
+  "official_journal_date": "2013-03-30",
+  "entry_into_force": "2013-03-31",
+  "notification_date": "2014-11-27",
+  "commission_reference": "MNE(2014)56404",
+  "nim_celex": "72011L0098LTU_221187",
+  "nim_id": "221187",
+  "transposes_celex": [
+    "32011L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f92c41ca-fd3a-48e3-921c-24d0e4c4134b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
