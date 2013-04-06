@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos branduolinės energijos įstatymo 21 ir 23 straipsnių pakeitimo įstatymas Nr. XII-216",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "36",
+  "official_journal_page": null,
+  "official_journal_date": "2013-04-06",
+  "entry_into_force": "2013-04-06",
+  "notification_date": "2017-08-29",
+  "commission_reference": "MNE(2017)54721",
+  "nim_celex": "72014L0087LTU_250331",
+  "nim_id": "250331",
+  "transposes_celex": [
+    "32014L0087"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4054b14b-67bc-43a6-b5c8-e3bbc895bc83",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
