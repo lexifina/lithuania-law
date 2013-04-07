@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro 2013 m. balandžio 3 d. įsakymas Nr. 4-261 „Dėl Lietuvos Respublikos ūkio ministro 2008 m. spalio 8 d. įsakymo Nr. 4-459 „Dėl tam tikrų pavojingų medžiagų naudojimo ribojimo elektros ir elektroninėje įrangoje rinkos priežiūros taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "36",
+  "official_journal_page": null,
+  "official_journal_date": "2013-04-06",
+  "entry_into_force": "2013-04-07",
+  "notification_date": "2013-04-12",
+  "commission_reference": "MNE(2013)52628",
+  "nim_celex": "72011L0065LTU_203012",
+  "nim_id": "203012",
+  "transposes_celex": [
+    "32011L0065"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/64a71d01-4d89-4d35-a2d6-45619b3f8377",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
