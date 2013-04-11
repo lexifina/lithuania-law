@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro 2013 m. balandžio 8 d. įsakymas Nr. 4-272 „Dėl Lietuvos Respublikos ūkio ministro 2003 m. vasario 21 d. įsakymo Nr. 4-72 „Dėl Perkančiųjų organizacijų sąrašų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "37",
+  "official_journal_page": null,
+  "official_journal_date": "2013-04-10",
+  "entry_into_force": "2013-04-11",
+  "notification_date": "2016-03-22",
+  "commission_reference": "MNE(2016)51982",
+  "nim_celex": "72014L0024LTU_235949",
+  "nim_id": "235949",
+  "transposes_celex": [
+    "32014L0024"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/224f5284-0c99-434c-ac4a-6c338c770f38",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
