@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2013 m. kovo 27 d. nutarimas Nr. 279 \"Dėl Lietuvos Respublikos Vyriausybės 2002 m. gruodžio 5 d. nutarimo Nr. 1901 \"Dėl Naftos produktų ir naftos valstybės atsargų sudarymo, tvarkymo, kaupimo ir kontrolės taisyklių bei minimalių naftos produktų kiekių patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "37",
+  "official_journal_page": null,
+  "official_journal_date": "2013-04-10",
+  "entry_into_force": "2013-04-11",
+  "notification_date": "2013-04-10",
+  "commission_reference": "MNE(2013)52679",
+  "nim_celex": "72009L0119LTU_203074",
+  "nim_id": "203074",
+  "transposes_celex": [
+    "32009L0119"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d00c764a-737d-41f4-bbfc-14d8e6ee37bf",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
