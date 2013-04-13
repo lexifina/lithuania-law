@@ -1,8 +1,3 @@
-# RESPUBLIKOS PREZIDENTAS VALDAS ADAMKUS
-______________
-Lietuvos Respublikos
-atsiskaitymo už žemės ūkio
-produkciją įstatymo
-priedas
-ĮGYVENDINAMAS EUROPOS SĄJUNGOS TEISĖS AKTAS
-2000 m. birželio 29 d. Europos Parlamento ir Tarybos direktyva 2000/35/EB dėl kovos su pavėluotu mokėjimu komerciniuose sandoriuose (OL 2004 m. specialusis leidimas, 17 skyrius, 1 tomas, p. 226).
+# priedas
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+1. 2011 m. vasario 16 d. Europos Parlamento ir Tarybos direktyva 2011/7/ES dėl kovos su pavėluotu mokėjimu, atliekamu pagal komercinius sandorius (OL 2011 L 48, p. 1).
