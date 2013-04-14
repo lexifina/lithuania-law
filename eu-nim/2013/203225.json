@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2013 m. balandžio 10 d. įsakymas Nr. D1-240 \"Dėl Lietuvos Respublikos aplinkos ministro 2001 m. rugsėjo 28 d. įsakymo Nr. 486 \"Dėl Išmetamų teršalų iš didelių kurą deginančių įrenginių normų ir Išmetamų teršalų iš kurą deginančių įrenginių normų LAND 43-2001 nustatymo\" pakeitimo\"",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "38",
+  "official_journal_page": null,
+  "official_journal_date": "2013-04-13",
+  "entry_into_force": "2013-04-14",
+  "notification_date": "2013-04-15",
+  "commission_reference": "MNE(2013)52782",
+  "nim_celex": "72010L0075LTU_203225",
+  "nim_id": "203225",
+  "transposes_celex": [
+    "32010L0075"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1ff06ffd-fcfe-470a-a243-23b54eca28b9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
