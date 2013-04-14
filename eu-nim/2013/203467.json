@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2013 m. balandžio 8 d. įsakymas Nr. 1V-568 „Dėl Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2004 m. gruodžio 1 d. įsakymo Nr. 1V-593 „Dėl Informacijos, susijusios su Lietuvos Respublikos elektroninių ryšių įstatymo ir Lietuvos Respublikos pašto įstatymo įgyvendinimu, skelbimo taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "38",
+  "official_journal_page": null,
+  "official_journal_date": "2013-04-13",
+  "entry_into_force": "2013-04-14",
+  "notification_date": "2013-04-25",
+  "commission_reference": "MNE(2013)52987",
+  "nim_celex": "72009L0140LTU_203467",
+  "nim_id": "203467",
+  "transposes_celex": [
+    "32009L0140"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/141cb144-d855-40fa-9e22-d7ed14011d69",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
