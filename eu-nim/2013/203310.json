@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2013 m. balandžio 10 d. nutarimas Nr. 310 \"Dėl Nuostolingos universaliosios pašto paslaugos kompensavimo taisyklių patvirtinimo ir Lietuvos Respublikos Vyriausybės 2008 m. kovo 12 d. nutarimo Nr. 236 \"Dėl Nuostolingų universaliųjų pašto paslaugų kompensavimo taisyklių patvirtinimo\" pripažinimo netekusiu galios\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "39",
+  "official_journal_page": null,
+  "official_journal_date": "2013-04-16",
+  "entry_into_force": "2013-04-17",
+  "notification_date": "2013-04-18",
+  "commission_reference": "MNE(2013)52851",
+  "nim_celex": "72008L0006LTU_203310",
+  "nim_id": "203310",
+  "transposes_celex": [
+    "32008L0006"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1d5174e0-6ce2-4059-8f52-a4f58f048c72",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
