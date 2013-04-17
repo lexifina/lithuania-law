@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2013 m. balandžio 10 d. įsakymas Nr. D1-245 \"Dėl Lietuvos Respublikos aplinkos ministro 2010 m. balandžio 1 d. įsakymo Nr. D1-265 \"Dėl informacijos apie upių baseinų rajonus teikimo visuomenei, vandens naudotojams ir kitiems suinteresuotiems asmenims tvarkos aprašo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "39",
+  "official_journal_page": null,
+  "official_journal_date": "2013-04-16",
+  "entry_into_force": "2013-04-17",
+  "notification_date": "2013-04-18",
+  "commission_reference": "MNE(2013)52857",
+  "nim_celex": "72000L0060LTU_203316",
+  "nim_id": "203316",
+  "transposes_celex": [
+    "32000L0060"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/aeda8b41-629a-44d3-b2f4-77da3bd68f8f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
