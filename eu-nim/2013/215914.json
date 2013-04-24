@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių teisės pažeidimų kodekso papildymo 118(1) straipsniu ir 228, 229 straipsnių pakeitimo įstatymas Nr. XII-227",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "42",
+  "official_journal_page": null,
+  "official_journal_date": "2013-04-24",
+  "entry_into_force": "2013-04-24",
+  "notification_date": "2014-05-15",
+  "commission_reference": "MNE(2014)52884",
+  "nim_celex": "72012L0033LTU_215914",
+  "nim_id": "215914",
+  "transposes_celex": [
+    "32012L0033"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/660202f5-42a8-40e2-9aee-c924e397593b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
