@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2013 m. balandžio 11 d. įsakymas Nr. V-364 „Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2007 m. gruodžio 29 d. įsakymo Nr. V-1080 „Dėl Neregistruotų būtinųjų vaistinių preparatų tiekimo rinkai taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "42",
+  "official_journal_page": null,
+  "official_journal_date": "2013-04-24",
+  "entry_into_force": "2013-04-25",
+  "notification_date": "2013-04-26",
+  "commission_reference": "MNE(2013)53097",
+  "nim_celex": "72010L0084LTU_203599",
+  "nim_id": "203599",
+  "transposes_celex": [
+    "32010L0084"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3b053897-c0b3-403c-b141-a646179499b9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
