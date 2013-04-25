@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2013 m. balandžio 11 d. įsakymas Nr. V-367 „Dėl Pritarimo atlikti poregistracinį vaistinio preparato saugumo tyrimą išdavimo tvarkos aprašo, Paraiškos gauti pritarimą atlikti poregistracinį vaistinio preparato saugumo tyrimą formos, Pranešimų apie įtariamas nepageidaujamas reakcijas siuntimo į „Eudravigilance“ duomenų bazę ir vaistinių preparatų, įregistruotų iki 2012 m. liepos 21 d. arba įregistruotų tik Lietuvos Respublikoje, periodiškai atnaujinamų saugumo protokolų teikimo Europos vaistų agentūrai tvarkos aprašo, Valstybinės vaistų kontrolės tarnybos prie Lietuvos Respublikos sveikatos apsaugos ministerijos interneto svetainėje skelbtinos informacijos, susijusios su farmakologiniu budrumu, sąrašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "42",
+  "official_journal_page": null,
+  "official_journal_date": "2013-04-24",
+  "entry_into_force": "2013-04-25",
+  "notification_date": "2013-04-26",
+  "commission_reference": "MNE(2013)53094",
+  "nim_celex": "72010L0084LTU_203596",
+  "nim_id": "203596",
+  "transposes_celex": [
+    "32010L0084"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cd82f46b-22fd-4326-87de-9bbae5c12161",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
