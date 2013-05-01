@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės kainų ir energetikos kontrolės komisijos 2013 m. balandžio 29 d. nutarimas Nr. 03-138 \"Dėl Elektros energijos perdavimo veiklos atskyrimo ir perdavimo sistemos operatoriaus paskyrimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Administracinės priemonės",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2013-04-29",
+  "entry_into_force": "2013-05-01",
+  "notification_date": "2016-03-29",
+  "commission_reference": "MNE(2016)52101",
+  "nim_celex": "72009L0072LTU_236095",
+  "nim_id": "236095",
+  "transposes_celex": [
+    "32009L0072"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fecb6b6a-41ca-4bfa-afaa-a6ca3ccbbc27",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
