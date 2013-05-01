@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro, Lietuvos Respublikos sveikatos apsaugos ministro ir Lietuvos Respublikos švietimo ir mokslo ministro 2012 m. kovo 16 d. įsakymas Nr. A1-157/V-210/V-501 „Dėl su(si)žeidimų aštriais instrumentais sveikatos priežiūros įstaigose prevencijos nuostatų patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "34",
+  "official_journal_page": null,
+  "official_journal_date": "2012-03-22",
+  "entry_into_force": "2013-05-01",
+  "notification_date": "2012-11-14",
+  "commission_reference": "MNE(2012)56573",
+  "nim_celex": "72010L0032LTU_198196",
+  "nim_id": "198196",
+  "transposes_celex": [
+    "32010L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/297915e1-0793-48ea-a841-6b4ac9bbabca",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
