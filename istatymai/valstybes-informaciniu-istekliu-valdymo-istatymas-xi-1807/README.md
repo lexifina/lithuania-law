@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2012-01-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/13af48e37d3a1cb09a628bc46874dc2c6c9a54b8/istatymai/TAR.85C510BA700A.md) |
+| 2013-05-01 | 2014-12-31 | Įstatymas Nr. XII-165 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/ab5a33c9df39e52ff0818d78b55d3900a2462f04/istatymai/TAR.85C510BA700A.md) |
