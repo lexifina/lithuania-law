@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2013 m. balandžio 17 d. nutarimas Nr. 337 \"Dėl Lietuvos Respublikos Vyriausybės 1994 m. rugpjūčio 11 d. nutarimo Nr. 728 \"Dėl Lietuvos Respublikos Vyriausybės darbo reglamento patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "43",
+  "official_journal_page": null,
+  "official_journal_date": "2013-04-27",
+  "entry_into_force": "2013-05-01",
+  "notification_date": "2013-05-17",
+  "commission_reference": "MNE(2013)53707",
+  "nim_celex": "72011L0070LTU_204317",
+  "nim_id": "204317",
+  "transposes_celex": [
+    "32011L0070"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7ebc57ef-e175-458c-94d6-0b357c7cfd0d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
