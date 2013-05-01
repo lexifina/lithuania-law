@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respblikos sveikatos apsaugos ministro 2012 m. spalio 19 d. įsakymas Nr. V-946 \"Dėl Lietuvos higienos normos HN 47-1:2012 \"Sveikatos priežiūros įstaigos. Infekcijų kontrolės reikalavimai\" patvirtinimo\"",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "124",
+  "official_journal_page": null,
+  "official_journal_date": "2012-10-25",
+  "entry_into_force": "2013-05-01",
+  "notification_date": null,
+  "commission_reference": "MNE(2013)52005",
+  "nim_celex": "72011L0065LTU_202228",
+  "nim_id": "202228",
+  "transposes_celex": [
+    "32011L0065"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7ccb5f29-b75e-42fe-b624-2270d0672626",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
