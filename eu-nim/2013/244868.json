@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 17 straipsnio pakeitimo ir papildymo įstatymas Nr. XII-251",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "46",
+  "official_journal_page": null,
+  "official_journal_date": "2013-05-07",
+  "entry_into_force": "2013-05-07",
+  "notification_date": "2017-01-31",
+  "commission_reference": "MNE(2017)50808",
+  "nim_celex": "72014L0036LTU_244868",
+  "nim_id": "244868",
+  "transposes_celex": [
+    "32014L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4721e17b-07e8-4185-9631-562ad5854bbf",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
