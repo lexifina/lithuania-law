@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2013 m. balandžio 30 d. nutarimas Nr. 385",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "47",
+  "official_journal_page": null,
+  "official_journal_date": "2013-05-09",
+  "entry_into_force": "2013-05-10",
+  "notification_date": "2013-05-09",
+  "commission_reference": "MNE(2013)53376",
+  "nim_celex": "72012L0004LTU_203945",
+  "nim_id": "203945",
+  "transposes_celex": [
+    "32012L0004",
+    "32014L0028"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a447b653-35d6-40b9-a065-0b7ace9c4665",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
