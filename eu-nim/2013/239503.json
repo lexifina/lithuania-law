@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2013 m. gegužės 8 d. nutarimas Nr. 392 “Dėl Lietuvos Respublikos Vyriausybės 2009 m. kovo 9 d. nutarimo Nr. 185 \"Dėl Europos Sąjungos vidaus rinkos informacinės sistemos naudojimo Lietuvos Respublikoje\" pakeitimo”",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "49",
+  "official_journal_page": null,
+  "official_journal_date": "2013-05-11",
+  "entry_into_force": "2013-05-12",
+  "notification_date": "2016-07-19",
+  "commission_reference": "MNE(2016)54937",
+  "nim_celex": "72014L0067LTU_239503",
+  "nim_id": "239503",
+  "transposes_celex": [
+    "32014L0067"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bdcfb967-d980-4cec-98bd-855ed446e564",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
