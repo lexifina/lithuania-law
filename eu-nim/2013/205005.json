@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2013 m. gegužės 6 d. įsakymas Nr. 1V-728 \"Dėl Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2005 m. spalio 6 d. įsakymo Nr. 1V-854 \"Dėl Radijo dažnių (kanalų) skyrimo ir naudojimo taisyklių patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "48",
+  "official_journal_page": null,
+  "official_journal_date": "2013-05-11",
+  "entry_into_force": "2013-05-12",
+  "notification_date": "2013-07-05",
+  "commission_reference": "MNE(2013)54309",
+  "nim_celex": "72009L0140LTU_205005",
+  "nim_id": "205005",
+  "transposes_celex": [
+    "32009L0140"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/329e3663-6140-4412-97cf-539f97c0940e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
