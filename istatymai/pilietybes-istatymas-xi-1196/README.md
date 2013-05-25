@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2011-04-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/9722dd7ba2369ae857c0f14b5245fff0987987cb/istatymai/TAR.F628061443C6.md) |
+| 2013-05-25 | 2013-12-31 | Įstatymas Nr. XII-269 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/54ba9b520d32a0fdcb6a712db6f119642b6a6a42/istatymai/TAR.F628061443C6.md) |
