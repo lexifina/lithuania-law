@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės metrologijos tarnybos direktoriaus 2013 m. gegužės 23 d. įsakymas Nr. V-84 \"Dėl Valstybinės metrologijos tarnybos direktoriaus 2006 m. kovo 30 d. įsakymo Nr. V-31 \"Dėl Matavimo priemonių techninio reglamento patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "55",
+  "official_journal_page": null,
+  "official_journal_date": "2013-05-28",
+  "entry_into_force": "2013-05-29",
+  "notification_date": "2013-07-25",
+  "commission_reference": "MNE(2013)55714",
+  "nim_celex": "72004L0022LTU_206615",
+  "nim_id": "206615",
+  "transposes_celex": [
+    "32004L0022"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/70a62a82-5c87-4f2a-a9f5-afb654b45d6f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
