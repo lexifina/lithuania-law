@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro 2013 m. gegužės 23 d. įsakymas Nr. 1V-456 „Dėl Lietuvos Respublikos vidaus reikalų ministro 2005 m. gruodžio 21 d. įsakymo Nr. 1V-445 „Dėl Lietuvos Respublikos ilgalaikio gyventojo leidimo gyventi Europos Bendrijoje užsieniečiams išdavimo ir fiktyvios santuokos sudarymo, fiktyvios registruotos partnerystės bei fiktyvaus įvaikinimo įvertinimo taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "56",
+  "official_journal_page": null,
+  "official_journal_date": "2013-05-30",
+  "entry_into_force": "2013-05-31",
+  "notification_date": "2014-04-30",
+  "commission_reference": "MNE(2014)52509",
+  "nim_celex": "72011L0051LTU_215329",
+  "nim_id": "215329",
+  "transposes_celex": [
+    "32011L0051"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/476526cc-c0b0-428f-9463-41efadbd81c3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
