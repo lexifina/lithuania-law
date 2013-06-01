@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybės tarnybos įstatymo 3(1), 4, 9, 11, 13, 14, 15, 16, 16(1), 17, 22, 29, 30, 31(1), 32, 34, 41, 43, 44, 46, 47, 48, 49, 50, 51 straipsnių pakeitimo ir papildymo įstatymas Nr. XI-2041",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "69",
+  "official_journal_page": null,
+  "official_journal_date": "2012-06-21",
+  "entry_into_force": "2013-06-01",
+  "notification_date": "2016-05-16",
+  "commission_reference": "MNE(2016)53151",
+  "nim_celex": "72013L0053LTU_237473",
+  "nim_id": "237473",
+  "transposes_celex": [
+    "32013L0053"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f4776985-0c00-4da4-af04-615e4dcfd60c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
