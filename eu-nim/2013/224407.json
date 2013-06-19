@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2013 m. birželio 10 d. įsakymas Nr. V-601 „Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2000 m. sausio 6 d. įsakymo Nr. 5 „Dėl narkotinių ir psichotropinių medžiagų sąrašų patvirtnimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "64",
+  "official_journal_page": null,
+  "official_journal_date": "2013-06-18",
+  "entry_into_force": "2013-06-19",
+  "notification_date": "2015-03-09",
+  "commission_reference": "MNE(2015)51563",
+  "nim_celex": "72005D0387LTU_224407",
+  "nim_id": "224407",
+  "transposes_celex": [
+    "32005D0387"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ff8d249e-6321-11e7-b2f2-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
