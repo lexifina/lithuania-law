@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro 2013 m. birželio 12 d. įsakymas Nr. 1V-507 \"Dėl Lietuvos Respublikos vidaus reikalų ministro 2008 m. liepos 25 d. įsakymo Nr. 1V-290 \"Dėl Pažymos Europos Sąjungos valstybės narės piliečiui jo teisei gyventi Lietuvos Respublikoje patvirtinti išdavimo tvarkos aprašo ir Europos Sąjungos valstybės narės piliečio šeimos nario leidimo gyventi Lietuvos Respublikoje išdavimo, galiojimo pratęsimo ir panaikinimo Europos Sąjungos valstybės narės piliečio šeimos nariams tvarkos aprašo patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "64",
+  "official_journal_page": null,
+  "official_journal_date": "2013-06-18",
+  "entry_into_force": "2013-06-19",
+  "notification_date": "2013-09-16",
+  "commission_reference": "MNE(2013)57836",
+  "nim_celex": "72004L0038LTU_209073",
+  "nim_id": "209073",
+  "transposes_celex": [
+    "32004L0038"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/520e2822-0618-42fe-96ef-53162cedd8b7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
