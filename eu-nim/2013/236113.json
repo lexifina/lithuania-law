@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės kainų ir energetikos kontrolės komisijos 2013 m. birželio 17 d. nutarimas Nr. O3-236 \"Dėl Reikalavimų gamtinių dujų skirstymo sistemos balansavimo taisyklėms patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "66",
+  "official_journal_page": null,
+  "official_journal_date": "2013-06-22",
+  "entry_into_force": "2013-06-23",
+  "notification_date": "2016-03-30",
+  "commission_reference": "MNE(2016)52119",
+  "nim_celex": "72009L0073LTU_236113",
+  "nim_id": "236113",
+  "transposes_celex": [
+    "32009L0073"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f28d3ff6-22c1-4a30-a92b-22e4da4f145a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
