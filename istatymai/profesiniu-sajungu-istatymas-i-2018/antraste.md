@@ -1,52 +1,9 @@
-Redaguota: 1994
-Redaguota:
-1994.11.29.
-Pakeitimai:
-1.Parlamentas.
-Įstatymas
-Nr.1-474,priimtas 1994 05 24,
-Žin., 1994,
-Nr.42-758
-DĖL LIETUVOS
-RESPUBLIKOS PROFESINIŲ SĄJUNGŲ
-ĮSTATYMO
-PAKEITIMO IR PAPILDYMO
-2.Parlamentas,
-Įstatymas
-Nr.1-640,
-priimtas 1994.11.08.
-Žin., 1994,
-Nr.91-1764
-DĖL LIETUVOS
-RESPUBLIKOS PROFESINIŲ SĄJUNGŲ
-ĮSTATYMO
-PAKEITIMO
-LIETUVOS RESPUBLIKOS
-PROFESINIŲ SĄJUNGŲ
-ĮSTATYMAS
-Lietuvos
-Respublikos piliečiai, taip pat kiti asmenys,
-nuolat gyvenantys
-Lietuvoje, įstatymo nustatyta tvarka turi teisę
-steigti profesines
-sąjungas ar stoti į jas savo interesams ginti.
-Profesinės
-sąjungos yra savanoriškos, savarankiškos ir
-savaveiksmės
-organizacijos, atstovaujančios ir ginančios
-darbuotojų
-profesines darbo, ekonomines, socialines teises bei
-interesus.
-Pakeitimai:
-Nr.1-474,priimtas 1994 05 24,
-Žin.,
-1994, Nr.42-758
-Šis įstatymas
-nustato profesinių sąjungų veiklos pagrindus,
-jų teises ir atsakomybę
-santykiuose su darbdaviais, valstybinės
-valdžios ir valdymo
-organais, profesinėms sąjungoms ginant savo
-narių interesus.
-I
-skirsnis. Bendrieji nuostatai
+Profesinės sąjungos yra savanoriškos, savarankiškos ir savaveiksmės organizacijos, atstovaujančios darbuotojų profesinėms darbo, ekonominėms, socialinėms teisėms ir interesams ir juos ginančios.
+Šis įstatymas nustato profesinių sąjungų veiklos pagrindus, jų teises ir atsakomybę santykiuose su darbdaviais, valstybės ir savivaldybių institucijomis bei įstaigomis, profesinėms sąjungoms ginant savo narių interesus.
+Preambulės pakeitimai:
+I-474, 94.05.24, Žin., 1994, Nr.42-758 Nr.
+IX-1803,
+2003-11-03, Žin., 2003, Nr. 108-4816 (2003-11-19) Nr.
+XII-364,
+2013-06-13, Žin., 2013, Nr. 68-3405 (2013-06-28) I skirsnis.
+Bendrieji nuostatai
