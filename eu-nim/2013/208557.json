@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo 19, 20 straipsnių ir priedo papildymo ir pakeitimo įstatymas Nr. XII-355",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "68",
+  "official_journal_page": null,
+  "official_journal_date": "2013-06-28",
+  "entry_into_force": "2013-06-28",
+  "notification_date": "2013-08-27",
+  "commission_reference": "MNE(2013)57439",
+  "nim_celex": "72011L0098LTU_208557",
+  "nim_id": "208557",
+  "transposes_celex": [
+    "32011L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4f4685f3-33c5-4325-8c35-72c78ba37c36",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
