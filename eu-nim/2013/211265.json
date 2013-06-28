@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos policijos generalinio komisaro 2013 m. birželio 28 d. įsakymas Nr. 5-V-544 \"Dėl specialiųjų mokymų modulių programos \"Viešosios policijos prevencijos padalinio specialisto (nepilnamečių reikalų policijos pareigūno) veikla\" patvirtinimo\"",
+  "type_of_act": "Administracinės priemonės",
+  "official_journal": "Administracinės priemonės",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2013-06-28",
+  "entry_into_force": "2013-06-28",
+  "notification_date": null,
+  "commission_reference": "MNE(2013)59499",
+  "nim_celex": "72011L0093LTU_211265",
+  "nim_id": "211265",
+  "transposes_celex": [
+    "32011L0093"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/523d2857-67b1-4ffe-a7f6-0f306810c1f4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
