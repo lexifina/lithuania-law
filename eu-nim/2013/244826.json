@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos profesinių sąjungų įstatymo preambulės, 1, 2, 3, 4, 8, 9, 13, 14, 15, 16, 17, 20, 21 straipsnių ir iv skirsnio pavadinimo pakeitimo įstatymas Nr. XII-364",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "68",
+  "official_journal_page": null,
+  "official_journal_date": "2013-06-28",
+  "entry_into_force": "2013-06-28",
+  "notification_date": "2017-01-31",
+  "commission_reference": "MNE(2017)50766",
+  "nim_celex": "72014L0036LTU_244826",
+  "nim_id": "244826",
+  "transposes_celex": [
+    "32014L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/46e1d974-6d55-4d22-a8fe-42a96c0a6b1b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
