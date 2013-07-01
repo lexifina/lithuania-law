@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių teisės pažeidimų kodekso 44(3), 224, 259(1), 320 straipsnių pakeitimo ir papildymo ir Kodekso papildymo 44(7) straipsniu įstatymas Nr. XII-389",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "68",
+  "official_journal_page": null,
+  "official_journal_date": "2013-06-28",
+  "entry_into_force": "2013-07-01",
+  "notification_date": "2013-07-15",
+  "commission_reference": "MNE(2013)56717",
+  "nim_celex": "72011L0062LTU_207690",
+  "nim_id": "207690",
+  "transposes_celex": [
+    "32011L0062"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9b38178a-cc2a-4279-96f4-914c7916678b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
