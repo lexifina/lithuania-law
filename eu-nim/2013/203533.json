@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2013 m. balandžio 17 d. nutarimas Nr. 329 \"Dėl Lietuvos Respublikos Vyriausybės 2002 m. sausio 22 d. nutarimo Nr. 84 \"Dėl pavojingųjų krovinių vežimo geležinkelių keliais Lietuvos Respublikoje\" pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "42",
+  "official_journal_page": null,
+  "official_journal_date": "2013-04-24",
+  "entry_into_force": "2013-07-01",
+  "notification_date": "2013-04-25",
+  "commission_reference": "MNE(2013)53036",
+  "nim_celex": "72012L0045LTU_203533",
+  "nim_id": "203533",
+  "transposes_celex": [
+    "32012L0045"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f9910d33-d4e2-477c-bac1-3ce6a466cd3e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
