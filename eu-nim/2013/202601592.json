@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2012 m. lapkričio 7 d. įsakymas Nr. 1-220 „Dėl energetikos objektus, įrenginius įrengiančių ir (ar) eksploatuojančių darbuotojų atestavimo tvarkos aprašo patvirtinimo“ (suvestinė redakcija nuo 2023-04-07 iki 2023-12-31)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "130-6581",
+  "official_journal_page": null,
+  "official_journal_date": "2012-11-10",
+  "entry_into_force": "2013-07-01",
+  "notification_date": "2026-03-12",
+  "commission_reference": "MNE(2026)01592",
+  "nim_celex": "72023L1791LTU_202601592",
+  "nim_id": "202601592",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/286f355c-2bb0-4557-a0c8-fece69efd6cc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
