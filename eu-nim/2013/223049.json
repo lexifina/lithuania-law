@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo kodekso 9(1) straipsnio ir kodekso priedo pakeitimo ir papildymo įstatymas Nr. XII-345",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "62",
+  "official_journal_page": null,
+  "official_journal_date": "2013-06-12",
+  "entry_into_force": "2013-07-01",
+  "notification_date": "2015-03-03",
+  "commission_reference": "MNE(2015)50473",
+  "nim_celex": "72002F0584LTU_223049",
+  "nim_id": "223049",
+  "transposes_celex": [
+    "32002F0584",
+    "32009F0299"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e98ed7d7-eeea-43c5-8a86-255d62badbbc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
