@@ -1,0 +1,29 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo proceso kodekso 66, 67, 69(1), 71(1), 73, 365(1) straipsnių ir kodekso priedo pakeitimo ir papildymo įstatymas Nr. XII-346",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "62",
+  "official_journal_page": null,
+  "official_journal_date": "2013-06-12",
+  "entry_into_force": "2013-07-01",
+  "notification_date": "2015-03-03",
+  "commission_reference": "MNE(2015)50474",
+  "nim_celex": "72002F0475LTU_223050",
+  "nim_id": "223050",
+  "transposes_celex": [
+    "32002F0475",
+    "32002F0584",
+    "32003F0577",
+    "32005F0214",
+    "32005F0222",
+    "32008F0841",
+    "32009F0299",
+    "32011L0099"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6a628301-d717-4ed0-929b-1f619561c230",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
