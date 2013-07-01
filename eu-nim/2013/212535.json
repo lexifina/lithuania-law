@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos farmacijos įstatymo 2, 8, 15, 19, 24, 24(1), 25, 26, 27, 29, 30, 31, 32, 33, 34, 35, 39, 40, 66, 69, 73 straipsnių, septintojo skirsnio pavadinimo, keturioliktojo skirsnio, priedo pakeitimo ir papildymo ir Įstatymo papildymo nauju 24(1) straipsniu ir 24(2), 34(1), 35(1), 68(1) straipsniais įstatymas Nr. XII-388",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "68",
+  "official_journal_page": null,
+  "official_journal_date": "2013-06-28",
+  "entry_into_force": "2013-07-01",
+  "notification_date": "2014-01-20",
+  "commission_reference": "MNE(2014)50315",
+  "nim_celex": "72012L0026LTU_212535",
+  "nim_id": "212535",
+  "transposes_celex": [
+    "32012L0026"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3bbb08eb-cf18-4f2d-8568-b0d58e25aa32",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
