@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių teisės pažeidimų kodekso 21, 27, 87(3), 87(5), 87(6), 87(7), 241(4), 242, 244, 259(1), 320, 324, 325 straipsnių pakeitimo ir Kodekso papildymo 87(10), 87(11) straipsniais įstatymas Nr. XII-399",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "71",
+  "official_journal_page": null,
+  "official_journal_date": "2013-07-01",
+  "entry_into_force": "2013-07-01",
+  "notification_date": "2014-05-15",
+  "commission_reference": "MNE(2014)52882",
+  "nim_celex": "72012L0033LTU_215912",
+  "nim_id": "215912",
+  "transposes_celex": [
+    "32012L0033"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/06d5b168-d46f-4d10-8a5a-c9adac8041c7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
