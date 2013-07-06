@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro 2013 m. liepos 2 d. įsakymas Nr. 4-593 \"Dėl Lietuvos Respublikos ūkio ministro 2008 m. kovo 31 d. įsakymo Nr. 4-129 \"Dėl Medžiagų, naudojamų pagrindinėms vartotojams parduodamos avalynės sudedamosioms dalims gaminti, ženklinimo techninio reglamento patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "72",
+  "official_journal_page": null,
+  "official_journal_date": "2013-07-05",
+  "entry_into_force": "2013-07-06",
+  "notification_date": "2013-08-28",
+  "commission_reference": "MNE(2013)57570",
+  "nim_celex": "72013L0015LTU_208729",
+  "nim_id": "208729",
+  "transposes_celex": [
+    "32013L0015"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8bb8e53d-f4b3-46fc-bdf0-1b63dcd29c54",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
