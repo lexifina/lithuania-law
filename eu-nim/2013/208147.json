@@ -1,0 +1,26 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo proceso kodekso 71, 75, 120, 121, 126, 132, 139, 179, 183, 218, 219, 233, 236, 261, 273, 279, 285, 286, 317, 319, 426, 427, 428, 429, 432 straipsnių pakeitimo ir papildymo ir Kodekso papildymo 131(1), 430(1) straipsniais įstatymas Nr. XII-498",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "75",
+  "official_journal_page": null,
+  "official_journal_date": "2013-07-13",
+  "entry_into_force": "2013-07-13",
+  "notification_date": "2013-07-29",
+  "commission_reference": "MNE(2013)57086",
+  "nim_celex": "72001F0220LTU_208147",
+  "nim_id": "208147",
+  "transposes_celex": [
+    "32001F0220",
+    "32002F0584",
+    "32008F0909",
+    "32010L0064",
+    "32012L0013"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8ceff4f2-172c-4f99-be94-2be386bfc822",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
