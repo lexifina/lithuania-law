@@ -1,0 +1,28 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo kodekso 7, 25, 250, 250(1), 251 straipsnių ir priedo pakeitimo ir papildymo ir kodekso papildymo 249(1), 250(2), 250(3), 250(4), 250(5), 252(1) straipsniais įstatymas Nr. XII-497",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "75",
+  "official_journal_page": null,
+  "official_journal_date": "2013-07-13",
+  "entry_into_force": "2013-07-13",
+  "notification_date": "2015-03-03",
+  "commission_reference": "MNE(2015)50470",
+  "nim_celex": "72001F0413LTU_223046",
+  "nim_id": "223046",
+  "transposes_celex": [
+    "32001F0413",
+    "32002F0475",
+    "32003F0568",
+    "32005F0222",
+    "32008F0841",
+    "32008F0913",
+    "32008F0919"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/59f0dd10-e6ad-4760-822f-55f1bbe46c79",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
