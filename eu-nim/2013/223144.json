@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo kodekso 178 ir 187 straipsnių pakeitimo įstatymas Nr. XII-500",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "75",
+  "official_journal_page": null,
+  "official_journal_date": "2013-07-13",
+  "entry_into_force": "2013-07-13",
+  "notification_date": "2015-03-04",
+  "commission_reference": "MNE(2015)50548",
+  "nim_celex": "72002F0475LTU_223144",
+  "nim_id": "223144",
+  "transposes_celex": [
+    "32002F0475",
+    "32008F0919"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/abce299c-d485-417e-98a6-504229a9da2b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
