@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo proceso kodekso 167, 409 straipsnių pakeitimo ir papildymo įstatymas Nr. XII-502",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "75",
+  "official_journal_page": null,
+  "official_journal_date": "2013-07-13",
+  "entry_into_force": "2013-07-13",
+  "notification_date": "2015-03-04",
+  "commission_reference": "MNE(2015)50557",
+  "nim_celex": "72002F0475LTU_223153",
+  "nim_id": "223153",
+  "transposes_celex": [
+    "32002F0475",
+    "32008F0841"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f35a7428-0a91-439b-8d50-a77a7c945d20",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
