@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos viešojo administravimo įstatymo 8 straipsnio pakeitimo įstatymas Nr. XII-511",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "75",
+  "official_journal_page": null,
+  "official_journal_date": "2013-07-13",
+  "entry_into_force": "2013-07-13",
+  "notification_date": "2014-11-27",
+  "commission_reference": "MNE(2014)56401",
+  "nim_celex": "72011L0098LTU_221184",
+  "nim_id": "221184",
+  "transposes_celex": [
+    "32011L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a4c60294-93c3-46af-9ffe-27bed32a6892",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
