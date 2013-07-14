@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro 2013 m. liepos 8 d. įsakymas Nr. 1V-596 \"Dėl Lietuvos Respublikos vidaus reikalų ministro 2005 m. įsakymo 2005 m. spalio 12 d. įsakymo Nr. 1V-329 „Dėl Dokumentų leidimui laikinai gyventi Lietuvos Respublikoje gauti pateikimo ir leidimų laikinai gyventi Lietuvos Respublikoje užsieniečiams išdavimo, keitimo, panaikinimo, taip pat įvertinimo, ar santuoka arba registruotos partnerystės sutartis buvo sudaryta arba vaikas buvo įvaikintas, kad užsienietis gautų leidimą laikinai gyventi Lietuvos Respublikoje, tvarkos aprašo patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "75",
+  "official_journal_page": null,
+  "official_journal_date": "2013-07-13",
+  "entry_into_force": "2013-07-14",
+  "notification_date": "2013-07-25",
+  "commission_reference": "MNE(2013)56734",
+  "nim_celex": "72009L0050LTU_207710",
+  "nim_id": "207710",
+  "transposes_celex": [
+    "32009L0050"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3bcb237a-8b30-4137-a2e6-749a03389eb9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
