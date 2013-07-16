@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ 2, 53, 101 straipsnių ir priedo pakeitimo ir papildymo įstatymas Nr. XII-436",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "76",
+  "official_journal_page": null,
+  "official_journal_date": "2013-07-16",
+  "entry_into_force": "2013-07-16",
+  "notification_date": "2015-04-10",
+  "commission_reference": "MNE(2015)52566",
+  "nim_celex": "72011L0095LTU_225548",
+  "nim_id": "225548",
+  "transposes_celex": [
+    "32011L0095"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cd33d6ef-f96f-11e4-a4c8-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
