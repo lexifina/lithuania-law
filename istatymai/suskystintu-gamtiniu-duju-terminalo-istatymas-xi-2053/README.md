@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2012-06-19 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/3d6defb9d50a2eb8618f0a73a058353925f386cc/istatymai/TAR.74733D7DB1CF.md) |
+| 2013-07-16 | 2015-12-31 | Įstatymas Nr. XII-426 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/697bf2b93744893d86ee4c77f3ea062350dbdfc2/istatymai/TAR.74733D7DB1CF.md) |
