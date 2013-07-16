@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos suskystintų gamtinių dujų terminalo įstatymo 5, 10 ir 11 straipsnių pakeitimo įstatymas Nr. XII-426",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "76",
+  "official_journal_page": null,
+  "official_journal_date": "2013-07-16",
+  "entry_into_force": "2013-07-16",
+  "notification_date": "2013-10-30",
+  "commission_reference": "MNE(2013)58645",
+  "nim_celex": "72009L0073LTU_210171",
+  "nim_id": "210171",
+  "transposes_celex": [
+    "32009L0073"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6e04935d-5f5d-4d70-99cd-2a2118b5e99d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
