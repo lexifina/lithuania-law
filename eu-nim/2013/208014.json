@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2013 m. liepos 15 d. įsakymas Nr. D1-528 'Dėl taršos integruotos prevencijos ir kontrolės leidimų išdavimo, pakeitimo ir galiojimo panaikinimo taisyklių patvirtinimo'",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "77",
+  "official_journal_page": "03901-03901",
+  "official_journal_date": "2013-07-18",
+  "entry_into_force": "2013-07-19",
+  "notification_date": "2013-07-24",
+  "commission_reference": "MNE(2013)56991",
+  "nim_celex": "72008L0098LTU_208014",
+  "nim_id": "208014",
+  "transposes_celex": [
+    "32008L0098",
+    "32010L0075"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/90b71461-51f7-4b21-bfe4-b4f07c95b669",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
