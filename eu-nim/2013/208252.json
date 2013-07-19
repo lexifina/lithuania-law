@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2013 m. liepos 15 d. įsakymas Nr. V-691 \"Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2007 m. liepos 10 d. įsakymo Nr. V-596 \"Dėl Vaistinių preparatų rinkodaros teisės suteikimo taisyklių, Supaprastintos homeopatinių vaistinių preparatų registravimo procedūros aprašo, Supaprastintos tradicinių augalinių vaistinių preparatų registravimo procedūros aprašo, Specialios homeopatinių vaistinių preparatų registravimo procedūros aprašo, Vaistinių preparatų rinkodaros teisės suteikimo taikant savitarpio pripažinimo ir decentralizuotą procedūras aprašo, Vaistinių preparatų analitinių, farmakotoksikologinių ir klinikinių tyrimų standartų ir protokolų, Vaistinių preparatų pakuotės ženklinimo ir pakuotės lapelio reikalavimų aprašo, Pagalbinių medžiagų, kurios turi būti nurodomos ant vaistinio preparato pakuotės ir pakuotės lapelyje, sąrašo, Vaistinio preparato rinkodaros teisės perleidimo kitam asmeniui tvarkos aprašo patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "77",
+  "official_journal_page": null,
+  "official_journal_date": "2013-07-18",
+  "entry_into_force": "2013-07-19",
+  "notification_date": null,
+  "commission_reference": "MNE(2013)57189",
+  "nim_celex": "72011L0062LTU_208252",
+  "nim_id": "208252",
+  "transposes_celex": [
+    "32011L0062"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fd8b7e30-5ae7-4acb-9954-8cd51865431b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
