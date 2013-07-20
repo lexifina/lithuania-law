@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2012-06-05 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/fd00868ecae4447f516eb62ba65c620bfda6fed6/istatymai/TAR.A516DE6B7EC2.md) |
+| 2013-07-20 | 2013-12-31 | Įstatymas Nr. XII-493 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/c5b26b534a1c7f0bd99fc42d81d7057903bcc522/istatymai/TAR.A516DE6B7EC2.md) |
