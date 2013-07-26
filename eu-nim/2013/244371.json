@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Muitinės departamento prie Lietuvos Respublikos finansų ministerijos generalinio direktoriaus 2013 m. liepos 17 d. įsakymas Nr. 1B-489 „Dėl F tipo muitinės sandėlio steigimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "80",
+  "official_journal_page": null,
+  "official_journal_date": "2013-07-25",
+  "entry_into_force": "2013-07-26",
+  "notification_date": "2017-01-18",
+  "commission_reference": "MNE(2017)50415",
+  "nim_celex": "72014L0042LTU_244371",
+  "nim_id": "244371",
+  "transposes_celex": [
+    "32014L0042"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4db02bda-c515-4f0e-bdac-21c0402fc1fc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
