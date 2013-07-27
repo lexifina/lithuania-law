@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės kainų ir energetikos kontrolės komisijos 2013 m. liepos 18 d. nutarimas Nr. O3-316 \"Dėl Gamtinių dujų įmonių apskaitos atskyrimo, sąnaudų paskirstymo ir su apskaitos atskyrimu susijusių reikalavimų aprašo patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "81",
+  "official_journal_page": null,
+  "official_journal_date": "2013-07-26",
+  "entry_into_force": "2013-07-27",
+  "notification_date": "2016-03-30",
+  "commission_reference": "MNE(2016)52117",
+  "nim_celex": "72009L0073LTU_236111",
+  "nim_id": "236111",
+  "transposes_celex": [
+    "32009L0073"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d0d443a2-29c1-4a32-b8a4-78f0c47193eb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
