@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės kainų ir energetikos kontrolės komisijos 2013 m. liepos 18 d. nutarimas Nr. O3- 307 „Dėl gamtinių dujų pažangiųjų matavimo sistemų ilgalaikės trukmės išlaidų ir naudos rinkai ekonominio vertinimo tvarkos aprašo tvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "81-4076",
+  "official_journal_page": null,
+  "official_journal_date": "2013-07-26",
+  "entry_into_force": "2013-07-27",
+  "notification_date": "2026-08-17",
+  "commission_reference": "MNE(2026)06399",
+  "nim_celex": "72024L1788LTU_202606399",
+  "nim_id": "202606399",
+  "transposes_celex": [
+    "32024L1788"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f21d98ef-b370-4445-b4db-92cb50778f8f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
