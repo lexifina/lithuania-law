@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Asmens dokumentų išrašymo centro prie Vidaus reikalų ministerijos direktoriaus 2013 m. liepos 25 d. įsakymas Nr. 1-54 \"Dėl Asmens dokumentų išrašymo centro prie Vidaus reikalų ministerijos direktoriaus 2009 m. birželio 12 d. įsakymo Nr. 1-26 \"Dėl Prašymų asmens dokumentams išduoti, pakeisti, įforminti registravimo, užsakymų asmens dokumentams išrašyti formavimo ir duomenų apie asmens dokumentų galiojimą tvarkos aprašo patvirtinimo ir kai kurių teisės aktų pripažinimo netekusiais galios\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "82",
+  "official_journal_page": null,
+  "official_journal_date": "2013-07-27",
+  "entry_into_force": "2013-07-28",
+  "notification_date": "2013-07-30",
+  "commission_reference": "MNE(2013)57133",
+  "nim_celex": "72011L0051LTU_208196",
+  "nim_id": "208196",
+  "transposes_celex": [
+    "32011L0051"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7a5281ed-ab78-49ea-931c-58e1183ed7e6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
