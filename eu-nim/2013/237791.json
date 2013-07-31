@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2013 m. liepos 26 d. įsakymas Nr. A1-440 „Dėl Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2006 m. balandžio 25 d. įsakymo Nr. A1-119 „Dėl Darbuotojų apsaugos nuo elektromagnetinių laukų keliamos rizikos nuostatų patvirtinimo“ ir jį keitusių įsakymų pripažinimo netekusiais galios“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "83",
+  "official_journal_page": null,
+  "official_journal_date": "2013-07-30",
+  "entry_into_force": "2013-07-31",
+  "notification_date": "2016-05-25",
+  "commission_reference": "MNE(2016)53442",
+  "nim_celex": "72013L0035LTU_237791",
+  "nim_id": "237791",
+  "transposes_celex": [
+    "32013L0035"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f2a9438e-3b81-4f73-9910-9ae481d90967",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
