@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2013 m. liepos 19 d. įsakymas Nr. D1-557 \"Dėl Lietuvos Respublikos aplinkos ministro 2009 m. rugsėjo 16 d. įsakymo Nr. D1-546 \"Dėl Ūkio subjektų aplinkos monitoringo nuostatų patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "83",
+  "official_journal_page": null,
+  "official_journal_date": "2013-07-30",
+  "entry_into_force": "2013-07-31",
+  "notification_date": "2013-10-15",
+  "commission_reference": "MNE(2013)58272",
+  "nim_celex": "72010L0075LTU_209696",
+  "nim_id": "209696",
+  "transposes_celex": [
+    "32010L0075"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/847061eb-a07c-4f79-b186-d6f8486d456a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
