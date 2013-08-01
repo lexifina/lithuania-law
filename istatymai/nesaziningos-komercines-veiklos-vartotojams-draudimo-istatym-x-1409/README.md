@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2008-02-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/6f8b9f2a300fdc7d0c707f3cd22ee56049c61c33/istatymai/TAR.55FFE350795A.md) |
+| 2013-08-01 | 2013-12-13 | Įstatymas Nr. XII-317 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/3f52547962ba54a9396f6b28ec9d9c2d8b26d0c0/istatymai/TAR.55FFE350795A.md) |
