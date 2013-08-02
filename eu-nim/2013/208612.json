@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos geologijos tarnybos prie aplinkos ministerijos 2013 m. liepos 25 d. įsakymas Nr. 1-111 „Dėl Lietuvos geologijos tarnybos prie aplinkos ministerijos 2008 m. birželio 17 d. įsakymo Nr. 1-104 „Dėl Ekogeologinių tyrimų reglamento patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "84",
+  "official_journal_page": null,
+  "official_journal_date": "2013-08-07",
+  "entry_into_force": "2013-08-02",
+  "notification_date": "2013-08-23",
+  "commission_reference": "MNE(2013)57485",
+  "nim_celex": "72010L0075LTU_208612",
+  "nim_id": "208612",
+  "transposes_celex": [
+    "32010L0075"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d8db1c60-404f-457c-816e-f668a279ed13",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
