@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro 2013 m. liepos 29 d. įsakymas Nr. 1V-675 \"Dėl Lietuvos Respublikos vidaus reikalų ministro 2005 m. birželio 14 d. įsakymo Nr. 1V-186 \"Dėl vairuotojo pažymėjimo blanko aprašymo ir privalomosios formos patvirtinimo\" pakeitimo",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "84",
+  "official_journal_page": null,
+  "official_journal_date": "2013-08-01",
+  "entry_into_force": "2013-08-02",
+  "notification_date": "2013-08-01",
+  "commission_reference": "MNE(2013)57190",
+  "nim_celex": "72012L0036LTU_208253",
+  "nim_id": "208253",
+  "transposes_celex": [
+    "32012L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/97ed939d-3572-4586-8a5c-4e08c0b40cb1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
