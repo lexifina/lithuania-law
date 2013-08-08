@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2013 m. liepos 24 d. nutarimas Nr. 716 „Dėl Bendrųjų elektroninės informacijos saugos reikalavimų aprašo, Saugos dokumentų turinio gairių aprašo ir Elektroninės informacijos, sudarančios valstybės informacinius išteklius, svarbos įvertinimo ir valstybės informacinių sistemų, registrų ir kitų informacinių sistemų klasifikavimo gairių aprašo patvirtinimo“ Suvestinė redakcija nuo 2018-01-10)",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "86-4310",
+  "official_journal_page": null,
+  "official_journal_date": "2013-08-07",
+  "entry_into_force": "2013-08-08",
+  "notification_date": "2021-12-02",
+  "commission_reference": "MNE(2021)07758",
+  "nim_celex": "72019L1153LTU_202107758",
+  "nim_id": "202107758",
+  "transposes_celex": [
+    "32019L1153"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/93c4aa05-a156-4ed8-88ac-a7d3bae2a95f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
