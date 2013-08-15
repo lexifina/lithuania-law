@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2013 m. rugpjūčio 8 d. įsakymas Nr. 3-432 „Dėl Lietuvos Respublikos susisiekimo ministro 2005 m. liepos 12 d. įsakymo Nr. 3-314 „Dėl Įgaliojimų Lietuvos Respublikos vardu vykdyti Lietuvos Respublikos jūrų laivų registre įregistruotų laivų techninę priežiūrą, apžiūras ir išduoti tai patvirtinančius dokumentus (liudijimus) suteikimo taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "88",
+  "official_journal_page": null,
+  "official_journal_date": "2013-08-14",
+  "entry_into_force": "2013-08-15",
+  "notification_date": "2015-03-25",
+  "commission_reference": "MNE(2015)52279",
+  "nim_celex": "72013L0054LTU_225253",
+  "nim_id": "225253",
+  "transposes_celex": [
+    "32013L0054"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e84cf012-f97a-11e4-a4c8-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
