@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos prekybinės laivybos įstatymo 2, 4, 84, 88 straipsnių ir priedo pakeitimo ir papildymo ir Įstatymo papildymo 89, 90 straipsniais įstatymas Nr. XII-438",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "75",
+  "official_journal_page": null,
+  "official_journal_date": "2013-07-13",
+  "entry_into_force": "2013-08-20",
+  "notification_date": "2013-12-05",
+  "commission_reference": "MNE(2013)57958",
+  "nim_celex": "72009L0013LTU_209258",
+  "nim_id": "209258",
+  "transposes_celex": [
+    "32009L0013"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/77901680-7780-499a-9475-9a12c1c44b88",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
