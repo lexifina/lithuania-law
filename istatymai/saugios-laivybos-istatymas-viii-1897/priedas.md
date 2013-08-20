@@ -18,3 +18,4 @@ priedas
 13. 2002 m. birželio 27 d. Europos Parlamento ir Tarybos direktyva Nr. 2002/59/EB, įdiegianti Bendrijos laivų eismo stebėsenos ir informacijos sistemą ir panaikinanti Tarybos direktyvą Nr. 93/75/EEB.
 14. 2002 m. lapkričio 5 d. Europos Parlamento ir Tarybos direktyva Nr. 2002/84/EB, iš dalies pakeičianti direktyvas dėl jūrų saugumo ir teršimo iš laivų prevencijos (tekstas svarbus EEE).
 15. 2003 m. balandžio 14 d. Europos Parlamento ir Tarybos direktyva Nr. 2003/25/EB dėl specialių ro-ro keleivinių laivų stabilumo reikalavimų.
+16. 2009 m. vasario 16 d. Tarybos direktyva 2009/13/EB, įgyvendinanti Europos bendrijos laivų savininkų asociacijų (ECSA) ir Europos transporto darbuotojų federacijos (ETF) sudarytą susitarimą dėl 2006 m. Konvencijos dėl darbo jūrų laivyboje ir iš dalies keičianti Direktyvą 1999/63/EB (OL 2009 L 124, p. 30).
