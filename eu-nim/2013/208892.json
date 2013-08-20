@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo 2, 3, 4, 10, 13, 22, 25, 33, 34 straipsnių pakeitimo ir įstatymo priedo papildymo įstatymas Nr. XII-390",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "73",
+  "official_journal_page": null,
+  "official_journal_date": "2013-07-09",
+  "entry_into_force": "2013-08-20",
+  "notification_date": "2013-09-05",
+  "commission_reference": "MNE(2013)57693",
+  "nim_celex": "72009L0013LTU_208892",
+  "nim_id": "208892",
+  "transposes_celex": [
+    "32009L0013"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9acd8295-4e8a-4bee-8294-3c53a3e4c108",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
