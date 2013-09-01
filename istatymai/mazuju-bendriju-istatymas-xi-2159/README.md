@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2012-09-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/f9e20333d1dd4a8b810752ada07afe790f704d92/istatymai/TAR.A1FD809510BB.md) |
+| 2013-09-01 | 2014-06-30 | Įstatymas Nr. XII-313 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/2ad776fb955b4992f7da2c9635a98636ccb60bfb/istatymai/TAR.A1FD809510BB.md) |
