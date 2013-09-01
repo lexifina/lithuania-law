@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos advokatūros įstatymo 2, 4, 7, 8, 10, 13, 14, 15, 16, 17, 19, 23, 25, 30, 32, 33, 35, 36, 39, 42, 53, 58, 60, 61, 64, 68, 69, 70 straipsnių ir Įstatymo priedo pakeitimo ir papildymo įstatymas Nr. XII-496",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "79",
+  "official_journal_page": null,
+  "official_journal_date": "2013-07-23",
+  "entry_into_force": "2013-09-01",
+  "notification_date": "2013-07-24",
+  "commission_reference": "MNE(2013)56977",
+  "nim_celex": "71998L0005LTU_208000",
+  "nim_id": "208000",
+  "transposes_celex": [
+    "31998L0005"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b2f3a98e-932d-466a-8a60-2218362a80bd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
