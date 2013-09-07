@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos respublikos vidaus reikalų ministro 2013 m. rugsėjo 6 d. įsakymas Nr. 1V-750 \"Dėl 2011 m. balandžio 5 d. Europos Parlamento ir Tarybos direktyvos 2011/36/ES dėl prekybos žmonėmis prevencijos, kovos su ja ir aukų apsaugos, pakeičiančios Tarybos pamatinį sprendimą 2002/629/TVR, 19 ir 20 straipsnių įgyvendinimo\"",
+  "type_of_act": "Administracinės priemonės",
+  "official_journal": "Administracinės priemonės",
+  "official_journal_reference": "1V-750",
+  "official_journal_page": null,
+  "official_journal_date": "2013-09-06",
+  "entry_into_force": "2013-09-07",
+  "notification_date": null,
+  "commission_reference": "MNE(2013)58558",
+  "nim_celex": "72011L0036LTU_210062",
+  "nim_id": "210062",
+  "transposes_celex": [
+    "32011L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a68fc86a-358b-48af-97c6-27c770283d12",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
