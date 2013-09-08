@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2013 m. rugsėjo 3 d. įsakymas Nr. D1-649 \"Dėl Lietuvos Respublikos aplinkos ministro 2001 m. balandžio 20 d. įsakymo Nr. 219 \"Dėl Buveinių apsaugai svarbių teritorijų atrankos tvarkos aprašo patvirtinimo\" pakeitimo ir kai kurių aplinkos ministro įsakymų pripažinimo netekusiais galios\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "95",
+  "official_journal_page": null,
+  "official_journal_date": "2013-09-07",
+  "entry_into_force": "2013-09-08",
+  "notification_date": "2013-09-27",
+  "commission_reference": "MNE(2013)57807",
+  "nim_celex": "72013L0017LTU_209041",
+  "nim_id": "209041",
+  "transposes_celex": [
+    "32013L0017"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/91475b73-331c-4049-bc77-ac541a3e45bf",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
