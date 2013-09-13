@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Teisėjų tarybos 2013 m. rugpjūčio 30 d. nutarimas Nr. 13P-105-(7.1.2) \"Dėl Teisėjų mokymo organizavimo taisyklių patvirtinimo\" (Suvestinė redakcija nuo 2015-09-29)",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "96-4811",
+  "official_journal_page": null,
+  "official_journal_date": "2013-09-12",
+  "entry_into_force": "2013-09-13",
+  "notification_date": "2019-06-10",
+  "commission_reference": "MNE(2019)53482",
+  "nim_celex": "72016L0800LTU_273729",
+  "nim_id": "273729",
+  "transposes_celex": [
+    "32016L0800"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9533e6a6-f8f6-4e29-85e6-902618c0d390",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
