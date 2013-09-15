@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2013 m. rugsėjo 11 d. nutarimas Nr. 818 \"Dėl Lietuvos Respublikos Vyriausybės 2003 m. liepos 18 d. nutarimo Nr. 947 \"Dėl Europos Sąjungos valstybių narių teisininkų profesinių vardų sąrašo patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "97",
+  "official_journal_page": null,
+  "official_journal_date": "2013-09-14",
+  "entry_into_force": "2013-09-15",
+  "notification_date": "2013-09-16",
+  "commission_reference": "MNE(2013)57833",
+  "nim_celex": "72013L0025LTU_209070",
+  "nim_id": "209070",
+  "transposes_celex": [
+    "32013L0025"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bdae8647-864f-4de8-8823-e708f52a3398",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
