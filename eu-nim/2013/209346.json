@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2013 m. rugsėjo 13 d. įsakymas Nr. V-883 \"Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2009 m. birželio 23 d. įsakymo Nr. V-510 \"Dėl Lietuvos higienos normos HN 36:2009 \"Draudžiamos ir ribojamos medžiagos\" patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "99",
+  "official_journal_page": null,
+  "official_journal_date": "2013-09-20",
+  "entry_into_force": "2013-09-21",
+  "notification_date": "2013-10-01",
+  "commission_reference": "MNE(2013)58032",
+  "nim_celex": "72013L0028LTU_209346",
+  "nim_id": "209346",
+  "transposes_celex": [
+    "32013L0028"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9a8cd237-f32c-4f71-a795-1c2e3c5e5795",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
