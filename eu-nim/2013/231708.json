@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2013 m. rugsėjo 11 d. įsakymas Nr. A1-509 „Dėl 2009–2014 m. Europos ekonominės erdvės finansinio mechanizmo programos „Rizikos grupės vaikai ir jaunimas“ dvišalio bendradarbiavimo fondo administravimo taisyklių patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "99",
+  "official_journal_page": null,
+  "official_journal_date": "2013-09-20",
+  "entry_into_force": "2013-09-21",
+  "notification_date": "2015-11-13",
+  "commission_reference": "MNE(2015)58315",
+  "nim_celex": "72012L0029LTU_231708",
+  "nim_id": "231708",
+  "transposes_celex": [
+    "32012L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4f9d66ae-eefb-41e1-8e1c-49a17a2967dc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
