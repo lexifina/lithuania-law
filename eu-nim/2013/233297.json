@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2013 m. rugsėjo 16 d.  nutarimas Nr. 03-151 „Dėl Viešųjų ir privačių interesų derinimo Lietuvos banke aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "99",
+  "official_journal_page": null,
+  "official_journal_date": "2013-09-20",
+  "entry_into_force": "2013-09-21",
+  "notification_date": "2016-01-08",
+  "commission_reference": "MNE(2015)59828",
+  "nim_celex": "72014L0059LTU_233297",
+  "nim_id": "233297",
+  "transposes_celex": [
+    "32014L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/124a322e-d146-4f89-97c4-0329668856f8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
