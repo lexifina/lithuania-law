@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo 2, 8, 9, 12, 14, 17, 21, 23, 24, 30, 32, 33, 35, 37, 41, 46 straipsnių ir priedo pakeitimo ir papildymo įstatymas Nr. XII-447",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "78",
+  "official_journal_page": null,
+  "official_journal_date": "2013-07-20",
+  "entry_into_force": "2013-09-30",
+  "notification_date": "2013-07-23",
+  "commission_reference": "MNE(2013)56895",
+  "nim_celex": "72008L0051LTU_207918",
+  "nim_id": "207918",
+  "transposes_celex": [
+    "32008L0051"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/41350c6f-9f00-4f95-b3f7-6c0046fe3445",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
