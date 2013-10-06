@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2013 m. spalio 2 d. įsakymas Nr. D1-725 \"Dėl Lietuvos Respublikos aplinkos ministro 2011 m. vasario 18 d. įsakymo Nr. D1-145 \"Dėl Ūkio subjektų veiklos planinių ir neplaninių patikrinimų, vykdant aplinkos apsaugos valstybinę kontrolę, reikalavimų aprašo patvirtinimo ir Lietuvos Respublikos aplinkos ministro 2003 m. birželio 30 d. įsakymo Nr. 327 \"Dėl Kontroliuojamų objektų tikrinimo dažnumo nustatymo regionų aplinkos apsaugos departamentuose tvarkos\" pripažinimo netekusiu galios\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "105",
+  "official_journal_page": null,
+  "official_journal_date": "2013-10-05",
+  "entry_into_force": "2013-10-06",
+  "notification_date": "2013-10-15",
+  "commission_reference": "MNE(2013)58261",
+  "nim_celex": "72010L0075LTU_209685",
+  "nim_id": "209685",
+  "transposes_celex": [
+    "32010L0075"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/433e05be-4c07-4cac-a4bd-eab791fbe9a5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
