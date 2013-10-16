@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos teisingumo ministro 2013 m. spalio 11 d. įsakymas Nr. 1R-231 „Dėl Juridinių asmenų dalyvių informacinės sistemos nuostatų patvirtinimo“ (Suvestinė redakcija nuo 2023-08-31 iki 2024-09-09)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "108-5347",
+  "official_journal_page": null,
+  "official_journal_date": "2013-10-15",
+  "entry_into_force": "2013-10-16",
+  "notification_date": "2025-06-30",
+  "commission_reference": "MNE(2025)03659",
+  "nim_celex": "72024L1640LTU_202503659",
+  "nim_id": "202503659",
+  "transposes_celex": [
+    "32024L1640"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/de32e1c1-e1ad-4db9-add4-3a6c6479c070",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
