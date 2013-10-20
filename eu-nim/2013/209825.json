@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro 2013 m. spalio 14 d. įsakymas Nr. 1V-862 \"Dėl Lietuvos Respublikos vidaus reikalų ministro 2005 m. gruodžio 21 d. įsakymo Nr. 1V-445 \"Dėl Dokumentų Lietuvos Respublikos ilgalaikio gyventojo leidimui gyventi Europos Bendrijoje gauti pateikimo ir Lietuvos Respublikos ilgalaikio gyventojo leidimų gyventi Europos Bendrijoje užsieniečiams išdavimo, keitimo ir panaikinimo, pragyvento Lietuvos Respublikoje laikotarpio apskaičiavimo, taip pat fiktyvios santuokos sudarymo, fiktyvios registruotos partnerystės bei fiktyvaus įvaikinimo įvertinimo tvarkos aprašo patvirtinimo\"e; pakeitimo\"e;",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "110",
+  "official_journal_page": null,
+  "official_journal_date": "2013-10-19",
+  "entry_into_force": "2013-10-20",
+  "notification_date": "2013-10-22",
+  "commission_reference": "MNE(2013)58363",
+  "nim_celex": "72011L0051LTU_209825",
+  "nim_id": "209825",
+  "transposes_celex": [
+    "32011L0051"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5f3a22f0-a6cf-42bc-b6e4-92fd3124c5b1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
