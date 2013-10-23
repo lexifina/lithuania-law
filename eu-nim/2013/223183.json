@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro,\nLietuvos Respublikos socialinės apsaugos ir darbo ministro, Lietuvos Respublikos sveikatos apsaugos ministro 2013 m. spalio 7 d. įsakymas Nr. 3-518/A1-563/V-923 'Dėl Laivų ir jų įgulų atitikties tarptautiniams reikalavimams dėl darbo jūrų laivyboje vertinimo tvarkos aprašo patvirtinimo'",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "107",
+  "official_journal_page": null,
+  "official_journal_date": "2013-10-12",
+  "entry_into_force": "2013-10-23",
+  "notification_date": "2015-02-10",
+  "commission_reference": "MNE(2015)50587",
+  "nim_celex": "72009L0013LTU_223183",
+  "nim_id": "223183",
+  "transposes_celex": [
+    "32009L0013",
+    "32013L0054"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0886e868-f97b-11e4-a4c8-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
