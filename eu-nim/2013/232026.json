@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ 26, 33, 40, 41, 53, 104, 109, 113, 125 straipsnių pakeitimo ir papildymo įstatymas Nr. X-548",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "111",
+  "official_journal_page": null,
+  "official_journal_date": "2013-10-24",
+  "entry_into_force": "2013-10-24",
+  "notification_date": "2015-11-25",
+  "commission_reference": "MNE(2015)58619",
+  "nim_celex": "72013L0032LTU_232026",
+  "nim_id": "232026",
+  "transposes_celex": [
+    "32013L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/32493d25-7a6c-4d45-a856-5292fd2a4dca",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
