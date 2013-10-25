@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos draudimo įstatymo 1, 2, 6, 21 straipsnių pakeitimo ir papildymo ir Įstatymo papildymo 12(1) straipsniu ir priedu įstatymas Nr. XII-526",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "107",
+  "official_journal_page": null,
+  "official_journal_date": "2013-10-12",
+  "entry_into_force": "2013-10-25",
+  "notification_date": "2013-10-30",
+  "commission_reference": "MNE(2013)58278",
+  "nim_celex": "72011L0024LTU_209705",
+  "nim_id": "209705",
+  "transposes_celex": [
+    "32011L0024"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/348b19bc-f68d-447a-b763-90463047602a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
