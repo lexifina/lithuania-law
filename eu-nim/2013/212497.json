@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos teisingumo ministro 2013 m. spalio 17 d. įsakymas Nr. 1R-241 \"Dėl teisingumo ministro 2011 m. lapkričio 30 d. įsakymo Nr. 1R-276 \"Dėl pirkėjui pateikiamos informacijos apie pakaitinio naudojimosi patalpomis, ilgalaikio atostogų produkto, perpardavimo ir keitimosi sutarčių sąlygas ir sutarties atsisakymo formų patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "111",
+  "official_journal_page": null,
+  "official_journal_date": "2013-10-24",
+  "entry_into_force": "2013-10-25",
+  "notification_date": "2014-01-14",
+  "commission_reference": "MNE(2014)50277",
+  "nim_celex": "72008L0122LTU_212497",
+  "nim_id": "212497",
+  "transposes_celex": [
+    "32008L0122"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/af594db4-9cfc-44e3-b739-747a470b2bf5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
