@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2013 m. spalio 15 d. įsakymas Nr. V-957 „Dėl Tarpvalstybinės sveikatos priežiūros išlaidų kompensavimo tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "110",
+  "official_journal_page": null,
+  "official_journal_date": "2013-10-19",
+  "entry_into_force": "2013-10-25",
+  "notification_date": "2013-10-30",
+  "commission_reference": "MNE(2013)58631",
+  "nim_celex": "72011L0024LTU_210157",
+  "nim_id": "210157",
+  "transposes_celex": [
+    "32011L0024"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c8d84094-5df8-4704-92c4-8ace6972a186",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
