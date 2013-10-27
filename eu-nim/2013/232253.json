@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2013 m. spalio 22 d. įsakymas Nr. 1-212 \"Dėl Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "112",
+  "official_journal_page": null,
+  "official_journal_date": "2013-10-26",
+  "entry_into_force": "2013-10-27",
+  "notification_date": "2015-12-17",
+  "commission_reference": "MNE(2015)58832",
+  "nim_celex": "72009L0072LTU_232253",
+  "nim_id": "232253",
+  "transposes_celex": [
+    "32009L0072"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/af7323a9-2b53-40d5-a2e7-35f3a99e0b2b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
