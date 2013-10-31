@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2013 m. spalio 23 d. nutarinas Nr. 974 \"Dėl Lietuvos Respublikos Vyriausybės 2005 m. birželio 14 d. nutarimo Nr. 647 \"Dėl Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklių patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "113",
+  "official_journal_page": null,
+  "official_journal_date": "2013-10-30",
+  "entry_into_force": "2013-10-31",
+  "notification_date": "2013-12-23",
+  "commission_reference": "MNE(2013)60123",
+  "nim_celex": "72011L0085LTU_211993",
+  "nim_id": "211993",
+  "transposes_celex": [
+    "32011L0085"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/007fca12-4727-49d0-8b11-60e0425d3027",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
