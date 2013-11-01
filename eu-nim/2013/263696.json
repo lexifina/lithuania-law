@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos policijos generalinio komisaro 2013 m. spalio 3 d. įsakymas Nr. 5-V-775 „Dėl Ginklų perdirbimo, eksponavimo ir parodų organizavimo taisyklių patvirtinimo“ pakeitimo“ (Suvestinė redakcija nuo 2017-01-01)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "106-5258",
+  "official_journal_page": null,
+  "official_journal_date": "2013-10-10",
+  "entry_into_force": "2013-11-01",
+  "notification_date": "2018-10-08",
+  "commission_reference": "MNE(2018)55410",
+  "nim_celex": "72017L0853LTU_263696",
+  "nim_id": "263696",
+  "transposes_celex": [
+    "32017L0853"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/920a352c-2f7e-4a37-858b-77e2ca725b9e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
