@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2013 m. spalio 30 d. nutarimas Nr. 990 „Dėl Lietuvos Respublikos Vyriausybės 2003 m. sausio 28 d. nutarimo Nr. 115 \"Dėl Darbo sutarties pavyzdinės formos patvirtinimo\" pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "115",
+  "official_journal_page": null,
+  "official_journal_date": "2013-11-07",
+  "entry_into_force": "2013-11-08",
+  "notification_date": "2015-02-12",
+  "commission_reference": "MNE(2015)50723",
+  "nim_celex": "72009L0013LTU_223405",
+  "nim_id": "223405",
+  "transposes_celex": [
+    "32009L0013"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ca18afb8-f976-11e4-a4c8-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
