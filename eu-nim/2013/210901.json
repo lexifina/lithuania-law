@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Teisėjų tarybos 2013 m. lapkričio 22 d. nutarimas Nr. 13P-156-(7.1.2)",
+  "type_of_act": "Administracinės priemonės",
+  "official_journal": "Administracinės priemonės",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2013-11-22",
+  "entry_into_force": "2013-11-22",
+  "notification_date": null,
+  "commission_reference": "MNE(2013)59198",
+  "nim_celex": "72010L0064LTU_210901",
+  "nim_id": "210901",
+  "transposes_celex": [
+    "32010L0064"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9a0d5eb1-97bc-4437-bfc8-b66063bc5aa3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
