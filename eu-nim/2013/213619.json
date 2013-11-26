@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos rinkimų į Europos Parlamentą įstatymo pakeitimo įstatymas Nr. XII-588",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "121",
+  "official_journal_page": null,
+  "official_journal_date": "2013-11-26",
+  "entry_into_force": "2013-11-26",
+  "notification_date": "2014-02-18",
+  "commission_reference": "MNE(2014)51213",
+  "nim_celex": "72013L0001LTU_213619",
+  "nim_id": "213619",
+  "transposes_celex": [
+    "32013L0001"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/44d343cd-a36e-4e17-b86e-10dbca3e5d7f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
