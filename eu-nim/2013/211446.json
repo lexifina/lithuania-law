@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro 2013 m. lapkričio 18 d. įsakymas Nr. 1V-954 \"Dėl Lietuvos Respublikos vidaus reikalų ministro 2008 m. liepos 25 d. įsakymo Nr. 1V-290 \"Dėl Pažymos Europos Sąjungos valstybės narės piliečio teisei laikinai gyventi Lietuvos Respublikoje patvirtinti išdavimo, keitimo ir panaikinimo tvarkos aprašo ir Sąjungos piliečio šeimos nario leidimo laikinai gyventi šalyje kortelės išdavimo, keitimo ir panaikinimo Europos Sąjungos valstybės narės piliečio šeimos nariams tvarkos aprašo patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "121",
+  "official_journal_page": null,
+  "official_journal_date": "2013-11-26",
+  "entry_into_force": "2013-11-27",
+  "notification_date": "2014-01-20",
+  "commission_reference": "MNE(2013)59638",
+  "nim_celex": "72004L0038LTU_211446",
+  "nim_id": "211446",
+  "transposes_celex": [
+    "32004L0038"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f55c0f8a-1b4d-4def-9b3b-4bf642b3d7cd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
