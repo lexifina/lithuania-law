@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2010-01-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/00e4008a1a90e1872eaed331f2bcdc640d82ec6b/istatymai/TAR.6A56D29DBEE8.md) |
+| 2013-12-02 | 2017-12-31 | Įstatymas Nr. XII-558 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/354f9b16346e7fdd3f34d2772ecf83fc24a95191/istatymai/TAR.6A56D29DBEE8.md) |
