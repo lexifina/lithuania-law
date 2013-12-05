@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos generalinio prokuroro 2013 m. gruodžio 5 d. įsakymas Nr. J-302 \"Dėl prokurorų, prokuratūros valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, kvalifikacijos kėlimo programų 2014 metams\" patvirtinimo\"",
+  "type_of_act": "Administracinės priemonės",
+  "official_journal": "Administracinės priemonės",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2013-12-05",
+  "entry_into_force": "2013-12-05",
+  "notification_date": null,
+  "commission_reference": "MNE(2013)59506",
+  "nim_celex": "72010L0064LTU_211272",
+  "nim_id": "211272",
+  "transposes_celex": [
+    "32010L0064"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b72d7e09-ef76-4dfa-bc0a-3c8990d2dfc5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
