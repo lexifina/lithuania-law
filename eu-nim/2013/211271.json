@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo proceso kodekso priedo papildymo įstatymas Nr. XII-617",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "124",
+  "official_journal_page": null,
+  "official_journal_date": "2013-12-05",
+  "entry_into_force": "2013-12-05",
+  "notification_date": "2013-12-05",
+  "commission_reference": "MNE(2013)59505",
+  "nim_celex": "72010L0064LTU_211271",
+  "nim_id": "211271",
+  "transposes_celex": [
+    "32010L0064"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ac5a5ef6-6931-4db0-83d8-004f922ffae0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
