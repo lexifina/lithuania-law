@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2013 m. gruodžio 4 d. įsakymas Nr. 1-231 \"Dėl Lietuvos Respublikos energetikos ministro 2010 m. vasario 11 d. įsakymo Nr. 1-38 \"Dėl Elektros energijos tiekimo ir naudojimo taisyklių patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "125",
+  "official_journal_page": null,
+  "official_journal_date": "2013-12-07",
+  "entry_into_force": "2013-12-08",
+  "notification_date": "2013-12-19",
+  "commission_reference": "MNE(2013)59885",
+  "nim_celex": "72009L0072LTU_211722",
+  "nim_id": "211722",
+  "transposes_celex": [
+    "32009L0072"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/97985e17-5ca9-4d01-874d-c6d180eb903b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
