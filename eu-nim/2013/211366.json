@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro 2013 m. gruodžio 3 d. įsakymas Nr. 1V-1000 \"Dėl Lietuvos Respublikos vidaus reikalų ministro 2005 m. birželio 28 d. įsakymo Nr. 1V-204 \"Dėl Motorinių transporto priemonių ir jų priekabų registracijos liudijimo blanko aprašymo ir privalomosios formos patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "125",
+  "official_journal_page": null,
+  "official_journal_date": "2013-12-07",
+  "entry_into_force": "2013-12-08",
+  "notification_date": "2013-12-10",
+  "commission_reference": "MNE(2013)59583",
+  "nim_celex": "72013L0022LTU_211366",
+  "nim_id": "211366",
+  "transposes_celex": [
+    "32013L0022"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/93d78045-e39c-46b1-b8a4-b14604fb9a51",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
