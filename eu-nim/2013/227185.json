@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos direktoriaus 2013 m. lapkričio 4 d. įsakymas Nr. 1-269 “Dėl Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos direktoriaus 2011 m. spalio 17 d. įsakymo Nr. 1-285 „Dėl Lietuvos Respublikos pavojingųjų objektų tikrinimo programos patvirtinimo ir kai kurių Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos direktoriaus įsakymų pripažinimo netekusiais galios“ pakeitimo”",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "115",
+  "official_journal_page": null,
+  "official_journal_date": "2013-11-07",
+  "entry_into_force": "2013-12-10",
+  "notification_date": "2015-06-25",
+  "commission_reference": "MNE(2015)54167",
+  "nim_celex": "72012L0018LTU_227185",
+  "nim_id": "227185",
+  "transposes_celex": [
+    "32012L0018"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b5bbfcc5-892d-4789-96c2-00f73a37564a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
