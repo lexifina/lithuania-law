@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos krašto apsaugos ministro 2013 m. lapkričio 28 d. įsakymas  Nr. V-1079 „Dėl Lietuvos Respublikos krašto apsaugos ministro 2009 m. gruodžio 29 d. įsakymo  Nr. V-1216 „Dėl Bendrojo karinės įrangos sąrašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "126",
+  "official_journal_page": null,
+  "official_journal_date": "2013-12-10",
+  "entry_into_force": "2013-12-11",
+  "notification_date": "2014-03-28",
+  "commission_reference": "MNE(2014)52129",
+  "nim_celex": "72014L0018LTU_214800",
+  "nim_id": "214800",
+  "transposes_celex": [
+    "32014L0018"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/db563cc8-cf4c-416d-9337-ce39ca684127",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
