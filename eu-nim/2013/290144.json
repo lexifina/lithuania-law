@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2013 m. spalio 22 d. įsakymas Nr. D1-782 „Dėl Valstybinės atliekų prevencijos programos patvirtinimo“ (Suvestinė redakcija nuo 2018-07-06)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "113-5663",
+  "official_journal_page": null,
+  "official_journal_date": "2013-10-30",
+  "entry_into_force": "2013-12-12",
+  "notification_date": "2020-11-30",
+  "commission_reference": "MNE(2020)58217",
+  "nim_celex": "72018L0851LTU_290144",
+  "nim_id": "290144",
+  "transposes_celex": [
+    "32018L0851"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c1dc2958-9c70-40b2-8ae0-f969cdfb0c3a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
