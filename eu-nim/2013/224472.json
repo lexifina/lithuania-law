@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybės sienos apsaugos tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos vado 2013 m. gruodžio 12 d. įsakymas Nr. 4–594 „Dėl Valstybės sienos apsaugos tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos ir jos struktūrinių padalinių keitimosi informacija su kitų Europos Sąjungos valstybių narių teisėsaugos institucijomis“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Administracinės priemonės",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2013-12-12",
+  "entry_into_force": "2013-12-13",
+  "notification_date": "2015-03-10",
+  "commission_reference": "MNE(2015)51610",
+  "nim_celex": "72006F0960LTU_224472",
+  "nim_id": "224472",
+  "transposes_celex": [
+    "32006F0960"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7b0d21d1-6324-11e7-b2f2-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
