@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymo 1, 2, 5, 6, 7, 13, 15, 16, 18, 20, 22, 23 straipsnių pakeitimo ir papildymo įstatymas Nr. XII-628",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "128",
+  "official_journal_page": null,
+  "official_journal_date": "2013-12-14",
+  "entry_into_force": "2013-12-14",
+  "notification_date": "2014-08-28",
+  "commission_reference": "MNE(2014)53239",
+  "nim_celex": "72005L0029LTU_216874",
+  "nim_id": "216874",
+  "transposes_celex": [
+    "32005L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/88ad5a63-d597-4155-830b-58cc6f320996",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
