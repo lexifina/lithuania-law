@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2013 m. gruodžio 9 d. įsakymas Nr. D1-909 \"Dėl statybos techninio reglamento STR 2.05.01:2013 \"Pastatų energinio naudingumo projektavimas\" patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "129",
+  "official_journal_page": null,
+  "official_journal_date": "2013-12-17",
+  "entry_into_force": "2013-12-18",
+  "notification_date": "2015-03-27",
+  "commission_reference": "MNE(2014)56616",
+  "nim_celex": "72010L0031LTU_221460",
+  "nim_id": "221460",
+  "transposes_celex": [
+    "32010L0031"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ea8486f8-f96e-11e4-a4c8-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
