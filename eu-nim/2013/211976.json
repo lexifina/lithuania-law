@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo 1, 2, 15, 19, 20, 21, 23, 28, 29, 30, 31, 32, 33, 35, 36 straipsnių pakeitimo ir papildymo ir 18 straipsnio pripažinimo netekusiu galios įstatymas Nr. XII-637",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "130",
+  "official_journal_page": null,
+  "official_journal_date": "2013-12-19",
+  "entry_into_force": "2013-12-19",
+  "notification_date": "2013-12-23",
+  "commission_reference": "MNE(2013)60107",
+  "nim_celex": "72011L0085LTU_211976",
+  "nim_id": "211976",
+  "transposes_celex": [
+    "32011L0085"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/015b3cf2-d275-47b4-8cbb-4ba189d1891d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
