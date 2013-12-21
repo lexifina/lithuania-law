@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2013 m. gruodžio 13 d. įsakymas Nr. 3-635 \"Dėl Lietuvos Respublikos susisiekimo ministro 2003 m. vasario 20 d. įsakymo Nr. 3-79 \"Dėl Geležinkelių transporto eismo įvykių, katastrofų ir riktų tyrimo ir jų padarinių likvidavimo nuostatų patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "131",
+  "official_journal_page": null,
+  "official_journal_date": "2013-12-20",
+  "entry_into_force": "2013-12-21",
+  "notification_date": "2014-01-22",
+  "commission_reference": "MNE(2013)60243",
+  "nim_celex": "72004L0049LTU_212136",
+  "nim_id": "212136",
+  "transposes_celex": [
+    "32004L0049"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0ec33f01-ef86-44ce-abb9-01c5359211fd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
