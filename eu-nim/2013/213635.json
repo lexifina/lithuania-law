@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vyriausiosios rinkimų komisijos 2013 m. gruodžio 20 d. sprendimas Nr. Sp-160 „Dėl kandidatų į Europos Parlamento narius pareiškinių dokumentų formų“",
+  "type_of_act": "Administracinės priemonės",
+  "official_journal": "Administracinės priemonės",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2013-12-20",
+  "entry_into_force": "2013-12-21",
+  "notification_date": null,
+  "commission_reference": "MNE(2014)51221",
+  "nim_celex": "72013L0001LTU_213635",
+  "nim_id": "213635",
+  "transposes_celex": [
+    "32013L0001"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/344e3499-7caa-4ef0-b90e-5b1fb99a47ec",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
