@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2013 m. gruodžio 18 d. nutarimas Nr. 1224 „Dėl Lietuvos Respublikos Vyriausybės 2006 m. lapkričio 24 d. nutarimo Nr. 1168 „Dėl apmokestinamųjų gaminių ir pakuočių atliekų naudojimo ir (ar) perdirbimo užduočių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2013-00205",
+  "official_journal_page": null,
+  "official_journal_date": "2013-12-27",
+  "entry_into_force": "2013-12-28",
+  "notification_date": "2014-01-21",
+  "commission_reference": "MNE(2014)50271",
+  "nim_celex": "71994L0062LTU_212491",
+  "nim_id": "212491",
+  "transposes_celex": [
+    "31994L0062"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ee5cd246-302f-4d0e-804d-80940e3a164b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
