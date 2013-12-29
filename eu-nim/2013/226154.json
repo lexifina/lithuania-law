@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro 2013 m. gruodžio 23 d. įsakymas Nr. 1V-1039 „Dėl keitimosi informacija tarpvalstybiniu lygmeniu apie kelių eismo saugumo taisyklių pažeidimus tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "137",
+  "official_journal_page": null,
+  "official_journal_date": "2013-12-28",
+  "entry_into_force": "2013-12-29",
+  "notification_date": "2015-05-08",
+  "commission_reference": "MNE(2015)53156",
+  "nim_celex": "72015L0413LTU_226154",
+  "nim_id": "226154",
+  "transposes_celex": [
+    "32015L0413"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8aae55f4-7aba-4d2c-9641-c80b05f98301",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
