@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2013 m. gruodžio 18 d. nutarimas Nr. 1256 \"Dėl Valstybei nuosavybės teise priklausančių šildomų ir (arba) vėsinamų valstybės institucijų ir įstaigų - valstybinio administravimo subjektų naudojamų pastatų sąrašo sudarymo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "136",
+  "official_journal_page": null,
+  "official_journal_date": "2013-12-28",
+  "entry_into_force": "2013-12-29",
+  "notification_date": "2014-02-05",
+  "commission_reference": "MNE(2014)50874",
+  "nim_celex": "72012L0027LTU_213199",
+  "nim_id": "213199",
+  "transposes_celex": [
+    "32012L0027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/261256ed-41a1-43c1-8fe5-257b8b6cf1bb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
