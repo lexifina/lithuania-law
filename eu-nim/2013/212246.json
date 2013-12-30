@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos pelno mokesčio įstatymo 12, 30, 43 straipsnių ir 3 priedėlio pakeitimo ir papildymo įstatymas Nr. XII-661",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "140",
+  "official_journal_page": null,
+  "official_journal_date": "2013-12-30",
+  "entry_into_force": "2013-12-30",
+  "notification_date": "2014-01-06",
+  "commission_reference": "MNE(2014)50046",
+  "nim_celex": "72013L0013LTU_212246",
+  "nim_id": "212246",
+  "transposes_celex": [
+    "32013L0013"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ca2687f1-9344-45d2-96ee-b7cd1508536e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
