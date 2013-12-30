@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2001-10-26 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/a658db6c56a6e822354d0a5bb3ead07cd28976cb/istatymai/TAR.CA0F08EF687E.md) |
+| 2013-12-30 | 2014-11-26 | sausio 1 dieną: Nr. X-1829 / Įstatymas Nr. XI-2304 / Įstatymas Nr. XII-124 / Įstatymas Nr. XII-402 / Įstatymas Nr. XII-667 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/fffa156e58ac5e85b6beb84b6cdf736d7012104e/istatymai/TAR.CA0F08EF687E.md) |
