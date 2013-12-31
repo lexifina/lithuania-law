@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2013 m. gruodžio 3 d. įsakymas Nr. 3D-814",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "125",
+  "official_journal_page": null,
+  "official_journal_date": "2013-12-07",
+  "entry_into_force": "2013-12-31",
+  "notification_date": "2013-12-17",
+  "commission_reference": "MNE(2013)59706",
+  "nim_celex": "72012L0037LTU_211535",
+  "nim_id": "211535",
+  "transposes_celex": [
+    "32012L0037",
+    "32016L2109"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b685f738-5e73-4782-ae39-7c5fcee82636",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
