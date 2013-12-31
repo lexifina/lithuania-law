@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos draudimo įstatymo 93, 114, 127 straipsnių pakeitimo ir 228 straipsnio pripažinimo netekusiu galios įstatymas Nr.XII-246",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "46",
+  "official_journal_page": null,
+  "official_journal_date": "2013-05-07",
+  "entry_into_force": "2013-12-31",
+  "notification_date": "2013-07-23",
+  "commission_reference": "MNE(2013)56937",
+  "nim_celex": "72004L0113LTU_207960",
+  "nim_id": "207960",
+  "transposes_celex": [
+    "32004L0113"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/82635cdf-2d53-4f19-868a-7836bd316a62",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
