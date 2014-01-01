@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2013 m. spalio 15 d. įsakymas Nr. V-960 „Dėl Lietuvos Respublikos sveikatos apsaugos ministro 1999 m. lapkričio 29 d. įsakymo Nr. 515 \"Dėl sveikatos priežiūros įstaigų veiklos apskaitos ir atskaitomybės tvarkos\" pakeitimo ir statistinės apskaitos formos Nr. 083-2/a \"Pažymėjimas, suteikiantis teisę naudotis motorine transporto priemone neprisisegus saugos diržo dėl medicininių priežasčių\" tvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "110",
+  "official_journal_page": null,
+  "official_journal_date": "2013-10-19",
+  "entry_into_force": "2014-01-01",
+  "notification_date": "2013-11-11",
+  "commission_reference": "MNE(2013)58738",
+  "nim_celex": "71991L0671LTU_210277",
+  "nim_id": "210277",
+  "transposes_celex": [
+    "31991L0671"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/861c7a18-9ec2-4c60-9944-5daf584fb589",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
