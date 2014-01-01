@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo proceso kodekso 50, 51, 106 straipsnių pakeitimo ir papildymo įstatymas XII-275",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "54",
+  "official_journal_page": null,
+  "official_journal_date": "2013-05-25",
+  "entry_into_force": "2014-01-01",
+  "notification_date": "2014-02-21",
+  "commission_reference": "MNE(2014)51137",
+  "nim_celex": "72005F0212LTU_213537",
+  "nim_id": "213537",
+  "transposes_celex": [
+    "32005F0212",
+    "32012L0013",
+    "32012L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/73dae480-7cf4-4e77-8f43-f36ba9ef7c6f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
