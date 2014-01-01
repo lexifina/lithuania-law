@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos biudžeto sandaros įstatymo 11 straipsnio pakeitimo įstatymas Nr. XI-2318",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "132",
+  "official_journal_page": null,
+  "official_journal_date": "2012-11-15",
+  "entry_into_force": "2014-01-01",
+  "notification_date": "2013-12-23",
+  "commission_reference": "MNE(2013)60094",
+  "nim_celex": "72011L0085LTU_211963",
+  "nim_id": "211963",
+  "transposes_celex": [
+    "32011L0085"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/10d55f66-bc1b-4049-a8e5-a9c7fedc1c2c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
