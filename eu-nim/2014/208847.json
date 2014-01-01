@@ -1,0 +1,26 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos teritorijų planavimo įstatymo pakeitimo įstatymas Nr. XII-407",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "76",
+  "official_journal_page": null,
+  "official_journal_date": "2013-07-16",
+  "entry_into_force": "2014-01-01",
+  "notification_date": "2013-09-04",
+  "commission_reference": "MNE(2013)57658",
+  "nim_celex": "71992L0043LTU_208847",
+  "nim_id": "208847",
+  "transposes_celex": [
+    "31992L0043",
+    "31996L0082",
+    "32001L0042",
+    "32009L0028",
+    "32009L0147"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f64659fa-fdc8-4184-8fbe-a49bdadaa42b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
