@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos viešųjų pirkimų įstatymo 2, 4, 6, 7, 8(2), 9, 10, 13, 18, 19, 22, 24, 28, 33, 35, 39, 40, 85, 86, 87, 90, 92 straipsnių pakeitimo ir papildymo įstatymas",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "112",
+  "official_journal_page": null,
+  "official_journal_date": "2013-10-26",
+  "entry_into_force": "2014-01-01",
+  "notification_date": "2015-04-20",
+  "commission_reference": "MNE(2015)52504",
+  "nim_celex": "72009L0052LTU_225485",
+  "nim_id": "225485",
+  "transposes_celex": [
+    "32009L0052"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6a22d6a9-f977-11e4-a4c8-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
