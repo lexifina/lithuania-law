@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žmogaus audinių, ląstelių ir organų donorystės ir transplantacijos įstatymo pakeitimo įstatymas Nr. XII-593",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "120",
+  "official_journal_page": null,
+  "official_journal_date": "2013-11-23",
+  "entry_into_force": "2014-01-01",
+  "notification_date": "2016-12-06",
+  "commission_reference": "MNE(2016)57370",
+  "nim_celex": "72015L0566LTU_243139",
+  "nim_id": "243139",
+  "transposes_celex": [
+    "32015L0566"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/629ad454-9b76-45e1-822f-9a0cec02509e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
