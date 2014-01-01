@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2013 m. gruodžio 18 d. nutarimas Nr. 1267 „Dėl Lietuvos Respublikos Vyriausybės 1996 m. rugsėjo 18 d. nutarimo Nr. 1079 \"Dėl Visuomenės informavimo ir dalyvavimo teritorijų planavimo procese nuostatų patvirtinimo\" pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "140",
+  "official_journal_page": null,
+  "official_journal_date": "2013-12-30",
+  "entry_into_force": "2014-01-01",
+  "notification_date": "2015-06-25",
+  "commission_reference": "MNE(2015)54157",
+  "nim_celex": "72012L0018LTU_227175",
+  "nim_id": "227175",
+  "transposes_celex": [
+    "32012L0018"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/082d32d6-1a7e-4ffb-b593-3d43b90b0f6e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
