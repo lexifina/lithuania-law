@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos teisėkūros pagrindų įstatymas Nr. XI-2220",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "110",
+  "official_journal_page": null,
+  "official_journal_date": "2012-09-22",
+  "entry_into_force": "2014-01-01",
+  "notification_date": "2016-07-15",
+  "commission_reference": "MNE(2016)53760",
+  "nim_celex": "72011L0070LTU_238167",
+  "nim_id": "238167",
+  "transposes_celex": [
+    "32011L0070"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c025501c-25c5-402d-911a-7d5ad6fa0c27",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
