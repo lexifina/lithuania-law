@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2013 m. gruodžio 31 d. įsakymas Nr. 3-660 \"Dėl Geležinkelių sistemos sąveikaujančių dalių tiekimo į rinką taisyklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2013-00246",
+  "official_journal_page": null,
+  "official_journal_date": "2013-12-31",
+  "entry_into_force": "2014-01-01",
+  "notification_date": "2014-01-23",
+  "commission_reference": "MNE(2014)50262",
+  "nim_celex": "72008L0057LTU_212472",
+  "nim_id": "212472",
+  "transposes_celex": [
+    "32008L0057"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5028cec7-3c4c-4b4d-b190-13c032624787",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
