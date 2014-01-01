@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos buhalterinės apskaitos įstatymo 3 ir 7 straipsnių pakeitimo įstatymas Nr. XI-2319",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "132",
+  "official_journal_page": null,
+  "official_journal_date": "2012-11-15",
+  "entry_into_force": "2014-01-01",
+  "notification_date": "2014-03-21",
+  "commission_reference": "MNE(2014)51921",
+  "nim_celex": "72011L0085LTU_214516",
+  "nim_id": "214516",
+  "transposes_celex": [
+    "32011L0085"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d62c41e8-cb3a-4595-8ad7-a4da0ad3fcbc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
