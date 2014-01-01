@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos draudimo įstatymo pakeitimo įstatymas Nr.XI-2277",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "127",
+  "official_journal_page": null,
+  "official_journal_date": "2012-11-03",
+  "entry_into_force": "2014-01-01",
+  "notification_date": "2013-02-11",
+  "commission_reference": "MNE(2013)51357",
+  "nim_celex": "72009L0138LTU_201305",
+  "nim_id": "201305",
+  "transposes_celex": [
+    "32009L0138",
+    "32011L0089",
+    "32014L0051"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fa6f6296-0d7a-41bb-bb62-0812f281811f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
