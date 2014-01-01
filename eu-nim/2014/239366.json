@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos teisėkūros pagrindų įstatymo 19, 20 straipsnių pakeitimo ir papildymo įstatymas Nr.XII-415",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "76",
+  "official_journal_page": null,
+  "official_journal_date": "2013-07-16",
+  "entry_into_force": "2014-01-01",
+  "notification_date": "2016-07-14",
+  "commission_reference": "MNE(2016)54822",
+  "nim_celex": "72014L0054LTU_239366",
+  "nim_id": "239366",
+  "transposes_celex": [
+    "32014L0054"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/67d760a9-9522-4999-ab9a-7e417b53346c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
