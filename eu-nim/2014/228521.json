@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2013 m. gruodžio 11 d. nutarimas Nr. 1178 „Dėl Lietuvos Respublikos Vyriausybės 2003 m. birželio 17 d. nutarimo Nr. 783 „Dėl Keleivių, bagažo ir krovinių vežimo geležinkelių transportu licencijavimo taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "130",
+  "official_journal_page": null,
+  "official_journal_date": "2013-12-19",
+  "entry_into_force": "2014-01-01",
+  "notification_date": "2015-07-28",
+  "commission_reference": "MNE(2015)55392",
+  "nim_celex": "72012L0034LTU_228521",
+  "nim_id": "228521",
+  "transposes_celex": [
+    "32012L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/96c4627d-f3a9-4817-93fe-67df3f63fa53",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
