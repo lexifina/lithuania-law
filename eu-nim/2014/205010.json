@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo pakeitimo įstatymas Nr. XII-270",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "54",
+  "official_journal_page": null,
+  "official_journal_date": "2013-05-25",
+  "entry_into_force": "2014-01-01",
+  "notification_date": "2013-05-31",
+  "commission_reference": "MNE(2013)54314",
+  "nim_celex": "72003L0008LTU_205010",
+  "nim_id": "205010",
+  "transposes_celex": [
+    "32003L0008"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ba1b29da-45be-4628-8d99-21151663907b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
