@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos teritorijų planavimo ir statybos valstybinės priežiūros įstatymas Nr. XII-459 (suvestinė redakcija nuo 2021-07-01)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "76-3848",
+  "official_journal_page": null,
+  "official_journal_date": "2013-07-16",
+  "entry_into_force": "2014-01-01",
+  "notification_date": "2023-09-25",
+  "commission_reference": "MNE(2023)04367",
+  "nim_celex": "72018L2001LTU_202304367",
+  "nim_id": "202304367",
+  "transposes_celex": [
+    "32018L2001"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9d9f629d-d2f3-4011-941e-d95ded2d636d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
