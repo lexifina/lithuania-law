@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Audito ir apskaitos tarnybos direktoriaus 2013 m. kovo 8 d. įsakymas Nr. VAS-3 „Dėl 14-ojo verslo apskaitos standarto „Verslo jungimai\" tvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "28",
+  "official_journal_page": null,
+  "official_journal_date": "2013-03-16",
+  "entry_into_force": "2014-01-01",
+  "notification_date": "2015-11-02",
+  "commission_reference": "MNE(2015)57868",
+  "nim_celex": "72013L0034LTU_231247",
+  "nim_id": "231247",
+  "transposes_celex": [
+    "32013L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9f66ab0f-2132-4dc5-9bb8-e6d1e5bbb418",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
