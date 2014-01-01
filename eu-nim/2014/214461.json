@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos akcinių bendrovių įstatymo 11, 12, 41(1), 78 straipsnių pakeitimo ir papildymo įstatymas Nr. XII-594",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "120",
+  "official_journal_page": null,
+  "official_journal_date": "2013-11-23",
+  "entry_into_force": "2014-01-01",
+  "notification_date": "2014-04-10",
+  "commission_reference": "MNE(2014)51885",
+  "nim_celex": "72009L0102LTU_214461",
+  "nim_id": "214461",
+  "transposes_celex": [
+    "32009L0102"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7deaac4a-ea4e-4cb8-a96e-7b040b3705d6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
