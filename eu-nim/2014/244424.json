@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos produktų saugos įstatymo 4 ir 17 straipsnių pakeitimo įstatymas Nr. XI-2335",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "132",
+  "official_journal_page": null,
+  "official_journal_date": "2012-11-15",
+  "entry_into_force": "2014-01-01",
+  "notification_date": "2017-01-19",
+  "commission_reference": "MNE(2017)50454",
+  "nim_celex": "72014L0028LTU_244424",
+  "nim_id": "244424",
+  "transposes_celex": [
+    "32014L0028"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1b2846a5-d552-4f67-9dbf-094251bad9b3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
