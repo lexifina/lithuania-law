@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Audito ir apskaitos tarnybos direktoriaus 2013 m. gruodžio 10 d. įsakymas Nr. VAS-25 \"Dėl 17-ojo verslo apskaitos standarto \"Biologinis turtas\" tvirtinimo\"",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "127",
+  "official_journal_page": null,
+  "official_journal_date": "2013-12-12",
+  "entry_into_force": "2014-01-01",
+  "notification_date": "2015-08-05",
+  "commission_reference": "MNE(2015)55768",
+  "nim_celex": "72013L0034LTU_228949",
+  "nim_id": "228949",
+  "transposes_celex": [
+    "32013L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1696bf27-8da5-4a35-9a29-064f3cf468e7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
