@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro 2013 m. gruodžio 31 d. įsakymas Nr. 1V-1060 „Dėl Lietuvos Respublikos vidaus reikalų ministro 2004 m. gruodžio 24 d. įsakymo Nr. 1V-429 „Dėl Sprendimų dėl užsieniečio įpareigojimo išvykti, išsiuntimo, grąžinimo ir vykimo tranzitu per Lietuvos Respublikos teritoriją priėmimo ir jų vykdymo tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-00026",
+  "official_journal_page": null,
+  "official_journal_date": "2014-01-06",
+  "entry_into_force": "2014-01-07",
+  "notification_date": "2014-01-22",
+  "commission_reference": "MNE(2014)50531",
+  "nim_celex": "72008L0115LTU_212791",
+  "nim_id": "212791",
+  "transposes_celex": [
+    "32008L0115"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/48a14cf0-77d2-405a-bd9d-cbef50a4d62c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
