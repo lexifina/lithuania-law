@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Finansų ministro 2013 m. gruodžio 31 d. įsakymas Nr. 1K-417 \"Dėl valdžios sektoriaus subjektų apskaitos duomenų teikimo Finansų miisterijai ir skelbimo taisyklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-00166",
+  "official_journal_page": null,
+  "official_journal_date": "2014-01-13",
+  "entry_into_force": "2014-01-14",
+  "notification_date": "2014-03-21",
+  "commission_reference": "MNE(2014)51923",
+  "nim_celex": "72011L0085LTU_214518",
+  "nim_id": "214518",
+  "transposes_celex": [
+    "32011L0085"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/add4f169-59c0-4e48-9407-a94d9ed7e0ec",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
