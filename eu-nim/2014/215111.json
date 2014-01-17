@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos policijos generalinio komisaro 2014 m. sausio 17 d. įsakymas Nr. 5-V-43 „Dėl 2001 m. lapkričio 23 d. Europos Tarybos konvencijos dėl elektroninių nusikaltimų 35 straipsnio ir 2013 m. rugpjūčio 12 d. Europos Parlamento ir Tarybos direktyva 2013/40/ES dėl atakų prieš informacines sistemas, kuria pakeičiamas Tarybos pamatinis sprendimas 2005/222/TVR, 13 straipsnio 1 dalies nuostatų įgyvendinimo užtikrinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Administracinės priemonės",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2014-01-17",
+  "entry_into_force": "2014-01-17",
+  "notification_date": "2014-04-09",
+  "commission_reference": "MNE(2014)52344",
+  "nim_celex": "72013L0040LTU_215111",
+  "nim_id": "215111",
+  "transposes_celex": [
+    "32013L0040"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/14ee02fa-88bb-40fa-bfff-69f14bf2eb0a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
