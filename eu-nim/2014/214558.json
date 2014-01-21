@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės ligonių kasos prie Sveikatos apsaugos ministerijos direktoriaus 2014 m. sausio 22 d.  įsakymas Nr. 1K-8 „Dėl Privalomojo sveikatos draudimo fondo biudžeto pajamų planų šališkumo vertinimo tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Administracinės priemonės",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2014-01-20",
+  "entry_into_force": "2014-01-21",
+  "notification_date": "2014-03-21",
+  "commission_reference": "MNE(2014)51956",
+  "nim_celex": "72011L0085LTU_214558",
+  "nim_id": "214558",
+  "transposes_celex": [
+    "32011L0085"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/69985007-4e92-430b-b188-fe0930078d71",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
