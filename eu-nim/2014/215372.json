@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės maisto ir veterinarijos tarnybos direktoriaus 2014 m. sausio 16 d. įsakymas Nr. B1-24 „Dėl pranešimo (notifikavimo) apie Lietuvos Respublikos rinkai tiekiamus specialios paskirties maisto produktus tvarkos aprašo patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-00393",
+  "official_journal_page": null,
+  "official_journal_date": "2014-01-22",
+  "entry_into_force": "2014-01-23",
+  "notification_date": "2014-05-07",
+  "commission_reference": "MNE(2014)52523",
+  "nim_celex": "72009L0039LTU_215372",
+  "nim_id": "215372",
+  "transposes_celex": [
+    "32009L0039"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c26efe5f-6987-4f82-9153-d7179695c2e3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
