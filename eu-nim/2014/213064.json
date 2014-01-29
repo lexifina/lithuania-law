@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2014 m. sausio 27 d. įsakymas Nr. V-113 \"Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2004 m. vasario 2 d. įsakymo Nr. V-40 „Dėl Gydytojo odontologo profesinės kvalifikacijos pripažinimo norint dirbti pagal gydytojo odontologo profesiją ar laikinai arba vienkartinai teikti odontologijos paslaugas Lietuvos Respublikoje tvarkos aprašo patvirtinimo\" pakeitimo",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-00686",
+  "official_journal_page": null,
+  "official_journal_date": "2014-01-29",
+  "entry_into_force": "2014-01-29",
+  "notification_date": "2014-01-30",
+  "commission_reference": "MNE(2014)50770",
+  "nim_celex": "72013L0025LTU_213064",
+  "nim_id": "213064",
+  "transposes_celex": [
+    "32013L0025"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/517bf581-5f87-4ed1-99dc-a6d9ced69a17",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
