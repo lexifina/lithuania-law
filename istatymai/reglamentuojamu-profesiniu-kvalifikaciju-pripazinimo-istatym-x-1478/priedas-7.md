@@ -13,4 +13,3 @@ f) Jeigu Lietuvos Respublikos kompetentinga institucija iš savo piliečių, sie
 Lietuvos Respublikos kompetentinga institucija kaip pakankamą patvirtinimą priima su tuo susijusius dokumentus, kuriuos išdavė kitos valstybės narės bankai ir draudimo įmonės.
 2. Pažymėjimai
 Siekdama palengvinti šio įstatymo III dalies III skyriaus taikymą, Lietuvos Respublikos kompetentinga institucija gali numatyti, kad, be formalios kvalifikacijos įrodymų, rengimo reikalavimus atitinkantis asmuo privalo pateikti kilmės valstybės narės kompetentingų institucijų išduotą pažymėjimą, patvirtinantį, kad šiems formalios kvalifikacijos įrodymams taikoma Europos Parlamento ir Tarybos direktyva 2005/36/EB.
-Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo

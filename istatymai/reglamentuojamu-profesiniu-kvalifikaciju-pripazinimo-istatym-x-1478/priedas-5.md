@@ -1,4 +1,5 @@
-# 5 priedas
+# Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo
+5 priedas
 PRIPAŽINIMAS REMIANTIS BŪTINIAUSIŲ RENGIMO REIKALAVIMŲ DERINIMU
 5.1. MEDICINOS GYDYTOJAS
 5.1.1. Pagrindinių medicinos studijų formalios kvalifikacijos įrodymai
@@ -12,18 +13,18 @@ Diploma van arts/Diplôme de docteur en médecine
 – Les universités/De universiteiten – Le Jury compétent d'enseignement de la Communauté française/De bevoegde Examencommissie van de Vlaamse Gemeenschap
 1976 m. gruodžio 20 d.
 Bulgarija/ България
-Диплома за висше образование на образователно-квалификационна степен "магистър" по "Медицина" и професионална квалификация "Магистър-лекар"
+Диплома за висше образование на образователно-квалификационна степен „магистър“ по „Медицина“ и професионална квалификация „Магистър-лекар“
 Медицински факултет във Висше медицинско училище (Медицински университет, Висш медицински институт в Република България)
 2007 m. sausio 1 d.
 Čekijos Respublika/ Česká republika
-Diplom o ukončení studia ve studijním programu všeobecné lékařství (doktormedicíny, MUDr.)
+Diplom o ukončení studia ve studijním programu všeobecné lékařství (doktor medicíny, MUDr.)
 Lékářská fakulta univerzity v České republice
 Vysvědčení o státní rigorózní zkoušce
 2004 m. gegužės 1 d.
 Danija/ Danmark
 Bevis for bestået lægevidenska- belig embedseksamen
 Medicinsk universitetsfakultet
-– Autorisation somlæge, udstedt af Sundhedsstyrelsen og – Tilladelse il elvstændigt virke som læge (dokumentation for gennemført prak- tisk uddannelse), udstedt af Sundhedsstyrelsen
+– Autorisation somlæge, udstedt af Sundhedsstyrelsen og – Tilladelse til elvstændigt virke som læge (dokumentation for gennemført prak- tisk uddannelse), udstedt af Sundhedsstyrelsen
 1976 m. gruodžio 20 d.
 Vokietija/ Deutschland
 – Zeugnis über die Ärztliche Prüfung – Zeugnis über die Ärztliche Staatsprüfung und Zeugnis über die Vorbereitungszeit als Medizinalassistent, soweit diese nach den deutschen Rechtsvorschriften noch für den Abschluss der ärztlichen Ausbildung vorgesehen war
@@ -45,6 +46,10 @@ Prancūzija/ France
 Diplôme d'Etat de docteur en médecine
 Universités
 1976 m. gruodžio 20 d.
+Kroatija/ Hrvatska
+Diploma „doktor medicine / doktorica medicine“
+Medicinski fakulteti sveučilišta u Republici Hrvatskoj
+2013 m. liepos 1 d.
 Airija/Ireland
 Primary qualification
 Competent examining body
@@ -64,7 +69,7 @@ Latvija
 Universitātes tipa augstskola
 2004 m. gegužės 1 d.
 Lietuva
-Aukštojo okslo diplomas, nurodantis suteiktą gydytojo kvalifikaciją
+Aukštojo mokslo diplomas, nurodantis suteiktą gydytojo kvalifikaciją
 Universitetas
 Internatūros pažymėjimas, nurodantis suteiktą medicinos gydytojo profesinę kvalifikaciją
 2004 m. gegužės 1 d.
@@ -74,7 +79,7 @@ Jury d'examen d'Etat
 Certificat de stage
 1976 m. gruodžio 20 d.
 Vengrija/ Magyarország
-Általános orvos oklevél (doctor medicinae univer- sae, röv.: dr. med. univ.)
+Általános orvos oklevél (doctor medicinae universae, röv.: dr. med. univ.)
 Egyetem
 2004 m. gegužės 1 d.
 Malta
@@ -87,11 +92,9 @@ Getuigschrift van met goed gevolg afgelegd artsexamen
 Faculteit Geneeskunde
 1976 m. gruodžio 20 d.
 Austrija/ Österreich
-1. Urkunde über die Verleihung des akademischen Grades Doktor der gesamten Heil- kunde (bzw. Doctor medi- cinae universae, Dr. med. univ.)
-1. Medizinische Fakultät einer Universität
+1. Urkunde über die Verleihung des akademischen Grades Doktor der gesamten Heil- kunde (bzw. Doctor medi- cinae universae, Dr. med. univ.) 2. Diplom über die spezifische Ausbildung zum Arzt für Allgemeinmedizin bzw. Facharztdiplom
+1. Medizinische Fakultät einer Universität 2. Österreichische Ärztekammer
 1994 m. sausio 1 d.
-2. Diplom über die spezifische Ausbildung zum Arzt für Allgemeinmedizin zw. Facharztdiplom
-2. Österreichische Ärztekammer
 Lenkija/Polska
 Dyplom ukończenia studiów wyższych na kierunku lekarskim z tytułem „lekarza“
 1. Akademia Medyczna 2. Uniwersytet Medyczny 3. Collegium Medicum Uniwersytetu Jagiellońskiego
@@ -114,8 +117,8 @@ Slovakija/ Slovensko
 Vysokoškolský diplom o udelení akademického titulu „doktor medicíny“ („MUDr.“)
 Vysoká škola
 2004 m. gegužės 1 d.
-Suomija/Suomi/ inland
-Lääketieteen isensiaatin tutkinto/ edicine licentiatexamen
+Suomija/Suomi/Finland
+Lääketieteen lisensiaatin tutkinto/Medicine licentiatexamen
 – Helsingin yliopisto/Helsing- fors universitet – Kuopion yliopisto – Oulun yliopisto – Tampereen yliopisto – Turun yliopisto
 Todistus lääkärin perusterveydenhuollon lisäkoulutuksesta/ Examenbevis om tilläggsutbildning för läkare inom primär- vården
 1994 m. sausio 1 d.
@@ -134,9 +137,9 @@ Valstybė
 Formalios kvalifikacijos įrodymas
 Kvalifikaciją suteikianti institucija
 Atskaitos data
-Belgija/België/Belgique/ Belgien
+Belgija/België/ Belgique/ Belgien
 Bijzondere beroepstitel van geneesheer-specialist/ Titre professionnel particulier de médecin spécialiste
-Minister bevoegd voor Volksgezondheid/ Ministre de la Santé publique
+Minister bevoegd voor Volksgezondheid/Ministre de la Santé publique
 1976 m. gruodžio 20 d.
 Bulgarija/ България
 Свидетелство за призната специалност
@@ -167,15 +170,13 @@ Título de Especialista
 Ministerio de Educación y Cultura
 1986 m. sausio 1 d.
 Prancūzija/ France
-1. Certificat d'études spéciales de médecine
-1. Universités
+1. Certificat d'études spéciales de médecine 2. Attestation de médecin spécialiste qualifié 3. Certificat d'études spéciales de médecine 4. Diplôme d'études spécialisées ou spécialisation complémentaire qualifiante de médecine
+1. Universités 2. Conseil de l'Ordre des médecins 3. Universités 4. Universités
 1976 m. gruodžio 20 d.
-2. Attestation de médecin spécialiste qualifié
-2. Conseil de l'Ordre des médecins
-3. Certificat d'études spéciales de médecine
-3. Universités
-4. Diplôme d'études spécialisées ou spécialisation complémentaire qualifiante de médecine
-4. Universités
+Kroatija/ Hrvatska
+Diploma o specijalističkom usavršavanju
+Ministarstvo nadležno za zdravstvo
+2013 m. liepos 1 d.
 Airija/Ireland
 Certificate of Specialist doctor
 Competent authority
@@ -196,7 +197,7 @@ Lietuva
 Rezidentūros pažymėjimas, nurodantis suteiktą gydytojo specialisto profesinę kvalifikaciją
 Universitetas
 2004 m. gegužės 1 d.
-Liuksemburgas/Luxembourg
+Liuksemburgas/ Luxembourg
 Certificat de médecin spécialiste
 Ministre de la Santé publique
 1976 m. gruodžio 20 d.
@@ -210,7 +211,7 @@ Kumitat ta' Approvazzjoni dwar Speċjalisti
 2004 m. gegužės 1 d.
 Nyderlandai/ Nederland
 Bewijs van inschrijving in een Specialistenregister
-– Medisch Specialisten Registratie Commissie (MSRC) van de Koninklijke Nederlandsche Maatschappij tot Bevordering der Geneeskunst – Sociaal-Geneeskundigen Registratie Commissie van de Koninklijke Nederlandsche Maats- chappij tot Bevordering der Geneeskunst
+– Medisch Specialisten Registratie Commissie (MSRC) van de Koninklijke Nederlandsche Maatschappij tot Bevordering der Geneeskunst – Sociaal-Geneeskundigen Registratie Commissie van de Koninklijke Nederlandsche Maatschappij tot Bevordering der Geneeskunst
 1976 m. gruodžio 20 d.
 Austrija/ Österreich
 Facharztdiplom
@@ -281,6 +282,9 @@ Cirugía general y del aparato digestivo
 France
 Anesthésiologie-Réanimation chirurgicale
 Chirurgie générale
+Hrvatska
+Anesteziologija, reanimatologija i intenzivna medicina
+Opća kirurgija
 Ireland
 Anaesthesia
 General surgery
@@ -367,6 +371,9 @@ Obstetricia y ginecología
 France
 Neurochirurgie
 Gynécologie – obstétrique
+Hrvatska
+Neurokirurgija
+Ginekologija i opstetricija
 Ireland
 Neurosurgery
 Obstetrics and gynaecology
@@ -453,6 +460,9 @@ Oftalmología
 France
 Médecine interne
 Ophtalmologie
+Hrvatska
+Opća interna medicina
+Oftalmologija i optometrija
 Ireland
 General medicine
 Ophthalmic surgery
@@ -539,6 +549,9 @@ Pediatría y sus áreas específicas
 France
 Oto-rhino-laryngologie
 Pédiatrie
+Hrvatska
+Otorinolaringologija
+Pedijatrija
 Ireland
 Otolaryngology
 Paediatrics
@@ -614,7 +627,7 @@ Eesti
 Pulmonoloogia
 Uroloogia
 Ελλάς
-Φυµατιoλoγία- Πvευµovoλoγία
+Φυµατιoλoγία – Πvευµovoλoγία
 Ουρoλoγία
 España
 Neumología
@@ -622,6 +635,9 @@ Urología
 France
 Pneumologie
 Urologie
+Hrvatska
+Pulmologija
+Urologija
 Ireland
 Respiratory medicine
 Urology
@@ -668,7 +684,7 @@ Slovensko
 Pneumológia a ftizeológia
 Urológia
 Suomi/Finland
-Keuhkosairaudet ja allergologia/ Lungsjukdomar och allergologi
+Keuhkosairaudet ja allergologia/Lungsjukdomar och allergologi
 Urologia/Urologi
 Sverige
 Lungsjukdomar (pneumologi)
@@ -708,6 +724,9 @@ Anatomía patológica
 France
 Chirurgie orthopédique et traumatologie
 Anatomie et cytologie pathologiques
+Hrvatska
+Ortopedija i traumatologija
+Patologija
 Ireland
 Trauma and orthopaedic surgery
 Morbid anatomy and histopathology
@@ -754,7 +773,7 @@ Slovensko
 Ortopédia
 Patologická anatómia
 Suomi/Finland
-Ortopedia ja traumatologia/ Ortopedi och traumatologi
+Ortopedia ja traumatologia/Ortopedi och traumatologi
 Patologia/Patologi
 Sverige
 Ortopedi
@@ -794,6 +813,9 @@ Psiquiatría
 France
 Neurologie
 Psychiatrie
+Hrvatska
+Neurologija
+Psihijatrija
 Ireland
 Neurology
 Psychiatry
@@ -880,6 +902,9 @@ Oncología radioterápica
 France
 Radiodiagnostic et imagerie médicale
 Oncologie radiothérapique
+Hrvatska
+Klinička radiologija
+Onkologija i radioterapija
 Ireland
 Diagnostic radiology
 Radiation oncology
@@ -963,6 +988,8 @@ Análisis clínicos
 France
 Chirurgie plastique, reconstructrice et esthétique
 Biologie médicale
+Hrvatska
+Plastična, rekonstrukcijska i estetska kirurgija
 Ireland
 Plastic surgery
 Italia
@@ -1033,6 +1060,8 @@ España
 Microbiología y parasitología
 Bioquímica clínica
 France
+Hrvatska
+Klinička mikrobiologija
 Ireland
 Microbiology
 Chemical pathology
@@ -1085,7 +1114,7 @@ Pavadinimas
 België/Belgique/ Belgien
 Chirurgie thoracique/Heelkunde op de thorax (*)
 България
-Клинична имунология Имунология |
+Клинична имунология Имунология
 Гръдна хирургия Кардиохирургия
 Česká republika
 Alergologie a klinická imunologie
@@ -1104,6 +1133,8 @@ Immunología
 Cirugía torácica
 France
 Chirurgie thoracique et cardiovasculaire
+Hrvatska
+Alergologija i klinička imunologija
 Ireland
 Immunology (clinical and laboratory)
 Thoracic surgery
@@ -1180,6 +1211,9 @@ Angiología y cirugía vascular
 France
 Chirurgie infantile
 Chirurgie vasculaire
+Hrvatska
+Dječja kirurgija
+Vaskularna kirurgija
 Ireland
 Paediatric surgery
 Italia
@@ -1231,82 +1265,91 @@ _____________________
 Panaikinimo datos, kaip apibrėžta šio įstatymo 23 straipsnio 3 dalyje:
 (*) 1983 m. sausio 1 d.
 Valstybė
-Vaikų chirurgija Minimali rengimo studijų trukmė – 5 metai
-Kraujagyslių chirurgija Minimali rengimo studijų trukmė – 5 metai
+Kardiologija Minimali rengimo studijų trukmė – 4 metai
+Gastroenterologija Minimali rengimo studijų trukmė – 4 metai
 Pavadinimas
 Pavadinimas
 België/Belgique/ Belgien
-Chirurgie des vaisseaux/Bloedvatenheelkunde (*)
+Cardiologie
+Gastro-entérologie/Gastroenterologie
 България
-Детска хирургия
-Съдова хирургия
+Кардиология
+Гастроентерология
 Česká republika
-Dětská chirurgie
-Cévní chirurgie
+Kardiologie
+Gastroenterologie
 Danmark
-Karkirurgi eller kirurgiske blodkarsygdomme
+Kardiologi
+Medicinsk gastroenterologi eller medicinske mavetarmsygdomme
 Deutschland
-Kinderchirurgie
-Gefäßchirurgie
+Innere Medizin und Schwerpunkt Kardiologie
+Innere Medizin und Schwerpunkt Gastroenterologie
 Eesti
-Lastekirurgia
-Kardiovaskulaarkirurgia
+Kardioloogia
+Gastroenteroloogia
 Ελλάς
-Χειρoυργική Παίδωv
-Αγγειoχειρoυργική
+Καρδιoλoγία
+Γαστρεvτερoλoγία
 España
-Cirugía pediátrica
-Angiología y cirugía vascular
+Cardiologķa
+Aparato digestivo
 France
-Chirurgie infantile
-Chirurgie vasculaire
+Pathologie cardio-vasculaire
+Gastro-entérologie et hépatologie
+Hrvatska
+Kardiologija
+Gastroenterologija
 Ireland
-Paediatric surgery
+Cardiology
+Gastro-enterology
 Italia
-Chirurgia pediatrica
-Chirurgia vascolare
+Cardiologia
+Gastroenterologia
 Κύπρος
-Χειρουργική Παίδων
-Χειρουργική Αγγείων
+Καρδιολογία
+Γαστρεντερολογία
 Latvija
-Bērnu ķirurģija
-Asinsvadu ķirurģija
+Kardioloģija
+Gastroenteroloģija
 Lietuva
-Vaikų chirurgija
-Kraujagyslių chirurgija
+Kardiologija
+Gastroenterologija
 Luxembourg
-Chirurgie pédiatrique
-Chirurgie vasculaire
+Cardiologie et angiologie
+Gastro-enterologie
 Magyarország
-Gyermeksebészet
-Érsebészet
+Kardiológia
+Gasztroenterológia
 Malta
-Kirurgija Pedjatrika
-Kirurġija Vaskolari
+Kardjoloġija
+Gastroenteroloġija
 Nederland
+Cardiologie
+Leer van maag-darm-leverziekten
 Österreich
-Kinderchirurgie
 Polska
-Chirurgia dziecięca
-Chirurgia naczyniowa
+Kardiologia
+Gastrenterologia
 Portugal
-Cirurgia pediátrica
-Cirurgia vascular
+Cardiologia
+Gastrenterologia
 România
-Chirurgie pediatrică
-Chirurgie vasculară
+Cardiologie
+Gastroenterologie
 Slovenija
-Kardiovaskularna kirurgija
+Gastroenterologija
 Slovensko
-Detská chirurgia
-Cievna chirurgia
+Kardiológia
+Gastroenterológia
 Suomi/Finland
-Lastenkirurgia/Barnkirurgi
-Verisuonikirurgia/Kärlkirurgi
+Kardiologia/Kardiologi
+Gastroenterologia/Gastroenterologi
 Sverige
-Barn- och ungdomskirurgi
+Kardiologi
+Medicinsk gastroenterologi och hepatologi
 United Kingdom
-Paediatric surgery
+Cardiology
+Gastro-enterology
 Valstybė
 Reumatologija Minimali rengimo studijų trukmė – 4 metai
 Bendroji hematologija Minimali rengimo studijų trukmė – 3 metai
@@ -1337,6 +1380,9 @@ Reumatología
 Hematología y hemoterapia
 France
 Rhumatologie
+Hrvatska
+Reumatologija
+Hematologija
 Ireland
 Rheumatology
 Haematology (clinical and laboratory)
@@ -1386,9 +1432,6 @@ Hematologi
 United Kingdom
 Rheumatology
 Haematology
-_____________________
-Panaikinimo datos, kaip apibrėžta šio įstatymo 23 straipsnio 3 dalyje:
-(*) 1983 m. sausio 1 d.
 Valstybė
 Endokrinologija Minimali rengimo studijų trukmė – 3 metai
 Fizioterapija Minimali rengimo studijų trukmė – 3 metai
@@ -1419,6 +1462,9 @@ Medicina física y rehabilitación
 France
 Endocrinologie, maladies métaboliques
 Rééducation et réadaptation fonctionnelles
+Hrvatska
+Endokrinologija i dijabetologija
+Fizikalna medicina i rehabilitacija
 Ireland
 Endocrinology and diabetes mellitus
 Italia
@@ -1494,6 +1540,8 @@ Dermatología médico-quirúrgica y venereología
 France
 Neuropsychiatrie (**)
 Dermatologie et vénéréologie
+Hrvatska
+Dermatologija i venerologija
 Ireland
 Italia
 Neuropsichiatria (***)
@@ -1567,6 +1615,9 @@ Electrorradiología
 France
 Electro-radiologie (*)
 Pédo-psychiatrie
+Hrvatska
+Klinička radiologija
+Dječja i adolescentna psihijatrija
 Ireland
 Radiology (**)
 Child and adolescent psychiatry
@@ -1608,7 +1659,7 @@ Barn- och ungdomspsykiatri
 United Kingdom
 Child and adolescent psychiatry
 ___________________
-Panaikinimo datos, kaip apibrėžta šio įstatymo 23 straipsnio 3 dalyje:
+Panaikinimo datos, kaip apibrėžta šio įstatymo 23 straispnio 3 dalyje:
 (*) 1971 m. gruodžio 3 d.
 (**) 1993 m. spalio 31 d.
 (***) Baigus rengimo studijas, prasidėjusias po 1982 m. kovo 5 d., kvalifikacijos įrodymai nebeišduodami.
@@ -1639,6 +1690,8 @@ Geriatría
 Nefrología
 France
 Néphrologie
+Hrvatska
+Nefrologija
 Ireland
 Geriatric medicine
 Nephrology
@@ -1712,6 +1765,9 @@ España
 Medicina preventiva y salud pública
 France
 Santé publique et médecine sociale
+Hrvatska
+Infektologija
+Javnozdravstvena medicina
 Ireland
 Infectious diseases
 Public health medicine
@@ -1789,6 +1845,9 @@ Farmacología clínica
 Medicina del trabajo
 France
 Médecine du travail
+Hrvatska
+Klinička farmakologija s toksikologijom
+Medicina rada i športa
 Ireland
 Clinical pharmacology and therapeutics
 Occupational medicine
@@ -1863,6 +1922,9 @@ Alergología
 Medicina nuclear
 France
 Médecine nucléaire
+Hrvatska
+Alergologija i klinička imunologija
+Nuklearna medicina
 Ireland
 Italia
 Allergologia ed immunologia clinica
@@ -1923,6 +1985,8 @@ España
 Cirugía oral y maxilofacial
 France
 Chirurgie maxillo-faciale et stomatologie
+Hrvatska
+Maksilofacijalna kirurgija
 Ireland
 Italia
 Chirurgia maxillo-facciale
@@ -1938,7 +2002,7 @@ Szájsebészet
 Malta
 Nederland
 Österreich
-Mund- Kiefer- und Gesichtschirurgie
+Mund-, Kiefer- und Gesichtschirurgie
 Polska
 Chirurgia szczekowo-twarzowa
 Portugal
@@ -1972,6 +2036,7 @@ Eesti
 España
 France
 Hématologie
+Hrvatska
 Ireland
 Italia
 Κύπρος
@@ -2008,6 +2073,7 @@ España
 Estomatología
 France
 Stomatologie
+Hrvatska
 Ireland
 Dermatology
 Italia
@@ -2019,7 +2085,7 @@ Luxembourg
 Stomatologie
 _____________________
 Panaikinimo datos pagal šio įstatymo 23 straipsnio 3 dalį:
-(*)1994 m. gruodžio 31 d.
+(*) 1994 m. gruodžio 31 d.
 Valstybė
 Stomatologija Minimali rengimo studijų trukmė – 3 metai
 Dermatologija Minimali rengimo studijų trukmė – 4 metai
@@ -2054,6 +2120,7 @@ Eesti
 Ελλάς
 España
 France
+Hrvatska
 Ireland
 Genito-urinary medicine
 Tropical medicine
@@ -2095,7 +2162,7 @@ Chirurgie abdominale/Heelkunde op het abdomen (*)
 Česká republika
 Traumatologie Urgentní medicína
 Danmark
-Kirurgisk gastroenterologi eller kirurgiske mave-tarmsyg- domme
+Kirurgisk gastroenterologi eller kirurgiske mavetarmsygdomme
 Deutschland
 Visceralchirurgie
 Eesti
@@ -2104,6 +2171,9 @@ España
 Cirugía del aparato digestivo
 France
 Chirurgie viscérale et digestive
+Hrvatska
+Abdominalna kirurgija
+Hitna medicina
 Ireland
 Emergency medicine
 Italia
@@ -2138,7 +2208,7 @@ Accident and emergency medicine
 _____________________
 Panaikinimo datos pagal šio įstatymo 23 straipsnio 3 dalį:
 (*) 1983 m. sausio 1 d.
-(**) Studijoms, kurias baigus įgyjama dantų, burnos, veido ir žandikaulių chirurgo kvalifikacija (pagrindinis medicinos ir stomatologijos kursas), numatoma sąlyga, kad yra baigtos ir pripažintos pagrindinės medicinos studijos (šio įstatymo 20 straipsnis) ir pagrindinės odontologijos studijos (30 straipsnis).
+(**) Studijoms, kurias baigus įgyjama dantų, burnos, veido ir žandikaulių chirurgo kvalifikacija (pagrindinis medicinos ir stomatologijos kursas), numatoma sąlyga, kad yra baigtos ir pripažintos pagrindinės medicinos studijos (šio įstatymo 20 straipsnis) ir pagrindinės odontologijos studijos (šio įstatymo 30 straipsnis).
 Valstybė
 Klinikinė neurofiziologija Minimali rengimo studijų trukmė – 4 metai
 Dantų, burnos, veido ir žandikaulių chirurgija (pagrindinės medicinos ir stomatologijos studijos) (**) Minimali rengimo studijų trukmė – 4 metai
@@ -2157,6 +2227,7 @@ Eesti
 España
 Neurofisiología clínica
 France
+Hrvatska
 Ireland
 Clinical neurophysiology
 Oral and maxillo-facial surgery
@@ -2187,30 +2258,102 @@ Klinisk neurofysiologi
 United Kingdom
 Clinical neurophysiology
 Oral and maxillo-facial surgery
+Valstybė
+Chemoterapinė onkologija Minimali rengimo studijų trukmė – 5 metai
+Genetika Minimali rengimo studijų trukmė – 4 metai
+Pavadinimas
+Pavadinimas
+België/Belgique/ Belgien
+Oncologie médicale/ Medische oncologie
+България
+Медицинска онкология
+Медицинска генетика
+Česká republika
+Klinická onkologie
+Lékařská genetika
+Danmark
+Klinisk genetik
+Deutschland
+Humangenetik
+Eesti
+Meditsiinigeneetika
+Ελλάς
+Παθολογική Ογκολογία
+España
+France
+Oncologie
+Génétique médicale
+Hrvatska
+Ireland
+Medical oncology
+Clinical genetics
+Italia
+Oncologia medica
+Genetica medica
+Κύπρος
+Ακτινοθεραπευτική Ογκολογία
+Latvija
+Onkoloģija ķīmijterapija
+Medicīnas ģenētika
+Lietuva
+Chemoterapinė onkologija
+Genetika
+Luxembourg
+Oncologie médicale
+Médecine génétique
+Magyarország
+Klinikai onkológia
+Klinikai genetika
+Malta
+Nederland
+Klinische genetica
+Österreich
+Medizinische Genetik
+Polska
+Onkologia kliniczna
+Genetyka kliniczna
+Portugal
+Oncologia médica
+Genética médica
+România
+Oncologie medicala
+Genetica medicala
+Slovenija
+Internistična onkologija
+Klinična genetika
+Slovensko
+Klinická onkológia
+Lekárska genetica
+Suomi/Finland
+Perinnöllisyyslääketiede/ Medicinsk genetik
+Sverige
+United Kingdom
+Medical oncology
+Clinical genetics
 5.1.4. Šeimos gydytojų formalios kvalifikacijos įrodymai
 Valstybė
 Formalios kvalifikacijos įrodymas
 Profesinis vardas
 Atskaitos data
-België/Belgique/ Belgien
+België/Belgique/Belgien
 Ministerieel erkenningsbesluit van huisarts/Arrêté ministériel d'agrément de médecin généraliste
 Huisarts/Médecin généraliste
 1994 m. gruodžio 31 d.
 България
 Свидетелство за призната специалност по Обща медицина
 Лекар-специалист по Обща медицина
-2007 m. sausio 1 d
+2007 m. sausio 1 d.
 Česká republika
 Diplom o specializaci „všeobecné lékařství“
 Všeobecný lékař
 2004 m. gegužės 1 d.
 Danmark
 Tilladelse til at anvende betegnelsen alment praktiserende læge/Speciallægel i almen medicin
-Almen praktiserende læge/ Speciallægel i almen medicin
+Almen praktiserende læge/Speciallæge i almen medicin
 1994 m. gruodžio 31 d.
 Deutschland
-Zeugnis über die spezifische Ausbil- dung in der Allgemeinmedizin
-Facharzt/Fachärztin für Allgemeinme- dizin
+Zeugnis über die spezifische Ausbildung in der Allgemeinmedizin
+Facharzt/Fachärztin für Allgemeinmedizin
 1994 m. gruodžio 31 d.
 Eesti
 Diplom peremeditsiini erialal
@@ -2228,6 +2371,10 @@ France
 Diplôme d'Etat de docteur en médecine (avec document annexé attestant la formation spécifique en médecine générale)
 Médecin qualifié en médecine générale
 1994 m. gruodžio 31 d.
+Hrvatska
+Diploma o specijalističkom usavršavanju
+Specijalist obiteljske medicine
+2013 m. liepos 1 d.
 Ireland
 Certificate of specific qualifications in general medical practice
 General medical practitioner
@@ -2282,18 +2429,18 @@ Medic specialist medicină de familie
 2007 m. sausio 1 d.
 Slovenija
 Potrdilo o opravljeni specializaciji iz družinske medicine
-Specialist družinske medicine/Specia- listka družinske medicine
+Specialist družinske medicine/Specialistka družinske medicine
 2004 m. gegužės 1 d.
 Slovensko
-Diplom o špecializácii v odbore „všeo- becné lekárstvo“
+Diplom o špecializácii v odbore „všeobecné lekárstvo“
 Všeobecný lekár
 2004 m. gegužės 1 d.
 Suomi/ Finland
-Todistus lääkärin perusterveyden- huollon lisäkoulutuksesta/Bevis om tilläggsutbildning av läkare i primär- vård
+Todistus lääkärin perusterveyden- huollon lisäkoulutuksesta/Bevis om tilläggsutbildning av läkare i primärvård
 Yleislääkäri/Allmänläkare
 1994 m. gruodžio 31 d.
 Sverige
-Bevis om kompetens som allmänprak- tiserande läkare (Europaläkare) utfärdat av Socialstyrelsen
+Bevis om kompetens som allmänpraktiserande läkare (Europaläkare) utfärdat av Socialstyrelsen
 Allmänpraktiserande läkare (Europaläkare)
 1994 m. gruodžio 31 d.
 United Kingdom
@@ -2304,8 +2451,23 @@ General medical practitioner
 5.2.1. Bendrosios praktikos slaugytojų rengimo programa
 Profesinio rengimo studijos, kurias baigus įteikiamas formalios kvalifikacijos įrodymas, susideda iš dviejų dalių:
 A. Teorinis mokymas
-a. Slauga: – Profesijos pobūdis ir etika – Bendrieji sveikatos ir slaugos principai – Slaugos principai, susiję su: – bendrąja ir specialiąja medicina – bendrąja ir specialiąja chirurgija – vaiko priežiūra ir pediatrija – nėščiųjų priežiūra – psichikos sveikata ir psichiatrija – senyvo amžiaus žmonių priežiūra ir geriatrija
-b. Pagrindinės mokslo disciplinos: – Anatomija ir fiziologija – Patologija – Bakteriologija, virusologija ir parazitologija – Biofizika, biochemija ir radiologija – Dietologija – Higiena: – profilaktika – sveikatos mokymas – Farmakologija
+a. Slauga: – Profesijos pobūdis ir etika – Bendrieji sveikatos ir slaugos principai – Slaugos principai, susiję su: – bendrąja ir specialiąja medicina
+– bendrąja ir specialiąja chirurgija
+– vaiko priežiūra ir pediatrija
+– neščiųjų priežiūra
+– psichikos sveikata ir psichiatrija
+– senyvo amžiaus žmonių priežiūra ir geriatrija
+b. Pagrindinės mokslo disciplinos: – Anatomija ir fiziologija
+– Patologija
+– Bakteriologija,
+virusologija ir
+parazitologija
+– Biofizika, biochemija ir radiologija
+– Dietologija
+– Higiena:
+– profilaktika
+– sveikatos mokymas
+– Farmakologija
 c. Socialiniai mokslai: – Sociologija – Psichologija – Administravimo principai – Mokymo principai – Socialinės ir sveikatos sričių teisės aktai – Slaugos teisiniai aspektai
 B. Klinikinis mokymas
 – Slauga, susijusi su:
@@ -2319,33 +2481,26 @@ B. Klinikinis mokymas
 Vienas ar daugiau šių dalykų gali būti įtraukta į kitus dėstomuosius dalykus arba mokoma kartu su jais.
 Teorinis mokymas turi būti pagrindinis ir derinamas su klinikiniu mokymu taip, kad būtų įgyjamos atitinkamos šiame priede minimos žinios ir įgūdžiai.
 5.2.2. Bendrosios praktikos slaugytojų formalios kvalifikacijos įrodymai
-1979
-1979
-1979
-1979
 Valstybė
 Formalios kvalifikacijos įrodymas
 Kvalifikacijos įrodymą išduodanti institucija
 Profesinis vardas
 Atskaitos data
 België/ Belgique/ Belgien
-– Diploma gegradueerde verpleger/verpleegster/Diplôme d'infirmier(ère) gradué(e)/Diplom eines (einer) graduierten Krankenpflegers (-pflegerin) – Diploma in de ziekenhuisver- pleegkunde/Brevet d'infirmier(ère) hospitalier(ère)/ Brevet eines (einer) Krankenp- flegers (-pflegerin) – Brevet van verpleegassistent(e)/ Brevet d'hospita-lier(ère)/Brevet einer Pflegeassistentin
+– Diploma gegradueerde verpleger/verpleegster/ Diplôme d'infirmier(ère) gradué(e)/Diplom eines (einer) graduierten Krankenpflegers (-pflegerin) – Diploma in de ziekenhuisver- pleegkunde/Brevet d'infirmier(ère) hospitalier(ère)/ Brevet eines (einer) Krankenp- flegers (-pflegerin) – Brevet van verpleegassistent(e)/ Brevet d'hospita-lier(ère)/Brevet einer Pflegeassistentin
 – De erkende opleidingsinstituten/ Les établissements d'enseignement reconnus/Die anerkannten Ausbildungsanstalten – De bevoegde Examencommissie van de Vlaamse Gemeenschap/ Le Jury compétent 'enseignement de la Communauté française/Der zuständige Prüfungsausschüß der Deutschsprachigen Gemeinschaft
-– Hospitalier(ère)/ Verpleegassistent(e) – Infirmier(ère) hospitalier(ère)/ Ziekenhuisverpleger (-verpleegster)
+– Hospitalier(ère)/ Verpleegassis-tent(e) – Infirmier(ère) hospitalier(ère)/ Ziekenhuisver-pleger (-verpleegster)
 1979 m. birželio 29 d.
 България
-Диплома за висше образование на образователно-квалификационна степен "Бакалавър" с професионална квалификация "Медицинска сестра"
+Диплома за висше образование на образователно-квалификационна степен „Бакалавър“ с професионална квалификация „Медицинска сестра“
 Университет
 Медицинска сестра
 2007 m. sausio 1 d.
 Česká republika
-1. Diplom o ukončení studia ve studijním programu ošetřovatelství ve studijním oboru všeobecná sestra (bakalář, Bc.), prie jo pridedamas šis sertifikatas: Vysvědčení o státní závěrečné zkoušce
-1. Vysoká škola zřízená nebo uznaná státem
-1. Všeobecná sestra
+1. Diplom o ukončení studia ve studijním programu ošetřovatelství ve studijním oboru všeobecná sestra (bakalář, Bc.), prie jo pridedamas šis sertifikatas: Vysvědčení o státní závěrečné zkoušce 2. Diplom o ukončení studia ve studijním oboru diplomovaná všeobecná sestra (diplomovaný specialista, DiS.), prie jo pridedamas šis sertifikatas: Vysvědčení o absolutoriu
+1. Vysoká škola zřízená nebo uznaná státem 2. Vyšší odborná škola zřízená nebo uznaná státem
+1. Všeobecná sestra 2. Všeobecný ošetřovatel
 2004 m. gegužės 1 d.
-2. Diplom o ukončení studia ve studijním oboru diplomovaná všeobecná sestra (diplomovaný specialista, DiS.), prie jo pridedamas šis sertifikatas: Vysvědčení o absolutoriu
-2. Vyšší odborná škola zřízená nebo uznaná státem
-2. Všeobecný ošetřovatel
 Danmark
 Eksamensbevis efter gennemført sygeplejerskeuddannelse
 Sygeplejeskole godkendt af Under- visningsministeriet
@@ -2354,7 +2509,7 @@ Sygeplejerske
 Deutsch-land
 Zeugnis über die staatliche Prüfung in der Krankenpflege
 Staatlicher Prüfungsausschuss
-Gesundheits- und Krankenpfle- gerin/Gesundheits- und Krankenpfleger
+Gesundheits- und Krankenpflegerin/Gesundheits- und Krankenpfleger
 1979 m. birželio 29 d.
 Eesti
 Diplom õe erialal
@@ -2362,20 +2517,10 @@ Diplom õe erialal
 õde
 2004 m. gegužės 1 d.
 Ελλάς
-1. Πτυχίο Νοσηλευτικής Παν/µίου Αθηνών
-1. Πανεπιστήµιο Αθηνών
+1. Πτυχίο Νοσηλευτικής Παν/µίου Αθηνών 2. Πτυχίο Νοσηλευτικής Τεχνολο- γικών Εκπαιδευτικών Ιδρυµάτων (Τ.Ε.Ι.) 3. Πτυχίο Αξιωµατικών Νοσηλευ- τικής 4. Πτυχίο Αδελφών Νοσοκόµων πρώην Ανωτέρων Σχολών Υπουρ- γείου Υγείας και Πρόνοιας 5. Πτυχίο Αδελφών Νοσοκόµων και Επισκεπτριών πρώην Ανωτέρων Σχολών Υπουργείου Υγείας και Πρόνοιας 6. Πτυχίο Τµήµατος Νοσηλευτικής
+1. Πανεπιστήµιο Αθηνών 2. Τεχνολογικά Εκπαιδευτικά Ιδρύµατα Υπουργείο Εθνικής Παιδείας και Θρησκευµάτων 3. Υπουργείο Εθνικής 'Αµυνας 4. Υπουργείο Υγείας και Πρόνοιας 5. Υπουργείο Υγείας και Πρόνοιας 6. ΚΑΤΕΕ Υπουργείου Εθνικής Παιδείας και Θρησκευµάτων
 ∆ιπλωµατούχος ή πτυχιούχος νοσο- κόµος, νοσηλευτής ή νοσηλεύτρια
 1981 m. sausio 1 d.
-2. Πτυχίο Νοσηλευτικής Τεχνολο- γικών Εκπαιδευτικών Ιδρυµάτων (Τ.Ε.Ι.)
-2. Τεχνολογικά Εκπαιδευτικά Ιδρύµατα Υπουργείο Εθνικής Παιδείας και Θρησκευµάτων
-3. Πτυχίο Αξιωµατικών Νοσηλευ- τικής
-3. Υπουργείο Εθνικής 'Αµυνας
-4. Πτυχίο Αδελφών Νοσοκόµων πρώην Ανωτέρων Σχολών Υπουρ- γείου Υγείας και Πρόνοιας
-4. Υπουργείο Υγείας και Πρόνοιας
-5. Πτυχίο Αδελφών Νοσοκόµων και Επισκεπτριών πρώην Ανωτέρων Σχολών Υπουργείου Υγείας και Πρόνοιας
-5. Υπουργείο Υγείας και Πρόνοιας
-6. Πτυχίο Τµήµατος Νοσηλευτικής
-6. ΚΑΤΕΕ Υπουργείου Εθνικής Παιδείας και Θρησκευµάτων
 España
 Título de Diplomado universitario en Enfermería
 – Ministerio de Educación y Cultura – El rector de una universidad
@@ -2385,12 +2530,17 @@ France
 – Diplôme d'Etat d'infirmier(ère) – Diplôme d'Etat d'infirmier(ère) délivré en vertu du décret no 99-1147 du 29 décembre 1999
 Le ministère de la santé
 Infirmer(ère)
-m. birželio 29 d.
+1979 m. birželio 29 d.
+Hrvatska
+1. Svjedodžba „medicinska sestra opće njege/ medicinski tehničar opće njege“ 2. Svjedodžba „prvostupnik (baccalaureus) sestrinstva/prvostupnica (baccalaurea) sestrinstva“
+1. Srednje strukovne škole koje izvode program za stjecanje kvalifikacije „medicinska sestra opće njege/medicinski tehničar opće njege“ 2. Medicinski fakulteti sveučilišta u Republici Hrvatskoj Sveučilišta u Republici Hrvatskoj Veleučilišta u Republici Hrvatskoj
+1. Medicinska sestra opće njege/medicinski tehničar opće njege 2. Prvostupnik (baccalaureus) sestrinstva/ prvostupnica (baccalaurea) sestrinstva
+2013 m. liepos 1 d.
 Ireland
 Certificate of Registered General Nurse
 An Bord Altranais (The Nursing Board)
 Registered General Nurse
-m. birželio 29 d.
+1979 m. birželio 29 d.
 Italia
 Diploma di infermiere professionale
 Scuole riconosciute dallo Stato
@@ -2402,76 +2552,54 @@ Infermiere professionale
 Εγγεγραµµένος Νοσηλευτής
 2004 m. gegužės 1 d.
 Latvija
-1. Diploms par māsas kvalifikācijas iegūšanu
-1. Māsu skolas
+1. Diploms par māsas kvalifikācijas iegūšanu 2. Māsas diploms
+1. Māsu skolas 2. Universitātes tipa augstskola pamatojoties uz Valsts eksāmenu komisijas lēmumu
 Māsa
 2004 m. gegužės 1 d.
-2. Māsas diploms
-2. Universitātes tipa augstskola pamatojoties uz Valsts eksāmenu komisijas lēmumu
 Lietuva
-1. Aukštojo mokslo diplomas, nurodantis suteiktą bendrosios praktikos slaugytojo profesinę kvalifikaciją
-1. Universitetas
+1. Aukštojo mokslo diplomas, nurodantis suteiktą bendrosios praktikos slaugytojo profesinę kvalifikaciją 2. Aukštojo mokslo diplomas (neuniversitetinės studijos), nurodantis suteiktą bendrosios praktikos slaugytojo profesinę kvalifikaciją
+1. Universitetas 2. Kolegija
 Bendrosios praktikos slaugytojas
 2004 m. gegužės 1 d.
-2. Aukštojo mokslo diplomas (neuniversitetinės studijos), nurodantis suteiktą bendrosios praktikos slaugytojo profesine kvalifikaciją
-2. Kolegija
 Luxem-bourg
 – Diplôme d'Etat d'infirmier – Diplôme d'Etat d'infirmier hospitalier gradué
 Ministère de l'éducation nationale, de la formation professionnelle et des sports
 Infirmier
 1979 m. birželio 29 d.
 Magya-rország
-1. Ápoló bizonyítvány
-1. Iskola
+1. Ápoló bizonyítvány 2. Diplomás ápoló oklevél 3. Egyetemi okleveles ápoló oklevél
+1. Iskola 2. Egyetem/főiskola 3. Egyetem
 Ápoló
 2004 m. gegužės 1 d.
-2. Diplomás ápoló oklevél
-2. Egyetem/főiskola
-3. Egyetemi okleveles ápoló oklevél
-3. Egyetem
 Malta
 Lawrja jew diploma fl-istudji talinfermerija
 Universita´ ta' Malta
 Infermier Registrat tal-Ewwel Livell
 2004 m. gegužės 1 d.
-Nederland
-1. Diploma's verpleger A, verpleegster A, verpleegkundige A
-1. Door een van overheidswege benoemde examencommissie
+Neder-land
+1. Diploma's verpleger A, verpleegster A, verpleegkundige A 2. Diploma verpleegkundige MBOV (Middelbare Beroepsopleiding Verpleegkundige) 3. Diploma verpleegkundige HBOV (Hogere Beroepsopleiding Verpleegkundige) 4. Diploma beroepsonderwijs verpleegkundige – Kwalificatieniveau 4 5. Diploma hogere beroepsopleiding verpleegkundige – Kwalificatieniveau 5
+1. Door een van overheidswege benoemde examencommissie 2. Door een van overheidswege benoemde examencommissie 3. Door een van overheidswege benoemde examencommissie 4. Door een van overheidswege aangewezen opleidingsinstelling 5. Door een van overheidswege aangewezen opleidingsinstelling
 Verpleegkundige
 1979 m. birželio 29 d.
-2. Diploma verpleegkundige MBOV (Middelbare Beroepsopleiding Verpleegkundige)
-2. Door een van overheidswege benoemde examencommissie
-3. Diploma verpleegkundige HBOV (Hogere Beroepsopleiding Verpleegkundige)
-3. Door een van overheidswege benoemde examencommissie
-4. Diploma beroepsonderwijs verpleegkundige – Kwalificatieniveau 4
-4. Door een van overheidswege aangewezen opleidingsinstelling
-5. Diploma hogere beroepsopleiding verpleegkundige – Kwalificatieniveau 5
-5. Door een van overheidswege aangewezen opleidingsinstelling
 Österreich
-1. Diplom als „Diplomierte Gesundheits- und Krankenschwester, Diplomierter Gesund- heits- und Krankenpfleger“
-1. Schule für allgemeine Gesund- heits- und Krankenpflege
+1. Diplom als „Diplomierte Gesundheits- und Krankenschwester, Diplomierter Gesund- heits- und Krankenpfleger“ 2. Diplom als „Diplomierte Krankenschwester, Diplomierter Krankenpfleger“
+1. Schule für allgemeine Gesundheits- und Krankenpflege 2. Allgemeine Krankenpflegeschule
 – Diplomierte Krankenschwester – Diplomierter Krankenpfleger
-1994 m. sausio1 d.
-2. Diplom als „Diplomierte Krankenschwester, Diplomierter Krankenpfleger“
-2. Allgemeine Krankenpflegeschule
+1994 m. sausio 1 d.
 Polska
 Dyplom ukończenia studiów wyższych na kierunku pielęgniarstwo z tytułem „magister pielęgniarstwa“
-Instytucja prowadząca kształcenie na poziomie wyższym uznana przez właściwe władze (Higher educational institution recognised by the competent authorities)
+Instytucja prowadząca kształcenie na poziomie wyższym uznana przez właściwe władze (Higher educational institution recognized by the competent authorities)
 Pielegniarka
 2004 m. gegužės 1 d.
 Portugal
-1. Diploma do curso de enfer- magem geral
-1. Escolas de Enfermagem
+1. Diploma do curso de enfermagem geral 2. Diploma/carta de curso de bacharelato em enfermagem 3. Carta de curso de licenciatura em enfermagem
+1. Escolas de Enfermagem 2. Escolas Superiores de Enfermagem 3. Escolas Superiores de Enfermagem; Escolas Superiores de Saúde
 Enfermeiro
 1986 m. sausio 1 d.
-2. Diploma/carta de curso de bacharelato em enfermagem
-2. Escolas Superiores de Enfermagem
-3. Carta de curso de licenciatura em enfermagem
-3. Escolas Superiores de Enfermagem; Escolas Superiores de Saúde
 România
 1. Diplomă de absolvire de asistent medical generalist cu studii superioare de scurtă durată
 1. Universităţi
-asistent medical generalist
+Asistent medical generalist
 2007 m. sausio 1 d.
 2. Diplomă de licenţă de asistent medical generalist cu studii superioare de lungă durată
 2. Universităţi
@@ -2480,22 +2608,21 @@ Diploma, s katero se podeljuje strokovni naslov „diplomirana medicinska sestra
 1. Univerza 2. Visoka strokovna šola
 Diplomirana medicinska sestra/ Diplomirani zdravstvenik
 2004 m. gegužės 1 d.
-Srovensko
-1. Vysokoškolský diplom o udelení akademického titulu „magister z ošetrovateľstva“ („Mgr.“)
-1. Vysoká škola
+Valstybė
+Formalios kvalifikacijos įrodymas
+Kvalifikacijos įrodymą išduodanti institucija
+Kvalifikacijos pavadinimas
+Atskaitos data
+Slovensko
+1. Vysokoškolský diplom o udelení akademického titulu „magister z ošetrovateľstva“ („Mgr.“) 2. Vysokoškolský diplom o udelení akademického titulu „bakalár z ošetrovateľstva“ („Bc.“) 3. Absolventský diplom v študijnom odbore diplomovaná všeobecná sestra
+1. Vysoká škola 2. Vysoká škola 3. Stredná zdravotnícka škola
 Sestra
 2004 m. gegužės 1 d.
-2. Vysokoškolský diplom o udelení akademického titulu „bakalár z ošetrovateľstva“ („Bc.“)
-2. Vysoká škola
-3. Absolventský diplom v študijnom odbore diplomovaná všeobecná sestra
-3. Stredná zdravotnícka škola
 Suomi/ Finland
-1. Sairaanhoitajan tutkinto/Sjuks- kötarexamen
-1. Terveydenhuolto-oppilaitokset/ Hälsovårdsläroans-talter
+1. Sairaanhoitajan tutkinto/Sjuks- kötarexamen 2. Sosiaali- ja terveysalan ammattikorkeakou-lututkinto, sairaanhoitaja (AMK)/Yrkeshögs-koleexamen inom hälsovård och det sociala området, sjukskötare (YH)
+1. Rerveydenhuolto- oppilaitokset/ Hälsovårdsläroans-talter 2. Ammattikorkeakoulut/ /Yrkeshögskolor
 Sairaanhoitaja/ Sjukskötare
 1994 m. sausio 1 d.
-2. Sosiaali- ja terveysalan ammattikorkeakou-lututkinto, sairaanhoitaja (AMK)/Yrkeshögs-koleexamen inom hälsovård och det sociala området, sjukskötare (YH)
-2. Ammattikorkeakoulut/ Yrkeshögskolor
 Sverige
 Sjuksköterskeexamen
 Universitet eller högskola
@@ -2520,12 +2647,12 @@ Pažymėjimas, išduotas kartu su kvalifikacijos įrodymu
 Profesinis vardas
 Atskaitos data
 België/ Belgique/ Belgien
-Diploma van tandarts/ Diplôme licencié en science dentaire
+Diploma van tandarts/Diplôme licencié en science dentaire
 – De universiteiten/ Les universités – De bevoegde Examen- commissie van de Vlaamse Gemeenschap/ Le Jury compétent d'enseignement de la Communauté française
 Licentiaat in de tandheel- kunde/ Licencié en science dentaire
 2008 m. sausio 28 d.
 България
-Диплома за висше образование на образователно квалификационна степен "Магистър" по "Дентална медицина" с професионална квалификация "Магистър-лекар по дентална медицина"
+Диплома за висше образование на образователно квалификационна степен „Магистър“ по „Дентална медицина“ с професионална квалификация „Магистър-лекар по дентална медицина“
 Факултет по дентална медицина към Медицински университет
 Лекар по дентална медицина
 2007 m. sausio 1 d.
@@ -2536,8 +2663,8 @@ Vysvědčení o státní rigorózní zkoušce
 Zubní lékař
 2004 m. gegužės 1 d.
 Danmark
-Bevis for tandlægeeksamen (odontologisk kandidatek- samen)
-Tandlægehøjsko-lerne, Sundhedsvidens-kabeligt universitetsfakultet
+Bevis for tandlægeeksamen (odontologisk kandidateksamen)
+Tandlægehøjs-kolerne, Sundhedsvidens-kabeligt universitetsfa-kultet
 Autorisation som tandlæge, udstedt af Sundhedssty-relsen
 Tandlæge
 1980 m. sausio 28 d.
@@ -2547,7 +2674,7 @@ Zuständige Behörden
 Zahnarzt
 1980 m. sausio 28 d.
 Eesti
-Diplom hambaarstitea-duse õppekava läbimise kohta
+Diplom hambaarstiteaduse õppekava läbimise kohta
 Tartu Ülikool
 Hambaarst
 2004 m. gegužės 1 d.
@@ -2566,6 +2693,11 @@ Diplôme d'Etat de docteur en chirurgie dentaire
 Universités
 Chirurgien-dentiste
 1980 m. sausio 28 d.
+Hrvatska
+Diploma „doktor dentalne medicine/ doktorica dentalne medicine“
+Fakulteti sveučilišta u Republici Hrvatskoj
+Doktor dentalne medicine/ doktorica dentalne medicine
+2013 m. liepos 1 d.
 Ireland
 – Bachelor in Dental Science (B.Dent.Sc.) – Bachelor of Dental Surgery (BDS) – Licentiate in Dental Surgery (LDS)
 – Universities – Royal College of Surgeons in Ireland
@@ -2591,7 +2723,7 @@ Zobārsts
 Lietuva
 Aukštojo mokslo diplomas, nurodantis suteiktą gydytojo odontologo kvalifikaciją
 Universitetas
-Internatūros pažymėjimas, nurodantis suteiktą gydytojo odon- tologo profesinę kvalifikaciją
+Internatūros pažymėjimas, nurodantis suteiktą gydytojo odontologo profesinę kvalifikaciją
 Gydytojas odontologas
 2004 m. gegužės 1 d.
 Luxem-bourg
@@ -2615,14 +2747,14 @@ Faculteit Tandheelkunde
 Tandarts
 1980 m. sausio 28 d.
 Österreich
-Bescheid über die Verlei- hung des akademischen Grades „Doktor der Zahn- heilkunde“
+Bescheid über die Verlei- hung des akademischen Grades „Doktor der Zahnheilkunde“
 Medizinische Fakultät der Universität
 Zahnarzt
 1994 m. sausio 1 d.
 Polska
 Dyplom ukończenia studiów wyższych z tytułem „lekarz dentysta“
 1. Akademia Medyczna, 2. Uniwersytet Medyczny, 3. Collegium Medicum Uniwersytetu Jagiellońskiego
-Lekarsko – Dentystyczny Egzamin Państwowy
+Lekarsko – Dentystycz-ny Egzamin Państwowy
 Lekarz dentysta
 2004 m. gegužės 1 d.
 Portugal
@@ -2636,10 +2768,10 @@ Universităţi
 medic dentist
 2003 m. spalio 1 d.
 Slovenija
-Diploma, s katero se podeljuje strokovni naslov „doktor dentalne medicine/ doktorica dentalne medi- cine“
+Diploma, s katero se podeljuje strokovni naslov „doktor dentalne medicine/ doktorica dentalne medicine“
 – Univerza
 Potrdilo o opravljenem strokovnem izpitu za poklic zobozdravnik/ zobozdravnica
-Doktor dentalne medicine/ Doktorica dentalne medi- cine
+Doktor dentalne medicine/ Doktorica dentalne medicine
 2004 m. gegužės 1 d.
 Slovensko
 Vysokoškolský diplom o udelení akademického titulu „doktor zubného lekárstva“ („MDDr.“)
@@ -2647,15 +2779,15 @@ Vysokoškolský diplom o udelení akademického titulu „doktor zubného lekár
 Zubný lekár
 2004 m. gegužės 1 d.
 Suomi/ Finland
-Hammaslääketie-teen lisensiaatin tutkinto/ Odonto- logie licentiatexamen
+Hammaslääketie-teen lisensiaatin tutkinto/Odonto- logie licentiatexamen
 – Helsinginy-liopisto/ Helsingfors universitet – Oulun yliopisto – Turun yliopisto
-Terveydenhuol-lon oikeusturvakeskuksen päätös käytännön palvelun hyväksymi- sestä/ Beslut av Rätts- kyddscentralen för hälsovården om godkännande av praktisk tjänstgöring
-Hammaslääkäri/Tandläkare
+Terveyden-huollon oikeusturvakeskuksen päätös käytännön palvelun hyväksymi- sestä/Beslut av Rätts- kyddscentralen för hälsovården om godkännande av praktisk tjänstgöring
+Hammaslää-käri/Tandlä-kare
 1994 m. sausio 1 d.
 Sverige
 Tandläkarexamen
 – Universitetet i Umeå – Universitetet i Göteborg – Karolinska Institutet – Malmö Högskola
-Endast för examensbevis som erhållits före den 1 juli 1995, ett utbildningsbe-vis som utfärdats av Socialstyrelsen
+Endast för examensbevis som erhållits före den 1 juli 1995, ett utbildningsbe-vis som utfärdats av Socialstyrel-sen
 Tandläkare
 1994 m. sausio 1 d.
 United Kingdom
@@ -2671,10 +2803,10 @@ Kvalifikacijos įrodymą išduodanti institucija
 Atskaitos data
 België/Belgique/ Belgien
 Titre professionnel particulier de dentiste spécialiste en orthodontie/Bijzondere beroepstitel van tandarts specialist in de orthodontie
-Ministre de la Santé publique/ Minister bevoegd voor Volksgezondheid
+Ministre de la Santé publique/Minister bevoegd voor Volksgezondheid
 2005 m. sausio 27 d.
 България
-Свидетелство за призната специалност по "Ортодонтия"
+Свидетелство за призната специалност по „Ортодонтия“
 Факултет по дентална медицина към Медицински университет
 2007 m. sausio 1 d.
 Danmark
@@ -2706,7 +2838,7 @@ Diploma di specialista in Ortognatodonzia
 Università
 2005 m. gegužės 21 d.
 Κύπρος
-Πιστοποιητικό Αναγνώρισης του Ειδικού Οδον- τιάτρου στην Ορθοδοντική
+Πιστοποιητικό Αναγνώρισης του Ειδικού Οδοντιάτρου στην Ορθοδοντική
 Οδοντιατρικό Συµβούλιο
 2004 m. gegužės 1 d.
 Latvija
@@ -2755,7 +2887,7 @@ Formalios kvalifikacijos įrodymas
 Kvalifikacijos įrodymą išduodanti institucija
 Atskaitos data
 България
-Свидетелство за призната специалност по "Орална хирургия"
+Свидетелство за призната специалност по „Орална хирургия“
 Факултет по дентална медицина към Медицински университет
 2007 m. sausio 1 d.
 Danmark
@@ -2788,15 +2920,15 @@ Universitetas
 2004 m. gegužės 1 d.
 Magyarország
 Dento-alveoláris sebészet szakorvosa bizonyítvány
-Az Egészségügyi, Szociális és Csalá- dügyi Minisztérium illetékes testülete
+Az Egészségügyi, Szociális és Családügyi Minisztérium illetékes testülete
 2004 m. gegužės 1 d.
 Malta
-Ċertifikat ta' speċjalista dentali fil- Kirurġija tal-ħalq
+Ċertifikat ta' speċjalista dentali fil-Kirurġija tal-ħalq
 Kumitat ta' Approvazzjoni dwar Speċjalisti
 2004 m. gegužės 1 d.
 Nederland
 Bewijs van inschrijving als kaakchirurg in het Specialistenregister
-Specialisten Registratie Commissie (SRC) van de Nederlandse Maats- chappij tot bevordering der Tandheel- kunde
+Specialisten Registratie Commissie (SRC) van de Nederlandse Maatschappij tot bevordering der Tandheelkunde
 1980 m. sausio 28 d.
 Polska
 Dyplom uzyskania tytułu specjalisty w dziedzinie chirurgii stomatologicznej
@@ -2807,11 +2939,11 @@ Potrdilo o opravljenem specialističnem izpitu iz oralne kirurgije
 1. Ministrstvo za zdravje 2. Zdravniška zbornica Slovenije
 2004 m. gegužės 1 d.
 Suomi/ Finland
-Erikoishammaslääkärin tutkinto, suuja leuka-kirurgia/Specialtandläkar- examen, oral och maxillofacial kirurgi
-– Helsinginyliopisto/ Helsingfors universitet – Oulun yliopisto – Turun yliopisto
+Erikoishammaslääkärin tutkinto, suuja leukakirurgia/Specialtandläkar- examen, oral och maxillofacial kirurgi
+– Helsinginyliopisto/Helsingfors universitet – Oulun yliopisto – Turun yliopisto
 1994 m. sausio 1 d.
 Sverige
-Bevis om specialist-kompetens i tand- systemets kirurgiska sjukdomar
+Bevis om specialist-kompetens i tandsystemets kirurgiska sjukdomar
 Socialstyrelsen
 1994 m. sausio 1 d.
 United Kingdom
@@ -2830,9 +2962,9 @@ A. Pagrindiniai dalykai
 – Biomatematika
 B. Specifiniai dalykai
 a. Pagrindiniai mokslai: – Anatomija (įskaitant histologiją ir embriologiją) – Fiziologija – Biochemija – Genetika – Farmakologija – Farmacija – Toksikologija – Mikrobiologija – Imunologija – Epidemiologija – Profesinė etika
-b. Klinikiniai mokslai: c. – Akušerija – Patologija (įskaitant patologinę anatomiją) – Parazitologija – Klinikinė medicina ir chirurgija (įskaitant anesteziologiją) – Paskaitos apie įvairių naminių gyvūnų, paukščių ir kitų gyvūnų rūšių ligas – Profilaktinė medicina – Radiologija – Reprodukcija ir reprodukcijos sutrikimai – Valstybinė veterinarija ir visuomenės sveikata – Veterinarijos teisės aktai ir teismo medicina – Terapija – Propedeutika
-Gyvūnų auginimas – Gyvūnų auginimas – Gyvūnų šėrimas – Agronomija – Kaimo ekonomika – Gyvulininkystė – Veterinarinė higiena – Gyvūnų etologija ir apsauga
-d. Maisto higiena – Gyvūninių maisto produktų ar gyvūninės kilmės maisto produktų tikrinimas ir kontrolė – Maisto higiena ir technologija – Praktinis darbas (įskaitant praktinį darbą vietose, kur skerdžiami gyvūnai ir gaminami maisto produktai)
+b. Klinikiniai mokslai: – Akušerija – Patologija (įskaitant patologinę anatomiją) – Parazitologija – Klinikinė medicina ir chirurgija (įskaitant anesteziologiją) – Paskaitos apie įvairių naminių gyvūnų, paukščių ir kitų gyvūnų rūšių ligas – Profilaktinė medicina – Radiologija – Reprodukcija ir reprodukcijos sutrikimai – Valstybinė veterinarija ir visuomenės sveikata – Veterinarijos teisės aktai ir teismo medicina – Terapija – Propedeutika
+c. Gyvūnų auginimas: – Gyvūnų auginimas – Gyvūnų šėrimas – Agronomija – Kaimo ekonomika – Gyvulininkystė – Veterinarinė higiena – Gyvūnų etologija ir apsauga
+d. Maisto higiena: – Gyvūninių maisto produktų ar gyvūninės kilmės maisto produktų tikrinimas ir kontrolė – Maisto higiena ir technologija – Praktinis darbas (įskaitant praktinį darbą vietose, kur skerdžiami gyvūnai ir gaminami maisto produktai)
 Praktinis rengimas gali vykti tam tikrą rengimo laikotarpį, jei tai dieninės formos studijos, kurias tiesiogiai kontroliuoja kompetentinga institucija, ir jų trukmė neviršija šešių mėnesių per visą penkerių metų studijų laikotarpį.
 Teorinio ir praktinio rengimo paskirstymas įvairių dalykų grupėse gretinamas ir derinamas taip, kad būtų tinkamu būdu įgyjamos žinios ir patirtis, kurios padėtų veterinarijos gydytojams atitinkamai vykdyti visas savo pareigas.
 5.4.2. Veterinarijos gydytojų formalios kvalifikacijos įrodymai
@@ -2843,7 +2975,7 @@ Pažymėjimas, išduotas kartu su kvalifikacijos įrodymu
 Atskaitos data
 België/ Belgique/ Belgien
 Diploma van dierenarts/Diplôme de docteur en médecine vétérinaire
-– De universiteiten/ Les universités – De bevoegde Examen- commissie van de Vlaamse Gemeenschap/Le Jury compé- tent d'enseignement de la Communauté française
+– De universiteiten/ Les universités – De bevoegde Examen- commissie van de Vlaamse Gemeenschap/Le Jury compétent d'enseignement de la Communauté française
 1980 m. sausio 28 d.
 България
 Диплома за висше образование на образователно-квалификационна степен магистър по специалност Ветеринарна медицина с професионална квалификация Ветеринарен лекар
@@ -2855,11 +2987,11 @@ Veterinární fakulta univerzity v České republice
 2004 m. gegužės 1 d.
 Danmark
 Bevis for bestået kandidateksamen i veterinærvidenskab
-Kongelige Veterinær- og Land- bohøjskole
+Kongelige Veterinær- og Landbohøjskole
 1980 m. gruodžio 21 d.
 Deutsch-land
 Zeugnis über das Ergebnis des Dritten Abscnitts der Tierärztlichen Prüfung und das Gesamtergebnis der Tierärztlichen Prüfung
-Der Vorsitzende des Prüfungsauss- chusses für die Tierärztliche Prüfung einer Universität oder Hochschule
+Der Vorsitzende des Prüfungsausschusses für die Tierärztliche Prüfung einer Universität oder Hochschule
 1980 m. gruodžio 21 d.
 Eesti
 Diplom: täitnud veterinaarmeditsiini õppekava
@@ -2874,8 +3006,12 @@ Título de Licenciado en Veterinaria
 – Ministerio de Educación y Cultura – El rector de una universidad
 1986 m. sausio 1 d.
 France
-Diplôme d'Etat de docteur vétéri- naire
+Diplôme d'Etat de docteur vétérinaire
 1980 m. gruodžio 21 d.
+Hrvatska
+Diploma „doktor veterinarske medicine/ doktorica veterinarske medicine“
+Veterinarski fakultet Sveučilišta u Zagrebu
+2013 m. liepos 1 d.
 Ireland
 – Diploma of Bachelor in/of Veterinary Medicine (MVB) – Diploma of Membership of the Royal College of Veterinary Surgeons (MRCVS)
 1980 m. gruodžio 21 d.
@@ -2902,7 +3038,7 @@ Jury d'examen d'Etat
 1980 m. gruodžio 21 d.
 Magyaror-szág
 Állatorvos doktor oklevél – dr. med. vet.
-Szent István Egyetem Állatorvos- tudományi Kar
+Szent István Egyetem Állatorvostudományi Kar
 2004 m. gegužės 1 d.
 Malta
 Liċenzja ta' Kirurgu Veterinarju
@@ -2938,7 +3074,7 @@ Vysokoškolský diplom o udelení akademického titulu „doktor veterinárskej 
 Univerzita veterinárskeho lekárstva
 2004 m. gegužės 1 d.
 Suomi/ Finland
-Eläinlääketieteen lisensiaatin tutkinto/Veterinärmedicine licentiatexamen
+Eläinlääketieteen lisensiaatin tutkinto/Veterinärmedici-ne licentiatexamen
 Helsingin yliopisto/Helsingfors universitet
 1994 m. sausio 1 d.
 Sverige
@@ -2946,25 +3082,15 @@ Veterinärexamen
 Sveriges Lantbruksuniversitet
 1994 m. sausio 1 d.
 United Kingdom
-1. Bachelor of Veterinary Science(BVSc)
-1. University of Bristol
+1. Bachelor of Veterinary Science (BVSc) 2. Bachelor of Veterinary Science (BVSc) 3. Bachelor of Veterinary Medicine (BvetMB) 4. Bachelor of Veterinary Medicine and Surgery (BVM&S) 5. Bachelor of Veterinary Medicine and Surgery (BVM&S) 6. Bachelor of Veterinary Medicine (BvetMed)
+1. University of Bristol 2. University of Liverpool 3. University of Cambridge 4. University of Edinburgh 5. University of Glasgow 6. University of London
 1980 m. gruodžio 21 d.
-2. Bachelor of Veterinary Science (BVSc)
-2. University of Liverpool
-3. Bachelor of Veterinary Medicine (BvetMB)
-3. University of Cambridge
-4. Bachelor of Veterinary Medicine and Surgery (BVM&S)
-4. University of Edinburgh
-5. Bachelor of Veterinary Medicine and Surgery (BVM&S)
-5. University of Glasgow
-6. Bachelor of Veterinary Medicine (BvetMed)
-6. University of London
 5.5. AKUŠERIS
 5.5.1. Akušerių rengimo programa (I ir II rengimo tipai)
 Rengimo programą akušerio formalios kvalifikacijos įrodymui gauti sudaro šios dvi dalys:
 A. Teorinis ir techninis rengimas
 a. Bendrieji dalykai – Anatomijos ir fiziologijos pagrindai – Patologijos pagrindai – Bakteriologijos, virusologijos ir parazitologijos pagrindai – Biofizikos, biochemijos ir radiologijos pagrindai – Pediatrija, ypač susijusi su naujagimiais – Higiena, švietimas sveikatos srityje, profilaktinė medicina, ankstyvoji ligų diagnostika – Sociologijos ir sociomedicinos pagrindai – Farmakologijos pagrindai – Psichologija – Mokymo principai ir metodai – Sveikatos ir socialinės teisės aktai bei sveikatos apsaugos organizavimas – Profesinė etika ir profesinės teisės aktai – Seksualinis auklėjimas ir šeimos planavimas – Motinos ir vaiko teisinė apsauga
-b. Akušerių veiklai budingi dalykai – Anatomija ir fiziologija – Embriologija ir embriono vystymasis – Nėštumas, vaiko gimimas ir laikotarpis po gimdymo – Ginekologija ir akušerinė patologija – Pasirengimas vaiko gimimui ir tėvystei (motinystei), įskaitant psichologinius aspektus – Pasirengimas gimdymui (įskaitant žinias ir techninės įrangos naudojimą akušerijoje) – Nuskausminimas, anestezija ir gaivinimas – Naujagimio fiziologija ir patologija – Rūpinimasis naujagimiu ir jo priežiūra – Psichologiniai ir socialiniai veiksniai
+b. Akušerių veiklai būdingi dalykai – Anatomija ir fiziologija – Embriologija ir embriono vystymasis – Nėštumas, vaiko gimimas ir laikotarpis po gimdymo – Ginekologija ir akušerinė patologija – Pasirengimas vaiko gimimui ir tėvystei (motinystei), įskaitant psichologinius aspektus – Pasirengimas gimdymui (įskaitant žinias ir techninės įrangos naudojimą akušerijoje) – Nuskausminimas, anestezija ir gaivinimas – Naujagimio fiziologija ir patologija – Rūpinimasis naujagimiu ir jo priežiūra – Psichologiniai ir socialiniai veiksniai
 B. Praktinis ir klinikinis rengimas
 Turi būti mokoma, atitinkamai prižiūrint:
 – Patarimai nėščioms moterims, įskaitant ne mažiau nei 100 nėščiųjų sveikatos patikrinimų.
@@ -2991,26 +3117,24 @@ Diploma van vroedvrouw/Diplôme d'accoucheuse
 Vroedvrouw/ Accoucheuse
 1983 m. sausio 23 d.
 България
-Диплома за висше образование на образователно-квалификационна степен "Бакалавър" с професионална квалификация "Акушерка"
+Диплома за висше образование на образователно-квалификационна степен „Бакалавър“ с професионална квалификация „Акушерка“
 Университет
 Акушеркa
 2007 m. sausio 1 d.
 Česká republika
-1. Diplom o ukončení studia ve studijním programu ošetřova- telstvíve studijním oboru porodní asistentka (bakalář, Bc.) – Vysvědčení o státní závěrečné zkoušce
-1. Vysoká škola zřízená nebo uznaná státem
-Porodní asistentka/porodní asistent
+1. Diplom o ukončení studia ve studijním programu ošetřovatelstvíve studijním oboru porodní asistentka (bakalář, Bc.) – Vysvědčení o státní závěrečné zkoušce 2. Diplom o ukončení studia ve studijním oboru diplomovaná porodní asistentka (diplomovaný specialista, DiS.) – Vysvědčení o absolutoriu
+1. Vysoká škola zřízená nebo uznaná státem 2. Vyšší odborná škola zřízená nebo uznaná státem
+Porodní asistentka/ porodní asistent
 2004 m. gegužės 1 d.
-2. Diplom o ukončení studia ve studijním oboru diplomovaná porodní asistentka (diplomovaný specialista, DiS.) – Vysvědčení o absolutoriu
-2. Vyšší odborná škola zřízená nebo uznaná státem
 Danmark
 Bevis for bestået jordemoderek- samen
 Danmarks jordemoderskole
 Jordemoder
 1983 m. sausio 23 d.
 Deutschland
-Zeugnis über die staatliche Prüfung für Hebammen und Entbindungsp- fleger
+Zeugnis über die staatliche Prüfung für Hebammen und Entbindungspfleger
 Staatlicher Prüfungsausschuss
-– Hebamme – Entbindungspfleger
+– Hebamme – Entbindungs- pfleger
 1983 m. sausio 23 d.
 Eesti
 Diplom ämmaemanda erialal
@@ -3018,14 +3142,10 @@ Diplom ämmaemanda erialal
 – Ämmaemand
 2004 m. gegužės 1 d.
 Ελλάς
-1. Πτυχίο Τµήµατος Μαιευτικής Τεχνολογικών Εκπαιδευτικών Ιδρυµάτων (Τ.Ε.Ι.)
-1. Τεχνολογικά Εκπαιδευτικά Ιδρύµατα (Τ.Ε.Ι.)
+1. Πτυχίο Τµήµατος Μαιευτικής Τεχνολογικών Εκπαιδευτικών Ιδρυµάτων (Τ.Ε.Ι.) 2. Πτυχίο του Τµήµατος Μαιών της Ανωτέρας Σχολής Στελεχών Υγείας και Κοινων. Πρόνοιας (ΚΑΤΕΕ) 3. Πτυχίο Μαίας Ανωτέρας Σχολής Μαιών
+1. Τεχνολογικά Εκπαιδευτικά Ιδρύµατα (Τ.Ε.Ι.) 2. ΚΑΤΕΕ Υπουργείου Εθνικής Παιδείας και Θρησκευµάτων 3. Υπουργείο Υγείας και Πρόνοιας
 – Μαία – Μαιευτής
 1983 m. sausio 23 d.
-2. Πτυχίο του Τµήµατος Μαιών της Ανωτέρας Σχολής Στελεχών Υγείας και Κοινων. Πρόνοιας (ΚΑΤΕΕ)
-2. ΚΑΤΕΕ Υπουργείου Εθνικής Παιδείας και Θρησκευµάτων
-3. Πτυχίο Μαίας Ανωτέρας Σχολής Μαιών
-3. Υπουργείο Υγείας και Πρόνοιας
 España
 – Título de Matrona – Título de Asistente obstétrico (matrona) – Título de Enfermería obstétrica- ginecológica
 Ministerio de Educación y Cultura
@@ -3036,6 +3156,11 @@ Diplôme de sage-femme
 L'Etat
 Sage-femme
 1983 m. sausio 23 d.
+Hrvatska
+Svjedodžba „prvostupnik (baccalaureus) primaljstva/ sveučilišna prvostupnica (baccalaurea) primaljstva“
+– Medicinski fakulteti Sveučilišta u Republici Hrvatskoj – Sveučilišta u Republici Hrvatskoj – Veleučilišta i visoke škole u Republici Hrvatskoj
+Prvostupnik (baccalaureus) primaljstva/ prvostupnica (baccalaurea) primaljstva
+2013 m. liepos 1 d.
 Ireland
 Certificate in Midwifery
 An Board Altranais
@@ -3057,15 +3182,13 @@ Māsu skolas
 Vecmāte
 2004 m. gegužės 1 d.
 Lietuva
-1. Aukštojo mokslo diplomas, nurodantis suteiktą bendrosios praktikos slaugytojo profesinę kvalifikaciją, ir profesinės kvalifikacijos pažymėjimas, nurodantis suteiktą akušerio profesinę kvalifikaciją – Pažymėjimas, liudijantis profesinę praktiką akušerijoje
+1. Aukštojo mokslo diplomas, nurodantis suteiktą bendrosios praktikos slaugytojo profesinę kalifikaciją, ir profesinės kvalifikacijos pažymėjimas, nurodantis suteiktą akušerio profesinę kvalifikaciją – Pažymėjimas, liudijantis profesinę praktiką akušerijoje
 1. Universitetas
 Akušeris
 2004 m. gegužės 1 d.
-2. Aukštojo mokslo diplomas (neuniversitetinės studijos), nurodantis suteiktą bendrosios praktikos slaugytojo profesinę kvalifikaciją, ir profesinės kvali- fikacijos pažymėjimas, nurodantis suteiktą akušerio profesinę kvalifikaciją – Pažymėjimas, liudijantis profesinę praktiką akušerijoje
-2. Kolegija
-3. Aukštojo mokslo diplomas (neuniversitetinės studijos), nurodantis suteiktą akušerio profesinę kvalifikaciją
-3. Kolegija
-Luxem-bourg
+2. Aukštojo mokslo diplomas (neuniversitetinės studijos), nurodantis suteiktą bendrosios praktikos slaugytojo profesinę kvalifikaciją, ir profesinės kvali- fikacijos pažymėjimas, nurodantis suteiktą akušerio profesinę kvalifikaciją – Pažymėjimas, liudijantis profesinę praktiką akušerijoje 3. Aukštojo mokslo diplomas (neuniversitetinės studijos), nurodantis suteiktą akušerio profesinę kvalifikaciją
+2. Kolegija 3. Kolegija
+Luxembourg
 Diplôme de sage-femme
 Ministère de l'éducation nationale, de la formation professionnelle et des sports
 Sage-femme
@@ -3076,18 +3199,18 @@ Iskola/főiskola
 Szülésznő
 2004 m. gegužės 1 d.
 Malta
-Lawrja jew diploma fl- Istudji tal-Qwiebel
+Lawrja jew diploma fl- istudji tal-Qwiebel
 Universita´ ta' Malta
 Qabla
 2004 m. gegužės 1 d.
-Neder-land
+Nederland
 Diploma van verloskundige
-Door het Ministerie van Volksge- zondheid, Welzijn en Sport erkende opleidings-instellingen
+Door het Ministerie van Volksgezondheid, Welzijn en Sport erkende opleidings-instellingen
 Verloskundige
 1983 m. sausio 23 d.
 Österreich
 Hebammen-Diplom
-– Hebammenakademie –Bundeshebammen-lehranstalt
+– Hebammenakademie – Bundeshebammen-lehranstalt
 Hebamme
 1994 m. sausio 1 d.
 Polska
@@ -3102,15 +3225,15 @@ Enfermeiro especialista em enfermagem de saúde materna e obstétrica
 1986 m. sausio 1 d.
 2. Diploma/carta de curso de estudos superiores especiali- zados em enfermagem de saúde materna e obstétrica
 2. Escolas Superiores de Enfermagem
-3. Diploma (do curso de pós-licen- ciatura) de especialização em enfermagem de saúde materna e obstétrica
-3. – colas Superiores de Enfermagem – colas Superiores de Saúde
+3. Diploma (do curso de pós-licenciatura) de especialização em enfermagem de saúde materna e obstétrica
+3. – Escolas Superiores de Enfermagem – Escolas Superiores de Saúde
 România
 Diplomă de licenţă de moaşă
 Universităţi
 Moaşă
 2007 m. sausio 1 d.
 Slovenija
-Diploma, s katero se podeljuje stro- kovni naslov „diplomirana babica/ diplomirani babičar“
+Diploma, s katero se podeljuje strokovni naslov „diplomirana babica/ diplomirani babičar“
 1. Univerza 2. Visoka strokovna šola
 diplomirana abica/diplomirani babičar
 2004 m. gegužės 1 d.
@@ -3120,12 +3243,10 @@ Slovensko
 Pôrodná asistentka
 2004 m. gegužės 1 d.
 Suomi/ Finland
-1. Kätilön tutkinto/ barnmorskee- xamen
-1. Terveydenhuoltooppi-laitokset/ hälsovårdsläroanstalter
+1. Kätilön tutkinto/ barnmorskeexamen 2. Sosiaali- ja terveysalan ammatti- korkeakoulututkin-to, kätilö (AMK)/Yrkeshögs-koleexamen inom hälsovård och det sociala området, barnmorska (YH)
+1. Terveydenhuoltoop-pilaitokset/ hälsovårdsläroanstalter 2. Ammattikorkea-koulut/ Yrkeshögskolor
 Kätilö/Barnmorska
 1994 m. sausio 1 d.
-2. Sosiaali- ja terveysalan ammatti- korkeakoulututkinto, kätilö (AMK)/ Yrkeshögs-koleexamen inom hälsovård och det sociala området, barnmorska (YH)
-2. Ammattikorkeakoulut/ Yrkeshögskolor
 Sverige
 Barnmorskeexamen
 Universitet eller högskola
@@ -3161,14 +3282,14 @@ Pažymėjimas, išduotas kartu su kvalifikacijos įrodymu
 Atskaitos data
 België/ Belgique/ Belgien
 Diploma van apotheker/Diplôme de pharmacien
-– De universiteiten/ Les universités – De bevoegde Examencommissie van de Vlaamse Gemeenschap/ Le Jury compétent d'enseignement de la Communauté française
+– De universiteiten/Les universités – De bevoegde Examencommissie van de Vlaamse Gemeenschap/ Le Jury compétent d'enseignement de la Communauté française
 1987 m. spalio 1 d.
 България
-Диплома за висше образование на образователно-квалификационна степен "Магистър" по "Фармация" с професионална квалификация "Магистър-фармацевт"
+Диплома за висше образование на образователно-квалификационна степен „Магистър“ по „Фармация“ с професионална квалификация „Магистър-фармацевт“
 Фармацевтичен факултет към Медицински университет
 2007 m. sausio 1 d.
 Česká republika
-Diplom o ukončení studia ve studijním programu farmacine (magistr, Mgr.)
+Diplom o ukončení studia ve studijním programu farmacie (magistr, Mgr.)
 Farmaceutická fakulta univerzity v České republice
 Vysvědčení o státní závěrečné zkoušce
 2004 m. gegužės 1 d.
@@ -3176,7 +3297,7 @@ Danmark
 Bevis for bestået farmaceutisk kandidateksamen
 Danmarks Farmaceutiske Højskole
 1987 m. spalio 1 d.
-Deutsch-land
+Deutschland
 Zeugnis über die Staatliche Phar- mazeutische Prüfung
 Zuständige Behörden
 1987 m. spalio 1 d.
@@ -3190,21 +3311,25 @@ Tartu Ülikool
 1987 m. spalio 1 d.
 España
 Título de Licenciado en Farmacia
-– Ministerio de Educación y Cultura – El rector de una universidad
+– Ministerio de Educación y Cultura – El rector de una Universidad
 1987 m. spalio 1 d.
 France
 – Diplôme d'Etat de pharmacien – Diplôme d'Etat de docteur en pharmacie
 Universités
 1987 m. spalio 1 d.
+Hrvatska
+Diploma „magistar farmacije/magistra farmacije“
+– Farmaceutsko-biokemijski fakultet Sveučilišta u Zagrebu – Medicinski fakultet Sveučilišta u Splitu – Kemijsko-tehnološki fakultet Sveučilišta u Splitu
+2013 m. liepos 1 d.
 Ireland
-Certificate of Registered Pharma- ceutical Chemist
+Certificate of Registered Pharmaceutical Chemist
 1987 m. spalio 1 d.
 Italia
 Diploma o certificato di abilitazione all'esercizio della professione di farmacista ottenuto in seguito ad un esame di Stato
 Università
 1993 m. lapkričio 1 d.
 Κύπρος
-Πιστοποιητικό Εγγραφής Φαρµακο- ποιού
+Πιστοποιητικό Εγγραφής Φαρµακοποιού
 Συµβούλιο Φαρµακευτικής
 2004 m. gegužės 1 d.
 Latvija
@@ -3215,7 +3340,7 @@ Lietuva
 Aukštojo mokslo diplomas, nurodantis suteiktą vaistininko profesinę kvalifikaciją
 Universitetas
 2004 m. gegužės 1 d.
-Luxem-bourg
+Luxembourg
 Diplôme d'Etat de pharmacien
 Jury d'examen d'Etat + visa du ministre de l'éducation nationale
 1987 m. spalio 1 d.
@@ -3240,7 +3365,7 @@ Dyplom ukończenia studiów wyższych na kierunku farmacja z tytułem magistra
 1. Akademia Medyczna 2. Uniwersytet Medyczny 3. Collegium Medicum Uniwersytetu Jagiellońskiego
 2004 m. gegužės 1 d.
 Portugal
-Carta de curso de licenciatura em Ciências Farmacêuticas
+Carta de cursode licenciatura em Ciências Farmacêuticas
 Universidades
 1987 m. spalio 1 d.
 România
@@ -3250,7 +3375,7 @@ Universităţi
 Slovenija
 Diploma, s katero se podeljuje strokovni naziv „magister farmacije/magistra farmacije“
 Univerza
-Potrdilo o opravljenem strokovnem izpitu za poklic magister farmacije/magistra farmacije
+Potrdilo o opravljenem strokovnem izpitu za poklic magister farmacije/ magistra farmacije
 2004 m. gegužės 1 d.
 Slovensko
 Vysokoškolský diplom o udelení akademického titulu „magister farmácie“ („Mgr.“)
@@ -3275,130 +3400,69 @@ Kvalifikacijos įrodymą išduodanti institucija
 Pažymėjimas, išduotas kartu su kvalifikacijos įrodymu
 Atskaitos akademiniai metai
 België/ Belgique/ Belgien
-1. Architect/Architecte 2. Architect/Architecte 3. Architect 4. Architect/Architecte 5. Architect/Architecte 6. Burgelijke ingenieur-architect
-1. Nationale hogescholen voor architectuur 2. Hogere-architectuur-instituten 3. Provinciaal Hoger Instituut voor Architectuur te Hasselt 4. Koninklijke Academies voor Schone Kunsten 5. Sint-Lucasscholen 6. Faculteiten Toegepaste Wetenschappen van de Universiteiten 6. „Faculté Polytechnique“ van Mons
+1. Architect/Architecte 2. Architect/Architecte 3. Architect 4. Architect/Architecte 5. Architect/Architecte 6. Burgelijke ingenieur-architect 1. Architecte/Architect 2. Architecte/Architect 3. Architect 4. Architecte/Architect 5. Architecte/Architect 6. Ingénieur-civil – architecte
+1. Nationale hogescholen voor architectuur 2. Hogere-architectuur-instituten 3. Provinciaal Hoger Instituut voor Architectuur te Hasselt 4. Koninklijke Academies voor Schone Kunsten 5. Sint-Lucasscholen 6. Faculteiten Toegepaste Wetenschappen van de Universiteiten 6. „Faculté Polytechnique“ van Mons 1. Ecoles nationales supérieures d'architecture 2. Instituts supérieurs d'architecture 3. Ecole provinciale supérieure d'architecture de Hasselt 4. Académies royales des Beaux-Arts 5. Ecoles Saint-Luc 6. Facultés des sciences appliquées des universités 6. Faculté polytechnique de Mons
 1988–1989 m.
-1. Architecte/Architect 2. Architecte/Architect 3. Architect 4. Architecte/Architect 5. Architecte/Architect 6. Ingénieur-civil – architecte
-1. Ecoles nationales supérieures d'architecture 2. Instituts supérieurs d'architecture 3. Ecole provinciale supérieure d'architecture de Hasselt 4. Académies royales des Beaux-Arts 5. Ecoles Saint-Luc 6. Facultés des sciences appliquées des universités 6. Faculté polytechnique de Mons
 Danmark
 Arkitekt cand. arch.
 – Kunstakademiets Arkitektskole København – Arkitektskolen i Århus
-1988– 1989 m.
+1988–1989 m.
 Deutschland
-Diplom-Ingenieur, Diplom-Ingenieur Univ.
-– Universitäten (Architektur/Hochbau) – Technische Hochschulen (Archi- tektur/Hochbau) – Technische Universitäten (Archi- tektur/Hochbau) – Universitäten-Gesamthochschulen (Architektur/Hochbau) – Hochschulen für bildende Künste – Hochschulen für Künste
-1988– 1989 m.
-Diplom-Ingenieur, Diplom-Ingenieur FH
-– Fachhochschulen (Architektur/ Hochbau) (1) – Universitäten-Gesamthochschulen (Architektur/Hochbau) bei entspre-chenden Fachhochschulstudien- gängen (1) Diese Diplome sind je nach Dauer der durch sie abgeschlossenen Ausbildung gemäß Artikel 47 Absatz 1 anzuerkennen
+Diplom-Ingenieur, Diplom-Ingenieur Univ. Diplom-Ingenieur, Diplom-Ingenieur FH
+– Universitäten (Architektur/Hochbau) – Technische Hochschulen (Architektur/ Hochbau) – Technische Universitäten (Architektur/ Hochbau) – Universitäten-Gesamthochschulen (Architektur/Hochbau) – Hochschulen für bildende Künste – Hochschulen für Künste – Fachhochschulen (Architektur/Hochbau) (1) – Universitäten-Gesamthochschulen (Architektur/Hochbau) bei entsprechenden Fachhochschulstudien- gängen (1) Diese Diplome sind je nach Dauer der durch sie abgeschlossenen Ausbildung gemäß Artikel 47 Absatz 1 anzuerkennen
+1988–1989 m.
 Eλλάς
 ∆ίπλωµα αρχιτέκτονα – µηχανικού
 – Εθνικό Μετσόβιο Πολυτεχνείο (ΕΜΠ), τµήµα αρχιτεκτόνων – µηχανικών – Αριστοτέλειο Πανεπιστήµο Θεσσα- λονίκης (ΑΠΘ), τµήµα αρχιτεκτόνων – µηχανικών της Πολυτεχνικής σχολής
 Βεβαίωση που χορηγεί το Τεχνικό Επιµελητήριο Ελλάδας (ΤΕΕ) και η οποία επιτρέπει την άσκηση δραστηριοτήτων στον τοµέα της αρχιτεκτονικής
-1988– 1989 m.
+1988–1989 m.
 España
 Título oficial de arquitecto
-Rectores de las universidades enume- radas a continuación:
-1988–1989 m.
-– Universidad Politécnica de Cataluña, Escuelas Técnicas Superiores de Arquitectura de Barcelona o del Vallès;
-1999–2000 m.
-– Universidad Politécnica de Madrid, Escuela Técnica Superior de Arquitectura de Madrid;
-1999–2000 m.
-– Universidad Politécnica de Las Palmas, Escuela Técnica Superior de Arquitectura de Las Palmas;
-1997–1998 m.
-– Universidad Politécnica de Valencia, Escuela Técnica Superior de Arquitectura de Valencia;
-1998–1999 m.
-– Universidad de Sevilla, Escuela Técnica Superior de Arquitectura de Sevilla;
-1999–2000 m.
-– Universidad de Valladolid, Escuela Técnica Superior de Arquitectura de Valladolid;
-1998–1999 m.
-– Universidad de Santiago de Compostela, Escuela Técnica Superior de Arquitectura de La Coruña;
-1999–2000 m.
-– Universidad del País Vasco, Escuela Técnica Superior de Arquitectura de San Sebastián;
-1994–1995 m.
-– Universidad de Navarra, Escuela Técnica Superior de Arquitectura de Pamplona;
-– Universidad de Alcalá de Henares, Escuela Politécnica de Alcalá de Henares;
-– Universidad Alfonso X El Sabio, Centro Politécnico Superior de Villanueva de la Cañada;
-– Universidad de Alicante, EscuelaPolitécnica Superior de Alicante;
-– Universidad Europea de Madrid;
-– Universidad de Cataluña, Escuela Técnica Superior de Arquitectura de Barcelona;
-– Universidad Ramón Llull, Escuela Técnica Superior de Arquitectura de La Salle;
-– Universidad S.E.K. de Segovia, Centro de Estudios Integrados de Arquitectura de Segovia;
-– Universidad de Granada, Escuela Técnica Superior de Arquitectura de Granada
+Rectores de las universidades enume- radas a continuación: – Universidad Politécnica de Cataluña, Escuelas Técnicas Superiores de Arquitectura de Barcelona o del Vallès; – Universidad Politécnica de Madrid, Escuela Técnica Superior de Arquitectura de Madrid; – Universidad Politécnica de Las Palmas, Escuela Técnica Superior de Arquitectura de Las Palmas; – Universidad Politécnica de Valencia, Escuela Técnica Superior de Arquitectura de Valencia; – Universidad de Sevilla, Escuela Técnica Superior de Arquitectura de Sevilla; – Universidad de Valladolid, Escuela Técnica Superior de Arquitectura de Valladolid; – Universidad de Santiago de Compostela, Escuela Técnica Superior de Arquitectura de La Coruña; – Universidad del País Vasco, Escuela Técnica Superior de Arquitectura de San Sebastián; – Universidad de Navarra, Escuela Técnica Superior de Arquitectura de Pamplona; – Universidad de Alcalá de Henares, Escuela Politécnica de Alcalá de Henares; – Universidad Alfonso X El Sabio, Centro Politécnico Superior de Villanueva de la Cañada; – Universidad de Alicante, Escuela Politécnica Superior de Alicante; – Universidad Europea de Madrid; – Universidad de Cataluña, Escuela Técnica Superior de Arquitectura de Barcelona; – Universidad Ramón Llull, Escuela Técnica Superior de Arquitectura de La Salle; – Universidad S.E.K. de Segovia, Centro de Estudios Integrados de Arquitectura de Segovia; – Universidad de Granada, Escuela Técnica Superior de Arquitectura de Granada
+1988–1989 m. 1999–2000 m. 1999–2000 m. 1997–1998 m. 1998–1999 m. 1999–2000 m. 1998–1999 m. 1999–2000 m. 1994–1995 m.
 France
-1. Diplôme d'architecte DPLG, y compris dans le cadre de la formation professionnelle continue et de la promotion sociale
-1. Le ministre chargé de l'architecture
+1. Diplôme d'architecte DPLG, y compris dans le cadre de la formation professionnelle continue et de la promotion sociale 2. Diplôme d'architecte ESA 3. Diplôme d'architecte ENSAIS
+1. Le ministre chargé de l'architecture 2. Ecole spéciale d'architecture de Paris 3. Ecole nationale supérieure des arts et industries de Strasbourg, section architecture
 1988–1989 m.
-2. Diplôme d'architecte ESA
-2. Ecole spéciale d'architecture de Paris
-3. Diplôme d'architecte ENSAIS
-3. Ecole nationale supérieure des arts et industries de Strasbourg, section architecture
+Hrvatska
 Ireland
-1. Degree of Bachelor of Architecture (B.Arch. NUI)
-1. National University of Ireland to architecture graduates of University College Dublin
+1. Degree of Bachelor of Architecture (B.Arch. NUI) 2. Degree of Bachelor of Architecture (B.Arch.) (Previously, until 2002 – Degree standard diploma in architecture (Dip. Arch.) 3. Certificate of associateship (ARIAI) 4. Certificate of Membership (MRIAI)
+1. National University of Ireland to architecture graduates of University College Dublin 2. Dublin Institute of Technology, Bolton Street, Dublin (College of Technology, Bolton Street, Dublin) 3. Royal Institute of Architects of Ireland 4. Royal Institute of Architects of Ireland
 1988–1989 m.
-2. Degree of Bachelor of Architecture (B.Arch.) (Previously, until 2002 – Degree standard diploma in architecture (Dip. Arch.)
-2. Dublin Institute of Technology, Bolton Street, Dublin (College of Technology, Bolton Street, Dublin)
-3. Certificate of associateship (ARIAI)
-3. Royal Institute of Architects of Ireland
-4. Certificate of membership (MRIAI)
-4. Royal Institute of Architects of Ireland
 Italia
-– Laurea in architettura
-– Università di Camerino – Università di Catania – Sede di Siracusa – Università di Chieti – Università di Ferrara – Università di Firenze – Università di Genova – Università di Napoli Federico II – Università di Napoli II – Università di Palermo – Università di Parma – Università di Reggio Calabria – Università di Roma „La Sapienza“ – Universtià di Roma III – Università di Trieste – Politecnico di Bari – Politecnico di Milano – Politecnico di Torino – Istituto universitario di architettura di Venezia
-Diploma di abilitazione all'esercizo indipendente della professione che viene rilasciato dal ministero della Pubblica istruzione dopo che il candi- dato ha sostenuto con esito positivo l'esame di Stato davanti ad una commissione competente
-1988–1989 m.
-– Laurea in ingegneria edile – architettura
-– Università dell'Aquilla – Università di Pavia – Università di Roma „La Sapienza“
-Diploma di abilitazione all'esercizo indipendente della professione che viene rilasciato dal ministero della Pubblica istruzione dopo che il candidato ha sostenuto con esito positivo l'esame di Stato davanti ad una commissione competente
-1998–1999 m.
-– Laurea specialistica in ingegneria edile – architettura
-– Università dell'Aquilla – Università di Pavia – Università di Roma „La Sapienza“ – Università di Ancona – Università di Basilicata – Potenza – Università di Pisa – Università di Bologna – Università di Catania – Università di Genova – Università di Palermo – Università di Napoli Federico II – Università di Roma – Tor Vergata – Università di Trento – Politecnico di Bari – Politecnico di Milano
-Diploma di abilitazione all'esercizo indipendente della professione che viene rilasciato dal ministero della Pubblica istruzione dopo che il candi- dato ha sostenuto con esito positivo l'esame di Stato davanti ad una commissione competente
-2003–2004 m.
-– Laurea specialistica quinquennale in Architettura – Laurea specialistica quinquennale in Architettura – Laurea specialistica quinquennale in Architettura – Laurea specialistica in Architettura
-– Prima Facoltà di Architettura dell'Università di Roma „La Sapienza“ – Università di Ferrara – Università di Genova – Università di Palermo – Politecnico di Milano – Politecnico di Bari – Università di Roma III – Università di Firenze – Università di Napoli II – Politecnico di Milano II
-Diploma di abilitazione all'esercizo indipendente della professione che viene rilasciato dal ministero della Pubblica istruzione dopo che il candidato ha sostenuto con esito positivo l'esame di Stato davanti ad una commissione competente Diploma di abilitazione all'esercizo indipendente della professione che viene rilasciato dal ministero della Pubblica istruzione dopo che il candidato ha sostenuto con esito positivo l'esame di Stato davanti ad una commissione competente Diploma di abilitazione all'esercizo indipendente della professione che viene rilasciato dal ministero della Pubblica istruzione dopo che il candidato ha sostenuto con esito positivo l'esame di Stato davanti ad una commissione competente Diploma di abilitazione all'esercizo indipendente della professione che viene rilasciato dal ministero della Pubblica istruzione dopo che il candi dato ha sostenuto con esito positivo l'esame di Stato davanti ad una commissione competente
-1998–1999 m. 1999–2000 m. 2003–2004 m. 2004–2005 m.
+– Laurea in architettura – Laurea in ingegneria edile – architettura
+– Università di Camerino – Università di Catania – Sede di Siracusa – Università di Chieti – Università di Ferrara – Università di Firenze – Università di Genova – Università di Napoli Federico II – Università di Napoli II – Università di Palermo – Università di Parma – Università di Reggio Calabria – Università di Roma „La Sapienza“ – Università di Roma III – Università di Trieste – Politecnico di Bari – Politecnico di Milano – Politecnico di Torino – Istituto universitario di architettura di Venezia – Università dell'Aquilla – Università di Pavia – Università di Roma „La Sapienza“
+Diploma di abilitazione all'esercizo indipendente della professione che viene rilasciato dal ministero della Pubblica istruzione dopo che il candi- dato ha sostenuto con esito positivo l'esame di Stato davanti ad una commissione competente Diploma di abilitazione all'esercizo indipendente della professione che viene rilasciato dal ministero della Pubblica istruzione dopo che il candidato ha sostenuto con esito positivo l'esame di Stato davanti ad una commissione competente
+1988–1989 m. 1998–1999 m.
+– Laurea specialistica in ingegneria edile – architettura – Laurea specialistica quinquennale in Architettura – Laurea specialistica quinquennale in Architettura – Laurea specialistica quinquennale in Architettura – Laurea specialistica in Architettura
+– Università dell'Aquilla – Università di Pavia – Università di Roma „La Sapienza“ – Università di Ancona – Università di Basilicata – Potenza – Università di Pisa – Università di Bologna – Università di Catania – Università di Genova – Università di Palermo – Università di Napoli Federico II – Università di Roma – Tor Vergata – Università di Trento – Politecnico di Bari – Politecnico di Milano – Prima Facoltà di Architettura dell'Università di Roma „La Sapienza“ – Università di Ferrara – Università di Genova – Università di Palermo – Politecnico di Milano – Politecnico di Bari – Università di Roma III – Università di Firenze – Università di Napoli II – Politecnico di Milano II
+Diploma di abilitazione all'esercizo indipendente della professione che viene rilasciato dal ministero della Pubblica istruzione dopo che il candidato ha sostenuto con esito positivo l'esame di Stato davanti ad una commissione competente Diploma di abilitazione all'esercizo indipendente della professione che viene rilasciato dal ministero della Pubblica istruzione dopo che il candidato ha sostenuto con esito positivo l'esame di Stato davanti ad una commissione competente Diploma di abilitazione all'esercizo indipendente della professione che viene rilasciato dal ministero della Pubblica istruzione dopo che il candidato ha sostenuto con esito positivo l'esame di Stato davanti ad una commissione competente Diploma di abilitazione all'esercizo indipendente della professione che viene rilasciato dal ministero della Pubblica istruzione dopo che il candidato ha sostenuto con esito positive l'esame di Stato davanti ad una commissione competente Diploma di abilitazione all'esercizo indipendente della professione che viene rilasciatodal ministero della Pubblica istruzione dopo che il candi dato ha sostenuto con esito positivo l'esame di Stato davanti ad una commissione competente
+2003–2004 m. 1998–1999 m. 1999–2000 m. 2003–2004 m. 2004–2005 m.
 Nederland
 1. Het getuigschrift van het met goed gevolg afgelegde doctoraal examen van de studierichting bouwkunde, afstudeerrichting architectuur
 1. Technische Universiteit te Delft
-Verklaring van de Stichting Bureau Architectenregister die bevestigt dat de opleiding voldoet aan de normen van artikel 46.
+Verklaring van de Stichting Bureau Architectenregister die bevestigt dat de opleiding voldoet aan de normen van artikel 46
 1988–1989 m.
-2. Het getuigschrift van het met goed gevolg afgelegde doctoraal examen van de studierichting bouwkunde, differentiatie architectuur en urba- nistiek
+2. Het getuigschrift van het met goed gevolg afgelegde doctoraal examen van de studierichting bouwkunde, differentiatie architectuur en urbanistiek
 2. Technische Universiteit te Eindhoven
 3. Het getuigschrift hoger beroepson- derwijs, op grond van het met goed gevolg afgelegde examen verbonden aan de opleiding van de tweede fase voor beroepen op het terrein van de architectuur, afge- geven door de betrokken examen- commissies van respectievelijk: – de Amsterdamse Hogeschool voor de Kunsten te Amsterdam – de Hogeschool Rotterdam en omstreken te Rotterdam – de Hogeschool Katholieke Leer- gangen te Tilburg – de Hogeschool voor de Kunsten te Arnhem – de Rijkshogeschool Groningen te Groningen – de Hogeschool Maastricht te Maastricht
 Österreich
-1. Diplom-Ingenieur, Dipl.-Ing.
-1. Technische Universität Graz (Erzherzog-Johann-Universität Graz)
+1. Diplom-Ingenieur, Dipl.-Ing. 2. Diplom-Ingenieur, Dipl.-Ing. 3. Diplom-Ingenieur, Dipl.-Ing. 4. Magister der Architektur, Magister architecturae, Mag. Arch. 5. Magister der Architektur, Magister architecturae, Mag. Arch. 6. Magister der Architektur, Magister architecturae, Mag. Arch.
+1. Technische Universität Graz (Erzherzog-Johann-Universität Graz) 2. Technische Universität Wien 3. Universität Innsbruck (Leopold- Franzens-Universität Innsbruck) 4. Hochschule für Angewandte Kunst in Wien 5. Akademie der Bildenden Künste in Wien 6. Hochschule für künstlerishe und industrielle Gestaltung in Linz
 1998–1999 m.
-2. Dilplom-Ingenieur, Dipl.-Ing.
-2. Technische Universität Wien
-3. Diplom-Ingenieur, Dipl.-Ing.
-3. Universität Innsbruck (Leopold- Franzens-Universität Innsbruck)
-4. Magister der Architektur, Magister architecturae, Mag. Arch.
-4. Hochschule für Angewandte Kunst in Wien
-5. Magister der Architektur, Magister architecturae, Mag. Arch.
-5. Akademie der Bildenden Künste in Wien
-6. Magister der Architektur, Magister architecturae, Mag. Arch.
-6. Hochschule für künstlerishe und industrielle Gestaltung in Linz
 Portugal
 Carta de curso de licenciatura em Arquitectura Para os cursos iniciados a partir do ano académico de 1991/92
 – Faculdade de arquitectura da Universidade técnica de Lisboa – Faculdade de arquitectura da Universidade do Porto – Escola Superior Artística do Porto – Faculdade de Arquitectura e Artes da Universidade Lusíada do Porto
 1988–1989 m. 1991–1992 m.
 Suomi/ Finland
 Arkkitehdin tutkinto/Arkitektexamen
-– Teknillinen korkeakoulu /Tekniska högskolan (Helsinki) – Tampereen teknillinen korkeakoulu/ Tammerfors tekniska högskola – Oulun yliopisto/ Uleåborgs universitet
+– Teknillinen korkeakoulu/ Tekniska högskolan (Helsinki) – Tampereen teknillinen korkeakoulu/Tammerfors tekniska högskola — Oulun yliopisto/ Uleåborgs universitet
 1998–1999 m.
 Sverige
 Arkitektexamen
 Chalmers Tekniska Högskola AB Kungliga Tekniska Högskolan Lunds Universitet
 1998–1999 m.
 United Kingdom
-1. Diplomas in architecture
-1. – Universities – Colleges of Art – Schools of Art
-Certificate of architectural education, issued by the Architects Registration Board.
-1988–1989 m.
-2. Degrees in architecture 3. Final examination 4. Examination in architecture 5. Examination Part II
-2. Universities 3. Architectural Association 4. Royal College of Art 5. Royal Institute of British Architects
-The diploma and degree courses in architecture of the universities, schools and colleges of art should have met the requisite threshold standards as laid down in Article 46 of this Directive and in Criteria for validation published by the Validation Panel of the Royal Institute of British Architects and the Architects Registration Board. EU nationals who possess the Royal Institute of British Architects Part I and Part II certificates, which are recognised by ARB as the competent authority, are eligible. Also EU nationals who do not possess the ARB-recognised Part I and Part II certificates will be eligible for the Certificate of Architectural Education if they can satisfy the Board that their standard and length of education has met the requisite threshold standards of Article 46 of this Directive and of the Criteria for validation.
-Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo
+1. Diplomas in architecture 2. Degrees in architecture 3. Final examination 4. Examination in architecture 5. Examination Part II
+1. – Universities – Colleges of Art – Schools of Art 2. Universities 3. Architectural Association 4. Royal College of Art 5. Royal Institute of British Architects
+Certificate of architectural education, issued by the Architects Registration Board. The diploma and degree courses in architecture of the universities, schools and colleges of art should have met the requisite threshold standards as laid down in Article 46 of this Directive and in Criteria for validation published by the Validation Panel of the Royal Institute of British Architects and the Architects Registration Board. EU nationals who possess the Royal Institute of British Architects Part I and Part II certificates, which are recognised by ARB as the competent authority, are eligible. Also EU nationals who do not possess the ARB-recognised Part I and Part II certificates will be eligible for the Certificate of Architectural Education if they can satisfy the Board that their standard and length of education has met the requisite threshold standards of Article 46 of this Directive and of the Criteria for validation.

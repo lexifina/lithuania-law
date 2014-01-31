@@ -181,4 +181,3 @@ Direktyva 82/470/EEB (6 straipsnio 2 dalis)
 – laikinai saugomų naminių gyvulių, belaukiant jų pardavimo arba pakeliui į pardavimo vietą arba iš jos, aprūpinimą laikymo užtvarais, pašaru ir pardavimo žiedais,
 – motorinių transporto priemonių patikrinimą arba techninį įvertinimą,
 – prekių matavimą, svėrimą ir įvertinimą.
-Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo
