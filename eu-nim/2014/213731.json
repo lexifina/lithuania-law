@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2014 m. vasario 3 d. įsakymas Nr. V-154 \"Dėl sveikatos apsaugos ministro 2007 m. gegužės 22 d. įsakymo Nr. V-401 \"Dėl Pranešimų apie nepageidaujamas reakcijas ir (ar) nepageidaujamus reiškinius, susijusius su audinių ir ląstelių įsigijimu, ištyrimu, apdorojimu, laikymu, paskirstymu ir transplantacija, tvarkos aprašo patvirtinimo\" pakeitimo",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-01047",
+  "official_journal_page": null,
+  "official_journal_date": "2014-02-05",
+  "entry_into_force": "2014-02-06",
+  "notification_date": "2014-03-19",
+  "commission_reference": "MNE(2014)51286",
+  "nim_celex": "72006L0086LTU_213731",
+  "nim_id": "213731",
+  "transposes_celex": [
+    "32006L0086"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/996753ea-0ee9-4f4c-a4e1-cb1918b6796a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
