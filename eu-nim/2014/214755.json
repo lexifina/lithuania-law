@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2014 m. vasario 4 d. įsakymas Nr. 3-39-(E)'Dėl Lietuvos Respublikos susisiekimo ministro 2005 m. rugpjūčio 8 d. įsakymo Nr. 3-355 „Dėl Lietuvos Respublikos jūrinio laipsnio diplomų ir kvalifikacijos liudijimų jūrininkams, plaukiojantiems tarptautiniais reisais, išdavimo taisyklių patvirtinimo“ pakeitimo'",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-01135",
+  "official_journal_page": null,
+  "official_journal_date": "2014-02-05",
+  "entry_into_force": "2014-02-06",
+  "notification_date": "2014-04-10",
+  "commission_reference": "MNE(2014)52098",
+  "nim_celex": "72009L0013LTU_214755",
+  "nim_id": "214755",
+  "transposes_celex": [
+    "32009L0013",
+    "32012L0035"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/df75d5c5-7288-4f00-830c-7fa579b32973",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
