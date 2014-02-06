@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2014 m. vasario 5 d. įsakymas Nr. V-157 'Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2008 m. sausio 4 d. įsakymo Nr. V-7 „Dėl Mirusio žmogaus audinių ir organų donorytės, įsigijimo, ištyrimo, apdorojimo, konservavimo, laikymo ir paskirstymo paslaugų teikimo reikalavimų aprašo tvirtinimo' pakeitimo'",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-01110",
+  "official_journal_page": null,
+  "official_journal_date": "2014-02-05",
+  "entry_into_force": "2014-02-06",
+  "notification_date": "2014-02-12",
+  "commission_reference": "MNE(2014)51041",
+  "nim_celex": "72010L0053LTU_213414",
+  "nim_id": "213414",
+  "transposes_celex": [
+    "32010L0053",
+    "32012L0025"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/62023125-4771-43ac-a378-c5875214d2c2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
