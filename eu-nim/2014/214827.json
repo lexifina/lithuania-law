@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2014 m. vasario 4 d. įsakymas Nr. 3-40-(E) \"Dėl Lietuvos Respublikos susisiekimo ministro 2012 m. sausio 3 d. įsakymo Nr. 3-3 „Dėl Geležinkelių transporto veiklų apskaitos ir ataskaitų rinkinio rengimo reikalavimų patvirtinimo ir šio rinkinio skelbimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-01136",
+  "official_journal_page": null,
+  "official_journal_date": "2014-02-05",
+  "entry_into_force": "2014-02-06",
+  "notification_date": "2014-05-30",
+  "commission_reference": "MNE(2014)52153",
+  "nim_celex": "71991L0440LTU_214827",
+  "nim_id": "214827",
+  "transposes_celex": [
+    "31991L0440"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/91a59521-e324-4166-b4cc-8becb550f0a7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
