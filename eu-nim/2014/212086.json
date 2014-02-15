@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2013 m. gruodžio 11 d. nutarimas Nr. 1175 „Dėl Lietuvos Respublikos Vyriausybės 2004 m. rugpjūčio 17 d. nutarimo Nr. 966 „Dėl Pramoninių avarijų prevencijos, likvidavimo ir tyrimo nuostatų ir pavojinguosiuose objektuose esančių medžiagų, mišinių ar preparatų, priskiriamų pavojingosioms medžiagoms, sąrašo ir priskyrimo kriterijų aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "131",
+  "official_journal_page": null,
+  "official_journal_date": "2013-12-20",
+  "entry_into_force": "2014-02-15",
+  "notification_date": "2013-12-31",
+  "commission_reference": "MNE(2013)60193",
+  "nim_celex": "72012L0018LTU_212086",
+  "nim_id": "212086",
+  "transposes_celex": [
+    "32012L0018"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/09bd795c-7fa9-4207-a73a-8575ff69d668",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
