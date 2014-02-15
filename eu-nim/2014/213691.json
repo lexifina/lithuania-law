@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2014 m. vasario 12 d. įsakymas Nr. V-226 \"Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2001 m. gruodžio 22 d. įsakymo Nr. 666 \"Dėl Lietuvos Higienos normos HN 107:2001 \"Specialios paskirties maisto produktai\" patvirtinimo\" pakeitimo",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-01535",
+  "official_journal_page": null,
+  "official_journal_date": "2014-02-14",
+  "entry_into_force": "2014-02-15",
+  "notification_date": "2014-04-10",
+  "commission_reference": "MNE(2014)51260",
+  "nim_celex": "72007L0029LTU_213691",
+  "nim_id": "213691",
+  "transposes_celex": [
+    "32007L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/71942bc8-9bd6-4a1e-b428-e0a02ba2c03a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
