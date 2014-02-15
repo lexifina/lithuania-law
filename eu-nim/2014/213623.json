@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vyriausiosios rinkimų komisijos 2014 m. vasario 14 d. sprendimas Nr. Sp-38 „Dėl Europos Sąjungos piliečio teisės būti kandidatu per Europos Parlamento rinkimus Lietuvos Respublikoje įgyvendinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-01584",
+  "official_journal_page": null,
+  "official_journal_date": "2014-02-14",
+  "entry_into_force": "2014-02-15",
+  "notification_date": "2014-02-18",
+  "commission_reference": "MNE(2014)51217",
+  "nim_celex": "72013L0001LTU_213623",
+  "nim_id": "213623",
+  "transposes_celex": [
+    "32013L0001"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ab827c6e-e2e1-4c53-870f-e607ae4c77b6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
