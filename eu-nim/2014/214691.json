@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos finansų ministro 2014 m. vasario 14 d. įsakymas Nr. 1K-053 \"Dėl finansų ministro 2004 m. kovo 2 d. įsakymo Nr. 1K-069 „Dėl teritorijų, kurios laikomos trečiosiomis teritorijomis, sąrašo patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-01881",
+  "official_journal_page": null,
+  "official_journal_date": "2014-02-20",
+  "entry_into_force": "2014-02-21",
+  "notification_date": "2014-05-07",
+  "commission_reference": "MNE(2014)52036",
+  "nim_celex": "72013L0061LTU_214691",
+  "nim_id": "214691",
+  "transposes_celex": [
+    "32013L0061"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6175b217-39cf-466b-a0f0-20f1eb2ac72a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
