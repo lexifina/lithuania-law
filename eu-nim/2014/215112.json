@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos kriminalinės policijos biuro viršininko 2014 m. vasario 21 d. įsakymas Nr. 38-V-55 „Dėl 24/7 ryšio punkto keitimuisi duomenimis kovojant su elektroniniais nusikaltimais darbo reglamento patvirtinimo",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Administracinės priemonės",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2014-02-21",
+  "entry_into_force": "2014-02-21",
+  "notification_date": "2014-04-09",
+  "commission_reference": "MNE(2014)52345",
+  "nim_celex": "72013L0040LTU_215112",
+  "nim_id": "215112",
+  "transposes_celex": [
+    "32013L0040"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bd8a7a57-bbbb-4bd5-af3b-4a3c36614d30",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
