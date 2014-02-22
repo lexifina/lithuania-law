@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Teisėjų tarybos 2014 m. vasario 14 d. nutarimas Nr. 13P-22-(7.1.2) „Dėl Teismo posėdžių garso įrašų darymo tvarkos aprašo patvirtinimo“ (Suvestinė redakcija nuo 2018-01-01)",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-01950",
+  "official_journal_page": null,
+  "official_journal_date": "2014-02-21",
+  "entry_into_force": "2014-02-22",
+  "notification_date": "2019-06-10",
+  "commission_reference": "MNE(2019)53484",
+  "nim_celex": "72016L0800LTU_273731",
+  "nim_id": "273731",
+  "transposes_celex": [
+    "32016L0800"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a982801e-e15a-438c-82fb-3dc51e0a010b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
