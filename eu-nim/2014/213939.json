@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2014 m. vasario 27 d. įsakymas Nr. 3-90-(E)\"Dėl Lietuvos Respublikos susisiekimo ministro 2004 m. gruodžio 23 d. įsakymo Nr. 3-586 „Dėl Transeuropinės geležinkelių sistemos sąveikos reikalavimų nustatymo ir taikymo taisyklių patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-02179",
+  "official_journal_page": null,
+  "official_journal_date": "2014-02-27",
+  "entry_into_force": "2014-02-28",
+  "notification_date": "2014-03-19",
+  "commission_reference": "MNE(2014)51457",
+  "nim_celex": "72008L0057LTU_213939",
+  "nim_id": "213939",
+  "transposes_celex": [
+    "32008L0057"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9ee32bb6-8ccc-4bdf-adee-fb1091d6965f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
