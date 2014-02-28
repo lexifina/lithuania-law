@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2014 m. vasario 27 d. įsakymas Nr. 3-91-(E)\"Dėl Lietuvos Respublikos susisiekimo ministro 2006 m. gruodžio 22 d. įsakymo Nr. 3-507 „Dėl Leidimų pradėti naudoti Lietuvos Respublikoje transeuropinės geležinkelių sistemos struktūrinius posistemius ir geležinkelių riedmenis išdavimo taisyklių patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-02183",
+  "official_journal_page": null,
+  "official_journal_date": "2014-02-27",
+  "entry_into_force": "2014-02-28",
+  "notification_date": "2014-03-19",
+  "commission_reference": "MNE(2014)51458",
+  "nim_celex": "72008L0057LTU_213940",
+  "nim_id": "213940",
+  "transposes_celex": [
+    "32008L0057"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b31b4691-b418-40ca-8fb2-9b3b2de5327f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
