@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos teismo ekspertizės įstatymo 1, 2, 3, 5, 6, 7, 9, 11, 12, 16, 20, 23 straipsnių pakeitimo ir Įstatymo papildymo 4(1), 24(1) straipsniais ir priedu įstatymas Nr. XII-698",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "140",
+  "official_journal_page": null,
+  "official_journal_date": "2013-12-30",
+  "entry_into_force": "2014-03-01",
+  "notification_date": "2015-03-06",
+  "commission_reference": "MNE(2015)51288",
+  "nim_celex": "72009F0905LTU_224116",
+  "nim_id": "224116",
+  "transposes_celex": [
+    "32009F0905"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cc8932d3-6326-11e7-b2f2-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
