@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2014 m. kovo 5 d. įsakymas Nr. V-321 „Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2011 m. gegužės 9 d. įsakymo Nr. V-509 „Dėl Nacionalinio transplantacijos biuro prie sveikatos apsaugos ministerijos nuostatų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-02742",
+  "official_journal_page": null,
+  "official_journal_date": "2014-03-06",
+  "entry_into_force": "2014-03-07",
+  "notification_date": "2017-03-14",
+  "commission_reference": "MNE(2017)51528",
+  "nim_celex": "72004L0023LTU_246020",
+  "nim_id": "246020",
+  "transposes_celex": [
+    "32004L0023"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7fd431f6-97a6-4bcd-a56d-5fa47e82d0c3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
