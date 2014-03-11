@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro 2014 m. kovo 10 d. įsakymas Nr. 1V-161 Dėl Lietuvos Respublikos vidaus reikalų ministro 2005 m. birželio 14 d. įsakymo Nr. 1V-186 „Dėl Vairuotojo pažymėjimo blanko aprašymo ir privalomosios formos patvirtinimo“ pakeitimo",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-02957",
+  "official_journal_page": null,
+  "official_journal_date": "2014-03-10",
+  "entry_into_force": "2014-03-11",
+  "notification_date": "2014-03-13",
+  "commission_reference": "MNE(2014)51689",
+  "nim_celex": "72006L0126LTU_214211",
+  "nim_id": "214211",
+  "transposes_celex": [
+    "32006L0126"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d7bd76c0-f085-4343-9915-1a185f56dcdf",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
