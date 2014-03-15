@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2014 m. kovo 13 d. įsakymas Nr. 1-47 \"Dėl Valstybei nuosavybės teise priklausančių šildomų ir (arba) vėsinamų valstybės institucijų ir įstaigų - valstybinio administravimo subjektų naudojamų pastatų tinkamų atnaujinimui sąrašo sudarymo metodikos patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-03097",
+  "official_journal_page": null,
+  "official_journal_date": "2014-03-14",
+  "entry_into_force": "2014-03-15",
+  "notification_date": "2015-12-30",
+  "commission_reference": "MNE(2015)59707",
+  "nim_celex": "72012L0027LTU_233172",
+  "nim_id": "233172",
+  "transposes_celex": [
+    "32012L0027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/13b60400-89da-4ff5-83e4-5a4eec497772",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
