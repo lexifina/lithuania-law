@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 7, 29, 43, 57 straipsnių pakeitimo ir Įstatymo papildymo 43-1 straipsniu įstatymas Nr. XII-772",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-03220",
+  "official_journal_page": null,
+  "official_journal_date": "2014-03-19",
+  "entry_into_force": "2014-03-20",
+  "notification_date": "2014-03-21",
+  "commission_reference": "MNE(2014)51959",
+  "nim_celex": "72009L0073LTU_214561",
+  "nim_id": "214561",
+  "transposes_celex": [
+    "32009L0073"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/86a18f3b-c954-4ea8-88f9-ff3e88b4c268",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
