@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 9, 30, 31, 33, 49, 57 ir 67 straipsnių pakeitimo įstatymas Nr. XII-774",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-03219",
+  "official_journal_page": null,
+  "official_journal_date": "2004-03-19",
+  "entry_into_force": "2014-03-20",
+  "notification_date": "2014-03-21",
+  "commission_reference": "MNE(2014)51960",
+  "nim_celex": "72009L0072LTU_214562",
+  "nim_id": "214562",
+  "transposes_celex": [
+    "32009L0072"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f8a144fd-67a0-49ea-9358-4e3b0355232e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
