@@ -1,0 +1,26 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo kodekso 7, 8, 27, 60, 95, 97, 151, 151-1, 153, 162, 307, 308, 309 straipsnių ir priedo pakeitimo ir kodekso papildymo 100-1, 100-2, 152-1, 251-1 straipsniais įstatymas Nr. XII-776",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-03404",
+  "official_journal_page": null,
+  "official_journal_date": "2014-03-24",
+  "entry_into_force": "2014-03-25",
+  "notification_date": "2015-03-03",
+  "commission_reference": "MNE(2015)50455",
+  "nim_celex": "72001F0888LTU_223031",
+  "nim_id": "223031",
+  "transposes_celex": [
+    "32001F0888",
+    "32002F0475",
+    "32008F0675",
+    "32008F0841",
+    "32008F0913"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/75c36220-697f-4cb7-ad12-348ffb864f46",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
