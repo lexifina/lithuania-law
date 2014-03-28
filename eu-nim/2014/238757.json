@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos kriminalinės žvalgybos įstatymo Nr. XI-2234 8 straipsnio pakeitimo įstatymas Nr. XII-778",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-3569",
+  "official_journal_page": null,
+  "official_journal_date": "2014-03-27",
+  "entry_into_force": "2014-03-28",
+  "notification_date": "2016-06-22",
+  "commission_reference": "MNE(2016)54302",
+  "nim_celex": "72014L0062LTU_238757",
+  "nim_id": "238757",
+  "transposes_celex": [
+    "32014L0062"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/840507f0-8ab3-4bad-8e7f-45a550c596b4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
