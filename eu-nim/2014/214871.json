@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės kainų ir energetikos kontrolės komisijos 2014 m. kovo 28 d. nutarimas Nr. 03-93 \"Dėl Valstybinės kainų ir energetikos kontrolės komisijos 2012 m. birželio 18 d. nutarimo Nr. 03-149 \"Dėl reikalavimų gamtinių dujų skirstymo sistemos operatoriaus rengiamai atitikties programai patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-03605",
+  "official_journal_page": null,
+  "official_journal_date": "2014-03-28",
+  "entry_into_force": "2014-03-29",
+  "notification_date": "2014-03-31",
+  "commission_reference": "MNE(2014)52165",
+  "nim_celex": "72009L0073LTU_214871",
+  "nim_id": "214871",
+  "transposes_celex": [
+    "32009L0073"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/afcefc42-9890-4cb9-ae66-a9b88442b244",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
