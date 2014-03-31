@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2014 m. kovo 5 d. įsakymas Nr. 3D-129 „Dėl žemės ūkio ministro 2002 m. rugsėjo 23 d. įsakymo Nr. 365 „Dėl Privalomųjų rinkai tiekiamos daržovių dauginamosios ir sodinamosios medžiagos, išskyrus sėklą, reikalavimų aprašo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-02800",
+  "official_journal_page": null,
+  "official_journal_date": "2014-03-06",
+  "entry_into_force": "2014-03-31",
+  "notification_date": "2014-03-10",
+  "commission_reference": "MNE(2014)51575",
+  "nim_celex": "72013L0045LTU_214086",
+  "nim_id": "214086",
+  "transposes_celex": [
+    "32013L0045"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e22a305e-d236-4491-8684-9788a46aeae7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
