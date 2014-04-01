@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2014 m. kovo 28 d. nutarimas Nr. 03-43 „Dėl Lietuvos banko prižiūrimų finansų rinkos dalyvių inspektavimo nuostatų“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-03780",
+  "official_journal_page": null,
+  "official_journal_date": "2014-03-31",
+  "entry_into_force": "2014-04-01",
+  "notification_date": "2015-10-20",
+  "commission_reference": "MNE(2015)54603",
+  "nim_celex": "72013L0036LTU_227643",
+  "nim_id": "227643",
+  "transposes_celex": [
+    "32013L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1050b965-9e5e-4a8e-b68e-d87a094c4399",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
