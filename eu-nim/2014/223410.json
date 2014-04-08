@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos saugios laivybos administracijos direktoriaus 2014 m. balandžio 7 d. įsakymas Nr. V-73 'Dėl Lietuvos saugios laivybos administracijos direktoriaus 2005 m. liepos 28 d. įsakymo Nr. V-133 „Dėl Lietuvos Respublikos jūrų laivų registre įregistruotų laivų patikrinimo ir liudijimų išdavimo tvarkos aprašo patvirtinimo“ pakeitimo”",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-04138",
+  "official_journal_page": null,
+  "official_journal_date": "2014-04-07",
+  "entry_into_force": "2014-04-08",
+  "notification_date": "2015-02-12",
+  "commission_reference": "MNE(2015)50728",
+  "nim_celex": "72009L0013LTU_223410",
+  "nim_id": "223410",
+  "transposes_celex": [
+    "32009L0013",
+    "32013L0054"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3860c5d8-f97a-11e4-a4c8-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
