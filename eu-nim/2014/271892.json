@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro, Lietuvos Respublikos vidaus reikalų ministro ir Lietuvos Respublikos sveikatos apsaugos ministro 2014 m. balandžio 23 d. įsakymas Nr. A1-229/1V-289/V-491 \"Dėl Lietuvos Respublikoje nustatytų nelydimų nepilnamečių užsieniečių, kurie nėra prieglobsčio prašytojai, amžiaus nustatymo, apgyvendinimo ir kitų procedūrinių veiksmų bei paslaugų jiems teikimo tvarkos aprašo patvirtinimo“ (Suvestinė redakcija nuo 2018-09-22)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-04711",
+  "official_journal_page": null,
+  "official_journal_date": "2014-04-24",
+  "entry_into_force": "2014-04-25",
+  "notification_date": "2019-04-24",
+  "commission_reference": "MNE(2019)52302",
+  "nim_celex": "72011L0036LTU_271892",
+  "nim_id": "271892",
+  "transposes_celex": [
+    "32011L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a7cf7025-2188-4f25-8330-7534ab6a6e33",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
