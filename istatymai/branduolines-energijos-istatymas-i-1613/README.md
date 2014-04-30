@@ -28,3 +28,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2011-10-01 | 2013-06-30 | Įstatymas Nr. XI-1537 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/e137617c58b517c3839fb535132937ad9f510c1b/istatymai/TAR.6286F15970B3.md) |
 | 2013-07-01 | 2014-04-29 | Įstatymas Nr. XII-216 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/fe30908f081821373ce93e85bf4cd78a33b4177a/istatymai/TAR.6286F15970B3.md) |
 | 2014-01-01 | 2014-04-29 | Įstatymas Nr. XI-1537 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/c20a39fa40deef8385b14a6a931e4fc5ce6643a2/istatymai/TAR.6286F15970B3.md) |
+| 2014-04-30 | 2014-12-31 | Įstatymas Nr. XII-842 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/1b18984b307cf3368c912f27617701e7d598b028/istatymai/TAR.6286F15970B3.md) |
