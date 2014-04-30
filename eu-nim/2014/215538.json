@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 2, 34-1, 34-2, 34-3, 34-4, 34-5, 34-12, 34-15, 34-16, 34-24 straipsnių ir 5 priedo pakeitimo įstatymas Nr.XII-832",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-04870",
+  "official_journal_page": null,
+  "official_journal_date": "2014-04-29",
+  "entry_into_force": "2014-04-30",
+  "notification_date": "2014-04-30",
+  "commission_reference": "MNE(2014)52634",
+  "nim_celex": "71999L0031LTU_215538",
+  "nim_id": "215538",
+  "transposes_celex": [
+    "31999L0031",
+    "32012L0019"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/88f1a038-414a-471c-9e34-6259463712fd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
