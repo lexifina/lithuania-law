@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2014 m. kovo 5 d. įsakymas Nr. V-319 ,,Dėl Lietuvos Respublikos sveikatos apsaugos ministro 1999 m. lapkričio 29 d. įsakymo Nr. 515 „Dėl sveikatos priežiūros įstaigų veiklos apskaitos ir atskaitomybės tvarkos“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-02741",
+  "official_journal_page": null,
+  "official_journal_date": "2014-03-06",
+  "entry_into_force": "2014-05-01",
+  "notification_date": "2020-03-06",
+  "commission_reference": "MNE(2020)51194",
+  "nim_celex": "72017L0159LTU_281274",
+  "nim_id": "281274",
+  "transposes_celex": [
+    "32017L0159"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b788869b-64fe-11ea-b735-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
