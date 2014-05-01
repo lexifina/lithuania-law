@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2013 m. gruodžio 18 d. nutarimas Nr. 1264 „Dėl Lietuvos Respublikos Vyriausybės 2003 m. sausio 29 d. nutarimo Nr. 138 „Dėl Asmenų iki aštuoniolikos metų įdarbinimo, sveikatos patikrinimo ir jų galimybių dirbti konkretų darbą nustatymo tvarkos, darbo laiko, jiems draudžiamų dirbti darbų, sveikatai kenksmingų, pavojingų veiksnių sąrašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2013-00043",
+  "official_journal_page": null,
+  "official_journal_date": "2013-12-31",
+  "entry_into_force": "2014-05-01",
+  "notification_date": "2015-06-18",
+  "commission_reference": "MNE(2015)54212",
+  "nim_celex": "72014L0027LTU_227230",
+  "nim_id": "227230",
+  "transposes_celex": [
+    "32014L0027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5139dea9-d7cc-4885-8865-c9fd56c41291",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
