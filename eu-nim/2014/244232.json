@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2014 m. kovo 5 d. įsakymas Nr. V-320 „Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2000 m. gegužės 31 d. įsakymo Nr. 301 „Dėl profilaktinių sveikatos tikrinimų sveikatos priežiūros įstaigose“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-02740",
+  "official_journal_page": null,
+  "official_journal_date": "2014-03-06",
+  "entry_into_force": "2014-05-01",
+  "notification_date": "2017-01-18",
+  "commission_reference": "MNE(2017)50317",
+  "nim_celex": "72014L0112LTU_244232",
+  "nim_id": "244232",
+  "transposes_celex": [
+    "32014L0112"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fb1baa0a-2bf7-4a12-9738-ae5796feaf6b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
