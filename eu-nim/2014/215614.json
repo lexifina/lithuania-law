@@ -1,0 +1,26 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2014 m. balandžio 16 d. nutarimas Nr. 366 \"Dėl Lietuvos Respublikos Vyriausybės 2002 m. balandžio 12 d. nutarimo Nr. 519 „Dėl Valstybinio strateginio atliekų tvarkymo plano patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-04989",
+  "official_journal_page": null,
+  "official_journal_date": "2014-04-30",
+  "entry_into_force": "2014-05-01",
+  "notification_date": "2014-05-02",
+  "commission_reference": "MNE(2014)52675",
+  "nim_celex": "71994L0062LTU_215614",
+  "nim_id": "215614",
+  "transposes_celex": [
+    "31994L0062",
+    "31999L0031",
+    "32006L0066",
+    "32008L0098",
+    "32012L0019"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/efac14e6-d193-41af-a3d4-79ce0358bf88",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
