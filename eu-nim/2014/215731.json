@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos respublikos ūkio ministro 2014 m. gegužės 7 d. įsakymas Nr. 4-259 \"Dėl Lietuvos Respublikos ūkio ministro 1999 m. gruodžio 27 d. įsakymo Nr. 433 „Dėl Aerozolių balionėlių saugos techninio reglamento tvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-05168",
+  "official_journal_page": null,
+  "official_journal_date": "2014-05-07",
+  "entry_into_force": "2014-05-08",
+  "notification_date": "2014-05-08",
+  "commission_reference": "MNE(2014)52756",
+  "nim_celex": "72013L0010LTU_215731",
+  "nim_id": "215731",
+  "transposes_celex": [
+    "32013L0010"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8ae909a2-0d8a-4283-9d42-7d4118847e39",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
