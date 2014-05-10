@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2014 m. gegužės 9 d. įsakymas Nr. 1V-683 „Dėl Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2004 m. gruodžio 1 d. įsakymo Nr. 1V-593 „Dėl Informacijos, susijusios su Lietuvos Respublikos elektroninių ryšių įstatymo, Lietuvos Respublikos pašto įstatymo, Lietuvos Respublikos elektroninio parašo įstatymo ir Lietuvos Respublikos nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatymo įgyvendinimu, skelbimo taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-05263",
+  "official_journal_page": null,
+  "official_journal_date": "2014-05-09",
+  "entry_into_force": "2014-05-10",
+  "notification_date": "2014-08-28",
+  "commission_reference": "MNE(2014)53889",
+  "nim_celex": "72002L0021LTU_217847",
+  "nim_id": "217847",
+  "transposes_celex": [
+    "32002L0021"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c31266fc-0ee8-4f8e-b54d-2fac1b7a8ec1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
