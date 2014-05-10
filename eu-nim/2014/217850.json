@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2014 m. gegužės 9 d. įsakymas  Nr. 1V-692 „Dėl Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2011 m. rugsėjo 20 d. įsakymo Nr. 1V-889 „Dėl Universaliųjų elektroninių ryšių paslaugų teikimo taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-05253",
+  "official_journal_page": null,
+  "official_journal_date": "2014-05-09",
+  "entry_into_force": "2014-05-10",
+  "notification_date": "2014-08-28",
+  "commission_reference": "MNE(2014)53892",
+  "nim_celex": "72009L0136LTU_217850",
+  "nim_id": "217850",
+  "transposes_celex": [
+    "32009L0136"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ddb3f1f7-7a1a-4eff-b311-79b5cae0a097",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
