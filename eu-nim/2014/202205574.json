@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2014 m. gegužės 8 d. nutarimas Nr. 03-76  „Dėl Prašymų ir skundų nagrinėjimo ir asmenų aptarnavimo Lietuvos banke taisyklių patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-05285",
+  "official_journal_page": null,
+  "official_journal_date": "2014-05-12",
+  "entry_into_force": "2014-05-13",
+  "notification_date": "2022-09-12",
+  "commission_reference": "MNE(2022)05574",
+  "nim_celex": "72016L0097LTU_202205574",
+  "nim_id": "202205574",
+  "transposes_celex": [
+    "32016L0097"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b9270c20-3590-11ed-9c68-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
