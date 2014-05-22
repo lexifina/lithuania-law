@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo proceso kodekso 21, 22 straipsnių ir priedo pakeitimo įstatymas Nr. XII-891",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-05570",
+  "official_journal_page": null,
+  "official_journal_date": "2014-05-21",
+  "entry_into_force": "2014-05-22",
+  "notification_date": "2014-05-23",
+  "commission_reference": "MNE(2014)52985",
+  "nim_celex": "72011L0099LTU_216171",
+  "nim_id": "216171",
+  "transposes_celex": [
+    "32011L0099",
+    "32012L0013"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7f86536e-4b5c-4797-99d0-02ece41b089a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
