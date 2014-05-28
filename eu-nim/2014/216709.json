@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo Nr. VIII-1185 35, 59 straipsnių ir 3 priedo pakeitimo ir Įstatymo papildymo 59-1, 59-2 straipsniais įstatymas Nr. XII-888",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-05732",
+  "official_journal_page": null,
+  "official_journal_date": "2014-05-27",
+  "entry_into_force": "2014-05-28",
+  "notification_date": "2014-05-28",
+  "commission_reference": "MNE(2014)53106",
+  "nim_celex": "72011L0077LTU_216709",
+  "nim_id": "216709",
+  "transposes_celex": [
+    "32011L0077"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3b1d8930-ed18-4d80-81f7-6d01dad68cd8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
