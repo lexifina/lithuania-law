@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių teisės pažeidimų kodekso 26, 27, 51(10), 85, 87, 87(1), 224, 242, 259(1), 260(2), 320 straipsnių pakeitimo ir Kodekso papildymo 51(27), 87(12) straipsniais įstatymas Nr. XII-893",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-05731",
+  "official_journal_page": null,
+  "official_journal_date": "2014-05-27",
+  "entry_into_force": "2014-05-28",
+  "notification_date": "2014-06-30",
+  "commission_reference": "MNE(2014)53941",
+  "nim_celex": "72012L0033LTU_217916",
+  "nim_id": "217916",
+  "transposes_celex": [
+    "32012L0033"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/84e37145-a7cb-4965-ac2b-b16b4fa3b74b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
