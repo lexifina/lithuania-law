@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2014 m. gegužės 15 d. įsakymas Nr. 3D-277 \"Dėl Lietuvos Respublikos žemės ūkio ministro 2003 m. birželio 30 d. įsakymo Nr. 3D-264 „Dėl kenksmingųjų organizmų, augalų, augalinių produktų ir kitų objektų sąrašų patvirtinimo\" pakeitimo",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-05433",
+  "official_journal_page": null,
+  "official_journal_date": "2014-05-15",
+  "entry_into_force": "2014-06-01",
+  "notification_date": "2014-05-16",
+  "commission_reference": "MNE(2014)52902",
+  "nim_celex": "72014L0019LTU_215951",
+  "nim_id": "215951",
+  "transposes_celex": [
+    "32014L0019"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e2acb10b-4c3d-4303-8766-8fb585535261",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
