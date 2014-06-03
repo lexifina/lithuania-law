@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2014 m. gegužės 28 d. nutarimas Nr. 485 „Dėl valstybinės smurto artimoje aplinkoje prevencijos ir pagalbos teikimo nukentėjusiems asmenims 2014–2020 metų programos patvirtinimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-05986",
+  "official_journal_page": null,
+  "official_journal_date": "2014-06-02",
+  "entry_into_force": "2014-06-03",
+  "notification_date": "2015-11-13",
+  "commission_reference": "MNE(2015)58317",
+  "nim_celex": "72012L0029LTU_231710",
+  "nim_id": "231710",
+  "transposes_celex": [
+    "32012L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1bb6bcd8-de49-4e1c-b429-e39d3effdd06",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
