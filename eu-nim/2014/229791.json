@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2014 m. gegužės 30 d. įsakymas Nr. 1-149 „Dėl Energijos vartojimo efektyvumo veiksmų plano patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-07169",
+  "official_journal_page": null,
+  "official_journal_date": "2014-06-05",
+  "entry_into_force": "2014-06-06",
+  "notification_date": "2015-09-21",
+  "commission_reference": "MNE(2015)56534",
+  "nim_celex": "72012L0027LTU_229791",
+  "nim_id": "229791",
+  "transposes_celex": [
+    "32012L0027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d3927b53-b3d0-44a2-8422-a40c20569e11",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
