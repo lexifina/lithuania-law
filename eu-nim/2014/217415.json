@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Generalinio prokuroro 2014 birželio 9 d. įsakymas Nr. I-120 \"Dėl baudžiamojo proceso dokumentų formų patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2014-06-09",
+  "entry_into_force": "2014-06-10",
+  "notification_date": "2014-06-11",
+  "commission_reference": "MNE(2014)53523",
+  "nim_celex": "72012L0013LTU_217415",
+  "nim_id": "217415",
+  "transposes_celex": [
+    "32012L0013"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5492b101-2243-4a04-9430-11cbf9170ceb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
