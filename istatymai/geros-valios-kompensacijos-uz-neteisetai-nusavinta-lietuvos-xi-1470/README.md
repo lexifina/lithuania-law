@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2011-12-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/80b747a4e2192efc078fa49b8e1c8b7bc0613c8e/istatymai/TAR.6EFCEA60E654.md) |
+| 2014-06-12 | 2014-12-31 | Įstatymas Nr. XII-905 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/a1062dba51defc077247b9ddfdbdc07c4f885bfe/istatymai/TAR.6EFCEA60E654.md) |
