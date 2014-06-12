@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2014 m. birželio 4 d. nutarimas Nr. 507 \"Dėl Lietuvos Respublikos Vyriausybės 2006 m. sausio 19 d. nutarimo Nr. 61 „Dėl Dokumentų, įrodančių, kad elektros ir elektroninės įrangos atliekų tvarkymas bus finansuojamas, sudarymo ir jų reikalavimų vykdymo, lėšų, gautų pagal šiuos dokumentus, kaupimo, naudojimo ir grąžinimo taisyklių patvirtinimo ir mažiausio elektros ir elektroninės įrangos atliekų kiekio, kurį turi sutvarkyti elektros ir elektroninės įrangos gamintojai ir importuotojai, nustatymo“ pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-07410",
+  "official_journal_page": null,
+  "official_journal_date": "2014-06-11",
+  "entry_into_force": "2014-06-12",
+  "notification_date": "2014-06-25",
+  "commission_reference": "MNE(2014)53568",
+  "nim_celex": "72012L0019LTU_217460",
+  "nim_id": "217460",
+  "transposes_celex": [
+    "32012L0019"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4db799ad-06ed-4246-ae9d-2a9d4436b1ef",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
