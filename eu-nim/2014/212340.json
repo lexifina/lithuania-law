@@ -1,0 +1,25 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos civilinio kodekso pakeitimo ir papildymo įstatymas Nr. XII-700",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-00069",
+  "official_journal_page": null,
+  "official_journal_date": "2014-01-07",
+  "entry_into_force": "2014-06-13",
+  "notification_date": "2014-01-15",
+  "commission_reference": "MNE(2014)50132",
+  "nim_celex": "71993L0013LTU_212340",
+  "nim_id": "212340",
+  "transposes_celex": [
+    "31993L0013",
+    "31999L0044",
+    "32011L0083",
+    "32013L0011"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d41a40ef-01e3-407d-a75b-0291c08b0a90",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
