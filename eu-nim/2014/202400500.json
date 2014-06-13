@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vartotojų teisių apsaugos įstatymo 2, 4, 5, 14, 15, 37, 40 straipsnių bei priedo pakeitimo ir papildymo ir 16 straipsnio pripažinimo netekusiu galios įstatymas Nr. XII-701",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-00015",
+  "official_journal_page": null,
+  "official_journal_date": "2014-01-03",
+  "entry_into_force": "2014-06-13",
+  "notification_date": "2024-01-29",
+  "commission_reference": "MNE(2024)00500",
+  "nim_celex": "72021L1883LTU_202400500",
+  "nim_id": "202400500",
+  "transposes_celex": [
+    "32021L1883"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3adb3798-2559-4d82-aa22-a26bab497e56",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
