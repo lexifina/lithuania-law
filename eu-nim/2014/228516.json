@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 19, 20, 24, 25, 30, 31, 33, 34, 35, 37, 44, 54, 59, 60-1, 63, 67, 69, 72 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 45-2 straipsniu įstatymas Nr. XII-912",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-07641",
+  "official_journal_page": null,
+  "official_journal_date": "2014-06-16",
+  "entry_into_force": "2014-06-17",
+  "notification_date": "2015-07-28",
+  "commission_reference": "MNE(2015)55387",
+  "nim_celex": "72012L0034LTU_228516",
+  "nim_id": "228516",
+  "transposes_celex": [
+    "32012L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b7cba8b7-e7ec-49da-900e-7c79687dfb05",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
