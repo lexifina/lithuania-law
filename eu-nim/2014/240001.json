@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 papildymo 28-1 straipsniu ir Įstatymo priedo pakeitimo įstatymas Nr. XII-913",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-07640",
+  "official_journal_page": null,
+  "official_journal_date": "2014-06-16",
+  "entry_into_force": "2014-06-17",
+  "notification_date": "2016-08-19",
+  "commission_reference": "MNE(2016)55289",
+  "nim_celex": "72012L0030LTU_240001",
+  "nim_id": "240001",
+  "transposes_celex": [
+    "32012L0030"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f30089d6-5d9a-435b-b957-d14a89303e2e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
