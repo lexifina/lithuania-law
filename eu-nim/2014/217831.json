@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2014 m. birželio 19 d. įsakymas Nr. V-719 \"Dėl Lietuvos Respublikos sveikatos apsaugos ministro 1999 m. gegužės 24 d. įsakymo Nr. 248 „Dėl dirbtinio apvaisinimo tvarkos patvirtinimo“ pakeitimo",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-07880",
+  "official_journal_page": null,
+  "official_journal_date": "2014-06-20",
+  "entry_into_force": "2014-06-21",
+  "notification_date": "2014-06-27",
+  "commission_reference": "MNE(2014)53877",
+  "nim_celex": "72012L0039LTU_217831",
+  "nim_id": "217831",
+  "transposes_celex": [
+    "32012L0039"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6f3c1c9c-e082-4f42-a06d-71021813576e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
