@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2014 m. birželio 18 d. nutarimas Nr. 556 „Dėl Lietuvos Respublikos Vyriausybės 1999 m. spalio 22 d. nutarimo Nr. 1175 „Dėl Informacijos apie aplinką Lietuvos Respublikoje teikimo visuomenei tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-08987",
+  "official_journal_page": null,
+  "official_journal_date": "2014-06-23",
+  "entry_into_force": "2014-06-24",
+  "notification_date": "2015-09-07",
+  "commission_reference": "MNE(2015)56208",
+  "nim_celex": "72012L0018LTU_229434",
+  "nim_id": "229434",
+  "transposes_celex": [
+    "32012L0018"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6ba1d8ea-dc11-49ad-94d9-2d4ba79a453d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
