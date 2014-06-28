@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro, Lietuvos Respublikos aplinkos ministro, Lietuvos Respublikos susisiekimo ministro 2014 m. birželio 25 d. įsakymas Nr. 1-170/D1-562/3-257-(E) 'Dėl Lietuvos Respublikos energetikos ministro, Lietuvos Respublikos aplinkos ministro, Lietuvos Respublikos susisiekimo ministro 2010 m. gruodžio 22 d. įsakymo Nr. 1-348/D1-1014/3-742 'Dėl Lietuvos Respublikoje vartojamų naftos produktų, biodegalų ir skystojo kuro privalomųjų kokybės rodiklių patvirtinimo' pakeitimo'",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-09264",
+  "official_journal_page": null,
+  "official_journal_date": "2014-06-27",
+  "entry_into_force": "2014-06-28",
+  "notification_date": "2014-10-23",
+  "commission_reference": "MNE(2014)55975",
+  "nim_celex": "72003L0017LTU_220625",
+  "nim_id": "220625",
+  "transposes_celex": [
+    "32003L0017",
+    "32014L0077"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a93f798f-13cf-420f-94e4-68345bc7a9b1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
