@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2014 m. birželio 25 d. nutarimas Nr. 602 „Dėl Lietuvos Respublikos Vyriausybės 2009 m. lapkričio 25 d. nutarimo Nr. 1558 „Dėl Potvynių rizikos vertinimo ir valdymo tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-09302",
+  "official_journal_page": null,
+  "official_journal_date": "2014-06-29",
+  "entry_into_force": "2014-06-30",
+  "notification_date": "2021-02-03",
+  "commission_reference": "MNE(2021)01079",
+  "nim_celex": "72007L0060LTU_202101079",
+  "nim_id": "202101079",
+  "transposes_celex": [
+    "32007L0060"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/98633032-e282-4053-8ef4-c9c81ddcf6aa",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
