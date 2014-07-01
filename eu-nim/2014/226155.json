@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 2, 6, 9, 10, 11, 12, 13, 14, 16, 17, 18, 19, 21, 22, 23, 24, 25, 26, 27, 28, 29, 33 straipsnių, Įstatymo priedo pakeitimo ir papildymo ir Įstatymo papildymo 6(1), 27(1) straipsniais įstatymas Nr. XII-360",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "68",
+  "official_journal_page": null,
+  "official_journal_date": "2013-06-28",
+  "entry_into_force": "2014-07-01",
+  "notification_date": "2015-05-08",
+  "commission_reference": "MNE(2015)53157",
+  "nim_celex": "72015L0413LTU_226155",
+  "nim_id": "226155",
+  "transposes_celex": [
+    "32015L0413"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1b1330ab-6efb-4e7a-a28b-f07d2cfde3ad",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
