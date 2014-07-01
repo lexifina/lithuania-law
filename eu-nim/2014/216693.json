@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos tabako kontrolės įstatymo Nr. I-1143 11 straipsnio pakeitimo įstatymas Nr. XII-887",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-05733",
+  "official_journal_page": null,
+  "official_journal_date": "2014-05-27",
+  "entry_into_force": "2014-07-01",
+  "notification_date": "2014-05-30",
+  "commission_reference": "MNE(2014)53090",
+  "nim_celex": "72006L0123LTU_216693",
+  "nim_id": "216693",
+  "transposes_celex": [
+    "32006L0123"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8eee08df-53ba-4bf4-b34f-e84130e4eb87",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
