@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2014 m. kovo 4 d. įsakymas Nr.D1-234 \"Dėl Lietuvos Respublikos aplinkos ministro 2002 m. gruodžio 5 d. įsakymo Nr. 620 \"Dėl Lakiųjų organinių junginių, susidarančių naudojant tirpiklius tam tikrų veiklos rūšių įrenginiuose, emisijos ribojimo tvarkos patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-02664",
+  "official_journal_page": null,
+  "official_journal_date": "2014-03-05",
+  "entry_into_force": "2014-07-01",
+  "notification_date": "2014-05-26",
+  "commission_reference": "MNE(2014)53018",
+  "nim_celex": "72010L0075LTU_216611",
+  "nim_id": "216611",
+  "transposes_celex": [
+    "32010L0075"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e0d01805-8bce-459b-989f-e815970b7c00",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
