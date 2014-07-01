@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos įmonių restruktūrizavimo įstatymo Nr. IX-218 2, 7, 9, 14, 15, 16, 17, 18, 19, 20, 21, 22, 24, 25 straipsnių pakeitimo ir Įstatymo papildymo 16-1, 16-2 ir 16-3 straipsniais įstatymas Nr. XII-807",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-04324",
+  "official_journal_page": null,
+  "official_journal_date": "2014-04-11",
+  "entry_into_force": "2014-07-01",
+  "notification_date": "2014-05-15",
+  "commission_reference": "MNE(2014)52484",
+  "nim_celex": "72006L0123LTU_215296",
+  "nim_id": "215296",
+  "transposes_celex": [
+    "32006L0123"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7ee14e55-3804-4df3-b543-1a7325cd7c93",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
