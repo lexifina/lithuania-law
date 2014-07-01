@@ -1,4 +1,4 @@
-Įstatymas skelbtas: Žin., 2009, Nr. 54-2140, 61, 101
+Įstatymas skelbtas: Žin., 2009, Nr. 54-2140, Nr. 61, Nr. 101
 Neoficialus įstatymo tekstas
 LIETUVOS RESPUBLIKOS
 MOKSLO IR STUDIJŲ
@@ -113,12 +113,12 @@ straipsnis. Pagrindinės šio įstatymo sąvokos
 Absolventas – asmuo, aukštojoje
 mokykloje baigęs studijų programą ir gavęs aukštojo mokslo
 kvalifikaciją liudijantį diplomą.
-2. Aukštasis koleginis išsilavinimas – išsilavinimas,
-įgytas Lietuvos aukštosiose mokyklose baigus koleginių studijų programas, pagal
-kurias suteikiama aukštojo
-mokslo kvalifikacija, arba
-teisės aktų nustatyta tvarka pripažintas kaip jam lygiavertis užsienio mokslo
-ir studijų institucijose įgytas išsilavinimas.
+2. Aukštasis koleginis išsilavinimas – išsilavinimas, įgytas
+Lietuvos aukštosiose mokyklose baigus koleginių studijų programas, pagal kurias
+suteikiama aukštojo mokslo
+kvalifikacija, arba teisės
+aktų nustatyta tvarka pripažintas kaip jam lygiavertis užsienio mokslo ir
+studijų institucijose įgytas išsilavinimas.
 3. Aukštasis
 universitetinis išsilavinimas – išsilavinimas, įgytas Lietuvos
 aukštosiose mokyklose baigus universitetinių studijų programas arba
