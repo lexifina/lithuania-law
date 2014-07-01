@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos įmonių bankroto įstatymo Nr. IX-216 2, 5, 9, 10, 11, 11-2, 11-3, 11-4, 11-5, 11-6, 11-7, 21, 23, 33 straipsnių pakeitimo ir Įstatymo papildymo 11-8, 11-9 ir 11-10 straipsniais įstatymas Nr. XII-805",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-04326",
+  "official_journal_page": null,
+  "official_journal_date": "2014-04-11",
+  "entry_into_force": "2014-07-01",
+  "notification_date": "2016-01-08",
+  "commission_reference": "MNE(2016)50173",
+  "nim_celex": "72014L0059LTU_233497",
+  "nim_id": "233497",
+  "transposes_celex": [
+    "32014L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/378c06b7-4b20-445e-a823-9b56da369475",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
