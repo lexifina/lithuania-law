@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos paramos mirties atveju įstatymo Nr. I-348 3, 5, 6 straipsnių ir priedo pakeitimo įstatymas Nr. XII-851",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-04998",
+  "official_journal_page": null,
+  "official_journal_date": "2014-05-02",
+  "entry_into_force": "2014-07-01",
+  "notification_date": "2014-05-08",
+  "commission_reference": "MNE(2014)52766",
+  "nim_celex": "72011L0098LTU_215741",
+  "nim_id": "215741",
+  "transposes_celex": [
+    "32011L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b41af0c4-fbc5-4dd9-adad-56ef7e29ac9b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
