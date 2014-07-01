@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės kelių transporto inspekcijos prie Susisiekimo ministerijos viršininko 2014 m. balandžio 24 įsakymas Nr. 2B-81 „Dėl Centralizuotosios techninės apžiūros duomenų bazės nuostatų patvirtinimo” (suvestinė redakcija nuo 2016-06-22)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-04685",
+  "official_journal_page": null,
+  "official_journal_date": "2014-04-24",
+  "entry_into_force": "2014-07-01",
+  "notification_date": "2017-10-16",
+  "commission_reference": "MNE(2017)55915",
+  "nim_celex": "72014L0046LTU_251890",
+  "nim_id": "251890",
+  "transposes_celex": [
+    "32014L0046"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/37b97dd7-ee96-403f-b9d4-00aeb2adbb92",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
