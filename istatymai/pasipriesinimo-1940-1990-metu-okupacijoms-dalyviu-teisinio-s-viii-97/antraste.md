@@ -13,5 +13,6 @@ Lietuvos Respublikos kariškiai, vidaus reikalų sistemos pareigūnai, sukarint�
 tautiškai nusiteikusi Lietuvos inteligentija priešinosi nacistiniam okupaciniam režimui, kvietė gyventojus nebendradarbiauti su nacistinio režimo institucijomis; visuomenės pastangomis buvo sužlugdytas SS batalionų Lietuvoje formavimas;
 buvo siekiama ir nuolatos ieškoma būdų ir galimybių atkurti nepriklausomą Lietuvos valstybę;
 Lietuvos piliečiai tremtyje ir GULAG’o lageriuose įvairiais būdais kovojo prieš smurtą ir okupacinį režimą;
+nacistinės Vokietijos okupacijos metais, nepaisydami gresiančio pavojaus savo ir šeimų gyvybei, Lietuvos gyventojai gelbėjo mirčiai pasmerktus žydus;
 atsižvelgdamas į tai, kad 1996 m. lapkričio 28 d. įstatymu Nr. VIII-11 ginkluoto pasipriešinimo (rezistencijos) dalyviai paskelbti Lietuvos kariais savanoriais ir pripažinti jų kariniai laipsniai bei apdovanojimai,
 priima šį įstatymą.
