@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos generalinio prokuroro 2014 m. birželio 30 d. įsakymas Nr. I-133 \"Dėl Lietuvos Respublikos generalinio prokuroro 2008 m. rugpjūčio 11 d. įsakymo Nr. I-110 \"Dėl rekomendacijų dėl ikiteisminio tyrimo pradžios ir jos registravimo tvarkos\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-09479",
+  "official_journal_page": null,
+  "official_journal_date": "2014-07-01",
+  "entry_into_force": "2014-07-02",
+  "notification_date": "2015-11-12",
+  "commission_reference": "MNE(2015)58303",
+  "nim_celex": "72012L0029LTU_231696",
+  "nim_id": "231696",
+  "transposes_celex": [
+    "32012L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/92afbe1b-97a5-4c9f-86b4-0b5eac7d264b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
