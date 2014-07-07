@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos civilinio kodekso 2.71 straipsnio ir priedo pakeitimo įstatymas Nr. XII-984",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-09753",
+  "official_journal_page": null,
+  "official_journal_date": "2014-07-07",
+  "entry_into_force": "2014-07-07",
+  "notification_date": "2014-07-09",
+  "commission_reference": "MNE(2014)54135",
+  "nim_celex": "72012L0017LTU_218151",
+  "nim_id": "218151",
+  "transposes_celex": [
+    "32012L0017"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d0d2f25c-dae6-4ec7-aa2f-59f25f87db21",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
