@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2014 m. liepos 7d. įsakymas Nr. 1-180 \"Dėl Lietuvos Respublikos energetikos ministro 2012 m. vasario 2 d. įsakymo Nr. 1-19 \"Dėl Leidimų verstis prekybos naftos produktais veikla išdavimo taisyklių patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-09900",
+  "official_journal_page": null,
+  "official_journal_date": "2014-07-07",
+  "entry_into_force": "2014-07-08",
+  "notification_date": "2015-07-14",
+  "commission_reference": "MNE(2015)55095",
+  "nim_celex": "72012L0033LTU_228162",
+  "nim_id": "228162",
+  "transposes_celex": [
+    "32012L0033"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2613c420-4093-4f0b-8fe5-8cb23cbc4389",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
