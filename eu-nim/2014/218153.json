@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 75, 76 straipsnių ir priedo pakeitimo įstatymas Nr. XII-985",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-09904",
+  "official_journal_page": null,
+  "official_journal_date": "2014-07-07",
+  "entry_into_force": "2014-07-08",
+  "notification_date": "2014-07-09",
+  "commission_reference": "MNE(2014)54137",
+  "nim_celex": "71989L0666LTU_218153",
+  "nim_id": "218153",
+  "transposes_celex": [
+    "31989L0666",
+    "32012L0017"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0eee6c84-b318-4c3d-b183-791ea1160f2c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
