@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo proceso kodekso 55, 80, 80-1, 149 straipsnių pakeitimo ir Kodekso papildymo 150-1 straipsniu įstatymas Nr. XII-1017",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-10348",
+  "official_journal_page": null,
+  "official_journal_date": "2014-07-18",
+  "entry_into_force": "2014-07-19",
+  "notification_date": "2015-11-16",
+  "commission_reference": "MNE(2015)58405",
+  "nim_celex": "72012L0029LTU_231799",
+  "nim_id": "231799",
+  "transposes_celex": [
+    "32012L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ee3a5cf2-bdc8-40d9-a537-06f5dd8e06c2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
