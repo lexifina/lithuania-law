@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos euro įvedimo Lietuvos Respublikoje įstatymas Nr. XII-828",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "04875",
+  "official_journal_page": null,
+  "official_journal_date": "2014-04-29",
+  "entry_into_force": "2014-07-23",
+  "notification_date": "2015-12-07",
+  "commission_reference": "MNE(2015)58471",
+  "nim_celex": "72011L0083LTU_231868",
+  "nim_id": "231868",
+  "transposes_celex": [
+    "32011L0083"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/381ab0ff-e4ca-482f-9d5b-7275c607c2d7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
