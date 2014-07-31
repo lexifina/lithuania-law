@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vyriausiojo valstybinio darbo inspektoriaus 2014 m. liepos 29 d. įsakymas dėl Lietuvos Respublikos valstybinės darbo inspekcijos ūkio subjektų veiklos patikrinimų taisyklių patvirtinimo Nr. V-334",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "Nr. 10665",
+  "official_journal_page": null,
+  "official_journal_date": "2014-07-30",
+  "entry_into_force": "2014-07-31",
+  "notification_date": "2016-10-26",
+  "commission_reference": "MNE(2016)56431",
+  "nim_celex": "72014L0067LTU_241526",
+  "nim_id": "241526",
+  "transposes_celex": [
+    "32014L0067"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5019c4ac-ba2b-47ec-8595-cd8c3e50af14",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
