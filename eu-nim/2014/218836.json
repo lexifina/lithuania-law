@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2014 m. liepos 31 d. įsakymas Nr. 3-320-(E)  „Dėl Lietuvos Respublikos susisiekimo ministro 2004 m. gruodžio 23 d. įsakymo Nr. 3-586 „Dėl Geležinkelių sistemos sąveikos reikalavimų nustatymo ir taikymo taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-10733",
+  "official_journal_page": null,
+  "official_journal_date": "2014-07-31",
+  "entry_into_force": "2014-08-01",
+  "notification_date": "2014-08-28",
+  "commission_reference": "MNE(2014)54674",
+  "nim_celex": "72014L0038LTU_218836",
+  "nim_id": "218836",
+  "transposes_celex": [
+    "32014L0038"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a0405192-a3f3-4a8d-8a0c-6c5d27b6114b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
