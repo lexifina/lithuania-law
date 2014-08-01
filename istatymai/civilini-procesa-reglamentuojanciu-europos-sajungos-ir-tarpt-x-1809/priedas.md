@@ -13,3 +13,4 @@ priedas
 6. 2007 m. liepos 11 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 861/2007, nustatantis Europos ieškinių dėl nedidelių sumų nagrinėjimo procedūrą (OL 2007 L 199, p. 1).
 7. 2007 m. lapkričio 13 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1393/2007 dėl teisminių ir neteisminių dokumentų civilinėse arba komercinėse bylose įteikimo valstybėse narėse („dokumentų įteikimas“) ir panaikinantis Tarybos reglamentą (EB) Nr. 1348/2000 (OL 2007 L 324, p. 79).
 8. 2008 m. gruodžio 18 d. Tarybos reglamentas (EB) Nr. 4/2009 dėl jurisdikcijos, taikytinos teisės, teismo sprendimų pripažinimo ir vykdymo bei bendradarbiavimo išlaikymo prievolių srityje (OL 2009 L 7, p. 1).
+9. 2011 m. birželio 9 d. Tarybos sprendimas Nr. 2011/432/ES dėl 2007 m. lapkričio 23 d. Hagos konvencijos dėl tarptautinio vaikų ir kitokių šeimos išlaikymo išmokų išieškojimo patvirtinimo Europos Sąjungos vardu (OL 2011 L 192, p. 39).
