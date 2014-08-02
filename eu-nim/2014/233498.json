@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Lietuvos banko įstatymo 1, 6, 7, 8, 11, 12, 14, 19, 20, 25, 31, 33, 35, 36, 38, 47, 49, 50, 53, 54, 54-1, 55 straipsnių, ketvirtojo ir penktojo skirsnių pavadinimų pakeitimo, 26, 27, 28, 29, 30, 32, 37 straipsnių pripažinimo netekusiais galios ir įstatymo priedo papildymo įstatymo Nr. X-569 4, 5 ir 32 straipsnių pakeitimo ir 31 straipsnio pripažinimo netekusiu galios įstatymas Nr. XII-1046",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-10742",
+  "official_journal_page": null,
+  "official_journal_date": "2014-08-01",
+  "entry_into_force": "2014-08-02",
+  "notification_date": "2016-01-08",
+  "commission_reference": "MNE(2016)50174",
+  "nim_celex": "72014L0059LTU_233498",
+  "nim_id": "233498",
+  "transposes_celex": [
+    "32014L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ea22c0bd-0e1a-4b79-959b-dbfebe8bab63",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
