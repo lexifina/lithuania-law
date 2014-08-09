@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės kelių transporto inspekcijos prie Susisiekimo ministerijos viršininko 2014 m. rugpjūčio 8 d. įsakymas Nr. 2B-176 \"Dėl Valstybinės kelių transporto inspekcijos prie Susisiekimo ministerijos viršininko 2010 m. gruodžio 23 d. įsakymo Nr. 2B-566 „Dėl Dviračių ir triračių motorinių transporto priemonių apšvietimo ir šviesos signalizavimo įtaisų tipo patvirtinimo taisyklių patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-10965",
+  "official_journal_page": null,
+  "official_journal_date": "2014-08-08",
+  "entry_into_force": "2014-08-09",
+  "notification_date": "2014-09-26",
+  "commission_reference": "MNE(2014)54752",
+  "nim_celex": "72013L0060LTU_218951",
+  "nim_id": "218951",
+  "transposes_celex": [
+    "32013L0060"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e4f22ded-bda8-4075-824e-cb5e69c3481e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
