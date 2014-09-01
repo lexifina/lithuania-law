@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos profesinio mokymo įstatymo 19 straipsnio pakeitimo ir papildymo įstatymas Nr. XII-530",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "107",
+  "official_journal_page": null,
+  "official_journal_date": "2013-10-12",
+  "entry_into_force": "2014-09-01",
+  "notification_date": "2017-01-31",
+  "commission_reference": "MNE(2017)50798",
+  "nim_celex": "72014L0036LTU_244858",
+  "nim_id": "244858",
+  "transposes_celex": [
+    "32014L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d0154ae4-7161-49d9-bb01-cad078b189ec",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
