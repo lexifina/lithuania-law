@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2014 m. rugsėjo 10 d. nutarimas Nr. 937 „Dėl Lietuvos Respublikos Vyriausybės 1999 m. gruodžio 27 d. nutarimo Nr. 1482 „Dėl institucijų, įgaliotų tvirtinti privalomuosius produktų saugos reikalavimus, paskyrimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-12421",
+  "official_journal_page": null,
+  "official_journal_date": "2014-09-17",
+  "entry_into_force": "2014-09-18",
+  "notification_date": "2016-04-29",
+  "commission_reference": "MNE(2016)52846",
+  "nim_celex": "72014L0031LTU_237112",
+  "nim_id": "237112",
+  "transposes_celex": [
+    "32014L0031"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/217acf26-4f54-4d7d-ae27-9247569b18aa",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
