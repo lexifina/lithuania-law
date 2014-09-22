@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro ir Lietuvos Respublikos susisiekimo ministro 2014 m. rugsėjo 15 d. įsakymas Nr. D1-728/3-359-(E) \"Dėl Lietuvos Respublikos aplinkos ministro ir Lietuvos Respublikos susisiekimo ministro 2009 m. rugsėjo 4 d. įsakymo Nr. D1-514/3-411 „Dėl aviacijos veiklos rūšių įtraukimo į Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų sistemą reikalavimų nustatymo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-12677",
+  "official_journal_page": null,
+  "official_journal_date": "2014-09-22",
+  "entry_into_force": null,
+  "notification_date": "2014-10-31",
+  "commission_reference": "MNE(2014)55601",
+  "nim_celex": "72003L0087LTU_220068",
+  "nim_id": "220068",
+  "transposes_celex": [
+    "32003L0087",
+    "32008L0101"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c4be9919-acfa-4a6a-8fd1-2e76180ab9bb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
