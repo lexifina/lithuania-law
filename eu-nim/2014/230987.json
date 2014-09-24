@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Lietuvos banko įstatymo Nr.  I-678 8, 11, 27, 51, 55 straipsnių,  2 priedo pakeitimo ir įstatymo papildymo septintuoju 2 skirsniu ir 52-1 straipsniu įstatymas Nr. XII-1097",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-12712",
+  "official_journal_page": null,
+  "official_journal_date": "2014-09-23",
+  "entry_into_force": "2014-09-24",
+  "notification_date": "2015-10-23",
+  "commission_reference": "MNE(2015)57609",
+  "nim_celex": "72013L0036LTU_230987",
+  "nim_id": "230987",
+  "transposes_celex": [
+    "32013L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/00738029-cc0f-41a0-ad99-f050465aa623",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
