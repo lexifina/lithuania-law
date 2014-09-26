@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2014 m. rugsėjo 24 d. įsakymas Nr. A1-462 „Dėl valstybinės smurto artimoje aplinkoje prevencijos ir pagalbos teikimo nukentėjusiems asmenims 2014–2020 metų programos įgyvendinimo 2014–2016 metų veiksmų plano patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-12868",
+  "official_journal_page": null,
+  "official_journal_date": "2014-09-25",
+  "entry_into_force": "2014-09-26",
+  "notification_date": "2015-07-16",
+  "commission_reference": "MNE(2015)55225",
+  "nim_celex": "72011L0093LTU_228297",
+  "nim_id": "228297",
+  "transposes_celex": [
+    "32011L0093"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/41e724a0-bc89-4f0e-a2b0-6c93c5e0dd91",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
