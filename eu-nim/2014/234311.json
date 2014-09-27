@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Migracijos departamento prie Lietuvos Respublikos vidaus reikalų ministerijos direktoriaus 2014 m. rugsėjo 26 d. įsakymas Nr. 3K-67 \"Dėl Migracijos departamento prie Lietuvos Respublikos vidaus reikalų ministerijos darbo reglamento patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-12916",
+  "official_journal_page": null,
+  "official_journal_date": "2014-09-26",
+  "entry_into_force": "2014-09-27",
+  "notification_date": "2016-02-05",
+  "commission_reference": "MNE(2016)50945",
+  "nim_celex": "72003L0109LTU_234311",
+  "nim_id": "234311",
+  "transposes_celex": [
+    "32003L0109"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d748b620-e019-4175-8ce2-696b19797f8c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
