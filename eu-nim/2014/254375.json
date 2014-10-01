@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos oro apsaugos įstatymo Nr. VIII-1392 4 ir 7 straipsnių pakeitimo įstatymas Nr. XII-463",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "79-3984",
+  "official_journal_page": null,
+  "official_journal_date": "2013-07-23",
+  "entry_into_force": "2014-10-01",
+  "notification_date": "2018-01-09",
+  "commission_reference": "MNE(2018)50181",
+  "nim_celex": "72015L2193LTU_254375",
+  "nim_id": "254375",
+  "transposes_celex": [
+    "32015L2193"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3294137f-342a-4761-8e22-2064aad22c4f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
