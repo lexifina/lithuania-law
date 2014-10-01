@@ -10,3 +10,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | --- | --- | --- | --- |
 | 2013-07-01 | 2013-12-31 | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/08325ab95e1fb41cf28d337f185f1d52902c2004/istatymai/TAR.DE127819AE22.md) |
 | 2014-01-01 | 2014-09-30 | Įstatymas Nr. XII-580 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/b952e80d33e9068a3a37e4acd6eaaf927070e89c/istatymai/TAR.DE127819AE22.md) |
+| 2014-10-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/caf697676c642aba88fc50a3ec45735e2c8b3648/istatymai/TAR.DE127819AE22.md) |
