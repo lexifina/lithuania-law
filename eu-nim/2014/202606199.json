@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2014 m. spalio 10 d. įsakymas Nr. 1-248 „Dėl gamtinių dujų tiekimo ir vartojimo taisyklių patvirtinimo“ (suvestinė redakcija nuo 2024-04-01 iki 2025-05-31)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-14190",
+  "official_journal_page": null,
+  "official_journal_date": "2014-10-15",
+  "entry_into_force": "2014-10-16",
+  "notification_date": "2026-08-06",
+  "commission_reference": "MNE(2026)06199",
+  "nim_celex": "72024L1788LTU_202606199",
+  "nim_id": "202606199",
+  "transposes_celex": [
+    "32024L1788"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9c8bfc1c-6844-4fd4-a4d0-937244a75c2e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
