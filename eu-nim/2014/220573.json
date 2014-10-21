@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 1, 2, 3-1, 4-1, 6, 12-1 straipsnių ir 4 priedo pakeitimo, 19 straipsnio pripažinimo netekusiu galios ir Įstatymo papildymo 18-2 straipsniu įstatymas Nr. XII-1214",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-14329",
+  "official_journal_page": null,
+  "official_journal_date": "2014-10-20",
+  "entry_into_force": "2014-10-21",
+  "notification_date": "2014-10-21",
+  "commission_reference": "MNE(2014)55932",
+  "nim_celex": "72008L0098LTU_220573",
+  "nim_id": "220573",
+  "transposes_celex": [
+    "32008L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e4506c65-e322-40f8-a172-f71152649666",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
