@@ -1,12 +1,5 @@
-Įstatymas
-skelbtas: Žin., 1998, Nr. 61-1726
-Neoficialus
-įstatymo tekstas
-LIETUVOS RESPUBLIKOS
 ATLIEKŲ TVARKYMO
 ĮSTATYMAS
-1998 m. birželio 16 d. Nr. VIII-787
-Vilnius
+1998 m. birželio 16 d. Nr. VIII-787 Vilnius
 PIRMASIS SKIRSNIS
-BENDROSIOS
-NUOSTATOS
+BENDROSIOS NUOSTATOS
