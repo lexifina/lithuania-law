@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės maisto ir veterinarijos tarnybos direktoriaus 2014 m. spalio 23  d. įsakymas Nr. B1-923 „Dėl Valstybinės maisto ir veterinarijos tarnybos direktoriaus 2005 m. spalio 11 d. įsakymo Nr. B1-559 „Dėl Reikalavimų prekybai gyvūnais, sperma, kiaušialąstėmis ir embrionais bei jų importui patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-14842",
+  "official_journal_page": null,
+  "official_journal_date": "2014-10-24",
+  "entry_into_force": "2014-10-25",
+  "notification_date": "2014-11-10",
+  "commission_reference": "MNE(2014)56349",
+  "nim_celex": "72013L0031LTU_221100",
+  "nim_id": "221100",
+  "transposes_celex": [
+    "32013L0031"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c479d437-527b-41a1-bbe4-139050c8ac36",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
