@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 pakeitimo įstatymas Nr. XII-898",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-05729",
+  "official_journal_page": null,
+  "official_journal_date": "2014-05-27",
+  "entry_into_force": "2014-11-01",
+  "notification_date": "2014-06-04",
+  "commission_reference": "MNE(2014)53123",
+  "nim_celex": "72011L0076LTU_216743",
+  "nim_id": "216743",
+  "transposes_celex": [
+    "32011L0076"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/97bf039f-1fa2-4443-ba69-b5530a52dd8e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
