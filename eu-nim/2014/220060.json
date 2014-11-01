@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15, 16, 18 straipsnių, septintojo skirsnio pavadinimo pakeitimo, Įstatymo papildymo 4-1 straipsniu ir 20 straipsnio pripažinimo netekusiu galios įstatymas Nr. XII-873",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-05577",
+  "official_journal_page": null,
+  "official_journal_date": "2014-05-21",
+  "entry_into_force": "2014-11-01",
+  "notification_date": "2014-09-26",
+  "commission_reference": "MNE(2014)55593",
+  "nim_celex": "71990L0314LTU_220060",
+  "nim_id": "220060",
+  "transposes_celex": [
+    "31990L0314"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4d633f3f-2adb-4e59-b925-35663e2cef00",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
