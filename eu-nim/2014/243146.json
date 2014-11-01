@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2014 m. liepos 4 d. įsakymas Nr. V-767 „Dėl asmens sveikatos priežiūros įstaigų, teikiančių žmogaus audinių, ląstelių, organų donorystės ir transplantacijos paslaugas, planinių ir neplaninių patikrinimų atlikimo taisyklių patvirtinimo”",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "9861",
+  "official_journal_page": null,
+  "official_journal_date": "2014-07-07",
+  "entry_into_force": "2014-11-01",
+  "notification_date": "2016-12-06",
+  "commission_reference": "MNE(2016)57377",
+  "nim_celex": "72015L0566LTU_243146",
+  "nim_id": "243146",
+  "transposes_celex": [
+    "32015L0566"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9beff9d3-cf53-48fe-b177-b8ca7a878bf4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
