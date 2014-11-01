@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Teisėjų Tarybos 2014 m. spalio 31 d. nutarimas Nr. 13P-137-(7.1.2) \"Dėl teisėjų kvalifikacijos kėlimo programų 2015-2016 m. patvirtinimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Administracinės priemonės",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2014-10-31",
+  "entry_into_force": "2014-11-01",
+  "notification_date": "2016-08-02",
+  "commission_reference": "MNE(2016)54930",
+  "nim_celex": "72014L0057LTU_239496",
+  "nim_id": "239496",
+  "transposes_celex": [
+    "32014L0057"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d899cc27-b8db-41e8-8fff-ed5308b9b67c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
