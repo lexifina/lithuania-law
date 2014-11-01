@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 2, 4, 19, 21, 26, 32, 33, 34, 35, 36, 40, 43, 44, 441, 45, 46, 492, 50, 51, 57, 58, 62, 64, 71, 94, 101, 104, 128, 141 straipsnių pakeitimo ir 1411 straipsnio pripažinimo netekusiu galios įstatymas Nr. XII-965",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "2014-09973",
+  "official_journal_page": null,
+  "official_journal_date": "2014-07-10",
+  "entry_into_force": "2014-11-01",
+  "notification_date": "2017-01-31",
+  "commission_reference": "MNE(2017)50756",
+  "nim_celex": "72014L0036LTU_244816",
+  "nim_id": "244816",
+  "transposes_celex": [
+    "32014L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fcbe8274-789a-495a-b6b5-2a6749f4299e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
