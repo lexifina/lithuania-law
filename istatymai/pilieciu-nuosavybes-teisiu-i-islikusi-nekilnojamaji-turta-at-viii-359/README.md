@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 1997-07-09 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/c1cbc9211d914fc2e164289f5380c7d25d775830/istatymai/TAR.8A16A03D98D4.md) |
+| 2014-11-01 | 2015-08-31 | Įstatymas Nr. IX-489 / Įstatymas Nr. IX-708 / Įstatymas Nr. XI-919 / Įstatymas Nr. XII-1150 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/c94a86bd7d812d95448616da4487df6703f7e3ea/istatymai/TAR.8A16A03D98D4.md) |
