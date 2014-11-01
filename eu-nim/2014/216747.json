@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos kelių įstatymo Nr. I-891 1, 2, 3, 4, 5, 7, 10, 17, 18, 20, 21 straipsnių pakeitimo ir Įstatymo papildymo priedu įstatymas Nr. XII-899",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "2014-05728",
+  "official_journal_page": null,
+  "official_journal_date": "2014-05-27",
+  "entry_into_force": "2014-11-01",
+  "notification_date": "2014-08-28",
+  "commission_reference": "MNE(2014)53127",
+  "nim_celex": "71996L0053LTU_216747",
+  "nim_id": "216747",
+  "transposes_celex": [
+    "31996L0053"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2cd56cab-2460-4023-811b-6ed07c89ea52",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
