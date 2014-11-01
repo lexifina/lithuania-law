@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos valiutos keityklos operatorių įstatymas Nr. XII-1033 (Suvestinė redakcija nuo 2015-01-01)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-10873",
+  "official_journal_page": null,
+  "official_journal_date": "2014-08-04",
+  "entry_into_force": "2014-11-01",
+  "notification_date": "2017-09-06",
+  "commission_reference": "MNE(2017)53860",
+  "nim_celex": "72015L0849LTU_249120",
+  "nim_id": "249120",
+  "transposes_celex": [
+    "32015L0849"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c7306021-36ad-4dd8-8bb5-f0a1d46bc05c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
