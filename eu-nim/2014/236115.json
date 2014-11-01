@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės kainų ir energetikos kontrolės komisijos 2014 m. gegužės 26 d. nutarimas Nr. O3-140 \"Dėl Energetikos įmonių reguliuojamos veiklos patikrinimų tvarkos aprašo patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-05714",
+  "official_journal_page": null,
+  "official_journal_date": "2014-05-27",
+  "entry_into_force": "2014-11-01",
+  "notification_date": "2016-03-30",
+  "commission_reference": "MNE(2016)52121",
+  "nim_celex": "72009L0073LTU_236115",
+  "nim_id": "236115",
+  "transposes_celex": [
+    "32009L0073"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/aaa09972-e7e0-4004-858e-935b900d1a28",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
