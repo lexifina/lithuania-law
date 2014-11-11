@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2014 m. lapkričio 5 d. nutarimas Nr. 1225 \"Dėl Lietuvos Respublikos Vyriausybės 1998 m. rugsėjo 22 d. nutarimo Nr. 1138 „Dėl Lietuvos Respublikos aplinkos ministerijos nuostatų patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-16411",
+  "official_journal_page": null,
+  "official_journal_date": "2014-11-10",
+  "entry_into_force": "2014-11-11",
+  "notification_date": "2016-03-15",
+  "commission_reference": "MNE(2016)51622",
+  "nim_celex": "72014L0089LTU_235365",
+  "nim_id": "235365",
+  "transposes_celex": [
+    "32014L0089"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/eb4d5186-2b05-4b1e-b4d7-fe1971f4cc28",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
