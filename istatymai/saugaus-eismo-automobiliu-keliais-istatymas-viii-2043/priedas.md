@@ -1,20 +1,16 @@
-# įstatymo
-Nr. VIII-2043
+# RESPUBLIKOS PREZIDENTAS VALDAS ADAMKUS
+Lietuvos Respublikos
+saugaus eismo automobilių
+keliais įstatymo
 priedas
-Saugaus
-eismo automobilių keliais įstatymas yra suderintas su:
-1) 1970 m. vasario
-6 d. Tarybos direktyva 70/156/EEB dėl valstybių narių įstatymų, priimtų dėl
-transporto priemonių ir jų priekabų tipų patvirtinimo, derinimo;
-2) 1992 m.
-birželio 30 d. Tarybos direktyva 92/61/EEB dėl dviračių arba triračių
-transporto priemonių tipo patvirtinimo;
-3) 2002 m. kovo
-18 d. Europos Parlamento ir Tarybos direktyva 2002/24/EB dėl dviračių arba
-triračių transporto priemonių tipo patvirtinimo ir Tarybos direktyvos 92/61/EEB
-panaikinimo;
-4)
-Konvencija dėl eismo įvykiams taikytinos teisės, sudaryta 1971 m. gegužės 4 d.
-Hagoje.
-Žin., 2002, Nr. 123-5543 (2002-12-24)
-________________
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+1. 1970 m. vasario 6 d. Tarybos direktyva 70/156/EEB dėl valstybių narių įstatymų, reglamentuojančių transporto priemonių ir jų priekabų tipo patvirtinimą, suderinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 1 tomas, p. 44) su paskutiniais pakeitimais, padarytais 2007 m. birželio 21 d. Komisijos direktyva 2007/37/EB, iš dalies keičiančia Tarybos direktyvos 70/156/EEB dėl valstybių narių įstatymų, reglamentuojančių motorinių transporto priemonių ir jų priekabų tipo patvirtinimą, suderinimo I ir III priedus (OL 2007 L 161, p. 60).
+2. Konvencija dėl eismo įvykiams taikytinos teisės, sudaryta 1971 m. gegužės 4 d. Hagoje.
+3. 1991 m. liepos 29 d. Tarybos direktyva 91/439/EEB dėl vairuotojo pažymėjimų (OL 2004 m. specialusis leidimas, 7 skyrius, 1 tomas, p. 317) su paskutiniais pakeitimais, padarytais 2009 m. rugpjūčio 25 d. Komisijos direktyva 2009/112/EB (OL 2009 L 223, p. 23).
+4. 1998 m. birželio 4 d. Tarybos rekomendacija 98/376/EB dėl neįgalių asmenų automobilių statymo kortelių.
+5. 2002 m. kovo 18 d. Europos Parlamento ir Tarybos direktyva 2002/24/EB dėl dviračių ir triračių motorinių transporto priemonių tipo patvirtinimo, panaikinanti Tarybos direktyvą 92/61/EEB (OL 2004 m. specialusis leidimas, 13 skyrius, 29 tomas, p. 399), su paskutiniais pakeitimais, padarytais 2008 m. spalio 22 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1137/2008 (OL 2008 L 311, p. 1).
+6. 2003 m. liepos 15 d. Europos Parlamento ir Tarybos direktyva 2003/59/EB dėl tam tikrų kelių transporto priemonių kroviniams ir keleiviams vežti vairuotojų pradinės kvalifikacijos ir periodinio mokymo, iš dalies keičianti Tarybos reglamentą (EEB) Nr. 3820/85 ir Tarybos direktyvą 91/439/EEB bei panaikinanti Tarybos direktyvą 76/914/EEB (OL 2004 m. specialusis leidimas, 7 skyrius, 7 tomas, p. 441), su paskutiniais pakeitimais, padarytais 2008 m. spalio 22 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1137/2008 (OL 2008 L 311, p. 1).
+7. 2006 m. gruodžio 20 d. Europos Parlamento ir Tarybos direktyva 2006/126/EB dėl vairuotojo pažymėjimų (OL 2006 L 403, p. 18) su paskutiniais pakeitimais, padarytais 2009 m. rugpjūčio 25 d. Komisijos direktyva 2009/113/EB (OL 2009 L 223, p. 31).
+8. 2007 m. rugsėjo 5 d. Europos Parlamento ir Tarybos direktyva 2007/46/EB, nustatanti motorinių transporto priemonių ir jų priekabų bei tokioms transporto priemonėms skirtų sistemų, sudėtinių dalių ir atskirų techninių mazgų patvirtinimo pagrindus (Pagrindų direktyva) (OL 2007 L 263, p. 1), su paskutiniais pakeitimais, padarytais 2010 m. balandžio 16 d. Komisijos reglamentu (ES) Nr. 371/2010 (OL 2010 L 110, p. 1).
+9. 2008 m. kovo 3 d. Tarybos rekomendacija 2008/205/EB, pritaikanti Rekomendaciją 98/376/EB dėl neįgalių asmenų automobilių statymo kortelių, siekiant atsižvelgti į Bulgarijos Respublikos, Čekijos Respublikos, Estijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Rumunijos, Slovėnijos Respublikos ir Slovakijos Respublikos įstojimą (OL 2008 L 63, p. 43).
+10. 2008 m. lapkričio 19 d. Europos Parlamento ir Tarybos direktyva 2008/96/EB dėl kelių infrastruktūros saugumo valdymo (OL 2008 L 319, p. 59).
