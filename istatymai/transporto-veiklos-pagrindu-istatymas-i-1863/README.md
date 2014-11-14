@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 1991-10-15 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/0bb7ce894e2efc1baaac05a9910c5ba07712994f/istatymai/TAR.FBE404535C5B.md) |
+| 2014-11-14 | 2016-06-15 | Įstatymas Nr. IX-747 / Įstatymas Nr. X-747 / Įstatymas Nr. XI-1832 / Įstatymas Nr. XI-2384 / Įstatymas Nr. XII-1306 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/d0319dfff5e1102fe896e9818390fc5187739575/istatymai/TAR.FBE404535C5B.md) |
