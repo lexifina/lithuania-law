@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2001-01-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/31be2a2a3778f86c615e1dc9be4df438159906bd/istatymai/TAR.5DC1759E42CB.md) |
+| 2014-11-14 | 2014-12-31 | Įstatymas Nr. X-1337 / Įstatymas Nr. XI-893 / Įstatymas Nr. XII-360 / Įstatymas Nr. XII-362 / Įstatymas Nr. XII-970 / Įstatymas Nr. XII-1298 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/b6847b584cb0bf057a7f004b15f32e3ce6d0a19d/istatymai/TAR.5DC1759E42CB.md) |
