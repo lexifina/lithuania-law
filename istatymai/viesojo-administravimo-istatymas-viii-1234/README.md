@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 1999-07-09 |  | Teisės aktų registras (Seimo kanceliarija) | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22TAIS_198296%22) |
+| 2014-11-19 | 2014-12-31 | Įstatymas Nr. X-736 / Įstatymas Nr. X-1743 / Įstatymas Nr. XI-593 / Įstatymas Nr. XI-934 / Įstatymas Nr. XI-1259 / Įstatymas Nr. XII-478 / Įstatymas Nr. XII-511 / Įstatymas Nr. XII-935 / Įstatymas Nr. XII-1301 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22bowUOypcbs%22) |
