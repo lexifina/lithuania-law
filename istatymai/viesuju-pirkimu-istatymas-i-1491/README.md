@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 1997-01-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/33de49522d360cf9e32638ef62d17ecd495684aa/istatymai/TAR.C54AFFAA7622.md) |
+| 2014-11-19 | 2014-12-31 | Įstatymas Nr. X-471 / Įstatymas Nr. X-1673 / Įstatymas Nr. XI-395 / Įstatymas Nr. XI-678 / Įstatymas Nr. XI-1255 / Įstatymas Nr. XI-1256 / Įstatymas Nr. XI-1487 / Įstatymas Nr. XI-1605 / Įstatymas Nr. XI-2177 / Įstatymas Nr. XII-166 / Įstatymas Nr. XII-569 / Įstatymas Nr. XII-1326 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/86c7227af8031de377bbb2bcf3f4b82351bc69d1/istatymai/TAR.C54AFFAA7622.md) |
