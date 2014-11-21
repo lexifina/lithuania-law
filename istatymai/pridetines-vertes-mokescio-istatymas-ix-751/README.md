@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2002-07-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22TAIS_184548%22) |
+| 2014-11-21 | 2014-12-15 | Įstatymas Nr. IX-1816 / Įstatymas Nr. IX-1960 / Įstatymas Nr. X-261 / Įstatymas Nr. X-932 / Įstatymas Nr. X-1251 / Įstatymas Nr. X-1322 / Įstatymas Nr. XI-114 / Įstatymas Nr. XI-518 / Įstatymas Nr. XI-1187 / Įstatymas Nr. XI-1817 / Įstatymas Nr. XII-78 / Įstatymas Nr. XII-524 / Įstatymas Nr. XII-1318 / Teisės aktų registras (Seimo kanceliarija) | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22pPJWxJvwQP%22) |
