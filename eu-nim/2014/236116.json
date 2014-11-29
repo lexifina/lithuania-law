@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės kainų ir energetikos kontrolės komisijos 2014 m. lapkričio 27 d. nutarimas Nr. O3-914 \"Dėl Akcinės bendrovės \"Amber Grid\" gamtinių dujų perdavimo sistemos balansavimo taisyklių derinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-18091",
+  "official_journal_page": null,
+  "official_journal_date": "2014-11-28",
+  "entry_into_force": "2014-11-29",
+  "notification_date": "2016-03-30",
+  "commission_reference": "MNE(2016)52122",
+  "nim_celex": "72009L0073LTU_236116",
+  "nim_id": "236116",
+  "transposes_celex": [
+    "32009L0073"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/22127563-c4e5-465d-8273-4a91c2a7a59e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
