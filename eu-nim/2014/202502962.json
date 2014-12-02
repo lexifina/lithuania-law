@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės  2014 m. lapkričio 26 d. nutarimas Nr. 1328 „Dėl viešųjų pastatų energinio efektyvumo didinimo programos patvirtinimo“ (suvestinė redakcija nuo 2023-06-16)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-18293",
+  "official_journal_page": null,
+  "official_journal_date": "2014-12-01",
+  "entry_into_force": "2014-12-02",
+  "notification_date": "2025-05-27",
+  "commission_reference": "MNE(2025)02962",
+  "nim_celex": "72023L2413LTU_202502962",
+  "nim_id": "202502962",
+  "transposes_celex": [
+    "32023L2413"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4e07e330-f3ba-424b-a357-b4ec06b5528c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
