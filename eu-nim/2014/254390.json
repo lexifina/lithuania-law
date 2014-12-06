@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2014 m. gruodžio 4 d. įsakymas Nr. D1-983 „Dėl Lietuvos Respublikos aplinkos ministro 2013 m. liepos 15 d. įsakymo D1-528 „Dėl Taršos integruotos prevencijos ir kontrolės leidimų išdavimo, pakeitimo ir galiojimo panaikinimo taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-19056",
+  "official_journal_page": null,
+  "official_journal_date": "2014-12-05",
+  "entry_into_force": "2014-12-06",
+  "notification_date": "2018-01-09",
+  "commission_reference": "MNE(2018)50188",
+  "nim_celex": "72015L2193LTU_254390",
+  "nim_id": "254390",
+  "transposes_celex": [
+    "32015L2193"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/71fe10ca-911d-4e87-ac62-ef7417ce295e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
