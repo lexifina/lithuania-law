@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Finansinių nusikaltimų tyrimo tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos direktoriaus 2014 m. gruodžio 5 d. įsakymas Nr. V-240 „Dėl Pinigų plovimo ir įtartinų piniginių operacijų ar sandorių atpažinimo kriterijų sąrašo patvirtinimo“ (Suvestinė redakcija nuo 2017-11-16)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "19204",
+  "official_journal_page": null,
+  "official_journal_date": "2014-12-09",
+  "entry_into_force": "2014-12-10",
+  "notification_date": "2020-01-09",
+  "commission_reference": "MNE(2020)50264",
+  "nim_celex": "72018L0843LTU_280058",
+  "nim_id": "280058",
+  "transposes_celex": [
+    "32018L0843"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4de824c4-391f-11ea-ba6e-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
