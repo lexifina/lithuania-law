@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro 2014 m. gruodžio 11 d. įsakymas Nr. 4-893 „Dėl Lietuvos Respublikos ūkio ministro 2007 m. spalio 23 d. įsakymo Nr. 4-438 „Dėl Ekologinio projektavimo reikalavimų su energija susijusiems gaminiams nustatymo sistemos ir jos įgyvendinimo priemonių taikymo techninio reglamento patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-19474",
+  "official_journal_page": null,
+  "official_journal_date": "2014-12-11",
+  "entry_into_force": "2014-12-12",
+  "notification_date": "2015-09-02",
+  "commission_reference": "MNE(2015)56108",
+  "nim_celex": "72012L0027LTU_229329",
+  "nim_id": "229329",
+  "transposes_celex": [
+    "32012L0027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/976cd8ec-f342-470b-baaa-6b33df20c5cc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
