@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2014 m. gruodžio 19 d. įsakymas Nr. 3-534-(E)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-20128",
+  "official_journal_page": null,
+  "official_journal_date": "2014-12-19",
+  "entry_into_force": "2014-12-20",
+  "notification_date": "2015-05-21",
+  "commission_reference": "MNE(2014)57235",
+  "nim_celex": "72007L0046LTU_222331",
+  "nim_id": "222331",
+  "transposes_celex": [
+    "32007L0046",
+    "32015L0719"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b0caa64f-2c1e-4b31-8b79-f7dd97c1f5d8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
