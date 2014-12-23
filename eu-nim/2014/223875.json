@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos smurtiniais nusikaltimais padarytos žalos kompensavimo įstatymo Nr. X-296 7 straipsnio pakeitimo įstatymas Nr. XII-1419",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-20437",
+  "official_journal_page": null,
+  "official_journal_date": "2014-12-22",
+  "entry_into_force": "2014-12-23",
+  "notification_date": "2015-03-03",
+  "commission_reference": "MNE(2015)51074",
+  "nim_celex": "72001F0220LTU_223875",
+  "nim_id": "223875",
+  "transposes_celex": [
+    "32001F0220"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/776292f8-6fb5-4fc4-a6b5-c6af07f539a7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
