@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Audito ir apskaitos tarnybos direktoriaus 2014 m. gruodžio 18 d. įsakymas Nr. VAS-36 \"Dėl 32-ojo verslo apskaitos standarto „Tikrosios vertės nustatymas“ tvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "2014-20573",
+  "official_journal_page": null,
+  "official_journal_date": "2014-12-23",
+  "entry_into_force": "2014-12-24",
+  "notification_date": "2015-08-05",
+  "commission_reference": "MNE(2015)55729",
+  "nim_celex": "72013L0034LTU_228909",
+  "nim_id": "228909",
+  "transposes_celex": [
+    "32013L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e126486e-33a3-4f34-b2db-85f3acfae455",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
