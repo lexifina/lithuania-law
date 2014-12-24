@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2014 m. gruodžio 15 d. nutarimas Nr. 1443 \"Dėl Lietuvos Respublikos Vyriausybės 2013 m. gruodžio 18 d. nutarimo Nr. 1253 „Dėl Nacionalinės susisiekimo plėtros 2014-2022 metų programos patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-20606",
+  "official_journal_page": null,
+  "official_journal_date": "2014-12-23",
+  "entry_into_force": "2014-12-24",
+  "notification_date": "2015-07-28",
+  "commission_reference": "MNE(2015)55393",
+  "nim_celex": "72012L0034LTU_228522",
+  "nim_id": "228522",
+  "transposes_celex": [
+    "32012L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/04be0d47-b412-45ba-8984-cd703df97a1f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
