@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos rinkimų į Europos Parlamentą įstatymo Nr. IX-1837 3, 14, 39, 40, 94 straipsnių, priedo pakeitimo ir Įstatymo papildymo 97-1 straipsniu įstatymas Nr. XII-1415",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-20559",
+  "official_journal_page": null,
+  "official_journal_date": "2014-12-23",
+  "entry_into_force": "2014-12-24",
+  "notification_date": "2015-01-05",
+  "commission_reference": "MNE(2015)50016",
+  "nim_celex": "72013L0001LTU_222375",
+  "nim_id": "222375",
+  "transposes_celex": [
+    "32013L0001"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6130a366-0483-4135-97bc-8b5af888565b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
