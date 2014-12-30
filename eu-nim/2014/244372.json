@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Muitinės departamento prie Lietuvos Respublikos finansų ministerijos generalinio direktoriaus 2014 m. gruodžio 19 d. įsakymas Nr. 1B-953 „Dėl Muitinės departamento prie Lietuvos Respublikos finansų ministerijos generalinio direktoriaus 2008 m. birželio 11 d. įsakymo Nr. 1B-412 „Dėl Sulaikytų prekių apskaitymo centralizuotame F tipo muitinės sandėlyje taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-20769",
+  "official_journal_page": null,
+  "official_journal_date": "2014-12-29",
+  "entry_into_force": "2014-12-30",
+  "notification_date": "2017-01-18",
+  "commission_reference": "MNE(2017)50416",
+  "nim_celex": "72014L0042LTU_244372",
+  "nim_id": "244372",
+  "transposes_celex": [
+    "32014L0042"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/774796d2-67d8-4233-a808-9299a796afda",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
