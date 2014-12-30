@@ -1,56 +1,13 @@
-@D1=19940531;D2=19941215;D3=19950405;
-@D1=19940531;D2=19941215;D3=19950405;
-Redaguota:1995 04 05
-g
-Pakeitimai:
-1.Lietuvos
-Respublikos 1994 10 20
-įstatymas Nr. 1-609,
-Žin., 1994,
-Nr.83-1555,
-DĖL LIETUVOS
-RESPUBLIKOS TEISMŲ
-ĮSTATYMO PAKEITIMO
-2.Lietuvos
-Respublikos 1994 11 08
-įstatymas Nr.1-633,
-Žin., 1994, Nr.
-89-1709,
-DĖL LIETUVOS
-RESPUBLIKOS TEISMŲ
-ĮSTATYMO PAKEITIMO
-IR PAPILDYMO
-3.Lietuvos
-Respublikos 1994 12 08
-įstatymas Nr.1-687
-Žin., 1994,
-Nr.96-1880
-DĖL LIETUVOS
-RESPUBLIKOS TEISMŲ
-ĮSTATYMO PAKEITIMO
-IR PAPILDYMO
-4.Lietuvos
-Respublikos 1995 02 14
-įstatymas Nr.1-792
-Žin., 1995,
-Nr.17-386
-DĖL LIETUVOS
-RESPUBLIKOS TEISMŲ
-ĮSTATYMO PAKEITIMO
-5.Lietuvos
-Respublikos 1995 03 21
-įstatymas Nr.1-827
-Žin., 1995 Nr.29-647
-DĖL LIETUVOS
-RESPUBLIKOS TEISMŲ
-ĮSTATYMO 51
-STRAIPSNIO PAKEITIMO
-LIETUVOS
-RESPUBLIKOS
-T E I S M Ų
+Nr. IX-732, 2002-01-24, Žin., 2002, Nr. 17-649 (2002-02-20)
+LIETUVOS RESPUBLIKOS
+TEISMŲ
 ĮSTATYMAS
-1994 m. gegužės 31 d. Nr.I-480
+1994 m. gegužės 31 d. Nr. I-480
 Vilnius
-I SKIRSNIS
-PAGRINDINIAI
-TEISMŲ VEIKLOS PRINCIPAI
+Lietuvos Respublikos teismų įstatymas nustato Lietuvos Respublikos teismų sistemą, jų kompetenciją, teismų organizavimo, veiklos, administravimo ir savivaldos sistemą, principus, teisėjų statusą, pretendentų į teisėjus atrankos, jų skyrimo teisėjais, teisėjų karjeros, atsakomybės procedūras, teisėjų socialines garantijas, kitus su teismais susijusius klausimus.
+Šiame Įstatyme nustatytas teismų organizavimo ir veiklos, teisėjų statuso ir su jais susijusių santykių teisinis reglamentavimas pagrįstas Lietuvos Respublikos Konstitucijoje, kituose įstatymuose bei Lietuvos Respublikos tarptautinėse sutartyse įtvirtintais visuotinai pripažintais teisės principais: pagarbos žmogaus teisėms ir laisvėms, tarp jų asmens teise į teisminę gynybą, teise, kad kiekvieno asmens byla būtų viešai ir teisingai išnagrinėta nepriklausomo ir nešališko teismo, valstybės valdžios padalijimo principu, pagal kurį teisingumą Lietuvos Respublikoje vykdo tik teismai, teisės viršenybės, teismų ir teisėjų nepriklausomumo, teismų organizacinio savarankiškumo, jų finansinio nepriklausomumo nuo kitų valstybės valdžios institucijų ir pareigūnų sprendimų, teismų savireguliacijos ir savivaldos, kitais teismų sutvarkymo, teisėjų statuso ir teismo proceso principais.
+I DALIS
+BENDROSIOS NUOSTATOS
+I SKYRIUS
+PAGRINDINIAI TEISMŲ ORGANIZAVIMO
+IR VEIKLOS PRINCIPAI
