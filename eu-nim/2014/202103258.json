@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos generalinio prokuroro 2014 m. gruodžio 29 d. įsakymas Nr. I-288 „Dėl baudžiamojo proceso dokumentų formų patvirtinimo“ (suvestinė redakcija nuo 2021-04-28)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-20897",
+  "official_journal_page": null,
+  "official_journal_date": "2014-12-29",
+  "entry_into_force": "2014-12-31",
+  "notification_date": "2021-05-07",
+  "commission_reference": "MNE(2021)03258",
+  "nim_celex": "72019L0713LTU_202103258",
+  "nim_id": "202103258",
+  "transposes_celex": [
+    "32019L0713"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5f1d9b37-b704-11eb-8aca-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
