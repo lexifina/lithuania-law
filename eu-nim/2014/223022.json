@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "2014 m. gruodžio 23 d. Lietuvos Respublikos Vyriausybės nutarimas Nr. 1467 „Dėl Lietuvos Respublikos Vyriausybės 2004 m. rugpjūčio 18 d. nutarimo Nr. 967 \"Dėl Planų ir programų strateginio pasekmių aplinkai vertinimo tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "02014-20928",
+  "official_journal_page": null,
+  "official_journal_date": "2014-12-30",
+  "entry_into_force": "2014-12-31",
+  "notification_date": "2015-03-27",
+  "commission_reference": "MNE(2015)50446",
+  "nim_celex": "72001L0042LTU_223022",
+  "nim_id": "223022",
+  "transposes_celex": [
+    "32001L0042"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3909e26e-f97b-11e4-a4c8-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
