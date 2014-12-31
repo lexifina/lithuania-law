@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos kibernetinio saugumo įstatymas Nr. XII-1428 (suvestinė redakcija nuo 2021 m. sausio 1 d.)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-20553",
+  "official_journal_page": null,
+  "official_journal_date": "2014-12-22",
+  "entry_into_force": "2014-12-31",
+  "notification_date": "2021-05-07",
+  "commission_reference": "MNE(2021)03249",
+  "nim_celex": "72019L0713LTU_202103249",
+  "nim_id": "202103249",
+  "transposes_celex": [
+    "32019L0713"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6e1341e1-b704-11eb-8aca-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
