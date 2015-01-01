@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2014 m. spalio 22 d. nutarimas Nr. 1125 „Dėl Lietuvos Respublikos Vyriausybės 2011 m. spalio 27 d. nutarimo Nr. 1248 „Dėl Universaliųjų elektroninių ryšių paslaugų teikimo nuostolių kompensavimo taisyklių patvirtinimo ir universaliųjų elektroninių ryšių paslaugų kainų aukščiausios ribos nustatymo bei kai kurių Lietuvos Respublikos Vyriausybės nutarimų pripažinimo netekusiais galios“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-14579",
+  "official_journal_page": null,
+  "official_journal_date": "2014-10-23",
+  "entry_into_force": "2015-01-01",
+  "notification_date": "2014-11-10",
+  "commission_reference": "MNE(2014)56167",
+  "nim_celex": "72002L0022LTU_220884",
+  "nim_id": "220884",
+  "transposes_celex": [
+    "32002L0022"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ae007f5a-0241-45ff-ad13-b3d239b69769",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
