@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "2014 m. rugsėjo 25 d. Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo Nr. VIII-1591 12, 13, 14, 21 ir 24 straipsnių pakeitimo įstatymas Nr. XII-1149",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "13715",
+  "official_journal_page": null,
+  "official_journal_date": "2014-10-06",
+  "entry_into_force": "2015-01-01",
+  "notification_date": "2016-12-30",
+  "commission_reference": "MNE(2016)57957",
+  "nim_celex": "72013L0048LTU_243851",
+  "nim_id": "243851",
+  "transposes_celex": [
+    "32013L0048"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a05cd7e8-d42b-11e6-ad7c-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
