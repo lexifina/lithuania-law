@@ -1,22 +1,13 @@
-# RESPUBLIKOS PREZIDENTAS ROLANDAS
-PAKSAS
-Lietuvos
-Respublikos
-kolektyvinio
-investavimo
-subjektų
-įstatymo
+# RESPUBLIKOS PREZIDENTAS ROLANDAS PAKSAS
+Lietuvos Respublikos
+kolektyvinio investavimo
+subjektų įstatymo
 priedas
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
-1. 1985 m.
-gruodžio 20 d. Tarybos direktyva 85/611/EEB dėl įstatymų ir kitų teisės aktų,
-susijusių su kolektyvinio investavimo į perleidžiamuosius vertybinius popierius
-subjektais (KIAVPS), derinimo (OL 2004 m. specialusis leidimas, 6 skyrius, 1
-tomas, p. 139) su paskutiniais pakeitimais, padarytais 2004 m. balandžio 21 d.
-Europos Parlamento ir Tarybos direktyva 2004/39/EB (OL 2004 m. specialusis
-leidimas, 6 skyrius, 7 tomas, p. 263).
-2. 2006 m. rugpjūčio 10 d.
-Komisijos direktyva 2006/73/EB, kuria įgyvendinama Europos Parlamento ir
-Tarybos direktyva 2004/39/EB dėl investicinių įmonių organizacinių reikalavimų
-ir veiklos sąlygų bei toje direktyvoje apibrėžti terminai (OL 2006 L 241, p. 26).
-__________________
+1. 2006 m. rugpjūčio 10 d. Komisijos direktyva 2006/73/EB, kuria įgyvendinama Europos Parlamento ir Tarybos direktyva 2004/39/EB dėl investicinių įmonių organizacinių reikalavimų ir veiklos sąlygų bei toje direktyvoje apibrėžti terminai (OL 2006 L 241, p. 26).
+2. 2007 m. kovo 19 d. Komisijos direktyva 2007/16/EB, įgyvendinanti Tarybos direktyvą 85/611/EEB dėl įstatymų ir kitų teisės aktų, susijusių su kolektyvinio investavimo į perleidžiamus vertybinius popierius subjektais (KIPVPS), derinimo, patikslinant tam tikrus apibrėžimus (OL 2007 L 79, p. 11).
+3. 2007 m. rugsėjo 5 d. Europos Parlamento ir Tarybos direktyva 2007/44/EB, iš dalies keičianti Tarybos direktyvą 92/49/EEB ir direktyvas 2002/83/EB, 2004/39/EB, 2005/68/EB ir 2006/48/EB dėl riziką ribojančio vertinimo tvarkos taisyklių ir vertinimo kriterijų, taikomų akcijų paketų įsigijimui ir didinimui finansų sektoriuje (OL 2007 L 247, p. 1).
+4. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyva 2009/65/EB dėl įstatymų ir kitų teisės aktų, susijusių su kolektyvinio investavimo į perleidžiamuosius vertybinius popierius subjektais (KIPVPS), derinimo (nauja redakcija) (OL 2009 L 302, p. 32) su paskutiniais pakeitimais, padarytais 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos direktyva 2010/78/ES (OL 2010 L 331, p. 120).
+5. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1060/2009 dėl kredito reitingų agentūrų (OL 2009 L 302, p. 1) su paskutiniais pakeitimais, padarytais 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 462/2013 (OL 2013 L 146, p. 1).
+6. 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos direktyva 2010/76/ES, kuria iš dalies keičiamos direktyvų 2006/48/EB ir 2006/49/EB nuostatos, susijusios su kapitalo poreikiu prekybos knygai ir pakartotiniam pakeitimui vertybiniais popieriais, taip pat su atlyginimų nustatymo politikos priežiūriniu tikrinimu (OL 2010 L 329, p. 3).
+7. 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos direktyva 2013/14/ES, kuria iš dalies keičiamos Direktyva 2003/41/EB dėl įstaigų, atsakingų už profesinių pensijų skyrimą, veiklos ir priežiūros, Direktyva 2009/65/EB dėl įstatymų ir kitų teisės aktų, susijusių su kolektyvinio investavimo į perleidžiamus vertybinius popierius subjektais (KIPVPS), derinimo ir Direktyva 2011/61/ES dėl alternatyvaus investavimo fondų valdytojų, kiek tai susiję su per dideliu kliovimusi kredito reitingais (OL 2013 L 145, p. 1).
