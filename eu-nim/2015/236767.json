@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos elektroninių ryšių įstatymo Nr. XI-2135 26 ir 74 straipsnių pakeitimo įstatymas Nr. XII-1260",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-14859",
+  "official_journal_page": null,
+  "official_journal_date": "2014-10-27",
+  "entry_into_force": "2015-01-01",
+  "notification_date": "2016-04-21",
+  "commission_reference": "MNE(2016)52561",
+  "nim_celex": "72014L0030LTU_236767",
+  "nim_id": "236767",
+  "transposes_celex": [
+    "32014L0030"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4af20395-5cd0-4a22-9994-544dda99ae3f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
