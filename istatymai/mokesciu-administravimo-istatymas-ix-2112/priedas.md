@@ -1,29 +1,6 @@
-# įstatymo
-Nr. IX-2112
+# įstatymo Nr. IX-2112
 priedas
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
-1. 1976
-m. kovo 15 d. Tarybos direktyva 76/308/EEB dėl savitarpio pagalbos patenkinant
-pretenzijas, kylančias dėl operacijų, kurios įeina į Europos žemės ūkio
-orientavimo ir garantijų fondo finansavimo sistemą ir dėl žemės ūkio produktų
-importo išlyginamųjų bei muito mokesčių susigrąžinimo (papildyta 1979 m.
-gruodžio 6 d. Tarybos direktyva 79/1071/EEB, 1992 m. vasario 25 d. Tarybos
-direktyva 92/12/EEB (pakeista 1992 m. gruodžio 14 d.
-Tarybos direktyva 92/108/EEB, 1994 m. gruodžio 22 d. Tarybos direktyva
-94/74/EB, 1996 m. gruodžio 30 d. Tarybos direktyva 96/99/EB, 2000 m. birželio
-30 d. Tarybos direktyva 2000/44/EB, 2000 m. liepos 20 d. Tarybos direktyva
-2000/47/EB).
-2. 2002
-m. gruodžio 9 d. Komisijos direktyva 2002/94/EB, nustatanti išsamias Tarybos
-direktyvos 76/308/EEB dėl savitarpio pagalbos patenkinant pretenzijas,
-susijusias su dėl tam tikromis rinkliavomis, muitais ir mokesčiais bei kitomis
-priemonėmis, tam tikrų nuostatų taikymo taisykles.
-3. 1977 m. gruodžio 19 d. Tarybos direktyva 77/799/EEB
-dėl valstybių narių kompetentingų institucijų tarpusavio pagalbos apmokestinimo
-srityje (pakeista 1979 m. gruodžio 6 d. Tarybos direktyva 79/1070/EEB, 1992 m.
-vasario 25 d. Tarybos direktyva 92/12/EEB (pakeista
-1992 m. gruodžio 14 d. Tarybos direktyva 92/108/EEB, 1994 m. gruodžio 22 d.
-Tarybos direktyva 94/74/EB, 1996 m. gruodžio 30 d. Tarybos direktyva 96/99/EB,
-2000 m. birželio 30 d. Tarybos direktyva 2000/44/EB, 2000 m. liepos 20 d.
-Tarybos direktyva 2000/47/EB), 2003 m.
-spalio 7 d. Tarybos direktyva 2003/93/ EB).
+1. 1976 m. kovo 15 d. Tarybos direktyva 76/308/EEB dėl savitarpio pagalbos patenkinant pretenzijas, kylančias dėl operacijų, kurios įeina į Europos žemės ūkio orientavimo ir garantijų fondo finansavimo sistemą, ir dėl žemės ūkio produktų importo išlyginamųjų bei muito mokesčių susigrąžinimo (papildyta 1979 m. gruodžio 6 d. Tarybos direktyva 79/1071/EEB, 1992 m. vasario 25 d. Tarybos direktyva 92/12/EEB (OL 2004 m. specialusis leidimas, 2 skyrius, 1 tomas, p. 44 (su paskutiniais pakeitimais, padarytais 1992 m. vasario 25 d. Tarybos direktyva 92/12/EEB, OL 2004 m. specialusis leidimas, 9 skyrius, 1 tomas, p. 179).
+2. 2002 m. gruodžio 9 d. Komisijos direktyva 2002/94/EB, nustatanti išsamias Tarybos direktyvos 76/308/EEB dėl savitarpio pagalbos patenkinant pretenzijas, susijusias su dėl tam tikromis rinkliavomis, muitais ir mokesčiais bei kitomis priemonėmis, tam tikrų nuostatų taikymo taisykles (OL 2004 m. specialusis leidimas, 2 skyrius, 12 tomas, p. 299).
+3. 1977 m. gruodžio 19 d. Tarybos direktyva 77/799/EEB dėl valstybių narių kompetentingų institucijų tarpusavio pagalbos tiesioginio apmokestinimo ir draudimo išmokų apmokestinimo srityje (pakeista 1979 m. gruodžio 6 d. Tarybos direktyva 79/1070/EEB, 1992 m. vasario 25 d. Tarybos direktyva 92/12/EEB (OL 2004 m. specialusis leidimas, 9 skyrius, 1 tomas, p. 63 (su paskutiniais pakeitimais, padarytais 2004 m. lapkričio 16 d. Tarybos direktyva 2004/106/EB, OL 2004 L 359, p. 30 ).
