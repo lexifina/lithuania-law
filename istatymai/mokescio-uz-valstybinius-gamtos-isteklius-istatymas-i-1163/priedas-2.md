@@ -1,41 +1,36 @@
 # Žvyras
 m3
-1,12
+0,32
 Lietuvos Respublikos
 mokesčio už valstybinius
 gamtos išteklius įstatymo
 2 priedas
-MOKESČIO UŽ VANDENĮ ir statybinį gruntą tarifai
+MOKESČIO UŽ VANDENĮ IR STATYBINĮ GRUNTĄ TARIFAI
 Eil. Nr.
 Ištekliai
-Tarifas (Lt/m3)
+Tarifas (Eur/m3)
 1.
-Požeminis vanduo, išskyrus mineralinį:
-a) vandens tiekėjo tiekiamas namų ūkio reikmėms ir patalpų šildymui;
-0,06
-b) juridinių asmenų naudojamas komerciniams tikslams, supilstytas į tarą;
-10,8
-c) kitas (a ir b punktuose nenurodytas) požeminis vanduo.
-0,24
+Požeminis vanduo, išskyrus mineralinį: a) vandens tiekėjo tiekiamas namų ūkio reikmėms ir patalpų šildymui; b) juridinių asmenų naudojamas komerciniams tikslams, supilstytas į tarą; c) kitas (a ir b punktuose nenurodytas) požeminis vanduo
+0,02 3,13 0,07
 2.
 Mineralinis vanduo, išskyrus mineralinį vandenį, naudojamą gydymo įstaigose
-10,8
+3,13
 3.
 Mineralinis vanduo, naudojamas gydymo įstaigose
-5,4
+1,56
 4.
 Paviršinis vanduo pramonei ir žemės ūkiui
-0,007
+0,002
 5.
 Paviršinis vanduo kondensacinėms šiluminėms elektrinėms aušinti
-0,0007
+0,0002
 6.
 Paviršinis vanduo žuvininkystei
-0,0005
+0,0001
 7.
 Paviršinis vanduo hidroenergetikai
-0,00003
+0,00001
 8.
 Paviršinis vanduo atominei elektrinei
-0,001
+0,0003
 9.
