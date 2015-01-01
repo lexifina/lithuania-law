@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2014-07-23 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/7f1f1fe6e87ac5d8eb65d6d7b0d1332512165f1a/istatymai/TAR.78F45360CF9D.md) |
+| 2015-01-01 | 2015-01-07 | Įstatymas Nr. XII-1424 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/bf27593e6e4b62f2e554407fe692b0df8ba2fa20/istatymai/TAR.78F45360CF9D.md) |
