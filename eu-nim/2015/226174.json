@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo Nr. IX-2387 pakeitimo įstatymas Nr. XII-1477",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-21197",
+  "official_journal_page": null,
+  "official_journal_date": "2014-12-31",
+  "entry_into_force": "2015-01-01",
+  "notification_date": "2015-05-11",
+  "commission_reference": "MNE(2015)53175",
+  "nim_celex": "72011L0089LTU_226174",
+  "nim_id": "226174",
+  "transposes_celex": [
+    "32011L0089",
+    "32013L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/04f42a32-97b3-4a3a-8fcc-f0f5c2f57b82",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
