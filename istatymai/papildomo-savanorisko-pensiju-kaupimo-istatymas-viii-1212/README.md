@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2000-01-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/83310f2975ee86b1f6a175896b401f29187e17cc/istatymai/TAR.DDA1BD559D9B.md) |
+| 2015-01-01 | 2016-12-31 | Įstatymas Nr. XII-70 / Įstatymas Nr. XII-1113 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/42db3caca4ab18dcb96f3d3e8881c58bbc93a06f/istatymai/TAR.DDA1BD559D9B.md) |
