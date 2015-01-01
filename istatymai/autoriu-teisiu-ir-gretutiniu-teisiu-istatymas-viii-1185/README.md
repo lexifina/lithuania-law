@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 1999-06-09 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/13e3ade8569b1f8e9c90e0c31020929b1a90fd29/istatymai/TAR.551F0CDE5B64.md) |
+| 2015-01-01 | 2015-01-14 | Įstatymas Nr. X-855 / Įstatymas Nr. XI-656 / Įstatymas Nr. XI-1833 / Įstatymas Nr. XII-888 / Įstatymas Nr. XII-1183 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/7808f87611d0809dc44649dba6cf563601b3a630/istatymai/TAR.551F0CDE5B64.md) |
