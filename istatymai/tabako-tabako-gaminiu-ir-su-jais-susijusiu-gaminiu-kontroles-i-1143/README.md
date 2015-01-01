@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 1996-02-07 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/130ba0c67f124e6ca99710c8db7a7309617b8f81/istatymai/TAR.F8090E375DA0.md) |
+| 2015-01-01 | 2015-01-06 | Įstatymas Nr. IX-1840 / Įstatymas Nr. X-1637 / Įstatymas Nr. XI-2102 / Įstatymas Nr. XII-469 / Įstatymas Nr. XII-1526 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/4bc10cbc861f7c6afc3b0358a563b5b77b377ef7/istatymai/TAR.F8090E375DA0.md) |
