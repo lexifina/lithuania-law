@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2014 m. rugsėjo 3 d. nutarimas Nr. 901 \"Dėl Lietuvos Respublikos Vyriausybės 2013 m. kovo 13 d. nutarimo Nr. 219 \"Dėl teismų priimtų sprendimų konfiskuoti perdavimo vykdyti kitoms Europos Sąjungos valstybėms narėms taisyklių patvirtinimo ir piniginių lėšų bei turto, gauto įvykdžius sprendimus konfiskuoti, paskirstymo tvarkos\" pakeitimo",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-12123",
+  "official_journal_page": null,
+  "official_journal_date": "2014-09-11",
+  "entry_into_force": "2015-01-01",
+  "notification_date": "2015-03-03",
+  "commission_reference": "MNE(2015)50454",
+  "nim_celex": "72006F0783LTU_223030",
+  "nim_id": "223030",
+  "transposes_celex": [
+    "32006F0783"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0e2832d3-6323-11e7-b2f2-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
