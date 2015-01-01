@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos civilinio kodekso 1.73, 2.109, 3.9, 3.244, 6.228-9, 6.299, 6.469, 6.831, 6.843 ir 6.871 straipsnių pakeitimo įstatymas Nr. XII-1240",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-14518",
+  "official_journal_page": null,
+  "official_journal_date": "2014-10-22",
+  "entry_into_force": "2015-01-01",
+  "notification_date": "2015-12-07",
+  "commission_reference": "MNE(2015)58468",
+  "nim_celex": "72011L0083LTU_231865",
+  "nim_id": "231865",
+  "transposes_celex": [
+    "32011L0083"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/acab5a83-b72e-47f8-849b-7ea5458c20ff",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
