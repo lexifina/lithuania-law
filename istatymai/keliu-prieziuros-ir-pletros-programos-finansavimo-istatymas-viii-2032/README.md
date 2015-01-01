@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2002-01-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/05b9b868b1cfa8d4b4f5cc3a4dc3781c19a8f68c/istatymai/TAR.A7D82E8EDC6B.md) |
+| 2015-01-01 | 2016-10-31 | 4 straipsnis įsigalioja 2015-01-01: Nr. XII-898 / Įstatymas Nr. XII-1310 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/c881510ba3ac1ccd62450102eb677c9ddeb9d9a7/istatymai/TAR.A7D82E8EDC6B.md) |
