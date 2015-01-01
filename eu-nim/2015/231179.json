@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos civilinio kodekso 2.46, 2.66, 2.70, 2.75, 2.106 ir 2.108 straipsnių pakeitimo įstatymas Nr. XII-1064",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-10462",
+  "official_journal_page": null,
+  "official_journal_date": "2014-07-23",
+  "entry_into_force": "2015-01-01",
+  "notification_date": "2015-10-29",
+  "commission_reference": "MNE(2015)57801",
+  "nim_celex": "72013L0034LTU_231179",
+  "nim_id": "231179",
+  "transposes_celex": [
+    "32013L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/95a57c29-dc20-4360-a11a-6cc95e441603",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
