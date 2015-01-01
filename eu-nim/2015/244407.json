@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2014 m. lapkričio 19 d. nutarimas Nr. 1288  „Dėl Lietuvos Respublikos Vyriausybės 2003 m. gegužės 27 d. nutarimo Nr. 650 „Dėl Darbuotojo, valstybės tarnautojo ir žvalgybos pareigūno vidutinio darbo užmokesčio apskaičiavimo tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-17869",
+  "official_journal_page": null,
+  "official_journal_date": "2014-11-25",
+  "entry_into_force": "2015-01-01",
+  "notification_date": "2017-01-18",
+  "commission_reference": "MNE(2017)50437",
+  "nim_celex": "72014L0112LTU_244407",
+  "nim_id": "244407",
+  "transposes_celex": [
+    "32014L0112"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ebf503f8-6c1e-4033-a3af-a2bed7db5d8e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
