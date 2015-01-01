@@ -1,8 +1,7 @@
-# 0,25
+# 0,07
 VII
 Vandens telkiniai
-0,1
-______________
+0,03
 Lietuvos Respublikos mokesčio už
 valstybinius gamtos išteklius įstatymo
 4 priedas
