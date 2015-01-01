@@ -1,10 +1,6 @@
-Įstatymas skelbtas: Žin., 2004, Nr. 4-26
-Neoficialus įstatymo tekstas
 LIETUVOS RESPUBLIKOS
 NEDARBO SOCIALINIO DRAUDIMO
 ĮSTATYMAS
-2003 m. gruodžio 16 d. Nr. IX-1904
-Vilnius
-PIRMASIS
-SKIRSNIS
+2003 m. gruodžio 16 d. Nr. IX-1904 Vilnius
+PIRMASIS SKIRSNIS
 BENDROSIOS NUOSTATOS
