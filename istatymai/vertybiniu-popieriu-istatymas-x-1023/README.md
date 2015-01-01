@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2007-02-08 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/037f23c99e8ac562ef3d0af57c2a50e4d1e719d3/istatymai/TAR.3DF892F52616.md) |
+| 2015-01-01 | 2015-12-03 | Įstatymas Nr. XI-1673 / Įstatymas Nr. XI-1882 / Įstatymas Nr. XI-2123 / Įstatymas Nr. XII-148 / Įstatymas Nr. XII-1471 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/99bbd444da1ad811a92b8ee5007b5fbb46593214/istatymai/TAR.3DF892F52616.md) |
