@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos profesionaliesiems investuotojams skirtų kolektyvinio investavimo subjektų valdymo įmonių įstatymas Nr. XII-1467 (Suvestinė redakcija nuo 2017-01-01)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-21092",
+  "official_journal_page": null,
+  "official_journal_date": "2014-12-30",
+  "entry_into_force": "2015-01-01",
+  "notification_date": "2017-11-28",
+  "commission_reference": "MNE(2017)56588",
+  "nim_celex": "72014L0065LTU_253085",
+  "nim_id": "253085",
+  "transposes_celex": [
+    "32014L0065"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1a9d6e2b-db54-11e7-a506-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
