@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių teisės pažeidimų kodekso pakeitimo įstatymas Nr. XII-1236",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-15013",
+  "official_journal_page": null,
+  "official_journal_date": "2014-10-28",
+  "entry_into_force": "2015-01-01",
+  "notification_date": "2016-05-25",
+  "commission_reference": "MNE(2016)53561",
+  "nim_celex": "72013L0035LTU_237939",
+  "nim_id": "237939",
+  "transposes_celex": [
+    "32013L0035"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ae50def2-67ad-4e66-8f71-78206086762c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
