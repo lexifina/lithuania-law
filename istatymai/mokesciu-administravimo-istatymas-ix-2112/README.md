@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2004-05-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22TAIS_238414%22) |
+| 2015-01-01 | 2015-05-20 | Įstatymas Nr. X-1249 / Įstatymas Nr. X-1786 / Įstatymas Nr. XI-1159 / Įstatymas Nr. XI-1160 / Įstatymas Nr. XI-1849 / Įstatymas Nr. XI-1875 / Įstatymas Nr. XI-2078 / Įstatymas Nr. XII-602 / Įstatymas Nr. XII-795 / Įstatymas Nr. XII-1137 / Įstatymas Nr. XII-1382 / Teisės aktų registras (Seimo kanceliarija) | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22okyCGvawvh%22) |
