@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 1995-01-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/4068da95808ce231c2f5d28df5a2240f420f3a45/istatymai/TAR.ED38F243563C.md) |
+| 2015-01-01 | 2015-12-31 | Įstatymas Nr. XII-1207 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/aea107d8768303c20e9ca99b31a841dfc8ee714e/istatymai/TAR.ED38F243563C.md) |
