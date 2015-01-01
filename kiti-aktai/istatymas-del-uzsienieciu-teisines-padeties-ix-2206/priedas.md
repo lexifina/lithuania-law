@@ -1,100 +1,32 @@
-# LAIKINAI
-EINANTIS
-RESPUBLIKOS
-PREZIDENTO PAREIGAS
-ARTŪRAS
-PAULAUSKAS
-Lietuvos
-Respublikos
-įstatymo
-dėl užsieniečių
-teisinės
-padėties įstatymo
+# Lietuvos Respublikos
+įstatymo „Dėl užsieniečių
+teisinės padėties“
 priedas
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
-1. 1970 m. birželio 29 d. Komisijos
-reglamentas Nr. 1251/70/EEB dėl darbuotojų, pagal darbo sutartį dirbusių
-valstybėje narėje, teisės pasilikti tos valstybės teritorijoje.
-2. 1977 m. liepos 25 d. Tarybos direktyva 77/486/EEB dėl darbuotojų migrantų vaikų mokymo.
-3. 1994 m. birželio 20 d. Tarybos rezoliucija dėl trečiųjų valstybių piliečių, atvykstančių dirbti,
-įleidimo į valstybių narių teritoriją apribojimo.
-4. 1994 m. lapkričio 30 d. Tarybos rezoliucija dėl leidimo trečiųjų valstybių piliečiams atvykti į
-valstybių narių teritoriją studijuoti.
-5. 1994 m. lapkričio 30 d. Tarybos rezoliucija dėl trečiųjų valstybių piliečių, kurie verčiasi
-savarankiškai dirbančių asmenų veikla, įleidimo į valstybių narių teritoriją
-apribojimo.
-6.
-1994 m. lapkričio 30 d. Tarybos sprendimas dėl bendrų veiksmų plano, kurį
-Taryba patvirtino remdamasi Europos Sąjungos steigimo sutarties K.3 straipsnio
-2 dalies b punktu, nustatančio trečiųjų šalių moksleivių, kurie gyvena vienoje
-iš valstybių narių, galimybes keliauti.
-7. 1995 m. birželio 20 d. Tarybos rezoliucija dėl minimalių garantijų prieglobsčio procedūrai.
-8. 1995 m. rugsėjo 25 d. Tarybos rezoliucija dėl dalijimosi našta įsileidžiant į šalį perkeltuosius
-asmenis ir suteikiant jiems teisę laikinai apsigyventi.
-9. 1995 m. gruodžio 22 d. Tarybos rekomendacija dėl kovos su nelegalia imigracija bei nelegaliu darbu
-priemonių derinimo ir atitinkamų kontrolės priemonių gerinimo.
-10. 1996 m. kovo 4 d. Tarybos sprendimas dėl skubios ir ypatingos procedūros dalijantis perkeltųjų asmenų
-įsileidimo ir laikino apgyvendinimo našta.
-11. 1996 m. kovo 4 d. bendra pozicija, Tarybos nustatyta remiantis Europos Sąjungos sutarties K.3
-straipsniu dėl sąvokos „pabėgėlis“ apibrėžimo 1951 m. liepos 28 d. Ženevos konvencijos dėl pabėgėlių statuso 1 straipsnyje suderinto taikymo.
-12. 1996 m. kovo 4 d. Tarybos rezoliucija dėl trečiųjų šalių piliečių, ilgą laiką gyvenančių valstybių
-narių teritorijose, statuso.
-13. 1996 m. kovo 4 d. bendrieji veiksmai, Tarybos nustatyti, remiantis Europos Sąjungos Sutarties K.3
-straipsniu dėl oro uosto tranzito susitarimų.
-14. 1996 m. rugsėjo 27 d. Tarybos rekomendacija dėl kovos su neteisėtu trečiųjų šalių piliečių įdarbinimu.
-15. 1997 m. birželio 26 d. Tarybos rezoliucija dėl nelydimų nepilnamečių, kurie yra trečiųjų šalių
-piliečiai.
-16. 1997 m. gruodžio 4 d. Tarybos rezoliucija dėl priemonių, kurių reikia imtis kovai su santuokomis iš
-išskaičiavimo.
-17. 2000 m. gruodžio 11 d. Tarybos reglamentas (EB) Nr. 2725/2000 dėl „Eurodac“ sistemos sukūrimo pirštų
-atspaudams lyginti siekiant veiksmingiau taikyti Dublino konvenciją.
-18. 2001 m. kovo 15 d. Tarybos reglamentas (EB) Nr. 539/2001, nustatantis trečiųjų šalių, kurių piliečiai,
-kirsdami išorines sienas, privalo turėti vizas, ir trečiųjų šalių, kurių
-piliečiams toks reikalavimas netaikomas, sąrašus.
-19. 2001 m. gegužės 28 d. Tarybos direktyva 2001/40/EB dėl trečiųjų šalių piliečių išsiuntimo sprendimų
-pripažinimo.
-20. 2001 m. gegužės 28 d. Tarybos reglamentas (EB) Nr. 1091/2001 dėl judėjimo laisvės turint ilgalaikę
-vizą.
-21. 2001
-m.
-liepos 20 d. Tarybos direktyva 2001/55/EB dėl minimalių normų suteikiant
-perkeltiesiems asmenims laikiną apsaugą esant masiniam jų srautui ir dėl priemonių,
-skatinančių valstybių narių tarpusavio pastangų priimant tokius asmenis ir
-atsakant už tokio veiksmo padarinius, pusiausvyrą.
-22. 2001 m. gruodžio 7 d. Tarybos reglamentas (EB) Nr. 2414/2001, iš dalies pakeičiantis Reglamentą (EB)
-Nr. 539/2001, nustatantį trečiųjų šalių, kurių piliečiai, kirsdami valstybių
-narių išorines sienas, privalo turėti vizas, ir trečiųjų šalių, kurių
-piliečiams šis reikalavimas netaikomas, sąrašus.
-23. 2002 m. vasario 28 d. Tarybos reglamentas (EB) Nr. 407/2002, nustatantis konkrečias teisės normas dėl
-Tarybos reglamento Nr. 2725/2000 dėl „Eurodac“ sistemos sukūrimo pirštų
-atspaudams lyginti siekiant veiksmingiau taikyti Dublino konvenciją
-įgyvendinimo.
-24. 2003 m. sausio 27 d. Tarybos direktyva 2003/9/EB, nustatanti minimalius prieglobsčio prašytojų
-priėmimo standartus.
-25.
-2003 m. rugsėjo 22 d. Tarybos direktyva 2003/86/EB dėl teisės į šeimos
-susijungimą (OL 2004 m. specialusis leidimas, 19 skyrius, 6 tomas, p. 224).
-26.
-2003 m. lapkričio 25 d. Tarybos direktyva 2003/109/EB dėl trečiųjų valstybių
-piliečių, kurie yra ilgalaikiai gyventojai, statuso (OL 2004 m. specialusis leidimas, 19 skyrius, 6 tomas, p. 272).
-27.
-2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/38/EB dėl
-Sąjungos piliečių ir jų šeimos narių teisės laisvai judėti ir gyventi valstybių
-narių teritorijoje, iš dalies keičianti Reglamentą (EEB) Nr. 1612/68 ir
-naikinanti Direktyvas 64/221/EEB, 68/360/EEB, 72/194/EEB, 73/148/EEB,
-75/34/EEB, 75/35/EEB, 90/364/EEB, 90/365/EEB ir 93/96/EEB (OL 2004 m. specialusis leidimas, 19 skyrius, 5 tomas, p. 46).
-28.
-2004 m. balandžio 29 d. Tarybos direktyva 2004/81/EB dėl leidimo gyventi
-šalyje išdavimo trečiųjų šalių piliečiams, kurie yra prekybos žmonėmis aukos
-arba kurie dalyvavo vykdant nelegalios imigracijos skatinimo veiksmus,
-bendradarbiaujantiems su kompetentingomis institucijomis (OL 2004 m. specialusis leidimas, 19 skyrius, 7 tomas, p. 69).
-29.
-2004 m. balandžio 29 d. Tarybos direktyva 2004/83/EB dėl trečiųjų šalių
-piliečių ar asmenų be pilietybės priskyrimo pabėgėliams ar asmenims, kuriems
-reikalinga tarptautinė apsauga, jų statuso ir suteikiamos apsaugos pobūdžio
-būtiniausių standartų (OL 2004 m. specialusis leidimas, 19 skyrius, 7 tomas, p. 96).
-30. 2004 m. gruodžio 13 d. Tarybos direktyva 2004/114/EB dėl trečiosios šalies piliečių įleidimo studijų,
-mokinių mainų, neatlygintino stažavimosi ar savanoriškos tarnybos tikslais
-sąlygų (OL, 2004, L 375, p. 12).
-Žin., 2006, Nr. 137-5199 (2006-12-16)
-________________
+1. 1985 m. birželio 14 d. Šengeno susitarimas tarp Beniliukso ekonominės sąjungos valstybių, Vokietijos Federacinės Respublikos ir Prancūzijos Respublikos Vyriausybių dėl laipsniško jų bendrų sienų kontrolės panaikinimo (OL 2004 m. specialusis leidimas, 19 skyrius, 2 tomas, p. 3).
+2. 1990 m. birželio 19 d. Konvencija dėl 1985 m. birželio 14 d. Šengeno susitarimo, sudaryto tarp Beniliukso ekonominės sąjungos valstybių, Vokietijos Federacinės Respublikos ir Prancūzijos Respublikos Vyriausybių, dėl laipsniško jų bendrų sienų kontrolės panaikinimo įgyvendinimo (OL 2004 m. specialusis leidimas, 19 skyrius, 2 tomas, p. 9) su paskutiniais pakeitimais, padarytais 2010 m. kovo 25 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 265/2010 (OL 2010 L 85, p. 1).
+3. 2000 m. gruodžio 11 d. Tarybos reglamentas (EB) Nr. 2725/2000 dėl „Eurodac“ sistemos sukūrimo pirštų atspaudams lyginti siekiant veiksmingiau taikyti Dublino konvenciją (OL 2004 m. specialusis leidimas, 19 skyrius, 4 tomas, p. 26).
+4. 2001 m. kovo 15 d. Tarybos reglamentas (EB) Nr. 539/2001, nustatantis trečiųjų šalių, kurių piliečiai, kirsdami išorines sienas, privalo turėti vizas, ir trečiųjų šalių, kurių piliečiams toks reikalavimas netaikomas, sąrašus (OL 2004 m. specialusis leidimas, 19 skyrius, 4 tomas, p. 65), su paskutiniais pakeitimais, padarytais 2009 m. lapkričio 30 d. Tarybos reglamentu (EB) Nr. 1244/2009 (OL 2009 L 336, p. 1).
+5. 2001 m. gegužės 28 d. Tarybos direktyva 2001/40/EB dėl abipusio sprendimų dėl trečiųjų šalių piliečių išsiuntimo pripažinimo (OL 2004 m. specialusis leidimas, 19 skyrius, 4 tomas, p. 107).
+6. 2001 m. liepos 20 d. Tarybos direktyva 2001/55/EB dėl minimalių normų suteikiant perkeltiesiems asmenims laikiną apsaugą esant masiniam jų srautui ir dėl priemonių, skatinančių valstybių narių tarpusavio pastangų priimant tokius asmenis ir atsakant už tokio veiksmo padarinius pusiausvyrą (OL 2004 m. specialusis leidimas, 19 skyrius, 4 tomas, p. 162).
+7. 2002 m. vasario 28 d. Tarybos reglamentas (EB) Nr. 407/2002, nustatantis konkrečias teisės normas dėl Tarybos reglamento Nr. 2725/2000 dėl „Eurodac“ sistemos sukūrimo pirštų atspaudams lyginti siekiant veiksmingiau taikyti Dublino konvenciją įgyvendinimo (OL 2004 m. specialusis leidimas, 19 skyrius, 4 tomas, p. 192).
+8. 2002 m. birželio 13 d. Tarybos reglamentas (EB) Nr. 1030/2002, nustatantis vienodą leidimų apsigyventi trečiųjų šalių piliečiams formą (OL 2004 m. specialusis leidimas, 19 skyrius, 6 tomas, p. 3), su paskutiniais pakeitimais, padarytais 2008 m. balandžio 18 d. Tarybos reglamentu (EB) Nr. 380/2008 (OL 2009 L 115, p. 1).
+9. 2003 m. sausio 27 d. Tarybos direktyva 2003/9/EB, nustatanti minimalius prieglobsčio prašytojų priėmimo standartus (OL 2004 m. specialusis leidimas, 19 skyrius, 6 tomas, p. 101).
+10. 2003 m. rugsėjo 22 d. Tarybos direktyva 2003/86/EB dėl teisės į šeimos susijungimą (OL 2004 m. specialusis leidimas, 19 skyrius, 6 tomas, p. 224).
+11. 2003 m. lapkričio 25 d. Tarybos direktyva 2003/109/EB dėl trečiųjų valstybių piliečių, kurie yra ilgalaikiai gyventojai, statuso (OL 2004 m. specialusis leidimas, 19 skyrius, 6 tomas, p. 272).
+12. 2003 m. lapkričio 25 d. Tarybos direktyva 2003/110/EB dėl pagalbos tranzito, susijusio su išsiuntimu oro transportu, atvejais (OL 2004 m. specialusis leidimas, 19 skyrius, 6 tomas, p. 233).
+13. 2004 m. vasario 23 d. Tarybos sprendimas 2004/191/EB, nustatantis finansinių skirtumų, atsirandančių dėl Direktyvos 2001/40/EB dėl abipusio sprendimų dėl trečiųjų šalių piliečių išsiuntimo pripažinimo taikymo, kompensavimo kriterijus ir praktines priemones (OL 2004 m. specialusis leidimas, 1 skyrius, 5 tomas, p. 25).
+14. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/38/EB dėl Sąjungos piliečių ir jų šeimos narių teisės laisvai judėti ir gyventi valstybių narių teritorijoje, iš dalies keičianti Reglamentą (EEB) Nr. 1612/68 ir naikinanti Direktyvas 64/221/EEB, 68/360/EEB, 72/194/EEB, 73/148/EEB, 75/34/EEB, 75/35/EEB, 90/364/EEB, 90/365/EEB ir 93/96/EEB (OL 2004 m. specialusis leidimas, 19 skyrius, 5 tomas, p. 46).
+15. 2004 m. balandžio 29 d. Tarybos direktyva 2004/81/EB dėl leidimo gyventi šalyje išdavimo trečiųjų šalių piliečiams, kurie yra prekybos žmonėmis aukos arba kurie dalyvavo vykdant nelegalios imigracijos skatinimo veiksmus, bendradarbiaujantiems su kompetentingomis institucijomis (OL 2004 m. specialusis leidimas, 19 skyrius, 7 tomas, p. 69).
+16. 2004 m. balandžio 29 d. Tarybos direktyva 2004/83/EB dėl trečiųjų šalių piliečių ar asmenų be pilietybės priskyrimo pabėgėliams ar asmenims, kuriems reikalinga tarptautinė apsauga, jų statuso ir suteikiamos apsaugos pobūdžio būtiniausių standartų (OL 2004 m. specialusis leidimas, 19 skyrius, 7 tomas, p. 96).
+17. 2004 m. gruodžio 13 d. Tarybos direktyva 2004/114/EB dėl trečiosios šalies piliečių įleidimo studijų, mokinių mainų, neatlygintino stažavimosi ar savanoriškos tarnybos tikslais sąlygų (OL 2004 L 375, p. 12).
+18. 2004 m. gruodžio 13 d. Tarybos reglamentas (EB) Nr. 2252/2004 dėl valstybių narių išduodamų pasų ir kelionės dokumentų apsauginių savybių ir biometrikos standartų (OL 2004 L 385, p. 1) su paskutiniais pakeitimais, padarytais 2009 m. gegužės 28 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 444/2009 (OL 2009 L 142, p. 1).
+19. 2005 m. spalio 12 d. Tarybos direktyva 2005/71/EB dėl konkrečios įleidimo trečiųjų šalių piliečiams atvykti mokslinių tyrimų tikslais tvarkos (OL 2005 L 289, p. 15).
+20. 2005 m. gruodžio 1 d. Tarybos direktyva 2005/85/EB, nustatanti būtiniausius reikalavimus dėl pabėgėlio statuso suteikimo ir panaikinimo tvarkos valstybėse narėse (OL 2005 L 326, p. 13).
+21. 2006 m. kovo 15 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 562/2006, nustatantis taisyklių, reglamentuojančių asmenų judėjimą per sienas, Bendrijos kodeksą (Šengeno sienų kodeksas) (OL 2006 L 105, p. 1), su paskutiniais pakeitimais, padarytais 2010 m. kovo 25 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 265/2010 (OL 2010 L 85, p. 1).
+22. 2008 m. liepos 9 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 767/2008 dėl Vizų informacinės sistemos (VIS) ir apsikeitimo duomenimis apie trumpalaikes vizas tarp valstybių narių (VIS reglamentas) (OL 2008 L 218, p. 60).
+23. 2008 m. gruodžio 16 d. Europos Parlamento ir Tarybos direktyva 2008/115/EB dėl bendrų nelegaliai esančių trečiųjų šalių piliečių grąžinimo standartų ir tvarkos valstybėse narėse (OL 2008 L 348, p. 98).
+24. 2009 m. gegužės 25 d. Tarybos direktyva 2009/50/EB dėl trečiųjų šalių piliečių atvykimo ir apsigyvenimo sąlygų siekiant dirbti aukštos kvalifikacijos darbą (OL 2009 L 155, p. 17).
+25. 2009 m. birželio 18 d. Europos Parlamento ir Tarybos direktyva 2009/52/EB, kuria numatomi sankcijų ir priemonių nelegaliai esančių trečiųjų šalių piliečių darbdaviams būtiniausi standartai (OL 2009 L 168, p. 24).
+26. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 810/2009, nustatantis Bendrijos vizų kodeksą (Vizų kodeksas) (OL 2009 L 243, p. 1).
+27. 2011 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva 2011/51/ES, kuria iš dalies keičiama Tarybos direktyva 2003/109/EB siekiant išplėsti jos taikymo sritį asmenims, kuriems suteikiama tarptautinė apsauga (OL 2011 L 132, p. 1).
