@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2000-06-02 |  | Teisės aktų registras (Seimo kanceliarija) | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22TAIS_132230%22) |
+| 2015-01-01 | 2015-04-30 | Įstatymas Nr. IX-2101 / Įstatymas Nr. XI-379 / Įstatymas Nr. XI-612 / Įstatymas Nr. XI-1338 / Įstatymas Nr. XI-1871 / Įstatymas Nr. XI-1884 / Įstatymas Nr. XII-1040 / Įstatymas Nr. XII-1053 / Įstatymas Nr. XII-1106 / Teisės aktų registras (Seimo kanceliarija) | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22BQEcXqWrdk%22) |
