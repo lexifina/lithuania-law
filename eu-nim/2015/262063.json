@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 2, 40 ir 78 straipsnių pakeitimo įstatymas Nr. XII-1224",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-14524",
+  "official_journal_page": null,
+  "official_journal_date": "2014-10-22",
+  "entry_into_force": "2015-01-01",
+  "notification_date": "2018-08-28",
+  "commission_reference": "MNE(2018)54456",
+  "nim_celex": "72017L1132LTU_262063",
+  "nim_id": "262063",
+  "transposes_celex": [
+    "32017L1132"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a9a2f945-721e-4703-b099-bffd00d3c2ab",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
