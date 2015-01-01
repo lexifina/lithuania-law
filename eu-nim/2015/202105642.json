@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymas Nr. XII-1467 (Suvestinė redakcija nuo 2020-06-15)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-21092",
+  "official_journal_page": null,
+  "official_journal_date": "2014-12-30",
+  "entry_into_force": "2015-01-01",
+  "notification_date": "2021-07-30",
+  "commission_reference": "MNE(2021)05642",
+  "nim_celex": "72019L1160LTU_202105642",
+  "nim_id": "202105642",
+  "transposes_celex": [
+    "32019L1160"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9dbffb8f-f685-11eb-9037-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
