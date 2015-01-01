@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2004-05-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/ef5f2b80e8207733a296b22fa4426b6bb609d662/istatymai/TAR.B6B636C7384A.md) |
+| 2015-01-01 | 2015-04-30 | Įstatymas Nr. X-273 / Įstatymas Nr. X-1038 / Įstatymas Nr. XI-201 / Įstatymas Nr. XI-377 / Įstatymas Nr. XI-608 / Įstatymas Nr. XI-1337 / Įstatymas Nr. XI-1598 / Įstatymas Nr. XI-1668 / Įstatymas Nr. XI-1714 / Įstatymas Nr. XI-1869 / Įstatymas Nr. XI-1883 / Įstatymas Nr. XII-1039 / Įstatymas Nr. XII-1052 / Įstatymas Nr. XII-1474 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/be0233e3a8f462f8ea37f06ce9fc33d93df4e9e1/istatymai/TAR.B6B636C7384A.md) |
