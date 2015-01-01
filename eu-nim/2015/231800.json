@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo proceso kodekso 55 straipsnio pakeitimo įstatymas Nr. XII-1148",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-13716",
+  "official_journal_page": null,
+  "official_journal_date": "2014-10-06",
+  "entry_into_force": "2015-01-01",
+  "notification_date": "2015-11-16",
+  "commission_reference": "MNE(2015)58406",
+  "nim_celex": "72012L0029LTU_231800",
+  "nim_id": "231800",
+  "transposes_celex": [
+    "32012L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e8815ac5-bc57-460f-b7d2-adb9488a92d5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
