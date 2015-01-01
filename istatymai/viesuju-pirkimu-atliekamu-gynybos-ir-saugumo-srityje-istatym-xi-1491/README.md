@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2011-08-21 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/89c401ecb300289f7d3fbe40ab8596300273572e/istatymai/TAR.E838D0C06065.md) |
+| 2015-01-01 | 2016-09-30 | Įstatymas Nr. XII-1026 / Įstatymas Nr. XII-1180 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/7b950ae8bcc008ee2a6994bf031899837a1da3a5/istatymai/TAR.E838D0C06065.md) |
