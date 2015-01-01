@@ -58,25 +58,25 @@ Valdomas kolektyvinio investavimo subjektų ir papildomo savanoriško pensijų k
 13.
 Reguliuojamos rinkos operatoriai
 –
-75 000 Lt
+21 721 Eur
 14.
 Centrinis vertybinių popierių depozitoriumas
 –
-100 000 Lt
+28 962 Eur
 15.
 Emitentai, kurių nuosavybės vertybiniai popieriai įtraukti į prekybą reguliuojamoje rinkoje Lietuvos Respublikoje ir (ar) kitoje Europos ekonominės erdvės valstybėje ir kurių priežiūrą atlieka Lietuvos bankas
 –
-3 000 Lt
+868 Eur
 16.
 Emitentai, kurių ne nuosavybės vertybiniai popieriai įtraukti į prekybą reguliuojamoje rinkoje Lietuvos Respublikoje ir (ar) kitoje Europos ekonominės erdvės valstybėje ir kurių priežiūrą atlieka Lietuvos bankas
 –
-1 500 Lt
+434 Eur
 17.
 Draudimo brokerių įmonės
 –
-1 500 Lt
+434 Eur
 18.
 Finansų patarėjo įmonės
 –
-1 500 Lt
-Redakcija nuo 2014-11-01:
+434 Eur
+19.
