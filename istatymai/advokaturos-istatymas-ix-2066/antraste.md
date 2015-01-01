@@ -1,10 +1,6 @@
-Įstatymas skelbtas: Žin., 2004, Nr. 50-1632
-Neoficialus įstatymo tekstas
 LIETUVOS RESPUBLIKOS
 ADVOKATŪROS
 ĮSTATYMAS
-2004 m. kovo 18 d. Nr. IX-2066
-Vilnius
+2004 m. kovo 18 d. Nr. IX-2066 Vilnius
 PIRMASIS SKIRSNIS
-BENDROSIOS
-NUOSTATOS
+BENDROSIOS NUOSTATOS
