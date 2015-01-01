@@ -12,3 +12,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2011-05-03 | 2013-12-31 | Įstatymas Nr. XI-1341 / Teisės aktų registras (Seimo kanceliarija) | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22DrOdZCYZtu%22) |
 | 2014-01-01 | 2014-10-31 | Įstatymas Nr. XI-2332 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22VUMlBqvxrD%22) |
 | 2014-11-01 | 2014-12-31 | Įstatymas Nr. XII-1034 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22hrqxjBRqqO%22) |
+| 2015-01-01 | 2017-02-28 | Įstatymas Nr. XII-1311 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22mIiiLOXxZN%22) |
