@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2002-01-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/94fc89edbdf5daa9861aa9656554396e94659899/istatymai/TAR.43178AA9832E.md) |
+| 2015-01-01 | 2015-05-29 | Įstatymas Nr. IX-1914 / Įstatymas Nr. X-1679 / Įstatymas Nr. XI-1988 / Įstatymas Nr. XI-2163 / Įstatymas Nr. XI-2319 / Įstatymas Nr. XII-1043 / Įstatymas Nr. XII-1119 / Įstatymas Nr. XII-1126 / Įstatymas Nr. XII-1480 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/550993592cba32d2beb2a6229a202e0b27989d75/istatymai/TAR.43178AA9832E.md) |
