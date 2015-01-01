@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2004-04-30 |  | Teisės aktų registras (Seimo kanceliarija) | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22TAIS_289699%22) |
+| 2015-01-01 | 2015-02-28 | Aktas Nr. X-924 / Aktas Nr. X-1442 / Aktas Nr. XI-392 / Aktas Nr. XI-1786 / Aktas Nr. XI-2189 / Aktas Nr. XI-2190 / Aktas Nr. XII-436 / Aktas Nr. XII-548 / Aktas Nr. XII-965 / Aktas Nr. XII-1193 / Teisės aktų registras (Seimo kanceliarija) | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22ygomgOQxbS%22) |
