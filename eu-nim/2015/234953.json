@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos statistikos departamento generalinio direktoriaus 2014 m. gruodžio 19 d. įsakymas Nr. DĮ-380 „Dėl dujų ir elektros energijos kainų statistinių tyrimų metodikų patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Informaciniai pranešimai",
+  "official_journal_reference": "DĮ-380",
+  "official_journal_page": null,
+  "official_journal_date": "2014-12-19",
+  "entry_into_force": "2015-01-01",
+  "notification_date": "2016-02-26",
+  "commission_reference": "MNE(2016)51525",
+  "nim_celex": "72008L0092LTU_234953",
+  "nim_id": "234953",
+  "transposes_celex": [
+    "32008L0092"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/07b3df83-583e-4ed2-adce-61fcc2c8a33d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
