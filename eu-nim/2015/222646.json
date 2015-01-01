@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos įstatymo Nr. I-1179 2, 13 ir 16 straipsnių pakeitimo ir Įstatymo papildymo 13-1 straipsniu įstatymas Nr. XII-1293",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-17212",
+  "official_journal_page": null,
+  "official_journal_date": "2014-11-20",
+  "entry_into_force": "2015-01-01",
+  "notification_date": "2015-01-14",
+  "commission_reference": "MNE(2015)50215",
+  "nim_celex": "72006L0123LTU_222646",
+  "nim_id": "222646",
+  "transposes_celex": [
+    "32006L0123"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5bbe10f2-2c62-4b71-8c5b-59968a1992e2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
