@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 1996-04-10 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/4b5a4d1424f10ff9ae8fe465d521281db4206399/istatymai/TAR.D2D24C160EB1.md) |
+| 2015-01-01 | 2015-05-31 | Įstatymas Nr. XI-2076 / Įstatymas Nr. XII-1247 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/5c89e70ddbc18542cf20d9e4ade79028ab486332/istatymai/TAR.D2D24C160EB1.md) |
