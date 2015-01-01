@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymas Nr. XII-1215 (galiojanti suvestinė redakcija nuo 2017-01-25)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-15180",
+  "official_journal_page": null,
+  "official_journal_date": "2014-10-30",
+  "entry_into_force": "2015-01-01",
+  "notification_date": "2017-03-24",
+  "commission_reference": "MNE(2017)51783",
+  "nim_celex": "72014L0066LTU_246353",
+  "nim_id": "246353",
+  "transposes_celex": [
+    "32014L0066"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/08e89c78-60f7-4c92-bb87-8ba09f68f010",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
