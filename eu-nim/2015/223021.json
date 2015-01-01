@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 2, 13, 24, 57, 71, 71-1, 101, 102, 103, 104, 105, 116, 117, 118 straipsnių ir XII skyriaus penktojo skirsnio pakeitimo įstatymas Nr. XII-1318",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-17215",
+  "official_journal_page": null,
+  "official_journal_date": "2014-11-20",
+  "entry_into_force": "2015-01-01",
+  "notification_date": "2015-01-29",
+  "commission_reference": "MNE(2015)50445",
+  "nim_celex": "72008L0008LTU_223021",
+  "nim_id": "223021",
+  "transposes_celex": [
+    "32008L0008"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/df47729d-10bb-469f-97da-59568ce90fbc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
