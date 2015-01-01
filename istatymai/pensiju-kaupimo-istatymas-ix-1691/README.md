@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2003-07-30 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/e00a1388e2bee9a32b38d3166f290bcdf02c1f9a/istatymai/TAR.1F58348F79F7.md) |
+| 2015-01-01 | 2017-12-31 | Įstatymas Nr. XI-2410 / Įstatymas Nr. XII-683 / Įstatymas Nr. XII-721 / Įstatymas Nr. XII-1205 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/58d54fd6503de1f3b2d32c6c878ea31eae47ffe4/istatymai/TAR.1F58348F79F7.md) |
