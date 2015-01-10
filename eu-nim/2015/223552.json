@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2015 m. sausio 7 d. nutarimas Nr. 20 \"Dėl Lietuvos Respublikos Vyriausybės 2005 m. balandžio 21 d. nutarimo Nr. 447 „Dėl Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo įgyvendinimo“ pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-00393",
+  "official_journal_page": null,
+  "official_journal_date": "2015-01-09",
+  "entry_into_force": "2015-01-10",
+  "notification_date": "2015-03-27",
+  "commission_reference": "MNE(2015)50825",
+  "nim_celex": "72011L0076LTU_223552",
+  "nim_id": "223552",
+  "transposes_celex": [
+    "32011L0076"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/41bdd20a-f97b-11e4-a4c8-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
