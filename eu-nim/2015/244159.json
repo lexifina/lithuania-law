@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2015 m. sausio 13 d. įsakymas Nr. D1-28 „Dėl Lietuvos Respublikos aplinkos ministro 2013 m. liepos 3 d. įsakymo Nr. D1-495 „Dėl Pavyzdinės butų ir kitų patalpų savininkų sprendimo dėl daugiabučio namo atnaujinimo (modernizavimo) protokolo formos ir Pavyzdinės pavedimo organizuoti daugiabučio namo atnaujinimo (modernizavimo) projekto parengimą ir (ar) įgyvendinimą, ir (ar) finansavimą sutarties formos patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-00629",
+  "official_journal_page": null,
+  "official_journal_date": "2015-01-14",
+  "entry_into_force": "2015-01-15",
+  "notification_date": "2017-01-23",
+  "commission_reference": "MNE(2017)50245",
+  "nim_celex": "72014L0017LTU_244159",
+  "nim_id": "244159",
+  "transposes_celex": [
+    "32014L0017"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6eef9024-9af3-4f47-a964-e4828e7e0044",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
