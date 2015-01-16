@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės kainų ir energetikos kontrolės komisijos 2015 m. sausio 15 d. nutarimas Nr. O3-5 \"Dėl Gamtinių dujų perdavimo veiklos atskyrimo ir perdavimo sistemos operatoriaus paskyrimo preliminaraus sprendimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-00677",
+  "official_journal_page": null,
+  "official_journal_date": "2015-01-15",
+  "entry_into_force": "2015-01-16",
+  "notification_date": "2016-03-30",
+  "commission_reference": "MNE(2016)52118",
+  "nim_celex": "72009L0073LTU_236112",
+  "nim_id": "236112",
+  "transposes_celex": [
+    "32009L0073"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/936b7d08-6adf-47a7-88b1-cdd9fb6328e8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
