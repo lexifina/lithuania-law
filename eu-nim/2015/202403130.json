@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės kainų ir energetikos kontrolės komisijos 2015 m. sausio 19 d. nutarimas Nr. O3-6 „Dėl naudojimosi šilumos perdavimo tinklais sąlygų sąvado patvirtinimo“ (suvestinė redakcija nuo 2023-10-01)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-00846",
+  "official_journal_page": null,
+  "official_journal_date": "2015-01-20",
+  "entry_into_force": "2015-01-21",
+  "notification_date": "2024-07-12",
+  "commission_reference": "MNE(2024)03130",
+  "nim_celex": "72023L2413LTU_202403130",
+  "nim_id": "202403130",
+  "transposes_celex": [
+    "32023L2413"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/98ebe654-9eca-4174-bd6c-93e451445b48",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
