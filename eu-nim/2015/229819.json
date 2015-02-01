@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 2, 20, 23, 33 ir 38 straipsnių pakeitimo įstatymas Nr. XII-1530",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-21324",
+  "official_journal_page": null,
+  "official_journal_date": "2014-12-31",
+  "entry_into_force": "2015-02-01",
+  "notification_date": "2015-09-21",
+  "commission_reference": "MNE(2015)56562",
+  "nim_celex": "72009L0073LTU_229819",
+  "nim_id": "229819",
+  "transposes_celex": [
+    "32009L0073"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c3e05a0c-5888-4ac8-b6ad-23d848073cd6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
