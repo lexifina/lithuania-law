@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2015 m. sausio 30 d. įsakymas Nr. 3-34(1.5E) „Dėl Lietuvos Respublikos susisiekimo ministro 2004 m. sausio 15 d. įsakymo Nr. 3-23 „Dėl Užsienio valstybių laivų valstybinės kontrolės Lietuvos Respublikoje vykdymo taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-01407",
+  "official_journal_page": null,
+  "official_journal_date": "2015-02-02",
+  "entry_into_force": "2015-02-03",
+  "notification_date": "2015-02-13",
+  "commission_reference": "MNE(2015)50733",
+  "nim_celex": "72013L0038LTU_223431",
+  "nim_id": "223431",
+  "transposes_celex": [
+    "32013L0038"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/58948f0a-f978-11e4-a4c8-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
