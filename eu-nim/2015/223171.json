@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos kultūros ministro 2015 m. sausio 28 d. įsakymas Nr. ĮV-46 \"Dėl Nenustatytų teisių turėtojų kūrinių autorių teisių ir gretutinių teisių turėtojų paieškos šaltinių pavyzdinio sąrašo patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-01450",
+  "official_journal_page": null,
+  "official_journal_date": "2015-02-02",
+  "entry_into_force": "2015-02-03",
+  "notification_date": "2015-02-03",
+  "commission_reference": "MNE(2015)50575",
+  "nim_celex": "72012L0028LTU_223171",
+  "nim_id": "223171",
+  "transposes_celex": [
+    "32012L0028"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/854a6a28-7685-4796-a833-3a447a165aef",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
