@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos generalinio prokuroro 2015 m. vasario 18 d. įsakymas Nr. I-52 \"Dėl Lietuvos Respublikos generalinio prokuroro 2009 m. rugsėjo 16 d. įsakymo Nr. I-126 „Dėl Rekomendacijų dėl nepilnamečio liudytojo ir nukentėjusiojo apklausos patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-02466",
+  "official_journal_page": null,
+  "official_journal_date": "2015-02-18",
+  "entry_into_force": "2015-02-19",
+  "notification_date": "2019-05-08",
+  "commission_reference": "MNE(2019)52783",
+  "nim_celex": "72012L0029LTU_272576",
+  "nim_id": "272576",
+  "transposes_celex": [
+    "32012L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7f23fa79-8f04-4344-8a16-bb787f8a68cf",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
