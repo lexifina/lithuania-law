@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2015 m. vasario 20 d. įsakymas Nr. 1-54 \"Dėl Dispečerinio elektros energetikos sistemos valdymo nuostatų patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-02610",
+  "official_journal_page": null,
+  "official_journal_date": "2015-02-23",
+  "entry_into_force": "2015-02-24",
+  "notification_date": "2015-09-09",
+  "commission_reference": "MNE(2015)54708",
+  "nim_celex": "72009L0072LTU_227766",
+  "nim_id": "227766",
+  "transposes_celex": [
+    "32009L0072"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5aebf571-bd79-4423-a6a9-f41ee7ff2fec",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
