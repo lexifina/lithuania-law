@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2015 m. vasario 18 d. įsakymas Nr. V- 224 \"Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2000 m. gegužės 31 d. įsakymo Nr. 301 „Dėl Profilaktinių sveikatos tikrinimų sveikatos priežiūros įstaigose“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-02965",
+  "official_journal_page": null,
+  "official_journal_date": "2015-02-26",
+  "entry_into_force": "2015-02-27",
+  "notification_date": "2015-08-18",
+  "commission_reference": "MNE(2015)55934",
+  "nim_celex": "72006L0126LTU_229153",
+  "nim_id": "229153",
+  "transposes_celex": [
+    "32006L0126"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5bac5158-779a-404e-bf8d-fdd0be5c9841",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
