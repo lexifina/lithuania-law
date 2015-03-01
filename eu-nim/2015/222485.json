@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 pakeitimo įstatymas Nr. XII-1396",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "2014-19923",
+  "official_journal_page": null,
+  "official_journal_date": "2014-12-18",
+  "entry_into_force": "2015-03-01",
+  "notification_date": "2015-01-19",
+  "commission_reference": "MNE(2015)50104",
+  "nim_celex": "72009L0050LTU_222485",
+  "nim_id": "222485",
+  "transposes_celex": [
+    "32009L0050"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6624ebd1-bf9a-457a-8589-1f40691d2614",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
