@@ -1,0 +1,4 @@
+KONSULINIO MOKESČIO
+ĮSTATYMAS
+1994 m. birželio 23 d. Nr. I-509
+Vilnius
