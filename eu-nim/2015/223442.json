@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių teisės pažeidimų kodeksas Nr. X-4449",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "1",
+  "official_journal_page": null,
+  "official_journal_date": null,
+  "entry_into_force": "1985-04-01",
+  "notification_date": "2015-03-04",
+  "commission_reference": "MNE(2015)50744",
+  "nim_celex": "72008F0977LTU_223442",
+  "nim_id": "223442",
+  "transposes_celex": [
+    "32008F0977",
+    "32011L0093"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/77d11481-f978-11e4-a4c8-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
