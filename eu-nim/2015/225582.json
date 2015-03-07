@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus  reikalų ministro 2015 m. kovo 6 d. įsakymas Nr. 1V-162 „Dėl Lietuvos Respublikos vidaus reikalų ministro 2004 m. lapkričio 15 d. įsakymo Nr. 1V-361 „Dėl Užsieniečių prašymų suteikti prieglobstį nagrinėjimo, sprendimų priėmimo ir jų vykdymo tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-03458",
+  "official_journal_page": null,
+  "official_journal_date": "2015-03-06",
+  "entry_into_force": "2015-03-07",
+  "notification_date": "2015-04-24",
+  "commission_reference": "MNE(2015)52600",
+  "nim_celex": "72011L0095LTU_225582",
+  "nim_id": "225582",
+  "transposes_celex": [
+    "32011L0095"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8441f669-f976-11e4-a4c8-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
