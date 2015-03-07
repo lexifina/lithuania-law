@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos generalinio prokuroro 2015 m. kovo 6 d. įsakymas Nr. I-71 „Dėl keitimosi informacija ir tiesioginių konsultacijų su kitų Europos Sąjungos valstybių narių kompetentingomis institucijomis tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-03470",
+  "official_journal_page": null,
+  "official_journal_date": "2015-03-06",
+  "entry_into_force": "2015-03-07",
+  "notification_date": "2018-10-30",
+  "commission_reference": "MNE(2018)55668",
+  "nim_celex": "72017L0541LTU_264241",
+  "nim_id": "264241",
+  "transposes_celex": [
+    "32017L0541"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/691edc53-4f23-4e06-974d-5856b7ee9fe7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
