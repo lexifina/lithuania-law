@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2015 m. kovo 9 d. įsakymas Nr. D1-208 ,,Dėl Lietuvos Respublikos aplinkos ministro 2004 m. rugpjūčio 27 d. įsakymo Nr. D1-455 ,,Dėl visuomenės dalyvavimo planų ir programų strateginio pasekmių aplinkai vertinimo procedūrose bei vertinimo subjektų ir Europos Sąjungos valstybių narių informavimo tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-03664",
+  "official_journal_page": null,
+  "official_journal_date": "2015-03-10",
+  "entry_into_force": "2015-03-11",
+  "notification_date": "2015-09-14",
+  "commission_reference": "MNE(2015)52007",
+  "nim_celex": "72001L0042LTU_224918",
+  "nim_id": "224918",
+  "transposes_celex": [
+    "32001L0042"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c53437e3-8665-49c0-9941-60e7661dc3c9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
