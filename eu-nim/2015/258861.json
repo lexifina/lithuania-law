@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos policijos generalinio komisaro 2015 m. kovo 12 d. įsakymas Nr. 5-V-259 „Dėl policijos dokumentų valdymo sistemos aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Informaciniai pranešimai",
+  "official_journal_reference": "5-V-259/2015",
+  "official_journal_page": null,
+  "official_journal_date": "2015-03-12",
+  "entry_into_force": "2015-03-12",
+  "notification_date": "2018-05-22",
+  "commission_reference": "MNE(2018)52521",
+  "nim_celex": "72016L0681LTU_258861",
+  "nim_id": "258861",
+  "transposes_celex": [
+    "32016L0681"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/167b1e6a-12e2-4cd0-91aa-eaed9f899e08",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
