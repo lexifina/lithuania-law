@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės kainų ir energetikos kontrolės komisijos pirmininko 2015 m. kovo 24 d. įsakymas Nr. 01-29 \"Dėl Naujos Valstybinės kainų ir energetikos kontrolės komisijos administracinės struktūros patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Administracinės priemonės",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2015-03-24",
+  "entry_into_force": "2015-03-25",
+  "notification_date": "2016-03-29",
+  "commission_reference": "MNE(2016)52108",
+  "nim_celex": "72009L0073LTU_236102",
+  "nim_id": "236102",
+  "transposes_celex": [
+    "32009L0073"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8fb34107-1ff3-48af-8bf3-bb351ba2cd75",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
