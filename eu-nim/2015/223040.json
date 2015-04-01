@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo proceso kodekso 1, 73, 121, 122, 342 straipsnių ir priedo pakeitimo ir kodekso papildymo 365(5) straipsniu įstatymas Nr. XII-1325",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-17304",
+  "official_journal_page": null,
+  "official_journal_date": "2014-11-21",
+  "entry_into_force": "2015-04-01",
+  "notification_date": "2015-03-03",
+  "commission_reference": "MNE(2015)50464",
+  "nim_celex": "72001F0220LTU_223040",
+  "nim_id": "223040",
+  "transposes_celex": [
+    "32001F0220",
+    "32002F0584",
+    "32008F0909"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e0b9259c-deaa-4622-a2ff-e42d210d7022",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
