@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2015 m. kovo 26 d. nutarimas Nr. 03-37 „Dėl  Lietuvos banko valdybos 2012 m. gruodžio 13 d. nutarimo Nr. 03-263 „Dėl Finansų maklerio įmonių licencijų išdavimo taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-04723",
+  "official_journal_page": null,
+  "official_journal_date": "2015-03-31",
+  "entry_into_force": "2015-04-01",
+  "notification_date": "2015-10-20",
+  "commission_reference": "MNE(2015)54609",
+  "nim_celex": "72013L0036LTU_227649",
+  "nim_id": "227649",
+  "transposes_celex": [
+    "32013L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/623add2c-d771-4712-9266-bf76f689381b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
