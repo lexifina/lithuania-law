@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2015 m. kovo 31 d. įsakymas Nr. Nr. 3-126(1.5 E) 'Dėl Lietuvos Respublikos susisiekimo ministro 2010 m. gegužės 7 d. įsakymo Nr. 3-301 „Dėl Teisės valdyti geležinkelių riedmenis įgijimo tvarkos aprašo patvirtinimo“ pakeitimo'",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-04786",
+  "official_journal_page": null,
+  "official_journal_date": "2015-03-31",
+  "entry_into_force": "2015-04-01",
+  "notification_date": "2015-04-17",
+  "commission_reference": "MNE(2015)52666",
+  "nim_celex": "72007L0059LTU_225648",
+  "nim_id": "225648",
+  "transposes_celex": [
+    "32007L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1652ce9a-f976-11e4-a4c8-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
