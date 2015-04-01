@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos įstatymas dėl Europos Sąjungos valstybių narių sprendimų baudžiamosiose bylose tarpusavio pripažinimo ir vykdymo Nr. XII-1322 (Suvestinė redakcija nuo 2017-06-15)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-17299",
+  "official_journal_page": null,
+  "official_journal_date": "2014-11-21",
+  "entry_into_force": "2015-04-01",
+  "notification_date": "2018-10-30",
+  "commission_reference": "MNE(2018)55533",
+  "nim_celex": "72017L0541LTU_264016",
+  "nim_id": "264016",
+  "transposes_celex": [
+    "32017L0541"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/425ded00-c95f-4ddc-8e09-254dd97e954e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
