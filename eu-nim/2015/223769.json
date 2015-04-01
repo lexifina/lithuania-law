@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo kodekso 9-1 straipsnio ir Kodekso priedo pakeitimo įstatymas Nr. XII-1324",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-17302",
+  "official_journal_page": null,
+  "official_journal_date": "2014-11-21",
+  "entry_into_force": "2015-04-01",
+  "notification_date": "2015-03-03",
+  "commission_reference": "MNE(2015)50991",
+  "nim_celex": "72002F0584LTU_223769",
+  "nim_id": "223769",
+  "transposes_celex": [
+    "32002F0584"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7404cf6a-aefa-4506-a5ba-cebe8c82ad6f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
