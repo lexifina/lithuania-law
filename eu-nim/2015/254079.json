@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2015 m. kovo 30 d. įsakymas Nr. D1-252 „Dėl Lietuvos Respublikos aplinkos ministro 2014 m. kovo 6 d. įsakymo D1-259 „Dėl Taršos leidimų išdavimo, pakeitimo ir galiojimo panaikinimo taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-04852",
+  "official_journal_page": null,
+  "official_journal_date": "2015-03-31",
+  "entry_into_force": "2015-04-01",
+  "notification_date": "2018-01-02",
+  "commission_reference": "MNE(2017)57236",
+  "nim_celex": "72015L2193LTU_254079",
+  "nim_id": "254079",
+  "transposes_celex": [
+    "32015L2193"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/013e169b-24df-480b-9700-43a30841c043",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
