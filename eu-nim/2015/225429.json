@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2015 m. kovo 26 d. nutarimas Nr. 03-34 „Dėl Valdymo įmonių kapitalo pakankamumo reikalavimų taisyklių ir kapitalo pakankamumo ataskaitų formų patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-04862",
+  "official_journal_page": null,
+  "official_journal_date": "2015-04-01",
+  "entry_into_force": "2015-04-02",
+  "notification_date": "2015-04-24",
+  "commission_reference": "MNE(2015)52449",
+  "nim_celex": "72011L0061LTU_225429",
+  "nim_id": "225429",
+  "transposes_celex": [
+    "32011L0061"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b2a8f158-f97a-11e4-a4c8-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
