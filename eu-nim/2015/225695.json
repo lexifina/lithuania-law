@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2015 m. balandžio 8 d. įsakymas Nr. 3D-262 'Dėl žemės ūkio ministro 2003 m. rugpjūčio 12 d. įsakymo Nr. 3D-333 „Dėl medaus techninio reglamento patvirtinimo' pakeitimo'",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-05391",
+  "official_journal_page": null,
+  "official_journal_date": "2015-04-08",
+  "entry_into_force": "2015-04-09",
+  "notification_date": "2015-04-28",
+  "commission_reference": "MNE(2015)52713",
+  "nim_celex": "72001L0110LTU_225695",
+  "nim_id": "225695",
+  "transposes_celex": [
+    "32001L0110",
+    "32014L0063"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a6d6f5ae-f976-11e4-a4c8-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
