@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro, Lietuvos Respublikos socialinės apsaugos ir darbo ministro ir Lietuvos Respublikos sveikatos apsaugos ministro 2015 m. balandžio 7 d. įsakymas Nr. 3-134(1.5 E)/A1-178/V-470 „Dėl Lietuvos Respublikos susisiekimo ministro, Lietuvos Respublikos socialinės apsaugos ir darbo ministro ir Lietuvos Respublikos sveikatos apsaugos ministro 2013 m. lapkričio 21 d. įsakymo Nr. 3-592/A1-641/V-1075 „Dėl Skundų dėl darbo jūrų laivyboje reikalavimų, nustatytų Lietuvos Respublikos tarptautinėse sutartyse ir Lietuvos Respublikos teisės aktuose, galimų pažeidimų priėmimo ir nagrinėjimo tvarkos aprašo patvirtinimo“ pakeitimo",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-05475",
+  "official_journal_page": null,
+  "official_journal_date": "2015-04-09",
+  "entry_into_force": "2015-04-10",
+  "notification_date": "2015-05-05",
+  "commission_reference": "MNE(2015)52686",
+  "nim_celex": "72009L0013LTU_225668",
+  "nim_id": "225668",
+  "transposes_celex": [
+    "32009L0013"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a2c39a09-a7ea-4b94-9c2f-6adccf11b013",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
