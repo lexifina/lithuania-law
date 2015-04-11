@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2015 m. balandžio 3 d. įsakymas Nr. D1-273 „Dėl geoterminių gręžinių projektavimo, įrengimo ir likvidavimo tvarkos aprašo patvirtinimo“ (suvestinė redakcija nuo 2021-07-08)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-05505",
+  "official_journal_page": null,
+  "official_journal_date": "2015-04-10",
+  "entry_into_force": "2015-04-11",
+  "notification_date": "2024-07-12",
+  "commission_reference": "MNE(2024)03131",
+  "nim_celex": "72023L2413LTU_202403131",
+  "nim_id": "202403131",
+  "transposes_celex": [
+    "32023L2413"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/da92eea7-65ab-46f8-9543-6b61aff44523",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
