@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2015 m. balandžio 7 d. įsakymas Nr. D1-284 „Dėl Lietuvos Respublikos aplinkos ministro 2003 m. gruodžio 24 d. įsakymo Nr. 685 „Dėl Informacijos apie vandens apsaugą ir valdymą \nsurinkimo iš valstybės bei savivaldybių institucijų, kitų viešųjų juridinių asmenų ir ataskaitų Europos Bendrijų Komisijai rengimo tvarkos patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "02015-05502",
+  "official_journal_page": null,
+  "official_journal_date": "2015-04-10",
+  "entry_into_force": "2015-04-11",
+  "notification_date": "2015-05-15",
+  "commission_reference": "MNE(2015)52906",
+  "nim_celex": "72013L0039LTU_225903",
+  "nim_id": "225903",
+  "transposes_celex": [
+    "32013L0039"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d9000b9e-a997-49a6-94d5-77a0a1316208",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
