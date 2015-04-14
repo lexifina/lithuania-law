@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2015 m. balandžio 7 d. įsakymas Nr. D1-283 „Dėl Lietuvos Respublikos aplinkos ministro 2003 m. rugsėjo 15 \nd. įsakymo Nr. 457 „Dėl Vandensaugos tikslų nustatymo metodikos \npatvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "02015-05738",
+  "official_journal_page": null,
+  "official_journal_date": "2015-04-13",
+  "entry_into_force": "2015-04-14",
+  "notification_date": "2015-05-15",
+  "commission_reference": "MNE(2015)52905",
+  "nim_celex": "72013L0039LTU_225902",
+  "nim_id": "225902",
+  "transposes_celex": [
+    "32013L0039"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1d05c52d-bee9-4a51-80ad-0dd2abc51119",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
