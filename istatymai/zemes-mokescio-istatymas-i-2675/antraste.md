@@ -1,6 +1,4 @@
 žemės mokesčio
 Į S T A T Y M A S
-1992 m. birželio 25 d. Nr. I-2675
-Vilnius
 I SKYRIUS
 BENDROSIOS NUOSTATOS
