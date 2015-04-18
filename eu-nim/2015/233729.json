@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos draudimo įstatymo pakeitimo įstatymo Nr. XI-2277 1 ir 2 straipsnių pakeitimo ir Įstatymo papildymo 4 ir 5 straipsniais įstatymas Nr. XII-1603",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-05897",
+  "official_journal_page": null,
+  "official_journal_date": "2015-04-17",
+  "entry_into_force": "2015-04-18",
+  "notification_date": "2016-03-09",
+  "commission_reference": "MNE(2016)50384",
+  "nim_celex": "72011L0089LTU_233729",
+  "nim_id": "233729",
+  "transposes_celex": [
+    "32011L0089"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fcb1fbfa-c671-4a4e-863a-df0b16b2999b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
