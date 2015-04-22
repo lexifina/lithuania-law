@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo Nr. IX-1768 12(1) straipsnio pakeitimo įstatymas Nr. XII-1617",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-06061",
+  "official_journal_page": null,
+  "official_journal_date": "2015-04-21",
+  "entry_into_force": "2015-04-22",
+  "notification_date": "2015-09-09",
+  "commission_reference": "MNE(2015)52760",
+  "nim_celex": "72009L0052LTU_225742",
+  "nim_id": "225742",
+  "transposes_celex": [
+    "32009L0052"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/14253759-3d90-4961-bba2-b1086e632e81",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
