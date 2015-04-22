@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos darbo kodekso 98 ir 98(1) straipsnių pakeitimo įstatymas Nr. XII-1616",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-06060",
+  "official_journal_page": null,
+  "official_journal_date": "2015-04-21",
+  "entry_into_force": "2015-04-22",
+  "notification_date": "2015-09-09",
+  "commission_reference": "MNE(2015)52759",
+  "nim_celex": "72009L0052LTU_225741",
+  "nim_id": "225741",
+  "transposes_celex": [
+    "32009L0052"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/26e61b3e-2b22-4e9b-b8f2-f63d46461f34",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
