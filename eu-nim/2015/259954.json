@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Seimo 2015 m. balandžio 16 d. nutarimas Nr. XII-1626 \"Dėl nacionalinės aplinkos apsaugos strategijos patvirtinimo\" (Suvestinė redakcija nuo 2016-06-02)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-06178",
+  "official_journal_page": null,
+  "official_journal_date": "2015-04-24",
+  "entry_into_force": "2015-04-25",
+  "notification_date": "2018-06-29",
+  "commission_reference": "MNE(2018)53328",
+  "nim_celex": "72016L2284LTU_259954",
+  "nim_id": "259954",
+  "transposes_celex": [
+    "32016L2284"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e4f4a428-6481-4f80-8c5c-3be8c7831c71",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
