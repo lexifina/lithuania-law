@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2015 m. balandžio 23 d. nutarimas Nr. 03-63 „Dėl Draudimo ir perdraudimo įmonių nuosavų lėšų skaičiavimo nuostatų patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-06407",
+  "official_journal_page": null,
+  "official_journal_date": "2015-04-27",
+  "entry_into_force": "2015-04-28",
+  "notification_date": "2015-09-23",
+  "commission_reference": "MNE(2015)56488",
+  "nim_celex": "72009L0138LTU_229738",
+  "nim_id": "229738",
+  "transposes_celex": [
+    "32009L0138",
+    "32014L0051"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/925a43b8-4b3e-4bd3-842c-46806d473bae",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
