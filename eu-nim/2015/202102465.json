@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2015 m. balandžio 9 d. nutarimas Nr. 03-52 „Dėl Lietuvos banko valdybos 2003 m. lapkričio 20 d. nutarimo Nr. 109 „Dėl informacijos, susijusios su kredito įstaigų steigimu ir veikla, teikimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-05524",
+  "official_journal_page": null,
+  "official_journal_date": "2015-04-09",
+  "entry_into_force": "2015-04-30",
+  "notification_date": "2021-04-07",
+  "commission_reference": "MNE(2021)02465",
+  "nim_celex": "72019L0878LTU_202102465",
+  "nim_id": "202102465",
+  "transposes_celex": [
+    "32019L0878"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7f1d820d-a35b-456e-bfa9-cbfb23da00bf",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
