@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2006-07-18 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/3f86d6dd012b8b12d21e5bd87b0b59577864899a/istatymai/TAR.FF33B3BF23DD.md) |
+| 2015-05-01 | 2015-06-30 | Įstatymas Nr. XI-59 / Įstatymas Nr. XI-627 / Įstatymas Nr. XI-664 / Įstatymas Nr. XI-1383 / Įstatymas Nr. XI-1506 / Įstatymas Nr. XI-2017 / Įstatymas Nr. XI-2376 / Įstatymas Nr. XII-388 / Įstatymas Nr. XII-590 / Įstatymas Nr. XII-1300 / Įstatymas Nr. XII-1438 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/09776ca0481805b9098aed88ff2cc7d43ff4f16e/istatymai/TAR.FF33B3BF23DD.md) |
