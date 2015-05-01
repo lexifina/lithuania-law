@@ -1,5 +1,5 @@
 SAUGIOS LAIVYBOS
-įstatymas
+ĮSTATYMAS
 2000 m. rugpjūčio 29 d. Nr. VIII-1897
 Vilnius
 PIRMASIS SKIRSNIS
