@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos saugios laivybos įstatymo Nr. VIII-1897 pakeitimo įstatymas Nr. XII-1218",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-14530",
+  "official_journal_page": null,
+  "official_journal_date": "2014-10-22",
+  "entry_into_force": "2015-05-01",
+  "notification_date": "2014-10-28",
+  "commission_reference": "MNE(2014)56023",
+  "nim_celex": "72012L0035LTU_220691",
+  "nim_id": "220691",
+  "transposes_celex": [
+    "32012L0035",
+    "32013L0054"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ea87ff68-9c3c-4520-b931-18655c53cb66",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
