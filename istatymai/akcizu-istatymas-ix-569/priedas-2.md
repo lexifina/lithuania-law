@@ -11,4 +11,5 @@ ENERGINIAI PRODUKTAI, KURIEMS TAIKOMI LIETUVOS RESPUBLIKOS AKCIZŲ ĮSTATYMO REI
 4. KN 2901 10, 2902 20, 2902 30, 2902 41, 2902 42, 2902 43 ir 2902 44 pozicijose klasifikuojami produktai.
 5. KN 2905 11 00 pozicijoje klasifikuojami produktai, jeigu jie yra nesintetinės kilmės ir yra skirti naudoti kaip variklių degalai arba kaip šildymui skirtas kuras.
 6. KN 1507–1518, 3824 90 99 pozicijose klasifikuojami produktai, jeigu jie skirti naudoti kaip variklių degalai ar kaip šildymui skirtas kuras.
-7. Bet kuris kitas energinis produktas, kuriam Europos Komisija, vadovaudamasi procedūromis, nustatytomis atitinkamose Tarybos direktyvose, nusprendė taikyti akcizais apmokestinamų prekių kontrolės ir gabenimo tarp valstybių narių reikalavimus.
+7. KN 3811 11 10, 3811 11 90, 3811 19 00 ir 3811 90 00 subpozicijose klasifikuojami produktai.
+8. Bet kuris kitas energinis produktas, kuriam Europos Komisija, vadovaudamasi procedūromis, nustatytomis atitinkamose Tarybos direktyvose, nusprendė taikyti akcizais apmokestinamų prekių kontrolės ir gabenimo tarp valstybių narių reikalavimus.
