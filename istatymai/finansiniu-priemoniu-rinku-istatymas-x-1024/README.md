@@ -10,3 +10,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | --- | --- | --- | --- |
 | 2007-02-08 |  | Teisės aktų registras (Seimo kanceliarija) | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22TAIS_330953%22) |
 | 2015-01-01 | 2015-04-30 | Įstatymas Nr. XI-1672 / Įstatymas Nr. XI-1881 / Įstatymas Nr. XII-339 / Įstatymas Nr. XII-1103 / Įstatymas Nr. XII-1470 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22sEueKheMAG%22) |
+| 2015-05-01 | 2015-12-02 | Įstatymas Nr. XI-1672 / Įstatymas Nr. XII-1547 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22VLmUbilkDQ%22) |
