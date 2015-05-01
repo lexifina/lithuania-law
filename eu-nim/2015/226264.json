@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 2, 3, 7, 12, 13, 70, 71, 76, 81, 84, 88, 89 straipsnių, VI skyriaus antrojo skirsnio pavadinimo ir Įstatymo priedo pakeitimo ir Įstatymo papildymo 12-1, 12-2, 25-1, 73-1 straipsniais įstatymas Nr. XII-1547",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-04840",
+  "official_journal_page": null,
+  "official_journal_date": "2015-05-31",
+  "entry_into_force": "2015-05-01",
+  "notification_date": "2015-05-11",
+  "commission_reference": "MNE(2015)53262",
+  "nim_celex": "72013L0036LTU_226264",
+  "nim_id": "226264",
+  "transposes_celex": [
+    "32013L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ae7cdf5e-c606-4561-b22b-0ed1ca9e27f7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
