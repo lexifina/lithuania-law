@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos farmacijos įstatymo Nr. X-709 2, 15, 19, 23, 24, 51, 75 straipsnių pakeitimo ir Įstatymo papildymo šeštuoju-1 skirsniu įstatymas Nr. XII-1438",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-20557",
+  "official_journal_page": null,
+  "official_journal_date": "2014-12-23",
+  "entry_into_force": "2015-05-01",
+  "notification_date": "2015-05-13",
+  "commission_reference": "MNE(2015)50029",
+  "nim_celex": "72001L0083LTU_222389",
+  "nim_id": "222389",
+  "transposes_celex": [
+    "32001L0083"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9f8142dc-62ff-4064-98e0-22f857159d7c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
