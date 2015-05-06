@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2015 m. balandžio 29 d. nutarimas Nr. 445 \"Dėl Lietuvos Respublikos Vyriausybės 2004 m. gegužės 19 d. nutarimo Nr. 611 „Dėl Viešosios geležinkelių infrastruktūros pajėgumų skyrimo taisyklių patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-06740",
+  "official_journal_page": null,
+  "official_journal_date": "2015-05-05",
+  "entry_into_force": "2015-05-06",
+  "notification_date": "2015-05-12",
+  "commission_reference": "MNE(2015)53141",
+  "nim_celex": "72001L0014LTU_226139",
+  "nim_id": "226139",
+  "transposes_celex": [
+    "32001L0014"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/42407e4b-6235-4ea6-a9f9-65ae1ba7b8b3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
