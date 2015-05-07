@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro 2015 m. gegužės 6 d. įsakymas Nr. 1V-368 „Dėl Lietuvos Respublikos vidaus reikalų ministro 2013 m. gruodžio 23 d. įsakymo Nr. 1V-1039 „Dėl Keitimosi informacija tarpvalstybiniu lygmeniu apie kelių eismo saugumo taisyklių pažeidimus tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-06832",
+  "official_journal_page": null,
+  "official_journal_date": "2015-05-06",
+  "entry_into_force": "2015-05-07",
+  "notification_date": "2015-05-08",
+  "commission_reference": "MNE(2015)53155",
+  "nim_celex": "72015L0413LTU_226153",
+  "nim_id": "226153",
+  "transposes_celex": [
+    "32015L0413"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7200133b-6fda-4306-bc2b-66dbb5e289d4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
