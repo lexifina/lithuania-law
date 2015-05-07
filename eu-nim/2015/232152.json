@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro   2015 m. gegužės 6 d. įsakymas Nr. 1V-367 \"Dėl Lietuvos Respublikos vidaus reikalų ministro įsakymo „Dėl Lietuvos Respublikos vidaus reikalų ministro 2005 m. spalio 12 d. įsakymo Nr. 1V-329 „Dėl Dokumentų leidimui laikinai gyventi Lietuvos Respublikoje gauti pateikimo ir leidimų laikinai gyventi Lietuvos Respublikoje užsieniečiams išdavimo, keitimo, panaikinimo, taip pat įvertinimo, ar santuoka arba registruotos partnerystės sutartis buvo sudaryta arba vaikas buvo įvaikintas tam, kad užsienietis gautų leidimą laikinai gyventi Lietuvos Respublikoje, tvarkos aprašo patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "2015-06790",
+  "official_journal_page": null,
+  "official_journal_date": "2015-05-06",
+  "entry_into_force": "2015-05-07",
+  "notification_date": "2015-11-26",
+  "commission_reference": "MNE(2015)58733",
+  "nim_celex": "72003L0109LTU_232152",
+  "nim_id": "232152",
+  "transposes_celex": [
+    "32003L0109"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c4da862c-72f7-4530-a026-d2cb84b5e2e6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
