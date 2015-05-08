@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2015 m. gegužės 7 d. įsakymas Nr. 3-177(1.5 E) \"Dėl Lietuvos Respublikos susisiekimo ministro 2006 m. birželio 12 d. įsakymo Nr. 3-238 „Dėl bendrųjų eismo saugos rodiklių nustatymo aprašo patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-06868",
+  "official_journal_page": null,
+  "official_journal_date": "2015-05-07",
+  "entry_into_force": "2015-05-08",
+  "notification_date": "2015-07-14",
+  "commission_reference": "MNE(2015)53336",
+  "nim_celex": "72014L0088LTU_226339",
+  "nim_id": "226339",
+  "transposes_celex": [
+    "32014L0088"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f32ffcb1-c86e-4633-9f84-74ce1fff4e85",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
