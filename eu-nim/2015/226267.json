@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2015 m. gegužės 8 d. nutarimas Nr. 03-82 „Dėl Minimalių kredito įstaigų ir finansų maklerio įmonių darbuotojų atlygio politikos reikalavimų aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-06993",
+  "official_journal_page": null,
+  "official_journal_date": "2015-05-08",
+  "entry_into_force": "2015-05-09",
+  "notification_date": "2015-05-11",
+  "commission_reference": "MNE(2015)53265",
+  "nim_celex": "72013L0036LTU_226267",
+  "nim_id": "226267",
+  "transposes_celex": [
+    "32013L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ab4c670a-50d7-462a-b1fe-bfba75bdb562",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
