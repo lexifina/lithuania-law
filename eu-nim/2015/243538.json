@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2015 m. gegužės 8 d. nutarimas Nr. 03-81 „Dėl Lietuvos banko valdybos 2012 m. liepos 12 d. nutarimo Nr. 03-166 „Dėl Finansų maklerio įmonių, valdymo įmonių ir investicinių bendrovių darbuotojų atlyginimų politikos reikalavimų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-06992",
+  "official_journal_page": null,
+  "official_journal_date": "2015-05-08",
+  "entry_into_force": "2015-05-09",
+  "notification_date": "2016-12-21",
+  "commission_reference": "MNE(2016)57669",
+  "nim_celex": "72014L0091LTU_243538",
+  "nim_id": "243538",
+  "transposes_celex": [
+    "32014L0091"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e9de0c3b-7c59-4bbc-abee-dd5c80a3e0b5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
