@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2015 m. gegužės 8 d. nutarimas Nr. 03-82 „Dėl Minimalių atlygio politikos reikalavimų aprašo patvirtinimo“ (suvestinė redakcija nuo 2022-01-15 iki 2026-06-29)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-06993",
+  "official_journal_page": null,
+  "official_journal_date": "2015-05-08",
+  "entry_into_force": "2015-05-09",
+  "notification_date": "2026-08-18",
+  "commission_reference": "MNE(2026)06493",
+  "nim_celex": "72024L1619LTU_202606493",
+  "nim_id": "202606493",
+  "transposes_celex": [
+    "32024L1619"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/01905fe3-d016-48b6-92dc-3a4525558478",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
