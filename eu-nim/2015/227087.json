@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo proceso kodekso 120, 121, 126, 132-1, 139 straipsnių ir priedo pakeitimo įstatymas Nr. XII-1677",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-07564",
+  "official_journal_page": null,
+  "official_journal_date": "2018-05-18",
+  "entry_into_force": "2015-05-19",
+  "notification_date": "2015-05-29",
+  "commission_reference": "MNE(2015)54069",
+  "nim_celex": "72011L0099LTU_227087",
+  "nim_id": "227087",
+  "transposes_celex": [
+    "32011L0099"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0e81af86-9513-4ec5-b92f-2accea0f0f5b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
