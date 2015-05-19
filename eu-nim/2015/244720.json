@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Akcinės bendrovės \"Lietuvos geležinkeliai“ generalinio direktoriaus 2015 m. gegužės 19 d. įsakymas Nr. Į-442 \"Dėl Ekstremaliųjų situacijų valdymo plano patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Informaciniai pranešimai",
+  "official_journal_reference": "19/05/2015",
+  "official_journal_page": null,
+  "official_journal_date": null,
+  "entry_into_force": "2015-05-19",
+  "notification_date": "2017-01-30",
+  "commission_reference": "MNE(2017)50674",
+  "nim_celex": "72012L0034LTU_244720",
+  "nim_id": "244720",
+  "transposes_celex": [
+    "32012L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d3a507d3-bfc8-4081-8ac5-0bd0d2886e7d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
