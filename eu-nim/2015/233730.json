@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo Nr. IX-2387 2 straipsnio pakeitimo įstatymas Nr. XII-1695",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-7675",
+  "official_journal_page": null,
+  "official_journal_date": "2015-05-20",
+  "entry_into_force": "2015-05-21",
+  "notification_date": "2016-03-25",
+  "commission_reference": "MNE(2016)50385",
+  "nim_celex": "72011L0089LTU_233730",
+  "nim_id": "233730",
+  "transposes_celex": [
+    "32011L0089"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d96c0579-32ad-4184-b7f6-f7aeca846d2a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
