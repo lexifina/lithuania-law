@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos bankų įstatymo Nr. IX-2085 1, 9, 23, 34, 64, 66 ir 71 straipsnių pakeitimo įstatymas Nr. XII-1692",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-07668",
+  "official_journal_page": null,
+  "official_journal_date": "2015-05-20",
+  "entry_into_force": "2015-05-21",
+  "notification_date": "2016-01-08",
+  "commission_reference": "MNE(2016)50160",
+  "nim_celex": "72014L0059LTU_233484",
+  "nim_id": "233484",
+  "transposes_celex": [
+    "32014L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2090abe4-7261-4d28-a9c1-5308130f4c5e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
