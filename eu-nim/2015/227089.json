@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos teisingumo ministro 2015 m. gegužės 20 d. įsakymas Nr. 1R-123 \"Dėl Lietuvos Respublikos teisingumo ministro 2015 m. kovo 30 d. įsakymo Nr. 1R-89 „Dėl pavyzdinių formų patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-07641",
+  "official_journal_page": null,
+  "official_journal_date": "2015-05-20",
+  "entry_into_force": "2015-05-21",
+  "notification_date": "2015-05-29",
+  "commission_reference": "MNE(2015)54071",
+  "nim_celex": "72011L0099LTU_227089",
+  "nim_id": "227089",
+  "transposes_celex": [
+    "32011L0099"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0044a1ae-8ba9-41d7-8170-d4b1fb6e7afb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
