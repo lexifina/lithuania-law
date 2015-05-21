@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 8, 11, 42, 43 ir 44 straipsnių pakeitimo įstatymas Nr. XII-1691",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-07667",
+  "official_journal_page": null,
+  "official_journal_date": "2015-05-20",
+  "entry_into_force": "2015-05-21",
+  "notification_date": "2016-01-08",
+  "commission_reference": "MNE(2016)50176",
+  "nim_celex": "72014L0059LTU_233500",
+  "nim_id": "233500",
+  "transposes_celex": [
+    "32014L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/caf128aa-8c8e-475c-b725-3ab84c77da7c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
