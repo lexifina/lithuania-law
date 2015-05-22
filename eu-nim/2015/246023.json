@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2015 m. gegužės 14 d. įsakymas Nr. V-610 „Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2004 m. gegužės 14 d. įsakymo Nr. V-364 „Dėl Licencijuojamų asmens sveikatos priežiūros paslaugų sąrašų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-07695",
+  "official_journal_page": null,
+  "official_journal_date": "2015-05-21",
+  "entry_into_force": "2015-05-22",
+  "notification_date": "2017-03-14",
+  "commission_reference": "MNE(2017)51531",
+  "nim_celex": "72004L0023LTU_246023",
+  "nim_id": "246023",
+  "transposes_celex": [
+    "32004L0023"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1768a538-eb0f-4f27-b8e1-a5aacb3cd0fe",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
