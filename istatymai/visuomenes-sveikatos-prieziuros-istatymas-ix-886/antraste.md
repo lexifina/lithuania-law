@@ -1,9 +1,6 @@
-Įstatymas skelbtas: Žin., 2002, Nr. 56-2225
-Neoficialus įstatymo tekstas
 LIETUVOS RESPUBLIKOS
 VISUOMENĖS SVEIKATOS PRIEŽIŪROS
 ĮSTATYMAS
-2002 m. gegužės 16 d. Nr. IX-886
-Vilnius
+2002 m. gegužės 16 d. Nr. IX-886 Vilnius
 I SKYRIUS
 BENDROSIOS NUOSTATOS
