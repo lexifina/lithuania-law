@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2008-03-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/910007e30c6c553d318821f31b6d24289c3edfdf/istatymai/TAR.C51D9C259EFE.md) |
+| 2015-05-27 | 2015-06-30 | Įstatymas Nr. X-1684 / Įstatymas Nr. XI-1044 / Įstatymas Nr. XI-1762 / Įstatymas Nr. XI-2377 / Įstatymas Nr. XII-833 / Įstatymas Nr. XII-834 / Įstatymas Nr. XII-1711 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/2eec5d0c622647e27581d4f9de8a33612cb66f1a/istatymai/TAR.C51D9C259EFE.md) |
