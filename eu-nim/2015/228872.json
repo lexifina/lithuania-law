@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatymo Nr. XI-1425 5 straipsnio pakeitimo įstatymas Nr. XII-1717",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-08062",
+  "official_journal_page": null,
+  "official_journal_date": "2015-05-26",
+  "entry_into_force": "2015-05-27",
+  "notification_date": "2015-08-04",
+  "commission_reference": "MNE(2015)55692",
+  "nim_celex": "72011L0099LTU_228872",
+  "nim_id": "228872",
+  "transposes_celex": [
+    "32011L0099"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/aa14b6e5-b882-45b0-a2c2-3e981e014696",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
