@@ -17,3 +17,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2011-09-01 | 2014-10-31 | Įstatymas Nr. XI-1496 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/7e19fbc3b7331d1badd6405bb385a53918b51534/istatymai/TAR.F0E2E67B1F2F.md) |
 | 2014-11-01 | 2014-12-31 | Įstatymas Nr. XI-1496 / Įstatymas Nr. XII-873 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/931a23560ab1bb44cc6403e6ee9b0ade2fb0de57/istatymai/TAR.F0E2E67B1F2F.md) |
 | 2015-01-01 | 2015-05-27 | Įstatymas Nr. XII-1307 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/620ad3120ab608114bf231048de2c8d9a884dfe4/istatymai/TAR.F0E2E67B1F2F.md) |
+| 2015-05-28 | 2015-10-31 | Įstatymas Nr. XII-1724 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/08200b0503a25dd2de810cf7d8e4d9e2fee64efd/istatymai/TAR.F0E2E67B1F2F.md) |
