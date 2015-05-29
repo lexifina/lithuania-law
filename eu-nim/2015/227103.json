@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2015 m. gegužės 28 d. įsakymas Nr. 3-218(1.5 E) \"Dėl Lietuvos Respublikos susisiekimo ministro 2005 m. rugpjūčio 8 d. įsakymo Nr. 3-355 „Dėl Lietuvos Respublikos jūrinių laipsnių suteikimo, jūrinio laipsnio diplomų, globalinės jūrų avarinio ryšio saugumo sistemos radijo ryšio operatoriaus diplomų, jūrinio laipsnio kvalifikacijos liudijimų, šių dokumentų išdavimo ir pripažinimo patvirtinimų ir specialiųjų liudijimų išdavimo jūrininkams, dirbantiems laivuose, kurie plaukioja tarptautiniais reisais, taisyklių patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-08206",
+  "official_journal_page": null,
+  "official_journal_date": "2015-05-28",
+  "entry_into_force": "2015-05-29",
+  "notification_date": "2015-09-09",
+  "commission_reference": "MNE(2015)54085",
+  "nim_celex": "72008L0106LTU_227103",
+  "nim_id": "227103",
+  "transposes_celex": [
+    "32008L0106"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9cbedd65-d8eb-4e82-a676-412bb31d66d1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
