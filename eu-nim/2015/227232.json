@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2014 m. gruodžio 8 d. Įsakymas Nr. A1-626 „Dėl Lietuvos Respublikos socialinės apsaugos ir darbo ministro 1999 m. lapkričio 24 d. įsakymo Nr. 95 „Dėl saugos ir sveikatos apsaugos ženklų naudojimo darbovietėse nuostatų“ pakeitimo“,",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-19237",
+  "official_journal_page": null,
+  "official_journal_date": "2014-12-09",
+  "entry_into_force": "2015-06-01",
+  "notification_date": "2015-06-18",
+  "commission_reference": "MNE(2015)54214",
+  "nim_celex": "72014L0027LTU_227232",
+  "nim_id": "227232",
+  "transposes_celex": [
+    "32014L0027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/51e7d5a6-f72e-476d-b4c0-0b7451e941ed",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
