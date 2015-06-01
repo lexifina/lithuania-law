@@ -8,33 +8,17 @@ Lietuvos Respublikos
 atliekų tvarkymo įstatymo
 3 priedas
 Neteko galios nuo 2011-05-03
+4 priedas. Neteko galios nuo 2015-06-01
 Lietuvos Respublikos
 atliekų tvarkymo įstatymo
-4 priedas
-SAVYBĖS, DĖL KURIŲ ATLIEKOS TAMPA PAVOJINGOSIOMIS
-H1 Sprogstamosios: medžiagos ir preparatai, kurie nuo liepsnos gali sprogti arba kurie yra jautresni smūgiui ar trinčiai negu dinitrobenzenas
-H2 Oksiduojamosios: medžiagos ir preparatai, kurie nuo sąlyčio su kitomis medžiagomis, ypač degiomis, sukelia stiprią egzoterminę reakciją
-H3-A Labai degios:
-– skystos medžiagos ir preparatai, kurių pliūpsnio temperatūra žemesnė negu 21 °C (įskaitant itin degius skysčius), arba
-– medžiagos ir preparatai, kurie nuo sąlyčio su oru aplinkos temperatūros sąlygomis gali įkaisti ir galiausiai savaime užsidegti be pašalinės energijos, arba
-– kietos medžiagos ir preparatai, kurie nuo trumpo sąlyčio su ugnies šaltiniu gali lengvai užsidegti ir kurie pašalinus ugnies šaltinį dega toliau arba sudega, arba
-– dujinės medžiagos ir preparatai, kurie gali užsidegti ore esant normaliam slėgiui, arba
-– medžiagos ir preparatai, kurie nuo sąlyčio su vandeniu ar drėgnu oru skleidžia pavojingai dideliu kiekiu labai degias dujas
-H3-B Degios: skystos medžiagos ir preparatai, kurių pliūpsnio temperatūra lygi arba aukštesnė negu 21 °C ir lygi arba žemesnė negu 55 °C
-H4 Dirginančios: medžiagos ir preparatai, neturintys ėdžių savybių, kurie nuo staigaus, ilgesnio ar pakartotinio sąlyčio su oda ar gleivine gali sukelti uždegimą
-H5 Kenksmingos: medžiagos ir preparatai, kurie įkvėpti, praryti ar prasiskverbę per odą gali iš dalies pakenkti sveikatai
-H6 Toksiškos: medžiagos ir preparatai (įskaitant labai toksiškus), kurie įkvėpti, praryti ar prasiskverbę per odą gali sukelti sunkią ūmią arba chronišką ligą ar net mirtį
-H7 Kancerogeninės: medžiagos ir preparatai, kurie įkvėpti, praryti ar prasiskverbę per odą gali sukelti vėžį arba padidinti susirgimo vėžiu tikimybę
-H8 Ėdžios: medžiagos ir preparatai, prie kurių prisilietus gali būti sunaikinti gyvieji audiniai
-H9 Infekcinės: medžiagos ir preparatai, turintys gyvybingų mikroorganizmų arba jų toksinų, kurie, kaip žinoma arba pagrįstai tikima, sukelia žmonių ar kitų gyvųjų organizmų ligas
-H10 Toksiškos reprodukcijai: medžiagos ir preparatai, kurie įkvėpti, praryti ar prasiskverbę per odą gali sukelti įgimtus nepaveldimus išsigimimus arba padidinti jų skaičių
-H11 Mutageninės: medžiagos ir preparatai, kurie įkvėpti, praryti ar prasiskverbę per odą gali sukelti paveldimus genetinius išsigimimus arba padidinti jų tikimybę
-H12 Atliekos, kurios nuo sąlyčio su vandeniu, oru ar rūgštimi išskiria toksiškas arba labai toksiškas dujas
-H13* Jautrinančios: medžiagos ir preparatai, kurie įkvėpti ar prasiskverbę per odą gali sukelti tokią stiprią alerginę reakciją, kad toliau veikiant medžiagai ar preparatui pasireiškia būdingas neigiamas poveikis
-H14 Ekotoksiškos: atliekos, kurios sukelia arba gali sukelti staigų ar uždelstą pavojų vienam ar daugiau aplinkos komponentų
-H15 Atliekos, iš kurių bet kuriuo būdu po šalinimo gali susidaryti kita medžiaga (pvz., filtratas), turinti kurią nors pirmiau nurodytų savybių
-Pastabos:
-1. Atliekoms pavojingos savybės – „toksiškos“ ir „labai toksiškos“, „kenksmingos“, „ėsdinančios“, „dirginančios“, „kancerogeninės“, „toksiškos reprodukcijai“, „mutageninės“ ir „ekologiškai toksiškos“ – priskiriamos remiantis kriterijais, nustatytais pavojingųjų cheminių medžiagų ir preparatų klasifikavimą ir ženklinimą reglamentuojančiuose teisės aktuose.
-2. Tam tikrais atvejais taikomos pavojingųjų cheminių medžiagų ir preparatų klasifikavimą ir ženklinimą reglamentuojančiuose teisės aktuose išvardytos ribinės vertės.
-3. Taikomi atitinkamuose Lietuvos Respublikos ir Europos standartizacijos komiteto (CEN) dokumentuose aprašyti metodai.
-* Jei yra bandymų metodai.
+5 priedas
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+1. 1994 m. gruodžio 20 d. Europos Parlamento ir Tarybos direktyva 94/62/EB dėl pakuočių ir pakuočių atliekų (OL 2004 m. specialusis leidimas, 13 skyrius, 13 tomas, p. 349) su paskutiniais pakeitimais, padarytais 2005 m. kovo 9 d. Europos Parlamento ir Tarybos direktyva Nr. 2005/20/EB (OL 2005 L 70, p. 17).
+2. 1996 m. rugsėjo 24 d. Tarybos direktyva 96/61/EB dėl taršos integruotos prevencijos ir kontrolės (OL 2004 m. specialusis leidimas, 15 skyrius, 3 tomas, p. 80) su paskutiniais pakeitimais, padarytais 2006 m. sausio 18 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 166/2006 (OL 2006 L 33, p. 1).
+3. 1999 m. balandžio 26 d. Tarybos direktyva 1999/31/EB dėl atliekų sąvartynų (OL 2004 m. specialusis leidimas, 15 skyrius, 4 tomas, p. 228) su paskutiniais pakeitimais, padarytais 2003 m. rugsėjo 29 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1882/2003 (OL 2004 m. specialusis leidimas, 1 skyrius, 4 tomas, p. 447).
+4. 2000 m. rugsėjo 18 d. Europos Parlamento ir Tarybos direktyva 2000/53/EB dėl eksploatuoti netinkamų transporto priemonių (OL 2004 m. specialusis leidimas, 15 skyrius, 5 tomas, p. 224) su paskutiniais pakeitimais, padarytais 2005 m. rugsėjo 20 d. Tarybos sprendimu 2005/673/EB (OL 2005 L 254, p. 69).
+5. 2012 m. liepos 4 d. Europos Parlamento ir Tarybos direktyva 2012/19/ES dėl elektros ir elektroninės įrangos atliekų (OL 2012 L 197, p. 38).
+6. 2006 m. birželio 14 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1013/2006 dėl atliekų vežimo (OL 2006 L 190, p. 1) su paskutiniais pakeitimais, padarytais 2010 m. gegužės 12 d. Komisijos reglamentu (ES) Nr. 413/2010 (OL 2010 L 119, p. 1).
+7. 2006 m. rugsėjo 6 d. Europos Parlamento ir Tarybos direktyva 2006/66/EB dėl baterijų ir akumuliatorių bei baterijų ir akumuliatorių atliekų ir Direktyvos 91/157/EEB panaikinimo (OL 2006 L 266, p. 1).
+8. 2008 m. lapkričio 19 d. Europos Parlamento ir Tarybos direktyva 2008/98/EB dėl atliekų ir panaikinanti kai kurias direktyvas (OL 2008 L 312, p. 1).
+9. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/31/EB dėl anglies dioksido geologinio saugojimo, iš dalies keičianti Tarybos direktyvą 85/337/EEB, direktyvas 2000/60/EB, 2001/80/EB, 2004/35/EB, 2006/12/EB, 2008/1/EB ir Reglamentą (EB) Nr. 1013/2006 (OL 2009 L 140, p. 114).
