@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro ir Lietuvos Respublikos sveikatos apsaugos ministro 2015 m. gegužės 4 d. įsakymas Nr. A1-252/V-559 „Dėl Lietuvos Respublikos socialinės apsaugos ir darbo ministro ir Lietuvos Respublikos sveikatos apsaugos ministro 2001 m. liepos 24 d. įsakymo Nr. 97/406 „Dėl darbuotojų apsaugos nuo cheminių veiksnių darbe nuostatų bei darbuotojų apsaugos nuo kancerogenų ir mutagenų poveikio darbe nuostatų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-06716",
+  "official_journal_page": null,
+  "official_journal_date": "2015-05-05",
+  "entry_into_force": "2015-06-01",
+  "notification_date": "2015-06-18",
+  "commission_reference": "MNE(2015)54215",
+  "nim_celex": "72014L0027LTU_227233",
+  "nim_id": "227233",
+  "transposes_celex": [
+    "32014L0027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1e8e2310-a400-42d3-a278-1835a7e8159f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
