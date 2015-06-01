@@ -1,0 +1,4 @@
+VIEŠŲJŲ ĮSTAIGŲ
+ĮSTATYMAS
+1996 m. liepos 3 d. Nr. I-1428
+Vilnius
