@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2015 m. vasario 12 d. įsakymas Nr. V-204 \"Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2005 m. rugsėjo 1 d. įsakymo Nr. V-675 \"Dėl Lietuvos higienos normos HN 15:2005 \"Maisto higiena\" patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-02617",
+  "official_journal_page": null,
+  "official_journal_date": "2015-02-23",
+  "entry_into_force": "2015-06-01",
+  "notification_date": "2015-09-14",
+  "commission_reference": "MNE(2015)52500",
+  "nim_celex": "71998L0028LTU_225481",
+  "nim_id": "225481",
+  "transposes_celex": [
+    "31998L0028"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8b4ec6b5-087e-4867-a797-1bbc5105b17b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
