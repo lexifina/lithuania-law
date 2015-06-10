@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro ir Lietuvos Respublikos sveikatos apsaugos ministro 2015 m. birželio 8 d. įsakymas Nr. A1-323/V-716 „Dėl Lietuvos Respublikos socialinės apsaugos ir darbo ministro ir Lietuvos Respublikos sveikatos apsaugos ministro 2004 m. liepos 16 d. įsakymo Nr. A1-184/V-546 „Dėl darbo su asbestu nuostatų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-09061",
+  "official_journal_page": null,
+  "official_journal_date": "2015-06-09",
+  "entry_into_force": "2015-06-10",
+  "notification_date": "2015-07-02",
+  "commission_reference": "MNE(2015)54900",
+  "nim_celex": "72009L0148LTU_227962",
+  "nim_id": "227962",
+  "transposes_celex": [
+    "32009L0148"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2155795b-9097-47f6-98bd-01d3f9db5769",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
