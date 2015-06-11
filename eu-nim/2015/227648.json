@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2015 m. birželio 11   d. nutarimas Nr. 03-94 „Dėl Lietuvos banko valdybos 2012 m. liepos 12 d. nutarimo Nr. 03-160 „Dėl Finansų maklerio įmonių ir valdymo įmonių visuomenei skelbiamos informacijos taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-9192",
+  "official_journal_page": null,
+  "official_journal_date": "2015-06-12",
+  "entry_into_force": "2015-06-11",
+  "notification_date": "2015-10-20",
+  "commission_reference": "MNE(2015)54608",
+  "nim_celex": "72013L0036LTU_227648",
+  "nim_id": "227648",
+  "transposes_celex": [
+    "32013L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2af22b3d-e53a-4672-81aa-f720345902b4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
