@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 2, 8-2, 10, 21-1, 33, 38, 87, 93, 94, 96 straipsnių, 2 priedėlio, priedo pakeitimo ir Įstatymo papildymo 18-1 straipsniu įstatymas Nr. XII-1768",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-09610",
+  "official_journal_page": null,
+  "official_journal_date": "2015-06-16",
+  "entry_into_force": "2015-06-17",
+  "notification_date": "2016-03-22",
+  "commission_reference": "MNE(2016)51981",
+  "nim_celex": "72014L0024LTU_235948",
+  "nim_id": "235948",
+  "transposes_celex": [
+    "32014L0024"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8256cada-1565-4b20-8050-50adc5f14095",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
