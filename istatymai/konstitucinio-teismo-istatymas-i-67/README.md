@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 1993-02-07 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/8dabc97a870fa899bca31e11e33d1e97dba8e537/istatymai/TAR.DEEB2C5600E3.md) |
+| 2015-06-17 | 2015-08-31 | Įstatymas Nr. IX-1797 / Įstatymas Nr. X-1224 / Įstatymas Nr. X-1806 / Įstatymas Nr. XI-1311 / Įstatymas Nr. XI-1783 / Įstatymas Nr. XII-581 / Įstatymas Nr. XII-1775 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/1f6e40bf682062475b4bf2bca41f3292607a0729/istatymai/TAR.DEEB2C5600E3.md) |
