@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2015 m. birželio 17 d. įsakymas Nr. 3-252(1.5 E) „Dėl Lietuvos Respublikos susisiekimo ministro 1999 m. gruodžio 31 d. įsakymo Nr. 456 „Dėl keleivių ir bagažo vežimo jūra taisyklių patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-09666",
+  "official_journal_page": null,
+  "official_journal_date": "2015-06-17",
+  "entry_into_force": "2015-06-18",
+  "notification_date": "2015-10-28",
+  "commission_reference": "MNE(2015)57521",
+  "nim_celex": "71998L0041LTU_230899",
+  "nim_id": "230899",
+  "transposes_celex": [
+    "31998L0041"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c902cf6e-de84-48ba-a522-b9ba47851f6f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
