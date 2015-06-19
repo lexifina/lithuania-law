@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo kodekso 7, 196, 197, 198-1, 198-2 straipsnių ir priedo pakeitimo ir Kodekso papildymo 270-3 straipsniu įstatymas Nr. XII-1777",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-09697",
+  "official_journal_page": null,
+  "official_journal_date": "2015-06-18",
+  "entry_into_force": "2015-06-19",
+  "notification_date": "2015-08-04",
+  "commission_reference": "MNE(2015)54699",
+  "nim_celex": "72013L0040LTU_227757",
+  "nim_id": "227757",
+  "transposes_celex": [
+    "32013L0040"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/463732da-0064-4867-9b1f-2e07483ad6b1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
