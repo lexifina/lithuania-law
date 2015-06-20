@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos policijos generalinio komisaro 2015 m. birželio 18 d. įsakymas Nr. 5-V-560 \"Dėl Lietuvos policijos generalinio komisaro 2010 m. birželio 30 d. įsakymo Nr. 5-V-547 \"Dėl civilinių pirotechnikos priemonių apyvartos\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-09760",
+  "official_journal_page": null,
+  "official_journal_date": "2015-06-19",
+  "entry_into_force": "2015-06-20",
+  "notification_date": "2015-06-25",
+  "commission_reference": "MNE(2015)54697",
+  "nim_celex": "72014L0058LTU_227755",
+  "nim_id": "227755",
+  "transposes_celex": [
+    "32014L0058"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1baa46a8-1806-4459-bdb3-69b71a021b7a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
