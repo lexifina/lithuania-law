@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybės įmonės „Regitra“ generalinio direktoriaus 2015 m. birželio 23 d. įsakymas Nr. V-82 „Dėl transporto priemonės tapatumo nustatymo procedūrų  atlikimo instrukcijos patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Informaciniai pranešimai",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2015-06-23",
+  "entry_into_force": "2015-06-23",
+  "notification_date": "2017-11-03",
+  "commission_reference": "MNE(2017)56158",
+  "nim_celex": "72014L0046LTU_252174",
+  "nim_id": "252174",
+  "transposes_celex": [
+    "32014L0046"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5fee0371-2317-4740-bd7e-84acd6bd768b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
