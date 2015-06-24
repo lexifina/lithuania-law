@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2015 m. birželio 23 d. įsakymas Nr. 1V-777 \"Dėl Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2004 m. rugsėjo 17 d. įsakymo Nr. 1V-297 „Dėl Rinkos tyrimo taisyklių patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-10094",
+  "official_journal_page": null,
+  "official_journal_date": "2015-06-23",
+  "entry_into_force": "2015-06-24",
+  "notification_date": "2015-07-02",
+  "commission_reference": "MNE(2015)54889",
+  "nim_celex": "72009L0140LTU_227951",
+  "nim_id": "227951",
+  "transposes_celex": [
+    "32009L0140"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b002e2dc-0e24-4712-8ff2-69617ff90a48",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
