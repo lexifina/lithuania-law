@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos policijos generalinio komisaro 2015 m. birželio 30 d. įsakymas Nr. 5-V-615 „Dėl Lietuvos policijos generalinio komisaro 2014 m. balandžio 14 d. įsakymo Nr. 5-V-346 „Dėl Pranešimų policijai, teikiamų elektroniniu būdu, duomenų tvarkymo taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-12481",
+  "official_journal_page": null,
+  "official_journal_date": "2015-08-21",
+  "entry_into_force": "2015-07-01",
+  "notification_date": "2016-02-10",
+  "commission_reference": "MNE(2016)51144",
+  "nim_celex": "72013L0040LTU_234524",
+  "nim_id": "234524",
+  "transposes_celex": [
+    "32013L0040",
+    "32019L0713"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/60ee61f6-f94f-4d07-bd1e-caf386a8e6b4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
