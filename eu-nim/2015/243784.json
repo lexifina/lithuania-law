@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės augalininkystės tarnybos prie Žemės ūkio ministerijos direktoriaus 2015 m. gegužės 8 d. įsakymas Nr. A1-307 \"Dėl Prašymo dėl atestavimo dauginamosios medžiagos tiekėju ir Pareiškėjo atestavimo dauginamosios medžiagos tiekėju patikrinimo akto formų patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "7285",
+  "official_journal_page": null,
+  "official_journal_date": "2015-05-13",
+  "entry_into_force": "2015-07-01",
+  "notification_date": "2016-12-29",
+  "commission_reference": "MNE(2016)57890",
+  "nim_celex": "72014L0097LTU_243784",
+  "nim_id": "243784",
+  "transposes_celex": [
+    "32014L0097"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b9883be7-d033-4fb4-887f-6d326ba84319",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
