@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos teisingumo ministro 2015 m. birželio 12 d. įsakymas Nr. 1R-148 dėl „Dėl Valstybės garantuojamos teisinės pagalbos tarnybos nuostatų patvirtinimo“ (Suvestinė redakcija nuo 2018 m. liepos 19 d.)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "9182",
+  "official_journal_page": null,
+  "official_journal_date": "2015-06-12",
+  "entry_into_force": "2015-07-01",
+  "notification_date": "2018-10-30",
+  "commission_reference": "MNE(2018)55608",
+  "nim_celex": "72017L0541LTU_264161",
+  "nim_id": "264161",
+  "transposes_celex": [
+    "32017L0541"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7d06eeed-5780-4da4-93f0-2101103a4b2e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
