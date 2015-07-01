@@ -10,3 +10,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | --- | --- | --- | --- |
 | 2004-05-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/f699b50b45619bc37e13e3eecfaa8025143c8f71/istatymai/TAR.82D8168D3049.md) |
 | 2015-01-01 | 2015-06-30 | Įstatymas Nr. X-1835 / Įstatymas Nr. XI-1552 / Įstatymas Nr. XI-2244 / Įstatymas Nr. XI-2322 / Įstatymas Nr. XII-579 / Įstatymas Nr. XII-712 / Įstatymas Nr. XII-1260 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/504cfbb104b0cf6bd302db1e3d4064e6ab3b6d9b/istatymai/TAR.82D8168D3049.md) |
+| 2015-07-01 | 2015-12-31 | Įstatymas Nr. XII-1891 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/5a81fba17b5d6e14603ca95609a2243ea80348d8/istatymai/TAR.82D8168D3049.md) |
