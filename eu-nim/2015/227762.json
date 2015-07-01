@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2015 m. birželio 17 d. nutarimas Nr. 621 \"Dėl Perkančiosioms organizacijoms taikomų energijos vartojimo efektyvumo reikalavimų prekėms, paslaugoms ir pastatams\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-10036",
+  "official_journal_page": null,
+  "official_journal_date": "2015-06-22",
+  "entry_into_force": "2015-07-01",
+  "notification_date": "2015-07-14",
+  "commission_reference": "MNE(2015)54704",
+  "nim_celex": "72012L0027LTU_227762",
+  "nim_id": "227762",
+  "transposes_celex": [
+    "32012L0027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6b6de29b-fe6e-42ab-8d66-cad5b41dbaad",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
