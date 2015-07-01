@@ -19,6 +19,8 @@ akcizų įstatymo
 12. 2009 m. liepos 24 d. Komisijos reglamentas (EB) Nr. 684/2009, kuriuo įgyvendinamos Tarybos direktyvos 2008/118/EB nuostatos, susijusios su akcizais apmokestinamų prekių, kurioms pritaikytas akcizų mokėjimo laikino atidėjimo režimas, gabenimo kompiuterinėmis procedūromis (OL 2009 L 197, p. 24).
 13. 2011 m. birželio 21 d. Tarybos direktyva 2011/64/ES dėl akcizų, taikomų apdorotam tabakui, struktūros ir tarifų (OL 2011 L 176, p. 24).
 14. 2012 m. balandžio 20 d. Komisijos įgyvendinimo sprendimas Nr. 2012/209/ES dėl Tarybos direktyvos 2008/118/EB kontrolės ir judėjimo nuostatų taikymo tam tikriems priedams, vadovaujantis Tarybos direktyvos 2003/96/EB 20 straipsnio 2 dalimi (OL 2012 L 110, p. 41).
+15. 2014 m. birželio 17 d. Komisijos reglamentas (ES) Nr. 651/2014, kuriuo tam tikrų kategorijų pagalba skelbiama suderinama su vidaus rinka taikant Sutarties 107 ir 108 straipsnius (OL 2014 L 187, p. 1).
+16. 2014 m. gruodžio 16 d. Komisijos reglamentas (ES) Nr. 1388/2014, kuriuo tam tikrų kategorijų pagalba įmonėms, kurios verčiasi žvejybos ir akvakultūros produktų gamyba, perdirbimu ir prekyba, skelbiama suderinama su vidaus rinka taikant Sutarties dėl Europos Sąjungos veikimo 107 ir 108 straipsnius (OL 2014 L 369, p. 37).
 3 priedo pakeitimai:
 Nr. XI-1185, 2010-11-30, Žin., 2010, Nr. 148-7560 (2010-12-18)
 Nr. XI-1740, 2011-11-29, Žin., 2011, Nr. 150-7047 (2011-12-08)
