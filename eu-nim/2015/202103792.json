@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos policijos generalinio komisaro 2015 m. birželio 30 d. įsakymas Nr. 5-V-601 „Dėl Eismo įvykių informacinės sistemos nuostatų patvirtinimo ir informacinės sistemos veiklos pradžios nustatymo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-10570",
+  "official_journal_page": null,
+  "official_journal_date": "2015-06-30",
+  "entry_into_force": "2015-07-01",
+  "notification_date": "2021-06-01",
+  "commission_reference": "MNE(2021)03792",
+  "nim_celex": "72019L1936LTU_202103792",
+  "nim_id": "202103792",
+  "transposes_celex": [
+    "32019L1936"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1cfda99f-95b4-41c0-b1ec-2db0fba4abf8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
