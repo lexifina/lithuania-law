@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių teisės pažeidimų kodekso 172-2 straipsnio pakeitimo įstatymas Nr. XII-1699",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-08121",
+  "official_journal_page": null,
+  "official_journal_date": "2015-05-27",
+  "entry_into_force": "2015-07-01",
+  "notification_date": "2015-08-05",
+  "commission_reference": "MNE(2015)55725",
+  "nim_celex": "72013L0034LTU_228905",
+  "nim_id": "228905",
+  "transposes_celex": [
+    "32013L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0e5bb526-c677-4986-8923-f85caadc6757",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
