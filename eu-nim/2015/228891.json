@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo Nr. IX-575 pakeitimo įstatymas Nr. XII-1696",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-08160",
+  "official_journal_page": null,
+  "official_journal_date": "2015-05-27",
+  "entry_into_force": "2015-07-01",
+  "notification_date": "2015-08-05",
+  "commission_reference": "MNE(2015)55711",
+  "nim_celex": "72013L0034LTU_228891",
+  "nim_id": "228891",
+  "transposes_celex": [
+    "32013L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4d5f2b34-ee47-4c47-97b3-ec1853690087",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
