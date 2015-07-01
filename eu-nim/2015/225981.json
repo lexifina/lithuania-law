@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2015 m. balandžio 23 d. nutarimas Nr. 400 „Dėl Lietuvos Respublikos Vyriausybės 2002 m. sausio 22 d. nutarimo Nr. 84 „Dėl pavojingųjų krovinių vežimo geležinkelių keliais Lietuvos Respublikoje“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-06239",
+  "official_journal_page": null,
+  "official_journal_date": "2015-04-24",
+  "entry_into_force": "2015-07-01",
+  "notification_date": "2015-05-06",
+  "commission_reference": "MNE(2015)52984",
+  "nim_celex": "72014L0103LTU_225981",
+  "nim_id": "225981",
+  "transposes_celex": [
+    "32014L0103"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/35b82e1a-5f86-4f09-974d-37607f0b66e9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
