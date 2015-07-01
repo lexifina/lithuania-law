@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių teisės pažeidimų kodekso 109 ir 110 straipsnių pakeitimo įstatymas Nr. XII-1847",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-10373",
+  "official_journal_page": null,
+  "official_journal_date": "2015-06-30",
+  "entry_into_force": "2015-07-01",
+  "notification_date": "2015-12-11",
+  "commission_reference": "MNE(2015)58693",
+  "nim_celex": "72002L0004LTU_232112",
+  "nim_id": "232112",
+  "transposes_celex": [
+    "32002L0004"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e31902ab-ca1b-42be-ace7-ce818aec6276",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
