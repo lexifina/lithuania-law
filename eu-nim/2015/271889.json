@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Seimo 2015 m. gegužės 7 d. nutarimas Nr. XII-1682 „Dėl Viešojo saugumo plėtros 2015–2025 metų programos patvirtinimo“",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-07293",
+  "official_journal_page": null,
+  "official_journal_date": "2015-05-13",
+  "entry_into_force": "2015-07-01",
+  "notification_date": "2019-04-24",
+  "commission_reference": "MNE(2019)52299",
+  "nim_celex": "72011L0036LTU_271889",
+  "nim_id": "271889",
+  "transposes_celex": [
+    "32011L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/440cff21-4013-4b30-9c89-efb948e0947b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
