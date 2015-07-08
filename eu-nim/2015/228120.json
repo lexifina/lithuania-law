@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro ir Lietuvos Respublikos ūkio ministro 2015 m. liepos 3 d. įsakymas Nr. 1-176/4-433 \"Dėl Lietuvos Respublikos energetikos ministro ir Lietuvos respublikos ūkio ministro 2012 m. gruodžio 10 d. įsakymo Nr. 1-256/4-1205 \"Dėl reglamentų patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-11105",
+  "official_journal_page": null,
+  "official_journal_date": "2015-07-07",
+  "entry_into_force": "2015-07-08",
+  "notification_date": "2015-07-27",
+  "commission_reference": "MNE(2015)55053",
+  "nim_celex": "72010L0031LTU_228120",
+  "nim_id": "228120",
+  "transposes_celex": [
+    "32010L0031"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/84ac8e88-bb90-4fcb-986f-994a0f812ce0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
