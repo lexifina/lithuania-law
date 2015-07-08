@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos tabako kontrolės įstatymo Nr. I-1143 pavadinimo, 1, 2, 3, 14, 17, 18, 26 straipsnių, II skyriaus, III, IV skyrių, III skyriaus trečiojo skirsnio pavadinimų, priedo pakeitimo ir Įstatymo papildymo 16-1, 16-2, 17-1 straipsniais įstatymo Nr. XII-1529 5 straipsnio pakeitimo įstatymas Nr. XII-1917",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-11095",
+  "official_journal_page": null,
+  "official_journal_date": "2015-07-07",
+  "entry_into_force": "2015-07-08",
+  "notification_date": "2015-12-11",
+  "commission_reference": "MNE(2015)58084",
+  "nim_celex": "72012L0009LTU_231464",
+  "nim_id": "231464",
+  "transposes_celex": [
+    "32012L0009"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e0e8969a-0920-4af0-92a7-1f38f7684b56",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
