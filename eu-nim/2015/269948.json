@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas (suvestinė redakcija nuo 2019-01-22 iki 2019-02-28)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-11216",
+  "official_journal_page": null,
+  "official_journal_date": "2015-07-10",
+  "entry_into_force": "2015-07-11",
+  "notification_date": "2019-02-28",
+  "commission_reference": "MNE(2019)51369",
+  "nim_celex": "72016L1629LTU_269948",
+  "nim_id": "269948",
+  "transposes_celex": [
+    "32016L1629"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3e381987-6339-4d56-be91-3883299062c5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
