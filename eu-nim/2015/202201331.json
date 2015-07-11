@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Administracinių nusižengimų kodeksas Nr. XII-1869 (suvestinė redakcija nuo 2022 m. sausio 1 d.)",
+  "type_of_act": "Code",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-11216",
+  "official_journal_page": null,
+  "official_journal_date": "2015-07-10",
+  "entry_into_force": "2015-07-11",
+  "notification_date": "2022-03-08",
+  "commission_reference": "MNE(2022)01331",
+  "nim_celex": "72017L2397LTU_202201331",
+  "nim_id": "202201331",
+  "transposes_celex": [
+    "32017L2397"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b14b36b1-a11e-11ec-83e1-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
