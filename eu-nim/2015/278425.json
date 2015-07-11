@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas Nr. XII-1869. Lietuvos Respublikos administracinių nusižengimų kodeksas (Suvestinė redakcija nuo 2019-11-01 iki 2019-12-31)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "11216",
+  "official_journal_page": null,
+  "official_journal_date": "2015-07-10",
+  "entry_into_force": "2015-07-11",
+  "notification_date": "2019-11-20",
+  "commission_reference": "MNE(2019)56293",
+  "nim_celex": "72014L0052LTU_278425",
+  "nim_id": "278425",
+  "transposes_celex": [
+    "32014L0052"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8aea1908-8686-4d6d-b324-8116d1801498",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
