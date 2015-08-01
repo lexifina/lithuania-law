@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 1991-09-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/f3ff0461d316536e8c8182bac54a5a390b587455/istatymai/TAR.075D49C59279.md) |
+| 2015-08-01 | 2015-08-31 | Įstatymas Nr. IX-1170 / Įstatymas Nr. XI-914 / Įstatymas Nr. XII-414 / Įstatymas Nr. XII-1840 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/d3c7c040d898b36e831a33925283749c07ef2326/istatymai/TAR.075D49C59279.md) |
