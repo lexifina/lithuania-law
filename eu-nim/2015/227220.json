@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2015 m. gegužės 27 d. nutarimas Nr. 527 \"Dėl Papildomų garantijų socialiai pažeidžiamiems elektros energijos vartotojams taikymo tvarkos aprašo patvirtinimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-08503",
+  "official_journal_page": null,
+  "official_journal_date": "2015-05-30",
+  "entry_into_force": "2015-08-01",
+  "notification_date": "2015-06-04",
+  "commission_reference": "MNE(2015)54202",
+  "nim_celex": "72009L0072LTU_227220",
+  "nim_id": "227220",
+  "transposes_celex": [
+    "32009L0072"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5940f6f8-34b5-4b5d-9ea9-06a647ef2c97",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
