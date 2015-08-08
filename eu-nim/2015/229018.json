@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2015 m. rugpjūčio 5 d. nutarimas Nr. 785 \"Dėl 2014 m. balandžio 3 d. Europos Parlamento ir Tarybos direktyvos 2014/45/ES dėl motorinių transporto priemonių ir jų priekabų periodinės techninės apžiūros, kuria panaikinama direktyva 2009/40/EB, nuostatų įgyvendinimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-12121",
+  "official_journal_page": null,
+  "official_journal_date": "2015-08-07",
+  "entry_into_force": "2015-08-08",
+  "notification_date": "2015-08-14",
+  "commission_reference": "MNE(2015)55834",
+  "nim_celex": "72014L0045LTU_229018",
+  "nim_id": "229018",
+  "transposes_celex": [
+    "32014L0045"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f5f5746e-155d-4806-850f-3fff51ca3c8c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
