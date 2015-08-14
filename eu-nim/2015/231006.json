@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2015 m. rugpjūčio 13 d. nutarimas Nr. 03-130 „Dėl Lietuvos banko valdybos 2006 m. lapkričio 23 d. nutarimo Nr. 145 „Dėl Vidaus kapitalo pakankamumo vertinimo proceso bendrųjų nuostatų ir Priežiūrinio tikrinimo ir vertinimo proceso bendrųjų nuostatų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-12296",
+  "official_journal_page": null,
+  "official_journal_date": "2015-08-13",
+  "entry_into_force": "2015-08-14",
+  "notification_date": "2015-10-23",
+  "commission_reference": "MNE(2015)57628",
+  "nim_celex": "72013L0036LTU_231006",
+  "nim_id": "231006",
+  "transposes_celex": [
+    "32013L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/155d9dab-7f26-4834-9f90-5dac4af1bca8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
