@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2015 m. rugpjūčio 19 d. nutarimas Nr. 865 „Dėl Lietuvos Respublikos Vyriausybės 2002 m. kovo 5 d. nutarimo Nr. 314 „Dėl Turto arešto aktų registro nuostatų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "12462",
+  "official_journal_page": null,
+  "official_journal_date": "2015-08-20",
+  "entry_into_force": "2015-08-21",
+  "notification_date": "2017-01-18",
+  "commission_reference": "MNE(2017)50422",
+  "nim_celex": "72014L0042LTU_244378",
+  "nim_id": "244378",
+  "transposes_celex": [
+    "32014L0042"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d512dbf9-b45a-45c7-be5e-406c7461f812",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
