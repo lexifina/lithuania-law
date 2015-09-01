@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2015 m. rugpjūčio 31 d. įsakymas Nr. 3-368(1.5 E) „Dėl Lietuvos Respublikos susisiekimo ministro 2006 m. birželio 12 d. įsakymo Nr. 3-237 „Dėl mokymo pajėgumų teikimo geležinkelio įmonėms (vežėjams) taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-13236",
+  "official_journal_page": null,
+  "official_journal_date": "2015-08-31",
+  "entry_into_force": "2015-09-01",
+  "notification_date": "2015-09-14",
+  "commission_reference": "MNE(2015)56325",
+  "nim_celex": "72007L0059LTU_229552",
+  "nim_id": "229552",
+  "transposes_celex": [
+    "32007L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/dc88653f-78d0-4ed1-b28c-e1f4c2080f36",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
