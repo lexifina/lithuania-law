@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "2015 m. birželio 23 d. Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 2, 7, 8, 9, 10, 11, 12, 16, 22, 23, 24, 27, 28, 30, 32, 34, 37, 38, 41, 42, 44 ir 48 straipsnių pakeitimo įstatymas Nr. XII-1819",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "11074",
+  "official_journal_page": null,
+  "official_journal_date": "2015-07-07",
+  "entry_into_force": "2015-09-01",
+  "notification_date": "2016-12-30",
+  "commission_reference": "MNE(2016)57956",
+  "nim_celex": "72013L0048LTU_243850",
+  "nim_id": "243850",
+  "transposes_celex": [
+    "32013L0048"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c40542ff-d42b-11e6-ad7c-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
