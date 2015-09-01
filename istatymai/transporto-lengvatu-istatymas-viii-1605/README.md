@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2000-05-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/907e88f19e1f789338c17bc02c475f6d460cc10a/istatymai/TAR.033D686E8F1B.md) |
+| 2015-09-01 | 2017-07-24 | Įstatymas Nr. X-1612 / Įstatymas Nr. XII-1505 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/c6903cc1cd843ecead018b7bfdeaceebeaaecf07/istatymai/TAR.033D686E8F1B.md) |
