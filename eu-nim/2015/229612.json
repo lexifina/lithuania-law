@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės geležinkelio inspekcijos prie Susisiekimo ministerijos viršininko 2015 m. rugpjūčio 28 d. įsakymas Nr. V-169 „Dėl Valstybinės geležinkelio inspekcijos prie Susisiekimo ministerijos viršininko 2010 m. gegužės 17 d. įsakymo Nr. V-153 „Dėl Traukinio mašinistų mokymo centrų pripažinimo tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-13142",
+  "official_journal_page": null,
+  "official_journal_date": "2015-08-28",
+  "entry_into_force": "2015-09-01",
+  "notification_date": "2015-09-14",
+  "commission_reference": "MNE(2015)56379",
+  "nim_celex": "72007L0059LTU_229612",
+  "nim_id": "229612",
+  "transposes_celex": [
+    "32007L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cdf39f50-24c4-4551-b5e5-c75494c595a9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
