@@ -18,3 +18,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2012-12-29 | 2012-12-31 | Aktas Nr. XII-75 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/ccb53cdccbfd02aa7bbf5b0e20a83b8c20c2128c/istatymai/TAR.F617B8D97E05.md) |
 | 2013-01-01 | 2015-03-01 | Aktas Nr. XII-75 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/161f46b7a25cfcdf98f4cc94fd1540ff39a1ecfb/istatymai/TAR.F617B8D97E05.md) |
 | 2015-03-02 | 2015-08-31 | Aktas Nr. XII-1521 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/64681b01bdc84c4433ba1b6bfe36fb1d63addef4/istatymai/TAR.F617B8D97E05.md) |
+| 2015-09-01 | 2016-12-31 | Aktas Nr. XII-1702 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/bc5370a8f6ddc048bb3c8193c115b6ebc1b06996/istatymai/TAR.F617B8D97E05.md) |
