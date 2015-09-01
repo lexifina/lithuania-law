@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2015 m. rugpjūčio 26 d. nutarimas Nr. 913 \"Dėl Lietuvos Respublikos Vyriausybės 2007 m. rugpjūčio 22 d. nutarimo Nr. 875 „Dėl Asmenų prašymų nagrinėjimo ir jų aptarnavimo viešojo administravimo institucijose, įstaigose ir kituose viešojo administravimo subjektuose taisyklių patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-13239",
+  "official_journal_page": null,
+  "official_journal_date": "2015-08-31",
+  "entry_into_force": "2015-09-01",
+  "notification_date": "2016-05-23",
+  "commission_reference": "MNE(2016)53419",
+  "nim_celex": "72013L0032LTU_237767",
+  "nim_id": "237767",
+  "transposes_celex": [
+    "32013L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/05066be8-3a43-4f11-8bc3-7ba64e7a7ccf",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
