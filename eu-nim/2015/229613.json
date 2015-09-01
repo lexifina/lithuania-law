@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės geležinkelio inspekcijos prie Susisiekimo ministerijos viršininko 2015 m. rugpjūčio 28 d. įsakymas Nr. V-171 „Dėl 2010 m. birželio 29 d. įsakymo Nr. V-196 „Dėl Traukinio mašinistų egzaminuotojų pripažinimo tvarkos, egzaminuotojams ir egzaminams keliamų reikalavimų bei egzaminavimo tvarkai keliamų reikalavimų aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-13139",
+  "official_journal_page": null,
+  "official_journal_date": "2015-08-28",
+  "entry_into_force": "2015-09-01",
+  "notification_date": "2015-09-14",
+  "commission_reference": "MNE(2015)56380",
+  "nim_celex": "72007L0059LTU_229613",
+  "nim_id": "229613",
+  "transposes_celex": [
+    "32007L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d9a63f95-453d-4a0f-9922-3b29ddcdd96f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
