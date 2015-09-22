@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2015 m. rugsėjo 21 d. įsakymas Nr. D1-663 „Dėl Lietuvos Respublikos aplinkos ministro 2003 m. gruodžio 31 d. įsakymo Nr. 726 „Dėl Bendrųjų reikalavimų vandens telkinių monitoringui patvirtinimo“ pakeitimo",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-14011",
+  "official_journal_page": null,
+  "official_journal_date": "2015-09-21",
+  "entry_into_force": "2015-09-22",
+  "notification_date": "2015-12-10",
+  "commission_reference": "MNE(2015)58837",
+  "nim_celex": "72014L0101LTU_232258",
+  "nim_id": "232258",
+  "transposes_celex": [
+    "32014L0101"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3a474c2e-d8ee-4010-9a4b-f38a2cf9339f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
