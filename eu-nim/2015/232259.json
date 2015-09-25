@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2015 m. rugsėjo 24 d. įsakymas Nr. D1-679 „Dėl reikalavimo pereinamuoju laikotarpiu patikslinti kiekvieno genetiškai modifikuotų organizmų leidimo ar pranešimo geografinę taikymo sritį, išbraukiant Lietuvos Respublikos teritoriją“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-14184",
+  "official_journal_page": null,
+  "official_journal_date": "2015-09-24",
+  "entry_into_force": "2015-09-25",
+  "notification_date": "2015-12-10",
+  "commission_reference": "MNE(2015)58838",
+  "nim_celex": "72015L0412LTU_232259",
+  "nim_id": "232259",
+  "transposes_celex": [
+    "32015L0412"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/56c31bcc-d0b5-4a93-8351-78afa5af1b7d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
