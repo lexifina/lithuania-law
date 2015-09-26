@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2015 m. rugsėjo 23 d. nutarimas Nr. 1017 „Dėl 2011 m. Vasario 15 d. Tarybos direktyvos 2011/16/ES dėl administracinio bendradarbiavimo apmokestinimo srityje ir panaikinančios direktyvą 77/799/EEB ir Lietuvos Respublikos tarptautinių sutarčių ir susitarimų dėl automatinių informacijos apie finansines sąskaitas mainų įgyvendinimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-14224",
+  "official_journal_page": null,
+  "official_journal_date": "2015-09-25",
+  "entry_into_force": "2015-09-26",
+  "notification_date": "2015-12-14",
+  "commission_reference": "MNE(2015)59244",
+  "nim_celex": "72014L0107LTU_232699",
+  "nim_id": "232699",
+  "transposes_celex": [
+    "32014L0107"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/37e204fc-0851-4c07-9c0e-5d9b203c20f3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
