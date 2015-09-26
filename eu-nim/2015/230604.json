@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2015 m. rugsėjo 23 d. įsakymas Nr. 1-221 \"Dėl Energijos taupymo paslaugų teikėjo (ETPT) modelio įgyvendinimo tipinių dokumentų patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-14194",
+  "official_journal_page": null,
+  "official_journal_date": "2015-09-25",
+  "entry_into_force": "2015-09-26",
+  "notification_date": "2015-10-27",
+  "commission_reference": "MNE(2015)57230",
+  "nim_celex": "72012L0027LTU_230604",
+  "nim_id": "230604",
+  "transposes_celex": [
+    "32012L0027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f8629533-f0de-48e2-9a0c-ed0dd87188f5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
