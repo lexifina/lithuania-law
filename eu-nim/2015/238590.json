@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2015 m. gegužės 13 d. nutarimas Nr. 481 „Dėl Lietuvos Respublikos Vyriausybės 1999 m. gruodžio 27 d. nutarimo Nr. 1482 „Dėl institucijų, įgaliotų tvirtinti privalomuosius produktų saugos reikalavimus ir nustatyti atitikties įvertinimo reikalavimus, paskyrimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-07350",
+  "official_journal_page": null,
+  "official_journal_date": "2015-05-14",
+  "entry_into_force": "2015-09-26",
+  "notification_date": "2016-07-12",
+  "commission_reference": "MNE(2016)54149",
+  "nim_celex": "72014L0053LTU_238590",
+  "nim_id": "238590",
+  "transposes_celex": [
+    "32014L0053"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1a6dd43a-670c-4400-a815-1b5f4ccbde2a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
