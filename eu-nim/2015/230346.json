@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2015 m. rugsėjo 29 d. įsakymas Nr. 3-404(1.5 E) „Dėl Lietuvos Respublikos susisiekimo ministro 2010 m. lapkričio 5 d. įsakymo Nr. 3-654 „Dėl nacionalinės laivų eismo stebėsenos informacinės sistemos sukūrimo, įdiegimo ir priežiūros tvarkos aprašo patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-14449",
+  "official_journal_page": null,
+  "official_journal_date": "2015-09-29",
+  "entry_into_force": "2015-09-30",
+  "notification_date": "2015-10-26",
+  "commission_reference": "MNE(2015)57005",
+  "nim_celex": "72014L0100LTU_230346",
+  "nim_id": "230346",
+  "transposes_celex": [
+    "32014L0100"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8caf2145-b237-473e-a50c-4a03deec2581",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
