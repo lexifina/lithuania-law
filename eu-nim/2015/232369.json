@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 2, 19, 22, 24, 27, 31, 32, 33, 34, 34-1, 41, 46, 47, 48 straipsnių pakeitimo ir 40-2 straipsnio pripažinimo netekusiu galios įstatymas Nr. XII-1731",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-08537",
+  "official_journal_page": null,
+  "official_journal_date": "2015-06-01",
+  "entry_into_force": "2015-10-01",
+  "notification_date": "2015-12-08",
+  "commission_reference": "MNE(2015)58931",
+  "nim_celex": "72010L0013LTU_232369",
+  "nim_id": "232369",
+  "transposes_celex": [
+    "32010L0013"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bb195cb8-1c31-4407-a68f-4330c99f65aa",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
