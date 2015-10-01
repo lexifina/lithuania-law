@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro ir Lietuvos Respublikos aplinkos ministro 2015 m. rugsėjo 25 d. įsakymas Nr. 1-226/D1-683 \"Dėl Šilumos ūkio specialiųjų planų rengimo taisyklių patvirtinimo\" (suvestinė redakcija nuo 2023-10-01)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-14830",
+  "official_journal_page": null,
+  "official_journal_date": "2015-10-07",
+  "entry_into_force": "2015-10-01",
+  "notification_date": "2026-03-06",
+  "commission_reference": "MNE(2026)01608",
+  "nim_celex": "72023L1791LTU_202601608",
+  "nim_id": "202601608",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e8047b70-6164-4e03-b2e7-0da43ba9fd3e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
