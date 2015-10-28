@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 1, 43 ir 47 straispnių pakeitimo ir įstatymo papildymo 57 (1) straipsniu ir priedu įstatymas Nr. XII-1965",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-16900",
+  "official_journal_page": null,
+  "official_journal_date": "2015-10-27",
+  "entry_into_force": "2015-10-28",
+  "notification_date": "2015-11-10",
+  "commission_reference": "MNE(2015)58204",
+  "nim_celex": "72012L0029LTU_231594",
+  "nim_id": "231594",
+  "transposes_celex": [
+    "32012L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/412ae319-d5bd-4cdf-9abd-355427593b35",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
