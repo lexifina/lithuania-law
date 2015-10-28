@@ -21,3 +21,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2007-05-19 | 2012-02-02 | Įstatymas Nr. X-1119 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/ac87fda820795cc229369b3475e77e9cd109438f/istatymai/TAR.07786E0929A8.md) |
 | 2007-10-01 | 2012-02-02 | Įstatymas Nr. X-1119 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/1d731f36cba7ab397158e810e9c3499625d1881a/istatymai/TAR.07786E0929A8.md) |
 | 2012-02-03 | 2015-10-27 | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/66fe9494a84b2f6914c81bb4d722fa421aa50b87/istatymai/TAR.07786E0929A8.md) |
+| 2015-10-28 | 2017-06-30 | Įstatymas Nr. XII-1975 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/6d0a3b56871b71402df8602519ca95af537c0185/istatymai/TAR.07786E0929A8.md) |
