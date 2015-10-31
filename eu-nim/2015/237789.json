@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2015 m. spalio 30 d. įsakymas Nr. A1-614 \"Dėl darbuotojų apsaugos nuo elektromagnetinių laukų keliamos rizikos nuostatų patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-17095",
+  "official_journal_page": null,
+  "official_journal_date": "2015-10-30",
+  "entry_into_force": "2015-10-31",
+  "notification_date": "2016-05-25",
+  "commission_reference": "MNE(2016)53440",
+  "nim_celex": "72013L0035LTU_237789",
+  "nim_id": "237789",
+  "transposes_celex": [
+    "32013L0035"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2956fc2b-ca26-44ae-b110-2b1622ca4ffd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
