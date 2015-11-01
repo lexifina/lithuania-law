@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Radiacinės saugos centro direktoriaus 2015 m. liepos 24 d. įsakymas Nr. V-53 „Dėl Radiacinės saugos centro direktoriaus 2007 m. lapkričio 16 d. įsakymo Nr. 63 „Dėl Darbuotojų apšvitos ir darbo vietų stebėsenų atlikimo taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-11634",
+  "official_journal_page": null,
+  "official_journal_date": "2015-07-27",
+  "entry_into_force": "2015-11-01",
+  "notification_date": "2018-12-10",
+  "commission_reference": "MNE(2018)56527",
+  "nim_celex": "72013L0059LTU_265720",
+  "nim_id": "265720",
+  "transposes_celex": [
+    "32013L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2fd6f94f-0fd6-42c0-af04-2c7e2abe6190",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
