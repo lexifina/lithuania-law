@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 2, 4, 4-1, 6, 7, 8, 15 ir 16 straipsnių pakeitimo įstatymas Nr. XII-1723",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-08223",
+  "official_journal_page": null,
+  "official_journal_date": "2015-05-28",
+  "entry_into_force": "2015-11-01",
+  "notification_date": "2015-06-15",
+  "commission_reference": "MNE(2015)54077",
+  "nim_celex": "71990L0314LTU_227095",
+  "nim_id": "227095",
+  "transposes_celex": [
+    "31990L0314"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cfbc97ff-34a7-42b6-a1f1-26f913252509",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
