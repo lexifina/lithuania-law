@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2015 m. spalio 28 d. įsakymas Nr. 3-446(1.5 E) \"Dėl Lietuvos Respublikos susisiekimo ministro 2003 m. sausio 23 d. įsakymo Nr. 3-37 „Dėl Geležinkelio įmonių (vežėjų) ir geležinkelių infrastruktūros valdytojų saugos sertifikavimo taisyklių patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-17005",
+  "official_journal_page": null,
+  "official_journal_date": "2015-10-28",
+  "entry_into_force": "2015-11-01",
+  "notification_date": "2015-12-01",
+  "commission_reference": "MNE(2015)58098",
+  "nim_celex": "72004L0049LTU_231482",
+  "nim_id": "231482",
+  "transposes_celex": [
+    "32004L0049"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/30199365-858b-4218-bcf8-74624de19336",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
