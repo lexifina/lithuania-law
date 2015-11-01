@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2015 m. rugsėjo 16 d. nutarimas Nr. 976 \"Dėl Lietuvos Respublikos Vyriausybės 2003 m. birželio 17 d. nutarimo Nr. 783 „Dėl Geležinkelio įmonių (vežėjų) licencijavimo taisyklių patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-13931",
+  "official_journal_page": null,
+  "official_journal_date": "2015-09-17",
+  "entry_into_force": "2015-11-01",
+  "notification_date": "2015-10-27",
+  "commission_reference": "MNE(2015)57157",
+  "nim_celex": "72012L0034LTU_230516",
+  "nim_id": "230516",
+  "transposes_celex": [
+    "32012L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f7f0a658-4cee-47b1-931b-245394bf3354",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
