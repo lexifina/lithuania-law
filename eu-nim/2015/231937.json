@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro 2015 m. rugsėjo 25 d. įsakymas Nr. 4-594 „Dėl fasuotų prekių ir matavimo indų techninio reglamento patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-14232",
+  "official_journal_page": null,
+  "official_journal_date": "2015-09-25",
+  "entry_into_force": "2015-11-01",
+  "notification_date": "2015-12-01",
+  "commission_reference": "MNE(2015)58539",
+  "nim_celex": "71975L0107LTU_231937",
+  "nim_id": "231937",
+  "transposes_celex": [
+    "31975L0107"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ba1c1351-00a2-46fa-af59-b247b63a000e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
