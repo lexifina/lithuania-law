@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės augalininkystės tarnybos prie Žemės ūkio ministerijos 2015 m. lapkričio 24 d. įsakymas Nr. A1-729 \"Dėl Valstybinės augalininkystės tarnybos prie Žemės ūkio ministerijos direktoriaus 2010 m. spalio 22 d. įsakymo Nr. A1-113 \"Dėl augalų rūšių veislių tikrinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Administracinės priemonės",
+  "official_journal_reference": "-",
+  "official_journal_page": null,
+  "official_journal_date": "2015-11-24",
+  "entry_into_force": "2015-11-25",
+  "notification_date": "2016-05-31",
+  "commission_reference": "MNE(2016)53692",
+  "nim_celex": "72015L1168LTU_238082",
+  "nim_id": "238082",
+  "transposes_celex": [
+    "32015L1168",
+    "32015L1955"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6a7abfec-5643-460b-b0d3-c475848cf575",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
