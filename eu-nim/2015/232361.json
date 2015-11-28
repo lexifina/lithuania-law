@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2015 m. lapkričio 18 d. nutarimas Nr. 1209 \"Dėl Lietuvos Respublikos Vyriausybės 2014 m. lapkričio 26 d. nutarimo Nr. 1328 \"Dėl Viešųjų pastatų energinio efektyvumo didinimo programos patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-18851",
+  "official_journal_page": null,
+  "official_journal_date": "2015-11-27",
+  "entry_into_force": "2015-11-28",
+  "notification_date": "2015-12-11",
+  "commission_reference": "MNE(2015)58923",
+  "nim_celex": "72012L0027LTU_232361",
+  "nim_id": "232361",
+  "transposes_celex": [
+    "32012L0027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d21c28f2-0f26-41aa-9707-f3dd9142b08e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
