@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro 2015 m. gegužės 29 d. įsakymas Nr. 4-356 „Dėl Valstybinės metrologijos tarnybos prie Lietuvos Respublikos aplinkos ministerijos direktoriaus 2001 m. gruodžio 28 d. įsakymo Nr. 208 „Dėl Europos Sąjungos direktyvų įgyvendinimo“ pripažinimo netekusiu galios“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-08332",
+  "official_journal_page": null,
+  "official_journal_date": "2015-05-29",
+  "entry_into_force": "2015-12-01",
+  "notification_date": "2015-07-02",
+  "commission_reference": "MNE(2015)54804",
+  "nim_celex": "72011L0017LTU_227864",
+  "nim_id": "227864",
+  "transposes_celex": [
+    "32011L0017"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/469691c1-8aa4-41a7-8308-515dd1f6cd3c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
