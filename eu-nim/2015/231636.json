@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2015 m. spalio 12d. d. įsakymas Nr. V-1145 \"Dėl Lietuvos  Respublikos  sveikatos apsaugos  ministro 2005 m. vasario 4 d. įsakymo Nr. V-84  \"Dėl  Kraujo ir kraujo sudėtinių dalių donorų sveikatos  tikrinimo ir donorų kraujo ir kraujo sudėtinių dalių paėmimo tvarkos aprašo patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Administracinės priemonės",
+  "official_journal_reference": "2015-15689",
+  "official_journal_page": null,
+  "official_journal_date": "2015-10-16",
+  "entry_into_force": "2015-12-01",
+  "notification_date": "2015-11-12",
+  "commission_reference": "MNE(2015)58245",
+  "nim_celex": "72014L0110LTU_231636",
+  "nim_id": "231636",
+  "transposes_celex": [
+    "32014L0110"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0be26249-1605-4d45-89ba-fc9e8eb909db",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
