@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo Nr. VIII-1443 7 straipsnio pakeitimo įstatymas Nr. XII-2082",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Administracinės priemonės",
+  "official_journal_reference": "2015-18923",
+  "official_journal_page": null,
+  "official_journal_date": "2015-11-27",
+  "entry_into_force": "2015-12-01",
+  "notification_date": "2015-12-17",
+  "commission_reference": "MNE(2015)59395",
+  "nim_celex": "72013L0032LTU_232853",
+  "nim_id": "232853",
+  "transposes_celex": [
+    "32013L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/929eb25a-f15e-4ca2-9040-6532c47b0be0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
