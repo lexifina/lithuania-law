@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 1 straipsnio ir priedo pakeitimo įstatymas Nr. XII-2062",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-19173",
+  "official_journal_page": null,
+  "official_journal_date": "2015-12-02",
+  "entry_into_force": "2015-12-03",
+  "notification_date": "2018-07-18",
+  "commission_reference": "MNE(2018)53815",
+  "nim_celex": "72017L1132LTU_260916",
+  "nim_id": "260916",
+  "transposes_celex": [
+    "32017L1132"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e1189769-01db-41d0-b8aa-c4f0d87b461e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
