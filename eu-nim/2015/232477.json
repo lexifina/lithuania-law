@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo Nr. IX-975 pakeitimo įstatymas Nr. XII-2054",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-19164",
+  "official_journal_page": null,
+  "official_journal_date": "2015-12-02",
+  "entry_into_force": "2015-12-03",
+  "notification_date": "2015-12-08",
+  "commission_reference": "MNE(2015)59025",
+  "nim_celex": "72014L0059LTU_232477",
+  "nim_id": "232477",
+  "transposes_celex": [
+    "32014L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9bcdf017-da77-4d94-ab24-ae1dde1abf17",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
