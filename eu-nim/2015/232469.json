@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos centrinės kredito unijos įstatymo Nr. VIII-1682 2, 10, 47, 48, 53, 56, 57, 58, 60, 67, 68, 71 straipsnių, priedo pakeitimo ir Įstatymo papildymo 60-1, 60-2 straipsniais įstatymas Nr. XII-2056",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-19167",
+  "official_journal_page": null,
+  "official_journal_date": "2015-12-02",
+  "entry_into_force": "2015-12-03",
+  "notification_date": "2015-12-08",
+  "commission_reference": "MNE(2015)59017",
+  "nim_celex": "72014L0049LTU_232469",
+  "nim_id": "232469",
+  "transposes_celex": [
+    "32014L0049"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/12a07dd2-7244-4a6a-86d5-d33f5363fdab",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
