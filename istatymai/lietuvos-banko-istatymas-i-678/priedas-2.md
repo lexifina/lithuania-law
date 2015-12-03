@@ -4,13 +4,43 @@
 Lietuvos Respublikos
 Lietuvos banko įstatymo
 2 priedas
-ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
-1. 1957 m. kovo 25 d. Europos Bendrijos steigimo sutartis su paskutiniais pakeitimais, padarytais 2007 m. gruodžio 17 d. Lisabonos sutartimi (OL 2007 C 306, p. 1).
-2. 1992 m. vasario 7 d. Europos Bendrijos steigimo sutarties Protokolas Nr. 18 dėl Europos centrinių bankų sistemos ir Europos centrinio banko statuto su paskutiniais pakeitimais, padarytais 2007 m. gruodžio 17 d. Lisabonos sutartimi (OL 2007 C 306, p. 1).
-3. 1993 m. gruodžio 13 d. Tarybos reglamentas (EB) Nr. 3603/93, nustatantis apibrėžimus, susijusius su Sutarties 104 ir 104b (1) straipsniuose numatytų uždraudimų taikymu (OL 2004 m. specialusis leidimas, 10 skyrius, 1 tomas, p. 27).
-4. 1993 m. gruodžio 13 d. Tarybos reglamentas (EB) Nr. 3604/93, nustatantis apibrėžimus, susijusius su Sutarties 104a straipsnyje numatytos privilegijos naudotis finansų įstaigomis uždraudimo taikymu (OL 2004 m. specialusis leidimas, 10 skyrius, 1 tomas, p. 30).
-5. 2001 m. birželio 28 d. Tarybos reglamentas (EB) Nr. 1338/2001, nustatantis priemones, būtinas euro apsaugai nuo padirbinėjimo (OL 2004 m. specialusis leidimas, 19 skyrius, 4 tomas, p. 152), su paskutiniais pakeitimais, padarytais 2008 m. gruodžio 18 d. Tarybos reglamentu (EB) Nr. 44/2009 (OL 2009 L 17, p. 1).
-6. 2001 m. birželio 28 d. Tarybos reglamentas (EB) Nr. 1339/2001, išplečiantis Reglamento (EB) Nr. 1338/2001, nustatančio priemones, būtinas euro apsaugai nuo padirbinėjimo, veikimą toms valstybėms narėms, kurios nėra priėmusios euro kaip savo bendros valiutos (OL 2004 m. specialusis leidimas, 19 skyrius, 4 tomas, p. 157).
-7. 2011 m. gruodžio 22 d. Europos sisteminės rizikos valdybos rekomendacija ESRV/2011/3 dėl nacionalinių institucijų įgaliojimų makrolygio rizikos ribojimo srityje (OL 2012 C 41, p. 1).
-8. 2002 m. birželio 6 d. Europos Parlamento ir Tarybos direktyva 2002/47/EB dėl susitarimų dėl finansinio įkaito (OL 2004 m. specialusis leidimas, 10 skyrius, 3 tomas, p. 89).
-9. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1060/2009 dėl kredito reitingų agentūrų (OL 2009 L 302, p. 1) su paskutiniais pakeitimais, padarytais 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 462/2013 (OL 2013 L 146, p. 1).
+FINANSŲ RINKOS DALYVIAI, MOKANTYS ĮMOKAS FINANSŲ SEKTORIAUS SUBJEKTŲ PERTVARKYMO INSTITUCIJOS IŠLAIDOMS PADENGTI, ĮMOKŲ BAZĖ IR MAKSIMALŪS ĮMOKŲ DYDŽIAI
+Eil. Nr.
+Rinkos dalyviai
+Įmokų bazė
+Maksimalus įmokų dydis
+1.
+Lietuvos Respublikoje licencijuoti bankai, Centrinė kredito unija, kitose negu Europos ekonominės erdvės valstybėse licencijuotų užsienio bankų filialai, įsteigti Lietuvos Respublikoje
+Vidutinis metinis turtas
+0,0043 proc.
+2.
+Europos ekonominės erdvės valstybėse licencijuotų užsienio bankų filialai, įsteigti Lietuvos Respublikoje
+Vidutinis metinis turtas
+0,0014 proc.
+3.
+Lietuvos Respublikoje licencijuotos finansų maklerio įmonės, kurioms taikomas Finansinių priemonių rinkų įstatymo 121 straipsnio 2 dalyje nustatytas reikalavimas
+Metinės pajamos
+0,075 proc.
+4.
+Kitose valstybėse licencijuotų finansų maklerio įmonių filialai, įsteigti Lietuvos Respublikoje
+Metinės pajamos
+0,038 proc.
+5.
+Lietuvos Respublikoje įsteigtos finansų įmonės (išskyrus finansų maklerio įmones), kurios yra šio priedo 1 ir 3 punktuose nurodytų subjektų patronuojamosios įmonės ir kurioms taikoma patronuojančiosios įmonės konsoliduota priežiūra pagal Reglamentą (ES) Nr. 806/2014:
+5.1.
+Elektroninių pinigų įstaigos
+Neapmokėtų elektroninių pinigų metinis vidurkis ir mokėjimo paslaugų metinė apyvarta
+0,0025 proc.
+5.2.
+Mokėjimo įstaigos
+Mokėjimo paslaugų metinė apyvarta
+0,0013 proc.
+5.3.
+Valdymo įmonės, investicinės kintamojo kapitalo bendrovės, uždaro tipo investicinės bendrovės ir šių subjektų filialai, įsteigti Lietuvos Respublikoje
+Valdomas kolektyvinio investavimo subjektų ir papildomo savanoriško pensijų kaupimo fondų turtas
+0,013 proc.
+5.4.
+Finansų patarėjo įmonės
+–
+109 Eur
+5.5.
