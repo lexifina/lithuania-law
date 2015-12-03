@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos finansinio užtikrinimo susitarimų įstatymo Nr. IX-2127 3 straipsnio ir priedo pakeitimo įstatymas Nr. XII-2061",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-19172",
+  "official_journal_page": null,
+  "official_journal_date": "2015-12-02",
+  "entry_into_force": "2015-12-03",
+  "notification_date": "2015-12-08",
+  "commission_reference": "MNE(2015)59028",
+  "nim_celex": "72014L0059LTU_232480",
+  "nim_id": "232480",
+  "transposes_celex": [
+    "32014L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/747f52cc-561f-43ab-81b3-0509e40f9d56",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
