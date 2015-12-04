@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 42 straipsnio pakeitimo įstatymas Nr. XII-2075",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-19283",
+  "official_journal_page": null,
+  "official_journal_date": "2015-12-03",
+  "entry_into_force": "2015-12-04",
+  "notification_date": "2015-12-18",
+  "commission_reference": "MNE(2015)59476",
+  "nim_celex": "72013L0050LTU_232934",
+  "nim_id": "232934",
+  "transposes_celex": [
+    "32013L0050"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/87be2e97-d4db-448d-ae7a-9c9211f30ef0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
