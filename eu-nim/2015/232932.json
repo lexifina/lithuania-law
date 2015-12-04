@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vertybinių popierių įstatymo Nr. X-1023 pakeitimo įstatymas Nr. XII-2074",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-19282",
+  "official_journal_page": null,
+  "official_journal_date": "2015-12-03",
+  "entry_into_force": "2015-12-04",
+  "notification_date": "2015-12-18",
+  "commission_reference": "MNE(2015)59474",
+  "nim_celex": "72013L0050LTU_232932",
+  "nim_id": "232932",
+  "transposes_celex": [
+    "32013L0050"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7babb9d6-bc6f-48b6-8bde-f07f1ba5f5e1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
