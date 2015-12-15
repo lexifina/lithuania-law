@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2015 m. gruodžio 14 d. įsakymas Nr. D1-912 ,,Dėl Požeminio vandens vandenviečių apsaugos zonų nustatymo tvarkos aprašo patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-19741",
+  "official_journal_page": null,
+  "official_journal_date": "2015-12-14",
+  "entry_into_force": "2015-12-15",
+  "notification_date": "2023-06-16",
+  "commission_reference": "MNE(2023)02883",
+  "nim_celex": "72020L2184LTU_202302883",
+  "nim_id": "202302883",
+  "transposes_celex": [
+    "32020L2184"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/665c8a45-13f5-11ee-806b-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
