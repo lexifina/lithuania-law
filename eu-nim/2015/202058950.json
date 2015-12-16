@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos finansų ministro 2015 m. lapkričio 23 d. įsakymas Nr. 1K-344 \"Dėl Audito, apskaitos, turto vertinimo ir nemokumo valdymo tarnybos prie Lietuvos Respublikos finansų ministerijos nuostatų patvirtinimo\" (suvestinė redakcija nuo 2020-10-23)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-19840",
+  "official_journal_page": null,
+  "official_journal_date": "2015-12-15",
+  "entry_into_force": "2015-12-16",
+  "notification_date": "2020-12-21",
+  "commission_reference": "MNE(2020)58950",
+  "nim_celex": "72016L2341LTU_202058950",
+  "nim_id": "202058950",
+  "transposes_celex": [
+    "32016L2341"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7c036694-a976-42e8-99b5-7ddbc01b68ba",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
