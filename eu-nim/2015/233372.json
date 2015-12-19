@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės maisto ir veterinarijos tarnybos direktoriaus įsakymas „Dėl Pranešimų apie gyvūnų užkrečiamąsias ligas teikimo Europos Komisijai tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-19950",
+  "official_journal_page": null,
+  "official_journal_date": "2015-12-18",
+  "entry_into_force": "2015-12-19",
+  "notification_date": "2016-01-15",
+  "commission_reference": "MNE(2016)50048",
+  "nim_celex": "71982L0894LTU_233372",
+  "nim_id": "233372",
+  "transposes_celex": [
+    "31982L0894"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e13d03a5-b354-4834-800c-2ae2b847201d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
