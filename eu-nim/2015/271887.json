@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos generalinio prokuroro, Lietuvos Respublikos vidaus reikalų ministro ir Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2015 m. gruodžio 17 d. įsakymas Nr. I-327/1V-1015/A1-758 “Dėl Prekybos žmonėmis aukų nustatymo, ikiteisminio tyrimo ir tarpinstitucinio bendradarbiavimo rekomendacijų patvirtinimo”",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-20631",
+  "official_journal_page": null,
+  "official_journal_date": "2015-12-28",
+  "entry_into_force": "2015-12-29",
+  "notification_date": "2019-04-24",
+  "commission_reference": "MNE(2019)52297",
+  "nim_celex": "72011L0036LTU_271887",
+  "nim_id": "271887",
+  "transposes_celex": [
+    "32011L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2252e404-e62a-45d5-91d6-580700a0419b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
