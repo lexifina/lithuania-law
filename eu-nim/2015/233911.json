@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro ir Lietuvos Respublikos aplinkos ministro 2015 m. gruodžio 23 d. įsakymas Nr. 1-309/D1-962 „Dėl Lietuvos Respublikos energetikos ministro ir Lietuvos Respublikos aplinkos ministro 2011 m. sausio 24 d. įsakymo Nr. 1-10/D1-61 „Dėl Inžinerinės infrastruktūros vystymo (elektros, dujų ir naftos tiekimo tinklų) planų rengimo taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-20867",
+  "official_journal_page": null,
+  "official_journal_date": "2015-12-29",
+  "entry_into_force": "2015-12-30",
+  "notification_date": "2016-01-20",
+  "commission_reference": "MNE(2016)50564",
+  "nim_celex": "72014L0061LTU_233911",
+  "nim_id": "233911",
+  "transposes_celex": [
+    "32014L0061"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/71db529c-df19-456e-ba6c-b5ff4d935122",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
