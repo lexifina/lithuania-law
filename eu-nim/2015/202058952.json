@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2015 m. spalio 29 d. nutarimas Nr. 03-158 „Dėl Draudimo ir (ar) perdraudimo techninių atidėjinių apskaičiavimo metodikos patvirtinimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-17140",
+  "official_journal_page": null,
+  "official_journal_date": "2015-10-29",
+  "entry_into_force": "2015-12-31",
+  "notification_date": "2020-12-21",
+  "commission_reference": "MNE(2020)58952",
+  "nim_celex": "72016L2341LTU_202058952",
+  "nim_id": "202058952",
+  "transposes_celex": [
+    "32016L2341"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bc777acb-600c-4e32-9cb9-b0168639fba0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
