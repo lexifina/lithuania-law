@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2015 m. gruodžio 23 d. nutarimas Nr. 1371 „Dėl Lietuvos Respublikos Vyriausybės 2002 m. gruodžio 5 d. nutarimo Nr. 1901 „Dėl Naftos produktų ir naftos valstybės atsargų sudarymo reglamentavimo, tvarkymo, kaupimo, naudojimo ir priežiūros taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-21081",
+  "official_journal_page": null,
+  "official_journal_date": "2015-12-30",
+  "entry_into_force": "2015-12-31",
+  "notification_date": "2016-01-14",
+  "commission_reference": "MNE(2016)50276",
+  "nim_celex": "72009L0119LTU_233601",
+  "nim_id": "233601",
+  "transposes_celex": [
+    "32009L0119"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/52a30750-0bde-462b-9192-12c9aec20247",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
