@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2015 m. gruodžio 29 d. nutarimas Nr. 03-212 „Dėl Kriterijų, į kuriuos Lietuvos bankas atsižvelgia vertindamas sėkmingo įstaigos ar finansinės grupės pertvarkymo galimybę, aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-20927",
+  "official_journal_page": null,
+  "official_journal_date": "2015-12-30",
+  "entry_into_force": "2015-12-31",
+  "notification_date": "2016-01-08",
+  "commission_reference": "MNE(2015)59827",
+  "nim_celex": "72014L0059LTU_233296",
+  "nim_id": "233296",
+  "transposes_celex": [
+    "32014L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6e253440-afc4-4f0d-ab8e-1c893a9b2f22",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
