@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo Nr. VIII-840 pakeitimo įstatymas Nr. XII-1919",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-11182",
+  "official_journal_page": null,
+  "official_journal_date": "2015-07-08",
+  "entry_into_force": "2015-12-31",
+  "notification_date": "2021-06-10",
+  "commission_reference": "MNE(2021)03892",
+  "nim_celex": "72004L0038LTU_202103892",
+  "nim_id": "202103892",
+  "transposes_celex": [
+    "32004L0038"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/30a3cc5c-ca99-11eb-84ce-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
