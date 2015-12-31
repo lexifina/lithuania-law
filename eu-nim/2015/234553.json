@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos civilinių pirotechnikos priemonių apyvartos kontrolės įstatymo Nr. IX-931 pakeitimo įstatymas Nr. XII-2006",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-18574",
+  "official_journal_page": null,
+  "official_journal_date": "2015-11-23",
+  "entry_into_force": "2015-12-31",
+  "notification_date": "2016-02-25",
+  "commission_reference": "MNE(2016)51173",
+  "nim_celex": "72013L0029LTU_234553",
+  "nim_id": "234553",
+  "transposes_celex": [
+    "32013L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d2e47d5b-600f-46bf-88bc-c5b7b6618e6c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
