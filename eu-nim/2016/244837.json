@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 2, 5, 10, 11, 12, 40 straipsnių, šeštojo skirsnio ir Įstatymo priedo pakeitimo įstatymas Nr. XII-2083",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-19362",
+  "official_journal_page": null,
+  "official_journal_date": "2015-12-07",
+  "entry_into_force": "2016-01-01",
+  "notification_date": "2017-01-31",
+  "commission_reference": "MNE(2017)50777",
+  "nim_celex": "72014L0036LTU_244837",
+  "nim_id": "244837",
+  "transposes_celex": [
+    "32014L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/77e89c01-e94f-4b83-ab5c-10150a45f425",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
