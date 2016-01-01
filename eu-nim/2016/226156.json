@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2015 m. balandžio 23 d. nutarimas Nr. 03-70 'Dėl Gyvybės draudimo įmonių vykdomos profesinių pensijų kaupimo veiklos mokumo kapitalo reikalavimo skaičiavimo nuostatų patvirtinimo'",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-06417",
+  "official_journal_page": null,
+  "official_journal_date": "2015-04-27",
+  "entry_into_force": "2016-01-01",
+  "notification_date": "2015-05-08",
+  "commission_reference": "MNE(2015)53158",
+  "nim_celex": "72009L0138LTU_226156",
+  "nim_id": "226156",
+  "transposes_celex": [
+    "32009L0138",
+    "32014L0051"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/572380d2-f9cd-4f9c-a446-25dd9afe1793",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
