@@ -13,3 +13,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2015-03-01 | 2015-04-27 | Aktas Nr. XII-1396 / Teisės aktų registras (Seimo kanceliarija) | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22XvckdaiyYr%22) |
 | 2015-09-01 | 2015-11-30 | Aktas Nr. XII-1894 / Teisės aktų registras (Seimo kanceliarija) | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22OQijlKEaeT%22) |
 | 2015-12-01 | 2015-12-31 | Aktas Nr. XII-2080 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22fqYecScGuf%22) |
+| 2016-01-01 | 2016-09-19 | Aktas Nr. XII-2080 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22lcikgdyiNN%22) |
