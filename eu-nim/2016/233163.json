@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2015 m. gruodžio 18 d. įsakymas Nr. 3D-938 \"Dėl žemės ūkio ministro 2000 m. birželio 30 d. įsakymo Nr. 215 \"Dėl Privalomųjų rinkai tiekiamų sėklinių bulvių reikalavimų aprašo patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-20236",
+  "official_journal_page": null,
+  "official_journal_date": "2015-12-23",
+  "entry_into_force": "2016-01-01",
+  "notification_date": "2015-12-28",
+  "commission_reference": "MNE(2015)59698",
+  "nim_celex": "72013L0063LTU_233163",
+  "nim_id": "233163",
+  "transposes_celex": [
+    "32013L0063"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bd6c31da-f3ee-404a-9cd7-f53e135df460",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
