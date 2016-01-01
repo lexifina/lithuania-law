@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2015 m. gruodžio 23 d. nutarimas Nr. 1426 „Dėl Lietuvos Respublikos Vyriausybės 2003 m. birželio 12 d. nutarimo Nr. 756 „Dėl Kelionių organizatoriaus prievolių įvykdymo užtikrinimo tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-21208",
+  "official_journal_page": null,
+  "official_journal_date": "2015-12-31",
+  "entry_into_force": "2016-01-01",
+  "notification_date": "2016-02-24",
+  "commission_reference": "MNE(2016)50037",
+  "nim_celex": "71990L0314LTU_233361",
+  "nim_id": "233361",
+  "transposes_celex": [
+    "31990L0314"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/dd0bef59-10f6-42dd-a4d6-086e7845b91d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
