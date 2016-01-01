@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Audito ir apskaitos tarnybos direktoriaus 2015 m. gegužės 28 d. įsakymas Nr. VAS-31 „Dėl viešosios įstaigos Lietuvos Respublikos apskaitos instituto standartų tarybos 2003 m. gruodžio 18 d. nutarimo Nr. 1 „Dėl verslo apskaitos standartų patvirtinimo“ 13 punkto pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-08349",
+  "official_journal_page": null,
+  "official_journal_date": "2015-05-29",
+  "entry_into_force": "2016-01-01",
+  "notification_date": "2015-08-06",
+  "commission_reference": "MNE(2015)55720",
+  "nim_celex": "72013L0034LTU_228900",
+  "nim_id": "228900",
+  "transposes_celex": [
+    "32013L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6186b154-fe27-4527-9b13-25437c43565c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
