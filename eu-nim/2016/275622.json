@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 10, 12, 19 ir 21 straipsnių pakeitimo įstatymas Nr. XII-1866",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-10766",
+  "official_journal_page": null,
+  "official_journal_date": "2015-07-03",
+  "entry_into_force": "2016-01-01",
+  "notification_date": "2019-07-30",
+  "commission_reference": "MNE(2019)54513",
+  "nim_celex": "72001L0095LTU_275622",
+  "nim_id": "275622",
+  "transposes_celex": [
+    "32001L0095"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fcc21353-b502-11e9-9d01-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
