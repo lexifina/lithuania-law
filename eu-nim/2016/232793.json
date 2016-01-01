@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2015 m. gruodžio 4 d. įsakymas Nr. D1-892  „Dėl Lietuvos Respublikos aplinkos ministro 2004 m. gruodžio 30 d. įsakymo Nr. D1-708 „Dėl statybos techninio reglamento STR 1.05.06:2010 „Statinio projektavimas“ patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-19583",
+  "official_journal_page": null,
+  "official_journal_date": "2015-12-10",
+  "entry_into_force": "2016-01-01",
+  "notification_date": "2015-12-16",
+  "commission_reference": "MNE(2015)59338",
+  "nim_celex": "72014L0061LTU_232793",
+  "nim_id": "232793",
+  "transposes_celex": [
+    "32014L0061"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ec2d59ad-2794-4aa3-abf2-0048172b7993",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
