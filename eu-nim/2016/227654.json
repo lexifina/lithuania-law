@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2015 m. birželio 18 d. įsakymas Nr. 3-257(1.5 E) \"Dėl Lietuvos Respublikos susisiekimo ministro 2010 m. kovo 16 d. įsakymo Nr. 3-163 „Dėl Traukinio mašinistų profesinio mokymo programų reikalavimų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-09725",
+  "official_journal_page": null,
+  "official_journal_date": "2015-06-18",
+  "entry_into_force": "2016-01-01",
+  "notification_date": "2015-07-13",
+  "commission_reference": "MNE(2015)54613",
+  "nim_celex": "72014L0082LTU_227654",
+  "nim_id": "227654",
+  "transposes_celex": [
+    "32014L0082"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1680ce7f-2b61-460a-86a2-d5dfdc07c547",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
