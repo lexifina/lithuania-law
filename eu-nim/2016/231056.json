@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2015 m. balandžio 23 d. nutarimas Nr. 03-64 „Dėl Draudimo ar perdraudimo įmonės Lietuvos bankui teikiamos ir viešai atskleidžiamos informacijos nuostatų patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-06410",
+  "official_journal_page": null,
+  "official_journal_date": "2015-04-27",
+  "entry_into_force": "2016-01-01",
+  "notification_date": "2015-10-27",
+  "commission_reference": "MNE(2015)57678",
+  "nim_celex": "72014L0051LTU_231056",
+  "nim_id": "231056",
+  "transposes_celex": [
+    "32014L0051"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c493a47e-356c-44e3-938a-99edd5765547",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
