@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2008-01-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22TAIS_331937%22) |
+| 2016-01-01 | 2016-09-30 | Įstatymas Nr. X-1821 / Įstatymas Nr. XI-842 / Įstatymas Nr. XI-1343 / Įstatymas Nr. XII-637 / Įstatymas Nr. XII-2217 / Teisės aktų registras (Seimo kanceliarija) | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22DpDIPtCPnc%22) |
