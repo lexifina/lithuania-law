@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Audito ir apskaitos tarnybos direktoriaus 2015 m. gegužės 28 d. įsakymas Nr. VAS-26 „Dėl Audito ir apskaitos tarnybos direktoriaus 2010 m. gegužės 13 d. įsakymo Nr. VAS-12 „Dėl 1-ojo verslo apskaitos standarto „Finansinė atskaitomybė“ tvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-08345",
+  "official_journal_page": null,
+  "official_journal_date": "2015-05-29",
+  "entry_into_force": "2016-01-01",
+  "notification_date": "2015-08-05",
+  "commission_reference": "MNE(2015)55723",
+  "nim_celex": "72013L0034LTU_228903",
+  "nim_id": "228903",
+  "transposes_celex": [
+    "32013L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c1e1a613-ae99-4efa-afbe-2d7dac4236f0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
