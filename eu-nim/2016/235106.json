@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos saugios laivybos įstatymo Nr. VIII-1897 2, 3, 48 ir 49 straipsnių pakeitimo įstatymas Nr. XII-2072",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-19359",
+  "official_journal_page": null,
+  "official_journal_date": "2015-12-07",
+  "entry_into_force": "2016-01-01",
+  "notification_date": "2016-02-29",
+  "commission_reference": "MNE(2016)51542",
+  "nim_celex": "72009L0018LTU_235106",
+  "nim_id": "235106",
+  "transposes_celex": [
+    "32009L0018"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a50809a8-4f69-4ea3-8211-44541ce0d813",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
