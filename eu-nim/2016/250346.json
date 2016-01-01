@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo Nr. VIII-371 pakeitimo įstatymas Nr. XII-2180",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-20871",
+  "official_journal_page": null,
+  "official_journal_date": "2015-12-29",
+  "entry_into_force": "2016-01-01",
+  "notification_date": "2017-08-28",
+  "commission_reference": "MNE(2017)54736",
+  "nim_celex": "72014L0087LTU_250346",
+  "nim_id": "250346",
+  "transposes_celex": [
+    "32014L0087"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c3a046e2-c4bb-4e73-a415-310a68705f45",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
