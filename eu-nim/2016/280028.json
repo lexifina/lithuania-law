@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro 2015 m. gruodžio 30 d. įsakymas Nr. 4-848 „Dėl į elektros kainas įtraukiamų išlaidų, susijusių su Europos Sąjungos šiltnamio efektą sukeliančiomis dujomis, kompensavimo pramonės sektoriams ir pošakiams 2014-2020 m. laikotarpiu tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-21159",
+  "official_journal_page": null,
+  "official_journal_date": "2015-12-31",
+  "entry_into_force": "2016-01-01",
+  "notification_date": "2020-01-13",
+  "commission_reference": "MNE(2020)50234",
+  "nim_celex": "72018L0410LTU_280028",
+  "nim_id": "280028",
+  "transposes_celex": [
+    "32018L0410"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8f73ecf1-391f-11ea-ba6e-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
