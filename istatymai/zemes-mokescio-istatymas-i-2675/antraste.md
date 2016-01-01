@@ -1,4 +1,2 @@
-žemės mokesčio
-Į S T A T Y M A S
 I SKYRIUS
 BENDROSIOS NUOSTATOS
