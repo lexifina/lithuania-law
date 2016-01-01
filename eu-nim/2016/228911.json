@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Audito ir apskaitos tarnybos direktoriaus 2015 m. birželio 16 d. įsakymas Nr. VAS-39 „Dėl 10-ojo verslo apskaitos standarto „Pajamos“ tvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-09647",
+  "official_journal_page": null,
+  "official_journal_date": "2015-06-16",
+  "entry_into_force": "2016-01-01",
+  "notification_date": "2015-08-05",
+  "commission_reference": "MNE(2015)55731",
+  "nim_celex": "72013L0034LTU_228911",
+  "nim_id": "228911",
+  "transposes_celex": [
+    "32013L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/52aebcb1-0cf8-47fb-b384-a7d6befb1b7c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
