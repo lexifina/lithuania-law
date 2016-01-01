@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro ir Lietuvos Respublikos aplinkos ministro 2015 m. spalio 30 d. įsakymas Nr. 4-701/D1-793 „Dėl Lietuvos Respublikos ūkio ministro ir Lietuvos Respublikos aplinkos ministro 2012 m. rugpjūčio 7 d. įsakymo Nr. 4-804/D1-647 „Dėl Lietuvos Respublikos vidaus rinkai tiekiamų pakuočių atitikties Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatyme nustatytiems reikalavimams“ pakeitimo”",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-17385",
+  "official_journal_page": null,
+  "official_journal_date": "2015-11-02",
+  "entry_into_force": "2016-01-01",
+  "notification_date": "2015-12-01",
+  "commission_reference": "MNE(2015)58104",
+  "nim_celex": "71994L0062LTU_231489",
+  "nim_id": "231489",
+  "transposes_celex": [
+    "31994L0062"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c8b4f222-da21-4e48-9a1f-cacb92a930f4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
