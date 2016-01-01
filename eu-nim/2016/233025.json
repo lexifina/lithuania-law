@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo Nr. IX-1905 36 straipsnio pakeitimo įstatymas Nr. XII-2071",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Administracinės priemonės",
+  "official_journal_reference": "2015-19358",
+  "official_journal_page": null,
+  "official_journal_date": "2015-12-07",
+  "entry_into_force": "2016-01-01",
+  "notification_date": "2015-12-22",
+  "commission_reference": "MNE(2015)59566",
+  "nim_celex": "72004L0049LTU_233025",
+  "nim_id": "233025",
+  "transposes_celex": [
+    "32004L0049"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2af1601b-d2d1-4100-990e-f07ae0671535",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
