@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2015 m. gruodžio 7 d. nutarimas Nr. 1292 \"Dėl Lietuvos Respublikos Vyriausybės 2003 m. lapkričio 12 d. nutarimo Nr. 1407 „Dėl Juridinių asmenų registro įsteigimo ir Juridinių asmenų registro nuostatų patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-19870",
+  "official_journal_page": null,
+  "official_journal_date": "2015-12-17",
+  "entry_into_force": "2016-01-01",
+  "notification_date": "2018-02-09",
+  "commission_reference": "MNE(2017)53946",
+  "nim_celex": "71989L0666LTU_249250",
+  "nim_id": "249250",
+  "transposes_celex": [
+    "31989L0666"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/dc9d67cd-90de-4b5d-b335-74cc9a046991",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
