@@ -1,5 +1,6 @@
 # Statybinis gruntas
-0,19
+m3
+0,26
 Lietuvos Respublikos
 mokesčio už valstybinius
 gamtos išteklius įstatymo
