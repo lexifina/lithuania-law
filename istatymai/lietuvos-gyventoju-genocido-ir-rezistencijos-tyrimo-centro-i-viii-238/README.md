@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 1997-06-27 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/add0cd5bf40ef2c434205cfe255e27ef28e7f8a9/istatymai/TAR.28635AB7F3EB.md) |
+| 2016-01-01 | 2018-04-27 | Įstatymas Nr. XI-189 / Įstatymas Nr. XII-1485 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/74e4a4000f2de71fc57a1db0ea90fdaa34cbc738/istatymai/TAR.28635AB7F3EB.md) |
