@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2015 m. gruodžio 15 d. nutarimas Nr. 03-184 „Dėl Draudimo ir perdraudimo įmonių grupių priežiūros nuostatų patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-19864",
+  "official_journal_page": null,
+  "official_journal_date": "2015-12-16",
+  "entry_into_force": "2016-01-01",
+  "notification_date": "2016-03-07",
+  "commission_reference": "MNE(2016)50403",
+  "nim_celex": "72011L0089LTU_233748",
+  "nim_id": "233748",
+  "transposes_celex": [
+    "32011L0089"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/da74b783-76d6-4b69-af6d-84a9a7d3a536",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
