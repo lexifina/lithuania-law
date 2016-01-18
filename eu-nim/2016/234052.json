@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 60 straipsnio pakeitimo įstatymas Nr. XII-2234",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Administracinės priemonės",
+  "official_journal_reference": "2016-00047",
+  "official_journal_page": null,
+  "official_journal_date": "2016-01-04",
+  "entry_into_force": "2016-01-18",
+  "notification_date": "2016-01-26",
+  "commission_reference": "MNE(2016)50689",
+  "nim_celex": "72013L0055LTU_234052",
+  "nim_id": "234052",
+  "transposes_celex": [
+    "32013L0055"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/385d4e1a-4968-4092-b9ac-70f8e9ae42d0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
