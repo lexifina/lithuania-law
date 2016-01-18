@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo Nr. X-1478 pakeitimo įstatymas Nr. XII-2233",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-00361",
+  "official_journal_page": null,
+  "official_journal_date": "2016-01-06",
+  "entry_into_force": "2016-01-18",
+  "notification_date": "2017-03-24",
+  "commission_reference": "MNE(2017)51790",
+  "nim_celex": "72014L0066LTU_246360",
+  "nim_id": "246360",
+  "transposes_celex": [
+    "32014L0066"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/537a0869-389d-44ec-9505-465ebf6e594d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
