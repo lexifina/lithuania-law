@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos kriminalinės policijos biuro viršininko 2016 m. sausio 19 d. įsakymas Nr. 38-V-22 \"Dėl Lietuvos kriminalinės policijos biuro padalinių nuostatų ir struktūros schemų patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "-",
+  "official_journal_page": null,
+  "official_journal_date": null,
+  "entry_into_force": "2016-01-19",
+  "notification_date": "2017-01-18",
+  "commission_reference": "MNE(2017)50418",
+  "nim_celex": "72014L0042LTU_244374",
+  "nim_id": "244374",
+  "transposes_celex": [
+    "32014L0042"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d5ea54c1-5bcd-40cd-9349-682c8f61a1da",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
