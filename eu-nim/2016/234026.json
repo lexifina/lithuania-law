@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos teisingumo ministro 2016 m. sausio 20 d. įsakymas Nr. 1R-23 \"Dėl Vartojimo ginčų neteisminio sprendimo subjektų ir institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, keitimosi informacija ir bendradarbiavimo tvarkos aprašo patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-01262",
+  "official_journal_page": null,
+  "official_journal_date": "2016-01-21",
+  "entry_into_force": "2016-01-21",
+  "notification_date": "2016-02-08",
+  "commission_reference": "MNE(2016)50664",
+  "nim_celex": "72013L0011LTU_234026",
+  "nim_id": "234026",
+  "transposes_celex": [
+    "32013L0011"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/671ba1e5-8a96-4444-b690-098232b58161",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
