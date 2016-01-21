@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos teisingumo ministro 2016 m. sausio 20 d. įsakymas Nr. 1R-24 \"Dėl teisingumo ministro 2007 m. kovo 1 d. įsakymo Nr. 1R-91 „Dėl Europos Sąjungos teisės aktų ir juos įgyvendinančių Lietuvos Respublikos teisės aktų, kuriuos pažeidus Lietuvoje veikiančių prekių ar paslaugų pardavėjų (tiekėjų) veiksmais, Europos Sąjungos valstybių narių institucijos ar organizacijos turi teisę Lietuvos Respublikos teismuose pareikšti ieškinius, sąrašo patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-01263",
+  "official_journal_page": null,
+  "official_journal_date": "2016-01-20",
+  "entry_into_force": "2016-01-21",
+  "notification_date": "2016-02-08",
+  "commission_reference": "MNE(2016)50663",
+  "nim_celex": "72013L0011LTU_234025",
+  "nim_id": "234025",
+  "transposes_celex": [
+    "32013L0011"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/082771bb-9768-4b48-af85-c8ed26cf604c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
