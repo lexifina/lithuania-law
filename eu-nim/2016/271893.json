@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2016 m. sausio 22 d. įsakymas Nr. A1-38 \"Dėl Projektų, skirtų socialinei pagalbai asmenims, nukentėjusiems ir galėjusiems nukentėti nuo prekybos žmonėmis, teikti, atrankos konkurso organizavimo 2016–2018 metais nuostatų patvirtinimo ir Projektų, skirtų socialinei pagalbai asmenims, nukentėjusiems ir galėjusiems nukentėti nuo prekybos žmonėmis, teikti, vertinimo komisijos sudarymo\" (Suvestinė redakcija nuo 2018-08-03)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-01442",
+  "official_journal_page": null,
+  "official_journal_date": "2016-01-22",
+  "entry_into_force": "2016-01-23",
+  "notification_date": "2019-04-24",
+  "commission_reference": "MNE(2019)52303",
+  "nim_celex": "72011L0036LTU_271893",
+  "nim_id": "271893",
+  "transposes_celex": [
+    "32011L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3582bc7b-3571-4fe4-8dad-3223047c74d4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
