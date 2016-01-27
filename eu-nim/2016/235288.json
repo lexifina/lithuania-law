@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos direktoriaus 2016 m. sausio 26 d. įsakymas Nr. 1-23 „Dėl Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos direktoriaus 2010 m. birželio 28 d. įsakymo Nr. 1-188 \"Dėl Civilinių pirotechnikos priemonių atitikties esminiams saugos reikalavimams įvertinimo tvarkos aprašo patvirtinimo\" pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-01597",
+  "official_journal_page": null,
+  "official_journal_date": "2016-01-26",
+  "entry_into_force": "2016-01-27",
+  "notification_date": "2016-03-22",
+  "commission_reference": "MNE(2016)51577",
+  "nim_celex": "72013L0029LTU_235288",
+  "nim_id": "235288",
+  "transposes_celex": [
+    "32013L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a39f7c0d-8a4d-443f-b3cb-660e0eed6219",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
