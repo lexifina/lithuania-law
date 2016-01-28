@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2016 m. sausio 26 d. nutarimas Nr. 82 „Dėl Lietuvos Respublikos Vyriausybės 2010 m. gegužės 26 d. nutarimo Nr. 636 „Dėl Lietuvos Respublikos civilinių pirotechnikos priemonių apyvartos kontrolės įstatymo įgyvendinimo ir įgaliojimų suteikimo“ pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-01645",
+  "official_journal_page": null,
+  "official_journal_date": "2016-01-27",
+  "entry_into_force": "2016-01-28",
+  "notification_date": "2016-02-25",
+  "commission_reference": "MNE(2016)50976",
+  "nim_celex": "72013L0029LTU_234342",
+  "nim_id": "234342",
+  "transposes_celex": [
+    "32013L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/314ed1a0-25e7-482e-8d19-e9c98b1e505d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
