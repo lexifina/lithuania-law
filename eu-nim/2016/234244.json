@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2016 m. sausio 29 d. įsakymas Nr. 3-28(1.5 E) \"Dėl Lietuvos Respublikos susisiekimo ministro 2011 m. liepos 29 d. įsakymo Nr. 3-461 „Dėl Jūrų laivų avarijų ir incidentų saugumo tyrimų nuostatų patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-01789",
+  "official_journal_page": null,
+  "official_journal_date": "2016-01-29",
+  "entry_into_force": "2016-01-30",
+  "notification_date": "2016-02-15",
+  "commission_reference": "MNE(2016)50878",
+  "nim_celex": "72009L0018LTU_234244",
+  "nim_id": "234244",
+  "transposes_celex": [
+    "32009L0018"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c5c65497-c974-48d9-992e-f0569c7a9e35",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
