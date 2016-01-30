@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2016 m. sausio 28 d. nutarimas Nr. 03-11 „Dėl Lietuvos banko valdybos 2012 m. sausio 26 d. nutarimo Nr. 03-23 „Dėl Vartotojų ir finansų rinkos dalyvių ginčų nagrinėjimo tvarkos aprašo patvirtinimo“ pakeitimo",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-01773",
+  "official_journal_page": null,
+  "official_journal_date": "2016-01-29",
+  "entry_into_force": "2016-01-30",
+  "notification_date": "2018-07-10",
+  "commission_reference": "MNE(2018)52967",
+  "nim_celex": "72015L2366LTU_259473",
+  "nim_id": "259473",
+  "transposes_celex": [
+    "32015L2366"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3f68691b-6615-4f95-b811-914aaa583e8e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
