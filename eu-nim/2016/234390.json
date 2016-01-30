@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos generalinio prokuroro 2016 m. sausio 29 d. įsakymas Nr. I-29 \"Dėl Lietuvos Respublikos generalinio prokuroro 2012 m. lapkričio 30 d. įsakymo Nr. I-339 ,,Dėl prokurorų ir prokuratūros personalo mokymo ir kvalifikacijos kėlimo tvarkos aprašo patvirtinimo\" pakeitimo",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Administracinės priemonės",
+  "official_journal_reference": "-",
+  "official_journal_page": null,
+  "official_journal_date": "2016-01-29",
+  "entry_into_force": "2016-01-30",
+  "notification_date": "2016-02-05",
+  "commission_reference": "MNE(2016)51024",
+  "nim_celex": "72012L0029LTU_234390",
+  "nim_id": "234390",
+  "transposes_celex": [
+    "32012L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f101567c-f125-439c-b2cc-65b27289ac6e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
