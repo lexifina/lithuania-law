@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX-517 2, 4(1), 5, 7, 8, 10, 11, 12, 13 straipsnių pakeitimo ir Įstatymo papildymo 11(1), 11(2), 12(1), 12(2), 12(3) straipsniais įstatymas Nr. XII-864",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2014-05579",
+  "official_journal_page": null,
+  "official_journal_date": "2014-05-21",
+  "entry_into_force": "2016-02-01",
+  "notification_date": "2014-08-28",
+  "commission_reference": "MNE(2014)53181",
+  "nim_celex": "71994L0062LTU_216801",
+  "nim_id": "216801",
+  "transposes_celex": [
+    "31994L0062"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9186a4ac-a0cd-45cf-a2d4-624f6163dc4a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
