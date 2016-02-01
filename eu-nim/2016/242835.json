@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 7, 42 ir 52 straipsnių pakeitimo įstatymas Nr. XII-2198",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-20896",
+  "official_journal_page": null,
+  "official_journal_date": "2015-12-29",
+  "entry_into_force": "2016-02-01",
+  "notification_date": "2016-11-29",
+  "commission_reference": "MNE(2016)57152",
+  "nim_celex": "72013L0037LTU_242835",
+  "nim_id": "242835",
+  "transposes_celex": [
+    "32013L0037"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/33158cc3-3a8e-4ce9-aa3a-0f4cacfc8933",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
