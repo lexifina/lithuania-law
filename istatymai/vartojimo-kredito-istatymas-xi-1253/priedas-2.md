@@ -21,25 +21,22 @@ Jei taikoma Bet kuriuo metu Jūsų gali būti paprašyta grąžinti visą vartoj
 Vartojimo kredito palūkanų norma arba, jei taikoma, skirtingos vartojimo kredito palūkanų normos
 [Procentais: – fiksuotoji ar – kintamoji (kartu nurodomas pradinei vartojimo kredito palūkanų normai taikomas indeksas ar orientacinė palūkanų norma)]
 Bendros vartojimo kredito kainos metinė norma (MN) Bendra vartojimo kredito kaina, išreikšta metiniu procentų dydžiu. MN nurodoma siekiant padėti Jums palyginti skirtingus pasiūlymus.
-[Procentais, standartinis pavyzdys, kuriame nurodomos visos čia nustatytos normos apskaičiavimo prielaidos]
-Jei taikoma
-Mokesčiai Jei taikoma Mokesčių keitimo sąlygos
+[Procentais, tipinis pavyzdys, kuriame nurodomos visos čia nustatytos normos apskaičiavimo prielaidos]
+Jei taikoma Mokesčiai Jei taikoma Mokesčių keitimo sąlygos
 [Nuo vartojimo kredito sutarties sudarymo dienos mokamos išlaidos ar taikomi mokesčiai]
 Išlaidos pavėluoto įmokų mokėjimo atvejais
 Dėl įmokų nemokėjimo Jūs turėsite sumokėti [taikoma palūkanų norma ir jos tikslinimo tvarka, kai taikoma, netesybos už įsipareigojimų nevykdymą].
 2.4. kiti svarbūs aspektai:
 Vartojimo kredito sutarties nutraukimas
 [Vartojimo kredito sutarties nutraukimo sąlygos ir tvarka]
-Vartojimo kredito davėjas privalo nedelsdamas nemokamai pranešti Jums apie mokumo patikrinimo duomenų bazėje rezultatus, jeigu Jūsų prašymas gauti vartojimo kreditą buvo atmestas remiantis tokiu patikrinimu. Tai netaikoma, kai suteikti informaciją draudžiama pagal kitus teisės aktus arba tai prieštarauja viešosios tvarkos ar visuomenės saugumo tikslams.
-Jei taikoma
-Laikotarpis, kuriuo vartojimo kredito davėjas įsipareigoja pagal ikisutartinę informaciją.
-Ši informacija galioja nuo ... iki ...
+Vartojimo kredito davėjas privalo nedelsdamas nemokamai pranešti Jums apie kreditingumo patikrinimo registruose ir informacinėse sistemose rezultatus, jeigu Jūsų prašymas gauti vartojimo kreditą buvo atmestas remiantis tokiu patikrinimu. Tai netaikoma, kai suteikti informaciją draudžiama pagal kitus teisės aktus arba tai prieštarauja viešosios tvarkos ar visuomenės saugumo tikslams.
+Jei taikoma Laikotarpis, kuriuo vartojimo kredito davėjas įsipareigoja pagal ikisutartinę informaciją.
+Ši informacija galioja nuo … iki … .
 2.5. jei taikoma, papildoma informacija, kurią prieš vartojimo kredito sutarties sudarymą pateikia asmuo, nurodytas Lietuvos Respublikos vartojimo kredito įstatymo 3 straipsnio 5 dalyje, arba papildoma informacija, pateikiama skolos perskaičiavimui skirto vartojimo kredito atvejais:
 Dalinių įmokų mokėjimas ir (tam tikrais atvejais) paskirstymo tvarka
-Jūs turėsite sumokėti: [Dalinių įmokų mokėjimo grafiko, kuriame nurodoma vartojimo kredito gavėjui privalomų įmokų dydis, jų skaičius ir periodiškumas, standartinis pavyzdys]
+Jūs turėsite sumokėti: [Dalinių įmokų mokėjimo grafiko, kuriame nurodoma vartojimo kredito gavėjui privalomų įmokų dydis, jų skaičius ir periodiškumas, tipinis pavyzdys]
 Bendra suma, kurią Jūs turėsite sumokėti
-Išankstinis grąžinimas Jūs turite teisę bet kuriuo metu anksčiau termino grąžinti visą vartojimo kreditą arba jo dalį. Jei taikoma
-Vartojimo kredito davėjas turi teisę gauti kompensaciją vartojimo kredito išankstinio grąžinimo atveju.
+Išankstinis grąžinimas Jūs turite teisę bet kuriuo metu anksčiau termino grąžinti visą vartojimo kreditą arba jo dalį. Jei taikoma Vartojimo kredito davėjas turi teisę gauti kompensaciją vartojimo kredito išankstinio grąžinimo atveju.
 [Kompensacijos nustatymas (apskaičiavimo metodas) pagal Lietuvos Respublikos vartojimo kredito įstatymo 17 straipsnį]
 2.6. jei taikoma, papildoma informacija, kai finansinė paslauga teikiama pagal sutartį, sudaromą naudojant nuotolinio ryšio priemones:
 2.6.1. su vartojimo kredito davėju susijusi informacija

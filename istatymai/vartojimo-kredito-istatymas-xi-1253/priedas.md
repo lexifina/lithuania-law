@@ -28,30 +28,25 @@ Jei taikoma Vartojimo kredito įmokos nepadengia bendros vartojimo kredito sumos
 Vartojimo kredito palūkanų norma arba, jei taikoma, skirtingos vartojimo kredito palūkanų normos
 [Procentais: – fiksuotoji ar – kintamoji (kartu nurodomas pradinei vartojimo kredito palūkanų normai taikomas indeksas arba orientacinė palūkanų norma) – palūkanų nustatymo laikotarpiai]
 Bendros vartojimo kredito kainos metinė norma (MN) Bendra vartojimo kredito kaina, išreikšta metiniu procentų dydžiu MN nurodoma siekiant padėti Jums palyginti skirtingus pasiūlymus.
-[Procentais, standartinis pavyzdys, kuriame nurodomos visos čia nustatytos normos apskaičiavimo prielaidos]
-Ar tam, kad būtų suteiktas vartojimo kreditas ar vartojimo kreditui būtų taikomos skelbiamos sąlygos, būtina:
-– apdrausti vartojimo kreditą ar
-Taip (ne) [Jei taip, nurodyti draudimo rūšis]
-– sudaryti kitą papildomų paslaugų teikimo sutartį. Jeigu vartojimo kredito davėjas nežino šių paslaugų kainos, ji neįtraukiama į MN.
-Taip (ne) [Jei taip, nurodyti papildomų paslaugų rūšis]
+[Procentais, tipinis pavyzdys, kuriame nurodomos visos čia nustatytos normos apskaičiavimo prielaidos]
+Ar tam, kad būtų suteiktas vartojimo kreditas ar vartojimo kreditui būtų taikomos skelbiamos sąlygos, būtina: – apdrausti vartojimo kreditą ar – sudaryti kitą papildomų paslaugų teikimo sutartį. Jeigu vartojimo kredito davėjas nežino šių paslaugų kainos, ji neįtraukiama į MN.
+Taip (ne) [Jei taip, nurodyti draudimo rūšis] Taip (ne) [Jei taip, nurodyti papildomų paslaugų rūšis]
 Su vartojimo kredito sutartimi susijusios išlaidos
 Jei taikoma Būtina turėti vieną ar kelias banko sąskaitas tam, kad būtų registruojamos mokėjimo operacijos ir išmokamos lėšos
 Jei taikoma Konkrečių mokėjimo priemonių (pvz., vartojimo kredito kortelių) naudojimo išlaidų suma
 Jei taikoma Kitos išlaidos, susijusios su vartojimo kredito sutartimi
 Jei taikoma Šioje formoje nurodytų išlaidų, susijusių su vartojimo kredito sutartimi, keitimo sąlygos
 Jei taikoma Pareiga sumokėti atlyginimą notarui
-Išlaidos pavėluoto įmokų mokėjimo atvejais
-Įmokų nemokėjimas Jums gali turėti rimtų pasekmių (pvz., priverstinis pardavimas) ir gali pasunkinti vartojimo kredito gavimą.
+Išlaidos pavėluoto įmokų mokėjimo atvejais Įmokų nemokėjimas Jums gali turėti rimtų pasekmių (pvz., priverstinis pardavimas) ir gali pasunkinti vartojimo kredito gavimą.
 Dėl įmokų nemokėjimo Jūs turėsite sumokėti [taikoma palūkanų norma ir jos tikslinimo tvarka ir, kai taikoma, netesybos už įsipareigojimų nevykdymą].
 2.4. kiti svarbūs aspektai:
 Teisė atsisakyti sutarties Jūs turite teisę per 14 kalendorinių dienų atsisakyti vartojimo kredito sutarties.
-Išankstinis grąžinimas Jūs turite teisę bet kuriuo metu anksčiau nustatyto termino grąžinti visą vartojimo kreditą arba jo dalį. Vartojimo kredito davėjas išankstinio vartojimo kredito grąžinimo atveju turi teisę gauti kompensaciją.
+Išankstinis grąžinimas Jūs turite teisę bet kuriuo metu anksčiau nustatyto termino grąžinti visą vartojimo kreditą arba jo dalį. Vartojimo kredito davėjas ir paskolos davėjas, jei taikoma, išankstinio vartojimo kredito grąžinimo atveju turi teisę gauti kompensaciją.
 [Kompensacijos nustatymas (apskaičiavimo metodas) pagal Lietuvos Respublikos vartojimo kredito įstatymo 17 straipsnį]
-Mokumo tikrinimas duomenų bazėje Vartojimo kredito davėjas privalo nedelsdamas nemokamai pranešti Jums apie mokumo patikrinimo duomenų bazėje rezultatus, jeigu Jūsų prašymas gauti vartojimo kreditą buvo atmestas remiantis tokiu patikrinimu. Tai netaikoma, kai suteikti informaciją draudžiama pagal kitus teisės aktus arba tai prieštarauja viešosios tvarkos ar visuomenės saugumo tikslams.
+Kreditingumo tikrinimas registruose ir informacinėse sistemose Vartojimo kredito davėjas privalo nedelsdamas nemokamai pranešti Jums apie kreditingumo patikrinimo registruose ir informacinėse sistemose rezultatus, jeigu Jūsų prašymas gauti vartojimo kreditą buvo atmestas remiantis tokiu patikrinimu. Tai netaikoma, kai suteikti informaciją draudžiama pagal kitus teisės aktus arba tai prieštarauja viešosios tvarkos ar visuomenės saugumo tikslams.
 Teisė gauti vartojimo kredito sutarties projektą Pateikęs prašymą, Jūs turite teisę nemokamai gauti vartojimo kredito sutarties projekto kopiją. Ši nuostata netaikoma, jei vartojimo kredito davėjas, gavęs Jūsų prašymą, nenori su Jumis sudaryti vartojimo kredito sutarties.
-Jei taikoma
-Laikotarpis, kuriuo vartojimo kredito davėjas įsipareigoja pagal ikisutartinę informaciją.
-Ši informacija galioja nuo ... iki ...
+Jei taikoma Laikotarpis, kuriuo vartojimo kredito davėjas įsipareigoja pagal ikisutartinę informaciją.
+Ši informacija galioja nuo ... iki ... .
 2.5. jei taikoma, papildoma informacija, kai finansinė paslauga teikiama pagal sutartį, sudaromą naudojant nuotolinio ryšio priemones:
 2.5.1. su vartojimo kredito davėju susijusi informacija
 Jei taikoma
