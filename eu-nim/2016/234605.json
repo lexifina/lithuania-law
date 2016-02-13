@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2016 m. vasario 11 d. nutarimas Nr. 03-21 „Dėl Lietuvos banko valdybos 2013 m. vasario 28 d. nutarimo Nr. 03-49 „Dėl Pranešimo apie akcijų paketo įgijimą ar netekimą pateikimo taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-2810",
+  "official_journal_page": null,
+  "official_journal_date": "2016-02-12",
+  "entry_into_force": "2016-02-13",
+  "notification_date": "2016-02-25",
+  "commission_reference": "MNE(2016)51223",
+  "nim_celex": "72013L0050LTU_234605",
+  "nim_id": "234605",
+  "transposes_celex": [
+    "32013L0050"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9a1e5c6d-76bd-4e07-9aaa-71aece23f8c3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
