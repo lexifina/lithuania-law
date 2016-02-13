@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2016 m. vasario 10 d. nutarimas Nr. 118",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-02788",
+  "official_journal_page": null,
+  "official_journal_date": "2016-02-12",
+  "entry_into_force": "2016-02-13",
+  "notification_date": "2017-05-08",
+  "commission_reference": "MNE(2017)52307",
+  "nim_celex": "71999L0031LTU_247165",
+  "nim_id": "247165",
+  "transposes_celex": [
+    "31999L0031",
+    "32015L1513"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/301867d0-55f4-4645-85a9-c05a08ca979d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
