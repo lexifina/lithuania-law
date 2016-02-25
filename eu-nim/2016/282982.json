@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro 2016 m. vasario 11 d. įsakymas Nr. 4-120 „Dėl Lietuvos Respublikos ūkio ministro 2008 m. spalio 8 d. įsakymo Nr. 4-459 „Dėl Tam tikrų pavojingų medžiagų naudojimo ribojimo elektros ir elektroninėje įrangoje rinkos priežiūros taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-02672",
+  "official_journal_page": null,
+  "official_journal_date": "2016-02-11",
+  "entry_into_force": "2016-02-25",
+  "notification_date": "2020-06-16",
+  "commission_reference": "MNE(2020)52596",
+  "nim_celex": "72014L0003LTU_282982",
+  "nim_id": "282982",
+  "transposes_celex": [
+    "32014L0003"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/49636b07-b219-11ea-bb7a-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
