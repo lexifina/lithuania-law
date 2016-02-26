@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro 2016 m. vasario 24 d. įsakymas Nr. 1V-131 „Dėl Prieglobsčio Lietuvos Respublikoje suteikimo ir panaikinimo tvarkos aprašo patvirtinimo“ (Suvestinė redakcija nuo 2017-01-31)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-03630",
+  "official_journal_page": null,
+  "official_journal_date": "2016-02-25",
+  "entry_into_force": "2016-02-26",
+  "notification_date": "2017-07-20",
+  "commission_reference": "MNE(2017)54007",
+  "nim_celex": "72011L0095LTU_249317",
+  "nim_id": "249317",
+  "transposes_celex": [
+    "32011L0095"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/428203b1-6e08-11e7-b2f2-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
