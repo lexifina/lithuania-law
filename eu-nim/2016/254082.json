@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-1005 6 ir 7 straipsnių pakeitimo įstatymas Nr. XII-1952",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-14939",
+  "official_journal_page": null,
+  "official_journal_date": "2015-10-08",
+  "entry_into_force": "2016-03-01",
+  "notification_date": "2018-01-02",
+  "commission_reference": "MNE(2017)57239",
+  "nim_celex": "72015L2193LTU_254082",
+  "nim_id": "254082",
+  "transposes_celex": [
+    "32015L2193"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f3d4f779-0166-4f6a-b3b2-0eaac4acccf3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
