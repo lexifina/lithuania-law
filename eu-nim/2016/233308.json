@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos bausmių vykdymo kodekso 180 straipsnio ir 3 priedo pakeitimo įstatymas Nr. XII-2195",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-20997",
+  "official_journal_page": null,
+  "official_journal_date": "2015-12-30",
+  "entry_into_force": "2016-03-01",
+  "notification_date": "2016-01-25",
+  "commission_reference": "MNE(2015)59839",
+  "nim_celex": "72012L0029LTU_233308",
+  "nim_id": "233308",
+  "transposes_celex": [
+    "32012L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/290ced15-32a9-44b3-843a-505c11e8579b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
