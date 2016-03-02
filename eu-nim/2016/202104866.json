@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "2016 m. vasario 29 d. Lietuvos mokslo tarybos nutarimas Nr. VIII-2 „Dėl atvirosios prieigos prie mokslo publikacijų ir duomenų gairių patvirtinimo”",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "4101",
+  "official_journal_page": null,
+  "official_journal_date": "2016-03-01",
+  "entry_into_force": "2016-03-02",
+  "notification_date": "2021-07-16",
+  "commission_reference": "MNE(2021)04866",
+  "nim_celex": "72019L1024LTU_202104866",
+  "nim_id": "202104866",
+  "transposes_celex": [
+    "32019L1024"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/845c28c8-edf3-11eb-a71c-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
