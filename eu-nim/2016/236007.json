@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2016 m. kovo 10 d įsakymas Nr. A1-132 „Dėl vaiko gerovės 2016–2018 metų veiksmų plano patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-04548",
+  "official_journal_page": null,
+  "official_journal_date": "2016-03-10",
+  "entry_into_force": "2016-03-14",
+  "notification_date": "2016-03-24",
+  "commission_reference": "MNE(2016)52031",
+  "nim_celex": "72012L0029LTU_236007",
+  "nim_id": "236007",
+  "transposes_celex": [
+    "32012L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/eac8a0c1-4c8d-438c-84bd-85784e685f06",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
