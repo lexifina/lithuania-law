@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos teisingumo ministro 2016 m. kovo 15d. įsakymas Nr. 1R-94 \"Dėl Vartojimo ginčų neteisminio sprendimo subjektų sąrašo patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-04879",
+  "official_journal_page": null,
+  "official_journal_date": "2016-03-15",
+  "entry_into_force": "2016-03-16",
+  "notification_date": "2016-03-18",
+  "commission_reference": "MNE(2016)51882",
+  "nim_celex": "72013L0011LTU_235765",
+  "nim_id": "235765",
+  "transposes_celex": [
+    "32013L0011"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e6d5cfee-5295-4c7e-9a21-6eb47e2e96b5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
