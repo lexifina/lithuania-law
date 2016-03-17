@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2016 m. kovo 14 d. įsakymas Nr. D1-181 „Dėl Lietuvos Respublikos aplinkos ministro 2015 m. sausio 9 d. įsakymo Nr. D1-12 „Dėl Kraštovaizdžio ir biologinės įvairovės išsaugojimo 2015–2020 metų veiksmų plano patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-04960",
+  "official_journal_page": null,
+  "official_journal_date": "2016-03-16",
+  "entry_into_force": "2016-03-17",
+  "notification_date": "2016-08-17",
+  "commission_reference": "MNE(2016)55290",
+  "nim_celex": "71992L0043LTU_240002",
+  "nim_id": "240002",
+  "transposes_celex": [
+    "31992L0043"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b3e31ebd-c481-46be-9251-d5a6cc468946",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
