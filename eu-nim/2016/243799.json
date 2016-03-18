@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2016 m. kovo 16 d. įsakymas Nr. 3D-131 \"Dėl žemės ūkio ministro 2010 m. gegužės 24 d. įsakymo Nr. 3D-490 \"Dėl Valstybinės augalininkystės tarnybos prie Žemės ūkio ministerijos nuostatų ir administracijos struktūros patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "5119",
+  "official_journal_page": null,
+  "official_journal_date": "2016-03-17",
+  "entry_into_force": "2016-03-18",
+  "notification_date": "2016-12-29",
+  "commission_reference": "MNE(2016)57905",
+  "nim_celex": "72014L0098LTU_243799",
+  "nim_id": "243799",
+  "transposes_celex": [
+    "32014L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4a3b6f3a-d42b-11e6-ad7c-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
