@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro 2016 m. kovo 21 d. įsakymas Nr. 1V-215 „Dėl Lietuvos Respublikos vidaus reikalų ministro 2005 m. gruodžio 21 d. įsakymo Nr. 1V-445 „Dėl Dokumentų Lietuvos Respublikos ilgalaikio gyventojo leidimui gyventi Europos Sąjungoje gauti pateikimo ir Lietuvos Respublikos ilgalaikio gyventojo leidimų gyventi Europos Sąjungoje užsieniečiams išdavimo, keitimo ir panaikinimo, pragyvento Lietuvos Respublikoje laikotarpio apskaičiavimo, taip pat fiktyvios santuokos sudarymo, fiktyvios registruotos partnerystės bei fiktyvaus įvaikinimo įvertinimo tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-05484",
+  "official_journal_page": null,
+  "official_journal_date": "2016-03-21",
+  "entry_into_force": "2016-03-22",
+  "notification_date": "2016-03-25",
+  "commission_reference": "MNE(2016)51979",
+  "nim_celex": "72003L0109LTU_235946",
+  "nim_id": "235946",
+  "transposes_celex": [
+    "32003L0109"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f49a1d32-31ec-41d8-9bd0-7bc8e6dbec65",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
