@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 32, 33, 34, 35, 36, 40-1, 47, 51, 53 straipsnių ir 3 priedėlio pakeitimo įstatymas Nr. XII-2262",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-06346",
+  "official_journal_page": null,
+  "official_journal_date": "2016-03-25",
+  "entry_into_force": "2016-03-26",
+  "notification_date": "2016-04-12",
+  "commission_reference": "MNE(2016)52370",
+  "nim_celex": "72015L0121LTU_236513",
+  "nim_id": "236513",
+  "transposes_celex": [
+    "32015L0121"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d2169b31-dbbd-4883-9928-f2a686fae497",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
