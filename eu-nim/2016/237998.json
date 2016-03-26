@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių nusižengimų kodekso papildymo 68-1, 357-1 straipsniais ir 29, 33, 59, 65, 71, 73, 74, 168, 182, 183, 184, 191, 209, 243, 247, 254, 264, 269, 274, 309, 334, 372, 373, 377, 378, 380, 381, 422, 423, 424, 427, 589, 603, 608, 610, 615, 620, 621, 622, 634, 640, 642, 644, 649, 651, 652, 659, 662, 668, 673, 675 straipsnių ir priedo pakeitimo įstatymas Nr. XII-2254",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-06343",
+  "official_journal_page": null,
+  "official_journal_date": "2016-03-25",
+  "entry_into_force": "2016-03-26",
+  "notification_date": "2016-05-31",
+  "commission_reference": "MNE(2016)53620",
+  "nim_celex": "72003L0087LTU_237998",
+  "nim_id": "237998",
+  "transposes_celex": [
+    "32003L0087"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7c8d0e3b-9d4d-441d-b8a7-b68a577ecbce",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
