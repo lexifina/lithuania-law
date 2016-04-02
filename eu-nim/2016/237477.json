@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos saugios laivybos administracijos direktoriaus 2016 m balandžio 1 d. įsakymas Nr. V-54 „Dėl Lietuvos saugios laivybos administracijos direktoriaus 2013 m. gruodžio 12 d. įsakymu Nr. V-320 „Dėl Europos Sąjungos institucijoms teiktinos informacijos“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Administracinės priemonės",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2016-04-01",
+  "entry_into_force": "2016-04-02",
+  "notification_date": "2016-05-16",
+  "commission_reference": "MNE(2016)53155",
+  "nim_celex": "72013L0053LTU_237477",
+  "nim_id": "237477",
+  "transposes_celex": [
+    "32013L0053"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6cd7e243-5acb-4f8c-9973-8db047225e00",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
