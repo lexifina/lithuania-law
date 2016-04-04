@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro 2016 m. balandžio 4 d. įsakymas Nr. 1V-243 „Dėl Lietuvos Respublikos vidaus reikalų ministro 2005 m. spalio 12 d. įsakymo Nr. 1V-329 „Dėl Leidimų laikinai gyventi Lietuvos Respublikoje užsieniečiams išdavimo, keitimo, panaikinimo, taip pat įvertinimo, ar santuoka, registruota partnerystė, įvaikinimas ar įmonė yra fiktyvūs, tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-07305",
+  "official_journal_page": null,
+  "official_journal_date": "2016-04-03",
+  "entry_into_force": "2016-04-04",
+  "notification_date": "2021-06-03",
+  "commission_reference": "MNE(2021)03619",
+  "nim_celex": "72003L0109LTU_202103619",
+  "nim_id": "202103619",
+  "transposes_celex": [
+    "32003L0109"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bdba5656-449b-480d-97bb-b54bc4ab4f0b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
