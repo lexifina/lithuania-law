@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos policijos generalinio komisaro 2016 m. kovo 21 d. įsakymas Nr. 5-V-249 „Dėl Lietuvos policijos generalinio komisaro 2013 m. spalio 3 d. įsakymo Nr. 5-V-775 „Dėl Ginklų perdirbimo, eksponavimo ir parodų organizavimo taisyklių patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-05506",
+  "official_journal_page": null,
+  "official_journal_date": "2016-03-21",
+  "entry_into_force": "2016-04-07",
+  "notification_date": "2021-06-18",
+  "commission_reference": "MNE(2021)04169",
+  "nim_celex": "72021L0555LTU_202104169",
+  "nim_id": "202104169",
+  "transposes_celex": [
+    "32021L0555"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c68cb9af-d585-11eb-895a-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
