@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro ir Lietuvos Respublikos sveikatos apsaugos ministro 2016 m. balandžio 4 d. įsakymas Nr. A1-171/V-438 „Dėl Lietuvos Respublikos socialinės apsaugos ir darbo ministro ir Lietuvos Respublikos sveikatos apsaugos ministro 2001 m. liepos 24 d. įsakymo Nr. 97/406 „Dėl Darbuotojų apsaugos nuo cheminių veiksnių darbe nuostatų bei Darbuotojų apsaugos nuo kancerogenų ir mutagenų poveikio darbe nuostatų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-08625",
+  "official_journal_page": null,
+  "official_journal_date": "2016-04-11",
+  "entry_into_force": "2016-04-12",
+  "notification_date": "2018-07-20",
+  "commission_reference": "MNE(2018)53235",
+  "nim_celex": "72004L0037LTU_259835",
+  "nim_id": "259835",
+  "transposes_celex": [
+    "32004L0037"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a678c289-b710-42c8-99ec-2b5a9a7a621e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
