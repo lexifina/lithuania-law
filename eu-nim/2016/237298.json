@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2016 m. balandžio 14 d. nutarimas Nr. 03-44 „Dėl Lietuvos banko valdybos 2014 m. liepos 31 d. nutarimo Nr. 03-136 „Dėl visuomenei skelbiamos informacijos reikalavimų“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-09604",
+  "official_journal_page": null,
+  "official_journal_date": "2016-04-15",
+  "entry_into_force": "2016-04-16",
+  "notification_date": "2016-05-24",
+  "commission_reference": "MNE(2016)53003",
+  "nim_celex": "72013L0036LTU_237298",
+  "nim_id": "237298",
+  "transposes_celex": [
+    "32013L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fda83034-3dd0-47f1-a748-a43afd1aa769",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
