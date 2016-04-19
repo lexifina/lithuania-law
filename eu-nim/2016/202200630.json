@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2016 m. balandžio 14 d. nutarimas Nr. 03-43 „Dėl Lietuvos banko viešai skelbiamos informacijos apie finansų rinką ir jos dalyvius tvarkos aprašo“ (suvestinė redakcija nuo 2021-11-01 iki 2022-01-07)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-09608",
+  "official_journal_page": null,
+  "official_journal_date": "2016-04-18",
+  "entry_into_force": "2016-04-19",
+  "notification_date": "2022-03-08",
+  "commission_reference": "MNE(2022)00630",
+  "nim_celex": "72019L2034LTU_202200630",
+  "nim_id": "202200630",
+  "transposes_celex": [
+    "32019L2034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3d4e0475-a119-11ec-83e1-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
