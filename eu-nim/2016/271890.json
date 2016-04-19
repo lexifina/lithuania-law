@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2016 m. balandžio 13 d. nutarimas Nr. 370 „Dėl Viešojo saugumo plėtros 2015–2025 metų programos įgyvendinimo tarpinstitucinio veiklos plano patvirtinimo“ (Suvestinė redakcija nuo 2019-01-01)",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-09844",
+  "official_journal_page": null,
+  "official_journal_date": "2016-04-18",
+  "entry_into_force": "2016-04-19",
+  "notification_date": "2019-04-24",
+  "commission_reference": "MNE(2019)52300",
+  "nim_celex": "72011L0036LTU_271890",
+  "nim_id": "271890",
+  "transposes_celex": [
+    "32011L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a00c3060-65f9-41d9-8873-69b4276c6163",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
