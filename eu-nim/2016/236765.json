@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2016 m. balandžio 11 d. įsakymas Nr. 1V-427 „Dėl Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2006 m. gruodžio 15 d. įsakymo Nr. 1V-1328 „Dėl Elektromagnetinio suderinamumo techninio reglamento patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-08647",
+  "official_journal_page": null,
+  "official_journal_date": "2016-04-11",
+  "entry_into_force": "2016-04-20",
+  "notification_date": "2016-04-21",
+  "commission_reference": "MNE(2016)52559",
+  "nim_celex": "72014L0030LTU_236765",
+  "nim_id": "236765",
+  "transposes_celex": [
+    "32014L0030"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2c5fd3e1-0db4-4398-9a1f-78be0a81bd9b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
