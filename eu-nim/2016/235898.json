@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro 2015 m. spalio 30 d. įsakymas Nr. 4-699 \"Dėl Matavimo priemonių techninio reglamento patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-17168",
+  "official_journal_page": null,
+  "official_journal_date": "2015-10-30",
+  "entry_into_force": "2016-04-20",
+  "notification_date": "2016-03-30",
+  "commission_reference": "MNE(2016)51934",
+  "nim_celex": "72014L0032LTU_235898",
+  "nim_id": "235898",
+  "transposes_celex": [
+    "32014L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/617c2e4d-cb84-4472-b6ed-e89b6e82b285",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
