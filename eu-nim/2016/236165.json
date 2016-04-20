@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro 2016 m. kovo 25 d. įsakymas Nr.4–238 „Dėl Lietuvos Respublikos ūkio ministro 1999 m. gruodžio 27 d. įsakymo Nr. 431 „Dėl Paprastų slėginių indų techninio reglamento tvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-06312",
+  "official_journal_page": null,
+  "official_journal_date": "2016-03-25",
+  "entry_into_force": "2016-04-20",
+  "notification_date": "2016-03-30",
+  "commission_reference": "MNE(2016)52135",
+  "nim_celex": "72014L0029LTU_236165",
+  "nim_id": "236165",
+  "transposes_celex": [
+    "32014L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/69e4a88b-b2b1-4d25-bd3f-4f1a44f03be5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
