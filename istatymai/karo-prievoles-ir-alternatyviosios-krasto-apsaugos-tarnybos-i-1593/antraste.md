@@ -1,5 +1,3 @@
-KARO PRIEVOLĖS
-ĮSTATYMAS
 1996 m. spalio 22 d. Nr. I-1593
 Vilnius
 PREAMBULĖ
