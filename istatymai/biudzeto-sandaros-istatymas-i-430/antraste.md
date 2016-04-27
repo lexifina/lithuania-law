@@ -1,5 +1,3 @@
-BIUDŽETO SANDAROS
-ĮSTATYMAS
 Įstatymo pavadinimo pakeitimas:
 Nr. VIII-1821, 2000.07.11, Žin., 2000, Nr. 61-1826 (2000.07.26)
 PIRMASIS SKIRSNIS
