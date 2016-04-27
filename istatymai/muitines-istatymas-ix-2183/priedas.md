@@ -1,5 +1,4 @@
-# ______________
-Lietuvos Respublikos muitinės įstatymo
+# Lietuvos Respublikos muitinės įstatymo
 priedas
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 1. 1987 m. liepos 23 d. Tarybos reglamentas (EEB) Nr. 2658/87 dėl tarifų ir statistinės nomenklatūros bei dėl Bendrojo muitų tarifo (OL 2004 m. specialusis leidimas, 2 skyrius, 2 tomas, p. 382) (su paskutiniais pakeitimais, padarytais 2013 m. spalio 4 d. Komisijos įgyvendinimo reglamentu (ES) Nr. 1001/2013 (OL 2013 L 290, p. 1) (Įstatyme – Bendrojo muitų tarifo reglamentas).
@@ -14,3 +13,4 @@ priedas
 10. 2011 m. lapkričio 28 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 1225/2011, išdėstantis Tarybos reglamento (EB) Nr. 1186/2009, nustatančio Bendrijos atleidimo nuo muitų sistemą, 42–52, 57 ir 58 straipsnių taikymo nuostatas (OL 2011 L 314, p. 20) (su paskutiniais pakeitimais, padarytais 2013 m. vasario 21 d. Komisijos reglamentu (ES) Nr. 519/2013 (OL 2013 L 158, p. 74) (Įstatyme – Atleidimo nuo muitų reglamentą įgyvendinantis reglamentas).
 11. 2012 m. sausio 31 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 80/2012, išdėstantis biologinių ir cheminių medžiagų, numatytų Tarybos reglamento (EB) Nr. 1186/2009, nustatančio Bendrijos atleidimo nuo muitų sistemą, 53 straipsnio 1 dalies b punkte, sąrašą (OL 2012 L 29, p. 33) (su paskutiniais pakeitimais, padarytais 2013 m. kovo 7 d. Komisijos įgyvendinimo reglamentu (ES) Nr. 197/2013 (OL 2013 L 65, p. 15) (Įstatyme – Atleidimo nuo muitų reglamentą įgyvendinantis reglamentas).
 12. 2013 m. birželio 12 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 608/2013 dėl muitinės atliekamo intelektinės nuosavybės teisių vykdymo užtikrinimo, kuriuo panaikinamas Tarybos reglamentas (EB) Nr. 1383/2003 (OL 2013 L 181, p. 15) (Įstatyme – Intelektinės nuosavybės apsaugos reglamentas).
+13. 2013 m. spalio 9 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 952/2013, kuriuo nustatomas Sąjungos muitinės kodeksas (OL 2013 L 269, p. 1).
