@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2016 m. balandžio 27 d. nutarimas Nr. 411 \"Dėl Lietuvos Respublikos Vyriausybės 2008 m. birželio 18 d. nutarimo Nr. 637 „Dėl Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo įgyvendinimo“ pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-10656",
+  "official_journal_page": null,
+  "official_journal_date": "2016-04-28",
+  "entry_into_force": "2016-04-29",
+  "notification_date": "2016-05-04",
+  "commission_reference": "MNE(2016)52856",
+  "nim_celex": "72013L0055LTU_237122",
+  "nim_id": "237122",
+  "transposes_celex": [
+    "32013L0055"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/40bc795d-a2dd-4982-bbe5-c2ea8a50e633",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
