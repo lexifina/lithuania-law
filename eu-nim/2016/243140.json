@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 1, 2, 3, 5, 10, 12, 25, 45, 50, 52, 53, 54, 59 straipsnių, I dalies II skyriaus pavadinimo pakeitimo ir 7, 8, 60 straipsnių pripažinimo netekusiais galios įstatymas",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "87",
+  "official_journal_page": null,
+  "official_journal_date": "2016-01-05",
+  "entry_into_force": "2016-05-01",
+  "notification_date": "2016-12-07",
+  "commission_reference": "MNE(2016)57371",
+  "nim_celex": "72015L0566LTU_243140",
+  "nim_id": "243140",
+  "transposes_celex": [
+    "32015L0566"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/96711cbf-c9aa-41af-9d05-6737140bab23",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
