@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės atominės energetikos saugos inspekcijos viršininko 2016 m. balandžio 29 d. įsakymas Nr. 22.3-73 „Dėl Branduolinės saugos reikalavimų BSR-1.9.4-2016 „Branduolinės energetikos srities veiklą su jonizuojančiosios spinduliuotės šaltiniais vykdančių darbuotojų ir asmenų, atsakingų už radiacinę saugą, privalomojo radiacinės saugos mokymo, žinių patikrinimo, instruktavimo ir fizinių asmenų, siekiančių įgyti teisę mokyti radiacinės saugos, atestavimo tvarkos aprašas“ patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-10794",
+  "official_journal_page": null,
+  "official_journal_date": "2016-04-29",
+  "entry_into_force": "2016-05-01",
+  "notification_date": "2018-12-10",
+  "commission_reference": "MNE(2018)56550",
+  "nim_celex": "72013L0059LTU_265743",
+  "nim_id": "265743",
+  "transposes_celex": [
+    "32013L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/34e39af7-6bf5-4025-8ebf-551450ced89f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
