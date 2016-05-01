@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2016 m. kovo 14 d. įsakymas \"Dėl statybos produktų, kuriuos privaloma radiologiškai ištirti, sąrašo patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Administracinės priemonės",
+  "official_journal_reference": "2016-05110",
+  "official_journal_page": null,
+  "official_journal_date": "2016-03-17",
+  "entry_into_force": "2016-05-01",
+  "notification_date": "2016-12-29",
+  "commission_reference": "MNE(2016)57893",
+  "nim_celex": "72013L0059LTU_243787",
+  "nim_id": "243787",
+  "transposes_celex": [
+    "32013L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/11b06692-355c-4772-a7f3-737c8915a8b6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
