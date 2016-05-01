@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės atominės energetikos saugos inspekcijos viršininko 2015 m. lapkričio 30 d. įsakymas Nr. 22.3-216 „Dėl Branduolinės saugos reikalavimų BSR-1.5.1-2015 „Branduolinės energetikos objektų eksploatavimo nutraukimas“ patvirtinimo“ (Suvestinė redakcija nuo 2018-02-08)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-19114",
+  "official_journal_page": null,
+  "official_journal_date": "2015-12-01",
+  "entry_into_force": "2016-05-01",
+  "notification_date": "2018-12-10",
+  "commission_reference": "MNE(2018)56538",
+  "nim_celex": "72013L0059LTU_265731",
+  "nim_id": "265731",
+  "transposes_celex": [
+    "32013L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/03e7ff14-565b-4db7-b287-8b334dc84b44",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
