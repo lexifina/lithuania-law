@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2016 m. vasario 1 d. įsakymas Nr. A1-60 „Dėl kvalifikacinių reikalavimų darbuotojų saugos ir sveikatos specialistams, darbuotojų saugos ir sveikatos tarnybos darbuotojų saugos ir sveikatos specialistams, juridinio asmens darbuotojų saugos ir sveikatos specialistams ar fiziniams asmenims, atliekantiems darbuotojų saugos ir sveikatos tarnybos funkcijas ar jų dalį, nustatymo“ (Suvestinė redakcija nuo 2019-04-03)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-02060",
+  "official_journal_page": null,
+  "official_journal_date": "2016-02-02",
+  "entry_into_force": "2016-05-01",
+  "notification_date": "2020-03-05",
+  "commission_reference": "MNE(2020)50895",
+  "nim_celex": "72017L0159LTU_280763",
+  "nim_id": "280763",
+  "transposes_celex": [
+    "32017L0159"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0d9c145e-5f7b-11ea-b735-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
