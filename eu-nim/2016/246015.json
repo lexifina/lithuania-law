@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2016 m. balandžio 28 d. įsakymas Nr. V-551 „Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2007 m. kovo 2 d. įsakymo Nr. V-156 „Dėl asmens sveikatos priežiūros įstaigų licencijavimo“ pakeitimo“",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-10828",
+  "official_journal_page": null,
+  "official_journal_date": "2016-05-02",
+  "entry_into_force": "2016-05-01",
+  "notification_date": "2017-03-14",
+  "commission_reference": "MNE(2017)51523",
+  "nim_celex": "72004L0023LTU_246015",
+  "nim_id": "246015",
+  "transposes_celex": [
+    "32004L0023"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0f91eaf5-9eaa-470d-8996-e07174e31335",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
