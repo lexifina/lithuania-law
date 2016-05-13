@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro, Lietuvos Respublikos socialinės apsaugos ir darbo ministro ir Lietuvos Respublikos susisiekimo ministro 2016 m. gegužės 12 d. įsakymas Nr. D1-350/A1-250/3-171(1.5 E) \"Dėl Lietuvos Respublikos aplinkos ministro, Lietuvos Respublikos socialinės apsaugos ir darbo ministro, Lietuvos Respublikos susisiekimo ministro 2000 m. gruodžio 11 d. įsakymo Nr. 520/104/360 „Dėl aplinkos apsaugos normatyvinio dokumento „Lakiųjų organinių junginių sklidimo į aplinkos orą ribojimo reikalavimai benzino laikymo, perpylimo, transportavimo įrenginiams ir jų priežiūrai“ patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-13730",
+  "official_journal_page": null,
+  "official_journal_date": "2016-05-20",
+  "entry_into_force": "2016-05-13",
+  "notification_date": "2016-05-25",
+  "commission_reference": "MNE(2016)53572",
+  "nim_celex": "72014L0099LTU_237950",
+  "nim_id": "237950",
+  "transposes_celex": [
+    "32014L0099"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6786f1e6-46f3-44cf-838a-bf59ba2047ab",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
