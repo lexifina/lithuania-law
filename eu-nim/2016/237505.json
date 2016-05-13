@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2016 m. gegužės 11 d. įsakymaso Nr. 3-166(1.5 E) „ Dėl Lietuvos Respublikos susisiekimo ministro 2004 m. birželio 15 d. įsakymo Nr. 3-352 „Dėl Pramoginių laivų projektavimo, statybos, tiekimo rinkai ir atidavimo eksploatuoti techninio reglamento patvirtinimo“ pripažinimo netekusiu galios“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-12185",
+  "official_journal_page": null,
+  "official_journal_date": "2016-05-11",
+  "entry_into_force": "2016-05-13",
+  "notification_date": "2016-05-17",
+  "commission_reference": "MNE(2016)53173",
+  "nim_celex": "72013L0053LTU_237505",
+  "nim_id": "237505",
+  "transposes_celex": [
+    "32013L0053"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/33d899aa-fba0-4db8-97f3-d77280083c8f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
