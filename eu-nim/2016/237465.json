@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos saugios laivybos administracijos direktoriaus 2016 m. gegužės 9 d. įsakymas Nr. V-107 \"Dėl Pramoginių laivų ir jų sudedamųjų dalių projektavimo, statybos, tiekimo rinkai ir atidavimo eksploatuoti techninio reglamento patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-11731",
+  "official_journal_page": null,
+  "official_journal_date": "2016-05-10",
+  "entry_into_force": "2016-05-13",
+  "notification_date": "2016-05-17",
+  "commission_reference": "MNE(2016)53143",
+  "nim_celex": "72013L0053LTU_237465",
+  "nim_id": "237465",
+  "transposes_celex": [
+    "32013L0053"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e425d25f-6ec4-42df-b55b-d552adad840b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
