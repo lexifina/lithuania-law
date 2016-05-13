@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro 2016 m. gegužės 11 d. įsakymas Nr. 4-360 „Dėl Lietuvos Respublikos ūkio ministro 1999 m. gruodžio 27 d. įsakymą Nr. 432 „Dėl Įrangos ir apsaugos sistemų, naudojamų potencialiai sprogioje aplinkoje, techninio reglamento tvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-12514",
+  "official_journal_page": null,
+  "official_journal_date": "2016-05-12",
+  "entry_into_force": "2016-05-13",
+  "notification_date": "2016-05-19",
+  "commission_reference": "MNE(2016)53145",
+  "nim_celex": "72014L0034LTU_237467",
+  "nim_id": "237467",
+  "transposes_celex": [
+    "32014L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7b642ec5-afac-4e3e-9ef7-4ff3237e7a5e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
