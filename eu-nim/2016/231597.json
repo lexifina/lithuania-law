@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 1, 2, 8, 26 straipsnių, priedo pakeitimo ir Įstatymo papildymo nauju 1 priedu įstatymas XII-1918",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-11096",
+  "official_journal_page": null,
+  "official_journal_date": "2015-07-07",
+  "entry_into_force": "2016-05-20",
+  "notification_date": "2015-11-10",
+  "commission_reference": "MNE(2015)58207",
+  "nim_celex": "72015L1139LTU_231597",
+  "nim_id": "231597",
+  "transposes_celex": [
+    "32015L1139"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/45a4bc4a-7992-4241-9037-9256f74cb69d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
