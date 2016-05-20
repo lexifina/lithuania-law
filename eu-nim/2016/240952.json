@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro 2015 m. rugsėjo 29 d. įsakymas Nr. 4-610 „Dėl Lietuvos Respublikos ūkio ministro 2003 m. gegužės 23 d. įsakymo Nr. 4-195 „Dėl įspėjamųjų užrašų apie tabako gaminių kenksmingą poveikį sveikatai, tabako gaminių partijos ir kenksmingų medžiagų kiekio nuorodų pateikimo, ženklinant Lietuvos Respublikoje parduodamus tabako gaminius, taisyklių patvirtinimo“ pripažinimo netekusiu galios“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "Nr. 14443",
+  "official_journal_page": null,
+  "official_journal_date": "2015-09-29",
+  "entry_into_force": "2016-05-20",
+  "notification_date": "2016-11-23",
+  "commission_reference": "MNE(2016)55977",
+  "nim_celex": "72014L0040LTU_240952",
+  "nim_id": "240952",
+  "transposes_celex": [
+    "32014L0040"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/24fd5a86-2679-44fc-8b66-3d8134ba5e9f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
