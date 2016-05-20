@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro 2015 m. rugsėjo 29 d. įsakymas Nr. 4-609 „Dėl Informacijos, susijusios su metimu rūkyti, turinio, jos pateikimo tvarkos ir vaizdinių įspėjimų rinkinių, pateikiamų ant tabako gaminių vienetinio pakelio ir ant bet kokios jų išorinės pakuotės, patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-14445",
+  "official_journal_page": null,
+  "official_journal_date": "2015-09-29",
+  "entry_into_force": "2016-05-20",
+  "notification_date": "2015-12-11",
+  "commission_reference": "MNE(2015)58082",
+  "nim_celex": "72012L0009LTU_231462",
+  "nim_id": "231462",
+  "transposes_celex": [
+    "32012L0009"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c85bc494-2fe5-48ea-9000-66732836bbba",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
