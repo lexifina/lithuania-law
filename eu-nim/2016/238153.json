@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos teisingumo ministro 2016 m. gegužės 24 d. įsakymas Nr. 1R-163 \"Dėl teisingumo ministro 2005 m. balandžio 12 d. įsakymo Nr. 1R-111 „Dėl Teisininko profesinės kvalifikacijos pripažinimo norint užsiimti advokato profesine veikla Lietuvos Respublikoje tvarkos aprašo patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-13850",
+  "official_journal_page": null,
+  "official_journal_date": "2016-05-24",
+  "entry_into_force": "2016-05-25",
+  "notification_date": "2016-06-07",
+  "commission_reference": "MNE(2016)53746",
+  "nim_celex": "72013L0055LTU_238153",
+  "nim_id": "238153",
+  "transposes_celex": [
+    "32013L0055"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/55c56344-de0c-423c-8980-5649b30ae94a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
