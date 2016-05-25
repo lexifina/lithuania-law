@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos kultūros ministro 2016 m. gegužės 24 d. 2016 m. gegužės 24 d. įsakymas Nr. ĮV- 413 „Dėl Lietuvos Respublikos kultūros ministro 2008 m. spalio 14 d. įsakymo Nr.ĮV-485 „Dėl restauratoriaus profesinės kvalifikacijos pripažinimo norint Lietuvos Respublikoje dirbti pagal restauratoriaus profesiją ar laikinai arba vienkartinai teikti restauratoriaus paslaugas tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-13852",
+  "official_journal_page": null,
+  "official_journal_date": "2016-05-24",
+  "entry_into_force": "2016-05-25",
+  "notification_date": "2016-05-30",
+  "commission_reference": "MNE(2016)53568",
+  "nim_celex": "72013L0055LTU_237946",
+  "nim_id": "237946",
+  "transposes_celex": [
+    "32013L0055"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f3deeeb5-2aa0-406e-85cd-1c4ad1cc8817",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
