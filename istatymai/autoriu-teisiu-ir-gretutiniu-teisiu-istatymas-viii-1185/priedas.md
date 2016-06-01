@@ -24,5 +24,3 @@ iki 2 GB nuo 2,1 GB iki 4 GB nuo 4,1 GB iki 8 GB nuo 8,1 GB iki 16 GB nuo 16,1 G
 5. Stacionarūs kompiuteriai, nešiojamieji kompiuteriai, hibridiniai kompiuteriai
 5,79 Eur
 6. Planšetiniai kompiuteriai ir žaidimų konsolės
-4,34 Eur
-Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo
