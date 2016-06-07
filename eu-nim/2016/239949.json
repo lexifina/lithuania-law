@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2016 m. birželio 3 d. įsakymas Nr. D1-418 „Dėl Lietuvos Respublikos aplinkos ministro 2009 m. balandžio 22 d. įsakymo Nr. D1-210 „Dėl vietovių, atitinkančių gamtinių buveinių apsaugai svarbių teritorijų atrankos kriterijus, sąrašo, skirto pateikti Europos komisijai, patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-15095",
+  "official_journal_page": null,
+  "official_journal_date": "2016-06-06",
+  "entry_into_force": "2016-06-07",
+  "notification_date": "2016-08-17",
+  "commission_reference": "MNE(2016)55260",
+  "nim_celex": "71992L0043LTU_239949",
+  "nim_id": "239949",
+  "transposes_celex": [
+    "31992L0043"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8ee0a808-bf42-4f5c-b404-1bc83495c177",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
