@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2016 m. birželio 8 d. nutarimas Nr. 556 \"Dėl Lietuvos Respublikos Vyriausybės 2012 m. spalio 24 d. nutarimo Nr. 1280 „Dėl Lietuvos Respublikos integruotos jūrų politikos įgyvendinimo“ pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-15666",
+  "official_journal_page": null,
+  "official_journal_date": "2016-06-08",
+  "entry_into_force": "2016-06-09",
+  "notification_date": "2016-06-27",
+  "commission_reference": "MNE(2016)54285",
+  "nim_celex": "72014L0089LTU_238740",
+  "nim_id": "238740",
+  "transposes_celex": [
+    "32014L0089"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ed046c55-2b53-4c21-919c-67fa424e05d2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
