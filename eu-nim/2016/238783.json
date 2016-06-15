@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2016 m. birželio 14 d. įsakymas Nr. 1V-671 „Dėl Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2005 m. balandžio 8 d. įsakymo Nr. 1V-340 „Dėl Bendrųjų vertimosi elektroninių ryšių veikla sąlygų aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-16598",
+  "official_journal_page": null,
+  "official_journal_date": "2016-06-14",
+  "entry_into_force": "2016-06-15",
+  "notification_date": "2016-07-15",
+  "commission_reference": "MNE(2016)54328",
+  "nim_celex": "72008L0063LTU_238783",
+  "nim_id": "238783",
+  "transposes_celex": [
+    "32008L0063"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0fd1e78b-bf8d-49e6-9061-bc40596d23ba",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
