@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės maisto ir veterinarijos tarnybos direktoriaus 2016 m. birželio 16 d. įsakymas Nr. B1-457 „Dėl Valstybinės maisto ir veterinarijos tarnybos direktoriaus 2008 m. rugsėjo 29 d. įsakymo Nr. B1-506 „Dėl veterinarijos gydytojo profesinės kvalifikacijos pripažinimo norint dirbti veterinarijos gydytoju ar laikinai arba vienkartinai teikti veterinarijos gydytojo paslaugas Lietuvos Respublikoje tvarkos aprašo patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-17222",
+  "official_journal_page": null,
+  "official_journal_date": "2016-06-17",
+  "entry_into_force": "2016-06-18",
+  "notification_date": "2016-07-15",
+  "commission_reference": "MNE(2016)54867",
+  "nim_celex": "72013L0055LTU_239411",
+  "nim_id": "239411",
+  "transposes_celex": [
+    "32013L0055"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5a6286fc-2dbf-4b17-9683-96316507747d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
