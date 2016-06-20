@@ -1,4 +1,1 @@
-PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ
-ĮSTATYMAS
-1994 m. gruodžio 13 d. Nr. I-693
 Vilnius
