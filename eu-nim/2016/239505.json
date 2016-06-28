@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo Nr. IX-1768 6 straipsnio ir priedo pakeitimo įstatymas XII-2438",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-17711",
+  "official_journal_page": null,
+  "official_journal_date": "2016-06-27",
+  "entry_into_force": "2016-06-28",
+  "notification_date": "2016-07-19",
+  "commission_reference": "MNE(2016)54939",
+  "nim_celex": "72014L0067LTU_239505",
+  "nim_id": "239505",
+  "transposes_celex": [
+    "32014L0067"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/60a8f7aa-17c7-4425-b3f0-0419c73ce0a8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
