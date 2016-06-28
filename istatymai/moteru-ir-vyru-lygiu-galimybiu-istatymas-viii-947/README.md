@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 1999-03-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/5951dac51b811ba0d80fcf3bb9d3592ce1c47c23/istatymai/TAR.746227138BCB.md) |
+| 2016-06-28 | 2016-12-31 | Įstatymas Nr. IX-2346 / Įstatymas Nr. X-304 / Įstatymas Nr. X-596 / Įstatymas Nr. X-1380 / Įstatymas Nr. X-1631 / Įstatymas Nr. XI-336 / Įstatymas Nr. XI-1926 / Įstatymas Nr. XI-2270 / Įstatymas Nr. XII-472 / Įstatymas Nr. XII-1023 / Įstatymas Nr. XII-2431 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/8bf1983ed713ce64c6fd627358398a2a2295508e/istatymai/TAR.746227138BCB.md) |
