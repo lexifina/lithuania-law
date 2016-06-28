@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo Nr. VIII-947 5, 5-1, 6-1, 7-1, 7-3, 8, 9 straipsnių ir priedo pakeitimo įstatymas Nr. XII-2431",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-17706",
+  "official_journal_page": null,
+  "official_journal_date": "2016-06-27",
+  "entry_into_force": "2016-06-28",
+  "notification_date": "2016-07-28",
+  "commission_reference": "MNE(2016)55092",
+  "nim_celex": "72004L0113LTU_239687",
+  "nim_id": "239687",
+  "transposes_celex": [
+    "32004L0113"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0445d7bb-ecd6-4d68-a387-2502487e5efe",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
