@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro 2016 m. birželio 28 d. įsakymas Nr. 4-444 \"Dėl Europos profesinės kortelės išdavimo ir vidaus rinkos informacinės sistemos bylos sukūrimo ir sąlygų tvarkos aprašo patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-17797",
+  "official_journal_page": null,
+  "official_journal_date": "2016-06-29",
+  "entry_into_force": "2016-06-30",
+  "notification_date": "2016-07-14",
+  "commission_reference": "MNE(2016)54849",
+  "nim_celex": "72013L0055LTU_239393",
+  "nim_id": "239393",
+  "transposes_celex": [
+    "32013L0055"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2d2fcec4-ee02-432b-b4c6-4d55178879c5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
