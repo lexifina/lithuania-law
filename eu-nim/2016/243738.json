@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2016 m. birželio 1 d. nutarimas Nr. 536 „Dėl Lietuvos Respublikos Vyriausybės 2003 m. gegužės 14 d. nutarimo Nr. 587 „Dėl darbų, kuriuose gali būti taikoma iki dvidešimt keturių valandų per parą darbo laiko trukmė, sąrašo, darbo ir poilsio laiko ypatumų ekonominės veiklos srityse patvirtinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "14758",
+  "official_journal_page": null,
+  "official_journal_date": "2016-06-02",
+  "entry_into_force": "2016-07-01",
+  "notification_date": "2016-12-27",
+  "commission_reference": "MNE(2016)57844",
+  "nim_celex": "72014L0112LTU_243738",
+  "nim_id": "243738",
+  "transposes_celex": [
+    "32014L0112"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/00ead816-ce68-11e6-ad7c-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
