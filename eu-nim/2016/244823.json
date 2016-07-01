@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo nr. IX-1768 121 straipsnio pakeitimo įstatymas Nr. XII-2435",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "2016-17708",
+  "official_journal_page": null,
+  "official_journal_date": "2016-06-27",
+  "entry_into_force": "2016-07-01",
+  "notification_date": "2017-01-31",
+  "commission_reference": "MNE(2017)50763",
+  "nim_celex": "72014L0036LTU_244823",
+  "nim_id": "244823",
+  "transposes_celex": [
+    "32014L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/042074cc-6df3-4c63-a8a5-912e77ca1ee6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
