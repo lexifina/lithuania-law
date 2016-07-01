@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos farmacijos įstatymo Nr. X-709 2, 4, 5, 7, 8, 19, 20, 21, 22, 23, 24, 24-2, 25, 26, 27, 29, 29-3, 29-4, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 57, 61, 64 straipsnių, aštuonioliktojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 7-1, 23-1, 75-1 straipsniais įstatymas Nr. XII-2131",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2015-19744",
+  "official_journal_page": null,
+  "official_journal_date": "2015-12-14",
+  "entry_into_force": "2016-07-01",
+  "notification_date": "2018-08-28",
+  "commission_reference": "MNE(2018)54281",
+  "nim_celex": "72001L0083LTU_261773",
+  "nim_id": "261773",
+  "transposes_celex": [
+    "32001L0083"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8303db01-0899-4b50-832f-7735d816dbc4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
