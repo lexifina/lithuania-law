@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2016 m. birželio 22 d. nutarimas Nr. 642 „Dėl Lietuvos Respublikos Vyriausybės 2003 m. balandžio 18 d. nutarimo Nr. 480 „Dėl Bendrųjų reikalavimų valstybės ir savivaldybių institucijų ir įstaigų interneto svetainėms aprašo patvirtinimo“ pakeitimo",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "17574",
+  "official_journal_page": null,
+  "official_journal_date": "2016-06-27",
+  "entry_into_force": "2016-07-01",
+  "notification_date": "2017-01-31",
+  "commission_reference": "MNE(2017)50619",
+  "nim_celex": "72014L0036LTU_244648",
+  "nim_id": "244648",
+  "transposes_celex": [
+    "32014L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/38866dbf-3c55-4cec-bf38-661c20bdaefb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
