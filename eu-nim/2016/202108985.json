@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2016 m. birželio 13 d. įsakymas Nr. 3D-361 „Dėl žemės ūkio ministro 2000 m. rugsėjo 29 d. įsakymo Nr. 274 „Dėl Privalomųjų rinkai tiekiamos javų sėklos kokybės reikalavimų aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-16338",
+  "official_journal_page": null,
+  "official_journal_date": "2016-06-13",
+  "entry_into_force": "2016-07-01",
+  "notification_date": "2021-12-30",
+  "commission_reference": "MNE(2021)08985",
+  "nim_celex": "72021L0415LTU_202108985",
+  "nim_id": "202108985",
+  "transposes_celex": [
+    "32021L0415"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/63ec9d8a-6d38-11ec-9136-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
