@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės augalininkystės tarnybos prie Žemės ūkio ministerijos direktoriaus 2016 m. gegužės 12 d. įsakymas Nr. A1-292 \"Dėl Valstybinės augalininkystės tarnybos prie Žemės ūkio ministerijos direktoriaus 2010 m. spalio 22 d. įsakymo Nr. A1-113 \"Dėl augalų rūšių veislių tikrinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Administracinės priemonės",
+  "official_journal_reference": "-",
+  "official_journal_page": null,
+  "official_journal_date": "2016-05-12",
+  "entry_into_force": "2016-07-01",
+  "notification_date": "2016-05-31",
+  "commission_reference": "MNE(2016)53691",
+  "nim_celex": "72015L1168LTU_238081",
+  "nim_id": "238081",
+  "transposes_celex": [
+    "32015L1168"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/247d65bd-1cc6-4dc5-acb8-15c31a53cbab",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
