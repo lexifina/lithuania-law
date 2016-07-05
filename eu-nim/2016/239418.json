@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2016 m. birželio 30 d. įsakymas Nr. V-883 \"Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2010 m. gegužės įsakymo Nr. V-388 „Dėl vaistininko padėjėjo (farmakotechniko) profesinės kvalifikacijos pripažinimo norint dirbti pagal vaistininko padėjėjo (farmakotechniko) profesiją ar laikinai arba vienkartinai teikti vaistininko padėjėjo (Farmakotechniko) paslaugas Lietuvos Respublikoje tvarkos aprašo patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-18213",
+  "official_journal_page": null,
+  "official_journal_date": "2016-07-04",
+  "entry_into_force": "2016-07-05",
+  "notification_date": "2016-07-15",
+  "commission_reference": "MNE(2016)54874",
+  "nim_celex": "72013L0055LTU_239418",
+  "nim_id": "239418",
+  "transposes_celex": [
+    "32013L0055"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/890c855d-0b5b-42d5-a9e6-0be321db5d37",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
