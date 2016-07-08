@@ -59,8 +59,8 @@ A 13–15
 A 12–14
 6.
 Seimo Pirmininko pavaduotojo patarėjas, opozicijos lyderio patarėjas, Vyriausybės įgaliotinio pavaduotojas
-departamento direktoriaus pavaduoto-jas, valdybos direktoriaus pavaduoto-jas, komisijos ar tarybos sekretoriato vadovas, Seimo posėdžių sekretoriato vedėjas, skyriaus vedėjas (taikoma struktūriniam padaliniui, nesančiam kitame struktūrinia-me padalinyje), biuro vedėjas (Seimo kanceliarijo-je), vyresnysis patarėjas, Seimo nuolatinis atstovas Europos Sąjungoje, gynybos patarėjo pavaduoto-jas, teismo skyriaus pirmininko patarėjas
-ministras patarėjas, departamento direktoriaus pavaduoto-jas, skyriaus vedėjas (taikoma struktūriniam padaliniui, nesančiam kitame struktūrinia-me padalinyje)
+departamento direktoriaus pavaduotojas, valdybos direktoriaus pavaduotojas, komisijos ar tarybos sekretoriato vadovas, Seimo posėdžių sekretoriato vedėjas, skyriaus vedėjas (taikoma struktūriniam padaliniui, nesančiam kitame struktūrinia-me padalinyje), biuro vedėjas (Seimo kanceliarijo-je), vyresnysis patarėjas, Seimo nuolatinis atstovas Europos Sąjungoje, gynybos patarėjo pavaduotojas, teismo skyriaus pirmininko patarėjas, seniūnas (biudžetinės įstaigos vadovas)
+ministras patarėjas, departamento direktoriaus pavaduotojas, skyriaus vedėjas (taikoma struktūriniam padaliniui, nesančiam kitame struktūrinia-me padalinyje)
 departamento viršininko pavaduotojas, valdybos viršininko pavaduotojas, skyriaus viršininkas (taikoma struktūriniam padaliniui, nesančiam kitame struktūriniame padalinyje), biuro viršininkas (taikoma struktūriniam padaliniui, nesančiam kitame struktūriniame padalinyje), posto viršininkas
 A 15–17
 A 14–16
@@ -69,22 +69,22 @@ A 12–14
 A 11–13
 7.
 Respublikos Prezidento atstovas spaudai, Seimo Pirmininko atstovas spaudai, Ministro Pirmininko atstovas spaudai, savivaldybės tarybos sekretorius
-skyriaus vedėjas (taikoma struktūriniam padaliniui, esančiam kitame struktūrinia-me padalinyje), skyriaus vedėjo pavaduotojas (taikoma struktūriniam padaliniui, nesančiam kitame struktūrinia-me padalinyje), Seimo nuolatinio atstovo Europos Sąjungoje pavaduoto-jas, patarėjas, seniūnas (savivaldybė-je), teismo pirmininko padėjėjas, teisėjo padėjėjas, vyriausiojo prokuroro padėjėjas
+skyriaus vedėjas (taikoma struktūriniam padaliniui, esančiam kitame struktūrinia-me padalinyje), skyriaus vedėjo pavaduotojas (taikoma struktūriniam padaliniui, nesančiam kitame struktūrinia-me padalinyje), Seimo nuolatinio atstovo Europos Sąjungoje pavaduotojas, patarėjas, seniūnas (savivaldybės administracijos filialo vadovas), seniūno pavaduotojas (biudžetinės įstaigos vadovo pavaduotojas), teismo pirmininko padėjėjas, teisėjo padėjėjas, vyriausiojo prokuroro padėjėjas
 patarėjas, departamento patarėjas, skyriaus vedėjas (taikoma struktūriniam padaliniui, esančiam kitame struktūrinia-me padalinyje), skyriaus vedėjo pavaduotojas (taikoma struktūriniam padaliniui, nesančiam kitame struktūrinia-me padalinyje)
 skyriaus viršininkas (taikoma struktūriniam padaliniui, esančiam kitame struktūriniame padalinyje), tarnybos viršininkas, centro viršininkas, skyriaus viršininko pavaduotojas (taikoma struktūriniam padaliniui, nesančiam kitame struktūriniame padalinyje), biuro viršininko pavaduotojas (taikoma struktūriniam padaliniui, nesančiam kitame struktūriniame padalinyje), posto viršininko pavaduotojas
 A 14–16
 A 13–15
 A 12–14
-AA 11–13
+A 11–13
 A 10–12
 8.
-seniūnas (savivaldybė-je)
+seniūnas (savivaldybės administracijos filialo vadovas)
 B 11–13
 B 10–12
 9.
 Respublikos Prezidento patarėjo pavaduotojas, Respublikos Prezidento konsultantas, Seimo Pirmininko padėjėjas, ministro atstovas spaudai
-poskyrio vedėjas, skyriaus vedėjo pavaduotojas (taikoma struktūriniam padaliniui, esančiam kitame struktūrinia-me padalinyje), specialusis atašė, seniūno pavaduotojas (savivaldybė-je), vyriausiasis valstybinis auditorius, teismo konsultantas
-konsulas, pirmasis sekretorius, skyriaus patarėjas, skyriaus vedėjo pavaduotojas (taikoma struktūriniam padaliniui, esančiam kitame struktūrinia-me padalinyje)
+poskyrio vedėjas, skyriaus vedėjo pavaduotojas (taikoma struktūriniam padaliniui, esančiam kitame struktūriniame padalinyje), specialusis atašė, seniūno pavaduotojas (savivaldybės administracijos filialo vadovo pavaduotojas), vyriausiasis valstybinis auditorius, teismo konsultantas
+konsulas, pirmasis sekretorius, skyriaus patarėjas, skyriaus vedėjo pavaduotojas (taikoma struktūriniam padaliniui, esančiam kitame struktūriniame padalinyje)
 poskyrio viršininkas, posto pamainos viršininkas, kuopos vadas, skyriaus viršininko pavaduotojas (taikoma struktūriniam padaliniui, esančiam kitame struktūriniame padalinyje), tarnybos viršininko pavaduotojas, centro viršininko pavaduotojas, specialios paskirties būrio vado pavaduotojas, specialusis atašė, vyriausiasis tyrėjas
 A 13–15
 A 12–14
