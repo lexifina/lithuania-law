@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2016 m. liepos 4 d. įsakymas Nr. V-894 „Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2004 m. vasario 2 d. įsakymo Nr. V-43 „Dėl Gydytojo profesinės kvalifikacijos pripažinimo norint dirbti pagal gydytojo profesiją ar laikinai arba vienkartinai teikti medicinos paslaugas Lietuvos Respublikoje tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-19449",
+  "official_journal_page": null,
+  "official_journal_date": "2016-07-08",
+  "entry_into_force": "2016-07-09",
+  "notification_date": "2016-07-15",
+  "commission_reference": "MNE(2016)54883",
+  "nim_celex": "72013L0055LTU_239427",
+  "nim_id": "239427",
+  "transposes_celex": [
+    "32013L0055"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/93accf2e-9b33-4a2b-adcc-d3b7f4c08524",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
