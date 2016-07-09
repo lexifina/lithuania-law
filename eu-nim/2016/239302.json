@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos švietimo ir mokslo ministro 2016 m. liepos 8 d. įsakymas Nr. V-634 „Dėl profesinės kvalifikacijos pripažinimo, norint dirbti ar laikinai ir kartais teikti paslaugas Lietuvos Respublikoje pagal reglamentuojamą profesiją, priskirtą Lietuvos Respublikos švietimo ir mokslo ministerijos kompetencijai, tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-19496",
+  "official_journal_page": null,
+  "official_journal_date": "2016-07-08",
+  "entry_into_force": "2016-07-09",
+  "notification_date": "2016-07-14",
+  "commission_reference": "MNE(2016)54793",
+  "nim_celex": "72013L0055LTU_239302",
+  "nim_id": "239302",
+  "transposes_celex": [
+    "32013L0055"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/491fe4e0-d8c0-489d-a02b-93a3d9e8176e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
