@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo kodekso 7, 213, 217, 218, 224-1 straipsnių ir priedo pakeitimo įstatymas Nr. XII-2554",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-20291",
+  "official_journal_page": null,
+  "official_journal_date": "2016-07-13",
+  "entry_into_force": "2016-07-14",
+  "notification_date": "2016-08-01",
+  "commission_reference": "MNE(2016)54927",
+  "nim_celex": "72014L0057LTU_239493",
+  "nim_id": "239493",
+  "transposes_celex": [
+    "32014L0057"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/34d0e3c7-cf3d-4ea4-abdc-ff36932ed1c7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
