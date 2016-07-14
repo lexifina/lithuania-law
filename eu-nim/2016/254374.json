@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių nusižengimų kodekso 235, 356, 357, 360, 361, 362, 363, 364, 589 straipsnių pakeitimo ir Kodekso papildymo 356-1, 356-2, 364-1 straipsniais įstatymas Nr. XII-2581",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-20334",
+  "official_journal_page": null,
+  "official_journal_date": "2016-07-14",
+  "entry_into_force": "2016-07-14",
+  "notification_date": "2018-01-09",
+  "commission_reference": "MNE(2018)50180",
+  "nim_celex": "72015L2193LTU_254374",
+  "nim_id": "254374",
+  "transposes_celex": [
+    "32015L2193"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9f1f3a08-d226-4248-82f3-a081b84eb42f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
