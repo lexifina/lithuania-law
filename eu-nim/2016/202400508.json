@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 pakeitimo įstatymas Nr. XII-2534",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-20555",
+  "official_journal_page": null,
+  "official_journal_date": "2016-07-14",
+  "entry_into_force": "2016-07-15",
+  "notification_date": "2024-01-29",
+  "commission_reference": "MNE(2024)00508",
+  "nim_celex": "72021L1883LTU_202400508",
+  "nim_id": "202400508",
+  "transposes_celex": [
+    "32021L1883"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/08fe1ab2-be4a-485e-8acf-e888f7f52004",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
