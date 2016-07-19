@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2016 m. liepos 14 d. įsakymas Nr. A1-353 „Dėl Kompleksinės pagalbos teikimo vaikams, galimai nukentėjusiems nuo seksualinio išnaudojimo, rekomendacijų patvirtinimo“ (Suvestinė redakcija nuo 2018-08-03)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-20721",
+  "official_journal_page": null,
+  "official_journal_date": "2016-07-18",
+  "entry_into_force": "2016-07-19",
+  "notification_date": "2019-05-08",
+  "commission_reference": "MNE(2019)52808",
+  "nim_celex": "72012L0029LTU_272601",
+  "nim_id": "272601",
+  "transposes_celex": [
+    "32012L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/23f9ff0d-fc8c-433c-b711-94286f3d31f3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
