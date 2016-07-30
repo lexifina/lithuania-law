@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro  2016 m. liepos 28 d. įsakymas Nr. 3-266(1.5 E) \"Dėl Lietuvos Respublikos susisiekimo ministro 2006 m. liepos 17 d. įsakymo Nr. 3-297 \"Dėl Geležinkelių transporto eismo saugos valdymo sistemų reikalavimų aprašo patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-21106",
+  "official_journal_page": null,
+  "official_journal_date": "2016-07-29",
+  "entry_into_force": "2016-07-30",
+  "notification_date": "2016-08-04",
+  "commission_reference": "MNE(2016)55129",
+  "nim_celex": "72016L0882LTU_239738",
+  "nim_id": "239738",
+  "transposes_celex": [
+    "32016L0882"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5024207b-561e-40c2-b725-f314859787bd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
