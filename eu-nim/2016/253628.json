@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 1, 6, 32, 32-1, 32-2, 33, 34 straipsnių pakeitimo ir Įstatymo papildymo 32-3 straipsniu įstatymas Nr. XII-2358",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-13919",
+  "official_journal_page": null,
+  "official_journal_date": "2016-05-24",
+  "entry_into_force": "2016-08-01",
+  "notification_date": "2017-12-18",
+  "commission_reference": "MNE(2017)56902",
+  "nim_celex": "72013L0030LTU_253628",
+  "nim_id": "253628",
+  "transposes_celex": [
+    "32013L0030"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1424702b-ca72-4d2e-b3b1-c9b18661d679",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
