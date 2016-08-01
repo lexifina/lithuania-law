@@ -1,0 +1,4 @@
+1996 m. rugpjūčio 15 d. Nr. I-1495
+Vilnius
+I SKYRIUS
+BENDROSIOS NUOSTATOS
