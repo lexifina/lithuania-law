@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-1005 12, 39-5, 39-6 ir 55 straipsnių pakeitimo įstatymas Nr. XII-2298",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-10402",
+  "official_journal_page": null,
+  "official_journal_date": "2016-04-26",
+  "entry_into_force": "2016-08-01",
+  "notification_date": "2018-01-09",
+  "commission_reference": "MNE(2018)50173",
+  "nim_celex": "72015L2193LTU_254367",
+  "nim_id": "254367",
+  "transposes_celex": [
+    "32015L2193"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a5ac6110-4d29-4b52-a476-8d99fada6acf",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
