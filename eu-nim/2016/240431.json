@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos krašto apsaugos ministro  2016 m. rugpjūčio 19 d. įsakymas Nr. V-775 „Dėl Lietuvos Respublikos krašto apsaugos ministro 2009 m. gruodžio 29 d. įsakymo Nr. V-1216 „Dėl Bendrojo karinės įrangos sąrašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-22482",
+  "official_journal_page": null,
+  "official_journal_date": "2016-08-19",
+  "entry_into_force": "2016-08-20",
+  "notification_date": "2016-09-02",
+  "commission_reference": "MNE(2016)55587",
+  "nim_celex": "72016L0970LTU_240431",
+  "nim_id": "240431",
+  "transposes_celex": [
+    "32016L0970"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fe8a3bee-1011-424d-8ef0-7dda9f4c1e14",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
