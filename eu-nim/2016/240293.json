@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro 2016 m. rugpjūčio 25 d. įsakymas Nr. 1V-587 \"Dėl 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyvos 2014/62/ES dėl euro ir kitų valiutų apsaugos nuo padirbinėjimo baudžiamosios teisės priemonėmis, kuria pakeičiamas Tarybos pamatinis sprendimas 2000/383/TVR, 11 straipsnio įgyvendinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-22640",
+  "official_journal_page": null,
+  "official_journal_date": "2016-08-25",
+  "entry_into_force": "2016-08-26",
+  "notification_date": "2016-09-07",
+  "commission_reference": "MNE(2016)55508",
+  "nim_celex": "72014L0062LTU_240293",
+  "nim_id": "240293",
+  "transposes_celex": [
+    "32014L0062"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0f19d61a-7de9-4c19-b15e-26e344b7055f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
