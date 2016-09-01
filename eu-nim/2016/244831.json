@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos švietimo įstatymo Nr. I-1489 2, 7, 8, 9, 24, 27, 36, 37, 43, 46 ir 47 straipsnių pakeitimo įstatymas  Nr. XII-2213",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "2016-00366",
+  "official_journal_page": null,
+  "official_journal_date": "2016-01-06",
+  "entry_into_force": "2016-09-01",
+  "notification_date": "2017-01-31",
+  "commission_reference": "MNE(2017)50771",
+  "nim_celex": "72014L0036LTU_244831",
+  "nim_id": "244831",
+  "transposes_celex": [
+    "32014L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7364db8c-e7c8-4ae3-9e8e-a51d155a421f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
