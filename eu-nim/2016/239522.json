@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 1, 11, 16, 17, 18, 25 straipsnių, trečiojo skirsnio pavadinimo ir Įstatymo priedo pakeitimo įstatymas Nr. XII-2357",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-13918",
+  "official_journal_page": null,
+  "official_journal_date": "2016-05-24",
+  "entry_into_force": "2016-09-01",
+  "notification_date": "2016-07-20",
+  "commission_reference": "MNE(2016)54956",
+  "nim_celex": "72014L0054LTU_239522",
+  "nim_id": "239522",
+  "transposes_celex": [
+    "32014L0054"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5a39e327-4190-42b0-b2b2-2f2fd508567f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
