@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės maisto ir veterinarijos tarnybos direktoriaus 2016 rugpjūčio 26 d. įsakymas Nr. B1-678 „Dėl Labdarai ir paramai skirto maisto tvarkymo aprašo patvirtinimo“ (suvestinė redakcija nuo 2018-09-11)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-22755",
+  "official_journal_page": null,
+  "official_journal_date": "2016-08-26",
+  "entry_into_force": "2016-09-01",
+  "notification_date": "2020-12-02",
+  "commission_reference": "MNE(2020)58304",
+  "nim_celex": "72018L0851LTU_290255",
+  "nim_id": "290255",
+  "transposes_celex": [
+    "32018L0851"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/280d782f-ab4d-4e23-863c-658a1836e6de",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
