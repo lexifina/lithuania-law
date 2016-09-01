@@ -25,3 +25,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2011-07-13 | 2013-06-27 | Įstatymas Nr. IX-2228 / Įstatymas Nr. XI-1488 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22IvcLlIXtbD%22) |
 | 2013-06-28 | 2014-09-30 | Įstatymas Nr. XII-355 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22JVFKAWMEvk%22) |
 | 2014-10-01 | 2016-08-31 | Įstatymas Nr. XII-471 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22OzxwpqisAN%22) |
+| 2016-09-01 | 2016-10-06 | Įstatymas Nr. IX-2228 / Įstatymas Nr. XII-2357 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22kiuEBswmVU%22) |
