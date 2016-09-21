@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2016 m. rugsėjo 21 d. nutarimas dėl Lietuvos Respublikos Vyriausybės 2011 m. spalio 5 d. nutarimo Nr. 1166 „Dėl Anglies dioksido geologinių saugyklų kompleksų žvalgybos, anglies dioksido geologinių saugyklų naudojimo ir uždarymo tvarkos aprašo patvirtinimo“ pakeitimo",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "24017",
+  "official_journal_page": null,
+  "official_journal_date": "2016-09-23",
+  "entry_into_force": "2016-09-21",
+  "notification_date": "2016-10-14",
+  "commission_reference": "MNE(2016)56287",
+  "nim_celex": "72009L0031LTU_241341",
+  "nim_id": "241341",
+  "transposes_celex": [
+    "32009L0031"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/09bd18d7-2290-449e-84a1-34f4da1940de",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
