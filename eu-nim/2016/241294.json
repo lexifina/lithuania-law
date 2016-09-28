@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 1, 2, 5, 6, 8, 12, 20 straipsnių ir priedo pakeitimo įstatymas Nr. XII-2627",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "Nr. 24161",
+  "official_journal_page": null,
+  "official_journal_date": "2016-09-28",
+  "entry_into_force": "2016-09-28",
+  "notification_date": "2016-11-16",
+  "commission_reference": "MNE(2016)56251",
+  "nim_celex": "72014L0054LTU_241294",
+  "nim_id": "241294",
+  "transposes_celex": [
+    "32014L0054"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a52c2903-5619-4d69-985f-ca72c4e59204",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
