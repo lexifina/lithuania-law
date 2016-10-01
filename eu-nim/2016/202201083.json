@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2016 m. birželio 21 d. įsakymas Nr. 1V-698 „Dėl Nacionalinės radijo dažnių paskirstymo lentelės patvirtinimo“ (suvestinė redakcija nuo 2021 m. gruodžio 23 d.)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-17352",
+  "official_journal_page": null,
+  "official_journal_date": "2016-06-21",
+  "entry_into_force": "2016-10-01",
+  "notification_date": "2022-02-25",
+  "commission_reference": "MNE(2022)01083",
+  "nim_celex": "72018L1972LTU_202201083",
+  "nim_id": "202201083",
+  "transposes_celex": [
+    "32018L1972"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6d92cace-8447-40de-890f-6e1c6d20d3c2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
