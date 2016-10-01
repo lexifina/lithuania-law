@@ -15,3 +15,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2015-07-08 | 2015-07-31 | Įstatymas Nr. XII-1897 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22rxDqjFSCrA%22) |
 | 2015-08-01 | 2015-12-31 | Įstatymas Nr. XII-1454 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22ndZnMGwCfz%22) |
 | 2016-01-01 | 2016-09-30 | Įstatymas Nr. XII-1897 / Įstatymas Nr. XII-1985 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22qGpMBjPOfw%22) |
+| 2016-10-01 | 2016-12-31 | Įstatymas Nr. XII-2038 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22LVRJfoSRDy%22) |
