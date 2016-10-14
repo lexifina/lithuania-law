@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos teisingumo ministro 2016 m. spalio 14 d. įsakymas Nr. 1R-274 „Dėl nacionalinio korespondento paskyrimo įgyvendinant 2016 m. birželio 8 d. Europos Parlamento ir Tarybos direktyvą (ES) 2016/943 dėl neatskleistos praktinės patirties ir verslo informacijos (komercinių paslapčių) apsaugos nuo neteisėto jų gavimo, naudojimo ir atskleidimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Informaciniai pranešimai",
+  "official_journal_reference": "1R-274/2016",
+  "official_journal_page": null,
+  "official_journal_date": "2016-10-14",
+  "entry_into_force": "2016-10-14",
+  "notification_date": "2018-05-22",
+  "commission_reference": "MNE(2018)52556",
+  "nim_celex": "72016L0943LTU_258900",
+  "nim_id": "258900",
+  "transposes_celex": [
+    "32016L0943"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8ce3ccf0-0f42-4dd1-bc97-d11c1ea10aa8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
