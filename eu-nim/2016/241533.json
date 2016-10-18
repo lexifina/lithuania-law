@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių teisės pažeidimų kodekso 1524, 2411 ir 246 straipsnių pakeitimo įstatymas Nr. XII-2671",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "25267",
+  "official_journal_page": null,
+  "official_journal_date": "2016-10-17",
+  "entry_into_force": "2016-10-18",
+  "notification_date": "2016-10-21",
+  "commission_reference": "MNE(2016)56438",
+  "nim_celex": "72014L0053LTU_241533",
+  "nim_id": "241533",
+  "transposes_celex": [
+    "32014L0053"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/16f3c72a-6b5b-4b19-bdd3-b7902f52efe7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
