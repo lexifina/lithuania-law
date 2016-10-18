@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių nusižengimų kodekso 467 straipsnio ir priedo pakeitimo įstatymas",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "25270",
+  "official_journal_page": null,
+  "official_journal_date": "2016-10-17",
+  "entry_into_force": "2016-10-18",
+  "notification_date": "2016-10-21",
+  "commission_reference": "MNE(2016)56437",
+  "nim_celex": "72014L0053LTU_241532",
+  "nim_id": "241532",
+  "transposes_celex": [
+    "32014L0053"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0f779b26-a85a-46bf-af7a-5f3993d8591d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
