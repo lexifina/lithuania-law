@@ -5,7 +5,7 @@ elektroninių ryšių įstatymo
 1. 1997 m. lapkričio 28 d. Tarybos sprendimas 97/838/EB dėl Europos bendrijos pritarimo, kiek tai susiję su jos kompetencija, PPO derybų dėl pagrindinių telekomunikacijų paslaugų rezultatams (OL 2004 m. specialusis leidimas, 11 skyrius, 27 tomas, p. 69).
 2. 1998 m. kovo 30 d. Europos Komisijos rekomendacija dėl principų, taikomų organizacijoms, atsakingoms už vartotojų ginčų sprendimą ne teismo tvarka.
 3. 1998 m. lapkričio 20 d. Europos Parlamento ir Tarybos direktyva 98/84/EB dėl sąlygine prieiga grindžiamų paslaugų ir sąlyginės prieigos paslaugų teisinės apsaugos (OL 2004 m. specialusis leidimas, 6 skyrius, 3 tomas, p. 147).
-4. 1999 m. kovo 9 d. Europos Parlamento ir Tarybos direktyva 1999/5/EB dėl radijo ryšio įrenginių ir telekomunikacijų galinių įrenginių bei abipusio jų atitikties pripažinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 23 tomas, p. 254).
+4. Neteko galios nuo 2016-10-18
 5. 2002 m. kovo 7 d. Europos Parlamento ir Tarybos sprendimas Nr. 676/2002/EB dėl radijo spektro politikos teisinio reguliavimo pagrindų Europos bendrijoje (Sprendimas dėl radijo spektro) (OL 2004 m. specialusis leidimas, 13 skyrius, 29 tomas, p. 317).
 6. 2002 m. kovo 7 d. Europos Parlamento ir Tarybos direktyva 2002/19/EB dėl elektroninių ryšių tinklų ir susijusių priemonių sujungimo ir prieigos prie jų (Prieigos direktyva) (OL 2004 m. specialusis leidimas, 13 skyrius, 29 tomas, p. 323) su paskutiniais pakeitimais, padarytais 2009 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva 2009/140/EB (OL 2009 L 337, p. 37).
 7. 2002 m. kovo 7 d. Europos Parlamento ir Tarybos direktyva 2002/20/EB dėl elektroninių ryšių tinklų ir paslaugų leidimo (Leidimų direktyva) (OL 2004 m. specialusis leidimas, 13 skyrius, 29 tomas, p. 337) su paskutiniais pakeitimais, padarytais 2009 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva 2009/140/EB (OL 2009 L 337, p. 37).
@@ -15,6 +15,8 @@ elektroninių ryšių įstatymo
 11. 2002 m. rugsėjo 16 d. Komisijos direktyva 2002/77/EB dėl konkurencijos elektroninių ryšių tinklų ir paslaugų rinkoje (OL 2004 m. specialusis leidimas, 8 skyrius, 2 tomas, p. 178).
 12. 2003 m. liepos 25 d. Europos Komisijos rekomendacija dėl vietos nustatymo informacijos elektroninių ryšių tinkluose siekiant teikti vietos nustatymu pagrįstas pagalbos skambučių paslaugas tvarkymo.
 13. 2004 m. spalio 27 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 2006/2004 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo (OL 2004 L 364, p. 1).
-14. 2004 m. gruodžio 15 d. Europos Parlamento ir Tarybos direktyva 2004/108/EB dėl valstybių narių įstatymų, susijusių su elektromagnetiniu suderinamumu, suderinimo, panaikinanti Direktyvą 89/336/EEB (OL 2004 L 390, p. 24).
+14. Neteko galios nuo 2016-10-18
 15. 2008 m. birželio 20 d. Europos Komisijos direktyva 2008/63/EB dėl konkurencijos telekomunikacijų galinių įrenginių rinkose (OL 2008 L 162, p. 20).
 16. 2013 m. birželio 24 d. Komisijos reglamentas (ES) Nr. 611/2013 dėl priemonių, kurios pagal Europos Parlamento ir Tarybos direktyvą 2002/58/EB dėl privatumo ir elektroninių ryšių taikomos pranešimams apie asmens duomenų saugumo pažeidimus (OL 2013 L 173, p. 2).
+17. 2014 m. vasario 26 d. Europos Parlamento ir Tarybos direktyva 2014/30/ES dėl valstybių narių įstatymų, susijusių su elektromagnetiniu suderinamumu, suderinimo (nauja redakcija) (OL 2014 L 96, p. 79).
+18. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/53/ES dėl valstybių narių įstatymų, susijusių su radijo įrenginių tiekimu rinkai, suderinimo, kuria panaikinama Direktyva 1999/5/EB (OL 2014 L 153, p. 62).
