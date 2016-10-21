@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos įstatymas dėl Konvencijos dėl darbo žvejybos sektoriuje ratifikavimo Nr. XII-2664",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-25453",
+  "official_journal_page": null,
+  "official_journal_date": "2016-10-20",
+  "entry_into_force": "2016-10-21",
+  "notification_date": "2020-03-02",
+  "commission_reference": "MNE(2020)50885",
+  "nim_celex": "72017L0159LTU_280753",
+  "nim_id": "280753",
+  "transposes_celex": [
+    "32017L0159"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9ccedc23-5f7b-11ea-b735-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
