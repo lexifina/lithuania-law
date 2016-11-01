@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 55 ir 78 straipsnių pakeitimo įstatymas Nr. XII-2444",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-17729",
+  "official_journal_page": null,
+  "official_journal_date": "2016-06-27",
+  "entry_into_force": "2016-11-01",
+  "notification_date": "2018-04-05",
+  "commission_reference": "MNE(2018)51795",
+  "nim_celex": "72017L1132LTU_257656",
+  "nim_id": "257656",
+  "transposes_celex": [
+    "32017L1132"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8139f794-9e19-4e6c-85e1-35df1c500332",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
