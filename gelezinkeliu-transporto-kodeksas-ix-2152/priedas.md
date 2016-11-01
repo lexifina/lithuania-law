@@ -9,3 +9,5 @@ priedas
 5. 2007 m. spalio 23 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1370/2007 dėl keleivinio geležinkelių ir kelių transporto viešųjų paslaugų ir panaikinantis Tarybos reglamentus (EEB) Nr. 1191/69 ir (EEB) Nr. 1107/70 (OL 2007 L 315, p. 1).
 6. 2007 m. spalio 23 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1371/2007 dėl geležinkelių keleivių teisių ir pareigų (OL 2007 L 315, p. 14).
 7. 2010 m. rugsėjo 22 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 913/2010 dėl konkurencingo krovinių vežimo Europos geležinkeliais tinklo (OL 2010 L 276, p. 22) su paskutiniais pakeitimais, padarytais 2013 m. gruodžio 11 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1316/2013 (OL 2013 L 348, p. 129).
+8. 2012 m. lapkričio 21 d. Europos Parlamento ir Tarybos direktyva 2012/34/ES, kuria sukuriama bendra Europos geležinkelių erdvė (OL 2012 L 343, p. 32).
+9. 2015 m. liepos 7 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 2015/1100 dėl valstybių narių pareigų teikti geležinkelių rinkos stebėjimo ataskaitas (OL 2015 L 181, p. 1).
