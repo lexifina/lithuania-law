@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 1, 3 ir 5 priedų pakeitimo įstatymas Nr. XII-2347",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-13914",
+  "official_journal_page": null,
+  "official_journal_date": "2016-05-24",
+  "entry_into_force": "2016-11-01",
+  "notification_date": "2017-05-09",
+  "commission_reference": "MNE(2017)52441",
+  "nim_celex": "72015L0719LTU_247423",
+  "nim_id": "247423",
+  "transposes_celex": [
+    "32015L0719"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c711e7a1-fef5-4a56-aa92-fe6e721373c8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
