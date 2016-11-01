@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2016 m. birželio 15 d. įsakymas Nr. V-830 „Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2004 m. rugsėjo 9 d. įsakymo Nr. V-632 „Dėl Žmogaus kraujodaros kamieninių ląstelių transplantacijos paslaugų, apmokamų iš žmogaus organų ir audinių transplantacijos paprastųjų išlaidų finansavimo programos lėšų, teikimo reikalavimų, bazinių kainų ir mokėjimo tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-19464",
+  "official_journal_page": null,
+  "official_journal_date": "2016-07-08",
+  "entry_into_force": "2016-11-01",
+  "notification_date": "2017-02-15",
+  "commission_reference": "MNE(2017)50996",
+  "nim_celex": "72006L0017LTU_245150",
+  "nim_id": "245150",
+  "transposes_celex": [
+    "32006L0017"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7f102e9e-b159-4ff4-9452-0f134a66b166",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
