@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos geležinkelių transporto kodekso 3, 4, 41, 7, 11, 14, 23, 24, 25, 28, 29 straipsnių, priedo pakeitimo ir Kodekso papildymo 61, 71 straipsniais, ketvirtuoju1 skirsniu įstatymą Nr. XII-2488",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-18458",
+  "official_journal_page": null,
+  "official_journal_date": "2016-07-04",
+  "entry_into_force": "2016-11-01",
+  "notification_date": "2019-03-14",
+  "commission_reference": "MNE(2019)51411",
+  "nim_celex": "72016L2370LTU_270079",
+  "nim_id": "270079",
+  "transposes_celex": [
+    "32016L2370"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1c7ecbff-ab97-4349-8b73-ecf3116e182f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
