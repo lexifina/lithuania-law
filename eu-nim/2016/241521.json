@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2016 m. rugsėjo 28 d. nutarimas Nr. 957 „Dėl Lietuvos Respublikos Vyriausybės 1999 m. gegužės 20 d. nutarimo Nr. 617 „Dėl Keitimosi informacija apie standartus, techninius reglamentus ir atitikties įvertinimo procedūras taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "24255",
+  "official_journal_page": null,
+  "official_journal_date": "2016-09-29",
+  "entry_into_force": "2016-11-01",
+  "notification_date": "2016-10-20",
+  "commission_reference": "MNE(2016)56427",
+  "nim_celex": "72015L1535LTU_241521",
+  "nim_id": "241521",
+  "transposes_celex": [
+    "32015L1535"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/864a05f5-b689-471a-943c-75005663ef2a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
