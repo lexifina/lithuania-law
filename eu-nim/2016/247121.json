@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos triukšmo valdymo įstatymo Nr. IX-2499 2, 5, 7, 8, 9, 11, 13, 14, 17, 18, 24, 26, 27, 29 straipsnių pakeitimo ir 19, 20 straipsnių pripažinimo netekusiais galios įstatymas Nr. XII-2341",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-13907",
+  "official_journal_page": null,
+  "official_journal_date": "2016-05-24",
+  "entry_into_force": "2016-11-01",
+  "notification_date": "2017-04-25",
+  "commission_reference": "MNE(2017)52286",
+  "nim_celex": "72002L0049LTU_247121",
+  "nim_id": "247121",
+  "transposes_celex": [
+    "32002L0049"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4fbbef31-6e75-4340-bfe3-0cdece2fce60",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
