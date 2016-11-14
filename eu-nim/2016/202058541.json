@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 7, 22, 31, 35, 39, 51, 59, 67, 69 straipsnių ir priedo pakeitimo įstatymas Nr. XII-2704",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-26485",
+  "official_journal_page": null,
+  "official_journal_date": "2016-11-08",
+  "entry_into_force": "2016-11-14",
+  "notification_date": "2020-12-10",
+  "commission_reference": "MNE(2020)58541",
+  "nim_celex": "72018L2002LTU_202058541",
+  "nim_id": "202058541",
+  "transposes_celex": [
+    "32018L2002"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c24d5b00-c659-4857-b994-2b83114c86df",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
