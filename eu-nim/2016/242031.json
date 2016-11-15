@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 2, 11, 12, 14 ir 16 straipsnių pakeitimo įstatymas",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-26486",
+  "official_journal_page": null,
+  "official_journal_date": "2016-11-09",
+  "entry_into_force": "2016-11-15",
+  "notification_date": "2016-11-15",
+  "commission_reference": "MNE(2016)56807",
+  "nim_celex": "72012L0027LTU_242031",
+  "nim_id": "242031",
+  "transposes_celex": [
+    "32012L0027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b21a2339-ad68-4353-a89b-fc7a464ed304",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
