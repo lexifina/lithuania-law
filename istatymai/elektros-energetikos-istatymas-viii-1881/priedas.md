@@ -11,3 +11,4 @@ priedas
 6. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 714/2009 dėl prieigos prie tarpvalstybinių elektros energijos mainų tinklo sąlygų, panaikinantis Reglamentą (EB) Nr. 1228/2003 (OL 2009 L 211, p. 15).
 7. 2010 m. birželio 24 d. Tarybos reglamentas (ES, Euratomas) Nr. 617/2010 dėl pranešimo Komisijai apie energetikos infrastruktūros investicinius projektus Europos Sąjungoje ir dėl Reglamento (EB) Nr. 736/96 panaikinimo (OL 2010 L 180, p. 7).
 8. 2010 m. rugsėjo 21 d. Komisijos reglamentas (ES, Euratomas) Nr. 833/2010, kuriuo įgyvendinamas Tarybos reglamentas (ES, Euratomas) Nr. 617/2010 dėl pranešimo Komisijai apie energetikos infrastruktūros investicinius projektus Europos Sąjungoje (OL 2010 L 248, p. 36).
+9. 2014 m. spalio 22 d. Europos Parlamento ir Tarybos direktyva 2014/94/ES dėl alternatyviųjų degalų infrastruktūros diegimo (OL 2014 L 307, p. 1).
