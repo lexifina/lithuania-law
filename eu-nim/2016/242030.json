@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energijos vartojimo efektyvumo didinimo įstatymas",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-26481",
+  "official_journal_page": null,
+  "official_journal_date": "2016-11-09",
+  "entry_into_force": "2016-11-15",
+  "notification_date": "2016-11-15",
+  "commission_reference": "MNE(2016)56806",
+  "nim_celex": "72012L0027LTU_242030",
+  "nim_id": "242030",
+  "transposes_celex": [
+    "32012L0027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/50029f1a-b09c-478e-828e-b65701bbe184",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
