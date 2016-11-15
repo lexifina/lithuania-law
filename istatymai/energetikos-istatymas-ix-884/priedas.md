@@ -17,3 +17,4 @@ Lietuvos Respublikos energetikos įstatymo priedas
 14. 2010 m. gegužės 19 d. Europos Parlamento ir Tarybos direktyva 2010/30/ES dėl su energija susijusių gaminių suvartojamos energijos ir kitų išteklių nurodymo ženklinant gaminį ir apie jį pateikiant standartinę informaciją (OL 2010 L 153, p. 1).
 15. 2010 m. gegužės 19 d. Europos Parlamento ir Tarybos direktyva 2010/31/ES dėl pastatų energinio naudingumo (OL 2010 L 153, p. 13).
 16. 2011 m. spalio 25 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1227/2011 dėl didmeninės energijos rinkos vientisumo ir skaidrumo (OL 2011 L 326, p. 1).
+17. 2012 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2012/27/ES dėl energijos vartojimo efektyvumo, kuria iš dalies keičiamos direktyvos 2009/125/EB ir 2010/30/ES bei kuria panaikinamos direktyvos 2004/8/EB ir 2006/32/EB (OL 2012 L 315, p. 1).
