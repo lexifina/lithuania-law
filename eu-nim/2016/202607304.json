@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energijos vartojimo efektyvumo didinimo įstatymas Nr. XII-2702 (suvestinė redakcija nuo 2025-10-01)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-26481",
+  "official_journal_page": null,
+  "official_journal_date": "2016-11-09",
+  "entry_into_force": "2016-11-15",
+  "notification_date": "2026-09-18",
+  "commission_reference": "MNE(2026)07304",
+  "nim_celex": "72024L1275LTU_202607304",
+  "nim_id": "202607304",
+  "transposes_celex": [
+    "32024L1275"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/dbd550bb-9666-4193-b1b7-3f1b89dcc9ac",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
