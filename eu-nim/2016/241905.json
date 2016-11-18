@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2016 m. lapkričio 4 d. įsakymas Nr. 1-294 „Dėl Lietuvos Respublikos energetikos ministro 2012 m. vasario 3 d. įsakymo Nr. 1-22 „Dėl Elektros įrenginių įrengimo bendrųjų taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-26483",
+  "official_journal_page": null,
+  "official_journal_date": "2016-11-09",
+  "entry_into_force": "2016-11-18",
+  "notification_date": "2016-11-16",
+  "commission_reference": "MNE(2016)56700",
+  "nim_celex": "72014L0094LTU_241905",
+  "nim_id": "241905",
+  "transposes_celex": [
+    "32014L0094"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/805103eb-71ec-4328-aff0-ec7efd88e95f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
