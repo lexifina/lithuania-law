@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 3, 5, 11-1, 22, 25-2, 34 straipsnių ir 3 priedo pakeitimo įstatymas Nr. XII-2770",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-26969",
+  "official_journal_page": null,
+  "official_journal_date": "2016-11-17",
+  "entry_into_force": "2016-11-18",
+  "notification_date": "2016-11-30",
+  "commission_reference": "MNE(2016)57166",
+  "nim_celex": "72014L0017LTU_242867",
+  "nim_id": "242867",
+  "transposes_celex": [
+    "32014L0017"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/53f5b569-da63-4e63-9de7-1bf0d68be460",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
