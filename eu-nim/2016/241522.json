@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2016 m. spalio 5 d. įsakymas Nr. 1-263 \"Dėl Lietuvos Respublikos energetikos ministro 2009 m. balandžio 16 d. įsakymo Nr. 1-37 „Dėl Degalinių eksploatavimo taisyklių patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-24591",
+  "official_journal_page": null,
+  "official_journal_date": "2016-10-05",
+  "entry_into_force": "2016-11-18",
+  "notification_date": "2016-10-20",
+  "commission_reference": "MNE(2016)56428",
+  "nim_celex": "72014L0094LTU_241522",
+  "nim_id": "241522",
+  "transposes_celex": [
+    "32014L0094"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2ab095c1-f09b-4b8c-8547-e41aa10d7568",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
