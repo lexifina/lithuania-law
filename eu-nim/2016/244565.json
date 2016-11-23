@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2016 m. lapkričio 16 d. nutarimu Nr. 1141 „Dėl Lietuvos Respublikos Vyriausybės 2009 m. gruodžio 16 d. nutarimo Nr. 1725 „Dėl valstybės paramos daugiabučiams namams atnaujinti (modernizuoti) teikimo ir daugiabučių namų atnaujinimo (modernizavimo) projektų įgyvendinimo priežiūros taisyklių patvirtinimo ir daugiabučio namo atnaujinimo (modernizavimo) projektui įgyvendinti skirto kaupiamojo įnašo ir (ar) kitų įmokų didžiausios mėnesinės įmokos nustatymo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-27231",
+  "official_journal_page": null,
+  "official_journal_date": "2016-11-22",
+  "entry_into_force": "2016-11-23",
+  "notification_date": "2017-01-23",
+  "commission_reference": "MNE(2017)50536",
+  "nim_celex": "72014L0017LTU_244565",
+  "nim_id": "244565",
+  "transposes_celex": [
+    "32014L0017"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b22a738a-539a-4df6-b451-61cba91b4912",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
