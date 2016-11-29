@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2016 m. lapkričio 24 d. įsakymas Nr. 1-311 \"Dėl Lietuvos Respublikos energetikos ministro 2010 m. vasario 11 d. įsakymo Nr. 1-38 \"Dėl Elektros energijos tiekimo ir naudojimo taisyklių patvirtinimo\"pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-28162",
+  "official_journal_page": null,
+  "official_journal_date": "2016-12-05",
+  "entry_into_force": "2016-11-29",
+  "notification_date": "2016-12-06",
+  "commission_reference": "MNE(2016)57388",
+  "nim_celex": "72012L0027LTU_243168",
+  "nim_id": "243168",
+  "transposes_celex": [
+    "32012L0027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9b74ae40-f071-4506-ac34-a25bd0320a67",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
