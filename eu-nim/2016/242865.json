@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 2, 9, 18, 31, 32, 33, 34, 35, 124, 152, 167, 168, 170, 171, 173, 174 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 11-1, 14-1, 32-1, 163-1 straipsniais ir Kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 170 straipsnio pakeitimo įstatymo Nr. XII-2453 pripažinimo netekusiu galios įstatymas Nr. XII-2773",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-26974",
+  "official_journal_page": null,
+  "official_journal_date": "2016-11-17",
+  "entry_into_force": "2016-12-01",
+  "notification_date": "2016-11-30",
+  "commission_reference": "MNE(2016)57164",
+  "nim_celex": "72014L0091LTU_242865",
+  "nim_id": "242865",
+  "transposes_celex": [
+    "32014L0091"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/520092a7-68ab-498f-bf66-2ee8eb0edcd1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
