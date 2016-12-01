@@ -10,3 +10,4 @@
 8. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/24/EB dėl kompiuterių programų teisinės apsaugos (kodifikuota redakcija) (OL 2009 L 111, p. 16).
 9. 2011 m. rugsėjo 27 d. Europos Parlamento ir Tarybos direktyva 2011/77/ES, kuria iš dalies keičiama Direktyva 2006/116/EB dėl autorių ir tam tikrų gretutinių teisių apsaugos terminų (OL 2011 L 265, p. 1).
 10. 2012 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2012/28/ES dėl tam tikro leistino nenustatytų teisių turėtojų kūrinių naudojimo (OL 2012 L 299, p. 5).
+11. 2014 m. vasario 26 d. Europos Parlamento ir Tarybos direktyva 2014/26/ES dėl kolektyvinio autorių teisių ir gretutinių teisių administravimo ir daugiateritorių licencijų naudoti muzikos kūrinius internete teikimo vidaus rinkoje (OL 2014 L 84, p. 72).
