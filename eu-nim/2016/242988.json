@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro 2016 m. lapkričio 29 d. įsakymas Nr. 4-739",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "4-739/2016",
+  "official_journal_page": null,
+  "official_journal_date": "2016-11-30",
+  "entry_into_force": "2016-12-01",
+  "notification_date": "2016-12-01",
+  "commission_reference": "MNE(2016)57265",
+  "nim_celex": "72016L0774LTU_242988",
+  "nim_id": "242988",
+  "transposes_celex": [
+    "32016L0774",
+    "32017L2096"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4ecd2a9c-d38d-48fd-b850-471190f64341",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
