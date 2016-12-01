@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2016 m. spalio 12 d.  įsakymas Nr. 3-339 (1.5E) ,,Dėl Lietuvos Respublikos susisiekimo ministro 2006 m. gruodžio 22 d. įsakymo Nr. 3-507 „Dėl Leidimų pradėti naudoti Lietuvos Respublikoje geležinkelių sistemos struktūrinius posistemius ir geležinkelių riedmenis išdavimo taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "25022",
+  "official_journal_page": null,
+  "official_journal_date": "2016-10-13",
+  "entry_into_force": "2016-12-01",
+  "notification_date": "2016-11-11",
+  "commission_reference": "MNE(2016)56430",
+  "nim_celex": "72014L0106LTU_241525",
+  "nim_id": "241525",
+  "transposes_celex": [
+    "32014L0106"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/08c0a7ef-c5ad-4d90-af49-2204f6f606b4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
