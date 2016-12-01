@@ -1,6 +1,5 @@
-# Valiutos keityklos operatoriai
-–
-434 Eur“
+# –
+3 000 Eur
 Lietuvos Respublikos
 Lietuvos banko įstatymo
 2 priedas
