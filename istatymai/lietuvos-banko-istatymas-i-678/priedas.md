@@ -80,3 +80,8 @@ Finansų patarėjo įmonės
 –
 434 Eur
 19.
+Valiutos keityklos operatoriai
+–
+434 Eur
+20.
+Sutelktinio finansavimo platformos operatoriai
