@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2016 m. lapkričio 24 d. įsakymas Nr. 1-307 \"Dėl Lietuvos Respublikos energetikos ministro 2010 m. spalio 25 d. įsakymo Nr. 1-297 \"Dėl Šilumos tiekimo ir vartojimo taisyklių patvirtinimo\"pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-28125",
+  "official_journal_page": null,
+  "official_journal_date": "2016-12-02",
+  "entry_into_force": "2016-12-03",
+  "notification_date": "2016-12-05",
+  "commission_reference": "MNE(2016)57351",
+  "nim_celex": "72012L0027LTU_243120",
+  "nim_id": "243120",
+  "transposes_celex": [
+    "32012L0027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8c3c255c-fade-49f0-a9c8-4f537d9ec4e3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
