@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2016 m. lapkričio 24 d. įsakymas Nr. 1-309 \"Dėl Lietuvos Respublikos energetikos ministro 2014 m. spalio 10 d. įsakymo Nr. 1-248 \"Dėl Gamtinių dujų tiekimo ir vartojimo taisyklių patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-28167",
+  "official_journal_page": null,
+  "official_journal_date": "2016-12-05",
+  "entry_into_force": "2016-12-06",
+  "notification_date": "2016-12-06",
+  "commission_reference": "MNE(2016)57386",
+  "nim_celex": "72012L0027LTU_243166",
+  "nim_id": "243166",
+  "transposes_celex": [
+    "32012L0027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ce6bb289-dc15-47ff-8315-bc09909d3422",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
