@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2016 m. lapkričio 30 d. nutarimas Nr. 1197 „Dėl Lietuvos Respublikos Vyriausybės 2010 m. gegužės 19 d. nutarimo  Nr. 553 „Dėl Geležinkelio įmonių (vežėjų) skundų nagrinėjimo taisyklių patvirtinimo“  pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "28208",
+  "official_journal_page": null,
+  "official_journal_date": "2016-12-05",
+  "entry_into_force": "2016-12-06",
+  "notification_date": "2016-12-16",
+  "commission_reference": "MNE(2016)57459",
+  "nim_celex": "72012L0034LTU_243248",
+  "nim_id": "243248",
+  "transposes_celex": [
+    "32012L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6426d4d6-ba64-4ca6-8323-b43e29f45097",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
