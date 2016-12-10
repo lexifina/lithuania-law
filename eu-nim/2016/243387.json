@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2016 m. gruodžio 8 d. įsakymas Nr. V-1378 „Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2004 m. birželio 22 d. įsakymo Nr. V-463 „Dėl Transplantacijai skirtų žmogaus audinių, ląstelių, organų įvežimo į Lietuvos Respubliką ir išvežimo iš Lietuvos Respublikos tvarkos aprašo patvirtinimo“ pakeitimo",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "28610",
+  "official_journal_page": null,
+  "official_journal_date": "2016-12-09",
+  "entry_into_force": "2016-12-10",
+  "notification_date": "2016-12-12",
+  "commission_reference": "MNE(2016)57562",
+  "nim_celex": "72015L0566LTU_243387",
+  "nim_id": "243387",
+  "transposes_celex": [
+    "32015L0566"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/22e02d37-a454-462e-9837-bd5cb7acf54b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
