@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2016 m. gruodžio 7 d. nutarimas Nr. 1226 „Dėl  Lietuvos Respublikos Vyriausybės 2004 m. gegužės 19 d. nutarimo Nr. 610 „Dėl Rinkliavų už viešosios geležinkelių infrastruktūros valdytojo teikiamas paslaugas dydžių nustatymo taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Administracinės priemonės",
+  "official_journal_reference": "2016-28533",
+  "official_journal_page": null,
+  "official_journal_date": "2016-12-09",
+  "entry_into_force": "2016-12-10",
+  "notification_date": "2016-12-16",
+  "commission_reference": "MNE(2016)57641",
+  "nim_celex": "72012L0034LTU_243505",
+  "nim_id": "243505",
+  "transposes_celex": [
+    "32012L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/02c2e55b-a593-4201-ac7e-7ba2dff335fe",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
