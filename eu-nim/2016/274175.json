@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Radiacinės saugos centro direktoriaus 2016 m. gruodžio 9 d. įsakymas Nr. V-155 „Dėl Radiacinės saugos reikalavimų vykdymo patikrinimo klausimynų, aktų-klausimynų ir akto formų patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Informaciniai pranešimai",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2016-12-09",
+  "entry_into_force": "2016-12-10",
+  "notification_date": "2019-06-17",
+  "commission_reference": "MNE(2019)53770",
+  "nim_celex": "72013L0059LTU_274175",
+  "nim_id": "274175",
+  "transposes_celex": [
+    "32013L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/98d83032-93fb-11e9-9369-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
