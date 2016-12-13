@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2016 m. gruodžio 7 d. nutarimas Nr. 1246 „Dėl  Lietuvos Respublikos Vyriausybės 2004 m. gegužės 19 d. nutarimo Nr. 611 „Dėl Viešosios geležinkelių infrastruktūros pajėgumų skyrimo taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "28710",
+  "official_journal_page": null,
+  "official_journal_date": "2016-12-12",
+  "entry_into_force": "2016-12-13",
+  "notification_date": "2017-01-13",
+  "commission_reference": "MNE(2017)50327",
+  "nim_celex": "72012L0034LTU_244242",
+  "nim_id": "244242",
+  "transposes_celex": [
+    "32012L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a41ac613-efcc-433c-9673-d0492ec1e8e7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
