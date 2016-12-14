@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2016 m. gruodžio 12 d. įsakymas Nr. 3-431(1.5 E) „Dėl Lietuvos Respublikos susisiekimo ministro 2012 m. sausio 24 d. įsakymo Nr. 3-53 „Dėl Baudų už traukinių eismo sutrikdymus ir kompensacijų dėl tokių trikdymų nukentėjusioms įmonėms nustatymo ir skyrimo tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "28760",
+  "official_journal_page": null,
+  "official_journal_date": "2016-12-13",
+  "entry_into_force": "2016-12-14",
+  "notification_date": "2017-01-13",
+  "commission_reference": "MNE(2017)50326",
+  "nim_celex": "72012L0034LTU_244241",
+  "nim_id": "244241",
+  "transposes_celex": [
+    "32012L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/218f4da3-689b-4848-9ab8-33e3dbd225f4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
