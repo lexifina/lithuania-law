@@ -13,3 +13,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2016-01-01 | 2016-03-31 | Įstatymas Nr. XII-1642 / Įstatymas Nr. XII-1940 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22tNvixEEMuh%22) |
 | 2016-04-01 | 2016-04-30 | Įstatymas Nr. XII-1715 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22tacuMVLnsi%22) |
 | 2016-05-01 | 2016-12-14 | Įstatymas Nr. XII-2229 / Teisės aktų registras (Seimo kanceliarija) | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22RXrogwrUcy%22) |
+| 2016-12-15 | 2017-06-30 | Įstatymas Nr. XIII-63 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22qzxIFslftc%22) |
