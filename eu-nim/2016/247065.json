@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės maisto ir veterinarijos tarnybos direktoriaus 2016 m. gruodžio 19 d. įsakymas Nr. B1-936 „Dėl Valstybinės maisto ir veterinarijos tarnybos direktoriaus įsakymas „Dėl Veterinarinių vaistų registravimo, gamybos ir tiekimo Lietuvos Respublikos rinkai reikalavimų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-29154",
+  "official_journal_page": null,
+  "official_journal_date": "2016-12-20",
+  "entry_into_force": "2016-12-20",
+  "notification_date": "2017-04-21",
+  "commission_reference": "MNE(2017)52250",
+  "nim_celex": "72001L0082LTU_247065",
+  "nim_id": "247065",
+  "transposes_celex": [
+    "32001L0082"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/991e351a-63b0-4e33-bf1b-7da8c83d5f0a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
