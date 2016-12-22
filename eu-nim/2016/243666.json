@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2016 m. gruodžio 20 d. nutarimas Nr. 03-192 „Dėl Lietuvos banko valdybos 2012 m. liepos 12 d. nutarimo Nr. 03-150 „Dėl Kolektyvinio investavimo subjektų prospekto ir pagrindinės informacijos investuotojams dokumento turinio ir pateikimo taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-29195",
+  "official_journal_page": null,
+  "official_journal_date": "2016-12-21",
+  "entry_into_force": "2016-12-22",
+  "notification_date": "2016-12-22",
+  "commission_reference": "MNE(2016)57783",
+  "nim_celex": "72014L0091LTU_243666",
+  "nim_id": "243666",
+  "transposes_celex": [
+    "32014L0091"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/20511bf8-7156-423b-b619-07f48b82d9e1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
