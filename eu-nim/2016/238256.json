@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2016 m. gegužės 16 d. įsakymas Nr. 3D-297 \"Dėl žemės ūkio ministro 2010 m. gegužės 7 d. įsakymo Nr. 3D-435 \"Dėl Kazeinų ir kazeinatų, skirtų žmonėms vartoti, techninio reglamento patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-13097",
+  "official_journal_page": null,
+  "official_journal_date": "2016-05-17",
+  "entry_into_force": "2016-12-22",
+  "notification_date": "2016-06-07",
+  "commission_reference": "MNE(2016)53849",
+  "nim_celex": "72015L2203LTU_238256",
+  "nim_id": "238256",
+  "transposes_celex": [
+    "32015L2203"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/db9775d3-902f-48b2-b106-9f2a78b04f60",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
