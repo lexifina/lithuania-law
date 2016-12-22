@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2016 m. gruodžio 20 d.  nutarimas Nr. 03-193 „Dėl Lietuvos banko valdybos 2012 m. liepos 12 d. nutarimo Nr. 03-154 „Dėl Valdymo įmonių, kolektyvinio investavimo subjektų ir pensijų fondų informacijos rengimo ir teikimo taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-29196",
+  "official_journal_page": null,
+  "official_journal_date": "2016-12-21",
+  "entry_into_force": "2016-12-22",
+  "notification_date": "2016-12-22",
+  "commission_reference": "MNE(2016)57784",
+  "nim_celex": "72014L0091LTU_243667",
+  "nim_id": "243667",
+  "transposes_celex": [
+    "32014L0091"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9820a49f-edf9-405e-afb1-9ea5b52e5219",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
