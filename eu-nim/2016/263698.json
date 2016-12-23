@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos policijos generalinio komisaro 2016 m. gruodžio 20 d. įsakymas Nr. 5-V-1074 „Dėl deaktyvacijos sertifikatų ir pažymų, kad ginklai (šaudmenys) yra visiškai netinkami naudoti, išdavimo taisyklių patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-29254",
+  "official_journal_page": null,
+  "official_journal_date": "2016-12-22",
+  "entry_into_force": "2016-12-23",
+  "notification_date": "2018-10-08",
+  "commission_reference": "MNE(2018)55412",
+  "nim_celex": "72017L0853LTU_263698",
+  "nim_id": "263698",
+  "transposes_celex": [
+    "32017L0853"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/60e1f9d6-003d-4b12-a373-173499ad1c31",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
