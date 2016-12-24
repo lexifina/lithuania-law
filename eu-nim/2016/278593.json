@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos policijos generalinio komisaro 2016 m. gruodžio 23 d. įsakymas Nr. 5-V-1091 \"Dėl Bilietų užsakymo ir išvykimo kontrolės, keleivių skrydžio duomenų ir informacijos apie oro vežėjus teikimo informacijos apie keleivius padaliniui tvarkos aprašo patvirtinimo\" (Suvestinė redakcija nuo 2018-05-16)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "29465",
+  "official_journal_page": null,
+  "official_journal_date": null,
+  "entry_into_force": "2016-12-24",
+  "notification_date": "2019-11-26",
+  "commission_reference": "MNE(2019)56432",
+  "nim_celex": "72004L0082LTU_278593",
+  "nim_id": "278593",
+  "transposes_celex": [
+    "32004L0082"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/96866037-f3c6-4902-9d81-f1d9d8012118",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
