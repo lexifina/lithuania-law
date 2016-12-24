@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 3, 28, 37, 39 straipsnių, 2 priedo pakeitimo ir įstatymo papildymo 381 straipsniu įstatymas Nr. XIII-105",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "29417",
+  "official_journal_page": null,
+  "official_journal_date": "2016-12-23",
+  "entry_into_force": "2016-12-24",
+  "notification_date": "2016-12-29",
+  "commission_reference": "MNE(2016)57892",
+  "nim_celex": "72014L0061LTU_243786",
+  "nim_id": "243786",
+  "transposes_celex": [
+    "32014L0061"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cadcd6ea-3da2-4e23-804b-810e30c3ed3e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
