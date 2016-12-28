@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos policijos generalinio komisaro, Valstybės sienos apsaugos tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos vado, Lietuvos Respublikos valstybės saugumo departamento direktoriaus 2016 m. gruodžio 28 d. įsakymas Nr. 5-V-1104/4-599/1-156 „Dėl informacijos apie keleivius padalinio darbo reglamento patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Informaciniai pranešimai",
+  "official_journal_reference": "5-V-1104/4-599/1-156",
+  "official_journal_page": null,
+  "official_journal_date": "2016-12-28",
+  "entry_into_force": "2016-12-28",
+  "notification_date": "2018-05-18",
+  "commission_reference": "MNE(2018)52463",
+  "nim_celex": "72016L0681LTU_258749",
+  "nim_id": "258749",
+  "transposes_celex": [
+    "32016L0681"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/25d027a8-b510-4bcf-97aa-d5fdf506ba36",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
