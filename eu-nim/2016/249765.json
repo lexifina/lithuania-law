@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro ir Lietuvos Respublikos aplinkos ministro 2016 m. gruodžio 23 d. įsakymas Nr. 3-447/D1-922 „Dėl Lietuvos Respublikos susisiekimo ministro ir Lietuvos Respublikos aplinkos ministro 2003 m. liepos 9 d. įsakymo Nr. 3-414/346 „Dėl Laivuose susidarančių atliekų ir laivų krovinių likučių tvarkymo nuostatų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-29697",
+  "official_journal_page": null,
+  "official_journal_date": "2016-12-28",
+  "entry_into_force": "2016-12-29",
+  "notification_date": "2017-08-02",
+  "commission_reference": "MNE(2017)54361",
+  "nim_celex": "72015L2087LTU_249765",
+  "nim_id": "249765",
+  "transposes_celex": [
+    "32015L2087"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fb8b46bf-b354-41ec-aa20-4f46e88a68e4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
