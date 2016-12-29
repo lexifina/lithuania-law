@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos teisingumo ministro 2016 m. gruodžio 29 d. įsakymas Nr. 1R-337 \"Dėl nukentėjusių nuo nusikalstamų veikų asmenų informavimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Informaciniai pranešimai",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2016-12-29",
+  "entry_into_force": "2016-12-29",
+  "notification_date": "2019-01-02",
+  "commission_reference": "MNE(2019)50001",
+  "nim_celex": "72017L0541LTU_266814",
+  "nim_id": "266814",
+  "transposes_celex": [
+    "32017L0541",
+    "32019L0713"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/92818c73-919e-451c-91f1-f5e197df7064",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
