@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2016 m. spalio 3 d. įsakymas Nr. D1-653 „Dėl Lietuvos Respublikos aplinkos ministro 2001 m. gruodžio 12 d. įsakymo Nr. 596 „Dėl aplinkos oro kokybės vertinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "24714",
+  "official_journal_page": null,
+  "official_journal_date": "2016-10-06",
+  "entry_into_force": "2016-12-31",
+  "notification_date": "2016-10-26",
+  "commission_reference": "MNE(2016)56460",
+  "nim_celex": "72015L1480LTU_241567",
+  "nim_id": "241567",
+  "transposes_celex": [
+    "32015L1480"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5bff16b9-ca82-473e-a5f5-335a565c0d72",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
