@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos statybos įstatymo Nr. I-1240 pakeitimo įstatymas Nr. XII-2573",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-20300",
+  "official_journal_page": null,
+  "official_journal_date": "2016-07-13",
+  "entry_into_force": "2017-01-01",
+  "notification_date": "2016-07-28",
+  "commission_reference": "MNE(2016)55033",
+  "nim_celex": "72014L0061LTU_239618",
+  "nim_id": "239618",
+  "transposes_celex": [
+    "32014L0061"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/65b10965-e5e8-4554-8bb3-4e4cad72b28c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
