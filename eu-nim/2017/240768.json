@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos pagalbinio apvaisinimo įstatymas Nr. XII-2608",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-23713",
+  "official_journal_page": null,
+  "official_journal_date": "2016-09-19",
+  "entry_into_force": "2017-01-01",
+  "notification_date": "2016-09-20",
+  "commission_reference": "MNE(2016)55802",
+  "nim_celex": "72006L0017LTU_240768",
+  "nim_id": "240768",
+  "transposes_celex": [
+    "32006L0017"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/92c5492a-d6e5-4908-a920-043a234cce4b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
