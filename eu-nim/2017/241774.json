@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Centrinės kredito unijos įstatymo Nr. VIII-1682 pakeitimo įstatymas Nr. XII-2566",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-20319",
+  "official_journal_page": null,
+  "official_journal_date": "2016-07-13",
+  "entry_into_force": "2017-01-01",
+  "notification_date": "2016-11-22",
+  "commission_reference": "MNE(2016)56604",
+  "nim_celex": "72013L0036LTU_241774",
+  "nim_id": "241774",
+  "transposes_celex": [
+    "32013L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/559f5e38-25bc-48f4-89d0-5998fdf36ebd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
