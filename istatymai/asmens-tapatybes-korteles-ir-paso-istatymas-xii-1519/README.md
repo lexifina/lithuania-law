@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2015-03-02 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/25a1cc869cc42bda3a5a121fa0147f3b098c0c03/istatymai/TAR.A8939F2090D8.md) |
+| 2017-01-01 | 2019-04-30 | Įstatymas Nr. XII-2122 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/cecb51ac79c455fa8406f17f860d8d935d1e4692/istatymai/TAR.A8939F2090D8.md) |
