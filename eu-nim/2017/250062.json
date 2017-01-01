@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 pakeitimo įstatymas Nr. XII-2501",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "2016-20641",
+  "official_journal_page": null,
+  "official_journal_date": "2016-07-15",
+  "entry_into_force": "2017-01-01",
+  "notification_date": "2017-08-09",
+  "commission_reference": "MNE(2017)54551",
+  "nim_celex": "72014L0054LTU_250062",
+  "nim_id": "250062",
+  "transposes_celex": [
+    "32014L0054"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5e3dba6a-7b78-4b98-9070-a1e6f320b205",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
