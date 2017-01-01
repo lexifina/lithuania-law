@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2016 m. rugpjūčio 2 d. įsakymas Nr. D1-526 „Dėl Lietuvos Respublikos aplinkos ministro 2011 m. gegužės 3 d. įsakymo Nr. D1-367 „Dėl atliekų susidarymo ir tvarkymo apskaitos ir ataskaitų teikimo taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Administracinės priemonės",
+  "official_journal_reference": "2016-21248",
+  "official_journal_page": null,
+  "official_journal_date": "2016-08-02",
+  "entry_into_force": "2017-01-01",
+  "notification_date": "2016-08-04",
+  "commission_reference": "MNE(2016)55176",
+  "nim_celex": "72008L0098LTU_239805",
+  "nim_id": "239805",
+  "transposes_celex": [
+    "32008L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/321056f6-5bc8-40f3-8015-8d213d0194bd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
