@@ -12,3 +12,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2015-01-01 | 2015-12-31 | Įstatymas Nr. XII-1207 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/aea107d8768303c20e9ca99b31a841dfc8ee714e/istatymai/TAR.ED38F243563C.md) |
 | 2016-01-01 | 2016-07-31 | Įstatymas Nr. XII-2222 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/9755bbb2c8cfd5b67d889c0b0000158e16976f12/istatymai/TAR.ED38F243563C.md) |
 | 2016-08-01 | 2016-12-31 | Įstatymas Nr. XII-2587 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/bcb806298efa644088cbb1b4a735885dd4754003/istatymai/TAR.ED38F243563C.md) |
+| 2017-01-01 | 2017-12-31 | Įstatymas Nr. XII-2514 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/89014046589aa699415014414197082b28864f8b/istatymai/TAR.ED38F243563C.md) |
