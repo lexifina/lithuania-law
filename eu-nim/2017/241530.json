@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės mokesčių inspekcijos prie Finansų ministerijos viršininko 2016 m. spalio 5 d.  įsakymas Nr. VA-124 „Dėl Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos viršininko 2012 m. gruodžio 18 d. įsakymo Nr. VA-114 „Dėl abipusės pagalbos ir keitimosi mokestine informacija su Europos Sąjungos valstybių narių kompetentingomis institucijomis taisyklių patvirtinimo“ pakeitimo",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-24627",
+  "official_journal_page": null,
+  "official_journal_date": "2016-10-06",
+  "entry_into_force": "2017-01-01",
+  "notification_date": "2016-10-21",
+  "commission_reference": "MNE(2016)56435",
+  "nim_celex": "72011L0016LTU_241530",
+  "nim_id": "241530",
+  "transposes_celex": [
+    "32011L0016",
+    "32015L2376"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bec0f290-8862-4744-bff5-71fcdbefc4d6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
