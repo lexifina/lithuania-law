@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2016 m. gruodžio 22 d. įsakymas Nr. 3D-761 \"Dėl žemės ūkio ministro 2004 m. vasario 27 d. įsakymo Nr. 3D-82 \"Dėl reikalavimų sodo augalų dauginamajai medžiagai, tiekiamai į rinką su tiekėjų etiketėmis\" pripažinimo netekusiu galios\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "29351",
+  "official_journal_page": null,
+  "official_journal_date": "2016-12-23",
+  "entry_into_force": "2017-01-01",
+  "notification_date": "2016-12-29",
+  "commission_reference": "MNE(2016)57896",
+  "nim_celex": "72014L0097LTU_243790",
+  "nim_id": "243790",
+  "transposes_celex": [
+    "32014L0097"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/47e28078-414e-4b30-b296-525b45f1747d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
