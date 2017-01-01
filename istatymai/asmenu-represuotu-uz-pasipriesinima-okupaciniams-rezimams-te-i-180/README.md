@@ -15,3 +15,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 1996-12-11 | 1998-03-24 | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/faa388adb258afc98beae10d2a3e1f2ee2ca9c81/istatymai/TAR.7A23697137FA.md) |
 | 1998-03-25 | 2008-11-28 | Įstatymas Nr. VIII-656 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/5719aa34fc4409966280f4b793ef41da5926b8de/istatymai/TAR.7A23697137FA.md) |
 | 2008-11-29 | 2016-12-31 | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/e3b94659ad69e455703cfe1f90342cbfb7375541/istatymai/TAR.7A23697137FA.md) |
+| 2017-01-01 | 2023-06-30 | Įstatymas Nr. XII-2661 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/7dbefdde0558553f245f9395ffcba8812ff57d40/istatymai/TAR.7A23697137FA.md) |
