@@ -1,0 +1,8 @@
+# Respublikos Prezidentė Dalia Grybauskaitė
+Lietuvos Respublikos
+pagalbinio apvaisinimo įstatymo
+priedas
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+1. 2004 m. kovo 31 d. Europos Parlamento ir Tarybos direktyva 2004/23/EB, nustatanti žmogaus audinių ir ląstelių donorystės, įsigijimo, ištyrimo, apdorojimo, konservavimo, laikymo bei paskirstymo kokybės ir saugos standartus (OL 2004 m. specialusis leidimas, 15 skyrius, 8 tomas, p. 291).
+2. 2006 m. vasario 8 d. Komisijos direktyva 2006/17/EB, įgyvendinanti Europos Parlamento ir Tarybos direktyvą 2004/23/EB, nustatančią žmogaus audinių ir ląstelių donorystės, įsigijimo, ištyrimo, žmogaus audinių ir ląstelių kokybės ir saugos standartus (OL 2006 L 38, p. 40).
+3. 2006 m. spalio 24 d. Komisijos direktyva 2006/86/EB, įgyvendinanti Europos Parlamento ir Tarybos direktyvą 2004/23/EB dėl atsekamumo reikalavimų, pranešimo apie pavojingas nepageidaujamas reakcijas ir reiškinius bei žmogaus audinių ir ląstelių kodavimo, apdorojimo, konservavimo, laikymo ir paskirstymo tam tikrų techninių reikalavimų (OL 2006 L 294, p. 32).
