@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2016 m. gruodžio 30 d. įsakymas Nr. V-1525 „Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2007 m. gegužės 22 d. įsakymo Nr. V-401 „Dėl pranešimo apie pavojingas nepageidaujamas reakcijas ir(ar) pavojingus nepageidaujamus reiškinius, susijusius su audinių, ląstelių, organų donorystės ir transplantacijos procesu, tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-30110",
+  "official_journal_page": null,
+  "official_journal_date": "2016-12-30",
+  "entry_into_force": "2017-01-01",
+  "notification_date": "2017-03-14",
+  "commission_reference": "MNE(2017)51518",
+  "nim_celex": "72004L0023LTU_246010",
+  "nim_id": "246010",
+  "transposes_celex": [
+    "32004L0023"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/08f8bb15-eb0d-4d53-9cf0-2c924e22cea5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
