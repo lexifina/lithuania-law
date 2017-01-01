@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės augalininkystės tarnybos prie Žemės ūkio ministerijos direktoriaus 2016 m. gruodžio 1 d. įsakymas Nr. A1-681 „Dėl Lietuvos valstybinio augalų veislių tyrimo centro direktoriaus 2004 m. kovo 12 d. įsakymo Nr. 7 „Dėl Sodo augalų dauginamosios medžiagos, tiekiamos į rinką su tiekėjų etiketėmis, veislių požymių įvertinimo taisyklių patvirtinimo“ pripažinimo netekusiu galios“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "28025",
+  "official_journal_page": null,
+  "official_journal_date": "2016-12-02",
+  "entry_into_force": "2017-01-01",
+  "notification_date": "2016-12-29",
+  "commission_reference": "MNE(2016)57895",
+  "nim_celex": "72014L0097LTU_243789",
+  "nim_id": "243789",
+  "transposes_celex": [
+    "32014L0097"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b43cb9de-9628-436c-9c80-7526d2cc442e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
