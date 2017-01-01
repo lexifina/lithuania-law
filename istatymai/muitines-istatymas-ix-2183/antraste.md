@@ -1,6 +1,3 @@
-LIETUVOS RESPUBLIKOS
-MUITINĖS
-Į S T A T Y M A S
 2004 m. balandžio 27 d. Nr. IX-2183
 Vilnius
 I SKYRIUS
