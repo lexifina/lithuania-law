@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2016 m. gruodžio 20 d. įsakymas Nr. V-1452 „Dėl pagalbinio apvaisinimo paslaugų teikimo ir jų apmokėjimo Privalomojo sveikatos draudimo fondo biudžeto lėšomis tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-29271",
+  "official_journal_page": null,
+  "official_journal_date": "2016-12-23",
+  "entry_into_force": "2017-01-01",
+  "notification_date": "2017-02-15",
+  "commission_reference": "MNE(2017)50998",
+  "nim_celex": "72006L0017LTU_245152",
+  "nim_id": "245152",
+  "transposes_celex": [
+    "32006L0017"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3971bb5f-e80a-4f21-9f26-fc465ae3273e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
