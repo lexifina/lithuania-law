@@ -13,3 +13,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2015-05-01 | 2015-12-02 | Įstatymas Nr. XI-1672 / Įstatymas Nr. XII-1547 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22VLmUbilkDQ%22) |
 | 2015-12-03 | 2015-12-03 | Įstatymas Nr. XII-2057 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22WCtsrYwiVA%22) |
 | 2015-12-04 | 2016-12-31 | Įstatymas Nr. XII-2076 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22QlJizzxejo%22) |
+| 2017-01-01 | 2017-06-27 | Įstatymas Nr. XII-2454 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22SBhlpOWUpF%22) |
