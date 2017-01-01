@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2016 m. gruodžio 12 d. įsakymas Nr. D1-878 „Dėl statybos techninio reglamento STR 1.05.01:2017 „Statybą leidžiantys dokumentai. Statybos užbaigimas. Statybos sustabdymas. Savavališkos statybos padarinių šalinimas. Statybos pagal neteisėtai išduotą statybą leidžiantį dokumentą padarinių šalinimas“ patvirtinimo",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "28700",
+  "official_journal_page": null,
+  "official_journal_date": "2016-12-12",
+  "entry_into_force": "2017-01-01",
+  "notification_date": "2016-12-13",
+  "commission_reference": "MNE(2016)57594",
+  "nim_celex": "72011L0092LTU_243435",
+  "nim_id": "243435",
+  "transposes_celex": [
+    "32011L0092",
+    "32014L0052"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9d8d2037-c6b9-4c82-9a03-583ee10b06ef",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
