@@ -10,3 +10,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | --- | --- | --- | --- |
 | 1996-11-02 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/1a05d568f06d2cfe85b47fec419c6abf6af4b919/kodeksai/TAR.DEBA0718FB0F.md) |
 | 2016-05-01 | 2016-12-31 | Įstatymas Nr. IX-1214 / Įstatymas Nr. X-224 / Įstatymas Nr. X-1790 / Įstatymas Nr. XI-891 / Įstatymas Nr. XII-226 / Įstatymas Nr. XII-2255 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/b1a74a50625c68319dc9bfddcdb787c2f16cd966/kodeksai/TAR.DEBA0718FB0F.md) |
+| 2017-01-01 | 2017-11-30 | Įstatymas Nr. XII-2599 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/ec3d1903935ea73305a423ecd95920770059e1b2/kodeksai/TAR.DEBA0718FB0F.md) |
