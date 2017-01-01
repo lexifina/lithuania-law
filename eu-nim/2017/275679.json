@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo Nr. IX-575 4, 22, 23, 25, 27, 28 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 23-1, 23-2 straipsniais įstatymas Nr. XIII-94",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-29406",
+  "official_journal_page": null,
+  "official_journal_date": "2016-12-23",
+  "entry_into_force": "2017-01-01",
+  "notification_date": "2019-07-25",
+  "commission_reference": "MNE(2019)54542",
+  "nim_celex": "72017L1132LTU_275679",
+  "nim_id": "275679",
+  "transposes_celex": [
+    "32017L1132"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c1a31c7d-af99-11e9-9d01-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
