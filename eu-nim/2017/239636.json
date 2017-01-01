@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymo Nr. IX-1315 pakeitimo įstatymas Nr.XII-2527",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-20285",
+  "official_journal_page": null,
+  "official_journal_date": "2016-07-13",
+  "entry_into_force": "2017-01-01",
+  "notification_date": "2016-07-26",
+  "commission_reference": "MNE(2016)55047",
+  "nim_celex": "72014L0028LTU_239636",
+  "nim_id": "239636",
+  "transposes_celex": [
+    "32014L0028"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7ceafd47-1a71-4ec4-94d6-f489b3154adb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
