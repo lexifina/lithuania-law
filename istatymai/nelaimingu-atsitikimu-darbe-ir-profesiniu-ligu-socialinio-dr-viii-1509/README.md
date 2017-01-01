@@ -13,3 +13,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2016-01-01 | 2016-03-29 | Įstatymas Nr. XII-1991 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22IKNIjTyAvN%22) |
 | 2016-03-30 | 2016-03-31 | Įstatymas Nr. XII-2281 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22BobVbUlaaF%22) |
 | 2016-04-01 | 2016-12-31 | Įstatymas Nr. XII-1991 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22lOsQsczTJC%22) |
+| 2017-01-01 | 2017-12-13 | Įstatymas Nr. XII-2472 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22nzDSrjhZhJ%22) |
