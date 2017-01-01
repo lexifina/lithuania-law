@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2016 m. gruodžio 30 d. įsakymas Nr. 3D-777 \"Dėl žemės ūkio ministro 2000 m. gruodžio 29 d. įsakymo Nr. 381 \"Dėl Privalomųjų aliejinių ir pluoštinių augalų sėklos kokybės reikalavimų aprašo patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "30138",
+  "official_journal_page": null,
+  "official_journal_date": "2016-12-30",
+  "entry_into_force": "2017-01-01",
+  "notification_date": "2017-01-02",
+  "commission_reference": "MNE(2017)50004",
+  "nim_celex": "72016L0011LTU_243908",
+  "nim_id": "243908",
+  "transposes_celex": [
+    "32016L0011"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5e74e4f9-d42b-11e6-ad7c-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
