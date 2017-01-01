@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2016 m. gruodžio 23 d. įsakymas Nr. V-1468 \"Dėl žmogaus lytinių ląstelių bankų veiklos ir žmogaus lytinių ląstelių donorystės reikalavimų aprašo patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-29460",
+  "official_journal_page": null,
+  "official_journal_date": "2016-12-23",
+  "entry_into_force": "2017-01-01",
+  "notification_date": "2017-03-14",
+  "commission_reference": "MNE(2017)51513",
+  "nim_celex": "72004L0023LTU_246005",
+  "nim_id": "246005",
+  "transposes_celex": [
+    "32004L0023"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f0114903-4092-41da-991f-4018a9a35491",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
