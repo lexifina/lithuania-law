@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos valstybinių šalpos išmokų įstatymo Nr. I-675 pakeitimo įstatymas Nr.  XII-2506",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-20643",
+  "official_journal_page": null,
+  "official_journal_date": "2016-07-15",
+  "entry_into_force": "2017-01-01",
+  "notification_date": "2016-07-28",
+  "commission_reference": "MNE(2016)54968",
+  "nim_celex": "72014L0054LTU_239534",
+  "nim_id": "239534",
+  "transposes_celex": [
+    "32014L0054"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ad6af799-7e70-4197-a48c-21d6fac6bc4d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
