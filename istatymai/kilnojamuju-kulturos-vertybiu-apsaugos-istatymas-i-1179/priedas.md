@@ -4,4 +4,4 @@ kilnojamųjų kultūros
 vertybių apsaugos įstatymo
 priedas
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
-1. 1993 m. kovo 15 d. Tarybos direktyva 93/7/EEB dėl neteisėtai iš valstybės narės teritorijos išvežtų kultūros objektų grąžinimo (OL 2004 m. specialusis leidimas, 2 skyrius, 4 tomas, p. 399) su paskutiniais pakeitimais, padarytais 2001 m. birželio 5 d. Europos Parlamento ir Tarybos direktyva 2001/38/EB (OL 2004 m. specialusis leidimas, 2 skyrius, 12 tomas, p. 40).
+1. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/60/ES dėl neteisėtai iš valstybės narės teritorijos išvežtų kultūros objektų grąžinimo, kuria iš dalies keičiamas Reglamentas (ES) Nr. 1024/2012 (OL 2014 L 159, p. 1).
