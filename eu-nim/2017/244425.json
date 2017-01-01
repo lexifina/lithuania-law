@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos policijos generalinio komisaro 2016 m. gruodžio 23 d. įsakymas Nr. 5-V-1089  „Dėl Sprogmenų gamybos saugos, atitikties vertinimo ir sprogmenų techninių dokumentų suderinimo taisyklių patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-29514",
+  "official_journal_page": null,
+  "official_journal_date": "2016-12-27",
+  "entry_into_force": "2017-01-01",
+  "notification_date": "2017-01-19",
+  "commission_reference": "MNE(2017)50455",
+  "nim_celex": "72014L0028LTU_244425",
+  "nim_id": "244425",
+  "transposes_celex": [
+    "32014L0028"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/54e708c6-d2af-4131-b23a-06bedb83fffc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
