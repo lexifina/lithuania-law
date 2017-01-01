@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2016 m. gruodžio 30 d. įsakymas Nr. D1-971 „Dėl statybos techninio reglamento STR 1.07.03:2017 „Statinių techninės ir naudojimo priežiūros tvarka. Naujų nekilnojamojo turto kadastro objektų formavimo tvarka“ patvirtinimo“ (Suvestinė redakcija nuo 2019-11-01)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-30156",
+  "official_journal_page": null,
+  "official_journal_date": "2016-12-30",
+  "entry_into_force": "2017-01-01",
+  "notification_date": "2020-09-23",
+  "commission_reference": "MNE(2020)56098",
+  "nim_celex": "72018L0844LTU_287329",
+  "nim_id": "287329",
+  "transposes_celex": [
+    "32018L0844"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3951d6a0-0153-11eb-af6b-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
