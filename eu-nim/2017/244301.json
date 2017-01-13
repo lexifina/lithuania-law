@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2017 m. sausio 10 d. įsakymas Nr. 1V-19 „Dėl Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2011 m. spalio 14 d. įsakymo Nr. 1V-978 „Dėl Elektroninių ryšių infrastruktūros įrengimo, žymėjimo, priežiūros ir naudojimo taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-00824",
+  "official_journal_page": null,
+  "official_journal_date": "2017-01-12",
+  "entry_into_force": "2017-01-13",
+  "notification_date": "2017-01-20",
+  "commission_reference": "MNE(2017)50375",
+  "nim_celex": "72014L0061LTU_244301",
+  "nim_id": "244301",
+  "transposes_celex": [
+    "32014L0061"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bd4d6580-36d2-47fe-8054-b5f72118b2d0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
