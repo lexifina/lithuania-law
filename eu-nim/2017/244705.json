@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2017 m. sausio 26 d. įsakymas Nr. 3-27 \"Dėl Lietuvos Respublikos susisiekimo ministro 2007 m. birželio 12 d. įsakymo Nr. 3-208 „Dėl Susisiekimo ministerijos reguliavimo sričiai priskirtų valstybės valdomų įmonių ir viešųjų įstaigų strateginių veiklos planų rengimo ir įgyvendinimo stebėsenos tvarkos“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Informaciniai pranešimai",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2017-01-26",
+  "entry_into_force": "2017-01-26",
+  "notification_date": "2017-01-30",
+  "commission_reference": "MNE(2017)50659",
+  "nim_celex": "72012L0034LTU_244705",
+  "nim_id": "244705",
+  "transposes_celex": [
+    "32012L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5659a150-17b9-48e0-aa46-ae0c0f33d73c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
