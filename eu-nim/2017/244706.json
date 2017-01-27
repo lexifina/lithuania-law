@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2017 m. sausio 26 d. įsakymas Nr. 3-26 „Dėl Lietuvos Respublikos susisiekimo ministro 2012 m. sausio 3 d. įsakymo Nr. 3-3 „Dėl Geležinkelių transporto veiklų apskaitos ir ataskaitų rinkinio rengimo reikalavimų patvirtinimo ir šio rinkinio skelbimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-01467",
+  "official_journal_page": null,
+  "official_journal_date": "2017-01-26",
+  "entry_into_force": "2017-01-27",
+  "notification_date": "2017-01-30",
+  "commission_reference": "MNE(2017)50660",
+  "nim_celex": "72012L0034LTU_244706",
+  "nim_id": "244706",
+  "transposes_celex": [
+    "32012L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/00770f6c-e604-482a-988c-e46da17b97f5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
