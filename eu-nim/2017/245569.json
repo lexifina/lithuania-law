@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos pagalbinio apvaisinimo įstatymo Nr. XII-2608 3, 10 ir 12 straipsnių pakeitimo įstatymas Nr. XIII-201",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-01328",
+  "official_journal_page": null,
+  "official_journal_date": "2017-01-24",
+  "entry_into_force": "2017-02-01",
+  "notification_date": "2017-03-14",
+  "commission_reference": "MNE(2017)51254",
+  "nim_celex": "72004L0023LTU_245569",
+  "nim_id": "245569",
+  "transposes_celex": [
+    "32004L0023"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/450b2554-8b31-4b73-a2cf-01585a26e224",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
