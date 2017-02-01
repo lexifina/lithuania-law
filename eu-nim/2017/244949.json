@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos kultūros ministro 2017 m. sausio 31 d. įsakymas Nr. ĮV-195 \"Dėl Lietuvos autorių teisių ir gretutinių teisių komisijos nuostatų, tarpininkavimo derybose tvarkos aprašo, ikiteisminio ginčų sprendimo tvarkos aprašo patvirtinimo",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-01796",
+  "official_journal_page": null,
+  "official_journal_date": "2017-01-31",
+  "entry_into_force": "2017-02-01",
+  "notification_date": "2017-02-06",
+  "commission_reference": "MNE(2017)50868",
+  "nim_celex": "72014L0026LTU_244949",
+  "nim_id": "244949",
+  "transposes_celex": [
+    "32014L0026"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7778b642-03d4-4781-a37f-c0360c054674",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
