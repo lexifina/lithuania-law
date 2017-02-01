@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 pakeitimo įstatymas Nr. XIII-193",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-01075",
+  "official_journal_page": null,
+  "official_journal_date": "2017-01-18",
+  "entry_into_force": "2017-02-01",
+  "notification_date": "2017-01-19",
+  "commission_reference": "MNE(2017)50444",
+  "nim_celex": "72014L0104LTU_244414",
+  "nim_id": "244414",
+  "transposes_celex": [
+    "32014L0104"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6b17cf50-b801-409b-95a0-b33e02b6953c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
