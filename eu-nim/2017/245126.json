@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2017 m. vasario 1 d. nutarimas  Nr. 87 „Dėl 2014 m. spalio 22 d. Europos Parlamento ir Tarybos direktyva 2014/94/ES dėl alternatyviųjų degalų infrastruktūros diegimo įgyvendinimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-02181",
+  "official_journal_page": null,
+  "official_journal_date": "2017-02-06",
+  "entry_into_force": "2017-02-07",
+  "notification_date": "2017-02-23",
+  "commission_reference": "MNE(2017)50974",
+  "nim_celex": "72014L0094LTU_245126",
+  "nim_id": "245126",
+  "transposes_celex": [
+    "32014L0094"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6a11d6e6-8367-40bd-8974-b83beb968c23",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
