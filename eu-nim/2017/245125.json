@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2017 m. vasario 1 d. nutarimas Nr. 86  „Dėl Lietuvos Respublikos Vyriausybės 2013 m. gruodžio 18 d. nutarimo Nr. 1253  „Dėl Nacionalinės susisiekimo plėtros 2014-2022 metų  programos patvirtinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-02180",
+  "official_journal_page": null,
+  "official_journal_date": "2017-02-06",
+  "entry_into_force": "2017-02-07",
+  "notification_date": "2017-02-23",
+  "commission_reference": "MNE(2017)50973",
+  "nim_celex": "72014L0094LTU_245125",
+  "nim_id": "245125",
+  "transposes_celex": [
+    "32014L0094"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1e9b79a5-5f6f-4d20-b24f-3cf51e4530a0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
