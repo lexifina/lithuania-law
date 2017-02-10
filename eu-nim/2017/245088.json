@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2017 m. vasario 1 d. nutarimas Nr. 88 „Dėl Vandenų srities plėtros 2017–2023 metų programos patvirtinimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-02348",
+  "official_journal_page": null,
+  "official_journal_date": "2017-02-09",
+  "entry_into_force": "2017-02-10",
+  "notification_date": "2017-02-10",
+  "commission_reference": "MNE(2017)50953",
+  "nim_celex": "71991L0676LTU_245088",
+  "nim_id": "245088",
+  "transposes_celex": [
+    "31991L0676",
+    "32008L0056"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/637fe52c-405c-48c5-970b-abb851d06707",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
