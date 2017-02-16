@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2017 m. vasario 14 d. nutarimas Nr. 03-27 „Dėl Lietuvos banko finansų rinkos priežiūros politikos patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-02592",
+  "official_journal_page": null,
+  "official_journal_date": "2017-02-15",
+  "entry_into_force": "2017-02-16",
+  "notification_date": "2024-08-27",
+  "commission_reference": "MNE(2024)03749",
+  "nim_celex": "72019L0878LTU_202403749",
+  "nim_id": "202403749",
+  "transposes_celex": [
+    "32019L0878"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/24df8585-e666-410b-9a97-fc1521e8f68f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
