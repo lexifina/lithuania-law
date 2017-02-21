@@ -17,3 +17,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2015-10-28 | 2015-12-31 | Įstatymas Nr. XII-1965 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/f04806433a69550420c50b97fa7c65f4c0c70734/istatymai/TAR.C8205E261830.md) |
 | 2016-01-01 | 2016-12-31 | Įstatymas Nr. XII-1965 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/7404c3f287845de57263e0d03a52328d4147386a/istatymai/TAR.C8205E261830.md) |
 | 2017-01-01 | 2017-02-20 | Įstatymas Nr. XII-2689 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/44b942ed9f430c29d70625d613b7097c0b42dc50/istatymai/TAR.C8205E261830.md) |
+| 2017-02-21 | 2018-06-30 | Įstatymas Nr. XIII-204 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/7eefef43c0c2bea7aaae68eefe950be3ae56cc3c/istatymai/TAR.C8205E261830.md) |
