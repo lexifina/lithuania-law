@@ -1,5 +1,3 @@
-AUDITO
-ĮSTATYMAS
 1999 m. birželio 15 d. Nr. VIII-1227
 Vilnius
 PIRMASIS SKIRSNIS
