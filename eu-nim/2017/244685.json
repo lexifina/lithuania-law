@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2017 m. sausio 24 d. nutarimas Nr. 03-14  „Dėl Reikalavimų audito komitetams aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-1371",
+  "official_journal_page": null,
+  "official_journal_date": "2017-01-25",
+  "entry_into_force": "2017-03-01",
+  "notification_date": "2017-01-26",
+  "commission_reference": "MNE(2017)50639",
+  "nim_celex": "72014L0056LTU_244685",
+  "nim_id": "244685",
+  "transposes_celex": [
+    "32014L0056"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/33dfed3f-7719-4477-8590-5b9c0504aa57",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
