@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Audito, apskaitos, turto vertinimo ir nemokumo valdymo tarnybos prie Lietuvos Respublikos finansų ministerijos direktoriaus 2017 m. vasario 10 d. įsakymas Nr. V3-5 „Dėl asmenų, atliekančių auditorių ir audito įmonių viešąją priežiūrą, finansinių ataskaitų audito kokybės užtikrinimą, finansinių ataskaitų audito kokybės tyrimą ar pažeidimo tyrimą, nepriklausomumo principo laikymosi reikalavimų tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-03197",
+  "official_journal_page": null,
+  "official_journal_date": "2017-02-27",
+  "entry_into_force": "2017-03-01",
+  "notification_date": "2017-03-09",
+  "commission_reference": "MNE(2017)51248",
+  "nim_celex": "72014L0056LTU_245544",
+  "nim_id": "245544",
+  "transposes_celex": [
+    "32014L0056"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2c6b569c-f1a9-4d1b-a014-15024ace03d3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
