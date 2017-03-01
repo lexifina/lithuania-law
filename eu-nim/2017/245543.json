@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Audito, apskaitos, turto vertinimo ir nemokumo valdymo tarnybos prie Lietuvos Respublikos finansų ministerijos direktoriaus 2017 m. vasario 9 d. įsakymas Nr. V3-4 „Dėl nepriklausomumo nuo audituojamos įmonės, konfidencialumo ir profesinės paslapties principo  laikymosi  tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-03196",
+  "official_journal_page": null,
+  "official_journal_date": "2017-02-27",
+  "entry_into_force": "2017-03-01",
+  "notification_date": "2017-03-09",
+  "commission_reference": "MNE(2017)51247",
+  "nim_celex": "72014L0056LTU_245543",
+  "nim_id": "245543",
+  "transposes_celex": [
+    "32014L0056"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5743e7d3-efff-414c-920c-830472c92cf3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
