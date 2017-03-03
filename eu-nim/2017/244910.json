@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos audito įstatymo Nr. VIII-1227 pakeitimo įstatymas Nr. XIII-96",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-29408",
+  "official_journal_page": null,
+  "official_journal_date": "2016-12-23",
+  "entry_into_force": "2017-03-03",
+  "notification_date": "2017-02-01",
+  "commission_reference": "MNE(2017)50848",
+  "nim_celex": "72014L0056LTU_244910",
+  "nim_id": "244910",
+  "transposes_celex": [
+    "32014L0056"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/059b4f78-99f9-483b-b813-a6697abe3db9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
