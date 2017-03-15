@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Audito, apskaitos, turto vertinimo ir nemokumo valdymo tarnybos prie Lietuvos Respublikos finansų ministerijos direktoriaus 2017 m. kovo 13 d. įsakymas Nr. V3-13 „Dėl Valstybių ne narių auditorių ir valstybių ne narių audito įmonių įrašymo į auditorių ir audito įmonių sąrašus, atlikto finansinių ataskaitų audito kokybės tikrinimo, tyrimų ir nurodymų ar poveikio priemonių skyrimo tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-04293",
+  "official_journal_page": null,
+  "official_journal_date": "2017-03-14",
+  "entry_into_force": "2017-03-15",
+  "notification_date": "2017-03-17",
+  "commission_reference": "MNE(2017)51589",
+  "nim_celex": "72014L0056LTU_246115",
+  "nim_id": "246115",
+  "transposes_celex": [
+    "32014L0056"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d4f21724-10e5-11e7-a581-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
