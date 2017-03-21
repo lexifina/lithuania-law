@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2017 m. kovo 20 d.  įsakymas Nr. 3-125 „Dėl Lietuvos Respublikos susisiekimo ministro 2015 m. gegužės 6 d. įsakymo Nr. 3-173 (1.5 E) „Dėl viešosios elektromobilių įkrovimo infrastruktūros plėtros rekomendacijų ir šalia valstybinės reikšmės kelių numatomų įrengti viešųjų elektromobilių įkrovimo prieigų plano patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-04605",
+  "official_journal_page": null,
+  "official_journal_date": "2017-03-20",
+  "entry_into_force": "2017-03-21",
+  "notification_date": "2017-03-29",
+  "commission_reference": "MNE(2017)51900",
+  "nim_celex": "72014L0094LTU_246526",
+  "nim_id": "246526",
+  "transposes_celex": [
+    "32014L0094"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4ed78987-8af4-4de1-b997-0e3c95271004",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
