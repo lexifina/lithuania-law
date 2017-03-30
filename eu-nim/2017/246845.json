@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos kultūros ministro 2017 m. kovo 29 d. įsakymas Nr. ĮV-509 „Dėl kolektyvinio autorių teisių ir gretutinių teisių administravimo organizacijų skaidrumo ataskaitai būtinos informacijos sąrašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "2017-05044",
+  "official_journal_page": null,
+  "official_journal_date": "2017-03-29",
+  "entry_into_force": "2017-03-30",
+  "notification_date": "2017-04-10",
+  "commission_reference": "MNE(2017)52133",
+  "nim_celex": "72014L0026LTU_246845",
+  "nim_id": "246845",
+  "transposes_celex": [
+    "32014L0026"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3b8dd034-9030-47a6-8ca8-1bb2bc972417",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
