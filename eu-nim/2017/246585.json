@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2017 m. kovo 30 d. įsakymas Nr. 3D-219 \"Dėl žemės ūkio ministro 2000 m. birželio 30 d. įsakymo Nr. 215 „Dėl Rinkai tiekiamų sėklinių bulvių privalomųjų reikalavimų aprašo patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-05208",
+  "official_journal_page": null,
+  "official_journal_date": "2017-03-30",
+  "entry_into_force": "2017-03-31",
+  "notification_date": "2017-03-31",
+  "commission_reference": "MNE(2017)51931",
+  "nim_celex": "72016L0317LTU_246585",
+  "nim_id": "246585",
+  "transposes_celex": [
+    "32016L0317"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/36dc6d13-bc14-4b39-a0c1-b6cf74f20f63",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
