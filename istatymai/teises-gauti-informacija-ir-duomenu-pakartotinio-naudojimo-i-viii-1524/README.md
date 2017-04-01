@@ -17,3 +17,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2010-07-01 | 2012-06-30 | Įstatymas Nr. XI-809 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/1a5106eb91a85eb3c4608f13ab8bbc421edc1789/istatymai/TAR.FA13E28615F6.md) |
 | 2012-07-01 | 2014-06-30 | Įstatymas Nr. XI-1980 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/726130b854c918e83938756cb90948cc04703ad7/istatymai/TAR.FA13E28615F6.md) |
 | 2014-07-01 | 2017-03-31 | Įstatymas Nr. XII-871 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/2e67006cf9579ee802e8cb79fc7d5733c00c3edd/istatymai/TAR.FA13E28615F6.md) |
+| 2017-04-01 | 2018-08-31 | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/d115e0e84cdd93058eda8a1bbcc863c98bc695f6/istatymai/TAR.FA13E28615F6.md) |
