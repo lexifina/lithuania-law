@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo Nr. VIII-1524 pakeitimo įstatymas Nr. XII-2666",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "25262",
+  "official_journal_page": null,
+  "official_journal_date": "2016-10-17",
+  "entry_into_force": "2017-04-01",
+  "notification_date": "2016-11-11",
+  "commission_reference": "MNE(2016)56763",
+  "nim_celex": "72013L0037LTU_241968",
+  "nim_id": "241968",
+  "transposes_celex": [
+    "32013L0037"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ae8dee27-cc94-4683-891c-9a289094a880",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
