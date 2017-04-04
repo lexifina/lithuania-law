@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro 2017 m. balandžio 3 d. įsakymas Nr. 1V-247 \"Dėl teritoriunių policijos įstaigų areštinių vidaus tvarkos taisyklių patvirtinimo\" (Suvestinė redakcija nuo 2018-10-24)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-05461",
+  "official_journal_page": null,
+  "official_journal_date": null,
+  "entry_into_force": "2017-04-04",
+  "notification_date": "2019-03-22",
+  "commission_reference": "MNE(2018)57009",
+  "nim_celex": "72016L0800LTU_266778",
+  "nim_id": "266778",
+  "transposes_celex": [
+    "32016L0800"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/73616870-8b69-42da-a672-1f810c2ace7c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
