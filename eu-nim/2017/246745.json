@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro 2017 m. balandžio 3 d. įsakymas Nr. 4-194 „Dėl Informacijos apie motorinių transporto priemonių naudojamus degalus pateikimo tvarkos aprašo“ patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-05522",
+  "official_journal_page": null,
+  "official_journal_date": "2017-04-04",
+  "entry_into_force": "2017-04-05",
+  "notification_date": "2017-04-10",
+  "commission_reference": "MNE(2017)52061",
+  "nim_celex": "72014L0094LTU_246745",
+  "nim_id": "246745",
+  "transposes_celex": [
+    "32014L0094"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1ebf5324-4885-4f56-854e-9a49538440a4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
