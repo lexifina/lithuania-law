@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos saugios laivybos administracijos direktoriaus 2017 m. balandžio balandžio 4 d.įsakymas Nr. V-46 „Dėl Lietuvos saugios laivybos administracijos direktoriaus 2004 m. balandžio 15 d. įsakymo Nr. V-61 „Dėl Reikalavimų keleiviniams laivams patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-05625",
+  "official_journal_page": null,
+  "official_journal_date": "2017-04-05",
+  "entry_into_force": "2017-04-06",
+  "notification_date": "2017-04-20",
+  "commission_reference": "MNE(2017)52222",
+  "nim_celex": "72016L0844LTU_247025",
+  "nim_id": "247025",
+  "transposes_celex": [
+    "32016L0844"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7f21d329-c9f9-4d24-bd90-e650a184193b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
