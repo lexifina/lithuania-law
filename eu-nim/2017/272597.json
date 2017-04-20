@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2017 m. balandžio 18 d. įsakymas Nr. A1-182 „Dėl Valstybinės smurto artimoje aplinkoje prevencijos ir pagalbos teikimo nukentėjusiems asmenims 2014–2020 metų programos įgyvendinimo 2017–2020 metų veiksmų plano patvirtinimo“ (Suvestinė redakcija nuo 2018-12-11)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-06554",
+  "official_journal_page": null,
+  "official_journal_date": "2017-04-19",
+  "entry_into_force": "2017-04-20",
+  "notification_date": "2019-05-08",
+  "commission_reference": "MNE(2019)52804",
+  "nim_celex": "72012L0029LTU_272597",
+  "nim_id": "272597",
+  "transposes_celex": [
+    "32012L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f1996a1d-e6bc-4648-961d-54c5f1448890",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
