@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2017 m. kovo 6 d. įsakymas Nr. D1-203 „Dėl Lietuvos Respublikos aplinkos ministro 2011 m. kovo 30 d. įsakymo Nr. D1-262 „Dėl tiekėjų, kurie į rinką tiekia degalus ir energiją, būvio ciklo metu išmetamų šiltnamio efektą sukeliančių dujų kiekio mažinimo tikslų, stebėsenos ir ataskaitų teikimo reikalavimų nustatymo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-03719",
+  "official_journal_page": null,
+  "official_journal_date": "2017-03-07",
+  "entry_into_force": "2017-04-20",
+  "notification_date": "2017-09-08",
+  "commission_reference": "MNE(2017)53539",
+  "nim_celex": "72015L1513LTU_248742",
+  "nim_id": "248742",
+  "transposes_celex": [
+    "32015L1513"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/77f7f8bc-e8cd-43b0-a821-f6f68a65f4f5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
