@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2016 m. gruodžio 8 d. įsakymas Nr. V-1377 „Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2007 m. gegužės 21 d. įsakymo Nr. V-397 „Dėl Mirusio žmogaus audinių ir gyvo žmogaus audinių ir ląstelių donorystės, paėmimo, ištyrimo, apdorojimo, konservavimo, laikymo, paskirstymo sąlygų tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-28611",
+  "official_journal_page": null,
+  "official_journal_date": "2016-12-09",
+  "entry_into_force": "2017-04-29",
+  "notification_date": "2017-02-15",
+  "commission_reference": "MNE(2017)51006",
+  "nim_celex": "72004L0023LTU_245160",
+  "nim_id": "245160",
+  "transposes_celex": [
+    "32004L0023",
+    "32006L0017",
+    "32006L0086"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e4a9b32e-2c7f-47e6-9ef0-11f87476c918",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
