@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos nuodingųjų medžiagų kontrolės įstatymo Nr. IX-456 pakeitimo įstatymas Nr. XII-2727",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-26895",
+  "official_journal_page": null,
+  "official_journal_date": "2016-11-16",
+  "entry_into_force": "2017-05-01",
+  "notification_date": "2017-03-29",
+  "commission_reference": "MNE(2017)51846",
+  "nim_celex": "71974L0556LTU_246445",
+  "nim_id": "246445",
+  "transposes_celex": [
+    "31974L0556",
+    "31974L0557"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/609defab-62d3-42d4-860f-b96923de1544",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
