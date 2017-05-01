@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 2, 12(1), 19, 44, 57, 61, 62, 63 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 62(1) straipsniu įstatymas Nr. XIII-219",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-04613",
+  "official_journal_page": null,
+  "official_journal_date": "2017-03-20",
+  "entry_into_force": "2017-05-01",
+  "notification_date": "2017-03-29",
+  "commission_reference": "MNE(2017)51899",
+  "nim_celex": "72014L0036LTU_246525",
+  "nim_id": "246525",
+  "transposes_celex": [
+    "32014L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5c25186e-e36a-48ad-9857-26f22498b8d7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
