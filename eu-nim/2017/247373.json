@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Socialinės apsaugos ir darbo ministro 2017 m. balandžio 18 d. įsakymas Nr. A1-186 „Dėl Lietuvos Respublikos Socialinės apsaugos ir darbo ministro 2009 m. gegužės 12 d. įsakymo Nr. A1-316 „Dėl Lietuvos Respublikos Valstybinės darbo inspekcijos prie Socialinės apsaugos ir darbo ministerijos nuostatų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-06593",
+  "official_journal_page": null,
+  "official_journal_date": "2017-04-19",
+  "entry_into_force": "2017-05-01",
+  "notification_date": "2017-05-09",
+  "commission_reference": "MNE(2017)52408",
+  "nim_celex": "72014L0036LTU_247373",
+  "nim_id": "247373",
+  "transposes_celex": [
+    "32014L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c85a35e5-0dd4-4328-a70f-2e3ba32569af",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
