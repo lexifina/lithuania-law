@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos paramos mirties atveju įstatymo Nr. I-348 2, 5 straipsnių ir priedo pakeitimo įstatymas Nr. XIII-302",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-06978",
+  "official_journal_page": null,
+  "official_journal_date": "2017-04-26",
+  "entry_into_force": "2017-05-01",
+  "notification_date": "2017-05-09",
+  "commission_reference": "MNE(2017)52407",
+  "nim_celex": "72014L0036LTU_247372",
+  "nim_id": "247372",
+  "transposes_celex": [
+    "32014L0036",
+    "32014L0066"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/faeec0db-ad4b-4d73-b011-85a218eee1b0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
