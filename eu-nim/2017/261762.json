@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 15 straipsnio pakeitimo įstatymas Nr. XII-2728",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-26838",
+  "official_journal_page": null,
+  "official_journal_date": "2016-11-15",
+  "entry_into_force": "2017-05-01",
+  "notification_date": "2018-08-28",
+  "commission_reference": "MNE(2018)54270",
+  "nim_celex": "71974L0556LTU_261762",
+  "nim_id": "261762",
+  "transposes_celex": [
+    "31974L0556"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d47a07b3-f402-4e1d-8ee5-eed403bbbdfe",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
