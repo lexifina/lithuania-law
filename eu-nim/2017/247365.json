@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro  2017 m. balandžio 24 d. įsakymas  Nr. 3-185 „Dėl Lietuvos Respublikos susisiekimo ministro 2002 m. vasario 18 d. įsakymo Nr. 3-66 „Dėl didžiausiųjų leidžiamų naudojantis keliais transporto priemonių ar jų junginių techninių parametrų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "6833",
+  "official_journal_page": null,
+  "official_journal_date": "2017-04-24",
+  "entry_into_force": "2017-05-05",
+  "notification_date": "2017-05-09",
+  "commission_reference": "MNE(2017)52400",
+  "nim_celex": "72015L0719LTU_247365",
+  "nim_id": "247365",
+  "transposes_celex": [
+    "32015L0719"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a4ec17ac-ab4f-4540-84da-b51827ace810",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
