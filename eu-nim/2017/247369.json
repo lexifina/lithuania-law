@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo proceso kodekso 8, 71-1 ir 80 straipsnių pakeitimo įstatymas Nr. XIII-324",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-07683",
+  "official_journal_page": null,
+  "official_journal_date": "2017-05-05",
+  "entry_into_force": "2017-05-06",
+  "notification_date": "2017-05-08",
+  "commission_reference": "MNE(2017)52404",
+  "nim_celex": "72010L0064LTU_247369",
+  "nim_id": "247369",
+  "transposes_celex": [
+    "32010L0064"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/48ac1ae8-1b33-474e-992b-041a8356d2ac",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
