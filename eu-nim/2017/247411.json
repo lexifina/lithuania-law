@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro ir Lietuvos Respublikos žemės ūkio ministro 2017 m. gegužės 5 d. įsakymas Nr. D1-375/3D-312 „Dėl Vandenų srities plėtros 2017–2023 metų programos įgyvendinimo veiksmų plano patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-07777",
+  "official_journal_page": null,
+  "official_journal_date": "2017-05-08",
+  "entry_into_force": "2017-05-09",
+  "notification_date": "2017-05-09",
+  "commission_reference": "MNE(2017)52429",
+  "nim_celex": "72008L0056LTU_247411",
+  "nim_id": "247411",
+  "transposes_celex": [
+    "32008L0056"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8bcd969d-24f9-4640-ad4c-167d2e9d5c0f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
