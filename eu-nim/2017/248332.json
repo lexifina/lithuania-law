@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2017 m. gegužės 15 d. įsakymas Nr. A1-253 „Dėl Leidimų dirbti sezoninį darbą užsieniečiams išdavimo tvarkos aprašo ir sezoninių darbų sąrašo patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-08371",
+  "official_journal_page": null,
+  "official_journal_date": "2017-05-18",
+  "entry_into_force": "2017-05-19",
+  "notification_date": "2017-06-15",
+  "commission_reference": "MNE(2017)53210",
+  "nim_celex": "72014L0036LTU_248332",
+  "nim_id": "248332",
+  "transposes_celex": [
+    "32014L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6a9e6267-9100-46bd-a113-b5b4e8ee3af4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
