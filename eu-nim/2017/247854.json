@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo proceso kodekso 10, 44, 48, 50, 52, 69, 69-1, 71-1, 72, 128, 140, 168, 190, 192, 196, 197, 233 straipsnių ir priedo pakeitimo įstatymas Nr. XIII-357",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-08713",
+  "official_journal_page": null,
+  "official_journal_date": "2017-05-24",
+  "entry_into_force": "2017-05-25",
+  "notification_date": "2017-05-25",
+  "commission_reference": "MNE(2017)52777",
+  "nim_celex": "72013L0048LTU_247854",
+  "nim_id": "247854",
+  "transposes_celex": [
+    "32013L0048"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6f896251-1137-4777-817f-32e6a81a9812",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
