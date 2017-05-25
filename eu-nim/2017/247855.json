@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 45, 46 straipsnių ir priedo pakeitimo įstatymas Nr. XIII-358",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-08717",
+  "official_journal_page": null,
+  "official_journal_date": "2017-05-24",
+  "entry_into_force": "2017-05-25",
+  "notification_date": "2017-05-25",
+  "commission_reference": "MNE(2017)52778",
+  "nim_celex": "72013L0048LTU_247855",
+  "nim_id": "247855",
+  "transposes_celex": [
+    "32013L0048"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ed6d155b-792c-4b90-8d35-588d88545c00",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
