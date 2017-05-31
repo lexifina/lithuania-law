@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių nusižengimų kodekso 187 straipsnio pakeitimo įstatymas Nr. XIII-375",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-09155",
+  "official_journal_page": null,
+  "official_journal_date": "2017-05-30",
+  "entry_into_force": "2017-05-31",
+  "notification_date": "2017-06-05",
+  "commission_reference": "MNE(2017)52961",
+  "nim_celex": "72016L0881LTU_248069",
+  "nim_id": "248069",
+  "transposes_celex": [
+    "32016L0881"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1ec797dc-1ede-4d03-8920-b84aad3f22d0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
