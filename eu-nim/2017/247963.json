@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 14, 61 straipsnių ir priedo pakeitimo įstatymas Nr. XIII-374",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-09154",
+  "official_journal_page": null,
+  "official_journal_date": "2017-05-30",
+  "entry_into_force": "2017-05-31",
+  "notification_date": "2017-06-01",
+  "commission_reference": "MNE(2017)52876",
+  "nim_celex": "72016L0881LTU_247963",
+  "nim_id": "247963",
+  "transposes_celex": [
+    "32016L0881"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4855eb79-c828-4e28-9a8f-621794b493ab",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
