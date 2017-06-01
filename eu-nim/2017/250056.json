@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos trišalės tarybos (ekonominės socialinės tarybos) nuostatai, patvirtinti Lietuvos Respublikos trišalės tarybos 2017 m. gegužės 23 d. protokolu Nr. TTP-11",
+  "type_of_act": "Administracinės priemonės",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-09178",
+  "official_journal_page": null,
+  "official_journal_date": "2017-05-31",
+  "entry_into_force": "2017-06-01",
+  "notification_date": "2017-08-09",
+  "commission_reference": "MNE(2017)54545",
+  "nim_celex": "72014L0054LTU_250056",
+  "nim_id": "250056",
+  "transposes_celex": [
+    "32014L0054"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/422fa34a-eff9-4128-a1c4-905c0215ff8f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
