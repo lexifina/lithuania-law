@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos viršininko 2017 m. gegužės 31 d. įsakymas Nr. VA-47 „Dėl Informacijos, būtinos tarptautiniams bendradarbiavimo įsipareigojimams dėl apsikeitimo informacija apie tarptautinių įmonių grupių pateiktas ataskaitas įgyvendinti, pateikimo taisyklių patvirtinimo“ (suvestinė redakcija nuo 2024-11-21)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-09216",
+  "official_journal_page": null,
+  "official_journal_date": "2017-05-31",
+  "entry_into_force": "2017-06-05",
+  "notification_date": "2025-12-31",
+  "commission_reference": "MNE(2025)07456",
+  "nim_celex": "72025L0872LTU_202507456",
+  "nim_id": "202507456",
+  "transposes_celex": [
+    "32025L0872"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d0bc4333-41e0-4ae8-982b-ff439d70a998",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
