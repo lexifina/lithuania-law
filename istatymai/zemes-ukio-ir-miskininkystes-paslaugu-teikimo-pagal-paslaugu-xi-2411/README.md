@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2013-04-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/5c21492ff1f5db050953df2671c9bf5125589bd5/istatymai/TAR.8E6142CD3156.md) |
+| 2017-06-10 | 2021-08-31 | Įstatymas Nr. XIII-407 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/4c8364e9f5735b25452d601cf251820d4d81cac0/istatymai/TAR.8E6142CD3156.md) |
