@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 1, 2, 6, 38, 58 straipsnių ir priedo pakeitimo įstatymas Nr. XIII-406",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-09791",
+  "official_journal_page": null,
+  "official_journal_date": "2017-06-09",
+  "entry_into_force": "2017-06-10",
+  "notification_date": "2017-06-27",
+  "commission_reference": "MNE(2017)53381",
+  "nim_celex": "72015L1513LTU_248567",
+  "nim_id": "248567",
+  "transposes_celex": [
+    "32015L1513"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0b836390-b4ca-4391-b12b-b92c977d032d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
