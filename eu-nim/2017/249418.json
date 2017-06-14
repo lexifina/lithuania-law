@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos viršininko 2017 m. birželio 12 d. įsakymas Nr. VA-52 „Dėl Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos viršininko 2008 m. spalio 16 d. įsakymo Nr. VA-53 „Dėl Pranešimo apie palūkanų, gautų iš taupymo pajamų, išmokėjimą GPM306 formos, jos priedų GPM 306F, GPM306FP, GPM306V, GPM306VP formų pildymo ir teikimo taisyklių patvirtinimo“ pripažinimo netekusiu galios“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-09906",
+  "official_journal_page": null,
+  "official_journal_date": "2017-06-13",
+  "entry_into_force": "2017-06-14",
+  "notification_date": "2017-08-02",
+  "commission_reference": "MNE(2017)54097",
+  "nim_celex": "72015L2060LTU_249418",
+  "nim_id": "249418",
+  "transposes_celex": [
+    "32015L2060"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/eb7e971d-69d0-44e6-bc07-d32590c04a37",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
