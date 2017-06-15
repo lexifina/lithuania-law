@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 12, 13, 20, 22, 23, 24, 25, 26, 29, 31, 32, 35, 36, 37, 39, 40, 41, 42, 46, 48, 56, 57, 58, 60 straipsnių pakeitimo ir Įstatymo papildymo 39-1 straipsniu įstatymas Nr. XIII-416",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-10024",
+  "official_journal_page": null,
+  "official_journal_date": "2017-06-14",
+  "entry_into_force": "2017-06-15",
+  "notification_date": "2017-08-09",
+  "commission_reference": "MNE(2017)54543",
+  "nim_celex": "72014L0054LTU_250054",
+  "nim_id": "250054",
+  "transposes_celex": [
+    "32014L0054"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/615b24cc-09cd-4d69-914d-18c600442618",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
