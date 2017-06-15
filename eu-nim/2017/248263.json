@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo proceso kodekso 66, 67, 77 straipsnių ir priedo pakeitimo ir 41(1), 77(2) straipsnių pripažinimo netekusiais galios įstatymas Nr. XIII-398",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-09781",
+  "official_journal_page": null,
+  "official_journal_date": "2017-06-09",
+  "entry_into_force": "2017-06-15",
+  "notification_date": "2017-06-14",
+  "commission_reference": "MNE(2017)53151",
+  "nim_celex": "72014L0041LTU_248263",
+  "nim_id": "248263",
+  "transposes_celex": [
+    "32014L0041"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/542f8c8e-5678-4643-8fe3-a99ae0eb08d2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
