@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo ir atstovavimo valstybei ir Lietuvos Respublikos Vyriausybei įstatymo Nr. IX-895 5(2) straipsnio ir priedo pakeitimo įstatymas Nr. XIII-400",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-09784",
+  "official_journal_page": null,
+  "official_journal_date": "2017-06-09",
+  "entry_into_force": "2017-06-15",
+  "notification_date": "2017-06-14",
+  "commission_reference": "MNE(2017)53156",
+  "nim_celex": "72014L0041LTU_248268",
+  "nim_id": "248268",
+  "transposes_celex": [
+    "32014L0041"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f6953d11-726d-4fe6-b604-a68e9319e9d7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
