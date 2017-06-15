@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės kainų ir ernergetikos kontrolės komisijos 2016 m. birželio 13 d. nutarimas Nr O3-178 \"Dėl Valstybinės kainų ir energetikos kontrolės komisijos 2004 m. lapkričio 11 d. nutarimo Nr. O3-121 \"Dėl Šilumos paskirstymo vartotojams metodų rengimo ir taikymo taisyklių patvirtinimo' pakeitimo ir išdėstymo nauja redakcija'",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-16352",
+  "official_journal_page": null,
+  "official_journal_date": "2016-06-14",
+  "entry_into_force": "2017-06-15",
+  "notification_date": "2016-11-23",
+  "commission_reference": "MNE(2016)56613",
+  "nim_celex": "72012L0027LTU_241783",
+  "nim_id": "241783",
+  "transposes_celex": [
+    "32012L0027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/be3d4ca2-5be4-4872-b76d-b403ccdb2998",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
