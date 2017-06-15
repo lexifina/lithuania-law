@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 7 ir 8 straipsnių pakeitimo įstatymas Nr. XIII-399",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-09783",
+  "official_journal_page": null,
+  "official_journal_date": "2017-06-09",
+  "entry_into_force": "2017-06-15",
+  "notification_date": "2017-06-14",
+  "commission_reference": "MNE(2017)53164",
+  "nim_celex": "72014L0041LTU_248276",
+  "nim_id": "248276",
+  "transposes_celex": [
+    "32014L0041"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2499810c-76db-4eb4-a9dd-88097a7c8764",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
