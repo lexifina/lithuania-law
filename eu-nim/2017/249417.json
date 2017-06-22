@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "2017 m. birželio 7 d. Lietuvos Respublikos finansų ministro įsakymas Nr. 1K-222 \"Dėl finansų ministro 2004 m. spalio 26 d. įsakymo Nr. 1K-345 \"Dėl Pateiktinų duomenų sąrašo bei juos privalančių teikti subjektų kategorijų aprašo patvirtinimo“ pripažinimo netekusiu galios\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-10381",
+  "official_journal_page": null,
+  "official_journal_date": "2017-06-21",
+  "entry_into_force": "2017-06-22",
+  "notification_date": "2017-08-02",
+  "commission_reference": "MNE(2017)54096",
+  "nim_celex": "72015L2060LTU_249417",
+  "nim_id": "249417",
+  "transposes_celex": [
+    "32015L2060"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3083a5a0-c832-450b-9dde-aeb92814d4c9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
