@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 2, 3, 7, 44, 67, 70, 71, 73-1, 76, 81, 83, 84, 93, 94 straipsnių ir priedo pakeitimo ir IV skyriaus, 25-1, 68 straipsnių pripažinimo netekusiais galios įstatymas Nr. XIII-462",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-10819",
+  "official_journal_page": null,
+  "official_journal_date": "2017-06-27",
+  "entry_into_force": "2017-06-28",
+  "notification_date": "2019-04-09",
+  "commission_reference": "MNE(2019)51963",
+  "nim_celex": "72014L0057LTU_271400",
+  "nim_id": "271400",
+  "transposes_celex": [
+    "32014L0057"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bff46746-ccb3-44c9-a964-c5073f2a7b07",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
