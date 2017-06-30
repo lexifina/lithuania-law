@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2017 m. birželio 28 d. nutarimas Nr. 515 „Dėl Lietuvos Respublikos Vyriausybės 2004 m. balandžio 28 d. nutarimo Nr. 518 „Dėl įgaliojimų suteikimo įgyvendinant Lietuvos Respublikos mokesčių administravimo įstatymo 61 straipsnį“ pripažinimo netekusiu galios",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-11066",
+  "official_journal_page": null,
+  "official_journal_date": "2017-06-29",
+  "entry_into_force": "2017-06-30",
+  "notification_date": "2017-08-01",
+  "commission_reference": "MNE(2017)54095",
+  "nim_celex": "72015L2060LTU_249416",
+  "nim_id": "249416",
+  "transposes_celex": [
+    "32015L2060"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ff0cae4d-252f-49b4-baa7-b8e6c99647b5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
