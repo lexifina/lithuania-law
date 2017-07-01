@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Viešųjų pirkimų tarnybos direktoriaus 2017 m. birželio 6 d. įsakymas Nr. 1S-80 „Dėl Viešųjų pirkimų ir pirkimų ataskaitų rengimo ir teikimo tvarkos aprašo, viešųjų pirkimų ir pirkimų ataskaitų formų patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-09669",
+  "official_journal_page": null,
+  "official_journal_date": "2017-06-07",
+  "entry_into_force": "2017-07-01",
+  "notification_date": "2017-06-08",
+  "commission_reference": "MNE(2017)52990",
+  "nim_celex": "72014L0024LTU_248100",
+  "nim_id": "248100",
+  "transposes_celex": [
+    "32014L0024",
+    "32014L0025"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fb7d6a83-955a-405a-b0c0-d30659288c5c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
