@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 pakeitimo įstatymas Nr. XIII-327",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-07550",
+  "official_journal_page": null,
+  "official_journal_date": "2017-05-04",
+  "entry_into_force": "2017-07-01",
+  "notification_date": "2025-05-16",
+  "commission_reference": "MNE(2025)02366",
+  "nim_celex": "72019L0882LTU_202502366",
+  "nim_id": "202502366",
+  "transposes_celex": [
+    "32019L0882"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/28dc6e32-7fb3-4686-8446-b48893939d91",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
