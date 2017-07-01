@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 1, 2, 3, 9, 10, 12, 13, 16, 21, 22, 25, 26, 27, 29, 31, 33, 34, 35, 44 straipsnių, V skyriaus ir priedo pakeitimo ir įstatymo papildymo V (1) skyriumi įstatymas Nr. XII-2607",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-23712",
+  "official_journal_page": null,
+  "official_journal_date": "2016-09-19",
+  "entry_into_force": "2017-07-01",
+  "notification_date": "2017-10-17",
+  "commission_reference": "MNE(2017)55060",
+  "nim_celex": "71994L0033LTU_250772",
+  "nim_id": "250772",
+  "transposes_celex": [
+    "31994L0033"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3885c265-cf3a-45ad-8017-b6bcf44714e6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
