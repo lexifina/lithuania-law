@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2017 m. gegužės 23 d. įsakymas Nr. A1-258 „Dėl Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2005 m. birželio 16 d. įsakymo Nr. A1-169 „Dėl informavimo apie komandiruotus darbuotojus tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-08938",
+  "official_journal_page": null,
+  "official_journal_date": "2017-05-29",
+  "entry_into_force": "2017-07-01",
+  "notification_date": "2018-03-20",
+  "commission_reference": "MNE(2018)51254",
+  "nim_celex": "72014L0067LTU_256574",
+  "nim_id": "256574",
+  "transposes_celex": [
+    "32014L0067"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f977ef0c-bbed-49d8-853a-1142cdeb6e23",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
