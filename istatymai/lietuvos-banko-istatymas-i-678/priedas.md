@@ -85,3 +85,18 @@ Valiutos keityklos operatoriai
 434 Eur
 20.
 Sutelktinio finansavimo platformos operatoriai
+–
+3 000 Eur
+21.
+Kredito davėjai, išskyrus kredito įstaigas ir jų filialus Lietuvos Respublikoje
+Vidutinė metinė likusi grąžinti išmokėtų kreditų suma
+0,0125 proc., bet ne mažiau kaip 100 Eur
+22.
+Tarpusavio skolinimo platformos operatoriai
+–
+3 000 Eur
+23.
+Nepriklausomi kredito tarpininkai
+–
+217 Eur
+24.
