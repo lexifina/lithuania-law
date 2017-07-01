@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas (Suvestinė redakcija nuo 2022-07-12 iki 2022-07-31)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-23709",
+  "official_journal_page": null,
+  "official_journal_date": "2016-09-19",
+  "entry_into_force": "2017-07-01",
+  "notification_date": "2022-08-01",
+  "commission_reference": "MNE(2022)04843",
+  "nim_celex": "72019L1158LTU_202204843",
+  "nim_id": "202204843",
+  "transposes_celex": [
+    "32019L1158"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6a8afede-1495-11ed-8fa0-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
