@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymas Nr. XII-2769 (suvestinė redakcija nuo 2024-06-27 iki 2024-07-31)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-26968",
+  "official_journal_page": null,
+  "official_journal_date": "2016-11-17",
+  "entry_into_force": "2017-07-01",
+  "notification_date": "2024-09-13",
+  "commission_reference": "MNE(2024)03949",
+  "nim_celex": "72021L2167LTU_202403949",
+  "nim_id": "202403949",
+  "transposes_celex": [
+    "32021L2167"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a497754f-8959-4637-968c-3689cd9dd452",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
