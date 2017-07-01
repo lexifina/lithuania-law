@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vyriausiojo valstybinio darbo inspektoriaus 2017 m. birželio 16 d. įsakymas Nr. EV-63 Dėl Lietuvos Respublikos Vyriausiojo valstybinio darbo inspektoriaus 2016 m. rugpjūčio 31 d. įsakymo Nr. EV-241 „Dėl Lietuvos Respublikos valstybinės darbo inspekcijos inspektoriaus veiksmų, siekiant nustatyti tikrąjį komandiravimą, tvarkos aprašo patvirtintimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-10121",
+  "official_journal_page": null,
+  "official_journal_date": "2017-06-16",
+  "entry_into_force": "2017-07-01",
+  "notification_date": "2018-03-20",
+  "commission_reference": "MNE(2018)51234",
+  "nim_celex": "72014L0067LTU_256474",
+  "nim_id": "256474",
+  "transposes_celex": [
+    "32014L0067"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/18aefe51-e8e0-46c8-a9fa-bb6282ff68c9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
