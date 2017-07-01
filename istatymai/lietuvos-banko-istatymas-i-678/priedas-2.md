@@ -1,5 +1,6 @@
-# –
-3 000 Eur
+# Nepriklausomi vartojimo kredito tarpininkai
+–
+217 Eur
 Lietuvos Respublikos
 Lietuvos banko įstatymo
 2 priedas
