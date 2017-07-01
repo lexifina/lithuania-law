@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymas Nr. XIII-328",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-07551",
+  "official_journal_page": null,
+  "official_journal_date": "2017-05-04",
+  "entry_into_force": "2017-07-01",
+  "notification_date": "2025-05-16",
+  "commission_reference": "MNE(2025)02365",
+  "nim_celex": "72019L0882LTU_202502365",
+  "nim_id": "202502365",
+  "transposes_celex": [
+    "32019L0882"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0932e64a-ad0c-4b7a-a011-1ca669ffa5c3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
