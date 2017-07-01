@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2017 m. birželio 28 d. nutarimas Nr. 518 \"Dėl asmenų iki aštuoniolikos metų įdarbinimo, darbo ir profesinio parengimo organizavimo tvarkos, vaikų įdarbinimo sąlygų aprašo patvirtinimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-11078",
+  "official_journal_page": null,
+  "official_journal_date": "2017-06-29",
+  "entry_into_force": "2017-07-01",
+  "notification_date": "2020-03-02",
+  "commission_reference": "MNE(2020)50889",
+  "nim_celex": "72017L0159LTU_280757",
+  "nim_id": "280757",
+  "transposes_celex": [
+    "32017L0159"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e9ddd757-5f7a-11ea-b735-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
