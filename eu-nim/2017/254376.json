@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos oro apsaugos įstatymo Nr. VIII-1392 2, 3, 4, 10 straipsnių ir priedo pakeitimo įstatymas Nr. XIII-428",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-10029",
+  "official_journal_page": null,
+  "official_journal_date": "2017-06-14",
+  "entry_into_force": "2017-07-01",
+  "notification_date": "2018-01-09",
+  "commission_reference": "MNE(2018)50182",
+  "nim_celex": "72015L2193LTU_254376",
+  "nim_id": "254376",
+  "transposes_celex": [
+    "32015L2193"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6e5510a0-93a0-4057-a059-01e7e0f3cb0e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
