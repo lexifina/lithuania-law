@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 pakeitimo įstatymas Nr. XII-2471 (galiojanti suvestinė redakcija nuo 2017-07-01)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-18826",
+  "official_journal_page": null,
+  "official_journal_date": "2016-07-05",
+  "entry_into_force": "2017-07-01",
+  "notification_date": "2017-03-24",
+  "commission_reference": "MNE(2017)51778",
+  "nim_celex": "72014L0066LTU_246348",
+  "nim_id": "246348",
+  "transposes_celex": [
+    "32014L0066"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5dbe3b0f-4ac0-4bff-9d22-22d2b6347f41",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
