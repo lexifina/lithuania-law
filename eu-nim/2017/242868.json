@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 42 straipsnio ir 1 priedo pakeitimo įstatymas Nr. XII-2771",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-26971",
+  "official_journal_page": null,
+  "official_journal_date": "2016-11-17",
+  "entry_into_force": "2017-07-01",
+  "notification_date": "2016-11-30",
+  "commission_reference": "MNE(2016)57167",
+  "nim_celex": "72014L0017LTU_242868",
+  "nim_id": "242868",
+  "transposes_celex": [
+    "32014L0017"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/569ab654-50a6-47e4-a6f9-50c18e5a94c3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
