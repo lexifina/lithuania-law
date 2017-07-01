@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas Nr. XII-2603 (Suvestinė redakcija nuo 2020-01-01)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-23709",
+  "official_journal_page": null,
+  "official_journal_date": "2016-09-19",
+  "entry_into_force": "2017-07-01",
+  "notification_date": "2020-03-02",
+  "commission_reference": "MNE(2020)51361",
+  "nim_celex": "72017L0159LTU_281481",
+  "nim_id": "281481",
+  "transposes_celex": [
+    "32017L0159"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/839c830b-5f7b-11ea-b735-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
