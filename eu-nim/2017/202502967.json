@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2017 m. birželio 28 d. įsakymas Nr. 1-170 „Dėl atsinaujinančių energijos išteklių dalies, palyginti su bendruoju galutiniu energijos suvartojimu, apskaičiavimo metodikos patvirtinimo“ (suvestinė redakcija nuo 2023-09-23)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-11012",
+  "official_journal_page": null,
+  "official_journal_date": "2017-06-29",
+  "entry_into_force": "2017-07-01",
+  "notification_date": "2025-05-23",
+  "commission_reference": "MNE(2025)02967",
+  "nim_celex": "72023L2413LTU_202502967",
+  "nim_id": "202502967",
+  "transposes_celex": [
+    "32023L2413"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a1b946b4-a70e-4f90-a0fc-11ec7765d9da",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
