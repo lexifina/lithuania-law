@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos užimtumo įstatymas Nr. XII-2470 (Suvestinė redakcija nuo 2023-07-01 iki 2024-05-30)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2016-18825",
+  "official_journal_page": null,
+  "official_journal_date": "2016-07-05",
+  "entry_into_force": "2017-07-01",
+  "notification_date": "2025-01-15",
+  "commission_reference": "MNE(2025)00189",
+  "nim_celex": "71992L0057LTU_202500189",
+  "nim_id": "202500189",
+  "transposes_celex": [
+    "31992L0057"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0179998a-cf36-4b26-89f1-0fcc82698205",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
