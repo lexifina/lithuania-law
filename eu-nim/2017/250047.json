@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymo Nr. XII-2603 1 straipsniu patvirtinto Lietuvos Respublikos darbo kodekso 21, 23, 31, 32, 38, 40, 41, 43, 48, 52, 53, 57, 63, 65, 71, 72, 73, 75, 76, 79, 112, 114, 115, 117, 120, 127, 144, 147, 168, 169, 171, 179, 181, 185, 195, 197, 204, 209, 217, 221, 237, 240, 241, 242 ir 250 straipsnių pakeitimo įstatymas Nr. XIII-413",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-10021",
+  "official_journal_page": null,
+  "official_journal_date": "2017-06-14",
+  "entry_into_force": "2017-07-01",
+  "notification_date": "2017-08-09",
+  "commission_reference": "MNE(2017)54536",
+  "nim_celex": "72014L0054LTU_250047",
+  "nim_id": "250047",
+  "transposes_celex": [
+    "32014L0054"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3e32a59b-78bf-4955-b740-7c4ea3bc846d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
