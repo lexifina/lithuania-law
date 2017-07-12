@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2017 m. liepos 5 d. nutarimas Nr. 563 \"Dėl Lietuvos Respublikos Vyriausybės 2010 m. rugsėjo 15 d. nutarimo Nr. 1314 \"Dėl Ataskaitos apie pažangą skatinant ir naudojant atsinaujinančius energijos išteklius teikimo Europos Komisijai tvarkos aprašo patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-11926",
+  "official_journal_page": null,
+  "official_journal_date": "2017-07-11",
+  "entry_into_force": "2017-07-12",
+  "notification_date": "2017-09-08",
+  "commission_reference": "MNE(2017)54162",
+  "nim_celex": "72015L1513LTU_249504",
+  "nim_id": "249504",
+  "transposes_celex": [
+    "32015L1513"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/40f25043-e9dc-4d7d-9266-317161744ec2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
