@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 2, 7, 8, 12, 14, 15, 18, 20, 28, 32, 34, 37, 38, 39, 40, 41, 41-1, 43, 44, 45, 45-1, 46, 47, 51, 52, 54, 57, 59 ir 67 straipsnių pakeitimo ir Įstatymo papildymo 40-1, 47-1, 47-2 ir 53-1 straipsniais įstatymas Nr. XIII-556",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-12059",
+  "official_journal_page": null,
+  "official_journal_date": "2017-07-12",
+  "entry_into_force": "2017-07-13",
+  "notification_date": "2018-08-28",
+  "commission_reference": "MNE(2018)54457",
+  "nim_celex": "72017L1132LTU_262064",
+  "nim_id": "262064",
+  "transposes_celex": [
+    "32017L1132"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/00ea786e-d551-4808-990d-d76786d490b7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
