@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos įstatymo Nr. IX-884 5, 6, 8, 16, 36 straipsnių pakeitimo ir Įstatymo papildymo 24 (1) straipsniu įstatymas Nr. XIII-553",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-12056",
+  "official_journal_page": null,
+  "official_journal_date": "2017-07-12",
+  "entry_into_force": "2017-07-17",
+  "notification_date": "2017-07-13",
+  "commission_reference": "MNE(2017)53842",
+  "nim_celex": "72009L0072LTU_249102",
+  "nim_id": "249102",
+  "transposes_celex": [
+    "32009L0072"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/688d8b42-9a6f-4ced-a16e-a044dceb3acc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
