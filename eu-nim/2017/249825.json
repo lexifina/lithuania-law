@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2017 m. liepos 12 d. nutarimas Nr. 595 “Dėl Lietuvos Respublikos Vyriausybės 2014 m. rugsėjo 24 d. nutarimo Nr. 1026 „Dėl Valstybės reguliuojamų kainų elektros energetikos sektoriuje nustatymo principų aprašo patvirtinimo“ ir 2013 m. liepos 17 d. nutarimo Nr. 640 „Dėl Valstybės reguliuojamų kainų gamtinių dujų sektoriuje nustatymo principų aprašo patvirtinimo ir Lietuvos Respublikos Vyriausybės 2009 m. spalio 7 d. nutarimo Nr. 1276 „Dėl Gamtinių dujų perdavimo, skirstymo, skystinimo ir laikymo įmonių licencijuojamoje veikloje naudojamo turto vertės nustatymo principų patvirtinimo“ ir jį keitusio nutarimo pripažinimo netekusiu galios“ pripažinimo netekusiais galios”",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-12501",
+  "official_journal_page": null,
+  "official_journal_date": "2017-07-21",
+  "entry_into_force": "2017-07-17",
+  "notification_date": "2017-08-03",
+  "commission_reference": "MNE(2017)54377",
+  "nim_celex": "72009L0073LTU_249825",
+  "nim_id": "249825",
+  "transposes_celex": [
+    "32009L0073"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7ac7505a-583a-4085-bb92-aaa323b6ad36",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
