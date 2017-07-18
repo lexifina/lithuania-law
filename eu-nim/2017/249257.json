@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos įstatymo Nr. IX-884 2, 6, 9, 25, 30 ir 37 straipsnių pakeitimo įstatymas Nr. XIII-603",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-12304",
+  "official_journal_page": null,
+  "official_journal_date": "2017-07-17",
+  "entry_into_force": "2017-07-18",
+  "notification_date": "2017-08-16",
+  "commission_reference": "MNE(2017)53953",
+  "nim_celex": "72009L0072LTU_249257",
+  "nim_id": "249257",
+  "transposes_celex": [
+    "32009L0072"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e2b060e8-29f6-4e61-bb35-bccdda4b92e1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
