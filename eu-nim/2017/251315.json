@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės maisto ir veterinarijos tarnybos direktoriaus 2017 m. liepos 24 d. įsakymas Nr. B1-444 „Dėl Valstybinės maisto ir veterinarijos tarnybos direktoriaus 2015 m. liepos 31 d. įsakymo Nr. B1-748 „Dėl Enzootinės galvijų leukozės, galvijų bruceliozės ir tuberkuliozės kontrolės tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-12572",
+  "official_journal_page": null,
+  "official_journal_date": "2017-07-24",
+  "entry_into_force": "2017-07-25",
+  "notification_date": "2017-10-17",
+  "commission_reference": "MNE(2017)55474",
+  "nim_celex": "71978L0052LTU_251315",
+  "nim_id": "251315",
+  "transposes_celex": [
+    "31978L0052"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/90b2a857-3497-49b9-b559-02777f5bed47",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
