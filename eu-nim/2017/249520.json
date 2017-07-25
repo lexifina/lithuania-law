@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos transporto lengvatų įstatymo Nr. VIII-1605 1, 2 ir 5 straipsnių pakeitimo ir įstatymo papildymo priedu įstatymas Nr. XIII-619",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-12574",
+  "official_journal_page": null,
+  "official_journal_date": "2017-07-24",
+  "entry_into_force": "2017-07-25",
+  "notification_date": "2017-07-26",
+  "commission_reference": "MNE(2017)54178",
+  "nim_celex": "72014L0054LTU_249520",
+  "nim_id": "249520",
+  "transposes_celex": [
+    "32014L0054"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/78a3736c-1fc4-45de-a395-5c8840d93c0e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
