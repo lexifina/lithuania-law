@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2016 m. liepos 27 d. įsakymas Nr. D1-632 „Dėl Lietuvos Respublikos aplinkos ministro 2005 m. liepos 26 d. įsakymo Nr. D1-381 „Dėl Visuomenės informavimo ir dalyvavimo rengiant planus ir programas, skirtas aplinkos oro ir vandens apsaugai bei atliekų tvarkymui, tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-12706",
+  "official_journal_page": null,
+  "official_journal_date": "2017-07-27",
+  "entry_into_force": "2017-07-28",
+  "notification_date": "2017-09-25",
+  "commission_reference": "MNE(2017)55472",
+  "nim_celex": "72016L2284LTU_251313",
+  "nim_id": "251313",
+  "transposes_celex": [
+    "32016L2284"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2e2b8c41-e10e-4422-a90e-e2772739ce3c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
