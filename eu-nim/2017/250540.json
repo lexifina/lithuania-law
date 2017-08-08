@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2017 m. liepos 26 d. nutarimas Nr. 601 \"Dėl Lietuvos Respublikos Vyriausybės 2010 m. spalio 13 d. nutarimo Nr. 1460 \"Dėl Lietuvos erdvinės informacijos infrastruktūros erdvinių duomenų temų patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-13133",
+  "official_journal_page": null,
+  "official_journal_date": "2017-08-07",
+  "entry_into_force": "2017-08-08",
+  "notification_date": "2017-09-21",
+  "commission_reference": "MNE(2017)54856",
+  "nim_celex": "72007L0002LTU_250540",
+  "nim_id": "250540",
+  "transposes_celex": [
+    "32007L0002"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6afc6f54-127a-4140-ab2d-0f1ae2645cb4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
