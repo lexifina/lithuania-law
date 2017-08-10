@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos teisingumo ministro ir Lietuvos Respublikos generalinio prokuroro 2017 m. rugpjūčio 7 d. įsakymas Nr. 1R-202/I-274 \"Dėl teisingumo ministro ir generalinio prokuroro 2004 m. rugpjūčio 26 d. įsakymo Nr. 1R-195/I-114 „Dėl Europos arešto orderio išdavimo ir asmens perėmimo pagal Europos arešto orderį taisyklių patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-13195",
+  "official_journal_page": null,
+  "official_journal_date": "2017-08-09",
+  "entry_into_force": "2017-08-10",
+  "notification_date": "2017-08-10",
+  "commission_reference": "MNE(2017)54583",
+  "nim_celex": "72013L0048LTU_250125",
+  "nim_id": "250125",
+  "transposes_celex": [
+    "32013L0048"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5ca7e1f9-ba2d-4c76-8a7f-7c2b7c8f8ae8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
