@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės atominės energetikos saugos inspekcijos viršininko 2017 m. rugpjūčio 16 d. įsakymas Nr. 22.3-141 „Dėl Valstybinės atominės energetikos saugos inspekcijos viršininko 2015 m. liepos 16 d. įsakymo Nr. 22.3-141 „Dėl Branduolinės saugos reikalavimų BSR-2.1.5-2015 „Branduolinės elektrinės pripažinimas tinkama eksploatuoti“ patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-13368",
+  "official_journal_page": null,
+  "official_journal_date": "2017-08-17",
+  "entry_into_force": "2017-08-18",
+  "notification_date": "2017-08-28",
+  "commission_reference": "MNE(2017)54742",
+  "nim_celex": "72014L0087LTU_250352",
+  "nim_id": "250352",
+  "transposes_celex": [
+    "32014L0087"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e46c0718-a2a6-46fd-95d1-673eb3ad148a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
