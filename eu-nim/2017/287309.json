@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2017 m. rugpjūčio 23 d. įsakymas Nr. D1-680 „Dėl Pastatų energinio naudingumo sertifikatų ir pastatų energinio naudingumo sertifikavimo ekspertų informacinės sistemos nuostatų, Pastatų energinio naudingumo sertifikatų ir pastatų energinio naudingumo sertifikavimo ekspertų informacinės sistemos duomenų saugos nuostatų patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-13599",
+  "official_journal_page": null,
+  "official_journal_date": null,
+  "entry_into_force": "2017-08-25",
+  "notification_date": "2020-09-23",
+  "commission_reference": "MNE(2020)56078",
+  "nim_celex": "72018L0844LTU_287309",
+  "nim_id": "287309",
+  "transposes_celex": [
+    "32018L0844"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5d343d78-0153-11eb-af6b-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
