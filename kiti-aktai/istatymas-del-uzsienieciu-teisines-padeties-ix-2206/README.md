@@ -18,3 +18,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2017-01-01 | 2017-04-30 | Aktas Nr. XII-2609 / Teisės aktų registras (Seimo kanceliarija) | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22YoysBPamaM%22) |
 | 2017-05-01 | 2017-06-30 | Aktas Nr. XIII-219 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22XzNthKlcec%22) |
 | 2017-07-01 | 2017-08-31 | Aktas Nr. XIII-219 / Teisės aktų registras (Seimo kanceliarija) | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22FoQLqEkjem%22) |
+| 2017-09-01 | 2017-12-31 | Aktas Nr. XIII-382 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22ZCzRhtbHjL%22) |
