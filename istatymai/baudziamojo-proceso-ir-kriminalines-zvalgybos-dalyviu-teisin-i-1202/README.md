@@ -13,3 +13,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2003-05-01 | 2008-06-30 | Įstatymas Nr. IX-1441 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/c74efd0efc15af71a701c7afcdffb5c3d42c6647/istatymai/TAR.717DD0E6FE37.md) |
 | 2008-07-01 | 2012-12-31 | Įstatymas Nr. X-1542 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/ca9153414a63d041e10e4b6cadfa9cd08adc61a2/istatymai/TAR.717DD0E6FE37.md) |
 | 2013-01-01 | 2017-08-31 | Įstatymas Nr. XI-2242 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/5f9a14fe14a3989553b82ca730b50b0ba675111f/istatymai/TAR.717DD0E6FE37.md) |
+| 2017-09-01 | 2020-08-31 | Įstatymas Nr. X-1542 / Įstatymas Nr. XIII-492 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/a7ccf5321e9254e866d92e7d6d5ed4287ee865e5/istatymai/TAR.717DD0E6FE37.md) |
