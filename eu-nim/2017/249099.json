@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių nusižengimų kodekso 250, 268, 303, 312, 589 straipsnių ir priedo pakeitimo ir Kodekso papildymo 236(1), 243(1), 304(1), 304(2) straipsniais įstatymas Nr. XIII-551",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "11948",
+  "official_journal_page": null,
+  "official_journal_date": "2017-07-11",
+  "entry_into_force": "2017-09-01",
+  "notification_date": "2017-07-13",
+  "commission_reference": "MNE(2017)53839",
+  "nim_celex": "72015L0652LTU_249099",
+  "nim_id": "249099",
+  "transposes_celex": [
+    "32015L0652"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ba2fa0e1-3f36-469d-ac6c-9de6be2c2d7c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
