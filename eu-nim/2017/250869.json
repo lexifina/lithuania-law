@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2017 m.  rugpjūčio  30  d. įsakymas Nr. V-1023 \"Dėl Lietuvos  Respublikos  sveikatos apsaugos  ministro 2012 m. lapkričio 22 d. įsakymo Nr. V-1063 \"Dėl Kraujo donorystės įstaigų ir ligoninių kraujo bankų geros praktikos nuostatų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-13943",
+  "official_journal_page": null,
+  "official_journal_date": "2017-08-31",
+  "entry_into_force": "2017-09-01",
+  "notification_date": "2017-09-12",
+  "commission_reference": "MNE(2017)55129",
+  "nim_celex": "72016L1214LTU_250869",
+  "nim_id": "250869",
+  "transposes_celex": [
+    "32016L1214"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2a2f896c-5d25-4fe7-b854-f5bfa9182e49",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
