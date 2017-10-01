@@ -27,3 +27,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2014-10-01 | 2016-08-31 | Įstatymas Nr. XII-471 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22OzxwpqisAN%22) |
 | 2016-09-01 | 2016-10-06 | Įstatymas Nr. IX-2228 / Įstatymas Nr. XII-2357 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22kiuEBswmVU%22) |
 | 2016-10-07 | 2017-09-30 | Įstatymas Nr. XII-2658 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22IaxAHSNbcv%22) |
+| 2017-10-01 | 2018-09-30 | Įstatymas Nr. XIII-445 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22pcpGaqUqEM%22) |
