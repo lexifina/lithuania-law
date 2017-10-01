@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2017 m. liepos 24 d. įsakymas Nr. V-901 \"Dėl Medicinos fiziko veiklos reikalavimų tvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-12670",
+  "official_journal_page": null,
+  "official_journal_date": "2017-07-26",
+  "entry_into_force": "2017-10-01",
+  "notification_date": "2018-12-10",
+  "commission_reference": "MNE(2018)56516",
+  "nim_celex": "72013L0059LTU_265709",
+  "nim_id": "265709",
+  "transposes_celex": [
+    "32013L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7a01cc99-7e59-40fb-b650-0fe970b0e15e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
