@@ -12,3 +12,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2011-07-13 | 2017-05-02 | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/20f460ffebc6bef5d52821861db7f5a750ca01ee/istatymai/TAR.C88302C3186F.md) |
 | 2017-05-03 |  | Įstatymas Nr. XIII-301 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/d2133bdc7e86f5b16af4f9c922bd588a8fc97726/istatymai/TAR.C88302C3186F.md) |
 | 2017-07-01 |  | Įstatymas Nr. XIII-301 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/ab12b24f123dc1d4df6ee9b71b1aeb911ea4d30e/istatymai/TAR.C88302C3186F.md) |
+| 2017-10-10 |  | Įstatymas Nr. XI-1507 / Įstatymas Nr. XIII-301 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/feeb1ca28e97205ac6fd768a748225d8fb9cb2c5/istatymai/TAR.C88302C3186F.md) |
