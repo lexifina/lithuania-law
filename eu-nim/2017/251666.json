@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos branduolinės saugos įstatymo Nr. XI-1539 2, 3, 9, 11, 14, 17, 22, 25, 26, 27, 28, 30, 32, 35, 36, 38, 39, 41, 42, 50 straipsnių, septintojo skyriaus pavadinimo ir 2 priedo pakeitimo ir papildymo 34(1) ir 39(1) straipsniais įstatymas Nr. XIII-655",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-16012",
+  "official_journal_page": null,
+  "official_journal_date": "2017-10-09",
+  "entry_into_force": "2017-10-10",
+  "notification_date": "2017-10-11",
+  "commission_reference": "MNE(2017)55722",
+  "nim_celex": "72014L0087LTU_251666",
+  "nim_id": "251666",
+  "transposes_celex": [
+    "32014L0087"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6a25dd80-3bc4-4d56-b752-9eefd3957840",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
