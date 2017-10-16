@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro 2017 m. spalio 16 d. įsakymas Nr. 1V-701 „Dėl įtartinų piniginių operacijų ar sandorių sustabdymo ir informacijos apie įtartinas pinigines operacijas ar sandorius pateikimo Finansinių nusikaltimų tyrimo tarnybai prie Lietuvos Respublikos vidaus reikalų ministerijos ir informacijos apie grynųjų pinigų operacijas ir sandorius, kurių suma lygi arba viršija 15 000 eurų ar ją atitinkančią sumą užsienio valiuta, pateikimo Finansinių nusikaltimų tyrimo tarnybai prie Lietuvos Respublikos vidaus reikalų ministerijos tvarkos aprašo patvirtinimo“ (suvestinė redakcija nuo 2020 m. sausio 21 d.)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-16313",
+  "official_journal_page": null,
+  "official_journal_date": "2017-10-15",
+  "entry_into_force": "2017-10-16",
+  "notification_date": "2021-05-07",
+  "commission_reference": "MNE(2021)03257",
+  "nim_celex": "72019L0713LTU_202103257",
+  "nim_id": "202103257",
+  "transposes_celex": [
+    "32019L0713"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/03af62fd-b704-11eb-8aca-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
