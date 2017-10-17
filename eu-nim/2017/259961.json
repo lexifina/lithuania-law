@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos įstatymas dėl Minamatos konvencijos dėl gyvsidabrio ratifikavimo Nr. XIII-662",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-16326",
+  "official_journal_page": null,
+  "official_journal_date": "2017-10-16",
+  "entry_into_force": "2017-10-17",
+  "notification_date": "2018-06-29",
+  "commission_reference": "MNE(2018)53335",
+  "nim_celex": "72016L2284LTU_259961",
+  "nim_id": "259961",
+  "transposes_celex": [
+    "32016L2284"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3906680c-dc58-47e8-967b-6a07ea17e98e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
