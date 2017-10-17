@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro 2017 m. spalio 16 d. įsakymas Nr. 1V-700 „Dėl Lietuvos Respublikos vidaus reikalų ministro 2005 m. spalio 12 d. įsakymo Nr. 1V-329 „Dėl Leidimų laikinai gyventi Lietuvos Respublikoje užsieniečiams išdavimo, keitimo, panaikinimo, taip pat įvertinimo, ar santuoka, registruota partnerystė, įvaikinimas ar įmonė yra fiktyvūs, tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-16308",
+  "official_journal_page": null,
+  "official_journal_date": "2017-10-16",
+  "entry_into_force": "2017-10-17",
+  "notification_date": "2017-11-02",
+  "commission_reference": "MNE(2017)55952",
+  "nim_celex": "72014L0066LTU_251927",
+  "nim_id": "251927",
+  "transposes_celex": [
+    "32014L0066"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/224a931c-82be-4564-aebb-46c34350e16e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
