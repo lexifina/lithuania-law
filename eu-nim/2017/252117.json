@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2017 m. spalio 25 d. įsakymas Nr. V-1220 \"Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2003 m. liepos 23 d. įsakymo Nr. V- 455 \"Dėl Lietuvos higienos normos HN 24:2003 \"Geriamojo vandens saugos ir kokybės reikalavimai\" patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-16876",
+  "official_journal_page": null,
+  "official_journal_date": "2017-10-26",
+  "entry_into_force": "2017-10-27",
+  "notification_date": "2017-10-27",
+  "commission_reference": "MNE(2017)56119",
+  "nim_celex": "72015L1787LTU_252117",
+  "nim_id": "252117",
+  "transposes_celex": [
+    "32015L1787"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b017ddd5-037c-4037-b961-12b3d45e16c6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
