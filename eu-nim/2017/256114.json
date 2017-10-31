@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2017 m. spalio 26 d. įsakymas Nr. V-1228 \"Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2007 m. gegužės 22 d. įsakymo Nr. V-401 „Dėl Pranešimo apie pavojingas nepageidaujamas reakcijas ir (ar) pavojingus nepageidaujamus reiškinius, susijusius su audinių, ląstelių, organų donorystės ir transplantacijos procesų ir pagalbiniu apvaisinimu, tvarkos aprašo patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-17067",
+  "official_journal_page": null,
+  "official_journal_date": "2017-10-30",
+  "entry_into_force": "2017-10-31",
+  "notification_date": "2018-03-22",
+  "commission_reference": "MNE(2018)51065",
+  "nim_celex": "72006L0086LTU_256114",
+  "nim_id": "256114",
+  "transposes_celex": [
+    "32006L0086"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7a74f9c2-7cb5-4131-83c2-04fb18ac319d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
