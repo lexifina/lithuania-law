@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos branduolinės energijos įstatymo Nr. I-1613 2, 7, 15, 16, 19, 20, 22, 23, 24, 25, 29, 30, 33, 34, 35, 36, 50 straipsnių pakeitimo ir Įstatymo papildymo 50-1 straipsniu įstatymas XIII-287",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-07277",
+  "official_journal_page": null,
+  "official_journal_date": "2017-05-02",
+  "entry_into_force": "2017-11-01",
+  "notification_date": "2017-08-28",
+  "commission_reference": "MNE(2017)54745",
+  "nim_celex": "72014L0087LTU_250355",
+  "nim_id": "250355",
+  "transposes_celex": [
+    "32014L0087"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0f57549b-1fcb-46c6-af4d-afa0a570684f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
