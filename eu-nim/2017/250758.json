@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos augalų apsaugos įstatymo Nr. I-1069 pakeitimo įstatymas Nr. XIII-408",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-09793",
+  "official_journal_page": null,
+  "official_journal_date": "2017-06-09",
+  "entry_into_force": "2017-11-01",
+  "notification_date": "2017-10-17",
+  "commission_reference": "MNE(2017)55046",
+  "nim_celex": "72009L0128LTU_250758",
+  "nim_id": "250758",
+  "transposes_celex": [
+    "32009L0128"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ffeef219-ea6d-48a3-90b3-a82861f96615",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
