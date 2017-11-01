@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo Nr. I-1495 pakeitimo įstatymas Nr. XIII-529",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "11562",
+  "official_journal_page": null,
+  "official_journal_date": "2017-07-05",
+  "entry_into_force": "2017-11-01",
+  "notification_date": "2017-07-13",
+  "commission_reference": "MNE(2017)53824",
+  "nim_celex": "72011L0092LTU_249065",
+  "nim_id": "249065",
+  "transposes_celex": [
+    "32011L0092",
+    "32014L0052"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4f03459a-d8d2-4e16-b3b4-cd06d872b02e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
