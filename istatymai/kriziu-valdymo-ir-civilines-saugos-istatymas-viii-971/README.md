@@ -10,3 +10,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | --- | --- | --- | --- |
 | 1998-12-31 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/5db33c630f073ba1ebef16cac1839342c88841e8/istatymai/TAR.C15592B096FA.md) |
 | 2015-07-01 | 2017-10-31 | Įstatymas Nr. XI-635 / Įstatymas Nr. XII-732 / Įstatymas Nr. XII-1803 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/670b705528305cb1b3bb938adcba0a729b89b21b/istatymai/TAR.C15592B096FA.md) |
+| 2017-11-01 | 2018-12-31 | Įstatymas Nr. XIII-657 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/f42aaf97baef8bdc7efe69dc2992ac96bb875aab/istatymai/TAR.C15592B096FA.md) |
