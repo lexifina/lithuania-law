@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2017 m. spalio 31 d. įsakymas Nr. D1-885 „Planuojamos ūkinės veiklos poveikio aplinkai vertinimo tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "17241",
+  "official_journal_page": null,
+  "official_journal_date": "2017-11-02",
+  "entry_into_force": "2017-11-03",
+  "notification_date": "2017-11-13",
+  "commission_reference": "MNE(2017)56156",
+  "nim_celex": "72011L0092LTU_252172",
+  "nim_id": "252172",
+  "transposes_celex": [
+    "32011L0092",
+    "32014L0052"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6b2563bb-e457-4418-b436-bd1927a00282",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
