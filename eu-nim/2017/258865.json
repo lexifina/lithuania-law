@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos policijos generalinio komisaro 2017 m. lapkričio 10 d. įsakymas Nr. 5-V-941 „Dėl Lietuvos policijos generalinio komisaro 2015 m. spalio 14 d. įsakymo Nr. 5-V-901 dėl Policijos departamento prie Lietuvos Respublikos vidaus reikalų ministerijos Pajėgų valdymo valdybos nuostatų patvirtinimo pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Informaciniai pranešimai",
+  "official_journal_reference": "5-V-941/2017",
+  "official_journal_page": null,
+  "official_journal_date": "2017-11-10",
+  "entry_into_force": "2017-11-10",
+  "notification_date": "2018-05-22",
+  "commission_reference": "MNE(2018)52524",
+  "nim_celex": "72016L0681LTU_258865",
+  "nim_id": "258865",
+  "transposes_celex": [
+    "32016L0681"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/585e0da2-5174-48b3-8f1f-aaf26013b7cf",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
