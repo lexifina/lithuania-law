@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2017 m. lapkričio 15 d. nutarimas Nr. 933 „Dėl Lietuvos Respublikos Vyriausybės 2007 m. rugpjūčio 22 d. nutarimo Nr. 875 „Dėl Asmenų prašymų nagrinėjimo ir jų aptarnavimo viešojo administravimo institucijose, įstaigose ir kituose viešojo administravimo subjektuose taisyklių ir prašymo, skundo ar kito kreipimosi priėmimo faktą patvirtinančio dokumento formos patvirtinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-18411",
+  "official_journal_page": null,
+  "official_journal_date": "2017-11-21",
+  "entry_into_force": "2017-11-22",
+  "notification_date": "2021-02-01",
+  "commission_reference": "MNE(2021)00316",
+  "nim_celex": "72016L0797LTU_202100316",
+  "nim_id": "202100316",
+  "transposes_celex": [
+    "32016L0797"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/50ee6996-cb8f-440e-b6e8-d998978148bb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
