@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 16-1, 18, 19, 20, 21, 25, 31, 32, 33, 34, 37 straipsnių pakeitimo ir Įstatymo papildymo 37-2 straipsniu įstatymas Nr. XIII-784",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-18847",
+  "official_journal_page": null,
+  "official_journal_date": "2017-11-28",
+  "entry_into_force": "2017-11-29",
+  "notification_date": "2019-07-11",
+  "commission_reference": "MNE(2019)54349",
+  "nim_celex": "72017L0828LTU_275234",
+  "nim_id": "275234",
+  "transposes_celex": [
+    "32017L0828"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0f8aa266-037b-4e66-914a-b7e63e2dd706",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
