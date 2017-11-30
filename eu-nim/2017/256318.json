@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2018 m. lapkričio 28 d. įsakymas Nr. V-1336 \"Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2007 m. liepos 10 d. įsakymo Nr. V-596 „Dėl Vaistinių preparatų registravimo taisyklių, Supaprastintos homeopatinių vaistinių preparatų registravimo procedūros aprašo, Supaprastintos tradicinių augalinių vaistinių preparatų registravimo procedūros aprašo, Specialios homeopatinių vaistinių preparatų registravimo procedūros aprašo, Vaistinių preparatų registravimo taikant savitarpio pripažinimo ir decentralizuotą procedūras aprašo, Vaistinių preparatų analitinių, farmakotoksikologinių ir klinikinių tyrimų standartų ir protokolų, Vaistinių preparatų pakuotės ženklinimo ir pakuotės lapelio reikalavimų aprašo, Pagalbinių medžiagų, kurios turi būti nurodomos ant vaistinio preparato pakuotės ir pakuotės lapelyje, sąrašo, Teisės į vaistinio preparato registraciją perleidimo kitam asmeniui tvarkos aprašo patvirtinimo“ pakeitimo",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-18983",
+  "official_journal_page": null,
+  "official_journal_date": "2017-11-29",
+  "entry_into_force": "2017-11-30",
+  "notification_date": "2018-03-12",
+  "commission_reference": "MNE(2018)51137",
+  "nim_celex": "72001L0083LTU_256318",
+  "nim_id": "256318",
+  "transposes_celex": [
+    "32001L0083"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/73c398ce-3a9f-4665-8282-ea2f6b01d431",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
