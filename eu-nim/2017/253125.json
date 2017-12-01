@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių nusižengimų kodekso 28, 29, 115, 227, 376, 379, 393, 396, 401, 403, 415, 426, 427, 428, 440, 464, 481, 482, 483, 484, 485, 488, 494, 573, 589, 595, 602, 610, 611, 681, 683, 685, 686 straipsnių ir priedo pakeitimo ir Kodekso papildymo 396-1, 413-1 straipsniais įstatymas Nr. XIII-753",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-18803",
+  "official_journal_page": null,
+  "official_journal_date": "2017-11-28",
+  "entry_into_force": "2017-12-01",
+  "notification_date": "2017-12-18",
+  "commission_reference": "MNE(2017)56619",
+  "nim_celex": "72009L0018LTU_253125",
+  "nim_id": "253125",
+  "transposes_celex": [
+    "32009L0018"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/043f826d-ede3-4f71-aa4e-d8c1de20144d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
