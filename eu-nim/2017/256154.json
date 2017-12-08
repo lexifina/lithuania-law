@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro, Lietuvos Respublikos susisiekimo ministro ir Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2017 m. gruodžio 1 d. įsakymas Nr. V-1375/3-582/A1-590 „Dėl Lietuvos Respublikos sveikatos apsaugos ministro, Lietuvos Respublikos susisiekimo ministro ir Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2005 m. rugpjūčio 16 d. įsakymo Nr. V-656/3-358/A1-226 „Dėl minimalių sveikatinimo veiklos laivuose reikalavimų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-19639",
+  "official_journal_page": null,
+  "official_journal_date": "2017-12-07",
+  "entry_into_force": "2017-12-08",
+  "notification_date": "2018-02-23",
+  "commission_reference": "MNE(2018)51082",
+  "nim_celex": "72009L0013LTU_256154",
+  "nim_id": "256154",
+  "transposes_celex": [
+    "32009L0013"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bf6be22e-ee52-4e48-a252-add4405218c3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
