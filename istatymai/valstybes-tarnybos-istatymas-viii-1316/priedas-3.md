@@ -1,7 +1,7 @@
 # Lietuvos Respublikos
 valstybės tarnybos įstatymo
 3 priedas
-Priedo redakcija nuo 2017-01-01 iki 2017-12-31:
+Priedo redakcija nuo 2017-01-01 iki 2018-12-31:
 VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
 Eil. Nr.
 Valstybės tarnautojų pareigybių pavadinimai
