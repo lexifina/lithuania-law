@@ -17,3 +17,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2016-06-28 | 2016-06-30 | Įstatymas Nr. XII-2438 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/54aaf6516299af57abf87186fbc8def73946422b/istatymai/TAR.1FD5C3A4D10A.md) |
 | 2016-07-01 | 2017-06-30 | Įstatymas Nr. XII-2435 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/8a566dcb94817fe7ba9c00f1cbe6ad365f2d30b7/istatymai/TAR.1FD5C3A4D10A.md) |
 | 2017-07-01 | 2017-12-18 | Įstatymas Nr. XII-2606 / Įstatymas Nr. XIII-135 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/4ce9b6cdee7c7e54b03478c08dfac9e3202c71e7/istatymai/TAR.1FD5C3A4D10A.md) |
+| 2017-12-19 | 2018-06-30 | Įstatymas Nr. XIII-855 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/f7e21c5a5cbc7df71f6ff1df2ebbb618b8cf3105/istatymai/TAR.1FD5C3A4D10A.md) |
