@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2017 m. gruodžio 14 d. įsakymas Nr. D1-995 „Dėl Lietuvos Respublikos aplinkos ministro 2014 m. kovo 6 d. įsakymo D1-259 „Dėl Taršos leidimų išdavimo, pakeitimo ir galiojimo panaikinimo taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-20260",
+  "official_journal_page": null,
+  "official_journal_date": "2017-12-18",
+  "entry_into_force": "2017-12-19",
+  "notification_date": "2018-01-02",
+  "commission_reference": "MNE(2017)57249",
+  "nim_celex": "72015L2193LTU_254092",
+  "nim_id": "254092",
+  "transposes_celex": [
+    "32015L2193"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4db67c71-4d90-43c5-bacc-69f46379405e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
