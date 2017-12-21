@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos 2018 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas Nr. XIII-868",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-20572",
+  "official_journal_page": null,
+  "official_journal_date": "2017-12-20",
+  "entry_into_force": "2017-12-21",
+  "notification_date": "2018-07-19",
+  "commission_reference": "MNE(2018)53876",
+  "nim_celex": "72016L0680LTU_261038",
+  "nim_id": "261038",
+  "transposes_celex": [
+    "32016L0680"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e31f627e-71d6-45d2-b4ff-d7e007022dfd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
