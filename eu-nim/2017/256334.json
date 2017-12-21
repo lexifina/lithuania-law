@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės maisto ir veterinarijos tarnybos direktoriaus 2017  m. gruodžio 20 d. įsakymas Nr. B1-820 „Dėl Valstybinės maisto ir veterinarijos tarnybos direktoriaus 2005 m. spalio 11 d. įsakymo Nr. B1-559 „Dėl Reikalavimų prekybai gyvūnais, sperma, kiaušialąstėmis ir embrionais bei jų importui patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-20499",
+  "official_journal_page": null,
+  "official_journal_date": "2017-12-20",
+  "entry_into_force": "2017-12-21",
+  "notification_date": "2018-02-28",
+  "commission_reference": "MNE(2018)51140",
+  "nim_celex": "71992L0065LTU_256334",
+  "nim_id": "256334",
+  "transposes_celex": [
+    "31992L0065"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bdde2279-251b-4bfa-8f1a-451f1feda864",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
