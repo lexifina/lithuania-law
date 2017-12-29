@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2017 m. gruodžio 20 d. nutarimas Nr. 1123 „Dėl Bilietų užsakymo ir išvykimo kontrolės, keleivių skrydžio duomenų teikimo ir naudojimo taisyklių patvirtinimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-21434",
+  "official_journal_page": null,
+  "official_journal_date": "2017-12-28",
+  "entry_into_force": "2017-12-29",
+  "notification_date": "2018-05-18",
+  "commission_reference": "MNE(2018)52445",
+  "nim_celex": "72016L0681LTU_258719",
+  "nim_id": "258719",
+  "transposes_celex": [
+    "32016L0681"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/155a00f8-df61-4877-8397-41ad71a831d6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
