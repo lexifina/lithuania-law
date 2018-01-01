@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos geležinkelių transporto kodekso 13 straipsnio ir priedo pakeitimo įstatymas Nr. XIII-833",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-20053",
+  "official_journal_page": null,
+  "official_journal_date": "2017-12-13",
+  "entry_into_force": "2018-01-01",
+  "notification_date": "2020-11-30",
+  "commission_reference": "MNE(2020)58270",
+  "nim_celex": "72016L0797LTU_290221",
+  "nim_id": "290221",
+  "transposes_celex": [
+    "32016L0797"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/89240631-65ab-48f5-80ef-0afdf55ac187",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
