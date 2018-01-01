@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos geodezijos ir kartografijos įstatymo Nr. IX-415 4, 6, 7, 8, 9, 10, 11, 18, 19, 20, 21, 23, 25 ir 27 straipsnių pakeitimo įstatymas Nr. XIII-601",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-12174",
+  "official_journal_page": null,
+  "official_journal_date": "2017-07-13",
+  "entry_into_force": "2018-01-01",
+  "notification_date": "2017-09-21",
+  "commission_reference": "MNE(2017)54853",
+  "nim_celex": "72007L0002LTU_250537",
+  "nim_id": "250537",
+  "transposes_celex": [
+    "32007L0002"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6ea7f3dc-d703-4864-ae00-fba445f09b5d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
