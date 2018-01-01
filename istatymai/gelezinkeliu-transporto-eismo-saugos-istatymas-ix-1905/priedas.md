@@ -11,3 +11,5 @@ priedas
 5. 2011 m. gegužės 10 d. Komisijos reglamentas (ES) Nr. 445/2011 dėl subjektų, atsakingų už prekinių vagonų priežiūrą, sertifikavimo sistemos, kuriuo iš dalies keičiamas Reglamentas (EB) Nr. 653/2007 (OL 2011 L 122, p. 22).
 6. 2011 m. lapkričio 22 d. Komisijos sprendimas Nr. 2011/765/ES dėl kriterijų, kuriais remiantis pripažįstami traukinių mašinistų mokymo centrai bei traukinių mašinistų egzaminuotojai ir organizuojami egzaminai pagal Europos Parlamento ir Tarybos direktyvą 2007/59/EB (OL 2011 L 314, p. 36).
 7. 2013 m. balandžio 30 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 402/2013, kuriuo nustatomas bendrasis saugos būdas, susijęs su pavojaus lygio nustatymu ir pavojaus vertinimu, ir panaikinamas Reglamentas (EB) Nr. 352/2009 (OL 2013 L 121, p. 8).
+8. 2016 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/797 dėl geležinkelių sistemos sąveikos Europos Sąjungoje (OL 2016 L 138, p. 44).
+9. 2016 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/798 dėl geležinkelių saugos (OL 2016 L 138, p. 102).
