@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo Nr. VIII-1649 pakeitimo įstatymas Nr.  XIII-938",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-21647",
+  "official_journal_page": null,
+  "official_journal_date": "2017-12-29",
+  "entry_into_force": "2018-01-01",
+  "notification_date": "2018-03-27",
+  "commission_reference": "MNE(2018)51597",
+  "nim_celex": "72016L0343LTU_257295",
+  "nim_id": "257295",
+  "transposes_celex": [
+    "32016L0343"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2aee5c03-9f62-44fc-935e-ffc9a591f9ec",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
