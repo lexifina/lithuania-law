@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 1, 6, 19, 19-1, 19-2, 55 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 19-3 straipsniu įstatymas Nr. XIII-704",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-17965",
+  "official_journal_page": null,
+  "official_journal_date": "2017-11-14",
+  "entry_into_force": "2018-01-01",
+  "notification_date": "2017-11-16",
+  "commission_reference": "MNE(2017)56436",
+  "nim_celex": "72015L2193LTU_252731",
+  "nim_id": "252731",
+  "transposes_celex": [
+    "32015L2193"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e7b6dc20-a198-49aa-bf03-f5c3db6d9147",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
