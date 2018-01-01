@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 10, 25, 27 ir 28 straipsnių pakeitimo įstatymas Nr. XIII-107",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "29786",
+  "official_journal_page": null,
+  "official_journal_date": "2016-12-28",
+  "entry_into_force": "2018-01-01",
+  "notification_date": "2017-01-02",
+  "commission_reference": "MNE(2017)50011",
+  "nim_celex": "71970L0311LTU_243915",
+  "nim_id": "243915",
+  "transposes_celex": [
+    "31970L0311"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e3f31715-d42b-11e6-ad7c-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
