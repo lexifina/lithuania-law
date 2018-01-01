@@ -32,7 +32,7 @@ Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos vado pavad
 12,26
 11,64
 3.
-Viršininkas (įstaigos vadovas), rinktinės vadas (įstaigos vadovas), vyriausiojo policijos komisariato viršininkas (taikoma struktūriniam padaliniui, kuris nėra kitame struktūriniame padalinyje), biuro viršininkas
+Viršininkas (įstaigos vadovas), Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos pasienio rinktinės vadas, vyriausiojo policijos komisariato viršininkas (taikoma struktūriniam padaliniui, kuris nėra kitame struktūriniame padalinyje), biuro viršininkas
 15,68
 15,68
 13,39
@@ -58,7 +58,7 @@ Viršininkas (įstaigos vadovas), rinktinės vadas (įstaigos vadovas), vyriausi
 11,64
 9,34
 4.
-Dalinio vadas, štabo viršininkas, viršininko pavaduotojas (įstaigos vadovo pavaduotojas), rinktinės vado pavaduotojas (įstaigos vadovo pavaduotojas), patarėjas (įstaigos
+Dalinio vadas, štabo viršininkas, viršininko pavaduotojas (įstaigos vadovo pavaduotojas), Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos pasienio rinktinės vado pavaduotojas, patarėjas (įstaigos patarėjas), biuro viršininko pavaduotojas, vyriausiojo policijos komisariato viršininko pavaduotojas (taikoma struktūriniam padaliniui, kuris nėra kitame struktūriniame padalinyje)
 14,34
 13,15
 11,39
@@ -74,7 +74,6 @@ Dalinio vadas, štabo viršininkas, viršininko pavaduotojas (įstaigos vadovo p
 12,12
 11,02
 9,34
-patarėjas), biuro viršininko pavaduotojas, vyriausiojo policijos komisariato viršininko pavaduotojas (taikoma struktūriniam padaliniui, kuris nėra kitame struktūriniame padalinyje)
 11,56
 10,49
 8,83
