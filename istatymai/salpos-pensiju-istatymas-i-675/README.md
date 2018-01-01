@@ -27,3 +27,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2017-01-01 | 2017-06-27 | Įstatymas Nr. X-210 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/4463704c84476118a03e0d8cb6f8579daa726c8f/istatymai/TAR.2CE6CFE9E2EE.md) |
 | 2017-06-28 |  | Įstatymas Nr. XIII-449 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/85f96ac8f850b07f9e2c50ef0a259cec39295424/istatymai/TAR.2CE6CFE9E2EE.md) |
 | 2017-10-01 | 2017-12-31 | Įstatymas Nr. XIII-449 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/348d27e361ac02dca2d4d897ab52a6fe8d60796c/istatymai/TAR.2CE6CFE9E2EE.md) |
+| 2018-01-01 |  | Įstatymas Nr. XIII-882 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/e5a086709609e228a3ad54c54dee418f195c2297/istatymai/TAR.2CE6CFE9E2EE.md) |
