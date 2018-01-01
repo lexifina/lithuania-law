@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos kibernetinio saugumo įstatymo Nr. XII-1428 1, 2, 4, 6, 10, 15, 16, 18 straipsnių pakeitimo, 8 straipsnio pripažinimo netekusiu galios ir įstatymo papildymo priedu įstatymas Nr. XIII-920",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-21592",
+  "official_journal_page": null,
+  "official_journal_date": "2017-12-29",
+  "entry_into_force": "2018-01-01",
+  "notification_date": "2018-02-09",
+  "commission_reference": "MNE(2018)50320",
+  "nim_celex": "72009L0140LTU_254586",
+  "nim_id": "254586",
+  "transposes_celex": [
+    "32009L0140"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4d68beb3-d83c-465a-a0eb-c69bfec874ef",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
