@@ -4,10 +4,10 @@ nuo daugiau kaip 2 iki 5
 nuo daugiau kaip 5 iki 10
 daugiau kaip 10
 C lygis
-3,0–5,3
-3,02–5,4
-3,04–5,6
-3,07–7,0
+3,12–5,3
+3,14–5,4
+3,16–5,6
+3,18–7,0
 Lietuvos Respublikos
 valstybės ir savivaldybių įstaigų
 darbuotojų darbo apmokėjimo
@@ -790,13 +790,13 @@ Turintiems nuo 10 iki 15 metų pedagoginio darbo stažą
 Turintiems 15 ir daugiau metų pedagoginio darbo stažą
 Vadovų ir vadovų pavaduotojų, priskiriamų prie pedagoginių darbuotojų, kuriems nesuteiktos vadybinės kvalifikacinės kategorijos
 vadovai
-3,87–6,49
-4,1–7,24
-4,3–8,0
+4,4–6,49
+4,5–7,24
+4,6–8,0
 vadovų pavaduotojai
-3,49–5,73
-3,68–6,41
-3,87–7,15
+4,0–5,73
+4,08–6,41
+4,14–7,15
 Vadovų ir vadovų pavaduotojų, priskiriamų prie pedagoginių darbuotojų, kuriems suteiktos vadybinės kvalifikacinės kategorijos
 vadovai
 I kategorija
@@ -824,15 +824,15 @@ III kategorija
 4,44–7,05
 4,67–7,83
 4,89–8,68
-Vadovų ir vadovų pavaduotojų, priskiriamų prie pedagoginių darbuotojų, kuriems teisės aktų nustatyta tvarka nesuteikiamos vadybinės kvalifikacinės kategorijos
+Vadovų ir vadovų pavaduotojų, priskiriamų prie pedagoginių darbuotojų, kuriems nesuteikiamos vadybinės kvalifikacinės kategorijos
 vadovai
-3,65–9,55
-3,84–10,64
-4,03–11,81
+4,4–9,55
+4,5–10,64
+4,6–11,81
 vadovų pavaduotojai
-3,3–8,49
-3,46–9,43
-3,62–10,48
+4,0–8,49
+4,08–9,43
+4,14–10,48
 17. Šiame skyriuje nurodytų įstaigų vadovams, priskirtiems prie pedagoginių darbuotojų, neviršijant 45 procentų šio priedo 16 punkte nurodytų pareiginės algos pastoviosios dalies koeficientų, pareiginės algos pastoviosios dalies koeficientai:
 17.1. didinami šio priedo 41 punkte nurodytu atveju;
 17.2. gali būti didinami:
@@ -898,24 +898,23 @@ Turintiems nuo 3 iki 10 metų pedagoginio darbo stažą
 Turintiems nuo 10 iki 15 metų pedagoginio darbo stažą
 Turintiems 15 ir daugiau metų pedagoginio darbo stažą
 Mokytojai, įgiję aukštesnįjį ar specialųjį vidurinį išsilavinimą, įgytą iki 1995 metų
-2,98
-3
-3,01
-3,03
+3,15 3,19
+3,26
+3,31
 Mokytojai, įgiję aukštąjį universitetinį ar koleginį išsilavinimą
-3,13–3,17
-3,15–3,19
-3,16–3,2
-3,18–3,21
+3,18
+3,22
+3,31
+3,41
 24.2. kuriems suteiktos kvalifikacinės kategorijos, pareiginės algos pastoviosios dalies koeficientai:
 Pareigybė
 Turintiems iki 10 metų pedagoginio darbo stažą
 Turintiems nuo 10 iki 15 metų pedagoginio darbo stažą
 Turintiems 15 ir daugiau metų pedagoginio darbo stažą
 Mokytojai
-3,18–3,23
-3,2–3,27
-3,23–3,3
+3,31
+3,41
+3,45
 Vyresnieji mokytojai
 3,46–3,51
 3,5–3,56
@@ -928,8 +927,8 @@ Mokytojai ekspertai
 4,2–4,29
 4,28–4,36
 4,4–4,47
-24.3. kuriems taikomos Lietuvos Respublikos švietimo įstatymo pakeitimo įstatymo Nr. XI-1281 2 straipsnio 6 dalies nuostatos, pareiginės algos pastoviosios dalies koeficientai: turintiems iki 15 metų pedagoginio darbo stažą – 2,93; turintiems 15 ir daugiau metų pedagoginio darbo stažą – 2,94;
-24.4. kurie dirba pagal neformaliojo švietimo programas (išskyrus ikimokyklinio ugdymo ir priešmokyklinio ugdymo bei formalųjį švietimą papildančio ugdymo programas) ir yra įgiję tik vidurinį išsilavinimą, pareiginės algos pastoviosios dalies koeficientai: turintiems iki 15 metų pedagoginio darbo stažą – 2,93; turintiems 15 ir daugiau metų pedagoginio darbo stažą – 2,94.
+24.3. kuriems taikomos Lietuvos Respublikos švietimo įstatymo pakeitimo įstatymo Nr. XI-1281 2 straipsnio 6 dalies nuostatos, pareiginės algos pastoviosios dalies koeficientai: turintiems iki 15 metų pedagoginio darbo stažą – 3,15; turintiems 15 ir daugiau metų pedagoginio darbo stažą – 3,19;
+24.4. kurie dirba pagal neformaliojo švietimo programas (išskyrus ikimokyklinio ugdymo ir priešmokyklinio ugdymo bei formalųjį švietimą papildančio ugdymo programas) ir yra įgiję tik vidurinį išsilavinimą, pareiginės algos pastoviosios dalies koeficientai: turintiems iki 15 metų pedagoginio darbo stažą – 3,15; turintiems 15 ir daugiau metų pedagoginio darbo stažą – 3,19.
 25. Mokytojams (išskyrus profesinio mokymo įstaigų bendrojo ugdymo dalykų mokytojus) pareiginės algos pastoviosios dalies koeficientai, nurodyti šio priedo 24 punkte, nustatomi už 18 pedagoginio darbo valandų per savaitę. Profesinio mokymo įstaigų bendrojo ugdymo dalykų mokytojams nustatomas pedagoginio darbo valandų skaičius per mokslo metus. Mėnesinis mokytojų darbo užmokestis apskaičiuojamas pagal tarifinį sąrašą.
 26. Tikybos mokytojams, baigusiems aukštesniąją neakivaizdinę katechetų mokyklą prie Kauno tarpdiecezinės kunigų seminarijos Teologijos fakulteto, pareiginės algos pastoviosios dalies koeficientas nustatomas kaip mokytojams, įgijusiems aukštesnįjį išsilavinimą.
 27. Mokytojams papildomai tarifikuojamos valandos:
@@ -1130,19 +1129,19 @@ Turintiems nuo 3 iki 10 metų pedagoginio darbo stažą
 Turintiems nuo 10 iki 15 metų pedagoginio darbo stažą
 Turintiems 15 ir daugiau metų pedagoginio darbo stažą
 Profesijos mokytojas
-3,13–3,17
-3,15–3,19
-3,16–3,2
-3,18–3,21
+3,18
+3,22
+3,31
+3,41
 32.2. kuriems suteiktos kvalifikacinės kategorijos, mėnesinių tarifinių atlygių koeficientai:
 Pareigybė
 Turintiems iki 10 metų pedagoginio darbo stažą
 Turintiems nuo 10 iki 15 metų pedagoginio darbo stažą
 Turintiems 15 ir daugiau metų pedagoginio darbo stažą
 Profesijos mokytojas
-3,18–3,23
-3,2–3,27
-3,23–3,3
+3,31
+3,41
+3,45
 Vyresnysis profesijos mokytojas
 3,46–3,51
 3,5–3,55
