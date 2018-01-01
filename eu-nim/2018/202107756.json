@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymas Nr. VIII-1666 (suvestinė redakcija nuo 2018-03-01)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-12168",
+  "official_journal_page": null,
+  "official_journal_date": "2017-07-03",
+  "entry_into_force": "2018-01-01",
+  "notification_date": "2021-12-02",
+  "commission_reference": "MNE(2021)07756",
+  "nim_celex": "72019L1153LTU_202107756",
+  "nim_id": "202107756",
+  "transposes_celex": [
+    "32019L1153"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/34dabb33-93eb-4f28-b9e0-da651363c7de",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
