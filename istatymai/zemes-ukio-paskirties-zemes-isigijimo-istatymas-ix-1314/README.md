@@ -16,3 +16,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2010-12-31 | 2013-12-31 | Įstatymas Nr. XI-1247 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/075e55ca2a148d86089eeb87d4411ff69e0b8fa3/istatymai/TAR.7A932101FADA.md) |
 | 2014-01-01 | 2014-04-30 | Įstatymas Nr. XII-419 / Įstatymas Nr. XII-458 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/48202954bf527ea48b0097f8b5aa2b39ac5ba0f5/istatymai/TAR.7A932101FADA.md) |
 | 2014-05-01 | 2017-12-31 | Įstatymas Nr. XII-854 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/162319f0b13c235333671799f57537e237aaad40/istatymai/TAR.7A932101FADA.md) |
+| 2018-01-01 | 2018-05-08 | Įstatymas Nr. XIII-801 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/903c2c4c63fbd98bd8c48da1c2dbb58d0f7b364a/istatymai/TAR.7A932101FADA.md) |
