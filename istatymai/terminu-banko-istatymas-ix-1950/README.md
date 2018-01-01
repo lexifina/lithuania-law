@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2004-01-13 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/bc14763150d0e45245987a406421c4ee1e4d2671/istatymai/TAR.D1F51C2190D5.md) |
+| 2018-01-01 |  | Įstatymas Nr. XIII-598 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/bab4f7e44980e58139fb9dc0bcc292fcef940398/istatymai/TAR.D1F51C2190D5.md) |
