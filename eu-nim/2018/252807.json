@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 9, 16 ir 17 straipsnių pakeitimo įstatymas Nr. XIII-710",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-18145",
+  "official_journal_page": null,
+  "official_journal_date": "2017-11-16",
+  "entry_into_force": "2018-01-01",
+  "notification_date": "2017-12-18",
+  "commission_reference": "MNE(2017)56462",
+  "nim_celex": "72009L0072LTU_252807",
+  "nim_id": "252807",
+  "transposes_celex": [
+    "32009L0072"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2004f49d-098e-4dd7-a879-6cad09aa0fe9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
