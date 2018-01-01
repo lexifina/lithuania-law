@@ -10,3 +10,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | --- | --- | --- | --- |
 | 1990-04-14 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/6a4946b3fe8722d1d023b349cc31801e96763ee4/istatymai/TAR.55B9E4E382B3.md) |
 | 2015-01-01 | 2017-12-31 | Įstatymas Nr. XI-745 / Įstatymas Nr. XI-1396 / Įstatymas Nr. XII-158 / Įstatymas Nr. XII-1517 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/246728d1fa2761f8aaf62d197fcc672aa40e8f5a/istatymai/TAR.55B9E4E382B3.md) |
+| 2018-01-01 | 2019-09-30 | Įstatymas Nr. XIII-542 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/f179c4672ffeed81df320bcd89a7734ad0475fea/istatymai/TAR.55B9E4E382B3.md) |
