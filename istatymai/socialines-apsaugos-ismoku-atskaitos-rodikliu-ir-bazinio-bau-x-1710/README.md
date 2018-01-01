@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2008-08-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/06107ae8dbf69d934074d1989e40514bc6f6c020/istatymai/TAR.821DEBBBD657.md) |
+| 2018-01-01 | 2019-12-31 | Įstatymas Nr. XIII-820 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/ad94540c1234318db9fb1afb65bff203f4ba9fd2/istatymai/TAR.821DEBBBD657.md) |
