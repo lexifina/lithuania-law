@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2017 m. rugpjūčio 21 d. įsakymas Nr. 1V-803  „Dėl Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2013 m. balandžio 15 d. įsakymo Nr. 1V-608 „Dėl Universaliosios pašto paslaugos nuostolių apskaičiavimo taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-13536",
+  "official_journal_page": null,
+  "official_journal_date": "2017-08-22",
+  "entry_into_force": "2018-01-01",
+  "notification_date": "2017-10-17",
+  "commission_reference": "MNE(2017)54751",
+  "nim_celex": "72008L0006LTU_250365",
+  "nim_id": "250365",
+  "transposes_celex": [
+    "32008L0006"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/25eb005e-c522-4f6b-a5df-137870119a78",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
