@@ -17,3 +17,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2007-01-01 | 2012-04-30 | Aktas Nr. X-868 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/2c86973df49f0dbd0d54250d88f177751f53d7fe/istatymai/TAR.CCA48EFA01D1.md) |
 | 2012-05-01 | 2012-12-31 | Aktas Nr. XI-1899 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/fe0f7233f1d8e7e7c7257795def8f08806b005f0/istatymai/TAR.CCA48EFA01D1.md) |
 | 2013-01-01 | 2017-12-31 | Aktas Nr. XI-2210 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/6e6d147650e1b52a346b8c4fb7686526cd5ba582/istatymai/TAR.CCA48EFA01D1.md) |
+| 2018-01-01 | 2024-12-31 | Aktas Nr. XII-2477 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/abe273a2ddfa99cff6888dc7784490c08e301e02/istatymai/TAR.CCA48EFA01D1.md) |
