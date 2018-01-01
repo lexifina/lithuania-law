@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 pakeitimo įstatymas Nr. XIII-822",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-20326",
+  "official_journal_page": null,
+  "official_journal_date": "2017-12-18",
+  "entry_into_force": "2018-01-01",
+  "notification_date": "2024-01-29",
+  "commission_reference": "MNE(2024)00493",
+  "nim_celex": "72021L1883LTU_202400493",
+  "nim_id": "202400493",
+  "transposes_celex": [
+    "32021L1883"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bc152ccd-3a97-4ee6-8be8-8df37072fabb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
