@@ -16,3 +16,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2017-06-28 | 2017-07-12 | Įstatymas Nr. XIII-465 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22DRrTTylBfA%22) |
 | 2017-07-13 | 2017-11-28 | Įstatymas Nr. XIII-556 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22NWQsotyqFE%22) |
 | 2017-11-29 | 2017-12-31 | Įstatymas Nr. XIII-784 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22QGSVUrbbxY%22) |
+| 2018-01-01 | 2018-06-30 | Įstatymas Nr. IX-1889 / Įstatymas Nr. XIII-356 / Įstatymas Nr. XIII-556 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22fTxevGSJuY%22) |
