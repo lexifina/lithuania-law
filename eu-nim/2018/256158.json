@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro ir Lietuvos Respublikos susisiekimo ministro 2018 m. sausio 2 d. įsakymas Nr. V-7/3-3 „Dėl Lietuvos Respublikos sveikatos apsaugos ministro ir Lietuvos Respublikos susisiekimo ministro 2011 m. lapkričio 10 d. įsakymo Nr. V-957/3-707 „Dėl Medicinos atsargų laivuose kontrolės tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-00145",
+  "official_journal_page": null,
+  "official_journal_date": "2018-01-03",
+  "entry_into_force": "2018-01-04",
+  "notification_date": "2018-02-23",
+  "commission_reference": "MNE(2018)51086",
+  "nim_celex": "71992L0029LTU_256158",
+  "nim_id": "256158",
+  "transposes_celex": [
+    "31992L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9815dc2b-2356-468b-b634-75848d243dc5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
