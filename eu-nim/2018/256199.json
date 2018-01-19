@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2018 m. sausio 17 d. įsakymas Nr. V-50 „Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2011 m. spalio 17 d. įsakymo Nr. V-910 „Dėl Laivų vaistinėlių išdavimo ir kontrolės tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-00794",
+  "official_journal_page": null,
+  "official_journal_date": "2018-01-18",
+  "entry_into_force": "2018-01-19",
+  "notification_date": "2018-02-27",
+  "commission_reference": "MNE(2018)51100",
+  "nim_celex": "71992L0029LTU_256199",
+  "nim_id": "256199",
+  "transposes_celex": [
+    "31992L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c2bc9518-212b-4173-9638-12432bfe3841",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
