@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2018 m. sausio 17 d. nutarimas  Nr. 65 \"Dėl Lietuvos Respublikos Vyriausybės 2011 m. spalio 27 d. nutarimo Nr. 1246 \"Dėl Gamtinių dujų perdavimo, skirstymo, laikymo, skystinimo, tiekimo ir rinkos operatoriaus licencijavimo taisyklių patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-00948",
+  "official_journal_page": null,
+  "official_journal_date": "2018-01-22",
+  "entry_into_force": "2018-01-23",
+  "notification_date": "2018-02-15",
+  "commission_reference": "MNE(2018)50510",
+  "nim_celex": "72009L0073LTU_255005",
+  "nim_id": "255005",
+  "transposes_celex": [
+    "32009L0073"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1df53e7d-a6d3-4f42-afeb-2cbbdf90cf89",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
