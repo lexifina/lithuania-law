@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2018 m. sausio 23 d. įsakymas Nr. V-76 „Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2007 m. gruodžio 21 d. įsakymo Nr. V-1055 „Dėl Lietuvos higienos normos HN 92:2007 „Paplūdimiai ir jų maudyklų vandens kokybė“ patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-01091",
+  "official_journal_page": null,
+  "official_journal_date": "2018-01-25",
+  "entry_into_force": "2018-01-25",
+  "notification_date": "2018-02-09",
+  "commission_reference": "MNE(2018)50866",
+  "nim_celex": "72006L0007LTU_255609",
+  "nim_id": "255609",
+  "transposes_celex": [
+    "32006L0007"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0124ad7d-125c-4fc2-afff-e95946bf46b3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
