@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos krašto apsaugos ministro  2018 m. sausio   25 d. įsakymas Nr. V-89 „Dėl Lietuvos Respublikos krašto apsaugos ministro 2009 m. gruodžio 29 d. įsakymo Nr. V-1216 „Dėl Bendrojo karinės įrangos sąrašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-01234",
+  "official_journal_page": null,
+  "official_journal_date": "2018-01-25",
+  "entry_into_force": "2018-01-26",
+  "notification_date": "2018-02-08",
+  "commission_reference": "MNE(2018)50822",
+  "nim_celex": "72017L2054LTU_255546",
+  "nim_id": "255546",
+  "transposes_celex": [
+    "32017L2054"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e2ebd55f-61dc-4754-b932-09e93e397260",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
