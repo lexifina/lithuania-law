@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2018 m. vasario 6 d. įsakymas Nr. 1V-93 „Dėl Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2006 m. vasario 24 d. įsakymo Nr. 1V-261 „Dėl Prisijungimo prie viešojo ryšių tinklo fiksuotoje vietoje ir viešųjų telefono ryšio paslaugų kokybės rodiklių nustatymo ir duomenų teikimo taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-01867",
+  "official_journal_page": null,
+  "official_journal_date": "2018-02-06",
+  "entry_into_force": "2018-02-07",
+  "notification_date": "2018-05-23",
+  "commission_reference": "MNE(2018)52164",
+  "nim_celex": "72002L0022LTU_258319",
+  "nim_id": "258319",
+  "transposes_celex": [
+    "32002L0022"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bb7304ce-117f-4ccb-9665-fbda2b4156e0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
