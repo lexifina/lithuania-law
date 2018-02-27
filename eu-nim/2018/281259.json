@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro, Lietuvos Respublikos socialinės apsaugos ir darbo ministro ir Lietuvos Respublikos sveikatos apsaugos ministro 2018 m. vasario 22 d. įsakymas Nr. 3-88/A1-70/V-209 „Dėl Lietuvos Respublikos susisiekimo ministro, Lietuvos Respublikos socialinės apsaugos ir darbo ministro ir Lietuvos Respublikos sveikatos apsaugos ministro 2013 m. lapkričio 21 d. Įsakymo Nr. 3-592/A1-641/V-1075 „Dėl skundų dėl darbo jūrų laivyboje reikalavimų, nustatytų Lietuvos Respublikos tarptautinėse sutartyse ir Lietuvos Respublikos teisės aktuose, galimų pažeidimų priėmimo ir nagrinėjimo tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-02996",
+  "official_journal_page": null,
+  "official_journal_date": "2018-02-26",
+  "entry_into_force": "2018-02-27",
+  "notification_date": "2020-03-03",
+  "commission_reference": "MNE(2020)51189",
+  "nim_celex": "72017L0159LTU_281259",
+  "nim_id": "281259",
+  "transposes_celex": [
+    "32017L0159"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5b863689-5f7b-11ea-b735-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
