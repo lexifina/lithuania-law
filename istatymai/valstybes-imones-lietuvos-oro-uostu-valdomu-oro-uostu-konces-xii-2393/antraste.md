@@ -5,7 +5,7 @@ VALSTYBĖS ĮMONĖS LIETUVOS ORO UOSTŲ VALDOMŲ ORO UOSTŲ KONCESIJOS
 Vilnius
 Lietuvos Respublikos Seimas,
 atsižvelgdamas į konstitucines vertybes, tarp jų bendrą tautos gerovę, šalies ūkio pajėgumą ir konkurencingumą, ūkinės veiklos laisvę ir iniciatyvą bei aplinkos apsaugą;
-atsižvelgdamas į tai, kad valstybės įmonė Lietuvos oro uostai ir jos patikėjimo teise valdomi aerodromai turi strateginę reikšmę nacionaliniam saugumui;
+atsižvelgdamas į tai, kad valstybės įmonė Lietuvos oro uostai ir jos patikėjimo teise valdomi aerodromai yra nacionaliniam saugumui užtikrinti svarbūs objektai;
 siekdamas apsaugoti Lietuvos Respublikos interesus ir užtikrinti Lietuvos oro transporto sistemos konkurencingumą Europos ir pasaulio rinkose;
 siekdamas, nekeičiant valstybės turto nuosavybės teisių ir neprarandant oro uostų valdymo kontrolės, didinti ir kompleksiškai plėtoti Lietuvos pasiekiamumą oro transportu, keleivių skaičiaus didėjimą ir skrydžių krypčių išplėtimą;
 siekdamas taikyti novatoriškus oro uostų valdymo principus skatinant viešojo ir privataus sektorių partnerystę ir atsižvelgdamas į pasaulinę praktiką;
