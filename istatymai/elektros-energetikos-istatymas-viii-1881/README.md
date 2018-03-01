@@ -30,3 +30,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2017-07-17 | 2017-10-31 | Įstatymas Nr. XI-1919 / Įstatymas Nr. XIII-554 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22lQUKlToXtd%22) |
 | 2017-11-01 | 2017-12-31 | Įstatymas Nr. XIII-604 / Įstatymas Nr. XIII-614 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22LauuNjdcUh%22) |
 | 2018-01-01 | 2018-02-28 | Įstatymas Nr. XIII-604 / Įstatymas Nr. XIII-710 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22pWCGjlEyyK%22) |
+| 2018-03-01 | 2018-04-30 | Įstatymas Nr. XIII-996 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22QaDCcYhwnm%22) |
