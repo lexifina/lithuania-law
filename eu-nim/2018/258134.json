@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2018 m. balandžio 18 d. nutarimas Nr. 03-66 „Dėl tipiškiausių su mokėjimo sąskaita susijusių paslaugų sąrašo sudarymo ir tvarkymo taisyklių ir reikalavimų, taikomų informacijos apie komisinį atlyginimą dokumentui ir komisinio atlyginimo ataskaitai, patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-06392",
+  "official_journal_page": null,
+  "official_journal_date": "2018-04-23",
+  "entry_into_force": "2018-04-24",
+  "notification_date": "2018-04-30",
+  "commission_reference": "MNE(2018)52030",
+  "nim_celex": "72014L0092LTU_258134",
+  "nim_id": "258134",
+  "transposes_celex": [
+    "32014L0092"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8e385879-a631-4fd2-8145-ba405eb32ae2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
