@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos konkurencijos tarybos 2018 m. vasario 1 d. nutarimas Nr. 1S-10 (2018) „Dėl Lietuvos Respublikos konkurencijos tarybos darbo reglamento patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-2273",
+  "official_journal_page": null,
+  "official_journal_date": "2018-02-13",
+  "entry_into_force": "2018-04-30",
+  "notification_date": "2021-02-03",
+  "commission_reference": "MNE(2021)01086",
+  "nim_celex": "72019L0001LTU_202101086",
+  "nim_id": "202101086",
+  "transposes_celex": [
+    "32019L0001"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c7f9ba1f-7b61-439c-9815-ecc8dfe298a4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
