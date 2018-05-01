@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2017 m. birželio 2 d. įsakymas Nr. V-641 \"Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2013 m. balandžio 22 d. įsakymo Nr. V-408 \"Dėl Lietuvos higienos normos HN 132:2013 \"Maisto produktų ir maisto ingredientų gamyboje leidžiami naudoti ekstrahentai\" patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "09609",
+  "official_journal_page": null,
+  "official_journal_date": "2017-06-06",
+  "entry_into_force": "2018-05-01",
+  "notification_date": "2017-07-13",
+  "commission_reference": "MNE(2017)53848",
+  "nim_celex": "72016L1855LTU_249108",
+  "nim_id": "249108",
+  "transposes_celex": [
+    "32016L1855"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5a6f82f1-7ddd-4cbe-ab77-4e6b0dcc69ef",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
