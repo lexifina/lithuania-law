@@ -3,4 +3,4 @@ Lietuvos Respublikos
 konsulinio statuto
 priedas
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
-1. 1995 m. gruodžio 19 d. Taryboje posėdžiavusių valstybių narių Vyriausybių atstovų sprendimas 95/553/EB dėl Europos Sąjungos piliečių gynybos, vykdomos diplomatinių atstovybių ir konsulinių įstaigų.
+1. 2015 m. balandžio 20 d. Tarybos direktyva (ES) 2015/637 dėl koordinavimo ir bendradarbiavimo priemonių, skirtų neatstovaujamų Sąjungos piliečių konsulinei apsaugai trečiosiose šalyse palengvinti ir kuria panaikinamas Sprendimas 95/553/EB (OL 2015 L 106, p. 1).
