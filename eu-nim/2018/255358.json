@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos metrologijos įstatymo Nr. I-1452 pakeitimo įstatymas Nr. XIII-982",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-01000",
+  "official_journal_page": null,
+  "official_journal_date": "2018-01-23",
+  "entry_into_force": "2018-05-01",
+  "notification_date": "2018-02-26",
+  "commission_reference": "MNE(2018)50710",
+  "nim_celex": "72014L0031LTU_255358",
+  "nim_id": "255358",
+  "transposes_celex": [
+    "32014L0031"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8cf7d288-d86a-46e6-815c-5d3ad7aad4ca",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
