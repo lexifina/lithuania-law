@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2018 m. gegužės 3 d. įsakymas Nr. 3D-280 \"Dėl žemės ūkio ministro 2003 m. birželio 4 d. įsakymo Nr. 3D-225 \"Dėl Pašarų privalomųjų saugos reikalavimų kontrolės įgyvendinimo taisyklių patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-07208",
+  "official_journal_page": null,
+  "official_journal_date": "2018-05-04",
+  "entry_into_force": "2018-05-05",
+  "notification_date": "2018-08-03",
+  "commission_reference": "MNE(2018)54222",
+  "nim_celex": "72002L0032LTU_261638",
+  "nim_id": "261638",
+  "transposes_celex": [
+    "32002L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8ece2da8-ece4-42b7-9d30-bfdd382e435c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
