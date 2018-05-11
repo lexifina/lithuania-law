@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2018 m. gegužės 9 d. nutarimas Nr. 447 „Dėl Asmenų, pretenduojančių eiti ar einančių pareigas nacionaliniam saugumui užtikrinti svarbiose įmonėse, tikrinimo tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-07602",
+  "official_journal_page": null,
+  "official_journal_date": "2018-05-10",
+  "entry_into_force": "2018-05-11",
+  "notification_date": "2025-07-21",
+  "commission_reference": "MNE(2025)01944",
+  "nim_celex": "72022L2557LTU_202501944",
+  "nim_id": "202501944",
+  "transposes_celex": [
+    "32022L2557"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bfa4ad68-bc52-4176-860a-e5516b23c305",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
