@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos policijos generalinio komisaro 2018 m. gegužės 15 d. įsakymas Nr. 5-V-462 „Dėl Lietuvos policijos generalinio komisaro 2016 m. gruodžio 5 d. įsakymo Nr. 5-V-1017 „Dėl įgaliojimų vykdyti informacijos apie keleivius padalinio funkcijas suteikimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-07765",
+  "official_journal_page": null,
+  "official_journal_date": "2018-05-15",
+  "entry_into_force": "2018-05-16",
+  "notification_date": "2018-05-18",
+  "commission_reference": "MNE(2018)52458",
+  "nim_celex": "72016L0681LTU_258744",
+  "nim_id": "258744",
+  "transposes_celex": [
+    "32016L0681"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f9059c17-2e84-4506-a1dd-2451ce5c11a7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
