@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos transporto saugos administracijos direktoriaus 2018 m. vasario 2 d. įsakymas Nr. 2BE-36 „Dėl ūkio subjektų rizikingumo vertinimo  metodikos patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-01684",
+  "official_journal_page": null,
+  "official_journal_date": "2018-02-02",
+  "entry_into_force": "2018-05-20",
+  "notification_date": "2018-02-27",
+  "commission_reference": "MNE(2018)51103",
+  "nim_celex": "72014L0047LTU_256202",
+  "nim_id": "256202",
+  "transposes_celex": [
+    "32014L0047"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/36e43a66-f7f7-4a71-97d8-13462378e250",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
