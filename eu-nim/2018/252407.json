@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių nusižengimų kodekso 356, 459, 589 straipsnių ir priedo pakeitimo įstatymas Nr. XIII-694",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-16997",
+  "official_journal_page": null,
+  "official_journal_date": "2017-10-27",
+  "entry_into_force": "2018-05-20",
+  "notification_date": "2017-11-15",
+  "commission_reference": "MNE(2017)56206",
+  "nim_celex": "72014L0047LTU_252407",
+  "nim_id": "252407",
+  "transposes_celex": [
+    "32014L0047"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a318a941-bb15-4394-b85c-578bbc3772b4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
