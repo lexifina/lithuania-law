@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2, 10, 13, 27, 29, 33 straipsnių ir priedo pakeitimo ir įstatymo papildymo 62, 29(1) straipsniais įstatymas Nr. XIII-692",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2017-16995",
+  "official_journal_page": null,
+  "official_journal_date": "2017-10-27",
+  "entry_into_force": "2018-05-20",
+  "notification_date": "2017-11-15",
+  "commission_reference": "MNE(2017)56204",
+  "nim_celex": "72014L0045LTU_252405",
+  "nim_id": "252405",
+  "transposes_celex": [
+    "32014L0045"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0d85936d-35c3-4d0e-be81-81782612df71",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
