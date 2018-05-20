@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2018 m. vasario 7 d. nutarimas Nr. 132 „Dėl Lietuvos Respublikos Vyriausybės 2005 m. balandžio 13 d. nutarimo Nr. 403 „Dėl Kelių transporto priemonių techninės būklės kontrolės Lietuvos Respublikos keliuose taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-02145",
+  "official_journal_page": null,
+  "official_journal_date": "2018-02-12",
+  "entry_into_force": "2018-05-20",
+  "notification_date": "2018-03-02",
+  "commission_reference": "MNE(2018)51071",
+  "nim_celex": "72014L0047LTU_256138",
+  "nim_id": "256138",
+  "transposes_celex": [
+    "32014L0047"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/63fe1586-b4ed-4d7f-b2a3-5556d5f7f5e5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
