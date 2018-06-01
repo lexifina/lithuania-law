@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos komercinių paslapčių teisinės apsaugos įstatymas Nr. XIII-1125",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-07477",
+  "official_journal_page": null,
+  "official_journal_date": "2018-05-08",
+  "entry_into_force": "2018-06-01",
+  "notification_date": "2021-12-17",
+  "commission_reference": "MNE(2021)08651",
+  "nim_celex": "72019L1937LTU_202108651",
+  "nim_id": "202108651",
+  "transposes_celex": [
+    "32019L1937"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cd01e364-6ca1-11ec-9136-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
