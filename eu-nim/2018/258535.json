@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos civilinio kodekso 1.111, 1.116 straipsnių ir priedo pakeitimo įstatymas Nr. XIII-1127",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-07479",
+  "official_journal_page": null,
+  "official_journal_date": "2018-05-08",
+  "entry_into_force": "2018-06-01",
+  "notification_date": "2018-05-22",
+  "commission_reference": "MNE(2018)52322",
+  "nim_celex": "72016L0943LTU_258535",
+  "nim_id": "258535",
+  "transposes_celex": [
+    "32016L0943"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/86e56909-e008-46a6-889c-361b302734d6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
