@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos civilinio proceso kodekso papildymo 10-1 straipsniu ir 275, 292 straipsnių pakeitimo įstatymas Nr. XIII-1126",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-07478",
+  "official_journal_page": null,
+  "official_journal_date": "2018-05-08",
+  "entry_into_force": "2018-06-01",
+  "notification_date": "2018-05-22",
+  "commission_reference": "MNE(2018)52323",
+  "nim_celex": "72016L0943LTU_258536",
+  "nim_id": "258536",
+  "transposes_celex": [
+    "32016L0943"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0dc31744-14ec-4744-a40e-4f3aaf761c35",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
