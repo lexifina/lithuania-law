@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos generalinio prokuroro 2018 m. gegužės 31 d. įsakymas Nr. I-187 „Dėl Lietuvos Respublikos generalinio prokuroro 2016 m. gegužės 16 d. įsakymo Nr. I-122 „Dėl Baudžiamojo proceso dokumentų formų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-09052",
+  "official_journal_page": null,
+  "official_journal_date": "2018-06-01",
+  "entry_into_force": "2018-06-02",
+  "notification_date": "2019-05-08",
+  "commission_reference": "MNE(2019)52782",
+  "nim_celex": "72012L0029LTU_272575",
+  "nim_id": "272575",
+  "transposes_celex": [
+    "32012L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/06d3b9df-93c6-4954-b4ab-19ee8e392e58",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
