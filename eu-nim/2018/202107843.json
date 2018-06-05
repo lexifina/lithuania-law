@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2018 m. birželio 1 d. įsakymas Nr. 3D-350 „Dėl Lietuvos erdvinės informacijos portalo nuostatų ir Lietuvos erdvinės informacijos portalo duomenų saugos nuostatų patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-09120",
+  "official_journal_page": null,
+  "official_journal_date": "2018-06-04",
+  "entry_into_force": "2018-06-05",
+  "notification_date": "2021-11-24",
+  "commission_reference": "MNE(2021)07843",
+  "nim_celex": "72007L0002LTU_202107843",
+  "nim_id": "202107843",
+  "transposes_celex": [
+    "32007L0002"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/51cdd9c0-50f4-11ec-91ac-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
