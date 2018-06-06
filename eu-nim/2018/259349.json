@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro 2018 m. birželio 4 d. įsakymas Nr. 4-339 „Dėl Lietuvos Respublikos ūkio ministro 2016 m. lapkričio 29 d. įsakymo Nr. 4-739 „Dėl Eksploatuoti netinkamų transporto priemonių sudėtinių dalių pateikimo rinkai ir tiekimo rinkai tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-09230",
+  "official_journal_page": null,
+  "official_journal_date": "2018-06-05",
+  "entry_into_force": "2018-06-06",
+  "notification_date": "2018-06-06",
+  "commission_reference": "MNE(2018)52889",
+  "nim_celex": "72017L2096LTU_259349",
+  "nim_id": "259349",
+  "transposes_celex": [
+    "32017L2096"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1d3461f1-6912-47bb-9297-8d82decd81e9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
