@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos užsienio reikalų ministro 2018 m. birželio 5 d. įsakymas Nr. V-147 „Dėl Konsulinės pagalbos teikimo neatstovaujamiems Europos Sąjungos piliečiams tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-9554",
+  "official_journal_page": null,
+  "official_journal_date": "2018-06-07",
+  "entry_into_force": "2018-06-08",
+  "notification_date": "2018-06-11",
+  "commission_reference": "MNE(2018)52984",
+  "nim_celex": "72015L0637LTU_259490",
+  "nim_id": "259490",
+  "transposes_celex": [
+    "32015L0637"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2f25ede1-365e-4e8f-a903-b4e33ab07843",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
