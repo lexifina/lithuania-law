@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 2, 9, 15, 21 straipsnių pakeitimo ir Įstatymo papildymo 9-1 straipsniu įstatymas Nr. XIII-1222",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-09737",
+  "official_journal_page": null,
+  "official_journal_date": "2018-06-11",
+  "entry_into_force": "2018-06-12",
+  "notification_date": "2018-07-19",
+  "commission_reference": "MNE(2018)53315",
+  "nim_celex": "72014L0024LTU_259936",
+  "nim_id": "259936",
+  "transposes_celex": [
+    "32014L0024"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f519f958-dde5-4998-83a5-159836457cec",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
