@@ -17,31 +17,31 @@ Vidutinis metinis turtas
 0,0057 proc.
 3.
 Vartojimo kredito davėjai, išskyrus kredito įstaigas ir jų filialus Lietuvos Respublikoje
-Vidutinis metinis turtas
-0,0085 proc.
+Vidutinė metinė likusi grąžinti išmokėtų vartojimo kreditų suma
+0,0125 proc.
 4.
 Elektroninių pinigų įstaigos; kitose negu Europos ekonominės erdvės valstybėse licencijuotų elektroninių pinigų įstaigų filialai, įsteigti Lietuvos Respublikoje
-Neapmokėtų elektroninių pinigų metinis vidurkis ir mokėjimo paslaugų metinė apyvarta
-0,01 proc.
+Metinės su elektroninių pinigų leidimu ir (arba) mokėjimo paslaugų teikimu susijusios pajamos
+0,65 proc.
 5.
 Europos ekonominės erdvės valstybėse licencijuotų elektroninių pinigų įstaigų filialai, įsteigti Lietuvos Respublikoje
-Neapmokėtų elektroninių pinigų metinis vidurkis ir mokėjimo paslaugų metinė apyvarta
-0,005 proc.
+Metinės su elektroninių pinigų leidimu ir (arba) mokėjimo paslaugų teikimu susijusios pajamos
+0,65 proc.
 6.
 Mokėjimo įstaigos
-Mokėjimo paslaugų metinė apyvarta
-0,01 proc.
+Metinės su mokėjimo paslaugų teikimu susijusios pajamos
+0,65 proc.
 7.
 Europos ekonominės erdvės valstybėse licencijuotų mokėjimo įstaigų filialai, įsteigti Lietuvos Respublikoje
-Mokėjimo paslaugų metinė apyvarta
-0,005 proc.
+Metinės su mokėjimo paslaugų teikimu susijusios pajamos
+0,65 proc.
 8.
 Draudimo ir perdraudimo įmonės; kitose negu Europos ekonominės erdvės valstybėse licencijuotų draudimo ir perdraudimo įmonių filialai, įsteigti Lietuvos Respublikoje
-Lietuvos Respublikoje pasirašytos draudimo ir perdraudimo įmokos
+Draudimo ir perdraudimo įmokos pagal Lietuvos Respublikoje sudarytas sutartis
 0,26 proc.
 9.
 Europos ekonominės erdvės valstybėse licencijuotų draudimo ir perdraudimo įmonių filialai, įsteigti Lietuvos Respublikoje
-Lietuvos Respublikoje pasirašytos draudimo ir perdraudimo įmokos
+Draudimo ir perdraudimo įmokos pagal Lietuvos Respublikoje sudarytas sutartis
 0,13 proc.
 10.
 Finansų maklerio įmonės
@@ -52,9 +52,11 @@ Kitose Europos ekonominės erdvės valstybėse licencijuotų finansų maklerio �
 Metinės pajamos
 0,15 proc.
 12.
-Valdymo įmonės, investicinės kintamojo kapitalo bendrovės, uždaro tipo investicinės bendrovės ir šių subjektų filialai, įsteigti Lietuvos Respublikoje
-Valdomas kolektyvinio investavimo subjektų ir papildomo savanoriško pensijų kaupimo fondų turtas
+Valdymo įmonės, investicinės bendrovės, kurių valdymas neperduotas valdymo įmonėms, ir šių subjektų filialai, įsteigti Lietuvos Respublikoje
+Valdomų neprofesionaliesiems investuotojams skirtų kolektyvinio investavimo subjektų ir papildomo savanoriško pensijų kaupimo fondų grynųjų aktyvų vertė
 0,05 proc.
+Valdomų informuotiesiems ir profesionaliesiems investuotojams skirtų kolektyvinio investavimo subjektų grynųjų aktyvų vertė
+0,02 proc.
 13.
 Reguliuojamos rinkos operatoriai
 –
@@ -62,7 +64,7 @@ Reguliuojamos rinkos operatoriai
 14.
 Centrinis vertybinių popierių depozitoriumas
 –
-28 962 Eur
+30 000 Eur
 15.
 Emitentai, kurių nuosavybės vertybiniai popieriai įtraukti į prekybą reguliuojamoje rinkoje Lietuvos Respublikoje ir (ar) kitoje Europos ekonominės erdvės valstybėje ir kurių priežiūrą atlieka Lietuvos bankas
 –
@@ -80,7 +82,7 @@ Finansų patarėjo įmonės
 –
 434 Eur
 19.
-Valiutos keityklos operatoriai
+Valiutos keityklų operatoriai
 –
 434 Eur
 20.
@@ -90,7 +92,7 @@ Sutelktinio finansavimo platformos operatoriai
 21.
 Kredito davėjai, išskyrus kredito įstaigas ir jų filialus Lietuvos Respublikoje
 Vidutinė metinė likusi grąžinti išmokėtų kreditų suma
-0,0125 proc., bet ne mažiau kaip 100 Eur
+0,0125 proc.
 22.
 Tarpusavio skolinimo platformos operatoriai
 –
@@ -100,3 +102,27 @@ Nepriklausomi kredito tarpininkai
 –
 217 Eur
 24.
+Nepriklausomi vartojimo kredito tarpininkai
+–
+217 Eur
+25.
+Centrinio vertybinių popierių depozitoriumo filialas
+–
+15 000 Eur
+26.
+Finansų maklerio įmonės priklausomi tarpininkai
+–
+217 Eur
+27.
+Lyginamojo indekso administratorius
+–
+217 Eur
+28.
+Informacijos apie sandorius paslaugų teikėjai
+–
+217 Eur
+29.
+Prižiūrimi duomenų tiekėjai
+–
+217 Eur
+30.
