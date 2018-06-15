@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2017-07-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/9c3e1e3ed1a1c0bbad26da8d97bf0197b659cca7/istatymai/TAR.EA8FEE50AC93.md) |
+| 2018-06-15 | 2018-12-31 | Įstatymas Nr. XIII-1251 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/b5064f506db3febc2d9c28b66e547aa79d4530d7/istatymai/TAR.EA8FEE50AC93.md) |
