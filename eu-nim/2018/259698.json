@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 2, 6, 8, 11, 21(1), 42, 43, 47 straipsnių, 1 ir 3 priedų pakeitimo ir Įstatymo papildymo 17(1), 42(1), 43(1), 43(2), 43(3), 43(4), 43(5), 43(6), 43(7) straipsniais ir septintuoju(3) skirsniu įstatymas Nr. XIII-1231",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-09837",
+  "official_journal_page": null,
+  "official_journal_date": "2018-06-14",
+  "entry_into_force": "2018-06-15",
+  "notification_date": "2018-06-19",
+  "commission_reference": "MNE(2018)53151",
+  "nim_celex": "72014L0065LTU_259698",
+  "nim_id": "259698",
+  "transposes_celex": [
+    "32014L0065"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ad5b745f-f4db-40f3-93bf-193931cae3eb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
