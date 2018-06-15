@@ -1,6 +1,6 @@
-# Nepriklausomi vartojimo kredito tarpininkai
+# Nacionalinės plėtros įstaigos
 –
-217 Eur
+2 000 Eur
 Lietuvos Respublikos
 Lietuvos banko įstatymo
 2 priedas
