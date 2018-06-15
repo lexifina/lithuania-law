@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 pakeitimo įstatymas Nr. XIII-1234",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "9854",
+  "official_journal_page": null,
+  "official_journal_date": "2018-06-14",
+  "entry_into_force": "2018-06-15",
+  "notification_date": "2019-04-09",
+  "commission_reference": "MNE(2019)51969",
+  "nim_celex": "72014L0057LTU_271406",
+  "nim_id": "271406",
+  "transposes_celex": [
+    "32014L0057"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f5b41be8-c3b8-4924-813d-8aa8322c98b3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
