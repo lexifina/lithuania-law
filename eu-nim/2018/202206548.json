@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos civilinio kodekso 3.3, 3.153, 3.212, 3.217, 3.219, 3.224, 3.253, 3.254, 3.259, 3.260, 3.261, 3.269 straipsnių pakeitimo, 3.220 straipsnio pripažinimo netekusiu galios ir Kodekso papildymo 3.254-1 straipsniu įstatymo Nr. XIII-645 pakeitimo įstatymas Nr. XIII-1290",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-10591",
+  "official_journal_page": null,
+  "official_journal_date": "2018-06-27",
+  "entry_into_force": "2018-06-28",
+  "notification_date": "2022-10-11",
+  "commission_reference": "MNE(2022)06548",
+  "nim_celex": "72001L0055LTU_202206548",
+  "nim_id": "202206548",
+  "transposes_celex": [
+    "32001L0055"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1ddcdd32-4bb9-11ed-92ed-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
