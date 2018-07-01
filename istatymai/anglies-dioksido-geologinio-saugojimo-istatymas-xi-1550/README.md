@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2011-07-19 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/7cc981162676ac364170335772c7bb18dbdf4975/istatymai/TAR.3BB20C9F088C.md) |
+| 2018-07-01 |  | Įstatymas Nr. XIII-782 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/002e92886ba7bb6ce3d005decfb8fca03c1efb87/istatymai/TAR.3BB20C9F088C.md) |
