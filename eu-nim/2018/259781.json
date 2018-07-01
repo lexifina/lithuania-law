@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2018 m. birželio 20 d. nutarimas Nr. 03-116 „Dėl Lietuvos banko valdybos 2015 m. birželio 11 d. nutarimo Nr. 03-92 „Dėl Finansų maklerio įmonių valdymo ir vidaus kapitalo pakankamumo vertinimo proceso taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-10223",
+  "official_journal_page": null,
+  "official_journal_date": "2018-06-21",
+  "entry_into_force": "2018-07-01",
+  "notification_date": "2018-06-28",
+  "commission_reference": "MNE(2018)53213",
+  "nim_celex": "72014L0065LTU_259781",
+  "nim_id": "259781",
+  "transposes_celex": [
+    "32014L0065"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3c74c555-5d24-4bc7-8b0b-964f6a7e642a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
