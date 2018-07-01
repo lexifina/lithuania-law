@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2018 m. birželio 20 d. nutarimas Nr. 03-111 „Dėl Finansų maklerio įmonių veiklos organizavimo ir investicinių paslaugų teikimo taisyklių patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-10242",
+  "official_journal_page": null,
+  "official_journal_date": "2018-06-22",
+  "entry_into_force": "2018-07-01",
+  "notification_date": "2018-06-28",
+  "commission_reference": "MNE(2018)53220",
+  "nim_celex": "72014L0065LTU_259814",
+  "nim_id": "259814",
+  "transposes_celex": [
+    "32014L0065"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/990c71ef-d512-4f4a-a772-0985972ffaa7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
