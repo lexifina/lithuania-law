@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2018 m. birželio 27 d. įsakymas Nr. D1-611 „Dėl Lietuvos Respublikos aplinkos ministro 2001 m. birželio 29 d. įsakymo Nr. 349 „Dėl Normatyvinio dokumento LAND 20-2005 „Nuotekų dumblo naudojimo tręšimui reikalavimai“ patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-10712",
+  "official_journal_page": null,
+  "official_journal_date": "2018-06-28",
+  "entry_into_force": "2018-07-01",
+  "notification_date": "2018-09-05",
+  "commission_reference": "MNE(2018)54766",
+  "nim_celex": "71986L0278LTU_262694",
+  "nim_id": "262694",
+  "transposes_celex": [
+    "31986L0278"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d06df150-b4b8-4700-b634-67f70ca16bf5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
