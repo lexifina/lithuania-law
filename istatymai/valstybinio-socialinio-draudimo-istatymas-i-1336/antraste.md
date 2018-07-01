@@ -1,4 +1,2 @@
-1991 m. gegužės 21 d. Nr. I-1336
-Vilnius
 I SKYRIUS
 BENDROSIOS NUOSTATOS
