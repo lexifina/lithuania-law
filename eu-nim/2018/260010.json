@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2018 m. gegužės 9 d. nutarimas Nr. 450 „Dėl Lietuvos Respublikos Vyriausybės 2017 m. gegužės 17 d. nutarimo Nr. 367 „Dėl pavojingųjų krovinių vežimo automobilių ir geležinkelių keliais Lietuvos Respublikoje“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-07719",
+  "official_journal_page": null,
+  "official_journal_date": "2018-05-14",
+  "entry_into_force": "2018-07-03",
+  "notification_date": "2018-07-02",
+  "commission_reference": "MNE(2018)53384",
+  "nim_celex": "72018L0217LTU_260010",
+  "nim_id": "260010",
+  "transposes_celex": [
+    "32018L0217"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/479959af-8e53-4e57-93cf-7a8a9fe01869",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
