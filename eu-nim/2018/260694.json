@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo proceso kodekso 21, 22, 44, 188, 189, 272 straipsnių ir priedo pakeitimo įstatymas Nr. XIII-1436",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-11746",
+  "official_journal_page": null,
+  "official_journal_date": "2018-07-11",
+  "entry_into_force": "2018-07-12",
+  "notification_date": "2018-07-13",
+  "commission_reference": "MNE(2018)53723",
+  "nim_celex": "72016L0343LTU_260694",
+  "nim_id": "260694",
+  "transposes_celex": [
+    "32016L0343"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/152b9e97-1afe-4c3f-a8fd-82f2c84003fd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
