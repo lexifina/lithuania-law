@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo Nr. I-1374 pakeitimo įstatymas Nr. XIII-1426",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-11733",
+  "official_journal_page": null,
+  "official_journal_date": "2018-07-11",
+  "entry_into_force": "2018-07-16",
+  "notification_date": "2019-06-18",
+  "commission_reference": "MNE(2019)53173",
+  "nim_celex": "72016L0681LTU_273275",
+  "nim_id": "273275",
+  "transposes_celex": [
+    "32016L0681"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b1e7068a-93fc-11e9-9369-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
