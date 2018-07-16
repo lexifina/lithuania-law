@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių nusižengimų kodekso 79, 479, 480, 589 straipsnių pakeitimo ir 82 straipsnio pripažinimo netekusiu galios įstatymas Nr. XIII-1427",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-11734",
+  "official_journal_page": null,
+  "official_journal_date": "2018-07-11",
+  "entry_into_force": "2018-07-16",
+  "notification_date": "2018-07-19",
+  "commission_reference": "MNE(2018)53832",
+  "nim_celex": "72016L1148LTU_260994",
+  "nim_id": "260994",
+  "transposes_celex": [
+    "32016L1148"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2c29ae73-a22a-47ed-984b-90af0cd320e0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
