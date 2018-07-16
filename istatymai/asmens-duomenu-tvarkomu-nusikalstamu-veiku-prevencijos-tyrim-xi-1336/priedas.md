@@ -1,9 +1,10 @@
 # RESPUBLIKOS PREZIDENTĖ DALIA GRYBAUSKAITĖ
 Lietuvos Respublikos
-asmens duomenų, tvarkomų
-vykdant policijos ir teisminį
-bendradarbiavimą baudžiamosiose
-bylose, teisinės apsaugos įstatymo
+asmens duomenų, tvarkomų nusikalstamų
+veikų prevencijos, tyrimo, atskleidimo ar
+baudžiamojo persekiojimo už jas, bausmių
+vykdymo arba nacionalinio saugumo ar
+gynybos tikslais, teisinės apsaugos įstatymo
 priedas
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
-2008 m. lapkričio 27 d. Tarybos pamatinis sprendimas 2008/977/TVR dėl asmens duomenų, tvarkomų vykdant policijos ir teisminį bendradarbiavimą baudžiamosiose bylose, apsaugos (OL 2008 L 350, p. 60).
+1. 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/680 dėl fizinių asmenų apsaugos kompetentingoms institucijoms tvarkant asmens duomenis nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas arba bausmių vykdymo tikslais ir dėl laisvo tokių duomenų judėjimo, ir kuriuo panaikinamas Tarybos pamatinis sprendimas 2008/977/TVR (OL 2016 L 119, p. 89).
