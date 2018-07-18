@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Asmens dokumentų išrašymo centro prie Lietuvos Respublikos vidaus reikalų ministerijos direktoriaus 2018 m. liepos 17 d. įsakymas Nr. 1-46 \"Dėl Asmens dokumentų išrašymo centro prie Vidaus reikalų ministerijos direktoriaus 2009 m. birželio 12 d. įsakymo Nr. 1-26 „Dėl Prašymų asmens dokumentams išduoti, pakeisti, įforminti registravimo, užsakymų asmens dokumentams išrašyti formavimo ir duomenų apie asmens dokumentų galiojimą tvarkos aprašo patvirtinimo ir kai kurių teisės aktų pripažinimo netekusiais galios“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-12115",
+  "official_journal_page": null,
+  "official_journal_date": "2018-07-17",
+  "entry_into_force": "2018-07-18",
+  "notification_date": "2018-08-31",
+  "commission_reference": "MNE(2018)54707",
+  "nim_celex": "72016L0801LTU_262496",
+  "nim_id": "262496",
+  "transposes_celex": [
+    "32016L0801"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/db4eae65-503a-44ea-a801-e62d8d9a2bfc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
