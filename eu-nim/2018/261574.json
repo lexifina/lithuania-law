@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2018 m. liepos 24 d. įsakymas Nr. 1V-686 „Dėl Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2016 m. birželio 14 d. įsakymo Nr. 1V-670 „Dėl Radijo ryšio įrenginių techninio reglamento patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-12341",
+  "official_journal_page": null,
+  "official_journal_date": "2018-07-24",
+  "entry_into_force": "2018-07-25",
+  "notification_date": "2018-07-31",
+  "commission_reference": "MNE(2018)54187",
+  "nim_celex": "72014L0053LTU_261574",
+  "nim_id": "261574",
+  "transposes_celex": [
+    "32014L0053"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/77cafbda-ae8f-4480-b2d2-67200bbce4d0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
