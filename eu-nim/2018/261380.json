@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkio ministro 2018 m. liepos 25 d. įsakymas Nr. 4-472 „Dėl Lietuvos Respublikos ūkio ministro 2011 m. balandžio 1 d. įsakymo Nr. 4-174 „Dėl Žaislų saugos techninio reglamento patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-12375",
+  "official_journal_page": null,
+  "official_journal_date": "2018-07-25",
+  "entry_into_force": "2018-07-26",
+  "notification_date": "2018-07-26",
+  "commission_reference": "MNE(2018)54082",
+  "nim_celex": "72017L0898LTU_261380",
+  "nim_id": "261380",
+  "transposes_celex": [
+    "32017L0898"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e8847dd9-f8e4-4b5d-9abe-3f182ea5f1b7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
