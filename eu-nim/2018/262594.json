@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės duomenų apsaugos inspekcijos direktoriaus 2018 m. liepos 30 d. įsakymas Nr. 1T-73(1.12.E) \"Dėl Duomenų subjekto teisių gauti informaciją, susipažinti su asmens duomenimis, reikalauti ištaisyti ar ištrinti asmens duomenis ir apriboti jų tvarkymą įgyvendinimo, kai duomenų subjektas šias teises įgyvendina per Valstybinę duomenų apsaugos inspekciją, tvarkos aprašo patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-12601",
+  "official_journal_page": null,
+  "official_journal_date": "2018-07-30",
+  "entry_into_force": "2018-07-31",
+  "notification_date": "2018-09-12",
+  "commission_reference": "MNE(2018)54745",
+  "nim_celex": "72016L0680LTU_262594",
+  "nim_id": "262594",
+  "transposes_celex": [
+    "32016L0680"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b3bc5876-4387-405e-8dc0-b618e05d2893",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
