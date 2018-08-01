@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės augalininkystės tarnybos prie Žemės ūkio ministerijos direktoriaus 2018 m. liepos 26 d. įsakymas Nr. A1-416 „Dėl Valstybinės augalininkystės tarnybos prie Žemės ūkio ministerijos direktoriaus 2010 m. spalio 22 d. įsakymo Nr. A1-113 „Dėl augalų rūšių veislių tikrinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Informaciniai pranešimai",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2018-07-26",
+  "entry_into_force": "2018-08-01",
+  "notification_date": "2018-07-27",
+  "commission_reference": "MNE(2018)54122",
+  "nim_celex": "72018L0100LTU_261454",
+  "nim_id": "261454",
+  "transposes_celex": [
+    "32018L0100"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f58c6e2d-c740-4742-8d8d-8a2bf9295451",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
