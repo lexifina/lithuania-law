@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 47 straipsnio ir 1 priedo pakeitimo įstatymas Nr. XIII-1095",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-06731",
+  "official_journal_page": null,
+  "official_journal_date": "2018-04-27",
+  "entry_into_force": "2018-08-01",
+  "notification_date": "2018-07-16",
+  "commission_reference": "MNE(2018)53790",
+  "nim_celex": "72015L2366LTU_260818",
+  "nim_id": "260818",
+  "transposes_celex": [
+    "32015L2366"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/02bc0503-188b-45a2-a299-9606a745c7c5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
