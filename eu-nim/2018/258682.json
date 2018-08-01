@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatymas Nr. XIII-1093",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-06729",
+  "official_journal_page": null,
+  "official_journal_date": "2018-04-27",
+  "entry_into_force": "2018-08-01",
+  "notification_date": "2018-05-16",
+  "commission_reference": "MNE(2018)52417",
+  "nim_celex": "72015L2366LTU_258682",
+  "nim_id": "258682",
+  "transposes_celex": [
+    "32015L2366"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/20a1e0f8-954e-4fca-a619-7101c588c1cb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
