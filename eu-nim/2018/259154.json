@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2018 m. gegužės 24 d. nutarimas Nr. 03-83 „Dėl Elektroninių pinigų įstaigų ir mokėjimo įstaigų pradinio kapitalo ir nuosavo kapitalo skaičiavimo taisyklių ir elektroninių pinigų įstaigų (mokėjimo įstaigų) pradinio kapitalo ir nuosavo kapitalo skaičiavimo ataskaitos formų patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-08416",
+  "official_journal_page": null,
+  "official_journal_date": "2018-05-25",
+  "entry_into_force": "2018-08-01",
+  "notification_date": "2018-06-06",
+  "commission_reference": "MNE(2018)52761",
+  "nim_celex": "72015L2366LTU_259154",
+  "nim_id": "259154",
+  "transposes_celex": [
+    "32015L2366"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2135cb70-17e3-40e9-b7fe-4a286b781af1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
