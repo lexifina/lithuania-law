@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2018 m. rugpjūčio 29 d. nutarimas Nr. 844 \"Dėl Lietuvos Respublikos Vyriausybės 1999 m. gegužės 25 d. nutarimo Nr. 651 „Dėl Valstybės jonizuojančiosios spinduliuotės šaltinių ir darbuotojų apšvitos registro įsteigimo bei jo nuostatų patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-13656",
+  "official_journal_page": null,
+  "official_journal_date": "2018-08-30",
+  "entry_into_force": "2018-09-01",
+  "notification_date": "2018-12-10",
+  "commission_reference": "MNE(2018)55361",
+  "nim_celex": "72013L0059LTU_263617",
+  "nim_id": "263617",
+  "transposes_celex": [
+    "32013L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b6f867ca-4abe-4441-9d46-96952a79aa6b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
