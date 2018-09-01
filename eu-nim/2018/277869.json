@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos radiacinės saugos įstatymo Nr. VIII-1019 pakeitimo įstatymas Nr. XIII-1283",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-11176",
+  "official_journal_page": null,
+  "official_journal_date": "2018-07-03",
+  "entry_into_force": "2018-09-01",
+  "notification_date": "2019-10-15",
+  "commission_reference": "MNE(2019)55849",
+  "nim_celex": "72014L0087LTU_277869",
+  "nim_id": "277869",
+  "transposes_celex": [
+    "32014L0087"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0c6a4e77-f1a2-11e9-a32c-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
