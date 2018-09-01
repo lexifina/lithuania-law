@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės atominės energetikos saugos inspekcijos viršininko 2018 m. rugpjūčio 30 d. įsakymas Nr. 22.3-204 \"Dėl Branduolinės saugos reikalavimų BSR-1.9.6-2018 „Branduolinės energetikos srities veiklos su jonizuojančiosios spinduliuotės šaltiniais radiacinės saugos eksperto pripažinimas ir šios veiklos vykdytojų konsultavimosi su radiacinės saugos ekspertu pareigos“ patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-13683",
+  "official_journal_page": null,
+  "official_journal_date": "2018-08-31",
+  "entry_into_force": "2018-09-01",
+  "notification_date": "2018-12-10",
+  "commission_reference": "MNE(2018)55372",
+  "nim_celex": "72013L0059LTU_263628",
+  "nim_id": "263628",
+  "transposes_celex": [
+    "32013L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/26dac2b7-cb56-4cba-9694-9e6cbd7e3022",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
