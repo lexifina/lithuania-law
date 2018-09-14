@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2018 m. rugsėjo 12 d. įsakymas Nr. V-1009 „Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2018 m. liepos 25 d. įsakymo Nr. V-854 „Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2018 m. balandžio 24 d. įsakymo Nr. V-511 „Dėl Strateginio triukšmo kartografavimo ir Lietuvos Respublikos bendradarbiavimo su kaimyninėmis valstybėmis strateginio triukšmo kartografavimo srityje tvarkos aprašo patvirtinimo“ pakeitimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-14450",
+  "official_journal_page": null,
+  "official_journal_date": "2018-09-13",
+  "entry_into_force": "2018-09-14",
+  "notification_date": "2018-09-20",
+  "commission_reference": "MNE(2018)55192",
+  "nim_celex": "72015L0996LTU_263359",
+  "nim_id": "263359",
+  "transposes_celex": [
+    "32015L0996"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/29b9e66d-bcb0-4788-9cdf-9f82ec28b374",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
