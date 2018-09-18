@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2018 m. rugsėjo 12 d. nutarimu Nr. 918 „Dėl Lietuvos Respublikos radiacinės saugos įstatymo įgyvendinimo“ (suvestinė redakcija nuo 2020-11-01)",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-14654",
+  "official_journal_page": null,
+  "official_journal_date": "2018-09-17",
+  "entry_into_force": "2018-09-18",
+  "notification_date": "2021-01-27",
+  "commission_reference": "MNE(2021)00665",
+  "nim_celex": "72013L0059LTU_202100665",
+  "nim_id": "202100665",
+  "transposes_celex": [
+    "32013L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e5861441-53b4-412f-bbcf-6c7c07adc6fb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
