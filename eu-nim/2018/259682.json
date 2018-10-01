@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2018 m. birželio 12 d. nutarimas Nr. 03-93 „Dėl Draudimo ir perdraudimo produktų platintojų kvalifikacijos ir jos tobulinimo reikalavimų, kvalifikacijos kontrolės ir vertinimo kriterijų, kvalifikacijos pripažinimo tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-09870",
+  "official_journal_page": null,
+  "official_journal_date": "2018-06-14",
+  "entry_into_force": "2018-10-01",
+  "notification_date": "2018-07-11",
+  "commission_reference": "MNE(2018)53135",
+  "nim_celex": "72016L0097LTU_259682",
+  "nim_id": "259682",
+  "transposes_celex": [
+    "32016L0097"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/31770c4a-349a-4d12-8f89-3827e24db4c4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
