@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos draudimo įstatymo Nr. IX-1737 pakeitimo įstatymas Nr. XIII-1107",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-06971",
+  "official_journal_page": null,
+  "official_journal_date": "2018-05-02",
+  "entry_into_force": "2018-10-01",
+  "notification_date": "2018-05-21",
+  "commission_reference": "MNE(2018)52440",
+  "nim_celex": "72016L0097LTU_258714",
+  "nim_id": "258714",
+  "transposes_celex": [
+    "32016L0097"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bfe793de-2dbe-4ea7-bd63-4a6276939baf",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
