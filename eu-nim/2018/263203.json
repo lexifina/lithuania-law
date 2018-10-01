@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2018 m. rugsėjo 12 d. įsakymas Nr. 3D-638 \"Dėl žemės ūkio ministro 2002 m. rugsėjo 23 d. įsakymo Nr. 371 \"Dėl Privalomųjų dekoratyvinių augalų dauginamosios medžiagos reikalavimų\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-14409",
+  "official_journal_page": null,
+  "official_journal_date": "2018-09-12",
+  "entry_into_force": "2018-10-01",
+  "notification_date": "2018-09-19",
+  "commission_reference": "MNE(2018)55103",
+  "nim_celex": "72018L0484LTU_263203",
+  "nim_id": "263203",
+  "transposes_celex": [
+    "32018L0484"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ca605bbd-e208-4db2-a8ef-8996c8ef5730",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
