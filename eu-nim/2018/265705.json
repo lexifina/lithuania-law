@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2018 m. spalio 1 d. įsakymas Nr. V-1059 „Dėl Radiacinės saugos eksperto, išskyrus branduolinės energetikos srities veiklos su jonizuojančiosios spinduliuotės šaltiniais radiacinės saugos ekspertą, pripažinimo tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-15538",
+  "official_journal_page": null,
+  "official_journal_date": "2018-10-02",
+  "entry_into_force": "2018-10-03",
+  "notification_date": "2018-12-10",
+  "commission_reference": "MNE(2018)56512",
+  "nim_celex": "72013L0059LTU_265705",
+  "nim_id": "265705",
+  "transposes_celex": [
+    "32013L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/124e25ad-7c9d-4fe0-a3b2-7418bba66dba",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
