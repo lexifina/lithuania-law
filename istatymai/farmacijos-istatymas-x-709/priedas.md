@@ -13,4 +13,5 @@ priedas
 9. 2008 m. lapkričio 24 d. Europos Komisijos reglamentas (EB) Nr. 1234/2008 dėl žmonėms skirtų vaistų ir veterinarinių vaistų rinkodaros pažymėjimų sąlygų keitimo nagrinėjimo (tekstas svarbus EEE) (OL 2008 L 334, p. 7) su paskutiniais pakeitimais.
 10. 2011 m. kovo 9 d. Europos Parlamento ir Tarybos direktyva 2011/24/ES dėl pacientų teisių į tarpvalstybines sveikatos priežiūros paslaugas įgyvendinimo (OL 2011 L 88, p. 45).
 11. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 536/2014 dėl žmonėms skirtų vaistų klinikinių tyrimų, kuriuo panaikinama Direktyva 2001/20/EB (OL 2014 L 158, p. 1).
-part_d51b9062fcd5410bab9f20647a9fd45a_end
+12. 2015 m. spalio 2 d. Komisijos deleguotasis reglamentas (ES) 2016/161, kuriuo nustatomos išsamios apsaugos priemonių ant žmonėms skirtų vaistų pakuotės naudojimo taisyklės ir taip papildoma Europos Parlamento ir Tarybos direktyva 2001/83/EB (OL 2016 L 32, p. 1).
+part_1a8fcafbf89e4d9ab2d76afe79dd697c_end
