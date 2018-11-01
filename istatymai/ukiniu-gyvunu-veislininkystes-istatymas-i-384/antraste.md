@@ -1,4 +1,5 @@
-Į S T A T Y M A S
+ŪKINIŲ GYVŪNŲ VEISLININKYSTĖS
+ĮSTATYMAS
 1994 m. vasario 8 d. Nr. I-384
 Vilnius
 I SKYRIUS
