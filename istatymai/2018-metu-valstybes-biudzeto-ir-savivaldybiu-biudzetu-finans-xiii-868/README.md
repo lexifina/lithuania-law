@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2017-12-21 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/0cdcc11beb39462be91bffd02fa59fec0b54074f/istatymai/TAR.D69A3E50E595.md) |
+| 2018-11-10 |  | Įstatymas Nr. XIII-1608 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/e542981046bf18e1825542218c14f9f3d9aaa150/istatymai/TAR.D69A3E50E595.md) |
