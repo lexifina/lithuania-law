@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2018 m. lapkričio 20 d. nutarimas Nr. 03-217 „Dėl Lietuvos banko valdybos 2013 m. lapkričio 14 d. nutarimo Nr. 03-181 „Dėl Lietuvos banko prižiūrimų finansų rinkos dalyvių vadovų ir pagrindines funkcijas atliekančių asmenų vertinimo nuostatų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-18817",
+  "official_journal_page": null,
+  "official_journal_date": "2018-11-22",
+  "entry_into_force": "2018-11-23",
+  "notification_date": "2019-01-23",
+  "commission_reference": "MNE(2019)50317",
+  "nim_celex": "72016L2341LTU_267478",
+  "nim_id": "267478",
+  "transposes_celex": [
+    "32016L2341"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/66a2975f-c8d9-43d4-9d5b-82f7c0e9b605",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
