@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo Nr. VIII-1524 1, 2, 3, 5, 6, 7, 12, 22 straipsnių ir priedo pakeitimo įstatymas Nr. XIII-1590",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-18204",
+  "official_journal_page": null,
+  "official_journal_date": "2018-11-12",
+  "entry_into_force": "2018-11-23",
+  "notification_date": "2019-03-22",
+  "commission_reference": "MNE(2019)50509",
+  "nim_celex": "72003L0098LTU_267767",
+  "nim_id": "267767",
+  "transposes_celex": [
+    "32003L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a0c95266-5c34-431d-803f-650c7ee2ef05",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
