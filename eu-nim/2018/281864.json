@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Užimtumo tarnybos prie Lietuvos Respublikos\nsocialinės apsaugos ir darbo ministerijos direktoriaus 2018 m. lapkričio 21 d. įsakymas Nr. V-560  „Dėl informacijos apie tarpininkavimo įdarbinant paslaugų teikimą tvarkos aprašo patvirtinimo“ (Suvestinė redakcija nuo 2019-09-01)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-18874",
+  "official_journal_page": null,
+  "official_journal_date": "2018-11-23",
+  "entry_into_force": "2018-11-24",
+  "notification_date": "2020-03-09",
+  "commission_reference": "MNE(2020)51634",
+  "nim_celex": "72017L0159LTU_281864",
+  "nim_id": "281864",
+  "transposes_celex": [
+    "32017L0159"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/91fa929f-64fe-11ea-b735-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
