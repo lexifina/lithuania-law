@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymo Nr. VIII-602 2, 3 straipsnių ir priedo pakeitimo įstatymas Nr. XIII-1659",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-19127",
+  "official_journal_page": null,
+  "official_journal_date": "2018-11-27",
+  "entry_into_force": "2018-11-28",
+  "notification_date": "2018-12-27",
+  "commission_reference": "MNE(2018)56957",
+  "nim_celex": "72017L2103LTU_266646",
+  "nim_id": "266646",
+  "transposes_celex": [
+    "32017L2103"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/da3ad7e2-c2cb-4954-92a3-750de4ee959e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
