@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2018 m. lapkričio 30 d. įsakymas Nr. 3D-855 „Dėl žemės ūkio ministro 2000 m. rugsėjo 29 d. įsakymo Nr. 274 „Dėl Privalomųjų rinkai tiekiamos javų sėklos kokybės reikalavimų aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-19465",
+  "official_journal_page": null,
+  "official_journal_date": "2018-11-30",
+  "entry_into_force": "2018-12-01",
+  "notification_date": "2018-12-14",
+  "commission_reference": "MNE(2018)56590",
+  "nim_celex": "72018L1027LTU_265789",
+  "nim_id": "265789",
+  "transposes_celex": [
+    "32018L1027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/12dd3438-d5a6-4b32-8c48-7d4f2acd3f1e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
