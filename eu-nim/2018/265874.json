@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo kodekso 178, 180, 181, 196, 197, 250, 250-3, 252-1 straipsnių ir priedo pakeitimo įstatymas Nr. XIII-1682",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-20234",
+  "official_journal_page": null,
+  "official_journal_date": "2018-12-11",
+  "entry_into_force": "2018-12-12",
+  "notification_date": "2018-12-31",
+  "commission_reference": "MNE(2018)56642",
+  "nim_celex": "72017L0541LTU_265874",
+  "nim_id": "265874",
+  "transposes_celex": [
+    "32017L0541"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/20712aae-f76f-468e-a630-6c41f288cb7d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
