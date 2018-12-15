@@ -17,7 +17,8 @@ elektroninių ryšių įstatymo
 13. 2004 m. spalio 27 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 2006/2004 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo (OL 2004 L 364, p. 1).
 14. Neteko galios nuo 2016-10-18
 15. 2008 m. birželio 20 d. Europos Komisijos direktyva 2008/63/EB dėl konkurencijos telekomunikacijų galinių įrenginių rinkose (OL 2008 L 162, p. 20).
-16. 2013 m. birželio 24 d. Komisijos reglamentas (ES) Nr. 611/2013 dėl priemonių, kurios pagal Europos Parlamento ir Tarybos direktyvą 2002/58/EB dėl privatumo ir elektroninių ryšių taikomos pranešimams apie asmens duomenų saugumo pažeidimus (OL 2013 L 173, p. 2).
-17. 2014 m. vasario 26 d. Europos Parlamento ir Tarybos direktyva 2014/30/ES dėl valstybių narių įstatymų, susijusių su elektromagnetiniu suderinamumu, suderinimo (nauja redakcija) (OL 2014 L 96, p. 79).
-18. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/53/ES dėl valstybių narių įstatymų, susijusių su radijo įrenginių tiekimu rinkai, suderinimo, kuria panaikinama Direktyva 1999/5/EB (OL 2014 L 153, p. 62).
-19. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/61/ES dėl priemonių sparčiojo elektroninių ryšių tinklų diegimo sąnaudoms mažinti (OL 2014 L 155, p. 1).
+16. 2012 m. lapkričio 21 d. Europos Parlamento ir Tarybos direktyva 2012/34/ES, kuria sukuriama bendra Europos geležinkelių erdvė (OL 2012 L 343, p. 32).
+17. 2013 m. birželio 24 d. Komisijos reglamentas (ES) Nr. 611/2013 dėl priemonių, kurios pagal Europos Parlamento ir Tarybos direktyvą 2002/58/EB dėl privatumo ir elektroninių ryšių taikomos pranešimams apie asmens duomenų saugumo pažeidimus (OL 2013 L 173, p. 2).
+18. 2014 m. vasario 26 d. Europos Parlamento ir Tarybos direktyva 2014/30/ES dėl valstybių narių įstatymų, susijusių su elektromagnetiniu suderinamumu, suderinimo (nauja redakcija) (OL 2014 L 96, p. 79).
+19. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/53/ES dėl valstybių narių įstatymų, susijusių su radijo įrenginių tiekimu rinkai, suderinimo, kuria panaikinama Direktyva 1999/5/EB (OL 2014 L 153, p. 62).
+20. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/61/ES dėl priemonių sparčiojo elektroninių ryšių tinklų diegimo sąnaudoms mažinti (OL 2014 L 155, p. 1).
