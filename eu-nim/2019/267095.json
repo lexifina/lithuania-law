@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 2, 13, 15, 24, 62, 64, 78(1), 115(1) straipsnių pakeitimo, 2 priedo pakeitimo ir įstatymo papildymo 9(1) ir 26(1) straipsniais įstatymas Nr. XIII-1681",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-20183",
+  "official_journal_page": null,
+  "official_journal_date": "2018-12-10",
+  "entry_into_force": "2019-01-01",
+  "notification_date": "2019-01-07",
+  "commission_reference": "MNE(2019)50138",
+  "nim_celex": "72016L1065LTU_267095",
+  "nim_id": "267095",
+  "transposes_celex": [
+    "32016L1065"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f4137ba2-09e4-4b84-af8e-3eb1ae534aee",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
