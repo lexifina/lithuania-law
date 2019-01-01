@@ -1,6 +1,6 @@
-# Žvyras
+# Kitas smėlis, žvyras
 m3
-0,44
+0,42
 Lietuvos Respublikos
 mokesčio už valstybinius
 gamtos išteklius įstatymo
