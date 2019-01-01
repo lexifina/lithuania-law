@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo Nr. VIII-1591 2, 11, 12, 13, 14, 15, 18, 19, 21, 22, 23, 24, 29, 30, 31, 32, 34 straipsnių ir priedo pakeitimo įstatymas Nr. XIII-1437",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-11748",
+  "official_journal_page": null,
+  "official_journal_date": "2018-07-11",
+  "entry_into_force": "2019-01-01",
+  "notification_date": "2018-07-20",
+  "commission_reference": "MNE(2018)53725",
+  "nim_celex": "72016L1919LTU_260696",
+  "nim_id": "260696",
+  "transposes_celex": [
+    "32016L1919"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a0ae8d0d-317c-401e-8e99-1dd45d3feafc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
