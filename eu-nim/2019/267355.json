@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 2, 4, 5, 11, 17, 30, 39, 55 straipsnių, 3 priedėlio pakeitimo ir Įstatymo papildymo 30(1) straipsniu įstatymas Nr. XIII-1697",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-20938",
+  "official_journal_page": null,
+  "official_journal_date": "2018-12-20",
+  "entry_into_force": "2019-01-01",
+  "notification_date": "2019-01-17",
+  "commission_reference": "MNE(2019)50234",
+  "nim_celex": "72016L1164LTU_267355",
+  "nim_id": "267355",
+  "transposes_celex": [
+    "32016L1164"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/eb9f6c82-6847-487d-b187-8aa9d8532e12",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
