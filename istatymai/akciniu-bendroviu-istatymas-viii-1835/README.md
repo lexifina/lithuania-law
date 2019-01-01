@@ -18,3 +18,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2017-11-29 | 2017-12-31 | Įstatymas Nr. XIII-784 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22QGSVUrbbxY%22) |
 | 2018-01-01 | 2018-06-30 | Įstatymas Nr. IX-1889 / Įstatymas Nr. XIII-356 / Įstatymas Nr. XIII-556 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22fTxevGSJuY%22) |
 | 2018-07-01 | 2018-12-31 | Įstatymas Nr. IX-1889 / Įstatymas Nr. XIII-784 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22rHicjDFebN%22) |
+| 2019-01-01 | 2019-01-31 | Įstatymas Nr. XIII-849 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22pbHToMCsDx%22) |
