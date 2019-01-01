@@ -20,3 +20,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2017-12-14 |  | Įstatymas Nr. XIII-817 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22CpiMkquWhM%22) |
 | 2018-01-01 | 2018-12-10 | Įstatymas Nr. XIII-816 / Įstatymas Nr. XIII-817 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22eHueOsyTca%22) |
 | 2018-12-11 | 2018-12-31 | Įstatymas Nr. XIII-1681 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22EgctNUVymy%22) |
+| 2019-01-01 | 2019-06-30 | Įstatymas Nr. XIII-1332 / Įstatymas Nr. XIII-1681 / Įstatymas Nr. XIII-1707 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22MWeNRhqidN%22) |
