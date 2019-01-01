@@ -15,112 +15,112 @@ tarnybos metai pagal laipsnį
 4-ieji
 5-ieji ir tolesni
 Generolas leitenantas, viceadmirolas
-24,4
-24,4
-24,4
-24,4
-24,4
+25,1
+25,1
+25,1
+25,1
+25,1
 Generolas majoras, kontradmirolas
-22,1
-22,4
-22,4
-22,4
-22,4
+22,7
+23
+23
+23
+23
 Brigados generolas, flotilės admirolas
-20
-20,3
-20,3
-20,3
-20,3
+20,6
+20,9
+20,9
+20,9
+20,9
 Pulkininkas, jūrų kapitonas
-17,3
-17,6
 17,9
 18,2
-18,2
+18,5
+18,8
+18,8
 Pulkininkas leitenantas, komandoras
-14,7
-15
-15,3
-15,6
-15,9
+15,2
+15,5
+15,8
+16,1
+16,4
 Majoras, komandoras leitenantas
-12,8
-13,1
-13,4
-13,7
-14
+13,3
+13,6
+13,9
+14,2
+14,5
 Kapitonas, kapitonas leitenantas
-11,1
-11,3
 11,5
 11,7
-11,7
+11,9
+12,1
+12,1
 Vyresnysis leitenantas
-9,9
-10,1
 10,3
-10,3
-10,3
-Leitenantas
-8,4
-8,6
-8,6
-8,6
-8,6
-Seržantas majoras, vyresnysis laivūnas
-12,2
-12,5
-12,8
-12,8
-12,8
-Viršila, laivūnas
 10,5
 10,7
+10,7
+10,7
+Leitenantas
+8,7
+8,9
+8,9
+8,9
+8,9
+Seržantas majoras, vyresnysis laivūnas
+12,7
+13
+13,3
+13,3
+13,3
+Viršila, laivūnas
 10,9
-10,9
-10,9
+11,1
+11,3
+11,3
+11,3
 Štabo seržantas, štabo laivūnas, štabo seržantas specialistas, štabo laivūnas specialistas
-9,4
-9,6
-9,8
-9,8
-9,8
+9,7
+9,9
+10,1
+10,1
+10,1
 Vyresnysis seržantas, vyresnysis seržantas specialistas
-8,6
-8,8
-9
-9
-9
+8,9
+9,1
+9,3
+9,3
+9,3
 Seržantas, seržantas specialistas
-7,7
-7,9
-7,9
-7,9
-7,9
+8
+8,2
+8,2
+8,2
+8,2
 Grandinis
-7,2
-7,4
-7,4
-7,4
-7,4
+7,5
+7,7
+7,7
+7,7
+7,7
 Vyresnysis eilinis, vyresnysis jūreivis
-6,7
-6,7
-6,7
-6,7
-6,7
+6,9
+6,9
+6,9
+6,9
+6,9
 Eilinis, jūreivis
-6
-6
-6
-6
-6
+6,3
+6,3
+6,3
+6,3
+6,3
 Jaunesnysis eilinis, jaunesnysis jūreivis
-5,9
-5,9
-5,9
-5,9
-5,9
+6,1
+6,1
+6,1
+6,1
+6,1
 Lietuvos Respublikos
 krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo
