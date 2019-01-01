@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo Nr. VIII-1185 2, 20, 20(1), 25, 31, 32, 63, 75 straipsnių ir 3 priedo pakeitimo įstatymas Nr. XIII-1840",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-21868",
+  "official_journal_page": null,
+  "official_journal_date": "2018-12-28",
+  "entry_into_force": "2019-01-01",
+  "notification_date": "2019-01-30",
+  "commission_reference": "MNE(2019)50818",
+  "nim_celex": "72017L1564LTU_268394",
+  "nim_id": "268394",
+  "transposes_celex": [
+    "32017L1564"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/002c6fd5-dc25-465c-8965-fc6a3fa8aadc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
