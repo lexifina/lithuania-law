@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2018 m gruodžio 5 d. įsakymas Nr. 1209 \"Dėl Lietuvos Respublikos Vyriausybės 2018 m. rugpjūčio 13 d. nutarimo Nr. 818 „Dėl Nacionalinės kibernetinio saugumo strategijos patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-20153",
+  "official_journal_page": null,
+  "official_journal_date": "2018-12-10",
+  "entry_into_force": "2019-01-01",
+  "notification_date": "2018-12-11",
+  "commission_reference": "MNE(2018)56555",
+  "nim_celex": "72016L1148LTU_265754",
+  "nim_id": "265754",
+  "transposes_celex": [
+    "32016L1148"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3709797c-5abd-4f69-96fd-03a096a2bb09",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
