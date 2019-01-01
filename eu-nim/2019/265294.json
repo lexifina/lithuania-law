@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2018 m. lapkričio 12 d. įsakymas Nr. 1V-1113 „Dėl Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2011 m. rugsėjo 20 d. įsakymo Nr. 1V-889 „Dėl Universaliųjų elektroninių ryšių paslaugų teikimo taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-18273",
+  "official_journal_page": null,
+  "official_journal_date": "2018-11-12",
+  "entry_into_force": "2019-01-01",
+  "notification_date": "2018-11-28",
+  "commission_reference": "MNE(2018)56234",
+  "nim_celex": "72002L0022LTU_265294",
+  "nim_id": "265294",
+  "transposes_celex": [
+    "32002L0022"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/527f1e80-7f08-4455-949c-9965f50a9baa",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
