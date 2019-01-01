@@ -1,4 +1,4 @@
-KŪNO KULTŪROS IR SPORTO
+SPORTO
 ĮSTATYMAS
 1995 m. gruodžio 20 d. Nr. I-1151
 Vilnius
