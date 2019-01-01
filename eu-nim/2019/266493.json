@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos prekių ženklų įstatymo Nr. VIII-1981 pakeitimo įstatymas Nr. XIII-1679",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-20698",
+  "official_journal_page": null,
+  "official_journal_date": "2018-12-18",
+  "entry_into_force": "2019-01-01",
+  "notification_date": "2019-01-14",
+  "commission_reference": "MNE(2018)56887",
+  "nim_celex": "72015L2436LTU_266493",
+  "nim_id": "266493",
+  "transposes_celex": [
+    "32015L2436"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b098c249-fc8e-4e74-b0f0-1fe2b5b1e66c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
