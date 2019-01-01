@@ -57,7 +57,3 @@ Smėlis silikatiniams dirbiniams
 m3
 0,44
 13.
-Kitas smėlis
-m3
-0,38
-14.
