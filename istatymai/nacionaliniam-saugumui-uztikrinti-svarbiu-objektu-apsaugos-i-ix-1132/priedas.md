@@ -6,7 +6,7 @@ svarbių objektų apsaugos įstatymo
 Pirmos kategorijos nacionaliniam saugumui užtikrinti svarbių įmonių SĄRAŠAS
 1. Įmonė, išskyrus projekto įgyvendinimo bendrovę, numatytą Lietuvos Respublikos branduolinės (atominės) elektrinės įstatyme, vykdanti branduolinės energetikos objekto (objektų), išskyrus Maišiagalos radioaktyviųjų atliekų saugyklą, statybą, eksploatavimą, eksploatavimo nutraukimą ir uždaryto radioaktyviųjų atliekų atliekyno (atliekynų) priežiūrą.
 2. Įmonė, patikėjimo teise valdanti Klaipėdos valstybinį jūrų uostą (uosto žemę, akvatoriją, krantines, hidrotechninius įrenginius, navigacijos kelius, kanalus ir kitus infrastruktūros objektus).
-3. Įmonė, centriniu lygmeniu kaupianti, tvarkanti naftos produktus ir atsargas Lietuvos Respublikoje.
+3. Neteko galios nuo 2019-01-01.
 4. Įmonė, teikianti oro eismo vadybos, ryšių, navigacijos ir stebėjimo, oro navigacijos informacijos bei paieškos ir gelbėjimo koordinavimo paslaugas.
 5. Įmonė, patikėjimo teise valdanti valstybinės reikšmės vidaus vandenų kelius.
 6. Įmonė, patikėjimo teise valdanti tarptautinius Vilniaus, Kauno ir Palangos oro uostus.
