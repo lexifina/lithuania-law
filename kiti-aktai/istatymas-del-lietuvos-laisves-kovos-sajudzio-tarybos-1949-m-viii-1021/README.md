@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 1999-01-27 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/cb357715e5b05b74c6d2d9daf92ef8c8be2de540/istatymai/TAR.F8E5F36A9345.md) |
+| 2019-01-01 |  | Aktas Nr. XIII-1829 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/e661495bbea9b1ab20c39332b74a96e7d9acc355/istatymai/TAR.F8E5F36A9345.md) |
