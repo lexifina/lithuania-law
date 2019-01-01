@@ -34,3 +34,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2018-05-01 | 2018-08-31 | Įstatymas Nr. XIII-1079 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22lBhYCJQwgT%22) |
 | 2018-09-01 |  | Įstatymas Nr. XIII-1456 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22tgYcqiSrWH%22) |
 | 2018-11-01 | 2018-12-20 | Įstatymas Nr. XI-1919 / Įstatymas Nr. XIII-1456 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22FLrTeblxcP%22) |
+| 2019-01-01 | 2019-04-30 | Įstatymas Nr. XI-1919 / Įstatymas Nr. XIII-1456 / Įstatymas Nr. XIII-1891 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22pRkbASrWGa%22) |
