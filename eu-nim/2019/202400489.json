@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo Nr. VIII-1509 3, 15, 19, 26 ir 27 straipsnių pakeitimo įstatymas Nr. XIII-1339",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-11434",
+  "official_journal_page": null,
+  "official_journal_date": "2018-07-05",
+  "entry_into_force": "2019-01-01",
+  "notification_date": "2024-01-31",
+  "commission_reference": "MNE(2024)00489",
+  "nim_celex": "72021L1883LTU_202400489",
+  "nim_id": "202400489",
+  "transposes_celex": [
+    "32021L1883"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4af640fe-3870-406a-a2b8-d1decd07b48e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
