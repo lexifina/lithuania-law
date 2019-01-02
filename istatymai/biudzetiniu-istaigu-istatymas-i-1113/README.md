@@ -13,3 +13,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2018-01-01 | 2018-05-31 | Įstatymas Nr. XIII-935 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22GWsYYafUwB%22) |
 | 2018-06-01 | 2018-12-31 | Įstatymas Nr. XIII-932 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22FnoyMqqKoz%22) |
 | 2019-01-01 | 2019-01-01 | Įstatymas Nr. XIII-1180 / Teisės aktų registras (Seimo kanceliarija) | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22zodUrZstnB%22) |
+| 2019-01-02 | 2019-07-01 | Įstatymas Nr. XIII-1633 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22iqrCTpSKPK%22) |
