@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos profesinių pensijų kaupimo įstatymo Nr. X-745 pakeitimo įstatymas Nr. XIII-1852",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-00017",
+  "official_journal_page": null,
+  "official_journal_date": "2019-01-02",
+  "entry_into_force": "2019-01-13",
+  "notification_date": "2019-01-29",
+  "commission_reference": "MNE(2019)50893",
+  "nim_celex": "72016L2341LTU_268574",
+  "nim_id": "268574",
+  "transposes_celex": [
+    "32016L2341"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a56d0579-0097-4925-bfb4-40428490776a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
