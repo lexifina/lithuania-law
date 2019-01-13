@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2019 m. sausio 8 d. nutarimas Nr. 03-3 „Dėl Lietuvos banko valdybos 2012 m. liepos 12 d. nutarimo Nr. 03-165 „Dėl Pensijų asociacijų informacijos rengimo ir teikimo taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-00294",
+  "official_journal_page": null,
+  "official_journal_date": "2019-01-09",
+  "entry_into_force": "2019-01-13",
+  "notification_date": "2019-01-23",
+  "commission_reference": "MNE(2019)50321",
+  "nim_celex": "72016L2341LTU_267482",
+  "nim_id": "267482",
+  "transposes_celex": [
+    "32016L2341"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1a33d9d2-5983-4017-94f8-a12fbe8dede2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
