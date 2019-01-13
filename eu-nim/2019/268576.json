@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 42 ir 43 straipsnių pakeitimo įstatymas Nr. XIII-1854",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-00019",
+  "official_journal_page": null,
+  "official_journal_date": "2019-01-02",
+  "entry_into_force": "2019-01-13",
+  "notification_date": "2019-01-29",
+  "commission_reference": "MNE(2019)50895",
+  "nim_celex": "72016L2341LTU_268576",
+  "nim_id": "268576",
+  "transposes_celex": [
+    "32016L2341"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9ebdf37b-f7cc-4647-9fc0-fd88c011f983",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
