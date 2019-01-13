@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2019 m. sausio 8 d. nutarimas Nr. 03-2 „Dėl Lietuvos banko valdybos 2015 m. balandžio 23 d. nutarimo Nr. 03-70 „Dėl Gyvybės draudimo įmonių vykdomos profesinių pensijų kaupimo veiklos mokumo kapitalo reikalavimo skaičiavimo nuostatų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-00293",
+  "official_journal_page": null,
+  "official_journal_date": "2019-01-09",
+  "entry_into_force": "2019-01-13",
+  "notification_date": "2019-01-23",
+  "commission_reference": "MNE(2019)50319",
+  "nim_celex": "72016L2341LTU_267480",
+  "nim_id": "267480",
+  "transposes_celex": [
+    "32016L2341"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6a12341c-9ce9-4e1c-9cf9-d14e766c241c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
