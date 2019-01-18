@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2019 m. sausio 10 d. įsakymas Nr. 1-6 \"Dėl Radioaktyviųjų atliekų tvarkymo plėtros programos parengimo tvarkos aprašo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-00698",
+  "official_journal_page": null,
+  "official_journal_date": "2019-01-17",
+  "entry_into_force": "2019-01-18",
+  "notification_date": "2019-01-23",
+  "commission_reference": "MNE(2019)50627",
+  "nim_celex": "72011L0070LTU_267974",
+  "nim_id": "267974",
+  "transposes_celex": [
+    "32011L0070"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5da48d22-759c-4767-a8fa-431006a312c8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
