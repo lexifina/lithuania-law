@@ -53,9 +53,9 @@ Metinės pajamos
 0,15 proc.
 12.
 Valdymo įmonės, investicinės bendrovės, kurių valdymas neperduotas valdymo įmonėms, ir šių subjektų filialai, įsteigti Lietuvos Respublikoje
-Valdomų neprofesionaliesiems investuotojams skirtų kolektyvinio investavimo subjektų ir papildomo savanoriško pensijų kaupimo fondų grynųjų aktyvų vertė
+Valdomų neprofesionaliesiems investuotojams skirtų suderintųjų kolektyvinio investavimo subjektų, specialiųjų kolektyvinio investavimo subjektų ir papildomo savanoriško pensijų kaupimo fondų grynųjų aktyvų vertė
 0,05 proc.
-Valdomų informuotiesiems ir profesionaliesiems investuotojams skirtų kolektyvinio investavimo subjektų grynųjų aktyvų vertė
+Valdomų informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų grynųjų aktyvų vertė
 0,02 proc.
 13.
 Reguliuojamos rinkos operatoriai
