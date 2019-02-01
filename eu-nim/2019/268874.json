@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2019 m. sausio 30 d. įsakymas Nr. V-129 \"Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2017 m. liepos 24 d. įsakymo Nr. V-901 „Dėl Medicinos fiziko veiklos reikalavimų tvirtinimo“ pakeitimo",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-01461",
+  "official_journal_page": null,
+  "official_journal_date": "2019-01-31",
+  "entry_into_force": "2019-02-01",
+  "notification_date": "2019-06-11",
+  "commission_reference": "MNE(2019)51031",
+  "nim_celex": "72013L0059LTU_268874",
+  "nim_id": "268874",
+  "transposes_celex": [
+    "32013L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/be258113-e858-4ee1-ac47-8e1e4b26f139",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
