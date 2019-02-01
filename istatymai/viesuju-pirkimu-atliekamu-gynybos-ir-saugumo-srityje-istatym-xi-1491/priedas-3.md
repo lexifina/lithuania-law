@@ -1,0 +1,17 @@
+# Kitos paslaugos
+Lietuvos Respublikos
+viešųjų pirkimų, atliekamų gynybos
+ir saugumo srityje, įstatymo
+3 priedas
+Kai kurių techninių specifikacijų apibrėžTYS
+Šiame įstatyme pateikti terminai vartojami tokiomis reikšmėmis:
+1) bendroji techninė specifikacija – dokumentas, sudarytas laikantis valstybių narių pripažintos procedūros, paskelbtas Europos Sąjungos oficialiajame leidinyje, siekiant užtikrinti vienodą jo taikymą visose valstybėse narėse;
+2) darbų pirkimo techninė specifikacija – pirkimo dokumentuose pateikta techninių reikalavimų visuma, nustatanti medžiagų, produktų arba tiekimų duomenis, kuriuos naudojant galima būtų medžiagą, produktą arba tiekimą apibūdinti tokiu būdu, kad būtų nustatyta jų ir perkančiosios organizacijos reikmių atitiktis. Šie duomenys apima poveikio aplinkai rodiklius, visų reikalavimų pritaikymą (taip pat ir galimybę naudotis neįgaliesiems) ir jų atitikties įvertinimą, eksploatacines savybes, saugos reikalavimus arba duomenis, apimančius kokybės užtikrinimo tvarką, terminiją, simbolius, bandymus ir bandymų metodus, pakavimą, žymėjimą ir ženklinimą, gamybos procesus ir metodus. Duomenys taip pat apima nurodymus, susijusius su projektavimu ir savikainos kalkuliavimu, patikrinimu, kontrole ir darbų bei statybos metodų ar technologijos priėmimo sąlygomis, taip pat visas kitas technines sąlygas, kurias perkančioji organizacija gali nustatyti pagal bendruosius ar specialiuosius reglamentus, susietus su baigtais darbais ir medžiagomis ar jų sudedamosiomis dalimis;
+3) Europos techninis liudijimas – Europos techninio vertinimo įstaigų išduotas dokumentas, patvirtinantis produkto tinkamumo naudoti pagal tam tikrą paskirtį techninį įvertinimą pagal statinių, kuriuos statant numatoma šiuos produktus naudoti, esminius reikalavimus ir nustatantis techninius produkto reikalavimus;
+4) gynybos standartas – neprivalomas dokumentas, patvirtintas standartizacijos įstaigos, kurios specializacija – gynybos srities bendro ir daugkartinio naudojimo techninių specifikacijų rengimas;
+5) prekių ar paslaugų pirkimo techninė specifikacija – pirkimo dokumentuose nustatyti produktui ar paslaugai apibūdinti reikalingi duomenys, tokie kaip kokybės lygis, poveikio aplinkai rodikliai, visi reikalavimai (taip pat ir galimybės naudotis neįgaliesiems) ir jų atitikties įvertinimas, eksploatacinės savybės, produkto vartojimas (naudojimas), saugumo reikalavimai arba duomenys, apimantys produktui taikytinus reikalavimus: pavadinimas, kuriuo produktas parduodamas, terminija, simboliai, bandymai ir bandymų metodai, pakavimas, žymėjimas ir ženklinimas, vartojimo (naudojimo) instrukcijos, gamybos procesai ir procedūros, tokios kaip atitikties įvertinimo tvarka;
+6) standartas – neprivalomas dokumentas, patvirtintas standartizacijos įstaigos, nustatantis bendram ir daugkartiniam naudojimui tinkančias taisykles, priskiriamas vienai iš šių kategorijų:
+a) tarptautinis standartas – tarptautinės standartų organizacijos priimtas standartas, kuriuo gali naudotis plačioji visuomenė;
+b) Europos standartas – Europos standartizacijos organizacijos priimtas standartas, kuriuo gali naudotis plačioji visuomenė;
+c) nacionalinis standartas – nacionalinės standartizacijos organizacijos priimtas standartas, kuriuo gali naudotis plačioji visuomenė;
+7) techninis etalonas – bet kuris Europos standartizacijos organizacijos paskelbtas produktas, išskyrus oficialius standartus, priimtas pagal kintantiems rinkos poreikiams pritaikytas procedūras.
