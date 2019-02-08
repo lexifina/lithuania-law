@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos farmacijos įstatymo Nr. X-709 2, 8, 15, 17, 27, 33, 35, 36, 39, 48, 57 straipsnių ir priedo pakeitimo ir įstatymo papildymo 651 straipsniu įstatymas Nr. XIII-1559",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-17329",
+  "official_journal_page": null,
+  "official_journal_date": "2018-10-29",
+  "entry_into_force": "2019-02-08",
+  "notification_date": "2021-02-03",
+  "commission_reference": "MNE(2021)01058",
+  "nim_celex": "72001L0083LTU_202101058",
+  "nim_id": "202101058",
+  "transposes_celex": [
+    "32001L0083"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e1789ef2-b948-4f76-a393-906a5e6153b6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
