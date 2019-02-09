@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos teisingumo ministro 2019 m. vasario 8 d. įsakymas Nr. 1R-58 \"Dėl teisingumo ministro 2013 m. spalio 11 d. įsakymo Nr. 1R-231 „Dėl Juridinių asmenų dalyvių informacinės sistemos nuostatų patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-01984",
+  "official_journal_page": null,
+  "official_journal_date": "2019-02-08",
+  "entry_into_force": "2019-02-09",
+  "notification_date": "2020-03-19",
+  "commission_reference": "MNE(2020)51723",
+  "nim_celex": "72018L0843LTU_281964",
+  "nim_id": "281964",
+  "transposes_celex": [
+    "32018L0843"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c406dc12-6a90-11ea-b735-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
