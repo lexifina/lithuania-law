@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2019 m. vasario 21 d. įsakymas Nr. 3-89 „Dėl Lietuvos Respublikos susisiekimo ministro 2008 m. gruodžio 29 d. įsakymo Nr. 3-512 „Dėl Minimalių techninių reikalavimų vidaus vandenų transporto priemonėms, plaukiojančioms Lietuvos Respublikos vidaus vandenimis, ir Europos Bendrijos vidaus vandenų laivybos sertifikatų išdavimo tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2886",
+  "official_journal_page": null,
+  "official_journal_date": "2019-02-22",
+  "entry_into_force": "2019-02-22",
+  "notification_date": "2019-02-28",
+  "commission_reference": "MNE(2019)51371",
+  "nim_celex": "72018L0970LTU_269950",
+  "nim_id": "269950",
+  "transposes_celex": [
+    "32018L0970"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/883c3dea-1b24-4e89-8017-6851f23ee04a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
