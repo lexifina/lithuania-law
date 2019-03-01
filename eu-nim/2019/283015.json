@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2019 m. vasario 26 d. įsakymas Nr. V-249 „Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2009 m. lapkričio 23 d. įsakymo Nr. V-510 „Dėl Lietuvos higienos normos HN 36:2009 „Draudžiamos ir ribojamos medžiagos“ patvirtinimo“ pripažinimo netekusiu galios“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-03208",
+  "official_journal_page": null,
+  "official_journal_date": "2019-02-26",
+  "entry_into_force": "2019-03-01",
+  "notification_date": "2020-06-16",
+  "commission_reference": "MNE(2020)52629",
+  "nim_celex": "72012L0051LTU_283015",
+  "nim_id": "283015",
+  "transposes_celex": [
+    "32012L0051"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b1ffcf94-b219-11ea-bb7a-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
