@@ -1,18 +1,18 @@
 # RESPUBLIKOS PREZIDENTAS VALDAS ADAMKUS
 Lietuvos Respublikos
 asmenų delegavimo į tarptautines ir
-Europos Sąjungos institucijas ar užsienio
-valstybių institucijas įstatymo
+Europos Sąjungos institucijas ar
+užsienio valstybių institucijas įstatymo
 priedas
 SU DARBU UŽSIENYJE SUSIJUSIŲ IŠLAIDŲ KOMPENSACIJA
 Deleguojami asmenys
-Su darbu užsienyje susijusių išlaidų kompensacijos didžiausi koeficientai
+Su darbu užsienyje susijusių išlaidų kompensacijos koeficientai
 1. Valstybės tarnautojai, kurių pareigybių grupes nustato Lietuvos Respublikos valstybės tarnybos įstatymas, išskyrus deleguojamus į rinkimų stebėjimo misijas:
 1.1. kurių pareigybės priskirtos 1–3 pareigybių grupei
 10,87
 1.2. kurių pareigybės priskirtos 4 pareigybių grupei
 9,70
-1.3 kurių pareigybės priskirtos 5 pareigybių grupei
+1.3. kurių pareigybės priskirtos 5 pareigybių grupei
 8,93
 1.4. kurių pareigybės priskirtos 6 pareigybių grupei
 8,15
