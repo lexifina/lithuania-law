@@ -1,4 +1,5 @@
-# Lietuvos Respublikos
+# part_9d8f553449014810ad47430ab95575a7_end
+Lietuvos Respublikos
 bausmių vykdymo kodekso
 2 priedas
 laisvės atėmimo bausmę atliekantiems nuteistiesiems draudžiamŲ DIRBTI Darbų ir DRAUDŽIAMŲ EITI pareigų
