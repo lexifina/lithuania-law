@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos centrinių kredito unijų įstatymo Nr. VIII-1682 2, 70 straipsnių ir priedo pakeitimo įstatymas Nr. XIII-2023",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-05394",
+  "official_journal_page": null,
+  "official_journal_date": "2019-04-03",
+  "entry_into_force": "2019-04-04",
+  "notification_date": "2019-04-09",
+  "commission_reference": "MNE(2019)51977",
+  "nim_celex": "72017L2399LTU_271417",
+  "nim_id": "271417",
+  "transposes_celex": [
+    "32017L2399"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c32527a5-fa49-4bd6-90d3-dc4ff1134b55",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
