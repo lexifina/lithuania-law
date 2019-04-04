@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos finansinio tvarumo įstatymo Nr. XI-393 102 straipsnio ir priedo pakeitimo\nįstatymas Nr. XIII-2021",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-05387",
+  "official_journal_page": null,
+  "official_journal_date": "2019-04-03",
+  "entry_into_force": "2019-04-04",
+  "notification_date": "2019-04-09",
+  "commission_reference": "MNE(2019)51979",
+  "nim_celex": "72017L2399LTU_271419",
+  "nim_id": "271419",
+  "transposes_celex": [
+    "32017L2399"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1642bc8b-8d3e-4c35-a82d-0b9be884ec6e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
