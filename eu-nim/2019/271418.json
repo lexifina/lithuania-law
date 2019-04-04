@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 106 straipsnio ir priedo pakeitimo įstatymas Nr. XIII-2024",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-05398",
+  "official_journal_page": null,
+  "official_journal_date": "2019-04-03",
+  "entry_into_force": "2019-04-04",
+  "notification_date": "2019-04-09",
+  "commission_reference": "MNE(2019)51978",
+  "nim_celex": "72017L2399LTU_271418",
+  "nim_id": "271418",
+  "transposes_celex": [
+    "32017L2399"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a37d5614-1635-4935-bd1a-f75f8b5f7b8b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
