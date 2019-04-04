@@ -21,3 +21,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2018-06-15 | 2018-07-04 | Įstatymas Nr. XIII-1233 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22GnLaxlogvX%22) |
 | 2018-07-05 | 2018-07-31 | Įstatymas Nr. XIII-1306 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22xkLgnomHVa%22) |
 | 2018-08-01 | 2019-04-03 | Įstatymas Nr. XIII-1306 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22FaQxhVNMof%22) |
+| 2019-04-04 | 2019-05-31 | Įstatymas Nr. XIII-2023 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22rEpbEqzUDJ%22) |
