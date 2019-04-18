@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2019 m. balandžio 17 d. įsakymas Nr. D1-220 „Dėl Komisijos deleguotojo reglamento (ES) 2019/331, kuriuo nustatomos suderinto nemokamų apyvartinių taršos leidimų suteikimo pagal direktyvos 2003/87/EB 10a straipsnį pereinamojo laikotarpio Sąjungos taisyklės, įgyvendinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-06288",
+  "official_journal_page": null,
+  "official_journal_date": "2019-04-17",
+  "entry_into_force": "2019-04-18",
+  "notification_date": "2019-10-31",
+  "commission_reference": "MNE(2019)56019",
+  "nim_celex": "72018L0410LTU_278074",
+  "nim_id": "278074",
+  "transposes_celex": [
+    "32018L0410"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1db9bcf9-ff02-11e9-8c1f-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
