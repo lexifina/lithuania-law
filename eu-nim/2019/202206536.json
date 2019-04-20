@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 2, 3, 4, 9, 12, 14, 29, 30, 31, 32, 33, 34, 35, 36, 37, 41, 42, 43, 49, 50 straipsnių pakeitimo, Įstatymo papildymo 36-1, 36-2, 36-3, 36-4, 36-5 straipsniais ir 38, 39, 40 straipsnių pripažinimo netekusiais galios įstatymas Nr. XIII-2035",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-06546",
+  "official_journal_page": null,
+  "official_journal_date": "2019-04-19",
+  "entry_into_force": "2019-04-20",
+  "notification_date": "2022-10-11",
+  "commission_reference": "MNE(2022)06536",
+  "nim_celex": "72001L0055LTU_202206536",
+  "nim_id": "202206536",
+  "transposes_celex": [
+    "32001L0055"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/214f28ea-4bab-11ed-92ed-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
