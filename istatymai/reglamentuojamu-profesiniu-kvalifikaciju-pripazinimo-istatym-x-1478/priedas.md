@@ -57,3 +57,4 @@ JUNGTINĖ KARALYSTĖ
 36. Privilegijuotoji pastatų tinklų inžinierių institucija.
 37. Matavimų ir kontrolės institutas.
 38. Britų kompiuterių draugija.
+1 priedo redakcija, įsigaliojanti Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dieną:
