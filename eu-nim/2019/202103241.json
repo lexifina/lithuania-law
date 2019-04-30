@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 2 ir 53 straipsnių pakeitimo įstatymas Nr. XIII-1921",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-00854",
+  "official_journal_page": null,
+  "official_journal_date": "2019-01-20",
+  "entry_into_force": "2019-04-30",
+  "notification_date": "2022-02-02",
+  "commission_reference": "MNE(2021)03241",
+  "nim_celex": "72013L0033LTU_202103241",
+  "nim_id": "202103241",
+  "transposes_celex": [
+    "32013L0033"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/06899c6a-87fd-11ec-8c40-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
