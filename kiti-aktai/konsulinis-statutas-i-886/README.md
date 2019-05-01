@@ -24,3 +24,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2018-05-01 | 2018-12-31 | Aktas Nr. X-619 / Aktas Nr. XIII-1116 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/493b7f9be19ff9d0d162026939a78c295eb0d7ce/istatymai/TAR.F617B8D97E05.md) |
 | 2019-01-01 | 2019-03-31 | Aktas Nr. XIII-1394 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/7a9a1e883569044da650a6d6d6f1d9e488c385f3/istatymai/TAR.F617B8D97E05.md) |
 | 2019-04-01 | 2019-04-30 | Aktas Nr. XIII-1992 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/a82fd8a72bf389fe2f7893095593e77f6e26483f/istatymai/TAR.F617B8D97E05.md) |
+| 2019-05-01 | 2019-06-30 | Aktas Nr. XIII-2058 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/36d6647aefb012599b903c9fabd31e6e1ca0c060/istatymai/TAR.F617B8D97E05.md) |
