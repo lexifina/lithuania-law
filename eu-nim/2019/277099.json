@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2019 m. balandžio 24 d. nutarimas Nr. 408 \"Dėl Lietuvos Respublikos Vyriausybės 2017 m. gruodžio 20 d. nutarimo Nr. 1116 \"Dėl Nacionalinės branduolinės saugos reglamentavimo ir priežiūros sistemos ir branduolinės energetikos objektų saugos įvertinimų tvarkos aprašo patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-07020",
+  "official_journal_page": null,
+  "official_journal_date": null,
+  "entry_into_force": "2019-05-01",
+  "notification_date": "2019-10-17",
+  "commission_reference": "MNE(2019)55409",
+  "nim_celex": "72011L0070LTU_277099",
+  "nim_id": "277099",
+  "transposes_celex": [
+    "32011L0070"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fee368ef-f198-11e9-a32c-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
