@@ -24,3 +24,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2018-10-01 | 2018-12-31 | Aktas Nr. XIII-943 / Teisės aktų registras (Seimo kanceliarija) | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22gvpRIHJotX%22) |
 | 2019-01-01 | 2019-02-28 | Aktas Nr. XIII-1557 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22JLNdVRmPDO%22) |
 | 2019-03-01 | 2019-04-30 | Aktas Nr. XIII-1864 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22eDkevsHUNl%22) |
+| 2019-05-01 | 2019-05-31 | Aktas Nr. XIII-1921 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22IZGrNxLrrQ%22) |
