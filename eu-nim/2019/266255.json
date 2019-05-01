@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės atominės energetikos saugos inspekcijos viršininko 2018 m. gruodžio 4 d. įsakymas Nr. 22.3-297 „Dėl Valstybinės atominės energetikos saugos inspekcijos viršininko 2010 m. liepos 21 d. įsakymo Nr. 22.3-59 „Dėl Branduolinės saugos reikalavimų BSR-3.1.1-2016 „Panaudoto branduolinio kuro tvarkymas sausojo tipo saugykloje“ patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-19719",
+  "official_journal_page": null,
+  "official_journal_date": "2018-12-04",
+  "entry_into_force": "2019-05-01",
+  "notification_date": "2018-12-31",
+  "commission_reference": "MNE(2018)56730",
+  "nim_celex": "72014L0087LTU_266255",
+  "nim_id": "266255",
+  "transposes_celex": [
+    "32014L0087"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d349f1b1-71ee-4666-8551-9087d68becd6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
