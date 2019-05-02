@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "ir Lietuvos Respublikos aplinkos ministro 2019 m. balandžio 30 d. įsakymas Nr. D1-250 ,,Dėl Lietuvos Respublikos aplinkos ministro 2006 m. gruodžio 29 d. įsakymo Nr. D1-639 „Dėl geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kokybės reikalavimų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-07085",
+  "official_journal_page": null,
+  "official_journal_date": "2019-04-30",
+  "entry_into_force": "2019-05-02",
+  "notification_date": "2019-06-06",
+  "commission_reference": "MNE(2019)53419",
+  "nim_celex": "71991L0271LTU_273652",
+  "nim_id": "273652",
+  "transposes_celex": [
+    "31991L0271"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a4d5c71e-b40b-417f-85af-fc94d1b2e800",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
