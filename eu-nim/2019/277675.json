@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės maisto ir veterinarijos tarnybos direktoriaus 2019 m. gegužės 21d. įsakymas Nr. B1-351 „Dėl Valstybinės maisto ir veterinarijos tarnybos direktoriaus 2005 m. gruodžio 23 d. įsakymo Nr. B1-720 „Dėl Prekybos arklinių šeimos gyvūnais ir jų importo iš trečiųjų šalių veterinarijos reikalavimų patvirtinimo pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "08051",
+  "official_journal_page": null,
+  "official_journal_date": "2019-05-21",
+  "entry_into_force": "2019-05-22",
+  "notification_date": "2019-11-20",
+  "commission_reference": "MNE(2019)55711",
+  "nim_celex": "72009L0156LTU_277675",
+  "nim_id": "277675",
+  "transposes_celex": [
+    "32009L0156"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a47264b4-385f-4d0c-9b2d-63e4a7ef3d9c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
