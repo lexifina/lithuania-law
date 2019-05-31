@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2019 m. gegužės 29 d. įsakymas Nr. D1-332 „Dėl Lietuvos Respublikos aplinkos ministro 2006 m. gruodžio 29 d. įsakymo Nr. D1-636 „Dėl Geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtros planų rengimo taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-08562",
+  "official_journal_page": null,
+  "official_journal_date": "2019-05-30",
+  "entry_into_force": "2019-05-31",
+  "notification_date": "2019-06-06",
+  "commission_reference": "MNE(2019)53418",
+  "nim_celex": "71991L0271LTU_273651",
+  "nim_id": "273651",
+  "transposes_celex": [
+    "31991L0271"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/61ac3d3e-2ff9-4e2e-8ac9-d7c9d76657c8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
