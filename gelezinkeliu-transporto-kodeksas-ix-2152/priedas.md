@@ -13,3 +13,4 @@ priedas
 9. 2015 m. liepos 7 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 2015/1100 dėl valstybių narių pareigų teikti geležinkelių rinkos stebėjimo ataskaitas (OL 2015 L 181, p. 1).
 10. 2016 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/797 dėl geležinkelių sistemos sąveikos Europos Sąjungoje (OL 2016 L 138, p. 44).
 11. 2016 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/798 dėl geležinkelių saugos (OL 2016 L 138, p. 102).
+12. 2016 m. balandžio 7 d. Komisijos įgyvendinimo reglamentas (ES) 2016/545 dėl procedūrų ir kriterijų, susijusių su pamatiniais susitarimais dėl geležinkelių infrastruktūros pajėgumų paskirstymo (OL 2016 L 94, p. 1).
