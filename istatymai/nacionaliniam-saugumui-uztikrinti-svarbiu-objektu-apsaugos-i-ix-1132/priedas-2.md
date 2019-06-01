@@ -15,9 +15,11 @@ antros kategorijos nacionaliniam saugumui užtikrinti svarbių įmonių SĄRAŠA
 10. Suskystintų gamtinių dujų terminalo operatorius.
 11. Akcinė bendrovė „Klaipėdos nafta“.
 12. Akcinė bendrovė „Lietuvos geležinkeliai“.
-13. Akcinė bendrovė Giraitės ginkluotės gamykla.
-14. Akcinė bendrovė „Jonavos grūdai“.
-15. Akcinė bendrovė Lietuvos radijo ir televizijos centras.
-16. Akcinė bendrovė Lietuvos paštas.
-17. UAB „Geoterma“.
-18. AB „Detonas“.
+13. Viešosios geležinkelių infrastruktūros valdytojas, nurodytas Lietuvos Respublikos geležinkelių transporto kodekse.
+14. Lietuvos Respublikos geležinkelių transporto kodekse nurodytos geležinkelio įmonės (vežėjai), kurioms (kuriems) suteikiama išimtinė teisė gauti minimalųjį prieigos prie viešosios geležinkelių infrastruktūros paketą teikiant tranzito geležinkelių transportu paslaugas.
+15. Akcinė bendrovė Giraitės ginkluotės gamykla.
+16. Akcinė bendrovė „Jonavos grūdai“.
+17. Akcinė bendrovė Lietuvos radijo ir televizijos centras.
+18. Akcinė bendrovė Lietuvos paštas.
+19. UAB „Geoterma“.
+20. AB „Detonas“.

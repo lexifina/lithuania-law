@@ -7,7 +7,7 @@ NACIONALINIAM SAUGUMUI UŽTIKRINTI SVARBIŲ ĮRENGINIŲ IR TURTO SĄRAŠAS
 a) branduolinės energetikos objektai, išskyrus Maišiagalos radioaktyviųjų atliekų saugyklą;
 b) tarptautiniuose Vilniaus, Kauno, Palangos oro uostuose ir tarptautiniame Šiaulių kariniame oro uoste esantys aerodromai, Jonavos aerodromas (Rukloje), Kazlų Rudos aerodromas, Pajuosčio aerodromas, S. Dariaus ir S. Girėno aerodromas ir Šilutės aerodromas;
 c) valstybinės reikšmės automobilių keliai;
-d) viešoji geležinkelių infrastruktūra ir kiti įrenginiai ir turtas, reikalingi sklandžiam geležinkelių transporto eismui užtikrinti;
+d) viešoji geležinkelių infrastruktūra, Lietuvos valstybei nuosavybės teise priklausantys geležinkelių paslaugų įrenginiai ir kiti įrenginiai bei turtas, reikalingi sklandžiam geležinkelių transporto eismui užtikrinti;
 e) Klaipėdos valstybinio jūrų uosto hidrotechniniai įrenginiai, krantinės, navigacijos keliai ir kanalai, navigaciniai įrenginiai ir kiti infrastruktūros objektai;
 f) oro erdvės valdymo sistemos, oro eismo srautų valdymo sistemos, oro eismo paslaugų sistemos, ryšių sistemos, navigacijos sistemos, stebėjimo (apžvalgos) sistemos įrenginiai, oro navigacijos informacijos paslaugų sistemos;
 g) valstybės įmonės Registrų centro informacinių technologijų techninė ir programinė įranga, programinės įrangos platformos ir pagrindinių valstybės registrų bei valstybės informacinių sistemų, kuriose tvarkoma ypatingos svarbos informacija, duomenys.
