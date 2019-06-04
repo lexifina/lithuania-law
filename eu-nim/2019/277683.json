@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės maisto ir veterinarijos tarnybos direktoriaus 2019 m. birželio 3 d. įsakymas Nr. B1-391 „Dėl Valstybinės maisto ir veterinarijos tarnybos direktoriaus 2004 m. kovo 16 d. įsakymo Nr. B1-208 „Dėl Prekybos avimis ir ožkomis veterinarijos reikalavimų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-08947",
+  "official_journal_page": null,
+  "official_journal_date": "2019-06-03",
+  "entry_into_force": "2019-06-04",
+  "notification_date": "2019-11-12",
+  "commission_reference": "MNE(2019)55718",
+  "nim_celex": "72003L0050LTU_277683",
+  "nim_id": "277683",
+  "transposes_celex": [
+    "32003L0050"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a1eaaa1d-6cae-46ab-b0cf-0ec9d8454006",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
