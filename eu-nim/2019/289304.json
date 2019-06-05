@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės maisto ir veterinarijos tarnybos direktoriaus 2019 m. birželio 3 d. įsakymas Nr. B1-393„Dėl Valstybinės maisto ir veterinarijos tarnybos direktoriaus 2004 m. balandžio 15 d. įsakymo Nr. B1-325 „Dėl veterinarijos reikalavimų galvijų spermai patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-08981",
+  "official_journal_page": null,
+  "official_journal_date": "2019-06-04",
+  "entry_into_force": "2019-06-05",
+  "notification_date": "2021-06-22",
+  "commission_reference": "MNE(2020)57482",
+  "nim_celex": "71988L0407LTU_289304",
+  "nim_id": "289304",
+  "transposes_celex": [
+    "31988L0407"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a304f602-d585-11eb-895a-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
