@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 pakeitimo įstatymas Nr. XIII-2158",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-09411",
+  "official_journal_page": null,
+  "official_journal_date": "2019-06-10",
+  "entry_into_force": "2019-06-11",
+  "notification_date": "2019-06-11",
+  "commission_reference": "MNE(2019)53616",
+  "nim_celex": "72014L0055LTU_273935",
+  "nim_id": "273935",
+  "transposes_celex": [
+    "32014L0055"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5bb50550-10fa-45c1-9172-8ef3dc6184a4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
