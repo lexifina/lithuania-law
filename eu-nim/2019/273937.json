@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 3, 22 ir 23 straipsnių ir 7 priedo pakeitimo įstatymas Nr. XIII-2160",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-09413",
+  "official_journal_page": null,
+  "official_journal_date": "2019-06-10",
+  "entry_into_force": "2019-06-11",
+  "notification_date": "2019-06-11",
+  "commission_reference": "MNE(2019)53618",
+  "nim_celex": "72014L0055LTU_273937",
+  "nim_id": "273937",
+  "transposes_celex": [
+    "32014L0055"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cb13b1c9-67f4-4a9b-9587-e0a133b6dc95",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
