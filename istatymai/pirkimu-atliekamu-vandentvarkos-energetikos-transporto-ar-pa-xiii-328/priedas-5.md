@@ -13,7 +13,7 @@ KVIETIMO PATEIKTI PASIŪLYMĄ, DALYVAUTI DIALOGE, DALYVAUTI DERYBOSE IR KVIETIMO
 4) jeigu taikoma, perkančiojo subjekto pateiktos konfidencialios informacijos apsaugos reikalavimus pagal šio įstatymo 32 straipsnio 5 dalį;
 5) kai kviečiama pateikti pasiūlymus, – pasiūlymo pateikimo termino pabaigą, adresą ir kalbą (kalbas), kuria (kuriomis) turi būti parengtas pasiūlymas, o kai kviečiama dalyvauti dialoge, – dialogo pradžios adresą ir kalbą (kalbas), kuria (kuriomis) jis vyks;
 6) jeigu reikia, nurodo, kokius papildomus dokumentus, patvirtinančius atitiktį nustatytiems reikalavimams dėl pašalinimo pagrindų ir kvalifikacijos, turi pateikti tiekėjai;
-7) pasiūlymų ar sprendinių, ar galutinių pasiūlymų vertinimo tvarką, vertinimo kriterijus ir jų lyginamuosius svorius ir, jeigu reikia, – šių kriterijų reikšmingumą mažėjimo tvarka, jeigu atitinkama informacija nebuvo pateikta skelbime apie pirkimą, skelbime apie kvalifikacijos vertinimo sistemą, techninėse specifikacijose arba kituose pirkimo dokumentuose;
+7) pasiūlymų vertinimo kriterijų lyginamuosius svorius ir, jeigu reikia, – šių kriterijų reikšmingumą mažėjimo tvarka, jeigu atitinkama informacija nebuvo pateikta skelbime apie pirkimą, skelbime apie kvalifikacijos vertinimo sistemą, techninėse specifikacijose arba kituose pirkimo dokumentuose;
 8) kitą, perkančiojo subjekto nuomone, reikalingą informaciją.
 2. Kvietime patvirtinti susidomėjimą perkantysis subjektas pateikia šią informaciją:
 1) interneto adresą, kuriuo Centrinėje viešųjų pirkimų informacinėje sistemoje ar kitur paskelbti pirkimo dokumentai;
