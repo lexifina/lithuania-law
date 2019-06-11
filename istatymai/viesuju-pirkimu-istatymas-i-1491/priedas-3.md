@@ -9,7 +9,7 @@ KVIETIMO PATEIKTI PASIŪLYMĄ, DALYVAUTI DIALOGE IR KVIETIMO PATVIRTINTI SUSIDOM
 3) nuorodą į paskelbtą skelbimą apie pirkimą ar išankstinį informacinį skelbimą, kuriuo kviečiama dalyvauti pirkime;
 4) kai kviečiama pateikti pasiūlymus, – pasiūlymo pateikimo termino pabaigą, adresą ir kalbą (kalbas), kuria (kuriomis) jis turi būti parengtas, o kai kviečiama dalyvauti dialoge, – dialogo pradžios datą, adresą ir kalbą (kalbas), kuria (kuriomis) jis vyks;
 5) jeigu reikia, nurodo, kokius papildomus dokumentus, patvirtinančius atitiktį nustatytiems reikalavimams dėl pašalinimo pagrindų ir kvalifikacijos, turi pateikti tiekėjai;
-6) pasiūlymų ar sprendinių, ar galutinių pasiūlymų vertinimo tvarką, vertinimo kriterijus, vertinimo kriterijų lyginamuosius svorius ir, jeigu reikia, – šių kriterijų reikšmingumą mažėjimo tvarka, jeigu jie nebuvo pateikti skelbime apie pirkimą, techninėse specifikacijose arba kituose pirkimo dokumentuose;
+6) pasiūlymų vertinimo kriterijų lyginamuosius svorius ir, jeigu reikia, – šių kriterijų reikšmingumą mažėjimo tvarka, jeigu jie nebuvo pateikti skelbime apie pirkimą, techninėse specifikacijose arba kituose pirkimo dokumentuose;
 7) minimalius keliamus reikalavimus, dėl kurių negali būti deramasi, kai vyksta skelbiamos derybos ar inovacijų partnerystė;
 8) kitą, perkančiosios organizacijos nuomone, reikalingą informaciją.
 2. Kvietime patvirtinti susidomėjimą ne centrinės valdžios perkančioji organizacija pateikia bent šią informaciją:
