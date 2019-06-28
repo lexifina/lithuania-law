@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2019 m. birželio 19 d. nutarimas Nr. 618 \"Dėl Bazinio paslaugų šeimai paketo patvirtinimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-10400",
+  "official_journal_page": null,
+  "official_journal_date": "2019-06-27",
+  "entry_into_force": "2019-06-28",
+  "notification_date": "2019-07-24",
+  "commission_reference": "MNE(2019)54464",
+  "nim_celex": "72012L0029LTU_275525",
+  "nim_id": "275525",
+  "transposes_celex": [
+    "32012L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d55f3ab3-c66a-470a-b179-dae6cbea7d78",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
