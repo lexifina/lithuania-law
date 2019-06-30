@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2019 m. balandžio 3 d. nutarimas Nr. 310 “Dėl Lietuvos Respublikos Vyriausybės 2017 m. gegužės 17 d. nutarimo Nr. 367 „Dėl pavojingųjų krovinių vežimo automobilių ir geležinkelių keliais Lietuvos Respublikoje“ pakeitimo”",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-05764",
+  "official_journal_page": null,
+  "official_journal_date": "2019-04-08",
+  "entry_into_force": "2019-06-30",
+  "notification_date": "2019-06-11",
+  "commission_reference": "MNE(2019)53220",
+  "nim_celex": "72018L1846LTU_273374",
+  "nim_id": "273374",
+  "transposes_celex": [
+    "32018L1846"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/242f29e2-315c-4f5d-bdf8-05289be069a9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
