@@ -32,8 +32,8 @@ daugiau kaip 10
 4,30–11,16
 Lietuvos Respublikos
 valstybės ir savivaldybių įstaigų
-darbuotojų darbo apmokėjimo
-įstatymo
+darbuotojų ir komisijų narių darbo
+apmokėjimo įstatymo
 2 priedas
 VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ ADMINISTRACIJOS IR STRUKTŪRINIŲ PADALINIŲ VADOVŲ PAREIGINĖS ALGOS PASTOVIOSIOS DALIES KOEFICIENTAI
 Vadovaujamo darbo patirtis (metais)

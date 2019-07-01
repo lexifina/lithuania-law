@@ -33,8 +33,8 @@ daugiau kaip 10
 3,7–8,6
 Lietuvos Respublikos
 valstybės ir savivaldybių įstaigų
-darbuotojų darbo apmokėjimo
-įstatymo
+darbuotojų ir komisijų narių darbo
+apmokėjimo įstatymo
 3 priedas
 VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ A IR B LYGIO SPECIALISTŲ PAREIGINĖS ALGOS PASTOVIOSIOS DALIES KOEFICIENTAI
 Pareigybės lygis

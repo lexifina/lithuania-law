@@ -15,8 +15,8 @@ B lygis
 3,5–8,0
 Lietuvos Respublikos
 valstybės ir savivaldybių įstaigų
-darbuotojų darbo apmokėjimo
-įstatymo
+darbuotojų ir komisijų narių darbo
+apmokėjimo įstatymo
 4 priedas
 VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ KVALIFIKUOTŲ DARBUOTOJŲ PAREIGINĖS ALGOS PASTOVIOSIOS DALIES KOEFICIENTAI
 Pareigybės lygis

@@ -1,8 +1,8 @@
 # Respublikos Prezidentė Dalia Grybauskaitė
 Lietuvos Respublikos
 valstybės ir savivaldybių įstaigų
-darbuotojų darbo apmokėjimo
-įstatymo
+darbuotojų ir komisijų narių darbo
+apmokėjimo įstatymo
 1 priedas
 VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ VADOVŲ IR JŲ PAVADUOTOJŲ
 PAREIGINĖS ALGOS PASTOVIOSIOS DALIES KOEFICIENTAI
