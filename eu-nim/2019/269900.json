@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Energetikos įstatymo Nr. IX-884 2, 4, 8, 15, 16, 16(1), 19, 19(1), 22, 23, 24, 25, 26, 28, 31, 32, 34, 34(1), 36, 37 straipsnių pakeitimo ir 9 straipsnio pripažinimo netekusiu galios įstatymas Nr. XIII-1968",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-03166",
+  "official_journal_page": null,
+  "official_journal_date": "2019-02-26",
+  "entry_into_force": "2019-07-01",
+  "notification_date": "2019-07-30",
+  "commission_reference": "MNE(2019)51346",
+  "nim_celex": "72009L0073LTU_269900",
+  "nim_id": "269900",
+  "transposes_celex": [
+    "32009L0073"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0e71d0e6-b503-11e9-9d01-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
