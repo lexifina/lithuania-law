@@ -1,7 +1,7 @@
 # RESPUBLIKOS PREZIDENTAS VALDAS ADAMKUS
 Lietuvos Respublikos
-asmenų delegavimo į tarptautines ir
-Europos Sąjungos institucijas ar
+asmenų delegavimo į tarptautines
+ir Europos Sąjungos institucijas ar
 užsienio valstybių institucijas įstatymo
 priedas
 SU DARBU UŽSIENYJE SUSIJUSIŲ IŠLAIDŲ KOMPENSACIJA
@@ -75,21 +75,21 @@ Su darbu užsienyje susijusių išlaidų kompensacijos koeficientai
 2.3.8. kurių pareigybės priskirtos 15 pareigybių grupei
 4,27
 2.4. Žvalgybos pareigūnai:
-2.4.1. kurių pareiginės algos koeficientas 17,0
+2.4.1. kurių pareiginės algos koeficientas 19,0 ir didesnis
 10,87
-2.4.2. kurių pareiginės algos koeficientas 16,0
+2.4.2. kurių pareiginės algos koeficientas 18,0–18,9
 9,70
-2.4.3. kurių pareiginės algos koeficientas 15,0
+2.4.3. kurių pareiginės algos koeficientas 17,0–17,9
 8,93
-2.4.4. kurių pareiginės algos koeficientas 12,9–14,0
+2.4.4. kurių pareiginės algos koeficientas 14,4–16,0
 8,15
-2.4.5. kurių pareiginės algos koeficientas 11,3–12,8
+2.4.5. kurių pareiginės algos koeficientas 12,8–14,3
 6,99
-2.4.6. kurių pareiginės algos koeficientas 9,7–11,2
+2.4.6. kurių pareiginės algos koeficientas 11,2–12,7
 5,82
-2.4.7. kurių pareiginės algos koeficientas 8,1–9,6
+2.4.7. kurių pareiginės algos koeficientas 9,6–11,1
 5,05
-2.4.8. kurių pareiginės algos koeficientas 6,5–8,0
+2.4.8. kurių pareiginės algos koeficientas 8,0–9,5
 4,27
 3. Kiti asmenys
 3,88
