@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos smurtiniais nusikaltimais padarytos žalos kompensavimo įstatymo Nr. X-296 pakeitimo įstatymas Nr. XIII-1928",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-00858",
+  "official_journal_page": null,
+  "official_journal_date": "2019-01-21",
+  "entry_into_force": "2019-07-01",
+  "notification_date": "2024-05-13",
+  "commission_reference": "MNE(2024)02142",
+  "nim_celex": "72004L0080LTU_202402142",
+  "nim_id": "202402142",
+  "transposes_celex": [
+    "32004L0080"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bd6802ec-7e38-442f-9c3c-f7cf78a12b59",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
