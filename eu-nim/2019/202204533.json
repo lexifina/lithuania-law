@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės kainų ir energetikos kontrolės komisijos 2019 m. birželio 28 d. nutarimas Nr. O3E-239 „Dėl Valstybinės energetikos reguliavimo tarybos darbo reglamento patvirtinimo“  (suvestinė redakcija iki 2021-08-06)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-10554",
+  "official_journal_page": null,
+  "official_journal_date": "2019-06-28",
+  "entry_into_force": "2019-07-01",
+  "notification_date": "2022-07-18",
+  "commission_reference": "MNE(2022)04533",
+  "nim_celex": "72019L0944LTU_202204533",
+  "nim_id": "202204533",
+  "transposes_celex": [
+    "32019L0944"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a9f9b512-7005-4a71-b1c1-411204270420",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
