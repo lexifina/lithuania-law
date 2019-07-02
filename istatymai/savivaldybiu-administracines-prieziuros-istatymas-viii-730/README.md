@@ -17,3 +17,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2006-06-28 | 2009-05-25 | Įstatymas Nr. X-684 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/c7536516950af25d23f0b6a12fc8487764e3fb05/istatymai/TAR.33DE665E5E0E.md) |
 | 2009-05-26 | 2010-04-09 | Įstatymas Nr. IX-2264 / Įstatymas Nr. XI-251 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/c340a2f69bf9e3146ce7fd90c73daeeb3b7904ac/istatymai/TAR.33DE665E5E0E.md) |
 | 2010-04-10 | 2019-07-01 | Įstatymas Nr. XI-710 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/f2ee40a2d7a299b97e662287a8ff7a5aa23573e8/istatymai/TAR.33DE665E5E0E.md) |
+| 2019-07-02 | 2020-12-31 | Įstatymas Nr. XIII-2236 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/038c9f9439ef5e698827c6273f84bbb46f311820/istatymai/TAR.33DE665E5E0E.md) |
