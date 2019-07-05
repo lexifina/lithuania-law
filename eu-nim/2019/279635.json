@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2019 m. liepos 4 d. įsakymas Nr. 3-335 „Dėl Lietuvos Respublikos susisiekimo ministro 2002 m. spalio 11 d. įsakymo Nr. 3-492 „Dėl Privalomų patikrinimų, užtikrinančių saugų keleivinių įvažiuojamųjų laivų ir greitaeigių keleivinių laivų valdymą, atlikimo tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "11031",
+  "official_journal_page": null,
+  "official_journal_date": "2019-07-04",
+  "entry_into_force": "2019-07-05",
+  "notification_date": "2019-12-20",
+  "commission_reference": "MNE(2019)57281",
+  "nim_celex": "72017L2110LTU_279635",
+  "nim_id": "279635",
+  "transposes_celex": [
+    "32017L2110"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/853cfc04-3073-11ea-af81-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
