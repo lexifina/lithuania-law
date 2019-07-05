@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Audito, apskaitos, turto vertinimo ir nemokumo valdymo tarnybos prie Lietuvos Respublikos finansų ministerijos direktoriaus 2019 m. birželio 21 d. įsakymas Nr. V1-165 „Dėl Įmonių bankroto valdymo departamento prie Ūkio ministerijos direktoriaus 2007 m. liepos 11 d. įsakymo Nr. V-27 „Dėl Įmonių restruktūrizavimo ir bankroto informacinės sistemos nuostatų bei įmonių restruktūrizavimo ir bankroto informacinės sistemos duomenų saugos nuostatų patvirtinimo“ pakeitimo“ (suvestinė redakcija nuo 2021-01-01)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-10994",
+  "official_journal_page": null,
+  "official_journal_date": "2019-07-04",
+  "entry_into_force": "2019-07-05",
+  "notification_date": "2022-04-16",
+  "commission_reference": "MNE(2022)02583",
+  "nim_celex": "72019L1023LTU_202202583",
+  "nim_id": "202202583",
+  "transposes_celex": [
+    "32019L1023"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8cd1e2c4-c220-11ec-b6f4-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
