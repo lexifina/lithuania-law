@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2019 m. liepos 4 d. įsakymas Nr. 3-334 “Dėl Lietuvos Respublikos susisiekimo ministro 2004 m. sausio 15 d. įsakymo Nr. 3-23 „Dėl Užsienio valstybių laivų kontrolės taisyklių patvirtinimo“ pakeitimo”",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "11030",
+  "official_journal_page": null,
+  "official_journal_date": "2019-07-04",
+  "entry_into_force": "2019-07-05",
+  "notification_date": "2019-12-20",
+  "commission_reference": "MNE(2019)57278",
+  "nim_celex": "72017L2110LTU_279632",
+  "nim_id": "279632",
+  "transposes_celex": [
+    "32017L2110"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/61798ed8-3073-11ea-af81-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
