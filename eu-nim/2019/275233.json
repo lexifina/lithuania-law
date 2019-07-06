@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 1, 16, 20, 21, 28, 32, 34, 37, 37-2, 78 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 37-3 straipsniu įstatymas Nr. XIII-2249",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-11167",
+  "official_journal_page": null,
+  "official_journal_date": "2019-07-05",
+  "entry_into_force": "2019-07-06",
+  "notification_date": "2019-07-11",
+  "commission_reference": "MNE(2019)54348",
+  "nim_celex": "72017L0828LTU_275233",
+  "nim_id": "275233",
+  "transposes_celex": [
+    "32017L0828"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6a46f78b-a6e0-4432-99ff-fffd3847dcba",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
