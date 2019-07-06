@@ -1,4 +1,4 @@
-# part_9d8f553449014810ad47430ab95575a7_end
+# part_2a1fccae98674d7f876ad502b6862565_end
 Lietuvos Respublikos
 bausmių vykdymo kodekso
 2 priedas
