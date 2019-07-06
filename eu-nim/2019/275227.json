@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 2, 3, 88, 89, 90, 93, 102 straipsnių, penktojo skirsnio pavadinimo ir priedo pakeitimo ir Įstatymo papildymo 41-1, 41-2, 41-3, 41-4, 89-1 straipsniais įstatymas Nr. XIII-2252",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-11172",
+  "official_journal_page": null,
+  "official_journal_date": "2019-07-05",
+  "entry_into_force": "2019-07-06",
+  "notification_date": "2019-07-11",
+  "commission_reference": "MNE(2019)54342",
+  "nim_celex": "72017L0828LTU_275227",
+  "nim_id": "275227",
+  "transposes_celex": [
+    "32017L0828"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c2551221-d2b1-414d-bf3f-691eef3206b2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
