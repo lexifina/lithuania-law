@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2016-11-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/025ad29af448246132a434f3d78ed274f3d56829/istatymai/TAR.25DC33103C5A.md) |
+| 2019-07-21 | 2022-07-21 | Įstatymas Nr. XIII-2363 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/f9b5048f9e8cc4ec57a9901123cc9c00fea3c389/istatymai/TAR.25DC33103C5A.md) |
