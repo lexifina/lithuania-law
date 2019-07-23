@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos generalinio prokuroro 2019 m. liepos 19 d. įsakymas Nr. I-219 „Dėl baudžiamojo proceso dokumento formos patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-11987",
+  "official_journal_page": null,
+  "official_journal_date": "2019-07-22",
+  "entry_into_force": "2019-07-23",
+  "notification_date": "2019-09-19",
+  "commission_reference": "MNE(2019)55065",
+  "nim_celex": "72016L0800LTU_276652",
+  "nim_id": "276652",
+  "transposes_celex": [
+    "32016L0800"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0667e991-db84-11e9-9c4e-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
