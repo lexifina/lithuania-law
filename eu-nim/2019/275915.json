@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos dvigubo apmokestinimo ginčų sprendimo įstatymas Nr. XIII-2310",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-12109",
+  "official_journal_page": null,
+  "official_journal_date": "2019-07-23",
+  "entry_into_force": "2019-07-24",
+  "notification_date": "2019-07-30",
+  "commission_reference": "MNE(2019)54673",
+  "nim_celex": "72017L1852LTU_275915",
+  "nim_id": "275915",
+  "transposes_celex": [
+    "32017L1852"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f71b957a-b503-11e9-9d01-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
