@@ -2,15 +2,8 @@
 Lietuvos Respublikos
 jūros aplinkos apsaugos
 įstatymo
-2 priedas
-STEBĖSENOS PROGRAMOS REIKALAVIMAI
-Stebėsenos programos (toliau – Programa) nuostatos turi būti tokios, kad:
-1) stebėsenos rezultatai suteiktų informaciją, kuri būtina jūros aplinkos būklei įvertinti ir nustatyti, kokia pažanga padaryta ir kokią dar reikia padaryti siekiant geros jūros aplinkos būklės;
-2) Programos įgyvendinimo metu gauta informacija būtų pakankama nustatyti jūros aplinkos apsaugos tikslams ir rodikliams;
-3) pagal stebėsenos rezultatus būtų galima įvertinti šio įstatymo 4 straipsnio 3 dalies 5 punkte nurodytų priemonių poveikį;
-4) remiantis stebėsenos rezultatais, būtų galima nustatyti aplinkos būklės pokyčio priežastį ir galimas korekcines priemones, kurių reikėtų siekiant atkurti gerą aplinkos būklę, nustačius nuokrypius nuo siekiamos būklės;
-5) stebėsenos rezultatai suteiktų informaciją apie cheminius teršalus žmonių maistui skirtose rūšyse komercinės žvejybos zonose;
-6) pagal stebėsenos rezultatus būtų galima patvirtinti korekcinių priemonių sukeliamus pageidaujamus pokyčius, o ne žalingą šalutinį poveikį;
-7) Programos įgyvendinimas padėtų kaupti informaciją apie Baltijos jūros rajono aplinkos būklę;
-8) įgyvendinant Programą naudojami jūros aplinkos būklės vertinimo būdai ir metodai būtų palyginami Baltijos jūros rajone ir Europos Sąjungoje;
-9) užtikrintų esamų regioniniu ir tarptautiniu lygiu parengtų stebėsenos programų suderinamumą, siekiant skatinti šių programų nuoseklumą ir išvengti veiklos, susijusios su jūros aplinkos būklės stebėsena dubliavimo, naudojant tuos stebėsenos būdus ir metodus, kurie yra aktualiausi Baltijos jūros rajonui.
+3 priedas
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+1. 2000 m. lapkričio 27 d. Europos Parlamento ir Tarybos direktyva 2000/59/EB dėl uosto priėmimo įrenginių, skirtų laivuose susidarančioms atliekoms ir krovinių likučiams (OL 2000 L 332, p. 81), su pakeitimais, padarytais Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1137/2008 (OL 2008 L 311, p. 1).
+2. 2005 m. rugsėjo 7 d. Europos Parlamento ir Tarybos direktyva 2005/35/EB dėl taršos iš laivų ir sankcijų už pažeidimus įvedimo (OL 2005 L 225, p. 11).
+3. 2008 m. birželio 17 d. Europos Parlamento ir Tarybos direktyva 2008/56/EB, nustatanti Bendrijos veiksmų jūrų aplinkos politikos srityje pagrindus (Jūrų strategijos pagrindų direktyva) (OL 2008 L 164, p. 19), su paskutiniais pakeitimais, padarytais 2017 m. gegužės 17 d. Komisijos direktyva (ES) 2017/845 (OL 2017 L 125, p. 27).
