@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2019 m. liepos 26 d. įsakymas Nr. V-928 \"Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2007 m. liepos 10 d. įsakymo Nr. V-596 „Dėl Vaistinių preparatų registravimo taisyklių, Supaprastintos homeopatinių vaistinių preparatų registravimo procedūros aprašo, Supaprastintos tradicinių augalinių vaistinių preparatų registravimo procedūros aprašo, Specialios homeopatinių vaistinių preparatų registravimo procedūros aprašo, Vaistinių preparatų registravimo taikant savitarpio pripažinimo ir decentralizuotą procedūras aprašo, Vaistinių preparatų analitinių, farmakotoksikologinių ir klinikinių tyrimų standartų ir protokolų, Vaistinių preparatų pakuotės ženklinimo ir pakuotės lapelio reikalavimų aprašo, Pagalbinių medžiagų, kurios turi būti nurodomos ant vaistinio preparato pakuotės ir pakuotės lapelyje, sąrašo, Teisės į vaistinio preparato registraciją perleidimo kitam asmeniui tvarkos aprašo patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-12379",
+  "official_journal_page": null,
+  "official_journal_date": "2019-07-26",
+  "entry_into_force": "2019-07-27",
+  "notification_date": "2019-09-10",
+  "commission_reference": "MNE(2019)55122",
+  "nim_celex": "72018L0350LTU_276760",
+  "nim_id": "276760",
+  "transposes_celex": [
+    "32018L0350"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/dda6209b-d5f0-11e9-883a-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
