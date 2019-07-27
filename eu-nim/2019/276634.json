@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo kodekso 8, 95, 205, 206, 207 straipsnių ir priedo pakeitimo ir Kodekso papildymo 100-3 straipsniu įstatymas Nr. XIII-2334",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-12378",
+  "official_journal_page": null,
+  "official_journal_date": "2019-07-26",
+  "entry_into_force": "2019-07-27",
+  "notification_date": "2019-08-19",
+  "commission_reference": "MNE(2019)55047",
+  "nim_celex": "72017L1371LTU_276634",
+  "nim_id": "276634",
+  "transposes_celex": [
+    "32017L1371"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9d395429-8571-4268-b822-f948e07e7f23",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
