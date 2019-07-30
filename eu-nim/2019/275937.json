@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 25, 40-1, 87, 108, 118, 145, 148, 156, 158 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 61-2 straipsniu įstatymas Nr. XIII-2352",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-12442",
+  "official_journal_page": null,
+  "official_journal_date": "2019-07-29",
+  "entry_into_force": "2019-07-30",
+  "notification_date": "2019-07-30",
+  "commission_reference": "MNE(2019)54679",
+  "nim_celex": "72017L1852LTU_275937",
+  "nim_id": "275937",
+  "transposes_celex": [
+    "32017L1852"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/04e2e001-b502-11e9-9d01-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
