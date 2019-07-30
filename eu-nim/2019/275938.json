@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių nusižengimų kodekso papildymo 188-1 straipsniu ir 190, 589 straipsnių pakeitimo įstatymas Nr. XIII-2354",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-12444",
+  "official_journal_page": null,
+  "official_journal_date": "2019-07-29",
+  "entry_into_force": "2019-07-30",
+  "notification_date": "2019-07-30",
+  "commission_reference": "MNE(2019)54680",
+  "nim_celex": "72017L1852LTU_275938",
+  "nim_id": "275938",
+  "transposes_celex": [
+    "32017L1852"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7aaca45d-b501-11e9-9d01-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
