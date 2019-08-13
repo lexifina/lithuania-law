@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės maisto ir veterinarijos tarnybos direktoriaus 2019 m. rugpjūčio 9 d. įsakymas Nr. B1-595 \"Dėl Valstybinės maisto ir veterinarijos tarnybos direktoriaus 2003 m. lapkričio 10 d. įsakymo Nr. B1-892 „Dėl afrikinio kiaulių maro kontrolės reikalavimų patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "13068",
+  "official_journal_page": null,
+  "official_journal_date": "2019-08-12",
+  "entry_into_force": "2019-08-13",
+  "notification_date": "2019-11-15",
+  "commission_reference": "MNE(2019)55704",
+  "nim_celex": "72002L0060LTU_277668",
+  "nim_id": "277668",
+  "transposes_celex": [
+    "32002L0060"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b3776d81-c267-4e15-a560-c0ae65de8e67",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
