@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės maisto ir veterinarijos tarnybos direktoriaus 2019 m. rugpjūčio 21 d. įsakymas Nr. B1-618 „Dėl Valstybinės maisto ir veterinarijos tarnybos direktoriaus 2012 m. lapkričio 6 d. įsakymo Nr. B1-870 „Dėl Lietuvos bandomųjų gyvūnų naudojimo etikos komisijos prie Valstybinės maisto ir veterinarijos tarnybos sudarymo ir jos darbo reglamento patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-13345",
+  "official_journal_page": null,
+  "official_journal_date": "2019-08-21",
+  "entry_into_force": "2019-08-22",
+  "notification_date": "2019-08-26",
+  "commission_reference": "MNE(2019)55143",
+  "nim_celex": "72010L0063LTU_276798",
+  "nim_id": "276798",
+  "transposes_celex": [
+    "32010L0063"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2b9c0d5f-102d-46dc-8150-fa39d5c40600",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
