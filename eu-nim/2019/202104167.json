@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 pakeitimo įstatymas Nr. XIII-2273",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-10570",
+  "official_journal_page": null,
+  "official_journal_date": "2019-06-27",
+  "entry_into_force": "2019-08-31",
+  "notification_date": "2021-06-18",
+  "commission_reference": "MNE(2021)04167",
+  "nim_celex": "72021L0555LTU_202104167",
+  "nim_id": "202104167",
+  "transposes_celex": [
+    "32021L0555"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/181cb351-d586-11eb-895a-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
