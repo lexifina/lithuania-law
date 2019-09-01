@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo proceso kodekso 21, 22, 53, 54, 105, 188 straipsnių ir priedo pakeitimo ir Kodekso papildymo 27-2, 189-1 straipsniais įstatymas Nr. XIII-2335",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-12386",
+  "official_journal_page": null,
+  "official_journal_date": "2019-07-26",
+  "entry_into_force": "2019-09-01",
+  "notification_date": "2019-08-07",
+  "commission_reference": "MNE(2019)54803",
+  "nim_celex": "72016L0800LTU_276254",
+  "nim_id": "276254",
+  "transposes_celex": [
+    "32016L0800"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2f450601-bdda-4169-9efb-7d9418bfe43e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
