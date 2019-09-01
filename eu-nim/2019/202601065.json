@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos policijos generalinio komisaro 2019 m. rugpjūčio 12 d. įsakymas Nr. 5-V-618 „Dėl į Lietuvos Respubliką importuotų, atvežtų, pagamintų ar specialiojo statuso subjektų į civilinę apyvartą perduotų ginklų žymėjimo tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-13063",
+  "official_journal_page": null,
+  "official_journal_date": "2019-08-12",
+  "entry_into_force": "2019-09-01",
+  "notification_date": "2026-02-11",
+  "commission_reference": "MNE(2026)01065",
+  "nim_celex": "72021L0555LTU_202601065",
+  "nim_id": "202601065",
+  "transposes_celex": [
+    "32021L0555"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1ee78bad-d945-46fb-9103-cf2724a01c62",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
