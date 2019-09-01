@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2019 m. liepos 31 d. nutarimas Nr. 809 „Dėl Lietuvos Respublikos Vyriausybės 2011 m. gruodžio 14 d. nutarimo Nr. 1457 „Dėl Valstybinio ginklų registro reorganizavimo į Ginklų registrą ir Ginklų registro nuostatų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-12856",
+  "official_journal_page": null,
+  "official_journal_date": "2019-08-05",
+  "entry_into_force": "2019-09-01",
+  "notification_date": "2019-08-29",
+  "commission_reference": "MNE(2019)55186",
+  "nim_celex": "72017L0853LTU_276854",
+  "nim_id": "276854",
+  "transposes_celex": [
+    "32017L0853"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d8bb31fd-46f5-448f-9411-c6d4d0edad34",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
