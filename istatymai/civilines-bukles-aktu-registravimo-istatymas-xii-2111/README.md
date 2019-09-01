@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2017-01-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/4b3c2177dddfea8473bdf5534c63d5c4931fcb0c/istatymai/TAR.ECF91EC0A008.md) |
+| 2019-09-01 | 2022-04-30 | Įstatymas Nr. XIII-2340 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/9ad137c92b02c56fa564fcf55dba9b560c5a4127/istatymai/TAR.ECF91EC0A008.md) |
