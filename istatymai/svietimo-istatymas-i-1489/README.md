@@ -24,3 +24,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2018-10-01 | 2018-12-20 | Įstatymas Nr. XIII-955 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22MPtyBgbEXW%22) |
 | 2018-12-21 | 2018-12-31 | Įstatymas Nr. XIII-1781 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22zaQsuqpjoF%22) |
 | 2019-01-01 | 2019-08-31 | Įstatymas Nr. XI-1281 / Įstatymas Nr. XIII-889 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22EztOyjuwLB%22) |
+| 2019-09-01 | 2019-09-18 | Įstatymas Nr. XIII-2090 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22fUSbSzyxTB%22) |
