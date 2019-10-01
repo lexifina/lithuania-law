@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2019 m. rugsėjo 30 d. įsakymas Nr. 1-263 „Dėl Lietuvos Respublikos energetikos ministro 2012 m. vasario 3 d. įsakymo Nr. 1-22 „Dėl Elektros įrenginių įrengimo bendrųjų taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-15495",
+  "official_journal_page": null,
+  "official_journal_date": "2019-09-30",
+  "entry_into_force": "2019-10-01",
+  "notification_date": "2022-07-18",
+  "commission_reference": "MNE(2022)04531",
+  "nim_celex": "72019L0944LTU_202204531",
+  "nim_id": "202204531",
+  "transposes_celex": [
+    "32019L0944"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d48a8d89-0bfb-11ed-b11c-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
