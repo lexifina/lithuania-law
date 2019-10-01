@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės atominės energetikos saugos inspekcijos viršininko 2019 m. rugsėjo 30 d. įsakymas Nr. 22.3-242  “Dėl Valstybinės atominės energetikos saugos inspekcijos viršininko 2011 m. spalio 6 d. įsakymo Nr. 22.3-95 „Dėl Branduolinės saugos reikalavimų BSR-1.9.3-2016 „Radiacinė sauga branduolinės energetikos objektuose“ patvirtinimo“ pakeitimo”",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "15483",
+  "official_journal_page": null,
+  "official_journal_date": "2019-09-30",
+  "entry_into_force": "2019-10-01",
+  "notification_date": "2019-11-20",
+  "commission_reference": "MNE(2019)55848",
+  "nim_celex": "72013L0059LTU_277868",
+  "nim_id": "277868",
+  "transposes_celex": [
+    "32013L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5e996435-9a7f-4bcd-b5d7-4d8e59cf59a6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
