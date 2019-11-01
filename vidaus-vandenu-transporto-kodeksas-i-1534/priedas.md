@@ -4,8 +4,8 @@ vidaus vandenų transporto kodekso
 priedas
 ĮGYVENDINAMI Europos Sąjungos teisės aktai
 1. 1987 m. lapkričio 9 d. Tarybos direktyva 87/540/EEB dėl leidimo verstis krovinių vežėjo vandens keliais vidaus ir tarptautiniais maršrutais veikla bei abipusio diplomų, pažymėjimų ir kitų oficialią kvalifikaciją verstis šia veikla patvirtinančių dokumentų pripažinimo (OL 2004 m. specialusis leidimas, 6 skyrius, 1 tomas, p. 191).
-2. 2006 m. gruodžio 12 d. Europos Parlamento ir Tarybos direktyva 2006/87/EB, nustatanti techninius reikalavimus vidaus vandenų laivams ir panaikinanti Tarybos direktyvą 82/714/EEB (OL 2006 L 389, p. 1).
-3. 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1177/2010 dėl jūrų ir vidaus vandenų keliais vykstančių keleivių teisių, kuriuo iš dalies keičiamas Reglamentas (EB) Nr. 2006/2004 (OL 2010 L 334, p. 1).
+2. 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1177/2010 dėl jūrų ir vidaus vandenų keliais vykstančių keleivių teisių, kuriuo iš dalies keičiamas Reglamentas (EB) Nr. 2006/2004 (OL 2010 L 334, p. 1).
+3. 2016 m. rugsėjo 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/1629, kuria nustatomi vidaus vandenų laivams taikomi techniniai reikalavimai, iš dalies keičiama Direktyva 2009/100/EB ir panaikinama Direktyva 2006/87/EB (OL 2016 L 252, p. 118).
 Pakeitimai:
 1. Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-926, 98.11.17, Žin., 1998, Nr.105-2897 (98.12.02)
