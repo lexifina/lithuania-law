@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymas Nr. XIII-1826",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-00216",
+  "official_journal_page": null,
+  "official_journal_date": "2019-01-08",
+  "entry_into_force": "2019-11-01",
+  "notification_date": "2019-01-21",
+  "commission_reference": "MNE(2019)50518",
+  "nim_celex": "72000L0060LTU_267776",
+  "nim_id": "267776",
+  "transposes_celex": [
+    "32000L0060"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ec296cb0-cff0-400c-b3fb-28ab00b9d186",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
