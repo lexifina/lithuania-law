@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės atominės energetikos saugos inspekcijos viršininko 2019 m. liepos 4 d. įsakymas Nr. 22.3-148 „Dėl Branduolinės saugos reikalavimų BSR-1.4.4-2019 „Asmenų, veikiančių branduolinės energetikos sektoriuje, patirties naudojimas“ patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-11095",
+  "official_journal_page": null,
+  "official_journal_date": "2019-07-04",
+  "entry_into_force": "2019-11-01",
+  "notification_date": "2019-10-15",
+  "commission_reference": "MNE(2019)55852",
+  "nim_celex": "72014L0087LTU_277872",
+  "nim_id": "277872",
+  "transposes_celex": [
+    "32014L0087"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/65d7dbf9-f19f-11e9-a32c-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
