@@ -47,12 +47,12 @@ savivaldybės teritorijoje
 101–145*
 501–750*
 2,3–2,4
-109–114
-273–287
-547–574
-1 368–1 436
-* I kategorijos valstybinės reikšmės keliuose su skiriamąja juosta.
-2. Jeigu transporto priemonės ar jų junginio matmenys su kroviniu ar be jo yra didesni už didžiausiuosius leidžiamuosius matmenis daugiau, negu nurodyta lentelėje, transporto priemonė ar jų junginys tampa ypač pavojingi saugiam eismui. Tokioms didžiagabaritėms motorinėms transporto priemonėms ar jų junginiams taikomas vienkartinis mokestis, kuris apskaičiuojamas taip: prie didžiausiojo ribinio tarifo pridedamas papildomas 0,28 euro mokestis už kiekvieno didžiausiojo leidžiamojo matmens viršijimą, t. y. už kiekvieną aukščio viršijimą 10 cm, pločio viršijimą 10 cm ar ilgio viršijimą 1 m, ir dauginama iš koeficiento 1,5. Visais atvejais, jeigu viršijami du ar visi trys matmenys, mokestis nustatomas sumuojant mokesčius už atskirų didžiausiųjų leidžiamųjų matmenų viršijimą.
+–
+–
+–
+–
+* Automagistralėse ir I kategorijos valstybinės reikšmės keliuose su skiriamąja juosta.
+2. Jeigu didžiagabaritės motorinės transporto priemonės ar jų junginio matmenys su kroviniu ar be jo viršija didžiausiuosius leidžiamus naudojantis keliais transporto priemonių ar jų junginių matmenis daugiau, negu nurodyta šio priedo 1 punkto lentelėje, didžiagabaritė motorinė transporto priemonė ar jų junginys tampa ypač pavojingi saugiam eismui. Tokioms didžiagabaritėms motorinėms transporto priemonėms ar jų junginiams taikomas vienkartinis tarifas, kuris apskaičiuojamas taip: prie didžiausiojo ribinio tarifo už atitinkamo didžiausiojo leidžiamojo matmens viršijimą pridedamas papildomas 0,28 euro mokestis už kiekvieną aukščio viršijimą 10 cm, pločio viršijimą 10 cm ar ilgio viršijimą 1 m ir dauginama iš koeficiento 1,5. Visais atvejais, jeigu viršijami du ar visi trys matmenys, mokestis nustatomas sumuojant mokesčius už atskirų didžiausiųjų leidžiamųjų matmenų viršijimą.
 II SKYRIUS
 MOKESČIO UŽ NAUDOJIMĄSI KELIAIS VAŽIUOJANT SUNKIASVORĖMIS TRANSPORTO PRIEMONĖMIS, KURIŲ AŠIES (AŠIŲ) APKROVA SU KROVINIU AR BE JO YRA DIDESNĖ UŽ DIDŽIAUSIĄJĄ LEIDŽIAMĄ NAUDOJANTIS KELIAIS TRANSPORTO PRIEMONIŲ AR JŲ JUNGINIŲ AŠIES (AŠIŲ) APKROVĄ, RIBINIAI TARIFAI
 3. Mokesčio už naudojimąsi keliais sunkiasvorėmis motorinėmis transporto priemonėmis, kurių ašies (ašių) apkrova su kroviniu ar be jo yra didesnė už didžiausiąją leidžiamą naudojantis keliais transporto priemonių ar jų junginių ašies (ašių) apkrovą (toliau – didžiausioji leidžiamoji ašies (ašių) apkrova), ribiniai tarifai:
@@ -146,20 +146,24 @@ savivaldybės teritorijoje
 7. Kai viršijama didžiausioji leidžiamoji ašies (ašių) apkrova ir masė, nustatomas tas mokesčio dydis, kuris yra didesnis.
 III SKYRIUS
 MOKESČIO UŽ NAUDOJIMĄSI KELIAIS VAŽIUOJANT SUNKIASVORĖMIS TRANSPORTO PRIEMONĖMIS, KURIŲ MASĖ SU KROVINIU AR BE JO YRA DIDESNĖ UŽ DIDŽIAUSIĄJĄ LEIDŽIAMĄ NAUDOJANTIS KELIAIS TRANSPORTO PRIEMONĖS AR JŲ JUNGINIŲ MASĘ, RIBINIAI TARIFAI
-8. Mokesčio už naudojimąsi keliais važiuojant Lietuvos Respublikos teritorijoje sunkiasvorėmis motorinėmis transporto priemonėmis, kurių masė su kroviniu ar be jo yra didesnė už didžiausiąją leidžiamą naudojantis keliais transporto priemonės ar jų junginių masę (40 t, o vežant vieną arba kelis kombinuoto vežimo vienetus (puspriekabes, nuimamuosius kėbulus ir konteinerius, kurių bendras maksimalus ilgis ne didesnis kaip 45 pėdos) magistraliniais keliais ir kitais keliais 50 km spinduliu nuo Klaipėdos valstybinio jūrų uosto, oro uostų, geležinkelio ir vidaus vandenų stočių teritorijų, kuriuose iškraunami ir (arba) pakraunami kombinuoto vežimo vienetai, – 44 t) (toliau – didžiausioji leidžiamoji masė), ribiniai tarifai:
+8. Mokesčio už naudojimąsi keliais važiuojant sunkiasvorėmis motorinėmis transporto priemonėmis ar jų junginiais, kurių masė su kroviniu ar be jo yra didesnė už didžiausiąją leidžiamą naudojantis keliais transporto priemonės ar jų junginių masę ir yra didesnė kaip 40 t, o vežant vieną arba kelis kombinuoto vežimo vienetus (puspriekabes, nuimamuosius kėbulus ir konteinerius, kurių bendras maksimalus ilgis ne didesnis kaip 45 pėdos) magistraliniais keliais ir kitais keliais 50 km spinduliu nuo Klaipėdos valstybinio jūrų uosto, oro uostų, geležinkelio ir vidaus vandenų stočių teritorijų, kuriose iškraunami ir (arba) pakraunami kombinuoto vežimo vienetai, – 44 t (toliau – didžiausioji leidžiamoji masė), ribiniai tarifai:
 Didžiausioji leidžiamoji masė viršyta, t
 Vienkartiniai ribiniai tarifai už kiekvieną viršytą toną, eurais už 10 km
-Mėnesio ribiniai tarifai, eurais (šalies teritorijoje)*
+Mėnesio ribiniai tarifai*, eurais
+Metų ribiniai tarifai*, eurais
 1,0–20,0
 1,01–1,30
 115–173
+920–1 384
 21,0–40,0
 1,30–1,44
+–
 –
 > 40
 1,59–1,88
 –
-* Taikoma šešių ar daugiau ašių transporto priemonėms, kurias sudaro motorinė transporto priemonė su suporintais galiniais ratais ir priekaba (puspriekabė) su suporintais ratais ir kurių ašies (ašių) apkrova yra ne didesnė už didžiausiąją leidžiamąją ašies (ašių) apkrovą, bendroji masė yra didesnė už didžiausiąją leidžiamąją bendrąją masę ir yra ne didesnė kaip 48 t.
+–
+* Taikoma šešių ar daugiau ašių transporto priemonėms, kurias sudaro motorinė transporto priemonė ir priekaba (puspriekabė), kurių ne mažiau kaip penkių ašių ratai yra suporinti, ašies (ašių) apkrova yra ne didesnė už didžiausiąją leidžiamąją ašies (ašių) apkrovą ir masė yra didesnė už didžiausiąją leidžiamąją masę, tačiau ne didesnė kaip 48 t.
 9. Mokesčio už naudojimąsi keliais važiuojant sunkiasvoriais traktoriais ir savaeigėmis mašinomis ar jų junginiais, kurių masė su kroviniu ar be jo yra didesnė už didžiausiąją leidžiamąją masę, ribiniai tarifai:
 Didžiausioji leidžiamoji masė viršyta, t
 Vienkartiniai ribiniai tarifai už kiekvieną viršytą toną, eurais už 10 km
