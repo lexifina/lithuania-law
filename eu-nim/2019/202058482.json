@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro 2019 m. spalio 30 d. įsakymas Nr. 1V-890 „Dėl Patvirtintų įmonių sąrašo sudarymo tvarkos aprašo patvirtinimo“ (suvestinė redakcija nuo 2020-04-01)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-17246",
+  "official_journal_page": null,
+  "official_journal_date": "2019-10-29",
+  "entry_into_force": "2019-11-14",
+  "notification_date": "2020-12-10",
+  "commission_reference": "MNE(2020)58482",
+  "nim_celex": "72014L0066LTU_202058482",
+  "nim_id": "202058482",
+  "transposes_celex": [
+    "32014L0066"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5ebf5e59-e0cb-4481-b868-d8944e1d1396",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
