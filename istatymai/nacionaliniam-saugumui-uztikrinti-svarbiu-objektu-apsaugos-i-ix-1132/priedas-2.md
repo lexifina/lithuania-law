@@ -23,3 +23,5 @@ antros kategorijos nacionaliniam saugumui užtikrinti svarbių įmonių SĄRAŠA
 18. Akcinė bendrovė Lietuvos paštas.
 19. UAB „Geoterma“.
 20. AB „Detonas“.
+21. Akcinė bendrovė „Problematika“.
+22. Akcinė bendrovė „Kelių priežiūra“.
