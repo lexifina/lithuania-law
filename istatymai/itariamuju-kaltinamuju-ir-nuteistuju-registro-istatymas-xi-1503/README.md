@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2012-03-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/72ecb7aea3a19f18c1e16a5ba71ed86f120c4b5a/istatymai/TAR.C511E34B145B.md) |
+| 2019-12-11 |  | Įstatymas Nr. XIII-2562 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/71a0c1d7fa951c2e218189f29fa350e2b8575479/istatymai/TAR.C511E34B145B.md) |
