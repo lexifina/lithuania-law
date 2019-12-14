@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės maisto ir veterinarijos tarnybos direktoriaus 2019 m. rusgėjo 20 d. įsakymas Nr. B1-687 \"Dėl Kiaulių gerovės reikalavimų patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "14979",
+  "official_journal_page": null,
+  "official_journal_date": "2019-09-23",
+  "entry_into_force": "2019-12-14",
+  "notification_date": "2019-11-15",
+  "commission_reference": "MNE(2019)55712",
+  "nim_celex": "72008L0120LTU_277676",
+  "nim_id": "277676",
+  "transposes_celex": [
+    "32008L0120"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2a7a8042-6e8c-462d-a5e3-ffa50a450770",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
