@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2019 m. gruodžio 11 d. Nr. V-1431 \"Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2000 m. sausio 6 d. įsakymo Nr. 5 „Dėl Narkotinių ir psichotropinių medžiagų sąrašų patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-20159",
+  "official_journal_page": null,
+  "official_journal_date": "2019-12-13",
+  "entry_into_force": "2019-12-14",
+  "notification_date": "2020-12-04",
+  "commission_reference": "MNE(2020)58390",
+  "nim_celex": "72020L1687LTU_290341",
+  "nim_id": "290341",
+  "transposes_celex": [
+    "32020L1687"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9439841b-9ac3-41dd-9dd5-658aa2f94838",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
