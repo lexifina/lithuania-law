@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės maisto ir veterinarijos tarnybos direktoriaus 2019 m. rugsėjo 20 d. įsakymas Nr. B1-689 \"Dėl Veršelių gerovės reikalavimų patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "14981",
+  "official_journal_page": null,
+  "official_journal_date": "2019-09-23",
+  "entry_into_force": "2019-12-14",
+  "notification_date": "2019-11-15",
+  "commission_reference": "MNE(2019)55729",
+  "nim_celex": "72008L0119LTU_277694",
+  "nim_id": "277694",
+  "transposes_celex": [
+    "32008L0119"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a97cf72d-affa-4257-850e-9223fb2228f5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
