@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2019 m. spalio 23 d. įsakymas Nr. 3-471 \"Dėl Lietuvos Respublikos susisiekimo ministro 2004 m. vasario 6 d. įsakymo Nr. 3-87 “Dėl Keleivinių laivų saugaus plaukiojimo taisyklių patvirtinimo” pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "16808",
+  "official_journal_page": null,
+  "official_journal_date": "2019-10-23",
+  "entry_into_force": "2019-12-21",
+  "notification_date": "2019-12-19",
+  "commission_reference": "MNE(2019)57179",
+  "nim_celex": "72017L2110LTU_279528",
+  "nim_id": "279528",
+  "transposes_celex": [
+    "32017L2110"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/71dd935f-2300-11ea-af81-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
