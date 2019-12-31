@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo proceso kodekso 89 ir 326 straipsnių pakeitimo įstatymas Nr. XIII-2740",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-21595",
+  "official_journal_page": null,
+  "official_journal_date": "2019-12-30",
+  "entry_into_force": "2019-12-31",
+  "notification_date": "2025-02-05",
+  "commission_reference": "MNE(2025)00861",
+  "nim_celex": "72016L0343LTU_202500861",
+  "nim_id": "202500861",
+  "transposes_celex": [
+    "32016L0343"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5194efb1-6b43-43c6-a2bb-f3442ea2d72d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
