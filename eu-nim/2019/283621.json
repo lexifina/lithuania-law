@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2019 m. gruodžio 30 d. įsakymas Nr. D1-774 “Dėl Lietuvos Respublikos aplinkos ministro 2011 m. sausio 3 d. įsakymo Nr. D1-2 “Dėl gaminant ir naudojant biodegalus, skystuosius bioproduktus ir lyginamąjį iškastinį kurą išmetamų šiltnamio efektą sukeliančių dujų poveikio apskaičiavimo taisyklių patvirtinimo” pakeitimo”",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-21606",
+  "official_journal_page": null,
+  "official_journal_date": "2019-12-30",
+  "entry_into_force": "2019-12-31",
+  "notification_date": "2020-04-28",
+  "commission_reference": "MNE(2020)53218",
+  "nim_celex": "72015L1513LTU_283621",
+  "nim_id": "283621",
+  "transposes_celex": [
+    "32015L1513"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/874a844f-8f73-11ea-812f-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
