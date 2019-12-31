@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2019  m. lapkričio 20 d. nutarimas Nr. 1173  \"Dėl Lietuvos Respublikos Vyriausybės 2002 m. kovo 27 d. nutarimo Nr. 405 „Dėl Vaiko globos organizavimo nuostatų patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-19206",
+  "official_journal_page": null,
+  "official_journal_date": "2019-11-28",
+  "entry_into_force": "2019-12-31",
+  "notification_date": "2021-05-05",
+  "commission_reference": "MNE(2021)02988",
+  "nim_celex": "72013L0032LTU_202102988",
+  "nim_id": "202102988",
+  "transposes_celex": [
+    "32013L0032"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2e46e95f-aefd-11eb-9767-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
