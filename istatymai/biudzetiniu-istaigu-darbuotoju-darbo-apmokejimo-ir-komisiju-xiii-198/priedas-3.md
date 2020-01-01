@@ -1,41 +1,40 @@
-# Vadovaujamo darbo patirtis (metais)
+# (Baziniais dydžiais)
+Vadovaujamo darbo patirtis (metais)
 Pareigybės lygis
 A
 B
 profesinio darbo patirtis (metais)
 profesinio darbo patirtis (metais)
 iki 5
-5–10
+nuo daugiau kaip 5 iki 10
 daugiau kaip 10
 iki 5
-5–10
+nuo daugiau kaip 5 iki 10
 daugiau kaip 10
 iki 5
-3,4–8,2
-3,49–8,33
-3,6–10,0
-3,39–8,0
-3,45–8,15
-3,49–8,3
-5–10
-3,49–8,33
-3,6–8,49
-3,7–10,4
-3,45–8,15
-3,49–8,3
-3,6–8,46
+4,76–9,4
+4,89–10,5
+5,04–11,7
+4,68–8,8
+4,76–8,97
+4,82–9,13
+nuo daugiau kaip 5 iki 10
+4,89–9,16
+5,04–10,55
+5,18–11,75
+4,76–8,97
+4,82–9,13
+4,97–9,31
 daugiau kaip 10
-3,6–8,49
-3,7–8,65
-3,8–10,8
-3,49–8,3
-3,6–8,47
-3,7–8,6
+5,04–9,34
+5,18–10,6
+5,32–11,88
+4,82–9,13
+4,97–9,32
+5,11–9,46
 Lietuvos Respublikos
-valstybės ir savivaldybių įstaigų
-darbuotojų ir komisijų narių darbo
-apmokėjimo įstatymo
+valstybės ir savivaldybių įstaigų darbuotojų
+darbo apmokėjimo ir komisijų narių atlygio
+už darbą įstatymo
 3 priedas
-VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ A IR B LYGIO SPECIALISTŲ PAREIGINĖS ALGOS PASTOVIOSIOS DALIES KOEFICIENTAI
-Pareigybės lygis
-Pastoviosios dalies koeficientai (pareiginės algos baziniais dydžiais)
+VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ DARBUOTOJŲ, SU KURIAIS SUDARYTOS SUTARTYS DĖL MENTORYSTĖS, IR SPECIALISTŲ PAREIGINĖS ALGOS PASTOVIOSIOS DALIES KOEFICIENTAI

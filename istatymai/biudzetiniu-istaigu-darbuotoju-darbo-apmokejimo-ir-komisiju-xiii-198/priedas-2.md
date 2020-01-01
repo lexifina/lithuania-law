@@ -1,41 +1,44 @@
 # vadovų
 vadovų pavaduotojų
-I nuo 201 ir daugiau pareigybių
+I grupė (201 ir daugiau pareigybių)
 iki 5
-4,8–12,8
-4,37–11,52
+6,72–14,08
+6,03–12,67
 nuo daugiau kaip 5 iki 10
-4,9–13,1
-4,41–11,79
+6,86–14,41
+6,09–12,97
 daugiau kaip 10
-5,0–13,4
-4,54–12,3
-II nuo 51 iki 200 pareigybių
+7,0–14,74
+6,27–13,53
+II grupė (51–200 pareigybių)
 iki 5
-4,6–12,4
-4,32–11,16
+6,44–13,64
+5,96–12,28
 nuo daugiau kaip 5 iki 10
-4,7–12,6
-4,35–11,34
+6,58–13,86
+6,0–12,47
 daugiau kaip 10
-4,8–12,8
-4,37–11,52
-III 50 ir mažiau pareigybių
+6,72–14,08
+6,03–12,67
+III grupė (50 ir mažiau pareigybių)
 iki 5
-4,4–12,0
-4,18–10,8
+6,16–13,2
+5,77–11,88
 nuo daugiau kaip 5 iki 10
-4,5–12,2
-4,23–11,0
+6,3–13,42
+5,84–12,1
 daugiau kaip 10
-4,6–12,4
-4,30–11,16
+6,44–13,64
+5,93–12,28
 Lietuvos Respublikos
-valstybės ir savivaldybių įstaigų
-darbuotojų ir komisijų narių darbo
-apmokėjimo įstatymo
+valstybės ir savivaldybių įstaigų darbuotojų
+darbo apmokėjimo ir komisijų narių atlygio
+už darbą įstatymo
 2 priedas
+VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ ADMINISTRACIJOS IR STRUKTŪRINIŲ PADALINIŲ VADOVŲ IR JŲ PAVADUOTOJŲ PAREIGINĖS ALGOS PASTOVIOSIOS DALIES KOEFICIENTAI
+I SKYRIUS
 VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ ADMINISTRACIJOS IR STRUKTŪRINIŲ PADALINIŲ VADOVŲ PAREIGINĖS ALGOS PASTOVIOSIOS DALIES KOEFICIENTAI
+(Baziniais dydžiais)
 Vadovaujamo darbo patirtis (metais)
 Pareigybės lygis
 A
@@ -43,30 +46,31 @@ B
 profesinio darbo patirtis (metais)
 profesinio darbo patirtis (metais)
 iki 5
-5–10
+nuo daugiau kaip 5 iki 10
 daugiau kaip 10
 iki 5
-5–10
+nuo daugiau kaip 5 iki 10
 daugiau kaip 10
 iki 5
-3,6–9,5
-3,7–9,7
-3,8–10,2
-3,45–8,88
-3,6–9,05
-3,7–9,23
-5–10
-3,7–9,55
-3,8–9,9
-3,9–10,6
-3,6–9,05
-3,7–9,23
-3,8–9,41
+5,04–10,45
+5,18–10,67
+5,32–11,75
+4,76–9,77
+4,97–9,96
+5,11–10,15
+nuo daugiau kaip 5 iki 10
+5,18–10,51
+5,32–10,89
+5,46–11,8
+4,97–9,96
+5,11–10,15
+5,24–10,35
 daugiau kaip 10
-3,8–9,6
-3,9–10,1
-4,0–11,0
-3,7–9,23
-3,8–9,41
-3,9–9,59
+5,32–10,56
+5,46–11,11
+5,6–12,1
+5,11–10,15
+5,24–10,35
+5,38–10,55
+II SKYRIUS
 VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ ADMINISTRACIJOS IR STRUKTŪRINIŲ PADALINIŲ VADOVŲ PAVADUOTOJŲ PAREIGINĖS ALGOS PASTOVIOSIOS DALIES KOEFICIENTAI
