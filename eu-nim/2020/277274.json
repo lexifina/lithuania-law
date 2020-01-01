@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos finansų ministro 2019 m. gegužės 23 d.įsakymas Nr. 1K-164 „Dėl finansų ministro 2010 m. kovo 18 d. įsakymo Nr. 1K-073 „Dėl bendrijos muitų teritorijų, kuriose netaikomos 2006 m. lapkričio 28 d. Tarybos direktyvos 2006/112/EB Dėl pridėtinės vertės mokesčio bendros sistemos ir 2008 m. gruodžio 16 d. Tarybos direktyvos 2008/118/EB dėl bendros akcizų tvarkos, panaikinančios direktyvą 92/12/EEB, nuostatos, sąrašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-08471",
+  "official_journal_page": null,
+  "official_journal_date": "2019-05-29",
+  "entry_into_force": "2020-01-01",
+  "notification_date": "2019-10-01",
+  "commission_reference": "MNE(2019)55515",
+  "nim_celex": "72019L0475LTU_277274",
+  "nim_id": "277274",
+  "transposes_celex": [
+    "32019L0475"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/72aa0f5a-e684-11e9-9c4e-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
