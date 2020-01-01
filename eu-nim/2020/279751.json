@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 2, 58, 64, 71 ir 88 straipsnių pakeitimo įstatymas Nr. XIII-2582",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "20018",
+  "official_journal_page": null,
+  "official_journal_date": "2019-12-12",
+  "entry_into_force": "2020-01-01",
+  "notification_date": "2019-12-31",
+  "commission_reference": "MNE(2019)57367",
+  "nim_celex": "72011L0095LTU_279751",
+  "nim_id": "279751",
+  "transposes_celex": [
+    "32011L0095",
+    "32013L0033"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3d0130f2-3095-11ea-af81-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
