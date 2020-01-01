@@ -8,9 +8,9 @@ remdamasis Europos žmogaus teisių ir pagrindinių laisvių apsaugos konvencijo
 konstatuodamas, kad nuo 1940 m. birželio 15 d. iki 1990 m. kovo 11 d. Lietuva buvo okupuota, o primesti okupaciniai režimai neteisėti;
 konstatuodamas, kad Lietuvos gyventojų fizinis ir dvasinis genocidas bei kiti nusikaltimai žmoniškumui ir karo nusikaltimai buvo vykdomi okupacijų laikotarpiu;
 konstatuodamas, kad 1940–1990 m. Lietuvoje įvairiomis formomis (karinėmis ir politinėmis) vyko pasipriešinimas (rezistencija) Sovietų Socialistinių Respublikų Sąjungos (SSRS) ir Vokietijos okupacinėms valdžioms;
-konstatuodamas, kad nusikaltimai žmoniškumui ir karo nusikaltimai SSRS buvo vykdomi prieš Lietuvos gyventojus ir po 1990 m. kovo 11 d., atkūrus Lietuvos nepriklausomybę;
+konstatuodamas, kad nusikaltimai žmoniškumui ir karo nusikaltimai SSRS buvo vykdomi prieš Lietuvos gyventojus ir 1990–1991 m., atkūrus Lietuvos nepriklausomybę;
 konstatuodamas, kad Lietuvos gyventojai įvairiomis formomis priešinosi agresyviems SSRS ekonominiams bei kariniams veiksmams ir atkūrus Lietuvos nepriklausomybę;
-pripažindamas, kad daug Lietuvos gyventojų žuvo laisvės kovose arba tapo genocido, holokausto ar kitų nusikaltimų žmoniškumui ir karo nusikaltimų aukomis ir turi būti deramai pagerbti, o jų atminimas – tinkamai įamžintas;
+pripažindamas, kad daug Lietuvos gyventojų žuvo laisvės kovose arba tapo genocido, holokausto ar kitų nusikaltimų žmoniškumui ir karo nusikaltimų aukomis ir turi būti deramai pagerbti, o jų atminimas tinkamai įamžintas;
 siekdamas sudaryti sąlygas ištirti Lietuvos piliečių pasipriešinimo okupaciniams režimams procesus, juos įvertinti ir patraukti baudžiamojon atsakomybėn genocido organizatorius bei kitų nusikaltimų žmoniškumui ir karo nusikaltimų organizatorius ir vykdytojus;
 siekdamas išsaugoti, įamžinti tremties ir rezistencijos laikotarpį reprezentuojančias vietas, skirtas supažindinti su 1944–1953 m. partizaninio karo, neginkluoto pasipriešinimo ir Lietuvos gyventojų tremties istorija, ir užtikrinti aktyvią ir veiksmingą istorinės atminties sklaidą ir tinkamą visuomenės, ypač jaunimo, supažindinimą su vertinga istorine medžiaga,
 priima šį įstatymą.
