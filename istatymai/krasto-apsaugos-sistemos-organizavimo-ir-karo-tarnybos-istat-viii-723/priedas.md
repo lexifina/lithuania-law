@@ -1,10 +1,5 @@
-# RESPUBLIKOS PREZIDENTAS VALDAS ADAMKUS
-Lietuvos Respublikos
-krašto apsaugos sistemos
-organizavimo ir karo tarnybos
-įstatymo
-1 priedas
-profesinės karo tarnybos karių TARNYBINIO ATLYGINIMO KOEFICIENTAI
+# 1 priedas
+profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
 (baziniais dydžiais)
 Karių laipsniai
 Koeficientas
@@ -15,112 +10,112 @@ tarnybos metai pagal laipsnį
 4-ieji
 5-ieji ir tolesni
 Generolas leitenantas, viceadmirolas
-25,1
-25,1
-25,1
-25,1
-25,1
+25,9
+25,9
+25,9
+25,9
+25,9
 Generolas majoras, kontradmirolas
-22,7
-23
-23
-23
-23
+23,5
+23,8
+23,8
+23,8
+23,8
 Brigados generolas, flotilės admirolas
-20,6
-20,9
-20,9
-20,9
-20,9
+21,3
+21,6
+21,6
+21,6
+21,6
 Pulkininkas, jūrų kapitonas
-17,9
-18,2
 18,5
 18,8
-18,8
+19,1
+19,4
+19,4
 Pulkininkas leitenantas, komandoras
-15,2
-15,5
 15,8
 16,1
 16,4
+16,7
+17
 Majoras, komandoras leitenantas
-13,3
-13,6
 13,9
 14,2
 14,5
+14,8
+15,1
 Kapitonas, kapitonas leitenantas
-11,5
-11,7
-11,9
-12,1
-12,1
+12
+12,2
+12,4
+12,6
+12,6
 Vyresnysis leitenantas
-10,3
-10,5
-10,7
-10,7
-10,7
+10,8
+11
+11,2
+11,2
+11,2
 Leitenantas
-8,7
-8,9
-8,9
-8,9
-8,9
-Seržantas majoras, vyresnysis laivūnas
-12,7
-13
-13,3
-13,3
-13,3
-Viršila, laivūnas
-10,9
-11,1
-11,3
-11,3
-11,3
-Štabo seržantas, štabo laivūnas, štabo seržantas specialistas, štabo laivūnas specialistas
-9,7
-9,9
-10,1
-10,1
-10,1
-Vyresnysis seržantas, vyresnysis seržantas specialistas
-8,9
 9,1
 9,3
 9,3
 9,3
+9,3
+Seržantas majoras, vyresnysis laivūnas
+13,3
+13,6
+13,9
+13,9
+13,9
+Viršila, laivūnas
+11,3
+11,5
+11,7
+11,7
+11,7
+Štabo seržantas, štabo laivūnas, štabo seržantas specialistas, štabo laivūnas specialistas
+10,1
+10,3
+10,5
+10,5
+10,5
+Vyresnysis seržantas, vyresnysis seržantas specialistas
+9,3
+9,5
+9,7
+9,7
+9,7
 Seržantas, seržantas specialistas
-8
-8,2
-8,2
-8,2
-8,2
+8,3
+8,5
+8,5
+8,5
+8,5
 Grandinis
-7,5
-7,7
-7,7
-7,7
-7,7
+7,8
+8
+8
+8
+8
 Vyresnysis eilinis, vyresnysis jūreivis
-6,9
-6,9
-6,9
-6,9
-6,9
+7,2
+7,2
+7,2
+7,2
+7,2
 Eilinis, jūreivis
-6,3
-6,3
-6,3
-6,3
-6,3
+6,6
+6,6
+6,6
+6,6
+6,6
 Jaunesnysis eilinis, jaunesnysis jūreivis
-6,1
-6,1
-6,1
-6,1
-6,1
+6,4
+6,4
+6,4
+6,4
+6,4
 Lietuvos Respublikos
 krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo
