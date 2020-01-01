@@ -1,6 +1,6 @@
-# 4,6–11
-4,3–10,5
-4–9,5
+# 5,6–11
+5,3–10,5
+5–9,5
 Lietuvos Respublikos
 valstybės tarnybos įstatymo
 2 priedas
