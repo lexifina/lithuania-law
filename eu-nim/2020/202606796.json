@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas Nr. XIII-2166 (Suvestinė redakcija nuo 2026-05-01)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-09862",
+  "official_journal_page": null,
+  "official_journal_date": "2019-06-19",
+  "entry_into_force": "2020-01-01",
+  "notification_date": "2026-09-25",
+  "commission_reference": "MNE(2026)06796",
+  "nim_celex": "72020L2184LTU_202606796",
+  "nim_id": "202606796",
+  "transposes_celex": [
+    "32020L2184"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b355d5fc-d4aa-4de9-ab0b-2255a663e1b2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
