@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2018 m. gruodžio 19 d. nutarimas Nr. 1326 „Dėl Lietuvos Respublikos Vyriausybės 2017 m. birželio 21 d. nutarimo Nr. 469 „Dėl nėščių, neseniai pagimdžiusių, krūtimi maitinančių darbuotojų darbo sąlygų aprašo patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-21019",
+  "official_journal_page": null,
+  "official_journal_date": "2018-12-20",
+  "entry_into_force": "2020-01-01",
+  "notification_date": "2020-02-14",
+  "commission_reference": "MNE(2020)50864",
+  "nim_celex": "72017L2398LTU_280732",
+  "nim_id": "280732",
+  "transposes_celex": [
+    "32017L2398"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ff2dc9c4-547c-11ea-aece-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
