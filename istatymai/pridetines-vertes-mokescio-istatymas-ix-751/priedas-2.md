@@ -23,4 +23,5 @@ Europos Sąjungos teisės aktai, su kuriais suderintos Pridėtinės vertės moke
 18. 2010 m. liepos 13 d. Tarybos direktyva 2010/45/ES, kuria iš dalies keičiamos Direktyvos 2006/112/EB dėl pridėtinės vertės mokesčio bendros sistemos nuostatos dėl sąskaitų faktūrų išrašymo taisyklių (OL 2010 L 189, p. 1).
 19. 2016 m. birželio 27 d. Tarybos direktyva (ES) 2016/1065, kuria iš dalies keičiamos Direktyvos 2006/112/EB nuostatos dėl kuponų apmokestinimo tvarkos (OL 2016 L 177, p. 9).
 20. 2017 m. gruodžio 5 d. Tarybos direktyva (ES) 2017/2455, kuria iš dalies keičiamos Direktyvos 2006/112/EB ir Direktyvos 2009/132/EB nuostatos, susijusios su tam tikromis pridėtinės vertės mokesčio prievolėmis, taikomomis paslaugų teikimui ir nuotolinei prekybai prekėmis (OL 2017 L 348, p. 7).
+21. 2018 m. gruodžio 4 d. Tarybos direktyva (ES) 2018/1910, kuria dėl tam tikrų pridėtinės vertės mokesčio sistemos taisyklių suderinimo ir supaprastinimo, susijusio su valstybių narių tarpusavio prekybos apmokestinimu, iš dalies keičiama Direktyva 2006/112/EB (OL 2018 L 311, p. 3).
 3 priedas neteko galios nuo 2008-12-30.
