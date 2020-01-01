@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2019 m. lapkričio 4 d. įsakymo Nr. D1-653 „Dėl statybos techninio reglamento STR 2.03.01:2019 „Statinių prieinamumas“ patvirtinimo” (suvestinė redakcija nuo 2023-06-09)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-17624",
+  "official_journal_page": null,
+  "official_journal_date": "2019-11-05",
+  "entry_into_force": "2020-01-01",
+  "notification_date": "2026-09-17",
+  "commission_reference": "MNE(2026)07319",
+  "nim_celex": "72024L1275LTU_202607319",
+  "nim_id": "202607319",
+  "transposes_celex": [
+    "32024L1275"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/53bc16a3-0492-4cd0-b516-8445bc2e7c3e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
