@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo Nr. VIII-371 pakeitimo įstatymas Nr. XIII-2274",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-11194",
+  "official_journal_page": null,
+  "official_journal_date": "2019-07-05",
+  "entry_into_force": "2020-01-01",
+  "notification_date": "2019-10-15",
+  "commission_reference": "MNE(2019)55840",
+  "nim_celex": "72014L0087LTU_277860",
+  "nim_id": "277860",
+  "transposes_celex": [
+    "32014L0087"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0601c05a-f1a0-11e9-a32c-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
