@@ -1,31 +1,36 @@
 # RESPUBLIKOS PREZIDENTAS VALDAS ADAMKUS
 Lietuvos Respublikos
 aviacijos įstatymo
-priedas
-ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
-1. 1991 m. gruodžio 16 d. Tarybos reglamentas (EEB) Nr. 3922/91 dėl techninių reikalavimų ir administracinės tvarkos suderinimo civilinės aviacijos srityje (OL 2004 m. specialusis leidimas, 7 skyrius, 1 tomas, p. 348) su paskutiniais pakeitimais, padarytais 2008 m. rugpjūčio 20 d. Komisijos reglamentu (EB) Nr. 859/2008 (OL 2008 L 254, p. 1).
-2. 1993 m. sausio 18 d. Tarybos reglamentas (EEB) Nr. 95/93 dėl laiko tarpsnių paskirstymo Bendrijos oro uostuose bendrųjų taisyklių (OL 2004 m. specialusis leidimas, 7 skyrius, 2 tomas, p. 3) su paskutiniais pakeitimais, padarytais 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 793/2004 (OL 2004 m. specialusis leidimas, 7 skyrius, 8 tomas, p. 171).
-3. 2004 m. vasario 11 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 261/2004, nustatantis bendras kompensavimo ir pagalbos keleiviams taisykles atsisakymo vežti ir skrydžių atšaukimo arba atidėjimo ilgam laikui atveju, panaikinantis Reglamentą (EEB) Nr. 295/91 (OL 2004 m. specialusis leidimas, 7 skyrius, 8 tomas, p. 10).
-4. 2004 m. kovo 10 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 549/2004, nustatantis bendro Europos dangaus sukūrimo pagrindą (pagrindų reglamentas) (OL 2004 m. specialusis leidimas, 7 skyrius, 8 tomas, p. 23), su paskutiniais pakeitimais, padarytais 2009 m. spalio 21 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1070/2009 (OL 2009 L 300, p. 34).
-5. 2004 m. kovo 10 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 550/2004 dėl oro navigacijos paslaugų teikimo bendrame Europos danguje (paslaugų teikimo reglamentas) (OL 2004 m. specialusis leidimas, 7 skyrius, 8 tomas, p. 31) su paskutiniais pakeitimais, padarytais 2009 m. spalio 21 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1070/2009 (OL 2009 L 300, p. 34).
-6. 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 785/2004 dėl draudimo reikalavimų oro vežėjams ir orlaivių naudotojams (OL 2004 m. specialusis leidimas, 7 skyrius, 8 tomas, p. 160).
-7. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 847/2004 dėl derybų dėl valstybių narių ir trečiųjų šalių susitarimų dėl oro susisiekimo ir jų įgyvendinimo (OL 2004 m. specialusis leidimas, 7 skyrius, 8 tomas, p. 193).
-8. 2006 m. liepos 5 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1107/2006 dėl neįgalių asmenų ir ribotos judėsenos asmenų teisių keliaujant oru (OL 2006 L 204, p. 1).
-9. 2008 m. kovo 11 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 300/2008 dėl civilinės aviacijos saugumo bendrųjų taisyklių ir panaikinantis Reglamentą (EB) Nr. 2320/2002 (OL 2008 L 97, p. 72) su paskutiniais pakeitimais, padarytais 2010 m. sausio 8 d. Komisijos reglamentu (ES) Nr. 18/2010 (OL 2010 L 7, p. 3).
-10. 2008 m. rugsėjo 24 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1008/2008 dėl oro susisiekimo paslaugų teikimo Bendrijoje bendrųjų taisyklių (OL 2008 L 293, p. 3).
-11. 2009 m. sausio 14 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 80/2009 dėl Elgesio su kompiuterinėmis rezervavimo sistemomis kodekso ir panaikinantis Tarybos reglamentą (EEB) Nr. 2299/89 (OL 2009 L 35, p. 47).
-12. 2009 m. balandžio 2 d. Komisijos reglamentas (EB) Nr. 272/2009, kuriuo papildomi Europos Parlamento ir Tarybos reglamento (EB) Nr. 300/2008 priede nustatyti bendrieji pagrindiniai civilinės aviacijos saugumo standartai (OL 2009 L 91, p. 7), su paskutiniais pakeitimais, padarytais 2010 m. balandžio 9 d. Komisijos reglamentu (ES) Nr. 297/2010 (OL 2010 L 90, p. 1).
-13. 2010 m. spalio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 996/2010 dėl civilinės aviacijos avarijų ir incidentų tyrimo ir prevencijos, kuriuo panaikinama Direktyva 94/56/EB (OL 2010 L 295, p. 35).
-14. 2011 m. spalio 17 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 1035/2011, kuriuo nustatomi bendrieji oro navigacijos paslaugų teikimo reikalavimai ir iš dalies keičiami reglamentai (EB) Nr. 482/2008 ir (ES) Nr. 691/2010 (OL 2011 L 271, p. 23).
-15. 2011 m. lapkričio 3 d. Komisijos reglamentas (ES) Nr. 1178/2011, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomi su civilinės aviacijos orlaivių įgula susiję techniniai reikalavimai ir administracinės procedūros (OL 2011 L 311, p. 1), su paskutiniais pakeitimais, padarytais 2016 m. balandžio 6 d. Komisijos reglamentu (ES) Nr. 2016/539 (OL 2016 L 91, p. 1).
-16. 2012 m. rugpjūčio 3 d. Komisijos reglamentas (ES) Nr. 748/2012, kuriuo nustatomos orlaivio tinkamumo skraidyti sertifikavimo, orlaivio ir susijusių gaminių, dalių bei prietaisų aplinkosauginio sertifikavimo, taip pat projektavimo ir gamybinių organizacijų sertifikavimo įgyvendinimo taisyklės (OL 2012 L 224, p. 1), su paskutiniais pakeitimais, padarytais 2016 m. sausio 5 d. Komisijos reglamentu (ES) Nr. 2016/5 (OL 2016 L 3, p. 3).
-17. 2012 m. rugsėjo 26 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 923/2012, kuriuo nustatomos bendrosios skrydžių taisyklės ir veiklos nuostatos dėl oro navigacijos paslaugų ir procedūrų ir iš dalies keičiami Įgyvendinimo reglamentas (ES) Nr. 1035/2011 ir reglamentai (EB) Nr. 1265/2007, (EB) Nr. 1794/2006, (EB) Nr. 730/2006, (EB) Nr. 1033/2006 ir (ES) Nr. 255/2010 (OL 2012 L 281, p. 1), su paskutiniais pakeitimais, padarytais 2016 m. liepos 20 d. Komisijos įgyvendinimo reglamentu (ES) 2016/1185 (OL 2016 L 196, p. 3).
-18. 2012 m. spalio 5 d. Komisijos reglamentas (ES) Nr. 965/2012, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomi su orlaivių naudojimu skrydžiams susiję techniniai reikalavimai ir administracinės procedūros (OL 2012 L 296, p. 1), su paskutiniais pakeitimais, padarytais 2017 m. kovo 1 d. Komisijos reglamentu (ES) 2017/363 (OL 2017 L 55, p. 1).
-19. 2013 m. gegužės 3 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 390/2013, kuriuo nustatomas oro navigacijos paslaugų teikimo ir tinklo funkcijų vykdymo veiklos rezultatų planas (OL 2013 L 128, p. 1).
-20. 2013 m. gegužės 3 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 391/2013, kuriuo nustatoma bendroji mokesčių už oro navigacijos paslaugas sistema (OL 2013 L 128, p. 31).
-21. 2014 m. vasario 12 d. Komisijos reglamentas (ES) Nr. 139/2014, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomi su aerodromais susiję reikalavimai ir administracinės procedūros (OL 2014 L 44, p. 1).
-22. 2014 m. balandžio 3 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 376/2014 dėl pranešimo apie civilinės aviacijos įvykius, jų analizės ir tolesnės veiklos, kuriuo iš dalies keičiamas Europos Parlamento ir Tarybos reglamentas (ES) Nr. 996/2010 ir panaikinama Europos Parlamento ir Tarybos direktyva 2003/42/EB ir Komisijos reglamentai (EB) Nr. 1321/2007 ir (EB) Nr. 1330/2007 (OL 2014 L 122, p. 18).
-23. 2014 m. lapkričio 26 d. Komisijos reglamentas (ES) Nr. 1321/2014 dėl orlaivių nepertraukiamojo tinkamumo skraidyti ir aviacijos produktų, dalių bei prietaisų tinkamumo naudoti ir šias užduotis atliekančių organizacijų bei darbuotojų patvirtinimo (OL 2014 L 362, p. 1) su paskutiniais pakeitimais, padarytais 2015 m. rugsėjo 16 d. Komisijos reglamentu (ES) 2015/1536 (OL 2015 L 241, p. 16).
-24. 2015 m. vasario 20 d. Komisijos reglamentas (ES) 2015/340, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomi su skrydžių vadovų licencijomis ir pažymėjimais susiję techniniai reikalavimai ir administracinės procedūros, iš dalies keičiamas Komisijos įgyvendinimo reglamentas (ES) Nr. 923/2012 ir panaikinamas Komisijos reglamentas (ES) Nr. 805/2011 (OL 2015 L 63, p. 1).
-25. 2018 m. kovo 13 d. Komisijos reglamentas (ES) 2018/395, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomos išsamios skrydžių oro balionais vykdymo taisyklės (OL 2018 L 71, p. 10).
-26. 2018 m. liepos 4 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/1139 dėl bendrųjų civilinės aviacijos taisyklių, ir kuriuo įsteigiama Europos Sąjungos aviacijos saugos agentūra, iš dalies keičiami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 2111/2005, (EB) Nr. 1008/2008, (ES) Nr. 996/2010, (ES) Nr. 376/2014 ir direktyvos 2014/30/ES ir 2014/53/ES bei panaikinami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 552/2004 ir (EB) Nr. 216/2008 bei Tarybos reglamentas (EEB) Nr. 3922/91 (OL 2018 L 212, p. 1).
+1 priedas
+PIRMASIS ANTŽEMINIŲ PASLAUGŲ SĄRAŠAS
+1. Antžeminis administravimas ir priežiūra:
+1.1. atstovavimas vežėjui ir ryšių su vietos valdžia ar kitomis institucijomis palaikymas, apmokėjimas vežėjo vardu ir biuro patalpų suteikimas jo atstovams;
+1.2. pakrovimo kontrolė, pranešimai ir telekomunikacijos;
+1.3. pakrovimo įrenginių suteikimas, sandėliavimas ir administravimas;
+1.4. kitos priežiūros paslaugos prieš skrydį, po jo ar skrydžio metu ir visos kitos administracinės paslaugos, kurių reikalauja vežėjas.
+2. Keleivių aptarnavimas – pagalba atvykstantiems, išvykstantiems ar vykstantiems tranzitu keleiviams, įskaitant bilietų ir kelionės dokumentų registravimą, bagažo registravimą ir jo vežimą į rūšiavimo zoną.
+3. Krovinių ir pašto tvarkymas:
+3.1. kroviniai – atitinkamų dokumentų forminimas, muitinės procedūrų ir visų saugumo procedūrų, dėl kurių šalys yra susitarusios ar kurių aplinkybės reikalauja, atlikimas;
+3.2. paštas – atitinkamų dokumentų forminimas ir visų saugumo procedūrų, dėl kurių šalys susitarė ar kurių aplinkybės reikalauja, atlikimas.
+4. Orlaivio priežiūra:
+4.1. vidinis ir išorinis orlaivio valymas, tualeto ir vandens paslaugos;
+4.2. kabinos šildymas ir vėsinimas, sniego ir ledo šalinimas, priemonių nuo apledėjimo taikymas;
+4.3. kabinos pertvarkymas joje įrengiant tinkamą įrangą, šios įrangos saugojimas.
+5. Techninės paslaugos:
+5.1. standartinės paslaugos, atliekamos prieš skrydį;
+5.2. papildomos paslaugos, kurių reikalauja vežėjas;
+5.3. atsarginių dalių ir tinkamos įrangos tiekimas ir administravimas;
+5.4. tinkamos stovėjimo vietos ir (arba) vietos angare prašymas ar rezervavimas.
+6. Skrydžių vykdymas ir įgulos administravimas:
+6.1. pasiruošimas skrydžiui išvykimo oro uoste arba bet kuriame kitame punkte;
+6.2. pagalba skrendant;
+6.3. veikla po skrydžio;
+6.4. įgulos administravimas.
+7. Antžeminis transportavimas:
+7.1. įgulos, keleivių, bagažo, krovinių ir pašto vežimo tarp skirtingų terminalų tame pačiame oro uoste organizavimas ir vykdymas, išskyrus vežimą nuo orlaivio iki kiekvieno kito punkto to paties oro uosto teritorijoje;
+7.2. specialiojo transporto, kurio prašo vežėjas, suteikimas.
+8. Maitinimo paslaugos:
+8.1. ryšio su tiekėjais palaikymas ir administracinis valdymas;
+8.2. maisto ir gėrimų, taip pat įrangos, reikalingos jiems paruošti, saugojimas;
+8.3. įrangos, reikalingos maistui ruošti, valymas;
+8.4. įrangos, taip pat baro ir maisto atsargų paruošimas ir pateikimas
