@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos transporto saugos administracijos direktoriaus 2020 m. sausio 8 d. įsakymas Nr. 2BE-7 „ Dėl Lietuvos transporto saugos administracijos atliekamų geležinkelių transporto srities planinių ir neplaninių patikrinimų taisyklių patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-00223",
+  "official_journal_page": null,
+  "official_journal_date": "2020-01-07",
+  "entry_into_force": "2020-01-08",
+  "notification_date": "2021-02-01",
+  "commission_reference": "MNE(2021)00338",
+  "nim_celex": "72016L0798LTU_202100338",
+  "nim_id": "202100338",
+  "transposes_celex": [
+    "32016L0798"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6fdfad63-564b-4520-b150-464e1a68bf80",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
