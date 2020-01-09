@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 43 straipsnio ir 3 priedo pakeitimo įstatymas Nr. XIII-2585",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-20553",
+  "official_journal_page": null,
+  "official_journal_date": "2019-12-18",
+  "entry_into_force": "2020-01-09",
+  "notification_date": "2021-02-25",
+  "commission_reference": "MNE(2021)01492",
+  "nim_celex": "72016L2341LTU_202101492",
+  "nim_id": "202101492",
+  "transposes_celex": [
+    "32016L2341"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ea3e2739-fbc3-4142-a785-9463088ecb5d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
