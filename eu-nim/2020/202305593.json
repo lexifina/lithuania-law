@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės energetikos reguliavimo tarybos 2020 m. sausio 16 d. nutarimas Nr. O3E-28 \"Dėl Valstybinės kainų ir energetikos kontrolės komisijos 2006 m. gruodžio 21 d. nutarimo Nr. O3-92 „Dėl Geriamojo vandens tiekimo ir nuotekų tvarkymo bei paviršinių nuotekų tvarkymo paslaugų kainų nustatymo metodikos patvirtinimo“ pakeitimo",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-00677",
+  "official_journal_page": null,
+  "official_journal_date": "2020-01-16",
+  "entry_into_force": "2020-01-17",
+  "notification_date": "2023-10-27",
+  "commission_reference": "MNE(2023)05593",
+  "nim_celex": "72020L2184LTU_202305593",
+  "nim_id": "202305593",
+  "transposes_celex": [
+    "32020L2184"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d5ef62cc-5169-497c-b42e-c3ffac8dc6cd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
