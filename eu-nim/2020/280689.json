@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro ir Lietuvos Respublikos sveikatos apsaugos ministro 2018 m. spalio 2 d. įsakymas Nr. A1-536/V-1060 „Dėl Lietuvos Respublikos socialinės apsaugos ir darbo ministro ir Lietuvos Respublikos sveikatos apsaugos ministro 2001 m. liepos 24 d. įsakymo Nr. 97/406 „Dėl darbuotojų apsaugos nuo cheminių veiksnių darbe nuostatų bei darbuotojų apsaugos nuo kancerogenų ir mutagenų poveikio darbe nuostatų patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2018-15660",
+  "official_journal_page": null,
+  "official_journal_date": "2018-10-03",
+  "entry_into_force": "2020-01-17",
+  "notification_date": "2020-02-14",
+  "commission_reference": "MNE(2020)50821",
+  "nim_celex": "72017L2398LTU_280689",
+  "nim_id": "280689",
+  "transposes_celex": [
+    "32017L2398"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1f600485-547e-11ea-aece-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
