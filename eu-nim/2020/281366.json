@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2020 m. sausio 17 d.  įsakymas  Nr. 3-18 „Dėl Patariamosios tarybos jūrinio transporto sektoriaus aktualiems klausimams svarstyti ir pasiūlymams teikti sudarymo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-00769",
+  "official_journal_page": null,
+  "official_journal_date": "2020-01-17",
+  "entry_into_force": "2020-01-18",
+  "notification_date": "2020-03-06",
+  "commission_reference": "MNE(2020)51267",
+  "nim_celex": "72017L0159LTU_281366",
+  "nim_id": "281366",
+  "transposes_celex": [
+    "32017L0159"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b4acb6d3-64fe-11ea-b735-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
