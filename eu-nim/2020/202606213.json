@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Dėl Valstybinės energetikos reguliavimo tarybos 2020 m. vasario 28 d. nutarimo Nr. O3E-164 „Dėl Valstybinės kainų ir energetikos kontrolės komisijos 2008 m. lapkričio 17 d. nutarimo Nr. O3-187 „Dėl Gamtinių dujų naujų vartotojų prijungimo įkainių skaičiavimo metodikos patvirtinimo“ pakeitimo“ pakeitimo",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-04444",
+  "official_journal_page": null,
+  "official_journal_date": "2020-02-28",
+  "entry_into_force": "2020-02-29",
+  "notification_date": "2026-08-06",
+  "commission_reference": "MNE(2026)06213",
+  "nim_celex": "72024L1788LTU_202606213",
+  "nim_id": "202606213",
+  "transposes_celex": [
+    "32024L1788"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3f97be18-5e7a-46be-a397-13b13fbf185f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
