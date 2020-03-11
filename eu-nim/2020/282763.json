@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2020 kovo 4 d. nutarimas Nr. 194 \"Dėl Lietuvos Respublikos Vyriausybės 2004 m. balandžio 7 d. nutarimo Nr. 388 „Dėl Informacijos ir ataskaitų, susijusių su Europos Sąjungos aplinkos sektoriaus teisės aktų įgyvendinimu ir teikiamų Europos Komisijai, Europos cheminių medžiagų agentūrai ir Europos aplinkos agentūrai rengimo ir teikimo tvarkos aprašo patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-05252",
+  "official_journal_page": null,
+  "official_journal_date": "2020-03-10",
+  "entry_into_force": "2020-03-11",
+  "notification_date": "2020-03-31",
+  "commission_reference": "MNE(2020)52399",
+  "nim_celex": "72007L0002LTU_282763",
+  "nim_id": "282763",
+  "transposes_celex": [
+    "32007L0002"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d8a4497b-759a-11ea-a07e-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
