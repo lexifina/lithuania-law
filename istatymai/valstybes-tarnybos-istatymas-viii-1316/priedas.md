@@ -72,7 +72,7 @@ Respublikos Prezidento atstovas spaudai, Seimo Pirmininko atstovas spaudai, Mini
 8,3–14,5
 7,4–13,5
 8.
-vyriausiasis specialistas, specialiojo atašė pavaduotojas, vyresnysis valstybinis auditorius, prokuroro padėjėjas, teisėjo padėjėjas, teismo konsultantas, padėjėjas (Seimo kanceliarijoje), vyresnysis specialistas (Seimo kanceliarijoje)
+vyriausiasis specialistas, specialiojo atašė pavaduotojas, Seimo nuolatinio atstovo Europos Sąjungoje pavaduotojas, vyresnysis valstybinis auditorius, prokuroro padėjėjas, teisėjo padėjėjas, teismo konsultantas, padėjėjas (Seimo kanceliarijoje), vyresnysis specialistas (Seimo kanceliarijoje)
 savivaldybės tarybos sekretorius, mero patarėjas, Respublikos Prezidento referentas, Seimo Pirmininko padėjėjas, Ministro Pirmininko padėjėjas, Seimo frakcijos referentas
 7,7–13,5
 7,1–13
