@@ -1,4 +1,6 @@
 # Respublikos Prezidentė Dalia Grybauskaitė
+part_15c823146e0c4217a0ce061b6353a718_end
+part_1144b53ea353421dbd31ed031df1c895_end
 Lietuvos Respublikos
 su nekilnojamuoju turtu susijusio
 kredito įstatymo
