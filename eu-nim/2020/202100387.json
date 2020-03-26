@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2020 m. kovo 26 d. įsakymas Nr. 3D-219 \"Dėl Augalų apsaugos produktų priskyrimo prie neprofesionaliajam naudojimui skirtų augalų apsaugos produktų tvarkos aprašo patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-6093",
+  "official_journal_page": null,
+  "official_journal_date": "2020-03-25",
+  "entry_into_force": "2020-03-26",
+  "notification_date": "2021-01-28",
+  "commission_reference": "MNE(2021)00387",
+  "nim_celex": "72009L0128LTU_202100387",
+  "nim_id": "202100387",
+  "transposes_celex": [
+    "32009L0128"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f73f31f3-0b43-492d-ad4b-ce0a8f0f09e8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
