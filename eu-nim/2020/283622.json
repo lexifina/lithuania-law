@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2020 m. kovo 31 d. įsakymas Nr. 1-82 “Dėl Lietuvos Respublikos energetikos ministro 2017 m. birželio 28 d. įsakymo Nr. 1-170 “Dėl atsinaujinančių energijos išteklių dalies, palyginti su bendruoju galutiniu energijos suvartojimu, apskaičiavimo metodikos patvirtinimo” pakeitimo",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-06669",
+  "official_journal_page": null,
+  "official_journal_date": "2020-03-31",
+  "entry_into_force": "2020-04-01",
+  "notification_date": "2020-04-28",
+  "commission_reference": "MNE(2020)53219",
+  "nim_celex": "72015L1513LTU_283622",
+  "nim_id": "283622",
+  "transposes_celex": [
+    "32015L1513"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a8c3b354-8f73-11ea-812f-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
