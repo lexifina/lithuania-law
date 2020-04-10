@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 5-1, 13, 24, 35, 37, 38, 39, 41, 42, 44, 49 ir 50 straipsnių pakeitimo įstatymas Nr. XIII-2846",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-07511",
+  "official_journal_page": null,
+  "official_journal_date": "2020-04-09",
+  "entry_into_force": "2020-04-10",
+  "notification_date": "2024-01-31",
+  "commission_reference": "MNE(2024)00512",
+  "nim_celex": "72021L1883LTU_202400512",
+  "nim_id": "202400512",
+  "transposes_celex": [
+    "32021L1883"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fffb47f1-06bc-4779-8c0b-e7d0f7431113",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
