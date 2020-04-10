@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ekonomikos ir inovacijų ministro 2020 m. balandžio 9 d. įsakymas Nr. 4-215  „Dėl Lietuvos Respublikos ūkio ministro 2016 m. lapkričio 29 d. įsakymo Nr. 4-739 „Dėl Eksploatuoti netinkamų transporto priemonių sudėtinių dalių pateikimo rinkai ir tiekimo rinkai tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-07479",
+  "official_journal_page": null,
+  "official_journal_date": "2020-04-09",
+  "entry_into_force": "2020-04-10",
+  "notification_date": "2020-04-10",
+  "commission_reference": "MNE(2020)52575",
+  "nim_celex": "72020L0362LTU_282944",
+  "nim_id": "282944",
+  "transposes_celex": [
+    "32020L0362"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/87288e6e-7e40-11ea-aea8-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
