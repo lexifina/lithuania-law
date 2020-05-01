@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos teisingumo ministro 2020 m. balandžio 10 d. įsakymas Nr. 1R-102 \"Dėl teisingumo ministro 2015 m. gruodžio 30 d. įsakymo Nr. 1R-386 „Dėl Jūrų laivų avarijų ir incidentų tyrimų, ataskaitų ir saugos rekomendacijų rengimo ir teikimo tvarkos aprašo patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-07646",
+  "official_journal_page": null,
+  "official_journal_date": "2020-04-10",
+  "entry_into_force": "2020-05-01",
+  "notification_date": "2020-04-14",
+  "commission_reference": "MNE(2020)52593",
+  "nim_celex": "72009L0018LTU_282979",
+  "nim_id": "282979",
+  "transposes_celex": [
+    "32009L0018"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7c20d307-80a0-11ea-bf12-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
