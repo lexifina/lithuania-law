@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2020 m. balandžio 21 d. įsakymas Nr. 1-94 \"Dėl Lietuvos Respublikos energetikos ministro 2009 m. balandžio 16 d. įsakymo Nr. 1-37 \"Dėl degalinių eksploatavimo taisyklių patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-08497",
+  "official_journal_page": null,
+  "official_journal_date": "2020-04-23",
+  "entry_into_force": "2020-05-01",
+  "notification_date": "2022-04-11",
+  "commission_reference": "MNE(2020)57549",
+  "nim_celex": "72014L0094LTU_289379",
+  "nim_id": "289379",
+  "transposes_celex": [
+    "32014L0094"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/25718c5b-bc95-11ec-b6f4-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
