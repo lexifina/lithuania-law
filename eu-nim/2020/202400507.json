@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 2, 3, 4, 6, 25, 27, 39 ir 41 straipsnių pakeitimo įstatymas Nr. XIII-2553",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2019-19861",
+  "official_journal_page": null,
+  "official_journal_date": "2019-12-10",
+  "entry_into_force": "2020-05-01",
+  "notification_date": "2024-01-29",
+  "commission_reference": "MNE(2024)00507",
+  "nim_celex": "72021L1883LTU_202400507",
+  "nim_id": "202400507",
+  "transposes_celex": [
+    "32021L1883"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/099a1cdc-362f-47db-ab65-431df0ebeaac",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
