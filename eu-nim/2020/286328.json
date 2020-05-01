@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2020 m. balandžio 29 d. įsakymas Nr. A1-367 „Dėl Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2009 m. gegužės 12 d. įsakymo Nr. A1-316 „Dėl Lietuvos Respublikos valstybinės darbo inspekcijos prie socialinės apsaugos ir darbo ministerijos nuostatų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-09073",
+  "official_journal_page": null,
+  "official_journal_date": "2020-04-29",
+  "entry_into_force": "2020-05-01",
+  "notification_date": "2020-07-16",
+  "commission_reference": "MNE(2020)55516",
+  "nim_celex": "72018L0957LTU_286328",
+  "nim_id": "286328",
+  "transposes_celex": [
+    "32018L0957"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d4efd1a5-c840-11ea-adf7-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
