@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymo Nr. XII-1215 2, 5, 10, 12, 14, 16, 17, 18 ir 29 straipsnių pakeitimo įstatymas Nr. XIII-2885",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-10373",
+  "official_journal_page": null,
+  "official_journal_date": "2020-05-14",
+  "entry_into_force": "2020-05-15",
+  "notification_date": "2024-01-31",
+  "commission_reference": "MNE(2024)00498",
+  "nim_celex": "72021L1883LTU_202400498",
+  "nim_id": "202400498",
+  "transposes_celex": [
+    "32021L1883"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d540ee4a-5c71-44a8-b8e4-1eafcb623845",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
