@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos civilinio kodekso 6.751 straipsnio pakeitimo įstatymas Nr. XIII-2956",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-11673",
+  "official_journal_page": null,
+  "official_journal_date": "2020-05-29",
+  "entry_into_force": "2020-05-30",
+  "notification_date": "2020-06-12",
+  "commission_reference": "MNE(2020)54268",
+  "nim_celex": "72015L2302LTU_284829",
+  "nim_id": "284829",
+  "transposes_celex": [
+    "32015L2302"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f6e34f40-b219-11ea-bb7a-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
