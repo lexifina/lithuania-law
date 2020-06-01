@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2020 m. birželio 1 d. įsakymas Nr. 1-139 \"Dėl Lietuvos Respublikos energetikos ministro 2019 m. gegužės 21 d. įsakymo Nr. 1-158 \"Dėl dujų, pagamintų iš atsinaujinančių energijos išteklių, kilmės garantijų išdavimo, perdavimo ir jų galiojimo panaikinimo bei kilmės garantijų naudojimo priežiūros ir kontrolės ir kitose valstybėse narėse išduotų kilmės garantijų pripažinimo Lietuvos Respublikoje taisyklių patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-11779",
+  "official_journal_page": null,
+  "official_journal_date": "2020-05-31",
+  "entry_into_force": "2020-06-01",
+  "notification_date": "2021-06-29",
+  "commission_reference": "MNE(2021)04570",
+  "nim_celex": "72018L2001LTU_202104570",
+  "nim_id": "202104570",
+  "transposes_celex": [
+    "32018L2001"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/53f415f1-3639-417e-b0e2-fdea6c4df850",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
