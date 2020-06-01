@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 7, 9, 38, 39, 40, 41, 42, 43, 44, 46, 47, 49, 51, 52, 59, 60, 61, 67 ir 68 straipsnių pakeitimo įstatymas Nr. XIII-2900",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-10395",
+  "official_journal_page": null,
+  "official_journal_date": "2020-05-14",
+  "entry_into_force": "2020-06-01",
+  "notification_date": "2022-07-18",
+  "commission_reference": "MNE(2022)04483",
+  "nim_celex": "72019L0944LTU_202204483",
+  "nim_id": "202204483",
+  "transposes_celex": [
+    "32019L0944"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6fe52bcd-ff72-4aa8-bfe0-4de0a2804fee",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
