@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 31 ir 37-1 straipsnių pakeitimo įstatymas Nr. XIII-3019",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-13236",
+  "official_journal_page": null,
+  "official_journal_date": "2020-06-16",
+  "entry_into_force": "2020-06-25",
+  "notification_date": "2020-12-10",
+  "commission_reference": "MNE(2020)58552",
+  "nim_celex": "72018L2002LTU_202058552",
+  "nim_id": "202058552",
+  "transposes_celex": [
+    "32018L2002"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4f0001d7-70fa-4101-9e51-cff6991d0f47",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
