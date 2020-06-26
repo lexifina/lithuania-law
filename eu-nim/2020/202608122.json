@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos teisingumo ministro 2020 m. birželio 25 d. įsakymas Nr. 1R-181 „Dėl Duomenų subjektų teisių įgyvendinimo tvarkant asmens duomenis Lietuvos Respublikos teisingumo ministerijos valdomuose registruose ir valstybės informacinėse sistemose tvarkos aprašo patvirtinimo“ (Suvestinė redakcija nuo 2020-12-24)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-13909",
+  "official_journal_page": null,
+  "official_journal_date": "2020-06-25",
+  "entry_into_force": "2020-06-26",
+  "notification_date": "2026-11-10",
+  "commission_reference": "MNE(2026)08122",
+  "nim_celex": "72024L1640LTU_202608122",
+  "nim_id": "202608122",
+  "transposes_celex": [
+    "32024L1640"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cf31764a-1034-48fa-8664-c3f7d2eab216",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-24",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
