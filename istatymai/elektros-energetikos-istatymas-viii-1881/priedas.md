@@ -14,3 +14,4 @@ priedas
 9. 2010 m. rugsėjo 21 d. Komisijos reglamentas (ES, Euratomas) Nr. 833/2010, kuriuo įgyvendinamas Tarybos reglamentas (ES, Euratomas) Nr. 617/2010 dėl pranešimo Komisijai apie energetikos infrastruktūros investicinius projektus Europos Sąjungoje.
 10. 2014 m. spalio 22 d. Europos Parlamento ir Tarybos direktyva 2014/94/ES dėl alternatyviųjų degalų infrastruktūros diegimo.
 11. 2012 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2012/27/ES dėl energijos vartojimo efektyvumo, kuria iš dalies keičiamos direktyvos 2009/125/EB ir 2010/30/ES bei kuria panaikinamos direktyvos 2004/8/EB ir 2006/32/EB.
+12. 2019 m. birželio 5 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/944 dėl elektros energijos vidaus rinkos bendrųjų taisyklių, kuria iš dalies keičiama Direktyva 2012/27/ES.
