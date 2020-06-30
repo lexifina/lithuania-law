@@ -24,3 +24,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2019-10-01 | 2019-12-29 | Įstatymas Nr. XIII-2284 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22xbHTIEYFdQ%22) |
 | 2020-01-01 | 2020-03-09 | Įstatymas Nr. X-611 / Įstatymas Nr. XIII-2372 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22gQPxSwdhLx%22) |
 | 2020-04-01 | 2020-06-29 | Įstatymas Nr. XIII-2775 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22ZGJBSFMkdQ%22) |
+| 2020-06-30 | 2020-12-28 | Įstatymas Nr. XIII-3093 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22depwbUlTtd%22) |
