@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2020 m. gegužės 28 d. nutarimas Nr. 03-73 „Dėl Lietuvos banko valdybos 2015 m. balandžio 23 d. nutarimo Nr. 03-61 „Dėl Draudimo ir (ar) perdraudimo techninių atidėjinių skaičiavimo siekiant nustatyti mokumą nuostatų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-11487",
+  "official_journal_page": null,
+  "official_journal_date": "2020-05-28",
+  "entry_into_force": "2020-07-01",
+  "notification_date": "2020-06-25",
+  "commission_reference": "MNE(2020)53941",
+  "nim_celex": "72019L2177LTU_284469",
+  "nim_id": "284469",
+  "transposes_celex": [
+    "32019L2177"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6b5e766b-b779-11ea-bb7a-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
