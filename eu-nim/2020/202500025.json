@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2020 m. birželio 29 d. įsakymas Nr. 1-162 „Dėl buitinių vartotojų su tiekėjais sudaromų elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutarčių standartinių sąlygų aprašo patvirtinimo“ (suvestinė redakcija nuo 2024-02-10)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-14529",
+  "official_journal_page": null,
+  "official_journal_date": "2020-06-30",
+  "entry_into_force": "2020-07-01",
+  "notification_date": "2025-01-15",
+  "commission_reference": "MNE(2025)00025",
+  "nim_celex": "72024L1711LTU_202500025",
+  "nim_id": "202500025",
+  "transposes_celex": [
+    "32024L1711"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3198007d-adfb-4e9e-bce3-5d55ba20761a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
