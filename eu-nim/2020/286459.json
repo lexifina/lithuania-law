@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2020 m. birželio 17 d. nutarimas Nr. 663 \"Dėl Lietuvos Respublikos Vyriausybės 2009 m. birželio 17 d. nutarimo Nr. 633 „Dėl Lietuvos Respublikos teisėsaugos institucijų keitimosi informacija su kitų Europos Sąjungos valstybių narių teisėsaugos institucijomis taisyklių patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "13771",
+  "official_journal_page": null,
+  "official_journal_date": "2020-06-23",
+  "entry_into_force": "2020-07-01",
+  "notification_date": "2021-08-27",
+  "commission_reference": "MNE(2020)55616",
+  "nim_celex": "72017L0541LTU_286459",
+  "nim_id": "286459",
+  "transposes_celex": [
+    "32017L0541"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/66833706-0cb2-11ec-adb1-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
