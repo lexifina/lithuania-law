@@ -7,16 +7,16 @@ Pareigybės pavadinimas
 Įstaigų grupė
 II
 III
-koeficientas
-koeficientas
+Koeficientas
+Koeficientas
 1
-Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos vadas, Viešojo saugumo tarnybos prie Vidaus reikalų ministerijos vadas, Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos direktorius, Vadovybės apsaugos departamento prie Vidaus reikalų ministerijos direktorius, Finansinių nusikaltimų tyrimo tarnybos prie Vidaus reikalų ministerijos direktorius, policijos generalinis komisaras, Muitinės departamento prie Finansų ministerijos generalinis direktorius, Kalėjimų departamento prie Lietuvos Respublikos teisingumo ministerijos direktorius
+Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos vadas, Viešojo saugumo tarnybos prie Vidaus reikalų ministerijos vadas, Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos direktorius, Finansinių nusikaltimų tyrimo tarnybos prie Vidaus reikalų ministerijos direktorius, policijos generalinis komisaras, Muitinės departamento prie Finansų ministerijos generalinis direktorius, Kalėjimų departamento prie Lietuvos Respublikos teisingumo ministerijos direktorius
 15,2–19
 2
-Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos vado pavaduotojas, Viešojo saugumo tarnybos prie Vidaus reikalų ministerijos vado pavaduotojas, Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos direktoriaus pavaduotojas, Vadovybės apsaugos departamento prie Vidaus reikalų ministerijos direktoriaus pavaduotojas, Finansinių nusikaltimų tyrimo tarnybos prie Vidaus reikalų ministerijos direktoriaus pavaduotojas, policijos generalinio komisaro pavaduotojas, Muitinės departamento prie Finansų ministerijos generalinio direktoriaus pavaduotojas, Kalėjimų departamento prie Lietuvos Respublikos teisingumo ministerijos direktoriaus pavaduotojas
+Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos vado pavaduotojas, Viešojo saugumo tarnybos prie Vidaus reikalų ministerijos vado pavaduotojas, Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos direktoriaus pavaduotojas, Finansinių nusikaltimų tyrimo tarnybos prie Vidaus reikalų ministerijos direktoriaus pavaduotojas, policijos generalinio komisaro pavaduotojas, Muitinės departamento prie Finansų ministerijos generalinio direktoriaus pavaduotojas, Kalėjimų departamento prie Lietuvos Respublikos teisingumo ministerijos direktoriaus pavaduotojas
 13,2–18
 3
-Viršininkas (statutinės įstaigos vadovas), direktorius (statutinės įstaigos vadovas), Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos Pasienio rinktinės vadas, mokyklos viršininkas, vyriausiojo policijos komisariato viršininkas (taikoma struktūriniam padaliniui, kuris nėra kitame struktūriniame padalinyje), biuro viršininkas, rinktinės vadas (statutinės įstaigos vadovas), Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos Priešgaisrinės gelbėjimo valdybos viršininkas
+Viršininkas (statutinės įstaigos vadovas), direktorius (statutinės įstaigos vadovas), Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos pasienio rinktinės vadas, mokyklos viršininkas, vyriausiojo policijos komisariato viršininkas (taikoma struktūriniam padaliniui, kuris nėra kitame struktūriniame padalinyje), biuro viršininkas, rinktinės vadas (statutinės įstaigos vadovas), Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos Priešgaisrinės gelbėjimo valdybos viršininkas
 13,2–17,5
 13,2–17,5
 4
