@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2020 m. kovo 10 d. nutarimas Nr. 198 „Dėl Žemės gelmių įstatymo įgyvendinimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-05360",
+  "official_journal_page": null,
+  "official_journal_date": "2020-03-12",
+  "entry_into_force": "2020-07-01",
+  "notification_date": "2020-03-16",
+  "commission_reference": "MNE(2020)51841",
+  "nim_celex": "72014L0052LTU_282124",
+  "nim_id": "282124",
+  "transposes_celex": [
+    "32014L0052"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7ac00242-6a90-11ea-b735-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
