@@ -1,19 +1,20 @@
 # Kitas smėlis, žvyras
 m3
 0,42
+part_8e0b589b173b42d191e94dfd1906f8c3_end
 Lietuvos Respublikos
 mokesčio už valstybinius
 gamtos išteklius įstatymo
 2 priedas
-MOKESČIO UŽ VANDENĮ IR STATYBINĮ GRUNTĄ TARIFAI
+MOKESČIO UŽ VANDENĮ IR GRUNTĄ TARIFAI
 Eil. Nr.
 Ištekliai
 Matavimo vnt.
 Tarifas, Eur
 1.
-Požeminis vanduo, išskyrus mineralinį vandenį: a) vandens tiekėjo tiekiamas namų ūkio reikmėms ir patalpų šildymui b) juridinių asmenų naudojamas komerciniams tikslams, supilstytas į tarą c) kitas (a ir b punktuose nenurodytas) požeminis vanduo
+Požeminis vanduo, išskyrus mineralinį vandenį: a) vandens tiekėjo tiekiamas namų ūkio reikmėms ir patalpų šildymui b) juridinių asmenų naudojamas komerciniams tikslams, supilstytas į tarą c) kitas (a ir b punktuose nenurodytas) požeminis vanduo d) fizinių ir juridinių asmenų naudojamas žemės ūkio veiklai, išskyrus požeminį vandenį, naudojamą žemės ūkio produktams perdirbti ir iš jų pagamintiems maisto ar ne maisto produktams realizuoti
 m3
-0,03 4,29 0,10
+0,03 4,29 0,10 0,03
 2.
 Mineralinis vanduo, išskyrus mineralinį vandenį, naudojamą gydymo įstaigose
 m3
