@@ -18,14 +18,14 @@ Valstybės ar savivaldybių institucijos ar įstaigos veiklos pobūdis:
 padėjimas vykdyti Seimo funkcijas arba padėjimas vykdyti Respublikos Prezidento funkcijas arba padėjimas vykdyti Vyriausybės ir Ministro Pirmininko funkcijas arba teismų savivaldos institucijų aptarnavimas
 valstybinio audito funkcijų vykdymas arba dalyvavimas formuojant valstybės politiką nacionalinio saugumo srityje ir jos įgyvendinimas
 –
-valstybės politikos formavimas ir įgyvendinimas keliose valdymo srityse arba dalyvavimas formuojant valstybės politiką valstybinio socialinio draudimo srityje ir jos įgyvendinimas
+valstybės politikos formavimas ir įgyvendinimas keliose valdymo srityse
 –
 100
 1.2.
 –
 skundų nagrinėjimas dėl pareigūnų ir kitų asmenų veiksmų ar neveikimo, dėl kurių gali būti pažeistos asmens teisės, laisvės ar teisėti interesai arba dalyvavimas formuojant daugiau kaip vienos valdymo srities valstybės politiką ir jos įgyvendinimas
 –
-dalyvavimas formuojant daugiau kaip vienos valdymo srities valstybės politiką ir jos įgyvendinimas arba valstybės politikos formavimas ir įgyvendinimas vienoje valdymo srityje arba valstybės politikos valstybinio socialinio draudimo srityje įgyvendinimas arba Europos Sąjungos struktūrinių ir investicinių fondų administravimo ir kontrolės funkcijų vykdymas
+dalyvavimas formuojant daugiau kaip vienos valdymo srities valstybės politiką ir jos įgyvendinimas arba valstybės politikos formavimas ir įgyvendinimas vienoje valdymo srityje arba Europos Sąjungos struktūrinių ir investicinių fondų administravimo ir kontrolės funkcijų vykdymas
 –
 80
 1.3.
@@ -87,7 +87,7 @@ teritorija, kurioje yra mažiau kaip 50 000 gyventojų arba viena įstaigų sist
 teritorija, kurioje yra mažiau kaip 50 000 gyventojų
 20
 3.
-Valstybės ar savivaldybių institucijos ar įstaigos dydis, santykis su pavaldžiais ir nepavaldžiais subjektais:
+Valstybės ar savivaldybių institucijos ar įstaigos santykis su pavaldžiais ir nepavaldžiais subjektais:
 3.1.
 –
 –
@@ -99,7 +99,7 @@ vertikalusis vadovavimas, kai valstybės institucija ar įstaiga vadovauja ne ma
 –
 –
 –
-vertikalusis vadovavimas, kai valstybės institucija ar įstaiga vadovauja 2 pakopų pavaldžių subjektų sistemai arba įstaiga, kurioje dirba daugiau kaip 1 000 valstybės tarnautojų
+vertikalusis vadovavimas, kai valstybės institucija ar įstaiga vadovauja 2 pakopų pavaldžių subjektų sistemai
 –
 80
 3.3.
