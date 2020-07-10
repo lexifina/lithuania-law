@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2020 m. liepos 9 d. įsakymas Nr. D1-417 „Dėl Klimato kaitos programos priemonės „Privačių juridinių asmenų energijos vartojimo efektyvumo įgyvendinimas pagal energijos audito ataskaitas“ tvarkos aprašo patvirtinimo“ (suvestinė redakcija nuo 2022-10-12)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-15354",
+  "official_journal_page": null,
+  "official_journal_date": "2020-07-09",
+  "entry_into_force": "2020-07-10",
+  "notification_date": "2026-03-06",
+  "commission_reference": "MNE(2026)01609",
+  "nim_celex": "72023L1791LTU_202601609",
+  "nim_id": "202601609",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/62e221e5-22fd-40b7-91b6-a4cec5b0eefe",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
