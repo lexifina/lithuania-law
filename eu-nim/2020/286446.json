@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "2020 m. liepos 17 d. Lietuvos Respublikos socialinės apsaugos ir darbo ministro įsakymas Nr. A1-668 „Dėl Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2016 m. liepos 14 d. įsakymo Nr. A1-353 „Dėl Kompleksinės pagalbos teikimo vaikams, galimai nukentėjusiems nuo seksualinio išnaudojimo, rekomendacijų patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-15975",
+  "official_journal_page": null,
+  "official_journal_date": "2020-07-17",
+  "entry_into_force": "2020-07-18",
+  "notification_date": "2020-07-21",
+  "commission_reference": "MNE(2020)55603",
+  "nim_celex": "72011L0093LTU_286446",
+  "nim_id": "286446",
+  "transposes_celex": [
+    "32011L0093"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6adc6719-d0d2-11ea-adf7-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
