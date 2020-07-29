@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2020 m. liepos 3 d. įsakymas Nr. A1-633 Dėl Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2005 m. birželio 16 d. įsakymo Nr. A1-169 „Dėl Informavimo apie komandiruotus darbuotojus tvarkos aprašo patvirtinimo“ pakeitimo",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-15059",
+  "official_journal_page": null,
+  "official_journal_date": "2020-07-06",
+  "entry_into_force": "2020-07-29",
+  "notification_date": "2020-12-17",
+  "commission_reference": "MNE(2020)58746",
+  "nim_celex": "72014L0067LTU_202058746",
+  "nim_id": "202058746",
+  "transposes_celex": [
+    "32014L0067"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/48dd5690-4156-11eb-b27b-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
