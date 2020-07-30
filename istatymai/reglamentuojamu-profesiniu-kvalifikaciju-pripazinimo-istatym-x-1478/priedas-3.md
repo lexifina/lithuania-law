@@ -1,4 +1,5 @@
-# Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo
+# part_0e08ace611254ce680fafea6eab66c95_end
+Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo
 2 priedas
 VEIKLA, SUSIJUSI SU LIETUVOS RESPUBLIKOS REGLAMENTUOJAMŲ PROFESINIŲ KVALIFIKACIJŲ PRIPAŽINIMO ĮSTATYMO 17 STRAIPSNYJE NURODYTOMIS PROFESINĖS PATIRTIES KATEGORIJOMIS
 I sąrašas

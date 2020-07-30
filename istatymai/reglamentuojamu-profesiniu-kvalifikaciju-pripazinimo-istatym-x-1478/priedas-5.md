@@ -1,4 +1,5 @@
-# Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo
+# part_47481bfe9aa943acb37af96e1eeb67cc_end
+Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo
 4 priedas
 ĮGYTOS TEISĖS, TAIKOMOS PROFESIJOMS, PRIPAŽĮSTAMOMS PAGAL BŪTINIAUSIŲ RENGIMO REIKALAVIMŲ DERINIMĄ
 4. Architektų, kurie naudojasi pagal šio įstatymo 47 straipsnio 1 ir 2 dalis įgytomis teisėmis, formalios kvalifikacijos įrodymai

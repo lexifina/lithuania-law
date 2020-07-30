@@ -1,4 +1,5 @@
-# Lietuvos Respublikos
+# part_66a3adb76d4d443ca2d854834774d4f3_end
+Lietuvos Respublikos
 reglamentuojamų profesinių
 kvalifikacijų pripažinimo įstatymo
 3 priedas
@@ -164,6 +165,7 @@ Primary qualification
 Competent examining body
 Certificate of experience
 1976 m. gruodžio 20 d.
+part_64727424965346349fd39c8166086d4c_end
 3.1.2. Gydytojų specialistų formalios kvalifikacijos įrodymai
 Lentelė. Gydytojų specialistų formalios kvalifikacijos įrodymų pavadinimai
 Eil. Nr.
@@ -3098,6 +3100,7 @@ Klinisk neurofysiologi
 Jungtinė Karalystė / United Kingdom
 Clinical neurophysiology
 Oral and maxillo-facial surgery
+part_d25e6824b4c94c7386bee394c75483dc_end
 3.1.4. Šeimos gydytojų formalios kvalifikacijos įrodymai
 Lentelė. Šeimos gydytojų formalios kvalifikacijos įrodymų dokumentų pavadinimai
 Eil. Nr.
@@ -3245,6 +3248,7 @@ Jungtinė Karalystė / United Kingdom
 Certificate ofprescribed / equivalent experience
 General medical practitioner
 1994 m. gruodžio 31 d.
+part_ca5c054ccda642ab94421d0010b7e589_end
 3.2. BENDROSIOS PRAKTIKOS SLAUGYTOJAS
 3.2.1. Bendrosios praktikos slaugytojų studijų ir mokymo programa
 Bendrosios praktikos slaugytojų rengimą, kurį baigus įteikiamas formalios kvalifikacijos įrodymas, sudaro dvi dalys:
@@ -3441,12 +3445,15 @@ Statement of Registration as a Registered General Nurse in part 1 or part 12 of 
 Various
 – State Registered Nurse – Registered General Nurse
 1979 m. birželio 29 d.
+part_3bf4ba1ff54b4ccfa27c059611291a81_end
+part_51bbe80ae9a74c25a7f8831160e4e5aa_end
 3.3. GYDYTOJAS ODONTOLOGAS
 3.3.1. Gydytojų odontologų studijų programa
 Į gydytojų odontologų studijų, kurias baigus įteikiamas formalios kvalifikacijos įrodymas, programą įtraukiami bent jau toliau išvardyti dalykai. Vienas ar daugiau šių dalykų gali būti įtraukta į kitus dėstomuosius dalykus arba mokoma kartu su jais.
 A. Pagrindiniai dalykai: – Chemija – Fizika – Biologija
 B. Medicinos ir biologijos bei bendrosios medicinos dalykai: – Anatomija – Embriologija – Histologija, įskaitant citologiją – Fiziologija – Biochemija (arba fiziologinė chemija) – Patologinė anatomija – Bendroji patologija – Farmakologija – Mikrobiologija – Higiena – Prevencinė medicina ir epidemiologija – Radiologija – Fizinė medicina ir reabilitacija – Bendroji chirurgija – Vidaus ligos, įskaitant vaikų ligas – Otorinolaringologija – Dermatovenerologija – Bendroji psichologija, psichopatologija, neurologija – Anesteziologija
 C. Tiesiogiai su odontologija susiję dalykai: – Dantų protezavimas – Odontologinės medžiagos ir įranga – Konservatyvioji odontologija – Prevencinė odontologija – Skausmą malšinančios ir raminamosios priemonės odontologijoje – Specialioji chirurgija – Specialioji patologija – Klinikinė praktika – Vaikų odontologija – Ortodontologija – Periodontologija – Odontologinė radiologija – Dantų sąkandis ir žandikaulio funkcija – Profesijos organizavimas, etika ir teisės aktai – Gydytojo odontologo veiklos socialiniai aspektai
+part_b5249e03b1094bd4a00cdf5b7b62f98f_end
 3.3.2. Gydytojų odontologų formalios kvalifikacijos įrodymai
 Lentelė. Gydytojų odontologų formalios kvalifikacijos įrodymų pavadinimai
 Eil. Nr.
@@ -3633,6 +3640,7 @@ Jungtinė Karalystė / United Kingdom
 – Universities – Royal Colleges
 – Dentist – Dental practitioner – Dental surgeon
 1980 m. sausio 28 d.
+part_fa45b224d3c6499f8c3d23b7ef0296cb_end
 3.3.3. Gydytojų odontologų specialistų formalios kvalifikacijos įrodymai
 1 lentelė. Gydytojų odontologų ortodontijos specializacijos specialistų formalios kvalifikacijos įrodymų pavadinimai
 Eil. Nr.
@@ -3826,6 +3834,8 @@ Jungtinė Karalystė / United Kingdom
 Certificate of completion of specialist training in oral surgery
 Competent authority recognised for this purpose
 1980 m. sausio 28 d.
+part_49ef772ae7a245538dd798fc1c315fec_end
+part_5a37430f167642d18d8e54c10dd3c4a1_end
 3.4. VETERINARIJOS GYDYTOJAS
 3.4.1. Veterinarijos gydytojų studijų programa
 Studijų, kurias baigus išduodamas veterinarijos gydytojo formalios kvalifikacijos įrodymas, programą sudaro bent jau toliau išvardyti dalykai.
@@ -3843,6 +3853,7 @@ c. Gyvūnų auginimas: – Gyvūnų auginimas – Gyvūnų šėrimas – Agronom
 d. Maisto higiena: – Gyvūninių maisto produktų ar gyvūninės kilmės maisto produktų tikrinimas ir kontrolė – Maisto higiena ir technologija – Praktinis darbas (įskaitant praktinį darbą vietose, kur skerdžiami gyvūnai ir gaminami maisto produktai)
 Praktinis rengimas gali vykti tam tikrą rengimo laikotarpį, jeigu tai nuolatinės formos studijos, kurias tiesiogiai kontroliuoja kompetentinga institucija, ir jų trukmė neviršija šešių mėnesių per visą penkerių metų studijų laikotarpį.
 Teorinio ir praktinio rengimo paskirstymas įvairių dalykų grupėse gretinamas ir derinamas taip, kad būtų tinkamu būdu įgyjamos žinios ir patirtis, kurios padėtų veterinarijos gydytojams atitinkamai vykdyti visas savo pareigas.
+part_dcbc512561ed49a7b59e906a8e3c945b_end
 3.4.2. Veterinarijos gydytojų formalios kvalifikacijos įrodymai
 Lentelė. Veterinarijos gydytojų formalios kvalifikacijos įrodymų pavadinimai
 Eil. Nr.
@@ -3991,6 +4002,8 @@ Jungtinė Karalystė / United Kingdom
 1. Bachelor of Veterinary Science (BVSc) 2. Bachelor of Veterinary Science (BVSc) 3. Bachelor of Veterinary Medicine (BvetMB) 4. Bachelor of Veterinary Medicine and Surgery (BVM&S) 5. Bachelor of Veterinary Medicine and Surgery (BVM&S) 6. Bachelor of Veterinary Medicine (BvetMed)
 1. University of Bristol 2. University of Liverpool 3. University of Cambridge 4. University of Edinburgh 5. University of Glasgow 6. University of London
 1980 m. gruodžio 21 d.
+part_60bc765bd3734ceebaef56436654f051_end
+part_ad671393cfbf4370a68714046d35989a_end
 3.5. AKUŠERIS
 3.5.1. Akušerių studijų ar mokymo programa (I ir II rengimo tipai)
 Studijų ar mokymo programą, siekiant gauti akušerio formalios kvalifikacijos įrodymą, sudaro šios dvi dalys:
@@ -4035,6 +4048,7 @@ Turi būti mokoma, atitinkamai prižiūrint:
 – Susipažinimas su medicinine priežiūra ir chirurgija. Teorinis instruktažas ir klinikinė praktika.
 Teorinis ir praktinis rengimas (rengimo programos A dalis) paskirstomas ir derinamas su klinikiniu rengimu (tos pačios programos B dalis) taip, kad būtų tinkamu būdu įgyjamos šiame priede išvardytos žinios ir patirtis.
 Klinikinis instruktažas atliekamas vadovaujantis kvalifikacijos kėlimo kursų neatsitraukiant nuo darbo forma ligoninių skyriuose ar kitose kompetentingų institucijų patvirtintose sveikatos apsaugos tarnybose. Dalį tokio rengimo sudaro studentų akušerių dalyvavimas padalinių veikloje, jeigu tokia veikla susijusi su jų rengimu. Jie mokomi su akušerių veikla susijusių pareigų.
+part_69f4f0fe4c014ff6b5f793a00b394970_end
 3.5.2. Akušerių formalios kvalifikacijos įrodymai
 Lentelė. Akušerių formalios kvalifikacijos įrodymų pavadinimai
 Eil. Nr.
@@ -4217,6 +4231,8 @@ Statement of registration as a Mid-wife on part 10 of the register kept by the U
 Various
 Midwife
 1983 m. sausio 23 d.
+part_bd5ec06385594deea9cff4d84e4d2814_end
+part_a73af2aaed7143aca7891d9dc4f76ba1_end
 3.6. VAISTININKAS
 3.6.1. Vaistininkų studijų programos dalykai
 – Augalų ir gyvūnų biologija
