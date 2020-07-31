@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos viršininko 2020 m. liepos 30 d. įsakymas Nr. VA-59 “Dėl Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos viršininko 2019 metų gruodžio 20 dienos įsakymo Nr. VA-109 „Dėl Privalomų automatinių apmokestinimo srities informacijos, susijusios su praneštinais tarpvalstybiniais susitarimais, mainų įgyvendinimo ir praneštinus tarpvalstybinius susitarimus identifikuojančių požymių nustatymo taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-16636",
+  "official_journal_page": null,
+  "official_journal_date": "2020-07-30",
+  "entry_into_force": "2020-07-31",
+  "notification_date": "2020-12-02",
+  "commission_reference": "MNE(2020)58197",
+  "nim_celex": "72020L0876LTU_290124",
+  "nim_id": "290124",
+  "transposes_celex": [
+    "32020L0876"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/41a21f57-05df-49cb-82d5-ed4786e462eb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
