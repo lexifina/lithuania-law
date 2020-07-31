@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos viršininko 2020 m. liepos 30 d. įsakymas Nr. VA-58  “Dėl Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos viršininko 2015 m. lapkričio 25 d. įsakymo Nr. VA-102 „Dėl Informacijos, būtinos tarptautiniams bendradarbiavimo įsipareigojimams dėl automatinių informacijos apie finansines sąskaitas mainų įgyvendinti, pateikimo taisyklių patvirtinimo“ pakeitimo”",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-16625",
+  "official_journal_page": null,
+  "official_journal_date": "2020-07-30",
+  "entry_into_force": "2020-07-31",
+  "notification_date": "2020-12-02",
+  "commission_reference": "MNE(2020)58196",
+  "nim_celex": "72020L0876LTU_290123",
+  "nim_id": "290123",
+  "transposes_celex": [
+    "32020L0876"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/390d19d9-0ced-4dc2-a3e3-98fe3dfc9197",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
