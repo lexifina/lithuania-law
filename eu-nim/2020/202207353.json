@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Vyriausybės 2020 m. rugpjūčio 19 d. nutarimas Nr. 914 \"Dėl Lietuvos Respublikos Vyriausybės 2011 m. rugsėjo 7 d. nutarimo Nr. 1057 „Dėl Elektroninės sveikatos paslaugų ir bendradarbiavimo infrastruktūros informacinės sistemos nuostatų patvirtinimo“ pakeitimo",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-17774",
+  "official_journal_page": null,
+  "official_journal_date": "2020-08-24",
+  "entry_into_force": "2020-08-25",
+  "notification_date": "2022-12-07",
+  "commission_reference": "MNE(2022)07353",
+  "nim_celex": "72011L0024LTU_202207353",
+  "nim_id": "202207353",
+  "transposes_celex": [
+    "32011L0024"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/869732ec-779d-11ed-9887-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
