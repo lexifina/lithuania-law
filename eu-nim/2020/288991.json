@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2020 m. rugpjūčio 19 d. nutarimas Nr. 916 \"Dėl Lietuvos Respublikos Vyriausybės 2016 m. kovo 30 d. nutarimo Nr. 332 \"Dėl energijos išteklių ir energijos efektyvaus vartojimo stebėsenos tvarkos aprašo patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-17779",
+  "official_journal_page": null,
+  "official_journal_date": "2020-08-24",
+  "entry_into_force": "2020-08-25",
+  "notification_date": "2020-12-10",
+  "commission_reference": "MNE(2020)57228",
+  "nim_celex": "72018L2002LTU_288991",
+  "nim_id": "288991",
+  "transposes_celex": [
+    "32018L2002"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/aa066b5b-d1f9-4586-860c-a601ccc2ed41",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
