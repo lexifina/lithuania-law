@@ -34,29 +34,41 @@ nuo daugiau kaip 20 iki 25
 daugiau kaip 25
 Nesuteiktos kvalifikacinės kategorijos
 Mokytojas
-6,42 6,44
-6,5
-6,62 6,82
-6,85 6,89
+6,91
+6,94
+7,0
+7,13
+7,35
+7,38
+7,42
 Suteiktos kvalifikacinės kategorijos
 Mokytojas
-6,9 6,91
-6,92 6,95
-6,97 7,0
-7,05
+7,43
+7,44
+7,45
+7,49
+7,51
+7,54
+7,59
 Vyresnysis mokytojas
-7,06 7,08
-7,12
-7,4 7,44
-7,47
+7,6
+7,63
+7,67
+7,97
+8,01
+8,05
 Mokytojas metodininkas
-7,54 7,68
-7,92 7,96
-8,0
+8,12
+8,27
+8,53
+8,57
+8,62
 Mokytojas ekspertas
-8,58 8,72
-8,94 8,98
-9,02
+9,24
+9,39
+9,63
+9,67
+9,71
 2. Pareiginės algos pastoviosios dalies koeficientai dėl veiklos sudėtingumo mokytojams:
 2.1. didinami 1–15 procentų:
 2.1.1. dirbantiems bendrojo ugdymo mokyklose, išskyrus šio priedo 2.1.2 ir 2.1.3 papunkčiuose nurodytas mokyklas, įstaigose, vykdančiose profesinio mokymo, neformaliojo švietimo programas (išskyrus ikimokyklinio ir priešmokyklinio ugdymo programas), kurių klasėje (grupėje) ugdoma vienas ir daugiau mokinių, dėl įgimtų ar įgytų sutrikimų turinčių vidutinių, didelių ar labai didelių specialiųjų ugdymosi poreikių;
@@ -96,37 +108,50 @@ MOKYTOJŲ, DIRBANČIŲ PAGAL IKIMOKYKLINIO UGDYMO PROGRAMĄ, IR MENINIO UGDYMO M
 Kvalifikacinė kategorija
 Pastoviosios dalies koeficientai
 pedagoginio darbo stažas (metais)
-iki 3
-nuo daugiau kaip 3 iki 10
+iki 2
+nuo daugiau kaip 2 iki 5
+nuo daugiau kaip 5 iki 10
 nuo daugiau kaip 10 iki 15
-daugiau kaip 15
+nuo daugiau kaip 15 iki 20
+nuo daugiau kaip 20 iki 25
+daugiau kaip 25
 Nesuteiktos kvalifikacinės kategorijos
 Mokytojas
-4,64
-4,93
-5,0
-5,13
-Pedagoginio darbo stažas (metais)
-iki 10
-nuo daugiau kaip 10 iki15
-daugiau kaip 15
+6,91
+6,94
+7,0
+7,13
+7,35
+7,38
+7,42
 Suteiktos kvalifikacinės kategorijos
 Mokytojas
-4,96
-5,06
-5,15
+7,43
+7,44
+7,45
+7,49
+7,51
+7,54
+7,59
 Vyresnysis mokytojas
-5,43
-5,51
-5,72
+7,6
+7,63
+7,67
+7,97
+8,01
+8,05
 Mokytojas metodininkas
-5,93
-6,09
-6,23
+8,12
+8,27
+8,53
+8,57
+8,62
 Mokytojas ekspertas
-6,74
-6,81
-7,0
+9,24
+9,39
+9,63
+9,67
+9,71
 13. Pareiginės algos pastoviosios dalies koeficientai dėl veiklos sudėtingumo:
 13.1. didinami 5–10 procentų mokytojams, dirbantiems pagal ikimokyklinio ugdymo programą, ir meninio ugdymo mokytojams, dirbantiems pagal ikimokyklinio ir (arba) priešmokyklinio ugdymo programas:
 13.1.1. jeigu grupėje ugdomi 2 ir daugiau mokinių, dėl įgimtų ar įgytų sutrikimų turinčių vidutinių specialiųjų ugdymosi poreikių, ir (arba) 1–3 mokiniai, dėl įgimtų ar įgytų sutrikimų turintys didelių ar labai didelių specialiųjų ugdymosi poreikių;
@@ -154,37 +179,50 @@ MOKYTOJŲ, DIRBANČIŲ PAGAL PRIEŠMOKYKLINIO UGDYMO PROGRAMĄ, PAREIGINĖS ALGO
 Kvalifikacinė kategorija
 Pastoviosios dalies koeficientai
 pedagoginio darbo stažas (metais)
-iki 3
-nuo daugiau kaip 3 iki 10
+iki 2
+nuo daugiau kaip 2 iki 5
+nuo daugiau kaip 5 iki 10
 nuo daugiau kaip 10 iki 15
-daugiau kaip 15
+nuo daugiau kaip 15 iki 20
+nuo daugiau kaip 20 iki 25
+daugiau kaip 25
 Nesuteiktos kvalifikacinės kategorijos
 Mokytojas
-5,57
-5,92
-6,0
-6,15
-Pedagoginio darbo stažas (metais)
-iki 10
-nuo daugiau kaip 10 iki 15
-daugiau kaip 15
+6,91
+6,94
+7,0
+7,13
+7,35
+7,38
+7,42
 Suteiktos kvalifikacinės kategorijos
 Mokytojas
-5,95
-6,07
-6,18
+7,43
+7,44
+7,45
+7,49
+7,51
+7,54
+7,59
 Vyresnysis mokytojas
-6,52
-6,61
-6,86
+7,6
+7,63
+7,67
+7,97
+8,01
+8,05
 Mokytojas metodininkas
-7,12
-7,32
-7,47
+8,12
+8,27
+8,53
+8,57
+8,62
 Mokytojas ekspertas
-8,1
-8,17
-8,39
+9,24
+9,39
+9,63
+9,67
+9,71
 19. Pareiginės algos pastoviosios dalies koeficientai dėl veiklos sudėtingumo mokytojams, dirbantiems pagal priešmokyklinio ugdymo programą:
 19.1. didinami 5–10 procentų:
 19.1.1. kurių grupėje ugdomi 2 ir daugiau mokinių, dėl įgimtų ar įgytų sutrikimų turinčių vidutinius specialiuosius ugdymosi poreikius, ir (arba) 1–3 mokiniai, turintys didelių ar labai didelių specialiųjų ugdymosi poreikių;
