@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2020 m. rugpjūčio 31 d. įsakymas Nr. D1-502 „Dėl Lietuvos Respublikos aplinkos ministro 2003 m. rugsėjo 25 d. įsakymo Nr. 468 „Dėl Išmetamų į aplinkos orą teršalų kiekio mažinimo tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-18196",
+  "official_journal_page": null,
+  "official_journal_date": "2020-08-31",
+  "entry_into_force": "2020-09-01",
+  "notification_date": "2020-09-01",
+  "commission_reference": "MNE(2020)56505",
+  "nim_celex": "72016L2284LTU_288085",
+  "nim_id": "288085",
+  "transposes_celex": [
+    "32016L2284"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5c75a03a-ee78-11ea-991b-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
