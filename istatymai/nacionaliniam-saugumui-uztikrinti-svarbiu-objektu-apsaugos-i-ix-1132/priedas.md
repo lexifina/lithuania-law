@@ -15,3 +15,4 @@ Pirmos kategorijos nacionaliniam saugumui užtikrinti svarbių įmonių SĄRAŠA
 9. Įmonė, aptarnaujanti civilinį susisiekimą kariniame Šiaulių aerodrome.
 10. Viešieji geriamojo vandens tiekėjai ir nuotekų tvarkytojai, paskirti Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo nustatyta tvarka.
 11. Įmonė, patikėjimo teise valdanti Lietuvos valstybinius miškus.
+12. Įmonė, patikėjimo teise valdanti valstybinės reikšmės automobilių kelius.
