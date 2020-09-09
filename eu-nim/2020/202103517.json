@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos\tviršininko 2020 m. rugpjūčio 11 d. įsakymas Nr. VA-61 \"Dėl Finansų rinkos dalyvio duomenų teikimo apie atidarytas ir uždarytas visų rūšių sąskaitas, seifo kamerų nuomą, asmenų atstovus ir naudos gavėjus taisyklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-17186",
+  "official_journal_page": null,
+  "official_journal_date": "2020-08-10",
+  "entry_into_force": "2020-09-09",
+  "notification_date": "2021-06-03",
+  "commission_reference": "MNE(2021)03517",
+  "nim_celex": "72018L0843LTU_202103517",
+  "nim_id": "202103517",
+  "transposes_celex": [
+    "32018L0843"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6ac526d4-4925-499c-a207-7ef28baa8f63",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
