@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2020 m. rugsėjo 9 d. nutarimas Nr. 998 \"Dėl 2021–2030 metų Nacionalinio pažangos plano patvirtinimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-19293",
+  "official_journal_page": null,
+  "official_journal_date": "2020-09-16",
+  "entry_into_force": "2020-09-17",
+  "notification_date": "2020-09-17",
+  "commission_reference": "MNE(2020)56929",
+  "nim_celex": "72018L0850LTU_288595",
+  "nim_id": "288595",
+  "transposes_celex": [
+    "32018L0850"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c273a5b8-fbdb-11ea-b44f-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
