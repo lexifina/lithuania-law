@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2020 m. rugsėjo 23 d. įsakymas Nr. (1.9E)1V-933 „Dėl Radijo ryšio plėtros 24,25–27,5 GHz radijo dažnių juostoje plano patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-19786",
+  "official_journal_page": null,
+  "official_journal_date": "2020-09-24",
+  "entry_into_force": "2020-09-25",
+  "notification_date": "2022-04-13",
+  "commission_reference": "MNE(2022)02461",
+  "nim_celex": "72018L1972LTU_202202461",
+  "nim_id": "202202461",
+  "transposes_celex": [
+    "32018L1972"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a4768d43-c08c-11ec-b6f4-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
