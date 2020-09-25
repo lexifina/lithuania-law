@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ekonomikos ir inovacijų ministro 2020 m. rugsėjo 25 d. įsakymas Nr. 4-816 \"Dėl Lietuvos Respublikos ūkio ministro 2007 m. liepos 2 d. įsakymo Nr. 4-270 \"Dėl energijos efektyvumo veiksmų plano patvirtinimo\" pripažinimo netekusiu galios\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-19914",
+  "official_journal_page": null,
+  "official_journal_date": "2020-09-24",
+  "entry_into_force": "2020-09-25",
+  "notification_date": "2021-06-10",
+  "commission_reference": "MNE(2021)03913",
+  "nim_celex": "72009L0072LTU_202103913",
+  "nim_id": "202103913",
+  "transposes_celex": [
+    "32009L0072"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bfb916fe-ca98-11eb-84ce-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
