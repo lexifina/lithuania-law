@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2020 m. rugsėjo 25 d. įsakymas Nr. 1-312 \"Dėl Lietuvos Respublikos energetikos ministro 2013 m. kovo 26 d. įsakymo Nr. 1-67 \"Dėl metodikų patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-19959",
+  "official_journal_page": null,
+  "official_journal_date": "2020-09-25",
+  "entry_into_force": "2020-09-26",
+  "notification_date": "2020-09-29",
+  "commission_reference": "MNE(2020)57143",
+  "nim_celex": "72018L0844LTU_288900",
+  "nim_id": "288900",
+  "transposes_celex": [
+    "32018L0844"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/52f9bdb5-0477-11eb-a511-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
