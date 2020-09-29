@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2020 m. rugsėjo 28 d. įsakymas Nr. D1-576 \"Dėl Lietuvos Respublikos aplinkos ministro 2016 m. lapkričio 11 d. įsakymo Nr. D1-754 „Dėl statybos techninio reglamento STR 2.01.02:2016 „Pastatų energinio naudingumo projektavimas ir sertifikavimas“ patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-20131",
+  "official_journal_page": null,
+  "official_journal_date": "2020-09-28",
+  "entry_into_force": "2020-09-29",
+  "notification_date": "2020-09-29",
+  "commission_reference": "MNE(2020)57166",
+  "nim_celex": "72018L0844LTU_288923",
+  "nim_id": "288923",
+  "transposes_celex": [
+    "32018L0844"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0b9d00a5-0477-11eb-a511-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
