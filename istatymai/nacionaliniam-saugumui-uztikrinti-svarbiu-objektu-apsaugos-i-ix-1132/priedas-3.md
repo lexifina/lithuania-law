@@ -7,3 +7,4 @@ trečios kategorijos nacionaliniam saugumui užtikrinti svarbių įmonių SĄRA�
 2. Akcinė bendrovė „Achema“.
 3. Projekto įgyvendinimo bendrovė, numatyta Lietuvos Respublikos branduolinės (atominės) elektrinės įstatyme.
 4. Telia Lietuva, AB.
+5. Įmonė, teikianti penktosios kartos judriojo ryšio (5G) paslaugas ar valdanti šioms paslaugoms teikti reikalingą infrastruktūrą. Vyriausybė ar jos įgaliota institucija nustato kriterijus, pagal kuriuos įmonė laikoma teikianti penktosios kartos judriojo ryšio (5G) paslaugas ar valdanti šioms paslaugoms teikti reikalingą infrastruktūrą.
