@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro ir Lietuvos Respublikos ekonomikos ir inovacijų ministro 2020 m. rugsėjo 28 d. įsakymas Nr. 1-314/4-818 \"Dėl Lietuvos Respublikos energetikos ministro ir Lietuvos Respublikos ūkio ministro 2012 m. gruodžio 10 d. įsakymo Nr. 1-256/4-1205 \"Dėl reglamentų patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-20594",
+  "official_journal_page": null,
+  "official_journal_date": "2020-10-02",
+  "entry_into_force": "2020-10-03",
+  "notification_date": "2020-10-27",
+  "commission_reference": "MNE(2020)57254",
+  "nim_celex": "72018L0844LTU_289043",
+  "nim_id": "289043",
+  "transposes_celex": [
+    "32018L0844"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7f304cef-1a80-11eb-b57e-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
