@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 pakeitimo įstatymas Nr. XIII-2987 (suvestinė redakcija nuo 2020-11-01)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-12819",
+  "official_journal_page": null,
+  "official_journal_date": "2020-06-10",
+  "entry_into_force": "2020-10-31",
+  "notification_date": "2021-02-01",
+  "commission_reference": "MNE(2021)00324",
+  "nim_celex": "72016L0798LTU_202100324",
+  "nim_id": "202100324",
+  "transposes_celex": [
+    "32016L0798"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/417a1be0-8098-4bf3-8e08-cea64fe602d8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
