@@ -23,12 +23,9 @@ objektai, turintys skerdyklas, skerdyklos, kurių gamybos pajėgumas – 5 ir da
 4.
 Žuvų perdirbimas ir konservavimas:
 10.2
-4.1.
-objektai, kurių gamybos pajėgumas – 5 ir daugiau tonų žuvies per parą;
-100
-4.2.
-objektai, kurių gamybos pajėgumas – iki 5 tonų žuvies per parą
-50
+4.1. 4.2. 4.3.
+objektai, kurių gamybos pajėgumas – 5 ir daugiau tonų žuvies per parą; objektai, kurių gamybos pajėgumas – iki 5 tonų žuvies per parą, išskyrus šios lentelės 4.3 papunktyje nurodytus atvejus; objektai, kurių pajėgumas – 50 ir mažiau kilogramų žuvies per parą, kai gamyba vykdoma savivaldybės tarybos nustatyta tvarka
+100 50 0
 5.
 Gyvūninių ir augalinių riebalų bei aliejaus gamyba, kai gamybos pajėgumas – 5 ir daugiau tonų per parą
 10.4
