@@ -43,19 +43,21 @@ Su darbu užsienyje susijusių išlaidų kompensacijos koeficientai
 2.1.8. kurių pareigybės priskirtos 11 pareigybių grupei
 4,27
 2.2. Prokurorai:
-2.2.1. kurių pareiginės algos koeficientas 20,2–21,2
-9,70
+2.2.1. kurių pareiginės algos koeficientas 20,2–22,9
+10,87
 2.2.2. kurių pareiginės algos koeficientas 19,0–19,2
-8,93
+9,70
 2.2.3. kurių pareiginės algos koeficientas 18,5–18,6
-8,15
+8,93
 2.2.4. kurių pareiginės algos koeficientas 17,3–17,7
-6,99
+8,15
 2.2.5. kurių pareiginės algos koeficientas 16,5–17,0
-5,82
+6,99
 2.2.6. kurių pareiginės algos koeficientas 15,7–16,0
+5,82
+2.2.7. kurių pareiginės algos koeficientas 15,2
 5,05
-2.2.7. kurių pareiginės algos koeficientas 13,9–15,2
+2.2.8. kurių pareiginės algos koeficientas 13,9
 4,27
 2.3. Vidaus tarnybos sistemos pareigūnai:
 2.3.1. kurių pareigybės priskirtos 1–2 pareigybių grupei
