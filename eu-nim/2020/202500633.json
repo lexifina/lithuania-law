@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos viešojo administravimo įstatymas Nr. VIII-1234  (Suvestinė redakcija 2024-01-01 - 2024-12-23)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-12819",
+  "official_journal_page": null,
+  "official_journal_date": "2020-06-11",
+  "entry_into_force": "2020-11-01",
+  "notification_date": "2025-01-23",
+  "commission_reference": "MNE(2025)00633",
+  "nim_celex": "72022L2557LTU_202500633",
+  "nim_id": "202500633",
+  "transposes_celex": [
+    "32022L2557"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5cc42963-3c16-4c47-8e92-080f35816f28",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
