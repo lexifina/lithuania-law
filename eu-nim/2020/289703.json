@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2020 m. spalio 28 d. nutarimas Nr. 1216 \"Dėl Lietuvos Respublikos Vyriausybės 2004 m. rugpjūčio 17 d. nutarimo Nr. 966 „Dėl Pramoninių avarijų prevencijos, likvidavimo ir tyrimo nuostatų ir Pavojingųjų medžiagų ir mišinių sąrašo, jų kvalifikacinių kiekių nustatymo ir cheminių medžiagų bei mišinių priskyrimo pavojingosioms medžiagoms kriterijų aprašo patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-22875",
+  "official_journal_page": null,
+  "official_journal_date": "2020-11-03",
+  "entry_into_force": "2020-11-04",
+  "notification_date": "2020-11-04",
+  "commission_reference": "MNE(2020)57799",
+  "nim_celex": "72012L0018LTU_289703",
+  "nim_id": "289703",
+  "transposes_celex": [
+    "32012L0018"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/dfc16627-1ffe-11eb-b57e-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
