@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos generalinio prokuroro 2020 m. lapkričio 16 d. įsakymas Nr. I-358 \"Dėl Rekomendacijų dėl pinigų plovimo nusikalstamų veikų (BK 189, 216 straipsniai) ikiteisminio tyrimo patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-23984",
+  "official_journal_page": null,
+  "official_journal_date": "2020-11-16",
+  "entry_into_force": "2020-11-17",
+  "notification_date": "2020-11-17",
+  "commission_reference": "MNE(2020)58007",
+  "nim_celex": "72018L1673LTU_289934",
+  "nim_id": "289934",
+  "transposes_celex": [
+    "32018L1673"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d2e77344-2b00-11eb-9d7e-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
