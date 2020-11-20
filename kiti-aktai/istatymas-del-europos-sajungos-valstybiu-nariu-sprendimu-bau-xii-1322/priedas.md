@@ -12,3 +12,4 @@ priedas
 4. 2009 m. spalio 23 d. Tarybos pamatinis sprendimas 2009/829/TVR dėl tarpusavio pripažinimo principo taikymo sprendimams dėl kardomųjų priemonių Europos Sąjungos valstybėse narėse kaip alternatyvos kardomajam kalinimui (OL 2009 L 294, p. 20).
 5. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/99/ES dėl Europos apsaugos orderio (OL 2011 L 338, p. 2).
 6. 2014 m. balandžio 3 d. Europos Parlamento ir Tarybos direktyva 2014/41/ES dėl Europos tyrimo orderio baudžiamosiose bylose (OL 2014 L 130, p. 1).
+7. 2017 m. spalio 12 d. Europos Tarybos reglamentas (ES) 2017/1939, kuriuo įgyvendinamas tvirtesnis bendradarbiavimas Europos prokuratūros įsteigimo srityje.
