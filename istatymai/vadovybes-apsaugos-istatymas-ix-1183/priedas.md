@@ -2,8 +2,8 @@
 Lietuvos Respublikos
 vadovybės apsaugos įstatymo
 priedas
-LIETUVOS RESPUBLIKOS VADOVYBËS APSAUGOS TARNYBOS PAREIGÛNØ PAREIGINËS ALGOS
-(Baziniais dydiais)
+LIETUVOS RESPUBLIKOS VADOVYBĖS APSAUGOS TARNYBOS PAREIGŪNŲ PAREIGINĖS ALGOS
+(Baziniais dydžiais)
 Eil.
 Pareigybės pavadinimas
 Pareiginės algos koeficientas
