@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro ir Lietuvos Respublikos sveikatos apsaugos ministro 2020 m. lapkričio 20 d. įsakymas Nr. A1-1138/V-2677 „Dėl Lietuvos Respublikos socialinės apsaugos ir darbo ministro ir Lietuvos Respublikos sveikatos apsaugos ministro 2001 m. birželio 21 d. įsakymo Nr. 80/353 „Dėl Darbuotojų apsaugos nuo biologinių medžiagų poveikio darbe nuostatų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-24638",
+  "official_journal_page": null,
+  "official_journal_date": "2020-11-20",
+  "entry_into_force": "2020-11-24",
+  "notification_date": "2020-11-23",
+  "commission_reference": "MNE(2020)58099",
+  "nim_celex": "72000L0054LTU_290026",
+  "nim_id": "290026",
+  "transposes_celex": [
+    "32000L0054"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d2679258-5883-482a-9ec3-3d580eb77225",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
