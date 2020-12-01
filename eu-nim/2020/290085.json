@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Seimo 2020 m. lapkričio 10 d. nutarimas Nr. XIII-3435 \"Dėl Lietuvos Respublikos Seimo 2002 m. gegužės 30 d. nutarimo Nr. IX-912 \"Dėl Rezervinio (stabilizavimo) fondo nuostatų patvirtinimo\" pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-23763",
+  "official_journal_page": null,
+  "official_journal_date": "2020-11-12",
+  "entry_into_force": "2020-12-01",
+  "notification_date": "2020-11-25",
+  "commission_reference": "MNE(2020)58158",
+  "nim_celex": "72011L0070LTU_290085",
+  "nim_id": "290085",
+  "transposes_celex": [
+    "32011L0070"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/dc73c8ea-d929-409f-8842-c6f6c5e2242b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
