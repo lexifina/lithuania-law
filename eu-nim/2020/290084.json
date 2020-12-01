@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos valstybės iždo įstatymo Nr. I-712 10-1 straipsnio pakeitimo įstatymas Nr. XIII-3427",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-24604",
+  "official_journal_page": null,
+  "official_journal_date": "2020-11-20",
+  "entry_into_force": "2020-12-01",
+  "notification_date": "2020-11-25",
+  "commission_reference": "MNE(2020)58157",
+  "nim_celex": "72011L0070LTU_290084",
+  "nim_id": "290084",
+  "transposes_celex": [
+    "32011L0070"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d1fecc25-6576-45be-9c78-949f1a506aae",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
