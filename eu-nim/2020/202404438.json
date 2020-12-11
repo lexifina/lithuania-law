@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Seimo 2020 m. gruodžio 11 d. nutarimas Nr. XIV-72 „Dėl Aštuonioliktosios Lietuvos Respublikos Vyriausybės programos“",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-27121",
+  "official_journal_page": null,
+  "official_journal_date": "2020-12-11",
+  "entry_into_force": "2020-12-11",
+  "notification_date": "2024-11-11",
+  "commission_reference": "MNE(2024)04438",
+  "nim_celex": "72022L2041LTU_202404438",
+  "nim_id": "202404438",
+  "transposes_celex": [
+    "32022L2041"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/457dc035-6aaa-48bc-a2c2-a0957966cd61",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
