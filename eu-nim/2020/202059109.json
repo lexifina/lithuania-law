@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2020 m. lapkričio 18 d. nutarimas Nr. 1298 \"Dėl Lietuvos Respublikos Vyriausybės 2018 m. rugpjūčio 13 d. nutarimo Nr. 818 „Dėl Lietuvos Respublikos kibernetinio saugumo įstatymo įgyvendinimo“ pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-24708",
+  "official_journal_page": null,
+  "official_journal_date": "2020-11-22",
+  "entry_into_force": "2020-12-20",
+  "notification_date": "2021-01-05",
+  "commission_reference": "MNE(2020)59109",
+  "nim_celex": "72018L1972LTU_202059109",
+  "nim_id": "202059109",
+  "transposes_celex": [
+    "32018L1972"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/11b32222-4191-4ba7-8e82-861ddadb23be",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
