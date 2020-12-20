@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2020 m. lapkričio 23 d. įsakymas Nr. (1.9E)1V-1073 \"Dėl Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2005 m. lapkričio 17 d. įsakymo Nr. 1V-986 „Dėl galutinių paslaugų gavėjų įrangos, skirtos televizijos signalams priimti, sąveikos“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-24959",
+  "official_journal_page": null,
+  "official_journal_date": "2020-11-24",
+  "entry_into_force": "2020-12-20",
+  "notification_date": "2021-01-05",
+  "commission_reference": "MNE(2020)59112",
+  "nim_celex": "72018L1972LTU_202059112",
+  "nim_id": "202059112",
+  "transposes_celex": [
+    "32018L1972"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3b570a29-bec9-4652-961a-bd60736dc478",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
