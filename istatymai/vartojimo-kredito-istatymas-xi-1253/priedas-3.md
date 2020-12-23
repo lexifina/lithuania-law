@@ -1,4 +1,5 @@
-# Lietuvos Respublikos
+# part_1ddeb2b9bd8a48a8bc5cdb60629b77db_end
+Lietuvos Respublikos
 vartojimo kredito įstatymo
 3 priedas
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
