@@ -28,3 +28,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2020-07-01 | 2020-11-20 | Įstatymas Nr. XIII-2853 / Įstatymas Nr. XIII-2887 / Įstatymas Nr. XIII-2892 / Įstatymas Nr. XIII-2925 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/348a135e42a5071594dc33ddc70dee5b7b201306/istatymai/TAR.0F9036415DBD.md) |
 | 2020-11-21 | 2020-12-15 | Įstatymas Nr. XIII-3387 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/bf8f4ba7d7ec2d0e8f14222dfff5b51c953dd90a/istatymai/TAR.0F9036415DBD.md) |
 | 2020-12-16 | 2020-12-29 | Įstatymas Nr. XIV-36 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/6c0fef6507fdd6530c31d390ceb1b1d3d3abaf09/istatymai/TAR.0F9036415DBD.md) |
+| 2020-12-30 | 2020-12-31 | Įstatymas Nr. XIV-123 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/691cb1fb39bf0ba943109cc7ac3e79c1196315b4/istatymai/TAR.0F9036415DBD.md) |
