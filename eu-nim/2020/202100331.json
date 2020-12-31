@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2020 m. gruodžio 31 d. įsakymas Nr. 3-794 „Dėl Lietuvos Respublikos susisiekimo ministro 2006 m. liepos 17 d. įsakymo Nr. 3-297 „Dėl Geležinkelių transporto eismo saugos valdymo sistemų reikalavimų aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-29279",
+  "official_journal_page": null,
+  "official_journal_date": "2020-12-30",
+  "entry_into_force": "2020-12-31",
+  "notification_date": "2021-02-01",
+  "commission_reference": "MNE(2021)00331",
+  "nim_celex": "72016L0798LTU_202100331",
+  "nim_id": "202100331",
+  "transposes_celex": [
+    "32016L0798"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4788df01-6ceb-43cc-b4db-67e4b99d2480",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
