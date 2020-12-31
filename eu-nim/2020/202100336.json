@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2020 m. gruodžio 30 d. įsakymas Nr. 3-785 „Dėl Lietuvos Respublikos susisiekimo ministro 2006 m. gruodžio 22 d. įsakymo Nr. 3-507 \"Dėl Leidimų pradėti naudoti Lietuvos Respublikoje geležinkelių sistemos struktūrinius posistemius ir geležinkelių riedmenis išdavimo taisyklių patvirtinimo“ pakeitimo",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-29217",
+  "official_journal_page": null,
+  "official_journal_date": "2020-12-29",
+  "entry_into_force": "2020-12-31",
+  "notification_date": "2021-02-01",
+  "commission_reference": "MNE(2021)00336",
+  "nim_celex": "72016L0798LTU_202100336",
+  "nim_id": "202100336",
+  "transposes_celex": [
+    "32016L0798"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a151fa3a-779c-4d5f-9247-ea2bba5a68ce",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
