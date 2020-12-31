@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2020 m. gruodžio 29 d. įsakymas Nr. V-3044 \"Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2011 m. spalio 13 d. įsakymo Nr. V-900 „Dėl Radioaktyviosiose medžiagose esančių radionuklidų išmetimo į aplinką iš medicinos, pramonės objektų, išskyrus branduolinės energetikos objektus, ir atliekant mokslinius tyrimus leidžiamųjų lygių nustatymo, radioaktyviųjų medžiagų išmetimo į aplinką plano rengimo, derinimo ir radiologinės stebėsenos tvarkos aprašo patvirtinimo“ pakeitimo",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-28989",
+  "official_journal_page": null,
+  "official_journal_date": "2020-12-28",
+  "entry_into_force": "2020-12-31",
+  "notification_date": "2021-01-27",
+  "commission_reference": "MNE(2021)00133",
+  "nim_celex": "72013L0059LTU_202100133",
+  "nim_id": "202100133",
+  "transposes_celex": [
+    "32013L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/74b6eaa8-ff79-4929-b764-4ced86208c12",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
