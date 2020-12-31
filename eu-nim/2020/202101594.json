@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 19 straipsnio ir 2 priedo pakeitimo įstatymas Nr. XIV-113",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-28971",
+  "official_journal_page": null,
+  "official_journal_date": "2020-12-28",
+  "entry_into_force": "2020-12-31",
+  "notification_date": "2021-03-04",
+  "commission_reference": "MNE(2021)01594",
+  "nim_celex": "72020L2020LTU_202101594",
+  "nim_id": "202101594",
+  "transposes_celex": [
+    "32020L2020"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2e9cffea-0b94-4fde-9a4c-317a82a5277e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
