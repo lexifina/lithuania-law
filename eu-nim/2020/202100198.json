@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos radiacinės saugos įstatymo Nr. VIII-1019 2, 5, 6, 12, 23, 28 straipsnių ir 1, 2 priedų pakeitimo įstatymas Nr. XIII-3364",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-24520",
+  "official_journal_page": null,
+  "official_journal_date": "2020-11-19",
+  "entry_into_force": "2020-12-31",
+  "notification_date": "2021-01-27",
+  "commission_reference": "MNE(2021)00198",
+  "nim_celex": "72013L0059LTU_202100198",
+  "nim_id": "202100198",
+  "transposes_celex": [
+    "32013L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ebf7ea98-b121-4cb0-aeb5-bc0183dffd0b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
