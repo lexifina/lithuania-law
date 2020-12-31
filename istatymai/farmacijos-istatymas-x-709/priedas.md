@@ -14,4 +14,4 @@ priedas
 10. 2011 m. kovo 9 d. Europos Parlamento ir Tarybos direktyva 2011/24/ES dėl pacientų teisių į tarpvalstybines sveikatos priežiūros paslaugas įgyvendinimo (OL 2011 L 88, p. 45).
 11. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 536/2014 dėl žmonėms skirtų vaistų klinikinių tyrimų, kuriuo panaikinama Direktyva 2001/20/EB (OL 2014 L 158, p. 1).
 12. 2015 m. spalio 2 d. Komisijos deleguotasis reglamentas (ES) 2016/161, kuriuo nustatomos išsamios apsaugos priemonių ant žmonėms skirtų vaistų pakuotės naudojimo taisyklės ir taip papildoma Europos Parlamento ir Tarybos direktyva 2001/83/EB (OL 2016 L 32, p. 1).
-part_64586339d0164c7fb9b9dd5987b0bbca_end
+part_ad930495085b4c189e0608cf6cdfe1f3_end
