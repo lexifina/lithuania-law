@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2020 m. gruodžio 30 d. įsakymas Nr. 3-787 „Dėl Lietuvos Respublikos susisiekimo ministro 2013 m. gruodžio 31 d. įsakymo Nr. 3-660 „Dėl Geležinkelių sistemos sąveikaujančių dalių tiekimo į rinką taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-29219",
+  "official_journal_page": null,
+  "official_journal_date": "2020-12-29",
+  "entry_into_force": "2020-12-31",
+  "notification_date": "2021-02-01",
+  "commission_reference": "MNE(2021)00322",
+  "nim_celex": "72016L0797LTU_202100322",
+  "nim_id": "202100322",
+  "transposes_celex": [
+    "32016L0797"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b8dc726d-ff10-4703-91e4-933479c668b6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
