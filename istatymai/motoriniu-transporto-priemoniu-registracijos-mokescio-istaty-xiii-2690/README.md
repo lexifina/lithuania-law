@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2020-07-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/d8fb17a420ff6f92ff039d73eb92394f51d257ba/istatymai/TAR.10C22FE02ACF.md) |
+| 2021-01-01 | 2021-12-31 | Įstatymas Nr. XIII-3423 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/6b099ccb24aa999fcc0aa636bd42873bf399a124/istatymai/TAR.10C22FE02ACF.md) |
