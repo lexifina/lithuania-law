@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2020 m. lapkričio 24 d. įsakymas Nr. D1-713 „Dėl Lietuvos Respublikos aplinkos ministro 2007 m. sausio 25 d. įsakymo Nr. D1-57 „Dėl Biologiškai skaidžių atliekų kompostavimo, anaerobinio apdorojimo aplinkosauginių reikalavimų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-24830",
+  "official_journal_page": null,
+  "official_journal_date": "2020-11-24",
+  "entry_into_force": "2021-01-01",
+  "notification_date": "2020-12-02",
+  "commission_reference": "MNE(2020)58297",
+  "nim_celex": "72018L0851LTU_290248",
+  "nim_id": "290248",
+  "transposes_celex": [
+    "32018L0851"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4d623dec-094e-404d-8506-38ab6987be22",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
