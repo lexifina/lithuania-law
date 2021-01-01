@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 2, 3, 6, 11, 14, 15, 16, 50, 52 ir 86 straipsnių pakeitimo įstatymas Nr. XIII-2772",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-02007",
+  "official_journal_page": null,
+  "official_journal_date": "2020-01-29",
+  "entry_into_force": "2021-01-01",
+  "notification_date": "2024-09-23",
+  "commission_reference": "MNE(2024)03482",
+  "nim_celex": "71992L0029LTU_202403482",
+  "nim_id": "202403482",
+  "transposes_celex": [
+    "31992L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ff968efb-d8c3-416b-b715-53281183e153",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
