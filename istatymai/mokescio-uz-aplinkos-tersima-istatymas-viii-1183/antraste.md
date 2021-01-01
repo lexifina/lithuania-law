@@ -1,3 +1,1 @@
-MOKESČIO UŽ APLINKOS TERŠIMĄ
-ĮSTATYMAS
 1999 m. gegužės 13 d. Nr. VIII-1183 Vilnius
