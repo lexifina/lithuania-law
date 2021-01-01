@@ -16,3 +16,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2018-11-01 | 2020-01-09 | Įstatymas Nr. XIII-1440 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/465d0644c49807c13160a123dcce109cd3022f3e/istatymai/TAR.C44837068B55.md) |
 | 2020-01-10 | 2020-07-09 | Įstatymas Nr. XIII-2584 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/42b841dd6995c5aa623113092af24596134798cf/istatymai/TAR.C44837068B55.md) |
 | 2020-07-10 | 2020-12-31 | Įstatymas Nr. XIII-568 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/3c42c983c22fed2055e6a4a24a0d53e7a3b217e2/istatymai/TAR.C44837068B55.md) |
+| 2021-01-01 | 2021-05-27 | Įstatymas Nr. XIV-63 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/18365696af5ad2161da054db0e5b070801227e88/istatymai/TAR.C44837068B55.md) |
