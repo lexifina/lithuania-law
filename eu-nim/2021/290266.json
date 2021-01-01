@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos geležinkelių transporto kodekso 7, 13 straipsnių pakeitimo ir 11, 16 straipsnių pripažinimo netekusiais galios įstatymas Nr. XIII-3417",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-24590",
+  "official_journal_page": null,
+  "official_journal_date": "2020-11-20",
+  "entry_into_force": "2021-01-01",
+  "notification_date": "2020-12-02",
+  "commission_reference": "MNE(2020)58315",
+  "nim_celex": "72016L0798LTU_290266",
+  "nim_id": "290266",
+  "transposes_celex": [
+    "32016L0798"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6e20a5f1-d5bd-43e3-86a2-817d44c19d83",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
