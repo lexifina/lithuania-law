@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo Nr. IX-1905 pakeitimo įstatymas Nr. XIII-3424",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-24593",
+  "official_journal_page": null,
+  "official_journal_date": "2020-11-20",
+  "entry_into_force": "2021-01-01",
+  "notification_date": "2020-11-30",
+  "commission_reference": "MNE(2020)58268",
+  "nim_celex": "72016L0797LTU_290219",
+  "nim_id": "290219",
+  "transposes_celex": [
+    "32016L0797"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1f13de28-75b2-43ec-93f1-433c3adac174",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
