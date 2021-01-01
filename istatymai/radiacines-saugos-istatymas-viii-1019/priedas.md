@@ -17,7 +17,7 @@ REGISTRUOJAMOS VEIKLOS RŪŠIŲ SĄRAŠAS
 12. Veikla jonizuojančiosios spinduliuotės aplinkoje, išskyrus branduolinės energetikos objekte, pas kitą asmenį, turintį licenciją, kai darbuotojai priskiriami B kategorijos darbuotojams.
 13. Veikla jonizuojančiosios spinduliuotės aplinkoje branduolinės energetikos objekto stebimojoje zonoje, kai darbuotojai priskiriami B kategorijos darbuotojams.
 14. Veikla gamtinės kilmės radioaktyviųjų medžiagų nulemtos jonizuojančiosios spinduliuotės aplinkoje, kai:
-14.1. darbo vietose, kuriose, nepaisant veiksmų, kurie buvo taikyti optimizuojant radiacinę saugą, metinis vidutinis radono tūrinis aktyvumas ir toliau viršija sveikatos apsaugos ministro nustatytą atskaitos lygį;
+14.1. darbo vietose, kuriose, nepaisant veiksmų, kurie taikyti optimizuojant radiacinę saugą, metinė vidutinė radono aktyvumo koncentracija ir toliau viršija sveikatos apsaugos ministro nustatytą atskaitos lygį;
 14.2. vykdoma veikla su gamtinės kilmės radioaktyviosiomis medžiagomis, nustatyta sveikatos apsaugos ministro, kai tokia veikla nulemia darbuotojų metines efektines dozes, viršijančias 1 mSv;
 14.3. vykdoma veikla esamos apšvitos situacijos, į kurią būtina atsižvelgti radiacinės saugos požiūriu ir kuriai taikomi radiacinės saugos reikalavimai, nustatyti šiame įstatyme ir kituose teisės aktuose, reglamentuojančiuose radiacinę saugą, sąlygomis, kai tokia veikla nulemia darbuotojų metines efektines dozes, viršijančias 1 mSv;
 14.4. orlaivių įgulų narių metinė efektinė dozė viršija 6 mSv
