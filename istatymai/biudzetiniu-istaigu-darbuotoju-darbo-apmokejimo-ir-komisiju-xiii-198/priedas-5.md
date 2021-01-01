@@ -7,10 +7,10 @@ nuo daugiau kaip 2 iki 5
 nuo daugiau kaip 5 iki 10
 daugiau kaip 10
 C lygis
-4,0–5,83
-4,03–5,94
-4,06–6,16
-4,08–7,7
+4,2–5,9
+4,3–6
+4,4–6,2
+4,5–7,8
 Lietuvos Respublikos
 valstybės ir savivaldybių įstaigų
 darbuotojų darbo apmokėjimo ir
@@ -355,27 +355,27 @@ nuo daugiau kaip 10 iki 15
 daugiau kaip 15
 Nesuteiktos kvalifikacinės kategorijos
 Auklėtojas, koncertmeisteris, akompaniatorius
-4,1
-4,36
-4,41
-4,52
+5,1
+5,2
+5,25
+5,3
 Pedagoginio darbo stažas (metais)
 iki 10
 nuo daugiau kaip 10 iki 15
 daugiau kaip 15
 Suteiktos kvalifikacinės kategorijos
 Auklėtojas, koncertmeisteris, akompaniatorius
-4,37
-4,47
-4,54
-Vyresnysis auklėtojas, vyresnysis koncertmeisteris, vyresnysis akompaniatorius
-4,79
-4,86
-5,05
-Auklėtojas metodininkas, koncertmeisteris metodininkas, akompaniatorius metodininkas
-5,23
-5,38
+5,4
+5,45
 5,5
+Vyresnysis auklėtojas, vyresnysis koncertmeisteris, vyresnysis akompaniatorius
+5,6
+5,65
+5,7
+Auklėtojas metodininkas, koncertmeisteris metodininkas, akompaniatorius metodininkas
+5,75
+5,8
+5,85
 Auklėtojas ekspertas, koncertmeisteris ekspertas, akompaniatorius ekspertas
 5,95
 6,02
@@ -424,25 +424,25 @@ iki 10 metų
 nuo daugiau kaip 10 iki 15 metų
 daugiau kaip 15 metų
 iki 200
-7,6–10,71
-7,8–11,1
-8,0–11,37
+10,71
+11,1
+11,37
 201–400
-8,4–11,7
-8,6–11,8
-8,8–11,81
+11,7
+11,8
+11,81
 401–600
-9,0–11,74
-9,2–11,82
-9,4–11,85
+11,74
+11,82
+11,85
 601–1 000
-9,6–12,6
-9,8–12,62
-10,0–12,65
+12,6
+12,62
+12,65
 1 001 ir daugiau
-10,2–12,6
-10,4–12,64
-10,6–12,68
+12,62
+12,64
+12,68
 43. Mokyklų vadovų pavaduotojų ugdymui pareiginės algos pastoviosios dalies koeficientai:
 (Baziniais dydžiais)
 Mokinių skaičius
@@ -452,13 +452,13 @@ iki 10
 nuo daugiau kaip 10 iki 15
 daugiau kaip 15
 iki 500
-5,76–10,44
-5,97–10,46
-6,15–10,48
+10,44
+10,46
+10,48
 501 ir daugiau
-7,16–10,5
-7,45–10,65
-7,66–10,8
+10,5
+10,65
+10,8
 44. Pareiginės algos pastoviosios dalies koeficientai dėl veiklos sudėtingumo:
 44.1. didinami 5–10 procentų:
 44.1.1. ikimokyklinio ugdymo mokyklų, bendrojo ugdymo mokyklų, išskyrus šio priedo 44.2.1 ir 44.2.2 papunkčiuose nurodytas mokyklas, profesinio mokymo įstaigų vadovams ir jų pavaduotojams ugdymui, atsakingiems už mokinių, turinčių specialiųjų ugdymosi poreikių, ugdymo organizavimą, jeigu šiose įstaigose ugdoma (mokoma) 10 ir daugiau mokinių, dėl įgimtų ar įgytų sutrikimų turinčių didelių ar labai didelių specialiųjų ugdymosi poreikių;
@@ -477,11 +477,11 @@ MOKYKLŲ UGDYMĄ ORGANIZUOJANČIŲ SKYRIŲ VEDĖJŲ PAREIGINĖS ALGOS PASTOVIOSI
 Pedagoginio darbo stažas (metais)
 Pastoviosios dalies koeficientai
 iki 10
-4,85–8,68
+9,1
 nuo daugiau kaip 10 iki 15
-5,09–8,72
+9,5
 daugiau kaip 15
-5,35–8,89
+10
 48. Pareiginės algos pastoviosios dalies koeficientai dėl veiklos sudėtingumo:
 48.1. didinami 5–10 procentų:
 48.1.1. ikimokyklinio ugdymo mokyklų, bendrojo ugdymo mokyklų, išskyrus šio priedo 48.2.1 ir 48.2.2 papunkčiuose nurodytas mokyklas, profesinio mokymo įstaigų ugdymą organizuojančių skyrių vedėjams, atsakingiems už mokinių, turinčių specialiųjų ugdymosi poreikių, ugdymo organizavimą, arba jeigu skyriuje ugdoma (mokoma) 5 ir daugiau mokinių, dėl įgimtų ar įgytų sutrikimų turinčių didelių ar labai didelių specialiųjų ugdymosi poreikių;

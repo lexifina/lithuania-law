@@ -7,15 +7,15 @@ nuo daugiau kaip 2 iki 5
 nuo daugiau kaip 5 iki 10
 daugiau kaip 10
 A lygis
-4,7–8,36
-4,73–9,35
-4,8–10,45
-5,01–11,55
+5–8,4
+5,1–9,4
+5,2–10,5
+5,3–11,6
 B lygis
-4,3–8,03
-4,35–8,14
-4,43–8,36
-4,49–8,8
+4,6–8,1
+4,7–8,2
+4,8–8,4
+4,9–8,9
 Lietuvos Respublikos
 valstybės ir savivaldybių įstaigų darbuotojų
 darbo apmokėjimo ir komisijų narių atlygio

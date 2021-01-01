@@ -2,34 +2,34 @@
 vadovų pavaduotojų
 I grupė (201 ir daugiau pareigybių)
 iki 5
-6,72–14,08
-6,03–12,67
+7,1–14,1
+6,4–12,7
 nuo daugiau kaip 5 iki 10
-6,86–14,41
-6,09–12,97
+7,2–14,5
+6,5–13
 daugiau kaip 10
-7,0–14,74
-6,27–13,53
+7,3–14,8
+6,6–13,6
 II grupė (51–200 pareigybių)
 iki 5
-6,44–13,64
-5,96–12,28
+6,8–13,7
+6,2–12,3
 nuo daugiau kaip 5 iki 10
-6,58–13,86
-6,0–12,47
+6,9–13,9
+6,3–12,5
 daugiau kaip 10
-6,72–14,08
-6,03–12,67
+7–14,1
+6,4–12,7
 III grupė (50 ir mažiau pareigybių)
 iki 5
-6,16–13,2
-5,77–11,88
+6,5–13,3
+6–11,9
 nuo daugiau kaip 5 iki 10
-6,3–13,42
-5,84–12,1
+6,6–13,5
+6,1–12,2
 daugiau kaip 10
-6,44–13,64
-5,93–12,28
+6,7–13,7
+6,2–12,3
 Lietuvos Respublikos
 valstybės ir savivaldybių įstaigų darbuotojų
 darbo apmokėjimo ir komisijų narių atlygio
@@ -52,25 +52,25 @@ iki 5
 nuo daugiau kaip 5 iki 10
 daugiau kaip 10
 iki 5
-5,04–10,45
-5,18–10,67
-5,32–11,75
-4,76–9,77
-4,97–9,96
-5,11–10,15
+5,9–10,5
+6–10,7
+6,1–12
+4,8–9,8
+5–10
+5,2–10,2
 nuo daugiau kaip 5 iki 10
-5,18–10,51
-5,32–10,89
-5,46–11,8
-4,97–9,96
-5,11–10,15
-5,24–10,35
+6–10,6
+6,1–10,9
+6,2–12,1
+5–10
+5,2–10,2
+5,3–10,4
 daugiau kaip 10
-5,32–10,56
-5,46–11,11
-5,6–12,1
-5,11–10,15
-5,24–10,35
-5,38–10,55
+6,1–10,7
+6,2–11,2
+6,3–12,2
+5,2–10,2
+5,3–10,4
+5,4–10,6
 II SKYRIUS
 VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ ADMINISTRACIJOS IR STRUKTŪRINIŲ PADALINIŲ VADOVŲ PAVADUOTOJŲ PAREIGINĖS ALGOS PASTOVIOSIOS DALIES KOEFICIENTAI
