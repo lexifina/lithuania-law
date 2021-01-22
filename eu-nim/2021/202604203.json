@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vyriausiojo valstybinio darbo inspektoriaus 2021 m. sausio 14 d. įsakymas Nr. EV-13 \"Dėl Lietuvos Respublikos valstybinės darbo inspekcijos prie Socialinės apsaugos ir darbo ministerijos darbo reglamento patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-00996",
+  "official_journal_page": null,
+  "official_journal_date": "2021-01-21",
+  "entry_into_force": "2021-01-22",
+  "notification_date": "2026-06-12",
+  "commission_reference": "MNE(2026)04203",
+  "nim_celex": "72023L0970LTU_202604203",
+  "nim_id": "202604203",
+  "transposes_celex": [
+    "32023L0970"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6a6bbe16-dc2c-47fc-ac2c-41595e58cbe2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
