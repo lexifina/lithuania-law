@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 2, 19, 20, 22, 24, 25, 31, 33, 34, 34-1, 37, 38, 39, 40, 40-1, 40-3, 40-4, 43, 45, 47, 48, 51, 52 straipsnių pakeitimo, Įstatymo papildymo 32-1, 40-5 straipsniais, 34-2 straipsnio pripažinimo netekusiu galios ir Įstatymo trečiojo skirsnio pavadinimo pakeitimo įstatymas  Nr. XIV-180",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-01352",
+  "official_journal_page": null,
+  "official_journal_date": "2021-01-25",
+  "entry_into_force": "2021-01-31",
+  "notification_date": "2021-01-27",
+  "commission_reference": "MNE(2021)00736",
+  "nim_celex": "72018L1808LTU_202100736",
+  "nim_id": "202100736",
+  "transposes_celex": [
+    "32018L1808"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3fa9e4d9-b920-4032-8eb6-0ba9cb676b65",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
