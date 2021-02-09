@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2021 m. vasario 3 d. nutarimas Nr.76 \"Dėl 2021–2030 metų branduolinės energetikos objektų eksploatavimo nutraukimo ir radioaktyviųjų atliekų tvarkymo plėtros programos patvirtinimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-02494",
+  "official_journal_page": null,
+  "official_journal_date": "2021-02-01",
+  "entry_into_force": "2021-02-09",
+  "notification_date": "2021-06-10",
+  "commission_reference": "MNE(2021)03041",
+  "nim_celex": "72011L0070LTU_202103041",
+  "nim_id": "202103041",
+  "transposes_celex": [
+    "32011L0070"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e2619e39-ca98-11eb-84ce-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
