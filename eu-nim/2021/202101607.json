@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2021 m. vasario 19 d. įsakymas Nr. 3-102 ,,Dėl Lietuvos Respublikos susisiekimo ministro 2004 m. gruodžio 23 d. įsakymo Nr. 3-586 „Dėl Geležinkelių sistemos sąveikos reikalavimų nustatymo ir taikymo taisyklių patvirtinimo“ pakeitimo”",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-03190",
+  "official_journal_page": null,
+  "official_journal_date": "2021-02-18",
+  "entry_into_force": "2021-02-19",
+  "notification_date": "2021-03-15",
+  "commission_reference": "MNE(2021)01607",
+  "nim_celex": "72016L0797LTU_202101607",
+  "nim_id": "202101607",
+  "transposes_celex": [
+    "32016L0797"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9824cdf9-97da-43d9-b983-4af33cf67e5e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
