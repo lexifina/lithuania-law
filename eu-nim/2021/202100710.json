@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 1, 2, 23 straipsnių ir priedo pakeitimo įstatymas Nr. XIV-171",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-00911",
+  "official_journal_page": null,
+  "official_journal_date": "2021-01-19",
+  "entry_into_force": "2021-02-28",
+  "notification_date": "2021-01-26",
+  "commission_reference": "MNE(2021)00710",
+  "nim_celex": "72011L0036LTU_202100710",
+  "nim_id": "202100710",
+  "transposes_celex": [
+    "32011L0036",
+    "32012L0029",
+    "32017L0541"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8a091a86-feaa-4081-a729-177467d895c5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
