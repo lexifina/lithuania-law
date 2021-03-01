@@ -10,3 +10,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | --- | --- | --- | --- |
 | 2013-10-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/b1ea486277577c1d933478ac8be4285dbc8b7bcb/istatymai/TAR.CB6DD9C7792D.md) |
 | 2017-01-01 | 2021-02-28 | Įstatymas Nr. XII-2740 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/35686e54061b9385ce32a49e7b96f0ea42fba4b9/istatymai/TAR.CB6DD9C7792D.md) |
+| 2021-03-01 | 2023-12-22 | Įstatymas Nr. XIV-75 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/92707cb8bc1506b6ff0570475d9c5d7a7f9b9f2d/istatymai/TAR.CB6DD9C7792D.md) |
