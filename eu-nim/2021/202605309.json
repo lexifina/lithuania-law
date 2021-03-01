@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos pagalbos nuo nusikalstamos veikos nukentėjusiems asmenims įstatymas Nr. XIV-169",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-00908",
+  "official_journal_page": null,
+  "official_journal_date": "2021-01-20",
+  "entry_into_force": "2021-03-01",
+  "notification_date": "2026-07-10",
+  "commission_reference": "MNE(2026)05309",
+  "nim_celex": "72024L1712LTU_202605309",
+  "nim_id": "202605309",
+  "transposes_celex": [
+    "32024L1712"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/01a0af0f-751f-49d0-a8cd-3320805e4d22",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
