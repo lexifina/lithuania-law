@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2021 m. kovo 2 d. įsakymas Nr. A1-179 „Dėl Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2015 m. kovo 19 d. įsakymo Nr. A1-139 „Dėl sprendimo dėl užsieniečio darbo atitikties Lietuvos Respublikos darbo rinkos poreikiams priėmimo tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-04292",
+  "official_journal_page": null,
+  "official_journal_date": "2021-03-02",
+  "entry_into_force": "2021-03-03",
+  "notification_date": "2021-06-02",
+  "commission_reference": "MNE(2021)03735",
+  "nim_celex": "72009L0050LTU_202103735",
+  "nim_id": "202103735",
+  "transposes_celex": [
+    "32009L0050"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0fdf95cd-1cd1-4bdf-8980-fdc52dee331c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
