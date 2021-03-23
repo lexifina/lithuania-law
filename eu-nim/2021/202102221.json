@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2021 m. kovo 23 d. įsakymas Nr. D1-158 „Dėl Lietuvos Respublikos aplinkos ministro 2006 m. spalio 30 d. įsakymo Nr. D1-501 „Dėl informacijos, reikalingos ataskaitų rengimui pagal 1992 m. gegužės 21 d. tarybos direktyvos 92/43/EEB dėl natūralių buveinių ir laukinės faunos bei floros apsaugos ir 1979 m. balandžio 2 d. tarybos direktyvos 79/409/EEB dėl laukinių paukščių apsaugos reikalavimus, surinkimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-05745",
+  "official_journal_page": null,
+  "official_journal_date": "2021-03-22",
+  "entry_into_force": "2021-03-23",
+  "notification_date": "2021-06-11",
+  "commission_reference": "MNE(2021)02221",
+  "nim_celex": "72009L0147LTU_202102221",
+  "nim_id": "202102221",
+  "transposes_celex": [
+    "32009L0147"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b7acc112-d008-11eb-ac72-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
