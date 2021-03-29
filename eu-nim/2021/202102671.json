@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2021 m. kovo 29  d. įsakymas Nr. 3-176 „ Dėl Lietuvos Respublikos susisiekimo ministro 2003 m. vasario 20 d. įsakymo Nr. 3-79 „Dėl Pranešimų apie geležinkelių transporto katastrofas, eismo įvykius ir riktus teikimo, geležinkelių transporto katastrofų, eismo įvykių ir riktų tyrimo ir jų padarinių likvidavimo nuostatų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-06236",
+  "official_journal_page": null,
+  "official_journal_date": "2021-03-28",
+  "entry_into_force": "2021-03-29",
+  "notification_date": "2021-04-16",
+  "commission_reference": "MNE(2021)02671",
+  "nim_celex": "72016L0798LTU_202102671",
+  "nim_id": "202102671",
+  "transposes_celex": [
+    "32016L0798"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/36ba3303-ba60-41ea-bc85-a90449a3eca3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
