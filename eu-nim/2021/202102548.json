@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro 2021 m. balandžio 8 d. įsakymas Nr. 1V-289 \"Dėl Nuteistųjų perėmimo ar perdavimo vykdant Europos Sąjungos valstybių narių teismų sprendimus dėl laisvės atėmimo bausmės pripažinimo organizavimo ir vykdymo tvarkos aprašo patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-07395",
+  "official_journal_page": null,
+  "official_journal_date": "2021-04-07",
+  "entry_into_force": "2021-04-08",
+  "notification_date": "2021-04-12",
+  "commission_reference": "MNE(2021)02548",
+  "nim_celex": "72008F0909LTU_202102548",
+  "nim_id": "202102548",
+  "transposes_celex": [
+    "32008F0909"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/980f46f3-75af-443d-afd0-fa53f07f85b8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
