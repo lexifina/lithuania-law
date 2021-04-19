@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2021 m. balandžio 14 d. nutarimas Nr. 236 „Dėl Lietuvos Respublikos Vyriausybės 2020 m. kovo 10 d. nutarimo Nr. 198 „Dėl Lietuvos Respublikos žemės gelmių įstatymo įgyvendinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-08038",
+  "official_journal_page": null,
+  "official_journal_date": "2021-04-18",
+  "entry_into_force": "2021-04-19",
+  "notification_date": "2021-06-10",
+  "commission_reference": "MNE(2021)03981",
+  "nim_celex": "71994L0022LTU_202103981",
+  "nim_id": "202103981",
+  "transposes_celex": [
+    "31994L0022"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4bbbd55f-ca99-11eb-84ce-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
