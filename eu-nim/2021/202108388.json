@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2021 m. balandžio 21 d. įsakymas Nr. A1-318 ,,Dėl Pagalbos nuo nusikalstamos veikos nukentėjusiems asmenims tarnybų teikiamos pagalbos akreditavimo tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-08213",
+  "official_journal_page": null,
+  "official_journal_date": "2021-04-21",
+  "entry_into_force": "2021-04-22",
+  "notification_date": "2021-12-10",
+  "commission_reference": "MNE(2021)08388",
+  "nim_celex": "72011L0036LTU_202108388",
+  "nim_id": "202108388",
+  "transposes_celex": [
+    "32011L0036",
+    "32012L0029",
+    "32017L0541"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/76f7fcbd-6189-11ec-9c6c-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
