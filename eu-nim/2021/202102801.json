@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos teisingumo ministro 2021 m. balandžio 22 d. įsakymas Nr. 1R-142 \"Dėl teisingumo ministro 2015 m. gruodžio 30 d. įsakymo Nr. 1R-385 „Dėl Geležinkelių transporto katastrofų, eismo įvykių ar riktų tyrimų, šių tyrimų ataskaitų ir geležinkelių transporto eismo saugos rekomendacijų rengimo ir teikimo tvarkos aprašo patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Order",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-08327",
+  "official_journal_page": null,
+  "official_journal_date": "2021-04-21",
+  "entry_into_force": "2021-04-22",
+  "notification_date": "2021-04-23",
+  "commission_reference": "MNE(2021)02801",
+  "nim_celex": "72016L0798LTU_202102801",
+  "nim_id": "202102801",
+  "transposes_celex": [
+    "32016L0798"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6aefc782-a97c-11eb-9585-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
