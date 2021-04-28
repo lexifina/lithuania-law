@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2021 m. balandžio 28 d. įsakymas Nr. V-967 ,,Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2000 m. gegužės 31 d. įsakymo Nr. 301 „Dėl profilaktinių sveikatos tikrinimų sveikatos priežiūros įstaigose“ pakeitimo",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-08887",
+  "official_journal_page": null,
+  "official_journal_date": "2021-04-27",
+  "entry_into_force": "2021-04-28",
+  "notification_date": "2021-06-03",
+  "commission_reference": "MNE(2021)03361",
+  "nim_celex": "72009L0013LTU_202103361",
+  "nim_id": "202103361",
+  "transposes_celex": [
+    "32009L0013"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d79a1e05-9dea-414e-935e-75cb69a9b0f2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
