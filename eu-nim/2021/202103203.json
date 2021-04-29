@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2021 m. balandžio 28 d. nutarimas Nr. 292 \"Dėl Lietuvos Respublikos strateginio valdymo įstatymo, Lietuvos Respublikos regioninės plėtros įstatymo 4 straipsnio 3 ir 5 dalių, 7 straipsnio 1 ir 4 dalių ir Lietuvos Respublikos biudžeto sandaros įstatymo 141 straipsnio 3 dalies įgyvendinimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-9093",
+  "official_journal_page": null,
+  "official_journal_date": "2021-04-28",
+  "entry_into_force": "2021-04-29",
+  "notification_date": "2021-06-22",
+  "commission_reference": "MNE(2021)03203",
+  "nim_celex": "72011L0070LTU_202103203",
+  "nim_id": "202103203",
+  "transposes_celex": [
+    "32011L0070"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/13f1752a-d585-11eb-895a-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
