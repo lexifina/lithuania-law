@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos laukinės augalijos įstatymo Nr. VIII-1226 pakeitimo įstatymas Nr. XIII-3296",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-21145",
+  "official_journal_page": null,
+  "official_journal_date": "2020-10-08",
+  "entry_into_force": "2021-04-30",
+  "notification_date": "2021-02-01",
+  "commission_reference": "MNE(2021)00015",
+  "nim_celex": "71992L0043LTU_202100015",
+  "nim_id": "202100015",
+  "transposes_celex": [
+    "31992L0043"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c454f075-1c6f-4e75-a90f-69d6c48082da",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
