@@ -61,9 +61,9 @@ Vyriausiasis patrulis, vyriausiasis postinis, skyrininkas, jaunesnysis specialis
 4,7–11
 14
 Vyresnysis postinis, vyresnysis patrulis, dispečeris, vyresnysis ugniagesys gelbėtojas, vyresnysis pasienietis, kovotojas
-4,6–11
+4,9–11
 4,5–10,5
 15
 Postinis, patrulis, pasienietis, ugniagesys gelbėtojas
-4,4–10,5
+4,7–10,5
 4,4–10
