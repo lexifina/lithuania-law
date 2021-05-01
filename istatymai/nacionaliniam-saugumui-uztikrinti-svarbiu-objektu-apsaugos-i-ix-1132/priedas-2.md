@@ -25,3 +25,4 @@ antros kategorijos nacionaliniam saugumui užtikrinti svarbių įmonių SĄRAŠA
 20. AB „Detonas“.
 21. Akcinė bendrovė „Problematika“.
 22. Akcinė bendrovė „Kelių priežiūra“.
+23. Paskirtasis kaupimo sistemos operatorius, numatytas Lietuvos Respublikos elektros energetikos sistemos sujungimo su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu įstatyme.

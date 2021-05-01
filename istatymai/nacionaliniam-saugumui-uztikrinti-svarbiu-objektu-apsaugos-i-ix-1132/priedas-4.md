@@ -27,4 +27,5 @@ j) Lietuvos gamtinių dujų perdavimo sistemos operatoriaus valdomos gamtinių d
 k) valstybės kontroliuojamas naftos terminalas, esantis Klaipėdos valstybinio jūrų uosto teritorijoje, ir jo priklausiniai, reikalingi naftos terminalo veiklai;
 l) valstybės kontroliuojamas naftos terminalas, esantis Subačiaus gyvenvietėje, ir jo priklausiniai, reikalingi naftos terminalo veiklai;
 m) Būtingės naftos terminalas ir jo priklausiniai;
-n) aerodromai pagal Vyriausybės nutarimu patvirtintą sąrašą.
+n) aerodromai pagal Vyriausybės nutarimu patvirtintą sąrašą;
+o) elektros energijos kaupimo įrenginiai, įrengti įgyvendinant Lietuvos Respublikos elektros energetikos sistemos sujungimo su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu įstatymą.
