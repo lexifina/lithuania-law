@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 2, 11, 13, 16, 17, 18, 19, 21, 24, 25, 30, 40 ir 41 straipsnių pakeitimo įstatymas Nr. XIV-283",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-09685",
+  "official_journal_page": null,
+  "official_journal_date": "2021-05-04",
+  "entry_into_force": "2021-05-05",
+  "notification_date": "2026-02-11",
+  "commission_reference": "MNE(2026)01063",
+  "nim_celex": "72021L0555LTU_202601063",
+  "nim_id": "202601063",
+  "transposes_celex": [
+    "32021L0555"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2943c4d0-8ddb-4488-a12b-89ed7a8d938b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
