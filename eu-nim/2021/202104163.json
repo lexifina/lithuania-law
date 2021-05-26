@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2021 m. gegužės 26 d. įsakymas Nr. D1-317 „Dėl Lietuvos Respublikos aplinkos ministro 2011 m. kovo 30 d. įsakymo Nr. D1-262 „Dėl Degalų ir energijos būvio ciklo metu išmetamų šiltnamio efektą sukeliančių dujų kiekio mažinimo tikslų, stebėsenos ir ataskaitų teikimo tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-11590",
+  "official_journal_page": null,
+  "official_journal_date": "2021-05-25",
+  "entry_into_force": "2021-05-26",
+  "notification_date": "2021-06-29",
+  "commission_reference": "MNE(2021)04163",
+  "nim_celex": "72018L2001LTU_202104163",
+  "nim_id": "202104163",
+  "transposes_celex": [
+    "32018L2001"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b38035e7-9869-41cc-9a20-f9d10b4ff5b5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
