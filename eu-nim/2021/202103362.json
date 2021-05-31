@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2021 m. balandžio 28 d. įsakymas Nr. V-966 ,,Dėl Lietuvos Respublikos sveikatos apsaugos ministro 1999 m. lapkričio 29 d. įsakymo Nr. 515 „Dėl sveikatos priežiūros įstaigų veiklos apskaitos ir atskaitomybės tvarkos“ pakeitimo",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-08885",
+  "official_journal_page": null,
+  "official_journal_date": "2021-04-27",
+  "entry_into_force": "2021-05-31",
+  "notification_date": "2021-06-03",
+  "commission_reference": "MNE(2021)03362",
+  "nim_celex": "72009L0013LTU_202103362",
+  "nim_id": "202103362",
+  "transposes_celex": [
+    "32009L0013"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/dda926df-4719-425e-9a38-94e912aa81a9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
