@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2021 m. birželio 2 d. nutarimas Nr. 393 \"Dėl Lietuvos Respublikos Vyriausybės 2003 m. lapkričio 12 d. nutarimo Nr. 1407 „Dėl Juridinių asmenų registro nuostatų patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-12911",
+  "official_journal_page": null,
+  "official_journal_date": "2021-06-03",
+  "entry_into_force": "2021-06-04",
+  "notification_date": "2021-06-11",
+  "commission_reference": "MNE(2021)04133",
+  "nim_celex": "72019L1151LTU_202104133",
+  "nim_id": "202104133",
+  "transposes_celex": [
+    "32019L1151"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b8620d22-a29b-4b93-9bb3-9a544bf495d4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
