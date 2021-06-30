@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Muitinės departamento prie Lietuvos Respublikos finansų ministerijos generalinio direktoriaus 2021 m. gegužės 26 d. įsakymas Nr. 1B-346 „Dėl Importo PVM, surinkto taikant specialią importo PVM deklaravimo ir mokėjimo procedūrą, ataskaitos pildymo ir pateikimo muitinei tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-11967",
+  "official_journal_page": null,
+  "official_journal_date": "2021-05-27",
+  "entry_into_force": "2021-06-30",
+  "notification_date": "2021-06-01",
+  "commission_reference": "MNE(2021)03868",
+  "nim_celex": "72019L1995LTU_202103868",
+  "nim_id": "202103868",
+  "transposes_celex": [
+    "32019L1995"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f4b1d447-32c3-4e4c-94b6-00e0e45f3c83",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
