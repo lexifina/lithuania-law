@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2021 m. birželio 3 d. įsakymas Nr. D1-338 „Dėl Lietuvos Respublikos aplinkos ministro 2003 m. spalio 29 d. įsakymo Nr. 521 „Dėl Miško dauginamosios medžiagos nuostatų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-12758",
+  "official_journal_page": null,
+  "official_journal_date": "2021-06-02",
+  "entry_into_force": "2021-06-30",
+  "notification_date": "2021-06-10",
+  "commission_reference": "MNE(2021)04069",
+  "nim_celex": "71999L0105LTU_202104069",
+  "nim_id": "202104069",
+  "transposes_celex": [
+    "31999L0105"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/de40af3d-ca99-11eb-84ce-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
