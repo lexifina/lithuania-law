@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX-517 2, 4, 4-2, 7, 10, 11-2 straipsnių ir 2 priedo pakeitimo įstatymas Nr. XIV-408",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-14791",
+  "official_journal_page": null,
+  "official_journal_date": "2021-06-29",
+  "entry_into_force": "2021-06-30",
+  "notification_date": "2021-07-01",
+  "commission_reference": "MNE(2021)04765",
+  "nim_celex": "72018L0851LTU_202104765",
+  "nim_id": "202104765",
+  "transposes_celex": [
+    "32018L0851",
+    "32018L0852"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/81526700-db06-11eb-895a-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
