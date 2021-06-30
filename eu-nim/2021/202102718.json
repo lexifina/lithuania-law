@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos miškų įstatymo Nr. I-671 1, 2, 5, 6, 23 straipsnių pakeitimo ir Įstatymo papildymo priedu įstatymas Nr. XIII-3198",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-15391",
+  "official_journal_page": null,
+  "official_journal_date": "2020-07-08",
+  "entry_into_force": "2021-06-30",
+  "notification_date": "2021-06-11",
+  "commission_reference": "MNE(2021)02718",
+  "nim_celex": "71999L0105LTU_202102718",
+  "nim_id": "202102718",
+  "transposes_celex": [
+    "31999L0105"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/85c996a2-da89-4d31-ac58-69022bdb94b0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
