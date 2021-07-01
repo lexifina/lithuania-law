@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2021-01-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/4220c30aa96572a6d47eda0809b965b465a7818b/istatymai/TAR.5C6523D049E6.md) |
+| 2021-07-01 |  | Įstatymas Nr. XIV-434 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/a0fa76b7cb7f79eb0bab3cbdb83431f465991436/istatymai/TAR.5C6523D049E6.md) |
