@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos jūros aplinkos apsaugos įstatymo Nr. VIII-512 3, 8, 9, 11, 15, 16, 17, 18, 20 straipsnių, ketvirtojo skirsnio pavadinimo ir 3 priedo pakeitimo, Įstatymo papildymo 15-1 straipsniu ir 19 straipsnio pripažinimo netekusiu galios įstatymas Nr. XIV-440",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-14610",
+  "official_journal_page": null,
+  "official_journal_date": "2021-06-29",
+  "entry_into_force": "2021-07-01",
+  "notification_date": "2021-09-24",
+  "commission_reference": "MNE(2021)06673",
+  "nim_celex": "72019L0883LTU_202106673",
+  "nim_id": "202106673",
+  "transposes_celex": [
+    "32019L0883"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/094a7582-5793-48b8-a512-fe36d8d23659",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
