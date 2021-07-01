@@ -66,22 +66,22 @@ skyriaus, kuris yra kitame struktūriniame padalinyje, vedėjas, biuro vedėjas,
 8,3–15
 7,4–14
 7.1.
-patarėjas, vyriausiasis valstybinis auditorius, vyriausiojo prokuroro padėjėjas, teismo pirmininko padėjėjas, teismo skyriaus pirmininko patarėjas, teisėjo vyresnysis padėjėjas, gynybos patarėjo pavaduotojas, Seimo nuolatinis atstovas Europos Sąjungoje, specialusis atašė, vyriausiasis specialistas (Seimo kanceliarijoje)
+patarėjas, vyriausiojo prokuroro padėjėjas, teismo pirmininko padėjėjas, teismo skyriaus pirmininko patarėjas, teisėjo vyresnysis padėjėjas, gynybos patarėjo pavaduotojas, Seimo nuolatinis atstovas Europos Sąjungoje, specialusis atašė, vyriausiasis specialistas (Seimo kanceliarijoje)
 Respublikos Prezidento atstovas spaudai, Seimo Pirmininko atstovas spaudai, Ministro Pirmininko atstovas spaudai, ministro atstovas spaudai
 9,2–15
 8,3–14,5
 7,4–13,5
 8.
-vyriausiasis specialistas, specialiojo atašė pavaduotojas, Seimo nuolatinio atstovo Europos Sąjungoje pavaduotojas, vyresnysis valstybinis auditorius, prokuroro padėjėjas, teisėjo padėjėjas, teismo konsultantas, padėjėjas (Seimo kanceliarijoje), vyresnysis specialistas (Seimo kanceliarijoje)
+vyriausiasis specialistas, specialiojo atašė pavaduotojas, Seimo nuolatinio atstovo Europos Sąjungoje pavaduotojas, prokuroro padėjėjas, teisėjo padėjėjas, teismo konsultantas, padėjėjas (Seimo kanceliarijoje), vyresnysis specialistas (Seimo kanceliarijoje)
 savivaldybės tarybos sekretorius, mero patarėjas, Respublikos Prezidento referentas, Seimo Pirmininko padėjėjas, Ministro Pirmininko padėjėjas, Seimo frakcijos referentas
 7,7–13,5
 7,1–13
 6,4–12
 9.
-vyresnysis specialistas, valstybinis auditorius, specialistas (Seimo kanceliarijoje)
+vyresnysis specialistas, specialistas (Seimo kanceliarijoje)
 Seimo nario patarėjas, Seimo nario padėjėjas, ministro padėjėjas, mero padėjėjas
 6,7–12
 6,3–11,5
 5,8–10,5
 10.
-specialistas, teismo administracijos sekretorius, valstybinio auditoriaus padėjėjas, teismo posėdžių sekretorius
+specialistas, teismo administracijos sekretorius, teismo posėdžių sekretorius
