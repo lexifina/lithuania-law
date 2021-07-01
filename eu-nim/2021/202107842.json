@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos geodezijos ir kartografijos įstatymo Nr. IX-415 pakeitimo įstatymas Nr. XIV-362",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-13164",
+  "official_journal_page": null,
+  "official_journal_date": "2021-06-09",
+  "entry_into_force": "2021-07-01",
+  "notification_date": "2021-11-24",
+  "commission_reference": "MNE(2021)07842",
+  "nim_celex": "72007L0002LTU_202107842",
+  "nim_id": "202107842",
+  "transposes_celex": [
+    "32007L0002"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2eecb163-5106-11ec-91ac-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
