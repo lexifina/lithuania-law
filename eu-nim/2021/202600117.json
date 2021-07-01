@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos alternatyviųjų degalų įstatymas Nr. XIV-196 (Suvestinė redakcija nuo 2025-12-15 iki 2025-12-31)",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-07413",
+  "official_journal_page": null,
+  "official_journal_date": "2021-04-08",
+  "entry_into_force": "2021-07-01",
+  "notification_date": "2026-01-08",
+  "commission_reference": "MNE(2026)00117",
+  "nim_celex": "72022L0362LTU_202600117",
+  "nim_id": "202600117",
+  "transposes_celex": [
+    "32022L0362"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f3fc3f63-5438-4856-b0e8-90ad35e4044f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
