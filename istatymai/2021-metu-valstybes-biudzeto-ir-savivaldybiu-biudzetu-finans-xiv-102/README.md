@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2020-12-30 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/847ad9dfed8cc40b36e60dfb9c83d554c4744d46/istatymai/TAR.BE3BD1C049E2.md) |
+| 2021-07-01 |  | Įstatymas Nr. XIV-430 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/f6b35278e5a9b3cd05f2e472585c86e78ab75df1/istatymai/TAR.BE3BD1C049E2.md) |
