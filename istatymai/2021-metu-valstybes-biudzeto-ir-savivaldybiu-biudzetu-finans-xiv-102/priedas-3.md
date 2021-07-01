@@ -4,10 +4,10 @@ Vilniaus Šv. Juozapo kunigų seminarija
 121
 121
 IŠ VISO
-15 841 411
-15 300 973
-1 867 681
-540 438
+16 615 287
+16 045 275
+1 875 818
+570 012
 _______________________
 Lietuvos Respublikos
 2021 metų valstybės biudžeto ir
@@ -61,8 +61,8 @@ Energetikos ministerija
 8 596
 8 596
 Finansų ministerija
-69 339
-66 351
+63 501
+60 513
 2 988
 Krašto apsaugos ministerija
 585
@@ -84,8 +84,8 @@ Sveikatos apsaugos ministerija
 3 351
 4 523
 Švietimo, mokslo ir sporto ministerija
-25 844
-21 408
+19 422
+14 986
 4 436
 Teisingumo ministerija
 3 192

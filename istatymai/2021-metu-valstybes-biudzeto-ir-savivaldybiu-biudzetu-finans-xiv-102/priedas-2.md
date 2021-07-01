@@ -1,18 +1,17 @@
-# 2 263 546
+# 2 777 114
 IŠ VISO
-11 252 105
+12 437 428
 _______________________
 Lietuvos Respublikos
 2021 metų valstybės biudžeto ir
 savivaldybių biudžetų finansinių
 rodiklių patvirtinimo įstatymo
 2 priedas
-LIETUVOS RESPUBLIKOS
-2021 METŲ VALSTYBĖS BIUDŽETO ASIGNAVIMAI
+LIETUVOS RESPUBLIKOS 2021 METŲ VALSTYBĖS BIUDŽETO ASIGNAVIMAI
 Tūkst. Eur
-Valstybės institucijos ir įstaigos
+Valstybės institucijos ir įstaigos pavadinimas
 Iš viso
-iš jų:
+Iš jų
 išlaidoms
 turtui įsigyti
 iš viso
@@ -31,11 +30,8 @@ Lietuvos Respublikos Seimo kanceliarija
 Lietuvos Respublikos vyriausioji rinkimų komisija
 8 736
 8 706
-1 121
+1 541
 30
-iš jų asignavimai politinėms partijoms
-5 502
-5 502
 Lietuvos Respublikos Seimo kontrolierių įstaiga
 1 296
 1 271
@@ -86,7 +82,7 @@ Nacionalinė sveikatos taryba
 64
 64
 62
-Vaiko teisių apsaugos kontrolieriaus įstaiga
+Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstaiga
 628
 628
 531
@@ -102,11 +98,14 @@ Lietuvos Respublikos valstybinė kultūros paveldo komisija
 330
 330
 277
-Lietuvos Respublikos Vyriausybės kanceliarija iš jų: kompensacijai už Lietuvos žydų religinių bendruomenių nekilnojamąjį turtą
-14 787 3 620
-14 587 3 620
+Lietuvos Respublikos Vyriausybės kanceliarija
+14 787
+14 587
 7 568
 200
+iš jų kompensacijai už Lietuvos žydų religinių bendruomenių nekilnojamąjį turtą
+3 620
+3 620
 Valstybinė energetikos reguliavimo taryba
 7 200
 7 000
@@ -137,103 +136,138 @@ Lietuvos Respublikos specialiųjų tyrimų tarnyba
 9 316
 1 561
 Lietuvos Respublikos vadovybės apsaugos tarnyba
-23 082
-19 637
-15 709
-3 445
+23 455
+19 958
+15 844
+3 497
+iš jų COVID-19 pandemijos padariniams šalinti
+73
+36
+37
 II. MINISTERIJOS
 Aplinkos ministerija
-356 397
-346 755
-49 155
-9 642
+356 967
+351 811
+49 861
+5 156
+iš jų COVID-19 pandemijos padariniams šalinti
+583
+583
+418
 Ekonomikos ir inovacijų ministerija
-840 235
-839 992
-24 221
+851 411
+851 168
+24 060
 243
 iš jų COVID-19 pandemijos padariniams šalinti
 230 000
 230 000
 Energetikos ministerija
-310 170
-309 960
+402 160
+401 950
 3 822
 210
 Finansų ministerija
-1 854 432
-1 814 100
-125 052
-40 332
-iš jų: Rezerviniam (stabilizavimo) fondui sudaryti Lietuvos Respublikos Vyriausybės rezervas iš jų COVID-19 pandemijos padariniams šalinti Tradicinių Lietuvos religinių bendruomenių, bendrijų ir centrų maldos namams atstatyti ir kitoms reikmėms
-61 147 397 448 396 000 1 597
-61 147 397 448 396 000 1 597
+2 346 628
+2 306 016
+127 155
+40 612
+iš jų:
+Rezerviniam (stabilizavimo) fondui sudaryti
+55 309
+55 309
+Lietuvos Respublikos Vyriausybės rezervas
+928 633
+928 633
+iš jų COVID-19 pandemijos padariniams šalinti
+927 185
+927 185
+Tradicinių Lietuvos religinių bendruomenių, bendrijų ir centrų maldos namams atstatyti ir kitoms reikmėms
+1 597
+1 597
 Krašto apsaugos ministerija
-1 028 068
-688 464
+1 048 546
+688 192
 355 875
-339 604
+360 354
 Kultūros ministerija
-234 432
-218 415
-57 526
+236 321
+220 304
+58 793
 16 017
 iš jų COVID-19 pandemijos padariniams šalinti
-2 500
-2 500
+3 767
+3 767
+1 267
 Socialinės apsaugos ir darbo ministerija
-4 384 156
-4 379 068
+4 401 806
+4 396 718
 109 334
 5 088
 iš jų COVID-19 pandemijos padariniams šalinti
-280 000
-280 000
+372 500
+372 500
 Susisiekimo ministerija
-1 087 978
-1 079 399
-12 850
-8 579
+1 103 804
+1 094 175
+12 644
+9 629
+iš jų COVID-19 pandemijos padariniams šalinti
+3 585
+3 585
 Sveikatos apsaugos ministerija
-1 140 708
-1 126 672
-39 138
+1 236 313
+1 222 277
+41 435
 14 036
 iš jų COVID-19 pandemijos padariniams šalinti
-25 000
-25 000
-Švietimo, mokslo ir sporto ministerija iš jų COVID-19 pandemijos padariniams šalinti
-1 691 246 11 700
-1 684 507 11 700
-168 391 159
-6 739
+119 673
+119 673
+2 463
+Švietimo, mokslo ir sporto ministerija
+1 708 242
+1 701 283
+168 170
+6 959
+iš jų COVID-19 pandemijos padariniams šalinti
+11 920
+11 700
+159
+220
 Teisingumo ministerija
 120 382
-116 387
+117 587
 78 486
-3 995
+2 795
 Užsienio reikalų ministerija
 92 580
 87 884
 26 903
 4 696
 Vidaus reikalų ministerija
-844 865
-800 309
-394 246
-44 556
+864 491
+808 199
+395 306
+56 292
+iš jų COVID-19 pandemijos padariniams šalinti
+549
+547
+2
 Žemės ūkio ministerija
-1 046 552
-1 040 121
+1 035 640
+1 028 493
 48 465
-6 431
-III. MINISTRŲ VALDYMO SRIČIŲ INSTITUCIJOS IR ĮSTAIGOS
-FINANSŲ MINISTRO VALDYMO SRITIS
+7 147
+iš jų COVID-19 pandemijos padariniams šalinti
+5 927
+5 211
+716
+III. MINISTRŲ VALDYMO SRIČIŲ INSTITUCIJOS IR ĮSTAIGOS FINANSŲ MINISTRO VALDYMO SRITIS
 Lietuvos statistikos departamentas
-15 388
-14 699
+14 388
+13 638
 9 966
-689
+750
 KULTŪROS MINISTRO VALDYMO SRITIS
 Lietuvos nacionalinė Martyno Mažvydo biblioteka
 8 437
@@ -241,50 +275,78 @@ Lietuvos nacionalinė Martyno Mažvydo biblioteka
 6 687
 364
 Lietuvos nacionalinis muziejus
-5 872
-5 222
-4 214
+5 939
+5 289
+4 281
 650
+iš jų COVID-19 pandemijos padariniams šalinti
+67
+67
+67
 Lietuvos nacionalinis dailės muziejus
-7 291
-6 951
-5 636
-340
+7 361
+7 191
+5 706
+170
+iš jų COVID-19 pandemijos padariniams šalinti
+70
+70
+70
 Nacionalinis M. K. Čiurlionio dailės muziejus
 4 221
 3 224
 2 611
 997
 Lietuvos nacionalinis operos ir baleto teatras
-15 334
-13 634
-10 390
-1 700
+14 601
+13 701
+10 457
+900
+iš jų COVID-19 pandemijos padariniams šalinti
+67
+67
+67
 Lietuvos nacionalinis dramos teatras
-7 380
-3 880
-3 080
+7 489
+3 989
+3 189
 3 500
+iš jų COVID-19 pandemijos padariniams šalinti
+109
+109
+109
 Nacionalinis Kauno dramos teatras
-3 135
-2 865
-2 205
+3 242
+2 972
+2 312
 270
+iš jų COVID-19 pandemijos padariniams šalinti
+107
+107
+107
 Koncertinė įstaiga Lietuvos nacionalinė filharmonija
-5 911
-5 891
-4 539
+5 978
+5 958
+4 606
 20
+iš jų COVID-19 pandemijos padariniams šalinti
+67
+67
+67
 Nacionalinis muziejus Lietuvos Didžiosios Kunigaikštystės valdovų rūmai
-3 648
-3 548
-2 483
+3 694
+3 594
+2 529
 100
+iš jų COVID-19 pandemijos padariniams šalinti
+46
+46
+46
 Lietuvos vyriausiojo archyvaro tarnyba
-10 506
+11 306
 8 930
 5 981
-1 576
+2 376
 Tautinių mažumų departamentas prie Lietuvos Respublikos Vyriausybės
 1 317
 1 317
@@ -318,19 +380,23 @@ Lietuvos Respublikos generalinė prokuratūra
 33 573
 59
 Nacionalinė teismų administracija
-12 907
-9 645
+13 526
+9 699
 2 164
-3 262
+3 827
+iš jų COVID-19 pandemijos padariniams šalinti
+619
+54
+565
 Teismai
-80 554
-80 506
-74 027
+80 726
+80 678
+74 142
 48
 Lietuvos gyventojų genocido ir rezistencijos tyrimo centras
-3 158
-3 123
-2 104
+3 208
+3 173
+2 154
 35
 Tarptautinės komisijos nacių ir sovietinio okupacinių režimų nusikaltimams Lietuvoje įvertinti sekretoriatas
 147
@@ -358,7 +424,8 @@ Vilniaus universitetas
 444
 iš jų valstybinės reikšmės Vilniaus universiteto bibliotekos veiklai užtikrinti
 3 095
-3 095
+2 651
+444
 Vytauto Didžiojo universitetas
 26 485
 25 588
@@ -416,9 +483,9 @@ Lietuvių kalbos institutas
 1 838
 1 544
 Lietuvos socialinių mokslų centras
-2 241
-2 231
-1 878
+2 280
+2 270
+1 917
 10
 Valstybinis mokslinių tyrimų institutas Inovatyvios medicinos centras
 1 538

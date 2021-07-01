@@ -10,27 +10,27 @@ Tūkst. Eur
 Pajamos
 Iš viso
 PAJAMOS
-8 856 383
+9 528 138
 MOKESČIAI
-8 414 731
+9 044 856
 Pajamų ir pelno mokesčiai
-2 555 700
+2 825 535
 Gyventojų pajamų mokestis
-1 838 955
+2 036 679
 Pelno mokestis
-716 745
+788 856
 Turto mokesčiai
 7 000
 Nekilnojamojo turto mokestis
 7 000
 Prekių ir paslaugų mokesčiai
-5 732 031
+6 079 321
 Pridėtinės vertės mokestis
-4 033 743
+4 350 837
 Atskaitymai nuo pajamų pagal Lietuvos Respublikos miškų įstatymą
 25 100
 Akcizai
-1 586 785
+1 616 981
 Loterijų ir lošimų mokesčiai
 20 700
 Transporto priemonių mokesčiai
@@ -38,19 +38,19 @@ Transporto priemonių mokesčiai
 Mokesčiai už aplinkos teršimą
 14 847
 Tarptautinės prekybos ir sandorių mokesčiai
-120 000
+133 000
 KITOS PAJAMOS
-441 652
+483 282
 Turto pajamos
-151 999
+193 629
 Palūkanos už paskolas
 6 289
 Palūkanos už indėlius, depozitus, sąskaitų likučius ir vertybinius popierius
 217
 Lietuvos banko pelno įmokos
-13 770
+16 626
 Dividendai ir valstybės įmonių pelno įmokos
-103 874
+142 648
 Mokesčiai už valstybinius gamtos išteklius
 21 107
 Angliavandenilių išteklių mokestis
@@ -88,5 +88,5 @@ Finansinio turto sumažėjimo pajamos (finansinio turto pardavimo pajamos / grį
 Akcijos ir kitos gautinos sumos
 7 650
 IŠ VISO
-8 988 559
+9 660 314
 Europos Sąjungos ir kitos tarptautinės finansinės paramos lėšos

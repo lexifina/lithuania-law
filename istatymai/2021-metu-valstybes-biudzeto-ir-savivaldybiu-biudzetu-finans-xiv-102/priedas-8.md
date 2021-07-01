@@ -4,7 +4,7 @@ Sritis
 2022 metams
 2023 metams
 Valstybės valdymas
-28 834
+28 865
 38 078
 30 847
 Krašto apsauga
@@ -12,11 +12,11 @@ Krašto apsauga
 115 736
 152 181
 Viešoji tvarka
-8 471
+7 271
 1 641
 1 229
 Švietimas
-203 216
+203 436
 89 100
 60 095
 Sveikatos apsauga
@@ -32,15 +32,15 @@ Aplinkos apsauga
 85 769
 28 113
 Kultūra
-75 713
+76 343
 44 948
 32 755
 Žemės ūkis
-27 225
+23 225
 19 201
 13 079
 Visuomenės apsauga
-166 250
+162 250
 79 947
 27 408
 Transportas ir ryšiai
@@ -52,7 +52,7 @@ Kita veikla
 27 745
 17 550
 IŠ VISO
-1 415 129
+1 406 810
 1 029 260
 861 791
 _______________________
@@ -67,35 +67,41 @@ Tūkst. Eur
 Numatomas lėšų likutis 2021 m. sausio 1 d.
 356 936
 2.
-Įplaukos 2021 metais
-62 647
+Įplaukos 2021 metais (2.1 + 2.2 + 2.3)
+56 809
 2.1.
-50 procentų lėšų, gautų į Lietuvos Respublikos valstybės biudžetą, įstatymų nustatyta tvarka privatizavus valstybei nuosavybės teise priklausančius akcijų paketus
-3 450
-2.2.
-50 procentų gautų į Lietuvos Respublikos valstybės biudžetą dividendų
-36 949
-2.3.
-50 procentų lėšų, gautų į Lietuvos Respublikos valstybės biudžetą, pardavus viešo aukciono būdu įstatymų nustatyta tvarka valstybės nekilnojamąjį turtą ir kitus nekilnojamuosius daiktus
-6 684
-2.4.
-50 procentų lėšų, gautų į Lietuvos Respublikos valstybės biudžetą, pardavus valstybinės žemės sklypus
-14 064
-2.5.
 lėšos, gautos už valstybės įmonės Ignalinos atominės elektrinės parduotą turtą
 1 500
+2.2.
+įplaukos iki 2021 m. balandžio 30 d.:
+40 293
+2.2.1.
+50 procentų lėšų, gautų į Lietuvos Respublikos valstybės biudžetą, įstatymų nustatyta tvarka privatizavus valstybei nuosavybės teise priklausančius akcijų paketus
+683
+2.2.2.
+50 procentų gautų į Lietuvos Respublikos valstybės biudžetą dividendų
+28 005
+2.2.3.
+50 procentų lėšų, gautų į Lietuvos Respublikos valstybės biudžetą, pardavus viešo aukciono būdu įstatymų nustatyta tvarka valstybės nekilnojamąjį turtą ir kitus nekilnojamuosius daiktus
+4 111
+2.2.4.
+50 procentų lėšų, gautų į Lietuvos Respublikos valstybės biudžetą, pardavus valstybinės žemės sklypus
+7 494
+2.3.
+įplaukos nuo 2021 m. gegužės 1 d. – 25 procentai į Lietuvos Respublikos valstybės biudžetą gautų dividendų kaupiami radioaktyviųjų atliekų giluminiam atliekynui įrengti ir radioaktyviosioms atliekoms tvarkyti
+15 016
 3.
-2021 metų įplaukų dalis, kaupiama radioaktyviųjų atliekų giluminiam atliekynui įrengti, radioaktyviosioms atliekoms tvarkyti
-3 000
+2021 metų įplaukų dalis kaupiama radioaktyviųjų atliekų giluminiam atliekynui įrengti ir radioaktyviosioms atliekoms tvarkyti (2.1 + 2.3)
+16 516
 4.
 Išlaidos 2021 metais
-1 941
+1 927
 iš jų:
 4.1.
 Rezervinio (stabilizavimo) fondo valdymo išlaidos
-1 941
+1 927
 5.
-Lėšos, kurios atitinkamais metais gali būti naudojamos valstybės turtiniams įsipareigojimams, susijusiems su valstybės skola, vykdyti (grąžintinai) iki 2023 m. gruodžio 31 d.
+Lėšos, kurios gali būti naudojamos valstybės turtiniams įsipareigojimams, susijusiems su valstybės skola, vykdyti (grąžintinai) iki 2023 m. gruodžio 31 d.
 400 000
 6.
 Numatomas lėšų likutis 2022 m. sausio 1 d. (1 + 2 – 4)

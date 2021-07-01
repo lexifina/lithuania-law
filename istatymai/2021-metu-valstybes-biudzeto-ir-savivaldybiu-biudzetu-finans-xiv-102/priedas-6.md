@@ -1,6 +1,6 @@
 # 1 567
 IŠ VISO
-1 119 342
+1 122 242
 _______________________
 Lietuvos Respublikos
 2021 metų valstybės biudžeto ir
