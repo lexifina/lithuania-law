@@ -1,9 +1,7 @@
 # Respublikos Prezidentas Gitanas Nausėda
-Lietuvos Respublikos
-2021 metų privalomojo
-sveikatos draudimo
-fondo biudžeto rodiklių
-patvirtinimo įstatymo
+Lietuvos Respublikos 2021 metų
+Privalomojo sveikatos draudimo fondo
+biudžeto rodiklių patvirtinimo įstatymo
 priedas
 2021 METŲ PRIVALOMOJO SVEIKATOS DRAUDIMO FONDO BIUDŽETAS
 Kodas
@@ -12,16 +10,16 @@ Suma, tūkst. Eur
 ĮPLAUKOS
 01
 Privalomojo sveikatos draudimo įmokos, iš jų:
-2 235 353
+2 307 199
 01 01
 Valstybinio socialinio draudimo fondo valdybos administruojamos privalomojo sveikatos draudimo įmokos ir su jomis susijusios sumos
-1 535 089
+1 606 935
 01 02
 Lietuvos Respublikos valstybės biudžeto įmokos už apdraustuosius, draudžiamus valstybės lėšomis
 700 264
 02
 Lietuvos Respublikos valstybės biudžeto asignavimai
-204 087
+241 260
 03
 Lėšos, grąžinamos pagal gydymo prieinamumo gerinimo ir rizikos pasidalijimo sutartis
 30 537
@@ -29,11 +27,11 @@ Lėšos, grąžinamos pagal gydymo prieinamumo gerinimo ir rizikos pasidalijimo 
 Kitos pajamos
 8 192
 Iš viso įplaukų
-2 478 169
+2 587 188
 IŠLAIDOS
 01
 Asmens sveikatos priežiūros paslaugoms
-1 700 000
+1 673 823
 02
 Vaistams, medicinos pagalbos priemonėms ir medicinos priemonių nuomai
 451 100
@@ -45,7 +43,7 @@ Ortopedijos techninėms priemonėms
 16 610
 05
 Sveikatos programoms ir kitoms sveikatos draudimo išlaidoms
-185 920
+223 424
 06
 Privalomojo sveikatos draudimo sistemos funkcionavimui ir šį draudimą vykdančių institucijų veiklos išlaidoms
 24 450
@@ -53,25 +51,21 @@ Privalomojo sveikatos draudimo sistemos funkcionavimui ir šį draudimą vykdan�
 Valstybinio socialinio draudimo fondo veiklos sąnaudoms, susidarančioms dėl privalomojo sveikatos draudimo įmokų surinkimo ir pervedimo į Privalomojo sveikatos draudimo fondą, kompensuoti
 2 021
 Iš viso
-2 478 169
-08
+2 489 496
 Privalomojo sveikatos draudimo fondo biudžeto rezervui papildyti (sudaryti)
-0
-Iš viso išlaidų
-2 478 169
+37 173
 LĖŠŲ LIKUČIAI
 Pagal 2021 m. sausio 1 d. būklę
 Privalomojo sveikatos draudimo fondo biudžeto apyvartos lėšų likutis
 5 792
-Numatomas Privalomojo sveikatos draudimo fondo biudžeto rezervas, iš jo:
-227 606
+Privalomojo sveikatos draudimo fondo biudžeto rezervas, iš jo:
+297 937
 pagrindinė dalis
 37 173
 rizikos valdymo dalis
-190 433
+260 764
 Pagal 2021 m. gruodžio 31 d. būklę
 Privalomojo sveikatos draudimo fondo biudžeto apyvartos lėšų likutis
 5 792
 Numatomas Privalomojo sveikatos draudimo fondo biudžeto rezervas
-227 606
-_____________________
+297 937
