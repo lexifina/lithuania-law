@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro 2021 m. liepos 5 d. įsakymas Nr. 1V-579 Dėl Lietuvos Respublikos vidaus reikalų ministro 2016 m. gegužės 6 d. įsakymo Nr. 1V-346 „Dėl prieglobsčio prašytojų apgyvendinimo pasienio kontrolės punktuose sąlygų aprašo patvirtinimo“ pakeitimo",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-15368",
+  "official_journal_page": null,
+  "official_journal_date": "2021-07-07",
+  "entry_into_force": "2021-07-08",
+  "notification_date": "2021-11-16",
+  "commission_reference": "MNE(2021)07563",
+  "nim_celex": "72013L0032LTU_202107563",
+  "nim_id": "202107563",
+  "transposes_celex": [
+    "32013L0032",
+    "32013L0033"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2214d8d4-4b6e-11ec-91ac-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
