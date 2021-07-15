@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos viršininko 2021 m. liepos 14 d. įsakymas Nr. VA-45 „ Dėl Ankstyvojo perspėjimo sistemos dalyvių nustatymo ir informavimo aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-15928",
+  "official_journal_page": null,
+  "official_journal_date": "2021-07-14",
+  "entry_into_force": "2021-07-15",
+  "notification_date": "2022-04-16",
+  "commission_reference": "MNE(2022)02585",
+  "nim_celex": "72019L1023LTU_202202585",
+  "nim_id": "202202585",
+  "transposes_celex": [
+    "32019L1023"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e9f210cd-c220-11ec-b6f4-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
