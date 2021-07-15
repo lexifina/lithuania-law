@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 9, 34, 43, 44, 45, 46, 461, 47, 49, 51, 52 ir 60 straipsnių pakeitimo ir Įstatymo papildymo 46-2 ir 521 straipsniais įstatymas Nr. XIV-483",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-15833",
+  "official_journal_page": null,
+  "official_journal_date": "2021-07-13",
+  "entry_into_force": "2021-07-15",
+  "notification_date": "2022-07-18",
+  "commission_reference": "MNE(2022)04486",
+  "nim_celex": "72019L0944LTU_202204486",
+  "nim_id": "202204486",
+  "transposes_celex": [
+    "32019L0944"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/41b018ab-01eb-447d-97fa-2d3237ab976b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
