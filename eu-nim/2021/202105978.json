@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2021 m. liepos 15 d. įsakymas Nr. D1-415 „Dėl Lietuvos Respublikos aplinkos ministro 2011 m. sausio 3 d. Įsakymo nr. D1-2 „Dėl gaminant ir naudojant biodegalus, skystuosius bioproduktus ir lyginamąjį iškastinį kurą išmetamų šiltnamio efektą sukeliančių dujų poveikio apskaičiavimo taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-16003",
+  "official_journal_page": null,
+  "official_journal_date": "2021-07-15",
+  "entry_into_force": "2021-07-16",
+  "notification_date": "2021-10-15",
+  "commission_reference": "MNE(2021)05978",
+  "nim_celex": "72018L2001LTU_202105978",
+  "nim_id": "202105978",
+  "transposes_celex": [
+    "32018L2001"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f7b036ee-3325-11ec-bd8e-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
