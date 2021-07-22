@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2021 m. liepos 20 d.  įsakymas Nr. 3-358 „Dėl  Lietuvos Respublikos susisiekimo ministro įsakymo Nr. 3-100 „Dėl Energijos vartojimo efektyvumo ir aplinkos apsaugos reikalavimų, taikomų įsigyjant kelių transporto priemones, nustatymo ir atvejų, kada juos privaloma taikyti, tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-16175",
+  "official_journal_page": null,
+  "official_journal_date": "2021-07-21",
+  "entry_into_force": "2021-07-22",
+  "notification_date": "2021-07-28",
+  "commission_reference": "MNE(2021)05517",
+  "nim_celex": "72019L1161LTU_202105517",
+  "nim_id": "202105517",
+  "transposes_celex": [
+    "32019L1161"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e86aeaf8-f10a-11eb-a71c-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
