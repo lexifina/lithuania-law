@@ -36,3 +36,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2021-03-01 | 2021-06-01 | Aktas Nr. XIII-3412 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22ENHKERLXRQ%22) |
 | 2021-06-02 | 2021-06-14 | Aktas Nr. XIV-324 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22BZUBubDFNA%22) |
 | 2021-06-15 | 2021-07-22 | Aktas Nr. XIV-378 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22fRuxAgpTlR%22) |
+| 2021-07-23 | 2021-08-11 | Aktas Nr. XIV-506 / Teisės aktų registras (Seimo kanceliarija) | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22vvrzauKQfc%22) |
