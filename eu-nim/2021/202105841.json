@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2021 m. liepos 27 d. įsakymas Nr. 3-376 ,,Dėl Lietuvos Respublikos susisiekimo ministro 2005 m. rugpjūčio 8 d. įsakymo Nr. 3-355 „Dėl Lietuvos Respublikos jūrinių laipsnių suteikimo, jūrinio laipsnio diplomų, globalinės jūrų avarinio ryšio ir saugumo sistemos radijo ryšio operatoriaus diplomų, jūrinio laipsnio kvalifikacijos liudijimų, šių dokumentų išdavimo ir pripažinimo patvirtinimų ir specialiųjų liudijimų išdavimo jūrininkams taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-16538",
+  "official_journal_page": null,
+  "official_journal_date": "2021-07-27",
+  "entry_into_force": "2021-07-28",
+  "notification_date": "2021-08-05",
+  "commission_reference": "MNE(2021)05841",
+  "nim_celex": "72019L1159LTU_202105841",
+  "nim_id": "202105841",
+  "transposes_celex": [
+    "32019L1159"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2cd3074c-f686-11eb-9037-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
