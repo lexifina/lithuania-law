@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos juridinių asmenų registro įstatymo Nr. IX-368 4-1 straipsnio, priedo pakeitimo ir Įstatymo papildymo 4-2 straipsniu įstatymas Nr. XIV-280",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-09682",
+  "official_journal_page": null,
+  "official_journal_date": "2021-05-04",
+  "entry_into_force": "2021-07-30",
+  "notification_date": "2021-07-27",
+  "commission_reference": "MNE(2021)05031",
+  "nim_celex": "72019L1151LTU_202105031",
+  "nim_id": "202105031",
+  "transposes_celex": [
+    "32019L1151"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c0b66ccb-250e-493a-b7f8-533a92aaefb6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
