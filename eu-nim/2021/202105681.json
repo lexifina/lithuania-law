@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2021 m. liepos 28 d. įsakymas Nr. A1-553 „Dėl Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2005 m. birželio 16 d. įsakymo Nr. A1-169 „Dėl Informacijos apie komandiruotus darbuotojus ir motyvuoto pranešimo dėl Lietuvos Respublikos darbo kodekso 108 straipsnio 4 dalyje numatyto laikotarpio pratęsimo teikimo tvarkos aprašo patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-16628",
+  "official_journal_page": null,
+  "official_journal_date": "2021-07-28",
+  "entry_into_force": "2021-08-01",
+  "notification_date": "2021-07-29",
+  "commission_reference": "MNE(2021)05681",
+  "nim_celex": "72014L0067LTU_202105681",
+  "nim_id": "202105681",
+  "transposes_celex": [
+    "32014L0067"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3d58838e-f10a-11eb-a71c-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
