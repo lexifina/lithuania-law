@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2014-04-25 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/c100996d0cd750e1e3390764ca8bd22b4c3261a2/istatymai/TAR.FAF1BFC0CBA0.md) |
+| 2021-08-01 |  | Įstatymas Nr. XIV-372 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/d52e1951606475c468fd9e176eb8ca77c60de633/istatymai/TAR.FAF1BFC0CBA0.md) |
