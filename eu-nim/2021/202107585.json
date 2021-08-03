@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2021 m. liepos 28 d. nutarimas Nr. 595 \"Dėl Lietuvos Respublikos Vyriausybės 2004 m. balandžio 16 d. nutarimo Nr. 438 „Dėl importuojamų prekių neapmokestinimo importo pridėtinės vertės mokesčiu“ pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-16917",
+  "official_journal_page": null,
+  "official_journal_date": "2021-08-02",
+  "entry_into_force": "2021-08-03",
+  "notification_date": "2021-11-17",
+  "commission_reference": "MNE(2021)07585",
+  "nim_celex": "72009L0132LTU_202107585",
+  "nim_id": "202107585",
+  "transposes_celex": [
+    "32009L0132"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/920be473-4b81-11ec-91ac-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
