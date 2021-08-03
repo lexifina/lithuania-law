@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ekonomikos ir inovacijų ministro 2021 m. rugpjūčio 2 d. įsakymas Nr. 4-847 ,,Dėl Juridinio asmens filialo pavyzdinių nuostatų patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-16901",
+  "official_journal_page": null,
+  "official_journal_date": "2021-08-02",
+  "entry_into_force": "2021-08-03",
+  "notification_date": "2021-11-18",
+  "commission_reference": "MNE(2021)07281",
+  "nim_celex": "72019L1151LTU_202107281",
+  "nim_id": "202107281",
+  "transposes_celex": [
+    "32019L1151"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a9945f89-4b76-11ec-91ac-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
