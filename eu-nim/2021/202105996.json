@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro ir Lietuvos Respublikos ekonomikos ir inovacijų ministro 2021 m. liepos 30 d. įsakymas Nr. D1- 450/4-843 „Dėl Lietuvos Respublikos aplinkos ministro ir Lietuvos Respublikos ūkio ministro 2012 m. sausio 17 d. įsakymo Nr. D1-46/4-63 „Dėl Gamybos liekanų priskyrimo prie šalutinių produktų tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-17344",
+  "official_journal_page": null,
+  "official_journal_date": "2021-08-10",
+  "entry_into_force": "2021-08-11",
+  "notification_date": "2021-08-11",
+  "commission_reference": "MNE(2021)05996",
+  "nim_celex": "72018L0851LTU_202105996",
+  "nim_id": "202105996",
+  "transposes_celex": [
+    "32018L0851"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/488980a3-018d-11ec-8f47-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
