@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ekonomikos ir inovacijų ministro 2021 m. rugpjūčio 18 d. įsakymas Nr. 4-926įsakymas \"Dėl Lietuvos Respublikos ekonomikos ir inovacijų ministro 2008 m. spalio  8 d. įsakymo Nr. 4-459 „Dėl tam tikrų pavojingųjų medžiagų naudojimo ribojimo elektros ir elektroninėje įrangoje taisyklių patvirtinimo“ pakeitimo",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-17662",
+  "official_journal_page": null,
+  "official_journal_date": "2021-08-18",
+  "entry_into_force": "2021-08-18",
+  "notification_date": "2021-09-06",
+  "commission_reference": "MNE(2021)06323",
+  "nim_celex": "72021L0647LTU_202106323",
+  "nim_id": "202106323",
+  "transposes_celex": [
+    "32021L0647",
+    "32021L0884"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/472d9f00-1248-11ec-b4fe-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
