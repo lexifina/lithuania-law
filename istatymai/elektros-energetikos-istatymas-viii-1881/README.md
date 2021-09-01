@@ -52,3 +52,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2021-02-01 | 2021-04-30 | Įstatymas Nr. XI-1919 / Įstatymas Nr. XIII-3336 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22xkIlhaeonz%22) |
 | 2021-05-01 | 2021-07-14 | Įstatymas Nr. XI-1919 / Įstatymas Nr. XIV-232 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22LIHoxoCfGt%22) |
 | 2021-07-15 | 2021-08-31 | Įstatymas Nr. XIV-483 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22nFCyitPfXt%22) |
+| 2021-09-01 | 2021-11-12 | Įstatymas Nr. XIV-232 / Įstatymas Nr. XIV-483 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22pykcGeGWEY%22) |
