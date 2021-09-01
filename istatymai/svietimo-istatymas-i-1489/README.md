@@ -30,3 +30,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2020-07-11 | 2020-08-31 | Įstatymas Nr. XIII-3266 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22DdAMLjMqTx%22) |
 | 2020-09-01 | 2020-12-31 | Įstatymas Nr. XIII-3022 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22nOpuXWoCGx%22) |
 | 2021-01-01 | 2021-08-31 | Įstatymas Nr. XIII-3101 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22MHBTESHTfx%22) |
+| 2021-09-01 | 2021-12-31 | Įstatymas Nr. XIII-3268 / Įstatymas Nr. XIII-3361 / Įstatymas Nr. XIII-3416 / Įstatymas Nr. XIV-484 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22vrHLhwxwvT%22) |
