@@ -12,7 +12,8 @@ e) Klaipėdos valstybinio jūrų uosto hidrotechniniai įrenginiai, krantinės, 
 f) oro erdvės valdymo sistemos, oro eismo srautų valdymo sistemos, oro eismo paslaugų sistemos, ryšių sistemos, navigacijos sistemos, stebėjimo (apžvalgos) sistemos įrenginiai, oro navigacijos informacijos paslaugų sistemos;
 g) valstybės įmonės Registrų centro informacinių technologijų techninė ir programinė įranga, programinės įrangos platformos ir pagrindinių valstybės registrų bei valstybės informacinių sistemų, kuriose tvarkoma ypatingos svarbos informacija, duomenys.
 h) Saugusis valstybinis duomenų perdavimo tinklas;
-i) Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklas.
+i) Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklas;
+j) valstybinės reikšmės vidaus vandens keliuose esančios apsauginės dambos, bunos, laivų šliuzai.
 2. Nacionaliniam saugumui užtikrinti svarbią reikšmę turinti infrastruktūra:
 a) viešiesiems geriamojo vandens tiekėjams ir nuotekų tvarkytojams nuosavybės teise priklausanti ar kitaip valdoma ir (arba) naudojama geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūra;
 b) polderiai ir jų statiniai Klaipėdos ir Šilutės rajonų bei Pagėgių savivaldybėse;
