@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ekonomikos ir inovacijų ministro 2021 m. rugsėjo 21 d.  įsakymas Nr. 4-994 \"Dėl Lietuvos Respublikos ekonomikos ir inovacijų ministro 2011 m. balandžio 1 d. įsakymo Nr. 4-174 „Dėl žaislų saugos techninio reglamento patvirtinimo\" pakeitimo",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-19774",
+  "official_journal_page": null,
+  "official_journal_date": "2021-09-21",
+  "entry_into_force": "2021-09-22",
+  "notification_date": "2021-12-27",
+  "commission_reference": "MNE(2021)06672",
+  "nim_celex": "72020L2088LTU_202106672",
+  "nim_id": "202106672",
+  "transposes_celex": [
+    "32020L2088",
+    "32020L2089",
+    "32021L0903"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ab069928-0411-4cae-af58-1b8b54890fa7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
