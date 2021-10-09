@@ -66,7 +66,7 @@ skyriaus, kuris yra kitame struktūriniame padalinyje, vedėjas, biuro vedėjas,
 8,3–15
 7,4–14
 7.1.
-patarėjas, vyriausiojo prokuroro padėjėjas, teismo pirmininko padėjėjas, teismo skyriaus pirmininko patarėjas, teisėjo vyresnysis padėjėjas, gynybos patarėjo pavaduotojas, Seimo nuolatinis atstovas Europos Sąjungoje, specialusis atašė, vyriausiasis specialistas (Seimo kanceliarijoje)
+patarėjas, vyriausiojo prokuroro padėjėjas, teismo pirmininko padėjėjas, teismo skyriaus pirmininko patarėjas, teisėjo vyresnysis padėjėjas, gynybos patarėjo pavaduotojas, Seimo nuolatinis atstovas Europos Sąjungoje, specialusis atašė, prekybos atstovas, vyriausiasis specialistas (Seimo kanceliarijoje)
 Respublikos Prezidento atstovas spaudai, Seimo Pirmininko atstovas spaudai, Ministro Pirmininko atstovas spaudai, ministro atstovas spaudai
 9,2–15
 8,3–14,5
