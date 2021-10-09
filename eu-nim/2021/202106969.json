@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos draudimo įstatymo Nr. IX-1737 2, 17, 30, 39, 64 straipsnių ir priedo pakeitimo ir įstatymo papildymo 71¹, 74¹ straipsniais įstatymas Nr. XIV-554\n\n \n\n2021 m. rugsėjo 30 d. Nr. XIV-554",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-21222",
+  "official_journal_page": null,
+  "official_journal_date": "2021-10-08",
+  "entry_into_force": "2021-10-09",
+  "notification_date": "2021-10-21",
+  "commission_reference": "MNE(2021)06969",
+  "nim_celex": "72019L2177LTU_202106969",
+  "nim_id": "202106969",
+  "transposes_celex": [
+    "32019L2177"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a11d1993-3328-11ec-bd8e-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
