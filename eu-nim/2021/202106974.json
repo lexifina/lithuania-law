@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 5, 24, 48, 51 straipsnių ir priedo pakeitimo įstatymas Nr. XIV-555",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-21223",
+  "official_journal_page": null,
+  "official_journal_date": "2021-10-08",
+  "entry_into_force": "2021-10-09",
+  "notification_date": "2021-10-21",
+  "commission_reference": "MNE(2021)06974",
+  "nim_celex": "72019L2177LTU_202106974",
+  "nim_id": "202106974",
+  "transposes_celex": [
+    "32019L2177"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/df11c336-3356-11ec-bd8e-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
