@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo Nr. VIII-1422 1, 2, 4, 5, 6, 7, 8, 11, 12, 13, 14 straipsnių ir septintojo skirsnio pavadinimo pakeitimo įstatymas Nr. XIV-411",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-15165",
+  "official_journal_page": null,
+  "official_journal_date": "2021-07-01",
+  "entry_into_force": "2021-10-31",
+  "notification_date": "2021-07-08",
+  "commission_reference": "MNE(2021)04972",
+  "nim_celex": "72019L0633LTU_202104972",
+  "nim_id": "202104972",
+  "transposes_celex": [
+    "32019L0633"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0b316ca1-e086-11eb-895a-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
