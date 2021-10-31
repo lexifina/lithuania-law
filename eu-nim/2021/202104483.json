@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 2, 9, 9-2, 9-3, 9-10, 9-11, 14, 14-1, 16, 18, 25 ir 26 straipsnių pakeitimo įstatymas XIV-295",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-11763",
+  "official_journal_page": null,
+  "official_journal_date": "2021-05-26",
+  "entry_into_force": "2021-10-31",
+  "notification_date": "2021-09-20",
+  "commission_reference": "MNE(2021)04483",
+  "nim_celex": "72014L0040LTU_202104483",
+  "nim_id": "202104483",
+  "transposes_celex": [
+    "32014L0040"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/eb60570e-1d3e-11ec-b4fe-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
