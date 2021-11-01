@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių nusižengimų kodekso 342, 589 straipsnių ir priedo pakeitimo ir Kodekso papildymo 342-1, 342-2, 342-3, 342-4, 342-5, 342-6, 342-7 straipsniais įstatymas Nr. XIV-297",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-11768",
+  "official_journal_page": null,
+  "official_journal_date": "2021-05-27",
+  "entry_into_force": "2021-11-01",
+  "notification_date": "2024-08-19",
+  "commission_reference": "MNE(2024)03525",
+  "nim_celex": "72009L0128LTU_202403525",
+  "nim_id": "202403525",
+  "transposes_celex": [
+    "32009L0128"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9680a384-1412-4500-8733-1739087993c4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
