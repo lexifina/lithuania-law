@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2021-01-01 | 2021-10-31 | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/00e11eba3bba2d4679ff51d631473f180b168fda/istatymai/TAR.604F4C20C659.md) |
+| 2021-11-01 | 2023-06-30 | Įstatymas Nr. XIV-427 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/257f8b71655efb1b811d1992614c76b068566040/istatymai/TAR.604F4C20C659.md) |
