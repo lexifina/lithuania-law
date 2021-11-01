@@ -18,7 +18,7 @@ MOKĖJIMO PRINCIPAI
 5. Statinio ar statinio projekto ekspertizė atliekama asmens, kuris siekia įteisinti savavališką statybą, iniciatyva ir lėšomis.
 6. Priklausančią mokėti įmoką apskaičiuoja statybą leidžiantį dokumentą išduodanti institucija pagal asmens, kuris siekia įteisinti savavališką statybą, pateiktą statinio ar statinio projekto ekspertizės aktą.
 7. Įmoka sumokama prieš išduodant statybą leidžiantį dokumentą.
-8. Įmokos mokėjimo tvarką nustato Aplinkos ministerija kartu su Finansų ministerija.
+8. Įmokos mokėjimo tvarką nustato aplinkos ministras kartu su finansų ministru.
 9. Įmoka sumokama į Valstybinės mokesčių inspekcijos sąskaitą ir įskaitoma į valstybės iždo sąskaitą, kurioje kaupiamos Aplinkos apsaugos rėmimo programos lėšos.
 10. Nustačius, kad buvo sumokėta per maža įmoka arba ji iš viso nesumokėta dėl fizinių, juridinių asmenų, statybą leidžiantį dokumentą išdavusios institucijos ar kitų institucijų kaltės, trūkstama arba visa įmokos suma Lietuvos Respublikos įstatymų nustatyta tvarka išieškoma atitinkamai iš fizinių, juridinių asmenų, statybą leidžiantį dokumentą išdavusios institucijos ar kitų institucijų į valstybės biudžetą.
 11. Nustačius, kad buvo sumokėta per didelė įmoka, jos permoka Lietuvos Respublikos įstatymų nustatyta tvarka grąžinama įmoką sumokėjusiam asmeniui.
