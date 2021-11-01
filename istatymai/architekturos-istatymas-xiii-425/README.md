@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2017-11-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/727cb2f736467f1ce19f3f7e79ce12d2c288b6a5/istatymai/TAR.EA80D52054F2.md) |
+| 2021-11-01 | 2022-12-31 | Įstatymas Nr. XIV-498 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/4ab99aed4297185e20ae7df37ff07021ae7e195d/istatymai/TAR.EA80D52054F2.md) |
