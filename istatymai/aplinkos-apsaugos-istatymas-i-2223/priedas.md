@@ -14,4 +14,6 @@ priedas
 9. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2193 dėl tam tikrų teršalų, išmetamų į orą iš vidutinio dydžio kurą deginančių įrenginių, kiekio apribojimo (OL 2015 L 313, p. 1).
 10. 2016 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/802 dėl sieros kiekio sumažinimo tam tikrose skystojo kuro rūšyse (OL 2016 L 132, p. 58).
 11. 2017 m. gegužės 17 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/852 dėl gyvsidabrio, kuriuo panaikinamas Reglamentas (EB) Nr. 1102/2008 (OL 2017 L 137, p. 1).
+111. 2019 m. birželio 5 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/904 dėl tam tikrų plastikinių gaminių poveikio aplinkai mažinimo.
 12. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/1021 dėl patvariųjų organinių teršalų (OL 2019 L 169, p. 45).
+13. 2020 m. gruodžio 17 d. Komisijos įgyvendinimo reglamentas (ES) 2020/2151, kuriuo nustatomos Europos Parlamento ir Tarybos direktyvos (ES) 2019/904 dėl tam tikrų plastikinių gaminių poveikio aplinkai mažinimo priedo D dalyje išvardytų vienkartinių plastikinių gaminių suderintų ženklinimo specifikacijų taisyklės.
