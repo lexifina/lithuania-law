@@ -25,3 +25,4 @@ atliekų tvarkymo įstatymo
 10. 2014 m. gruodžio 18 d. Komisijos reglamentas (ES) Nr. 1357/2014, kuriuo pakeičiamas Europos Parlamento ir Tarybos direktyvos 2008/98/EB dėl atliekų ir panaikinančios kai kurias direktyvas III priedas.
 11. 2019 m. gegužės 3 d. Komisijos deleguotasis sprendimas (ES) 2019/1597, kuriuo, siekiant vienodo maisto atliekų kiekio matavimo, Europos Parlamento ir Tarybos direktyva 2008/98/EB papildoma nuostatomis dėl bendros metodikos ir būtiniausiųjų kokybės reikalavimų.
 12. 2019 m. birželio 5 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/904 dėl tam tikrų plastikinių gaminių poveikio aplinkai mažinimo.
+13. 2020 m. gruodžio 17 d. Komisijos įgyvendinimo reglamentas (ES) 2020/2151, kuriuo nustatomos Europos Parlamento ir Tarybos direktyvos (ES) 2019/904 dėl tam tikrų plastikinių gaminių poveikio aplinkai mažinimo priedo D dalyje išvardytų vienkartinių plastikinių gaminių suderintų ženklinimo specifikacijų taisyklės.
