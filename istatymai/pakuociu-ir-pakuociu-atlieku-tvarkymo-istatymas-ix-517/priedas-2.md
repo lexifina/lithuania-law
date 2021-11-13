@@ -1,9 +1,10 @@
 # Lietuvos Respublikos
 pakuočių ir pakuočių atliekų
 tvarkymo įstatymo
-2 priedas
-ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
-1. 1994 m. gruodžio 20 d. Europos Parlamento ir Tarybos direktyva 94/62/EB dėl pakuočių ir pakuočių atliekų su paskutiniais pakeitimais, padarytais 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/852.
-2. 2005 m. kovo 22 d. Komisijos sprendimas 2005/270/EB, nustatantis duomenų bazės sistemos formas pagal Europos Parlamento ir Tarybos direktyvą 94/62/EB dėl pakuočių ir pakuočių atliekų, su paskutiniais pakeitimais, padarytais 2019 m. balandžio 17 d. Komisijos įgyvendinimo sprendimu (ES) 2019/665.
-3. 2008 m. lapkričio 19 d. Europos Parlamento ir Tarybos direktyva 2008/98/EB dėl atliekų ir panaikinanti kai kurias direktyvas su paskutiniais pakeitimais, padarytais 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/851.
-4. 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/720, kuria dėl lengvųjų plastikinių pirkinių maišelių sunaudojimo mažinimo iš dalies keičiama Direktyva 94/62/EB.
+1¹ priedas
+UŽPILDYTI Vienkartiniai plastikiniai gaminiai
+1. Maisto tara, t. y. talpyklos, pavyzdžiui, dėžutės su dangteliais arba be jų, kuriose laikomas maistas, skirtas nedelsiant suvartoti vietoje arba išsinešti, paprastai suvartojamas iš talpyklos ir yra paruoštas suvartoti be papildomo paruošimo, pavyzdžiui, be kepimo, virimo ar pašildymo, įskaitant maisto tarą, naudojamą greitam maistui arba kitam nedelsiant suvartoti skirtam maistui.
+2. Pakeliai ir vyniojamojo popieriaus pakuotės, pagaminti iš lanksčios medžiagos, kuriuose pateikiamas maistas, skirtas nedelsiant suvartoti iš pakelio ar pakuotės be papildomo paruošimo.
+3. Ne didesnės kaip trijų litrų talpos gėrimų tara, t. y. talpyklos, naudojamos skysčiams laikyti, pavyzdžiui, gėrimų buteliai, įskaitant jų kamštelius ir dangtelius, ir kombinuotosios gėrimų pakuotės, įskaitant jų kamštelius ir dangtelius, išskyrus stiklinę ar metalinę gėrimų tarą su plastikiniais kamšteliais ir dangteliais.
+4. Gėrimų indeliai, įskaitant jų kamštelius ir dangtelius.
+5. Lengvieji plastikiniai pirkinių maišeliai.
