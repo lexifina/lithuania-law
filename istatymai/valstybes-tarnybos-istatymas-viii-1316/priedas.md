@@ -55,7 +55,7 @@ skyriaus, kuris nėra kitame struktūriniame padalinyje, vedėjas, komisijos sek
 9–16
 8,1–15
 6.1.
-vyresnysis patarėjas, patarėjas (Seimo kanceliarijoje)
+vyresnysis patarėjas, patarėjas (Seimo kanceliarijoje), Seimo nuolatinis atstovas
 ministro patarėjas
 11–16
 9–15,5
@@ -66,13 +66,13 @@ skyriaus, kuris yra kitame struktūriniame padalinyje, vedėjas, biuro vedėjas,
 8,3–15
 7,4–14
 7.1.
-patarėjas, vyriausiojo prokuroro padėjėjas, teismo pirmininko padėjėjas, teismo skyriaus pirmininko patarėjas, teisėjo vyresnysis padėjėjas, gynybos patarėjo pavaduotojas, Seimo nuolatinis atstovas Europos Sąjungoje, specialusis atašė, prekybos atstovas, vyriausiasis specialistas (Seimo kanceliarijoje)
+patarėjas, vyriausiojo prokuroro padėjėjas, teismo pirmininko padėjėjas, teismo skyriaus pirmininko patarėjas, teisėjo vyresnysis padėjėjas, gynybos patarėjo pavaduotojas, Seimo nuolatinio atstovo pavaduotojas, specialusis atašė, prekybos atstovas, vyriausiasis specialistas (Seimo kanceliarijoje)
 Respublikos Prezidento atstovas spaudai, Seimo Pirmininko atstovas spaudai, Ministro Pirmininko atstovas spaudai, ministro atstovas spaudai
 9,2–15
 8,3–14,5
 7,4–13,5
 8.
-vyriausiasis specialistas, specialiojo atašė pavaduotojas, Seimo nuolatinio atstovo Europos Sąjungoje pavaduotojas, prokuroro padėjėjas, teisėjo padėjėjas, teismo konsultantas, padėjėjas (Seimo kanceliarijoje), vyresnysis specialistas (Seimo kanceliarijoje)
+vyriausiasis specialistas, specialiojo atašė pavaduotojas, prokuroro padėjėjas, teisėjo padėjėjas, teismo konsultantas, padėjėjas (Seimo kanceliarijoje), vyresnysis specialistas (Seimo kanceliarijoje)
 savivaldybės tarybos sekretorius, mero patarėjas, Respublikos Prezidento referentas, Seimo Pirmininko padėjėjas, Ministro Pirmininko padėjėjas, Seimo frakcijos referentas
 7,7–13,5
 7,1–13
