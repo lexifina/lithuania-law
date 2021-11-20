@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2021 m. lapkričio 11 d. įsakymas Nr. V-2540 “Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2011 m. spalio 17 d. įsakymo Nr. V-910 ,,Dėl Laivų vaistinėlių išdavimo ir kontrolės tvarkos aprašo patvirtinimo“ pakeitimo”",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-23392",
+  "official_journal_page": null,
+  "official_journal_date": "2021-11-11",
+  "entry_into_force": "2021-11-20",
+  "notification_date": "2021-11-16",
+  "commission_reference": "MNE(2021)07593",
+  "nim_celex": "72019L1834LTU_202107593",
+  "nim_id": "202107593",
+  "transposes_celex": [
+    "32019L1834"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/30657db8-4b7f-11ec-91ac-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
