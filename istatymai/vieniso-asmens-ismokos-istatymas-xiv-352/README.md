@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2021-07-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/d326e5ee2571e205057ec399ca6dd0e5f05a6665/istatymai/TAR.81473890C8E0.md) |
+| 2021-11-27 | 2021-12-31 | Įstatymas Nr. XIV-679 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/f384322e9f407f797f8c5de35cbfe057ad19fd2a/istatymai/TAR.81473890C8E0.md) |
