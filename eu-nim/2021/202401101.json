@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4 ir 17 straipsnių pakeitimo įstatymas Nr. XIV-449",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-15453",
+  "official_journal_page": null,
+  "official_journal_date": "2021-07-07",
+  "entry_into_force": "2021-12-01",
+  "notification_date": "2024-03-06",
+  "commission_reference": "MNE(2024)01101",
+  "nim_celex": "71999L0070LTU_202401101",
+  "nim_id": "202401101",
+  "transposes_celex": [
+    "31999L0070"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/14faa744-5134-4252-bf62-df63d3911657",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
