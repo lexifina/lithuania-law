@@ -1,4 +1,6 @@
-# Lietuvos Respublikos specialiųjų
+# part_981f5a128ff640a2a4ed74fab4d7e972_end
+part_eb97384c32d141d580f2ff42063907e7_end
+Lietuvos Respublikos specialiųjų
 žemės naudojimo sąlygų įstatymo
 4 priedas
 PASTATŲ, KURIUOSE LAIKOMI ŪKINIAI GYVŪNAI, SU PRIE JŲ ESANČIAIS MĖŠLO IR SRUTŲ KAUPIMO ĮRENGINIAIS ARBA BE JŲ SANITARINĖS APSAUGOS ZONŲ DYDIS
