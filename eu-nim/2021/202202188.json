@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2021 m. gruodžio 1 d. nutarimas Nr. 1028 „Dėl Lietuvos Respublikos Vyriausybės 2005 m. balandžio 21 d. nutarimo Nr. 447 „Dėl Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo įgyvendinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-25381",
+  "official_journal_page": null,
+  "official_journal_date": "2021-12-07",
+  "entry_into_force": "2021-12-08",
+  "notification_date": "2022-04-01",
+  "commission_reference": "MNE(2022)02188",
+  "nim_celex": "72019L0520LTU_202202188",
+  "nim_id": "202202188",
+  "transposes_celex": [
+    "32019L0520"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bee51fa3-b70c-11ec-b6f4-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
