@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2021 m. gruodžio 29 d. įsakymas Nr. 1-379 „Dėl Degalų iš atsinaujinančių energijos išteklių apskaitos vienetų sistemos administravimo tvarkos aprašo patvirtinimo“ (suvestinė redakcija nuo 2023-08-17 iki 2025-04-08)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-27508",
+  "official_journal_page": null,
+  "official_journal_date": "2021-12-29",
+  "entry_into_force": "2021-12-30",
+  "notification_date": "2025-05-23",
+  "commission_reference": "MNE(2025)02970",
+  "nim_celex": "72023L2413LTU_202502970",
+  "nim_id": "202502970",
+  "transposes_celex": [
+    "32023L2413"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/248450fc-c7c5-48ee-9270-46bcb2d19fd7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
