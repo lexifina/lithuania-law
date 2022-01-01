@@ -1,4 +1,5 @@
-# Lietuvos Respublikos
+# part_1e19b874a13b492cb4668d57f3a7cd62_end
+Lietuvos Respublikos
 kelių priežiūros ir
 plėtros programos
 finansavimo įstatymo
@@ -98,7 +99,7 @@ savivaldybės teritorijoje
 13,90–15,98
 –
 –
-4. Mokestis nustatomas sumuojant mokesčius už kiekvienos ašies (ašių) didžiausiosios leidžiamosios ašies (ašių) apkrovos viršijimą.
+4. Mokestis nustatomas sumuojant mokesčius už kiekvienos ašies (ašių) didžiausiosios leidžiamosios ašies (ašių) apkrovos viršijimą. Jeigu sunkiasvorės motorinės transporto priemonės ar jų junginio ašies (ašių) apkrova su kroviniu ar be jo viršija 8 t, tokioms sunkiasvorėms motorinėms transporto priemonėms ar jų junginiams taikomas vienkartinis tarifas, kuris apskaičiuojamas taip: prie didžiausiojo ribinio tarifo pridedamas papildomas 2 eurų mokestis už kiekvieną ašies (ašių) apkrovos viršijimą 1 t.
 5. Mokesčio už naudojimąsi keliais važiuojant sunkiasvoriais traktoriais ir savaeigėmis mašinomis ar jų junginiais, kurių ašies (ašių) apkrova su kroviniu ar be jo yra didesnė už didžiausiąją leidžiamąją ašies (ašių) apkrovą, ribiniai tarifai:
 Didžiausioji leidžiamoji ašies (ašių) apkrova viršyta, t
 Ribiniai tarifai, eurais
