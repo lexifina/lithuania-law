@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2021-01-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/5f63388f1cdf7717f1b13d4a9908e05de6b098e1/istatymai/TAR.B1EEE4909BE9.md) |
+| 2022-01-01 | 2023-12-31 | Įstatymas Nr. XIV-646 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/5d25865e40fc999962216bcec4aacb490951a0c2/istatymai/TAR.B1EEE4909BE9.md) |
