@@ -1,4 +1,5 @@
-# Lietuvos Respublikos
+# part_eeb5fe3931ce489fae9e59aec22c4baa_end
+Lietuvos Respublikos
 kelių priežiūros ir
 plėtros programos
 finansavimo įstatymo

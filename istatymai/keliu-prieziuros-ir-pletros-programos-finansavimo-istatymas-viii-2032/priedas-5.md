@@ -1,4 +1,5 @@
-# Lietuvos Respublikos
+# part_13500aa429c2408e89328812418bd17d_end
+Lietuvos Respublikos
 kelių priežiūros ir plėtros
 programos finansavimo
 įstatymo
@@ -6,3 +7,4 @@ programos finansavimo
 ĮGYVENDINAMI Europos Sąjungos TEISĖS AKTAI
 1. 1996 m. liepos 25 d. Tarybos direktyva 96/53/EB, nustatanti tam tikrų Bendrijoje nacionaliniam ir tarptautiniam vežimui naudojamų kelių transporto priemonių didžiausius leistinus matmenis ir tarptautiniam vežimui naudojamų kelių transporto priemonių didžiausią leistiną masę (OL 2004 m. specialusis leidimas, 7 skyrius, 2 tomas, p. 478), su paskutiniais pakeitimais, padarytais 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/719 (OL 2015 L 115, p. 1).
 2. 1999 m. birželio 17 d. Europos Parlamento ir Tarybos direktyva 1999/62/EB dėl sunkiasvorių krovininių transporto priemonių apmokestinimo už naudojimąsi tam tikra infrastruktūra (OL 2004 m. specialusis leidimas, 7 skyrius, 4 tomas, p. 372) su paskutiniais pakeitimais, padarytais 2011 m. rugsėjo 27 d. Europos Parlamento ir Tarybos direktyva 2011/76/EB (OL 2011 L 269, p. 1).
+part_ce02f3a5172f4814bcc7f54fcd934107_end
