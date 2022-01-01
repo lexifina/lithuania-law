@@ -7,3 +7,4 @@ Skrydžiai kartu su orlaivio įgula Pratybos ir kovinis budėjimas kartu su laiv
 1 2 1,5 1
 Užduotys, kurioms atlikti reikia ypatingos psichologinės ir fizinės ištvermės: lauko pratybos kareivinių režimu tarnyba kareivinių režimu aukštesniu nei įprastiniu budrumo lygiu
 3 2,5
+part_1a02dd7f5c584bffb0b877304d540429_end
