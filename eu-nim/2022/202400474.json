@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 2, 3, 5, 26, 32, 40, 50, 67, 71, 76, 77, 79, 113, 125, 126, 130-1, 136, 138, 139, 140 straipsnių pakeitimo, 69 straipsnio ir IX-1 skyriaus pripažinimo netekusiais galios ir Įstatymo papildymo X-2 skyriumi įstatymas Nr. XIV-816",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-27706",
+  "official_journal_page": null,
+  "official_journal_date": "2021-12-30",
+  "entry_into_force": "2022-01-01",
+  "notification_date": "2024-01-31",
+  "commission_reference": "MNE(2024)00474",
+  "nim_celex": "72021L1883LTU_202400474",
+  "nim_id": "202400474",
+  "transposes_celex": [
+    "32021L1883"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1f60ecb4-0a66-4719-afa6-8b9decf4debe",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
