@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos bankų įstatymo Nr. IX-2085 2, 9, 16, 48, 52, 57, 59, 67, 70-1, 72, 87 straipsnių, priedo pakeitimo ir Įstatymo papildymo 70-3 straipsniu įstatymas Nr. XIV-763",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-26892",
+  "official_journal_page": null,
+  "official_journal_date": "2021-12-23",
+  "entry_into_force": "2022-01-01",
+  "notification_date": "2022-01-10",
+  "commission_reference": "MNE(2022)00187",
+  "nim_celex": "72021L0338LTU_202200187",
+  "nim_id": "202200187",
+  "transposes_celex": [
+    "32021L0338"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5d3aad59-752c-11ec-9136-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
