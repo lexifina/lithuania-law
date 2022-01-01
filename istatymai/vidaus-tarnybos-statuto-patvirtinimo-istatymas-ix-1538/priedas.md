@@ -57,13 +57,13 @@ Inspektorius, sargybos viršininkas, būrininkas, pamainos vadas, specialistas, 
 5,7–11,5
 13
 Vyriausiasis patrulis, vyriausiasis postinis, skyrininkas, jaunesnysis specialistas, vyriausiasis ugniagesys gelbėtojas, viršila, jaunesnysis budėtojas, vyresnysis kovotojas
-5,2–11,5
-4,7–11
+5,4–11,5
+5,2–11
 14
 Vyresnysis postinis, vyresnysis patrulis, dispečeris, vyresnysis ugniagesys gelbėtojas, vyresnysis pasienietis, kovotojas
-4,9–11
-4,5–10,5
+5,1–11
+5,0–10,5
 15
 Postinis, patrulis, pasienietis, ugniagesys gelbėtojas
-4,7–10,5
-4,4–10
+4,9–10,5
+4,9–10
