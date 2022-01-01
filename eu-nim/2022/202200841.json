@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "2021 m. rugsėjo 30 d. Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 2, 8, 17, 19, 22, 25, 27, 31, 35, 46, 51, 52, 55, 57, 58, 82, 86, 91, 92, 93, 94, 95, 96 straipsnių pakeitimo ir Įstatymo papildymo 82-1 straipsniu įstatymas Nr. XIV-545",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-21632",
+  "official_journal_page": null,
+  "official_journal_date": "2021-10-15",
+  "entry_into_force": "2022-01-01",
+  "notification_date": "2022-04-11",
+  "commission_reference": "MNE(2022)00841",
+  "nim_celex": "72014L0024LTU_202200841",
+  "nim_id": "202200841",
+  "transposes_celex": [
+    "32014L0024"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2fa692c4-bc94-11ec-b6f4-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
