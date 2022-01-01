@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 36, 47 straipsnių ir 2 priedo pakeitimo įstatymas Nr. XIV-820",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-27708",
+  "official_journal_page": null,
+  "official_journal_date": "2021-12-30",
+  "entry_into_force": "2022-01-01",
+  "notification_date": "2021-12-31",
+  "commission_reference": "MNE(2021)09039",
+  "nim_celex": "72021L1159LTU_202109039",
+  "nim_id": "202109039",
+  "transposes_celex": [
+    "32021L1159"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5bbcd780-5d11-40e8-91d0-10d30ddff2d4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
