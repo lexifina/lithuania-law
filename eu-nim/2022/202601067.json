@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2021 m. gruodžio 22 d. nutarimas Nr. 1133 „Dėl Lietuvos Respublikos Vyriausybės 2020 m. birželio 10 d. nutarimo Nr. 600 „Dėl Ginklų registro reorganizavimo ir Ginklų registro nuostatų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-27256",
+  "official_journal_page": null,
+  "official_journal_date": "2021-12-28",
+  "entry_into_force": "2022-01-01",
+  "notification_date": "2026-02-11",
+  "commission_reference": "MNE(2026)01067",
+  "nim_celex": "72021L0555LTU_202601067",
+  "nim_id": "202601067",
+  "transposes_celex": [
+    "32021L0555"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e27f32fa-53fc-479c-b24d-d292dafda83d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
