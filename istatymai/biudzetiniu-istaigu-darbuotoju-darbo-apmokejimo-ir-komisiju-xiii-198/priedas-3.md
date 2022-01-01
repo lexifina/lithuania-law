@@ -12,26 +12,26 @@ iki 5
 nuo daugiau kaip 5 iki 10
 daugiau kaip 10
 iki 5
-5,4–9,5
-5,5–10,6
-5,6–11,8
-4,7–8,9
-4,8–9
-4,9–9,2
+6,9–9,5
+7,0–10,6
+7,1–11,8
+6,2–9,0
+6,3–9,1
+6,4–9,3
 nuo daugiau kaip 5 iki 10
-5,5–9,6
-5,6–10,7
-5,7–11,9
-4,8–9
-4,9–9,2
-5–9,4
+7,0–9,6
+7,1–10,7
+7,2–11,9
+6,3–9,1
+6,4–9,3
+6,5–9,5
 daugiau kaip 10
-5,6–9,7
-5,7–10,8
-5,8–12
-4,9–9,2
-5–9,4
-5,2–9,5
+7,1–9,7
+7,2–10,8
+7,3–12
+6,4–9,3
+6,5–9,5
+6,7–9,6
 Lietuvos Respublikos
 valstybės ir savivaldybių įstaigų darbuotojų
 darbo apmokėjimo ir komisijų narių atlygio
