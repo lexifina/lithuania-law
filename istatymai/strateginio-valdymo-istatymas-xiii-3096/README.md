@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2021-01-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/0360a7c233fb339867d97241dbd59f0ca04918cf/istatymai/TAR.13ECBB50C1BE.md) |
+| 2022-01-01 | 2023-03-31 | Įstatymas Nr. XIV-836 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/31843f5f4f1a79301178edcfeb84295bbd9d89cb/istatymai/TAR.13ECBB50C1BE.md) |
