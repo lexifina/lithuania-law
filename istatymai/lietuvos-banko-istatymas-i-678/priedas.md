@@ -126,3 +126,8 @@ Prižiūrimi duomenų tiekėjai
 –
 217 Eur
 30.
+Nacionalinės plėtros įstaigos
+–
+2 000 Eur
+31.
+Mišrios veiklos finansų kontroliuojančiosios įmonės, įsteigtos Lietuvos Respublikoje, finansų kontroliuojančiosios bendrovės, įsteigtos Lietuvos Respublikoje

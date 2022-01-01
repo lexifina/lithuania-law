@@ -1,6 +1,5 @@
-# Nacionalinės plėtros įstaigos
-–
-2 000 Eur
+# –
+5 000 Eur
 Lietuvos Respublikos
 Lietuvos banko įstatymo
 2 priedas
@@ -10,7 +9,7 @@ Rinkos dalyviai
 Įmokų bazė
 Maksimalus įmokų dydis
 1.
-Lietuvos Respublikoje licencijuoti bankai, Centrinė kredito unija, kitose negu Europos ekonominės erdvės valstybėse licencijuotų užsienio bankų filialai, įsteigti Lietuvos Respublikoje
+Lietuvos Respublikoje licencijuoti bankai, centrinė kredito unija, kitose negu Europos ekonominės erdvės valstybėse licencijuotų užsienio bankų filialai, įsteigti Lietuvos Respublikoje
 Vidutinis metinis turtas
 0,0043 proc.
 2.
@@ -18,7 +17,7 @@ Europos ekonominės erdvės valstybėse licencijuotų užsienio bankų filialai,
 Vidutinis metinis turtas
 0,0014 proc.
 3.
-Lietuvos Respublikoje licencijuotos finansų maklerio įmonės, kurioms taikomas Finansinių priemonių rinkų įstatymo 121 straipsnio 2 dalyje nustatytas reikalavimas
+Lietuvos Respublikoje licencijuotos finansų maklerio įmonės, kurioms taikomas Finansinių priemonių rinkų įstatymo 14 straipsnio 2 dalyje nustatytas reikalavimas
 Metinės pajamos
 0,075 proc.
 4.
