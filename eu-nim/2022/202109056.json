@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 2, 3, 6, 8, 9, 13, 14, 15, 16, 23, 29, 30, 31, 33, 35, 39, 49, 50, 51, 72, 73, 76, 93, 97, 99, 102, 107, 111, 112, 114 straipsnių, priedo pakeitimo, Įstatymo papildymo 14-1, 14-2, 15-1, 15-2, 15-3, 15-4, 15-5, 15-6, 44-1, 107-1, 111-1 straipsniais ir V skyriaus pripažinimo netekusiu galios įstatymas Nr. XIV-821",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-27710",
+  "official_journal_page": null,
+  "official_journal_date": "2021-12-30",
+  "entry_into_force": "2022-01-02",
+  "notification_date": "2022-01-07",
+  "commission_reference": "MNE(2021)09056",
+  "nim_celex": "72019L2177LTU_202109056",
+  "nim_id": "202109056",
+  "transposes_celex": [
+    "32019L2177"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/668b033b-7537-11ec-9136-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
