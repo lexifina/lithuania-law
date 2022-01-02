@@ -1,4 +1,5 @@
-# Lietuvos Respublikos
+# part_d483426308b84a51b6059bf0bcb812cc_end
+Lietuvos Respublikos
 aviacijos įstatymo
 2 priedas
 ANTRASIS ANTŽEMINIŲ PASLAUGŲ SĄRAŠAS
