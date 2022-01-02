@@ -86,7 +86,7 @@ Valiutos keityklų operatoriai
 –
 434 Eur
 20.
-Sutelktinio finansavimo platformos operatoriai
+Sutelktinio finansavimo platformos operatoriai arba sutelktinio finansavimo paslaugų teikėjai
 –
 3 000 Eur
 21.
