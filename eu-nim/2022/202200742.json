@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos bankų įstatymo Nr. IX-2085 9, 10 ir 73 straipsnių pakeitimo įstatymas Nr. XIV-824",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-27715",
+  "official_journal_page": null,
+  "official_journal_date": "2021-12-30",
+  "entry_into_force": "2022-01-02",
+  "notification_date": "2022-03-08",
+  "commission_reference": "MNE(2022)00742",
+  "nim_celex": "72019L2034LTU_202200742",
+  "nim_id": "202200742",
+  "transposes_celex": [
+    "32019L2034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7b323766-a11b-11ec-83e1-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
