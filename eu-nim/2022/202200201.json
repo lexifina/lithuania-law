@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2022 m. sausio 6 d. nutarimas Nr. 03-6 „Dėl Lietuvos banko valdybos 2015 m. rugpjūčio 13 d. nutarimo Nr. 03-131 „Dėl Priežiūrinio tikrinimo ir vertinimo proceso bendrųjų nuostatų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2022-00242",
+  "official_journal_page": null,
+  "official_journal_date": "2022-01-07",
+  "entry_into_force": "2022-01-08",
+  "notification_date": "2022-01-26",
+  "commission_reference": "MNE(2022)00201",
+  "nim_celex": "72019L0878LTU_202200201",
+  "nim_id": "202200201",
+  "transposes_celex": [
+    "32019L0878"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/152aa004-801b-11ec-8c40-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
