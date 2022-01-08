@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2022 m. sausio 6 d. nutarimas Nr. 03-5  „Dėl Lietuvos banko valdybos 2006 m. lapkričio 23 d. nutarimo Nr. 145 „Dėl Vidaus kapitalo pakankamumo vertinimo proceso bendrųjų nuostatų patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2022-00241",
+  "official_journal_page": null,
+  "official_journal_date": "2022-01-07",
+  "entry_into_force": "2022-01-08",
+  "notification_date": "2022-01-26",
+  "commission_reference": "MNE(2022)00199",
+  "nim_celex": "72019L0878LTU_202200199",
+  "nim_id": "202200199",
+  "transposes_celex": [
+    "32019L0878"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6b9a85ca-408c-49f7-816e-92987c22dc3f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
