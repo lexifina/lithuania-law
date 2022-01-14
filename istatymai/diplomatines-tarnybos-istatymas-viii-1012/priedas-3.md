@@ -11,6 +11,7 @@ Trečiasis sekretorius
 2,1
 Atašė
 1,8
+part_c36581baa1dd491cbde71bf9e28ffe7f_end
 Lietuvos Respublikos
 diplomatinės tarnybos įstatymo
 3 priedas
@@ -55,3 +56,4 @@ Specialistas
 Atašė
 –
 4,27
+part_1fb0a05cd4034a9fbfccf25e9370cf43_end
