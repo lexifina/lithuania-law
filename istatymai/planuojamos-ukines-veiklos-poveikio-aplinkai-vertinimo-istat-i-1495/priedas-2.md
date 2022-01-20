@@ -33,9 +33,11 @@ PLANUOJAMOS ŪKINĖS VEIKLOS, KURIAI TURI BŪTI ATLIEKAMA ATRANKA DĖL POVEIKIO 
 1.5. nesukultūrintų natūraliai apaugusių žemės plotų (pievos ir natūralios ganyklos, medžių ir krūmų želdiniai, pelkės ir krūmai) panaudojimas intensyviai žemės ūkio veiklai, kai panaudojamas 0,5 ha ar didesnis plotas;
 1.6. kaimo plėtros žemėtvarkos projektai (kai planuojamos teritorijos plotas 1 ha ar didesnis), kuriuose planuojamiems sprendiniams įgyvendinti bus keičiamos žemės ūkio naudmenos į kitas (ne žemės ūkio) naudmenas, išskyrus:
 1.6.1. ūkininko sodybos statinių – vieno buto gyvenamosios paskirties pastato su pagalbinio ūkio paskirties statiniais statybos zonos nustatymą;
-1.6.2. miško įveisimą plotuose, kuriuose pagal savivaldybių teritorijų miškų išdėstymo žemėtvarkos schemas numatyta įveisti mišką;
+1.6.2. neteko galios nuo 2022-01-20;
 1.6.3. kai planuojamoje teritorijoje numatoma vykdyti šio įstatymo 1 priede ar šiame priede nurodytą ūkinę veiklą;
-1.7. miško įveisimas, išskyrus plotus, kuriuose pagal savivaldybių teritorijų miškų išdėstymo žemėtvarkos schemas numatyta įveisti mišką, ar miško iškirtimas siekiant pakeisti žemės naudojimą, išskyrus atvejus, kai atkuriamos atviros Europos Bendrijos svarbos natūralios buveinės ar rūšių buveinės (miško iškirtimas miestuose – visais atvejais, kaimo vietovėse – kai įveisiamas ar iškertamas 1 ha ar didesnis plotas);
+1.7. miško įveisimas ar miško iškirtimas keičiant žemės naudmenas, kai:
+1.7.1. miškas įveisiamas didesniame kaip 10 ha žemės plote;
+1.7.2. miškas iškertamas kaimo vietovėse 1 ha ir didesniame žemės plote, miestuose – bet kokio dydžio žemės plote, išskyrus atvejus, kai atkuriamos atviros Europos Bendrijos svarbos natūralios buveinės ar rūšių buveinės;
 1.8. žemės plotų atgavimas iš jūros.
 2. Gavyba ir perdirbamoji pramonė:
 2.1. durpių gavyba (kai kasybos sklypas – mažiau kaip 150 ha, bet daugiau kaip 0,5 ha);
