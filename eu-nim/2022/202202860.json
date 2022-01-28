@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 12 ir 25(2) straipsnių pakeitimo įstatymas Nr. XIV-915",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2022-01288",
+  "official_journal_page": null,
+  "official_journal_date": "2022-01-27",
+  "entry_into_force": "2022-01-28",
+  "notification_date": "2022-05-04",
+  "commission_reference": "MNE(2022)02860",
+  "nim_celex": "72018L0843LTU_202202860",
+  "nim_id": "202202860",
+  "transposes_celex": [
+    "32018L0843"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/af1da589-cd0c-11ec-a95f-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
