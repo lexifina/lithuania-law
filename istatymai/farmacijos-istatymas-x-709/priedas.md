@@ -2,7 +2,6 @@
 priedas
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 1. 1988 m. gruodžio 21 d. Tarybos direktyva 89/105/EEB dėl priemonių, reglamentuojančių žmonėms skirtų vaistų kainų nustatymą ir šių vaistų įtraukimą į nacionalinių sveikatos draudimo sistemų sritį, skaidrumo (OL 2004 m. specialusis leidimas, 5 skyrius, 1 tomas, p. 345).
-2. 2001 m. balandžio 4 d. Europos Parlamento ir Tarybos direktyva 2001/20/EB dėl valstybių narių įstatymų ir kitų teisės aktų, susijusių su geros klinikinės praktikos įgyvendinimu atliekant žmonėms skirtų vaistų klinikinius tyrimus, suderinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 26 tomas, p. 299).
 2. Neteko galios.
 3. 2001 m. lapkričio 6 d. Europos Parlamento ir Tarybos direktyva 2001/83/EB dėl Bendrijos kodekso, reglamentuojančio žmonėms skirtus vaistus (OL 2004 m. specialusis leidimas, 13 skyrius, 27 tomas, p. 69), su paskutiniais pakeitimais, padarytais 2012 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2012/26/ES (tekstas svarbus EEE) (OL 2012 L 299, p. 1).
 4. 2003 m. spalio 8 d. Europos Komisijos direktyva 2003/94/EB, nustatanti žmonėms skirtų vaistų ir tiriamųjų vaistų geros gamybos praktikos principus ir taisykles (tekstas svarbus EEE) (OL 2004 m. specialusis leidimas, 13 skyrius, 32 tomas, p. 424).
@@ -14,4 +13,4 @@ priedas
 10. 2011 m. kovo 9 d. Europos Parlamento ir Tarybos direktyva 2011/24/ES dėl pacientų teisių į tarpvalstybines sveikatos priežiūros paslaugas įgyvendinimo (OL 2011 L 88, p. 45).
 11. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 536/2014 dėl žmonėms skirtų vaistų klinikinių tyrimų, kuriuo panaikinama Direktyva 2001/20/EB (OL 2014 L 158, p. 1).
 12. 2015 m. spalio 2 d. Komisijos deleguotasis reglamentas (ES) 2016/161, kuriuo nustatomos išsamios apsaugos priemonių ant žmonėms skirtų vaistų pakuotės naudojimo taisyklės ir taip papildoma Europos Parlamento ir Tarybos direktyva 2001/83/EB (OL 2016 L 32, p. 1).
-part_eedfb1a5d55d4ca79ccdeadd8605a7bb_end
+part_0456459568d24d94a6d25c948c991fd6_end
