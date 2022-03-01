@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2022 m. vasario 24 d. įsakymas Nr. 3-108 „Dėl Kelių saugumo auditorių mokymo, egzaminavimo, pažymėjimų išdavimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinamo ir galiojimo panaikinimo reikalavimų ir tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2022-03524",
+  "official_journal_page": null,
+  "official_journal_date": "2022-02-24",
+  "entry_into_force": "2022-03-01",
+  "notification_date": "2022-03-09",
+  "commission_reference": "MNE(2022)01580",
+  "nim_celex": "72019L1936LTU_202201580",
+  "nim_id": "202201580",
+  "transposes_celex": [
+    "32019L1936"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/dabac7f9-a11d-11ec-83e1-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
