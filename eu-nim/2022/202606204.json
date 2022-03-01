@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės energetikos reguliavimo tarybos 2021 m. gruodžio 30 d. nutarimas Nr. O3E-1802 „Dėl AB „Amber Grid“ gamtinių dujų perdavimo sistemos balansavimo taisyklių derinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-27652",
+  "official_journal_page": null,
+  "official_journal_date": "2021-12-30",
+  "entry_into_force": "2022-03-01",
+  "notification_date": "2026-08-06",
+  "commission_reference": "MNE(2026)06204",
+  "nim_celex": "72024L1788LTU_202606204",
+  "nim_id": "202606204",
+  "transposes_celex": [
+    "32024L1788"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3c610ec1-572a-48da-b4e0-d5362958f6f9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
