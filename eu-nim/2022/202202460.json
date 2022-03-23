@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2022 m. kovo 22 d. įsakymas Nr. (1.9E)1V-207 „Dėl Radijo ryšio plėtros 3400–3800 MHz radijo dažnių juostoje plano patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2022-05120",
+  "official_journal_page": null,
+  "official_journal_date": "2022-03-22",
+  "entry_into_force": "2022-03-23",
+  "notification_date": "2022-04-13",
+  "commission_reference": "MNE(2022)02460",
+  "nim_celex": "72018L1972LTU_202202460",
+  "nim_id": "202202460",
+  "transposes_celex": [
+    "32018L1972"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/02d64120-9624-4661-8a13-ffa9f536a37f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
