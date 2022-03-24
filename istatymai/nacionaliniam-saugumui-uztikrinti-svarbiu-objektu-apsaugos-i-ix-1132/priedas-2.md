@@ -1,4 +1,5 @@
-# Lietuvos Respublikos
+# part_d60def054dec43c09ffe18d2645724e0_end
+Lietuvos Respublikos
 nacionaliniam saugumui užtikrinti
 svarbių objektų apsaugos įstatymo
 2 priedas

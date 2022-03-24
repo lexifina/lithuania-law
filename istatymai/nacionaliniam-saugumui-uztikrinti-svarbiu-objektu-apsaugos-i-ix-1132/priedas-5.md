@@ -1,4 +1,5 @@
-# Lietuvos Respublikos
+# part_6b366cd6de5f46f5a8a7b7fb99dff3c5_end
+Lietuvos Respublikos
 nacionaliniam saugumui užtikrinti
 svarbių objektų apsaugos įstatymo
 5 priedas
