@@ -29,3 +29,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2021-07-01 | 2021-12-28 | Įstatymas Nr. XIII-3346 / Įstatymas Nr. XIV-429 / Teisės aktų registras (Seimo kanceliarija) | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22kXzkuAgzjI%22) |
 | 2021-12-29 | 2021-12-31 | Įstatymas Nr. XIV-778 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22FxiuAdDCYo%22) |
 | 2022-01-01 | 2022-03-31 | Įstatymas Nr. XIV-820 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22aTRrjCKXFw%22) |
+| 2022-04-01 | 2022-04-30 | Įstatymas Nr. XIV-942 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22UHKdVnWOmJ%22) |
