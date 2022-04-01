@@ -1,4 +1,5 @@
-# Lietuvos Respublikos
+# part_b608d6fd831a4996bc8adfb3e2bb95c7_end
+Lietuvos Respublikos
 viešųjų pirkimų, atliekamų gynybos
 ir saugumo srityje, įstatymo
 4 priedas

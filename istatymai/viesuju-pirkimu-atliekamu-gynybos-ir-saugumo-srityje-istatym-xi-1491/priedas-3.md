@@ -1,4 +1,5 @@
 # Kitos paslaugos
+part_8b311af4402f46e8a772b1d23542bb3e_end
 Lietuvos Respublikos
 viešųjų pirkimų, atliekamų gynybos
 ir saugumo srityje, įstatymo
