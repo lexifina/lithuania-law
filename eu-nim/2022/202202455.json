@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2022 m. balandžio 8 d. įsakymas Nr. (1.9E)1V-259 „Dėl Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2011 m. balandžio 29 d. įsakymo Nr. 1V-460 „Dėl Abonento teisės išlaikyti abonentinį numerį, keičiant viešųjų telefono ryšio paslaugų teikėją, paslaugų teikimo vietą arba būdą, užtikrinimo sąlygų ir tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2022-07404",
+  "official_journal_page": null,
+  "official_journal_date": "2022-04-08",
+  "entry_into_force": "2022-04-09",
+  "notification_date": "2022-04-11",
+  "commission_reference": "MNE(2022)02455",
+  "nim_celex": "72018L1972LTU_202202455",
+  "nim_id": "202202455",
+  "transposes_celex": [
+    "32018L1972"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ea1febeb-75e1-4938-b0c0-0d1ddbe9f96b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
