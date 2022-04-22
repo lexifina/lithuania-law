@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos transporto saugos administracijos direktoriaus 2022 m. balandžio 21 d. įsakymas Nr. 2BE-109 \"Dėl Tarpvalstybinio keitimosi transporto priemonių registracijos ir jų savininkų arba valdytojų duomenimis, nustačius kelių naudotojo mokesčių ir kelių rinkliavų nesumokėjimo atvejus, tvarkos aprašo patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2022-08131",
+  "official_journal_page": null,
+  "official_journal_date": "2022-04-21",
+  "entry_into_force": "2022-04-22",
+  "notification_date": "2022-05-04",
+  "commission_reference": "MNE(2022)02892",
+  "nim_celex": "72019L0520LTU_202202892",
+  "nim_id": "202202892",
+  "transposes_celex": [
+    "32019L0520"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/203bbc1c-cd0c-11ec-a95f-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
