@@ -13,3 +13,4 @@ priedas
 8. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/1156 dėl palankesnių sąlygų tarpvalstybiniu mastu platinti kolektyvinio investavimo subjektų investicinius vienetus ar akcijas sudarymo, kuriuo iš dalies keičiami reglamentai (ES) Nr. 345/2013, (ES) Nr. 346/2013 ir (ES) Nr. 1286/2014.
 9. 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/2088 dėl su tvarumu susijusios informacijos atskleidimo finansinių paslaugų sektoriuje su paskutiniais pakeitimais, padarytais 2020 m. birželio 18 d. Europos Parlamento ir Tarybos reglamentu (ES) 2020/852.
 10. 2020 m. birželio 18 d. Europos Parlamento ir Tarybos reglamentas (ES) 2020/852 dėl sistemos tvariam investavimui palengvinti sukūrimo, kuriuo iš dalies keičiamas Reglamentas (ES) 2019/2088.
+part_99731103b7514a86a68681a4a667e98b_end
