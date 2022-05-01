@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus vandenų transporto kodekso 1, 6, 13, 15, 16, 16-1, 16-2, 18, 19, 21, 22, 22-1, 24-1, 26, 27, 41 straipsnių, septintojo skirsnio ir priedo pakeitimo, Kodekso papildymo 27-1 straipsniu ir 23, 24, 25 straipsnių pripažinimo netekusiais galios įstatymas Nr. XIV-913",
+  "type_of_act": "Code",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2022-1357",
+  "official_journal_page": null,
+  "official_journal_date": "2022-01-28",
+  "entry_into_force": "2022-05-01",
+  "notification_date": "2022-03-08",
+  "commission_reference": "MNE(2022)01322",
+  "nim_celex": "72017L2397LTU_202201322",
+  "nim_id": "202201322",
+  "transposes_celex": [
+    "32017L2397"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a1106911-7123-414b-8181-1b47373a6f1f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
