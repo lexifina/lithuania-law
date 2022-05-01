@@ -1,4 +1,5 @@
-# Lietuvos Respublikos
+# part_ff04340c68f943b285fc253b3a7a4e11_end
+Lietuvos Respublikos
 elektroninių ryšių įstatymo
 2 priedas
 įgyvendinami Europos Sąjungos teisės aktai
@@ -18,3 +19,4 @@ elektroninių ryšių įstatymo
 14. 2018 m. gruodžio 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/1972, kuria nustatomas Europos elektroninių ryšių kodeksas (nauja redakcija).
 15. 2018 m. gruodžio 11 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/1971, kuriuo įsteigiama Europos elektroninių ryšių reguliuotojų institucija (BEREC) ir BEREC paramos agentūra (BEREC biuras), iš dalies keičiamas Reglamentas (ES) 2015/2120 ir panaikinamas Reglamentas (EB) Nr. 1211/2009.
 16. 2020 m. liepos 20 d. Europos Komisijos įgyvendinimo reglamentas (ES) 2020/1070, kuriuo pagal Europos Parlamento ir Tarybos direktyvos (ES) 2018/1972, kuria nustatomas Europos elektroninių ryšių kodeksas, 57 straipsnio 2 dalį nustatomos mažos aprėpties belaidžio ryšio prieigos taškų charakteristikos.
+part_e67b744f90d04933a3f0cca716487efb_end
