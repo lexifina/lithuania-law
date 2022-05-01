@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro 2021 m. gruodžio 3 d. įsakymas Nr. V-2742 \"Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2003 m. liepos 1 d. įsakymo Nr. V-393 „Dėl Maisto ir jo ingredientų apdorojimo jonizuojančiąja spinduliuote reikalavimų patvirtinimo“ pakeitimo",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-25100",
+  "official_journal_page": null,
+  "official_journal_date": "2021-12-03",
+  "entry_into_force": "2022-05-01",
+  "notification_date": "2022-04-07",
+  "commission_reference": "MNE(2022)00625",
+  "nim_celex": "71999L0002LTU_202200625",
+  "nim_id": "202200625",
+  "transposes_celex": [
+    "31999L0002",
+    "31999L0003"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e75bb49d-b70c-11ec-b6f4-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
