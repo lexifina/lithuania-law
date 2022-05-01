@@ -32,3 +32,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2021-06-16 | 2021-12-28 | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/28b190410cb2cac75c95255afffd35d0c84536b4/istatymai/TAR.6EA8AC8A483B.md) |
 | 2021-12-29 | 2021-12-31 | Įstatymas Nr. XIV-772 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/65d6c6e76c7e4ed5e910032d9ecae6b945ffa65d/istatymai/TAR.6EA8AC8A483B.md) |
 | 2022-01-01 | 2022-04-30 | Įstatymas Nr. XIV-632 / Įstatymas Nr. XIV-772 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/c1d27b1c914758debd455a5a64078d4657b4864c/istatymai/TAR.6EA8AC8A483B.md) |
+| 2022-05-01 | 2022-12-09 | Įstatymas Nr. XIV-772 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/23fc060bd298e8daa50c4aed958e91e37e047a33/istatymai/TAR.6EA8AC8A483B.md) |
