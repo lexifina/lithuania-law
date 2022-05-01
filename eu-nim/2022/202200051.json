@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos gėlo požeminio vandens gavybos gręžinių įteisinimo laikinasis įstatymas Nr. XIV-730",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-25848",
+  "official_journal_page": null,
+  "official_journal_date": "2021-12-15",
+  "entry_into_force": "2022-05-01",
+  "notification_date": "2022-04-07",
+  "commission_reference": "MNE(2022)00051",
+  "nim_celex": "72000L0060LTU_202200051",
+  "nim_id": "202200051",
+  "transposes_celex": [
+    "32000L0060"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2ff3fedc-b70d-11ec-b6f4-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
