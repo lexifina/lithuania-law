@@ -69,4 +69,3 @@ Daugiau kaip 89 kopijos per minutę
 92,67
 57,92
 Pastabos: 1. Reprografijos paslaugas teikiantys asmenys kompensacinį atlyginimą, skaičiuojamą už reprografijos paslaugas, moka vieną kartą per metus, pasibaigus kalendoriniams metams, už kuriuos mokamas kompensacinis atlyginimas. 2. Laikoma, kad reprografijos paslaugos teikiamos netoli švietimo įstaigos, mokslo ir studijų institucijos, jeigu švietimo įstaiga, mokslo ir studijų institucija yra ne toliau kaip už 500 metrų nuo reprografijos paslaugų teikimo vietos. 3. Tais atvejais, kai reprografijos paslaugoms naudojami reprografijos įrenginiai, darantys spalvotas kopijas, kompensacinio atlyginimo tarifai didinami 25 procentais.
-Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo
