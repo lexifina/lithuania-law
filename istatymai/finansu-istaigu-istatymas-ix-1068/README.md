@@ -35,3 +35,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2021-12-31 | 2021-12-31 | Įstatymas Nr. XIV-828 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/a398734be58f46db971f02939472d212af19b73a/istatymai/TAR.779892D853B4.md) |
 | 2022-01-01 | 2022-01-01 | Įstatymas Nr. XIII-2732 / Įstatymas Nr. XIV-766 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/e367806f46c36311f380c293dfd57c82995fe7ba/istatymai/TAR.779892D853B4.md) |
 | 2022-01-02 | 2022-04-30 | Įstatymas Nr. XIV-828 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/f4ba42c518b16dd71efab35e53aaf2b689fac24d/istatymai/TAR.779892D853B4.md) |
+| 2022-05-01 | 2022-07-21 | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/6892c5904b79a26f549e057ec2d96eeebfc99b52/istatymai/TAR.779892D853B4.md) |
