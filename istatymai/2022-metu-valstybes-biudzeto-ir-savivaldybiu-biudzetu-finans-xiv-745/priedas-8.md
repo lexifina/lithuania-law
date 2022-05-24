@@ -1,5 +1,5 @@
-# 428 953
-____________________
+# 472 732
+_____________________
 Lietuvos Respublikos
 2022 metų valstybės biudžeto ir
 savivaldybių biudžetų finansinių
