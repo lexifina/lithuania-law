@@ -1,14 +1,15 @@
-# 1 193 506
+# 1 202 772
 77 594
+veterinarija ir žemės tvarkymas
 Žemės ūkio ministerija
-1 157 403
+1 166 526
 52 929
 Valstybinė maisto ir veterinarijos tarnyba
-36 103
+36 246
 24 665
 IŠ VISO
-16 628 204
-2 050 886
+17 535 450
+2 051 203
 _______________________
 Lietuvos Respublikos
 2022 metų valstybės biudžeto ir
@@ -31,22 +32,22 @@ Lietuvos Respublikos Vyriausybės kanceliarija
 Vidaus reikalų ministerija
 36
 II. Aplinka, miškai ir klimato kaita
-87 033
-85 308
+139 833
+138 108
 Aplinkos ministerija
-87 033
-85 308
+139 833
+138 108
 III. Energetika
 7 050
 Valstybinė energetikos reguliavimo taryba
 7 050
 7 050
-IV. Viešieji finansai
-29 742
-26 760
+IV. Viešieji finansai ir oficialioji statistika
+73 115
+70 133
 Finansų ministerija
-29 732
-26 760
+73 105
+70 133
 Lietuvos statistikos departamentas
 10
 V. Ekonomikos konkurencingumas ir valstybės informaciniai ištekliai
@@ -69,7 +70,7 @@ VII. Viešasis saugumas
 7 985
 Vidaus reikalų ministerija
 7 985
-VIII. Kultūra
+VIII. Kultūra ir visuomenės informavimas
 16 077
 Kultūros ministerija
 11 183
@@ -190,4 +191,4 @@ XIV. Užsienio politika
 15
 Užsienio reikalų ministerija
 15
-XV. Žemės ir maisto ūkis, kaimo plėtra ir žuvininkystė
+XV. Žemės ir maisto ūkis, kaimo plėtra ir žuvininkystė, veterinarija ir žemės tvarkymas

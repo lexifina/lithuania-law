@@ -1,6 +1,6 @@
 # 1 625
 IŠ VISO
-1 351 759
+1 360 824
 _______________________
 Lietuvos Respublikos
 2022 metų valstybės biudžeto ir

@@ -13,7 +13,7 @@ Aplinkos ministerija
 Ekonomikos ir inovacijų ministerija
 137 379
 Energetikos ministerija
-162 647
+151 701
 Finansų ministerija
 67 095
 Krašto apsaugos ministerija
@@ -37,5 +37,5 @@ Vidaus reikalų ministerija
 Žemės ūkio ministerija
 10 057
 IŠ VISO
-985 152
+974 206
 _________________

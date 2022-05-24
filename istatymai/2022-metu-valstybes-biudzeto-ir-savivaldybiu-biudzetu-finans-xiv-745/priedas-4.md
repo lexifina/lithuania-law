@@ -6,8 +6,8 @@
 Valstybinė maisto ir veterinarijos tarnyba
 2 500
 IŠ VISO
-210 982
-137 259
+307 155
+217 296
 _______________________
 Lietuvos Respublikos
 2022 metų valstybės biudžeto ir
@@ -37,16 +37,16 @@ Lietuvos Respublikos kultūros ministerija
 valstybinės kalbos vartojimo ir taisyklingumo kontrolei
 587
 Lietuvos Respublikos socialinės apsaugos ir darbo ministerija
-171 544
+180 609
 iš jų:
 socialinėms išmokoms ir kompensacijoms skaičiuoti ir mokėti
-17 471
+18 575
 būsto nuomos mokesčio daliai kompensuoti
-3 103
+4 053
 socialinei paramai mokiniams
-43 046
+46 691
 socialinėms paslaugoms
-95 025
+98 391
 jaunimo teisių apsaugai
 1 200
 savivaldybių patvirtintoms užimtumo didinimo programoms įgyvendinti
