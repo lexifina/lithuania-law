@@ -56,3 +56,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2021-11-13 | 2021-12-31 | Įstatymas Nr. XIV-604 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22jHnAjDUwEP%22) |
 | 2022-01-01 | 2022-05-16 | Įstatymas Nr. XIV-627 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22hMfsMoeEPg%22) |
 | 2022-05-17 | 2022-05-23 | Įstatymas Nr. XIV-1096 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22xWXQUbJBxk%22) |
+| 2022-05-24 | 2022-05-31 | Įstatymas Nr. XIV-1096 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22ZDccyNsUhj%22) |
