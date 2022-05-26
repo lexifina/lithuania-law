@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinko ministro 2022 m. gegužės 25 d. įsakymas Nr. D1-147 „Dėl Lietuvos Respublikos aplinkos ministro 2014 m. rugpjūčio 6 d. įsakymo Nr. D1-655 „Dėl potvynių grėsmės ir potvynių rizikos žemėlapių Nemuno, Ventos, Lielupės ir Dauguvos upių baseinų rajonuose patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2022-10899",
+  "official_journal_page": null,
+  "official_journal_date": "2022-05-25",
+  "entry_into_force": "2022-05-26",
+  "notification_date": "2023-01-09",
+  "commission_reference": "MNE(2022)03405",
+  "nim_celex": "72007L0060LTU_202203405",
+  "nim_id": "202203405",
+  "transposes_celex": [
+    "32007L0060"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/eb54ef0e-931d-11ed-b508-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
