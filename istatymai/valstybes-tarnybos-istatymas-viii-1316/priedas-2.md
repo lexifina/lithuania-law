@@ -1,6 +1,7 @@
 # 6,1–11
 5,8–10,5
 5,5–9,5
+part_636b9ce3283e4fb09ece8eff3a14574a_end
 Lietuvos Respublikos
 valstybės tarnybos įstatymo
 2 priedas
@@ -144,3 +145,4 @@ Pastaba. Gyventojų skaičius savivaldybės teritorijoje nustatomas pagal kalend
 6. Funkcinis vadovavimas suprantamas kaip valstybės institucijų ir įstaigų veikla, vykdoma nepavaldžių subjektų (valstybės institucijų ar įstaigų) atžvilgiu tam tikroje valdymo srityje, apimanti nepavaldžių valstybės institucijų ar įstaigų veiklos planavimą, metodinę pagalbą, koordinavimą ir kontrolę (priežiūrą).
 7. Dalinis funkcinis vadovavimas suprantamas kaip valstybės institucijų ir įstaigų veikla, vykdoma nepavaldžių subjektų (valstybės institucijų ar įstaigų) atžvilgiu tam tikroje valdymo srityje, apimanti bent vieną iš šių funkcijų – nepavaldžių valstybės institucijų ir įstaigų veiklos planavimą, metodinę pagalbą, koordinavimą ar kontrolę (priežiūrą).
 8. Viena įstaigų sistema suprantama kaip ministerijos arba kitos valstybės institucijos ar įstaigos valdymo srityje esančių įstaigų visuma.
+part_f369861bfb2f4715a27e52108d3e3d24_end
