@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos civilinio kodekso 6.228-1, 6.228-3, 6.228-4, 6.228-6, 6.228-7, 6.228-8, 6.228-10, 6.228-11 straipsnių ir priedo pakeitimo įstatymas Nr. XIV-885",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2022-00066",
+  "official_journal_page": null,
+  "official_journal_date": "2022-01-04",
+  "entry_into_force": "2022-05-28",
+  "notification_date": "2022-01-06",
+  "commission_reference": "MNE(2022)00144",
+  "nim_celex": "72019L2161LTU_202200144",
+  "nim_id": "202200144",
+  "transposes_celex": [
+    "32019L2161"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f53be4fd-9b76-4e66-bcc5-31ee7ffb6086",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
