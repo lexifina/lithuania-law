@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2022 m. gegužės 30 d. įsakymas Nr. 3-279 „Dėl Valstybinės reikšmės kelių eismo informacinės sistemos nuostatų ir duomenų saugos nuostatų patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2022-11430",
+  "official_journal_page": null,
+  "official_journal_date": "2022-05-30",
+  "entry_into_force": "2022-05-31",
+  "notification_date": "2022-06-06",
+  "commission_reference": "MNE(2022)03485",
+  "nim_celex": "72019L0520LTU_202203485",
+  "nim_id": "202203485",
+  "transposes_celex": [
+    "32019L0520"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ce3c82e7-54f1-4552-aa7a-1417bc994834",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
