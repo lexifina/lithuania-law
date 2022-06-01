@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2022-01-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/98eb1e323122850da64c317ab7887b5af49e9f55/istatymai/TAR.2F37F2006328.md) |
+| 2022-06-01 |  | Įstatymas Nr. XIV-1058 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/f8e530c06b090f31df7e635cdd5ea47c9de8c15c/istatymai/TAR.2F37F2006328.md) |
