@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2022 m. birželio 1 d. nutarimas Nr. 573 „Dėl Lietuvos Respublikos Vyriausybės 2002 m. balandžio 12 d. nutarimo Nr. 519 „Dėl Valstybinio strateginio atliekų tvarkymo 2014–2020 metų plano patvirtinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2022-11887",
+  "official_journal_page": null,
+  "official_journal_date": "2022-06-01",
+  "entry_into_force": "2022-06-02",
+  "notification_date": "2022-06-02",
+  "commission_reference": "MNE(2022)03553",
+  "nim_celex": "72018L0851LTU_202203553",
+  "nim_id": "202203553",
+  "transposes_celex": [
+    "32018L0851"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/42dca150-e310-11ec-a534-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
