@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2022 m. birželio 15 d. įsakymas Nr. 1-192 „Dėl 2021–2030 metų plėtros programos valdytojos Lietuvos Respublikos energetikos ministerijos energetikos plėtros programos pažangos priemonės Nr. 03-001-06-03-03 „Įgyvendinti degalų iš AEI gamybos priemones ir plėtoti jų panaudojimo infrastruktūrą transporto sektoriuje“ aprašo patvirtinimo“ (suvestinė redakcija nuo 2026-06-30)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2022-12800",
+  "official_journal_page": null,
+  "official_journal_date": "2022-06-15",
+  "entry_into_force": "2022-06-16",
+  "notification_date": "2026-09-23",
+  "commission_reference": "MNE(2026)07464",
+  "nim_celex": "72024L1275LTU_202607464",
+  "nim_id": "202607464",
+  "transposes_celex": [
+    "32024L1275"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5ac8f811-7dbf-4dce-8483-2cbb695153d7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
