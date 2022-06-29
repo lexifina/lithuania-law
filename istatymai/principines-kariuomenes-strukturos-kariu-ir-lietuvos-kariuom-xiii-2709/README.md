@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2020-01-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/13ef9f2e52447184e3c3e77fb2532bcd0b173e12/istatymai/TAR.F78281A02AD4.md) |
+| 2022-06-29 | 2024-07-17 | Įstatymas Nr. XIV-1140 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/c1285888b1170e5539fa75cc12f79869bfca8934/istatymai/TAR.F78281A02AD4.md) |
