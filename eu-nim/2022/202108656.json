@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 2, 4, 38-3 ir 58 straipsnių pakeitimo įstatymas Nr. XIV-726",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-25844",
+  "official_journal_page": null,
+  "official_journal_date": "2021-12-15",
+  "entry_into_force": "2022-07-01",
+  "notification_date": "2021-12-30",
+  "commission_reference": "MNE(2021)08656",
+  "nim_celex": "72017L0952LTU_202108656",
+  "nim_id": "202108656",
+  "transposes_celex": [
+    "32017L0952"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/36994934-1537-4088-bcf9-03f08a20a6e0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
