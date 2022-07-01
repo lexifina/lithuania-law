@@ -1,4 +1,5 @@
-# 3 priedas
+# pensijų įstatymo
+3 priedas
 NETEKTO DARBINGUMO LYGIO DAUGIKLIŲ DYDŽIAI
 Netektas darbingumas, procentais
 Daugiklis
@@ -26,6 +27,7 @@ Daugiklis
 1,429
 100
 1,500
+part_a3c279b1fc074dbc9c41aea9eb5a0619_end
 Lietuvos Respublikos
 socialinio draudimo
 pensijų įstatymo
@@ -93,6 +95,7 @@ Kaupimo dalyvių daugiklis
 2016
 445 Eur
 0,7849
+part_dad674e54af7401b9318008beebe278f_end
 Lietuvos Respublikos
 socialinio draudimo
 pensijų įstatymo
@@ -179,6 +182,7 @@ Moterų būtinasis stažas
 34,5
 2027
 35
+part_6ee92f93a7db4b72915837974c434b6f_end
 Lietuvos Respublikos
 socialinio draudimo
 pensijų įstatymo
