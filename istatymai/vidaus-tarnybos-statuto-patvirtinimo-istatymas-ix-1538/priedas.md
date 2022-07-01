@@ -1,4 +1,5 @@
-# Lietuvos Respublikos
+# part_e4657d607f884a359406044c64132434_end
+Lietuvos Respublikos
 vidaus tarnybos statuto
 priedas
 VIDAUS TARNYBOS SISTEMOS PAREIGŪNŲ PAREIGINIŲ ALGŲ KOEFICIENTAI
@@ -10,10 +11,10 @@ III
 Koeficientas
 Koeficientas
 1
-Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos vadas, Viešojo saugumo tarnybos prie Vidaus reikalų ministerijos vadas, Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos direktorius, Finansinių nusikaltimų tyrimo tarnybos prie Vidaus reikalų ministerijos direktorius, policijos generalinis komisaras, Muitinės departamento prie Finansų ministerijos generalinis direktorius, Kalėjimų departamento prie Lietuvos Respublikos teisingumo ministerijos direktorius
+Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos vadas, Viešojo saugumo tarnybos prie Vidaus reikalų ministerijos vadas, Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos direktorius, Finansinių nusikaltimų tyrimo tarnybos prie Vidaus reikalų ministerijos direktorius, policijos generalinis komisaras, Muitinės departamento prie Finansų ministerijos generalinis direktorius, Lietuvos probacijos tarnybos direktorius, Kalėjimų departamento prie Lietuvos Respublikos teisingumo ministerijos direktorius
 15,2–19
 2
-Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos vado pavaduotojas, Viešojo saugumo tarnybos prie Vidaus reikalų ministerijos vado pavaduotojas, Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos direktoriaus pavaduotojas, Finansinių nusikaltimų tyrimo tarnybos prie Vidaus reikalų ministerijos direktoriaus pavaduotojas, policijos generalinio komisaro pavaduotojas, Muitinės departamento prie Finansų ministerijos generalinio direktoriaus pavaduotojas, Kalėjimų departamento prie Lietuvos Respublikos teisingumo ministerijos direktoriaus pavaduotojas
+Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos vado pavaduotojas, Viešojo saugumo tarnybos prie Vidaus reikalų ministerijos vado pavaduotojas, Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos direktoriaus pavaduotojas, Finansinių nusikaltimų tyrimo tarnybos prie Vidaus reikalų ministerijos direktoriaus pavaduotojas, policijos generalinio komisaro pavaduotojas, Muitinės departamento prie Finansų ministerijos generalinio direktoriaus pavaduotojas, Lietuvos probacijos tarnybos direktoriaus pavaduotojas, Kalėjimų departamento prie Lietuvos Respublikos teisingumo ministerijos direktoriaus pavaduotojas
 13,2–18
 3
 Viršininkas (statutinės įstaigos vadovas), direktorius (statutinės įstaigos vadovas), Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos pasienio rinktinės vadas, mokyklos viršininkas, vyriausiojo policijos komisariato viršininkas (taikoma struktūriniam padaliniui, kuris nėra kitame struktūriniame padalinyje), biuro viršininkas, rinktinės vadas (statutinės įstaigos vadovas), Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos Priešgaisrinės gelbėjimo valdybos viršininkas
@@ -67,3 +68,4 @@ Vyresnysis postinis, vyresnysis patrulis, dispečeris, vyresnysis ugniagesys gel
 Postinis, patrulis, pasienietis, ugniagesys gelbėtojas
 4,9–10,5
 4,9–10
+part_bce6c56635464937b23d2275b5daeaf3_end
