@@ -1,4 +1,5 @@
-# Lietuvos Respublikos
+# part_e914d3b663e3410aa111876cbdb2b19f_end
+Lietuvos Respublikos
 akcizų įstatymo
 2 priedas
 (Lietuvos Respublikos
