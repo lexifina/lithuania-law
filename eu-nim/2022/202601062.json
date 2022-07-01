@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 12, 13 ir 17 straipsnių pakeitimo įstatymas Nr. XIV-973",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2022-06310",
+  "official_journal_page": null,
+  "official_journal_date": "2022-03-30",
+  "entry_into_force": "2022-07-01",
+  "notification_date": "2026-02-11",
+  "commission_reference": "MNE(2026)01062",
+  "nim_celex": "72021L0555LTU_202601062",
+  "nim_id": "202601062",
+  "transposes_celex": [
+    "32021L0555"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2431d31c-1cce-4fd6-879e-24bd8f815d69",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
