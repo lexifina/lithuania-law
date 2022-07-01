@@ -1,4 +1,5 @@
 # Įvairios paslaugos
+part_1cc48c6aa6084599a38d37360a5d4976_end
 Lietuvos Respublikos
 pirkimų, atliekamų vandentvarkos,
 energetikos, transporto ar pašto

@@ -1,4 +1,5 @@
-# Lietuvos Respublikos
+# part_0a650ac365944c7aae3c2eb714cb8b6a_end
+Lietuvos Respublikos
 pirkimų, atliekamų vandentvarkos,
 energetikos, transporto ar pašto
 paslaugų srities perkančiųjų subjektų,

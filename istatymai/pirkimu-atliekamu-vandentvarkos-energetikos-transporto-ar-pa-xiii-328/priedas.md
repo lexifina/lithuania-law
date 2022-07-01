@@ -1,4 +1,6 @@
 # Respublikos Prezidentė Dalia Grybauskaitė
+part_552f8eab929646aabc9175b710e91076_end
+part_df4f6b6f3c384d668ef6f0b1bd9193d0_end
 Lietuvos Respublikos
 pirkimų, atliekamų vandentvarkos,
 energetikos, transporto ar pašto
@@ -44,7 +46,7 @@ Pastatų ar jų dalių statyba; civilinė inžinerija
 45.21
 Bendroji pastatų statyba ir civilinės inžinerijos darbai
 Ši klasė apima: – visų rūšių pastatų statybą, civilinės inžinerijos statinių statybą: – tiltus, įskaitant tuos, kurie skirti estakadinėms magistralėms, viadukams, tuneliams ir požeminėms perėjoms, – ilgų nuotolių vamzdynus ir elektros linijas, – miesto vamzdynų, miesto komunikacijų ir elektros linijas, – papildomus miesto darbus, – surenkamų statinių statymą ir įrengimą statybvietėje. Ši klasė neapima: – paslaugų, susijusių su naftos ir gamtinių dujų gavyba (žr. 11.20), – surenkamų statinių, kurių dalys nėra betoninės ir yra pačių pagamintos, įrengimo statybvietėje (žr. 20, 26 ir 28 skyrius), – stadionų, plaukimo baseinų, sporto salių, teniso ir golfo aikštelių ir kitų sportui skirtų įrenginių statybos darbų (išskyrus pastatų statybos darbus) (žr. 45.23), – pastatų įrengimo (žr. 45.3), – pastatų apdailos (žr. 45.4), – architektūrinės ir inžinerinės veiklos (žr. 74.20), – statybos projektų valdymo (žr. 74.20).
-45210000, išskyrus: 45213316, 45220000, 45231000, 45232000
+45210000 (išskyrus 45213316), 45220000, 45231000, 45232000
 7.
 45.22
 Stogų dangos ir stogo konstrukcijų įrengimas
