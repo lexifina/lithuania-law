@@ -33,3 +33,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2021-12-29 | 2022-01-31 | Įstatymas Nr. XIV-811 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/7a0d7614f2c3ca8942c9fd98d5dcb75a9037a585/istatymai/TAR.422C8B5042B8.md) |
 | 2022-02-01 | 2022-03-31 | Įstatymas Nr. XIV-911 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/383bb1b2fc6af7b84a2baf18aa765d365feacace/istatymai/TAR.422C8B5042B8.md) |
 | 2022-04-01 | 2022-06-30 | Įstatymas Nr. XIV-859 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/8a8958ff48760109f23c21423720ddeef8ce03ff/istatymai/TAR.422C8B5042B8.md) |
+| 2022-07-01 | 2022-07-31 | Įstatymas Nr. XIV-1106 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/da0cae68515b2806647f412d5d6706620ff62074/istatymai/TAR.422C8B5042B8.md) |
