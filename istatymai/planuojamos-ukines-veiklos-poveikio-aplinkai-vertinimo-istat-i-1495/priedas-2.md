@@ -55,9 +55,9 @@ PLANUOJAMOS ŪKINĖS VEIKLOS, KURIAI TURI BŪTI ATLIEKAMA ATRANKA DĖL POVEIKIO 
 3.5. kito iškastinio kuro saugojimas statiniuose (sandėliuose ar aikštelėse) (kai talpa – 1 000 ar daugiau tonų), išskyrus šio priedo 3.3 ir 6.6 papunkčiuose nurodytą veiklą;
 3.6. briketų gamyba iš anglių ar lignito;
 3.7. vandens jėgainių (hidroelektrinių, malūnų, lentpjūvių, naudojančių sukauptą vandens energiją) įrengimas;
-3.8. vėjo elektrinių įrengimas, kai:
-3.8.1. įrengiamos 3 vėjo elektrinės, kurių bent vienos aukštis 50 m (matuojant iki aukščiausio konstrukcijų taško) ar daugiau;
-3.8.2. vėjo elektrinė įrengiama arčiau kaip 1 km atstumu nuo saugomos teritorijos, išskyrus atvejus, kai įrengiama ne daugiau kaip viena ir ne aukštesnė kaip 25 m (matuojant iki aukščiausio konstrukcijų taško) vėjo elektrinė sodyboje ar prie ūkinių pastatų;
+3.8. vėjo elektrinių statyba, kai:
+3.8.1. planuojama statyti 3 ar daugiau vėjo elektrinių, kurių bent vienos aukštis 50 m ar daugiau (matuojant iki aukščiausio konstrukcijų taško, įskaitant ir sparnuotės aukštį), išskyrus šio įstatymo 1 priedo 3.6.2 papunktyje nurodytą veiklą;
+3.8.2. vėjo elektrinę planuojama statyti arčiau kaip 1 km atstumu nuo saugomos teritorijos, išskyrus atvejus, kai planuojama statyti ne daugiau kaip vieną ir ne aukštesnę kaip 25 m (matuojant iki aukščiausio konstrukcijų taško) vėjo elektrinę sodyboje ar prie ūkinių pastatų;
 3.9. įrenginių, naudojamų anglies dioksido (CO2), kuris saugomas geologinėse saugyklose, surinkimui iš įrenginių, nenurodytų šio įstatymo 1 priedo 9.12 papunktyje, įrengimas.
 4. Metalų perdirbimo pramonė:
 4.1. metalų rūdų perdirbimas;

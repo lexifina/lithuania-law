@@ -26,7 +26,10 @@ PLANUOJAMOS ŪKINĖS VEIKLOS, KURIOS POVEIKIS APLINKAI PRIVALO BŪTI VERTINAMAS,
 3.2. atominių elektrinių ar kitų branduolinių reaktorių įrengimas ir tokių elektrinių ar reaktorių* demontavimas ar uždarymas (išskyrus tyrimo įrenginius reprodukuojamoms ir skylančioms medžiagoms gaminti ir transformuoti, kai įrenginio maksimalus galingumas neviršija 1 kW nuolatinės šiluminės apkrovos);
 3.3. branduolinio kuro perdirbimas;
 3.4. branduolinio kuro gamyba, sodrinimas, saugojimas ar laidojimas;
-3.5. anglių arba bituminio skalūno dujinimas ar suskystinimas (kai įrenginių pajėgumas – 500 ir daugiau tonų per parą).
+3.5. anglių arba bituminio skalūno dujinimas ar suskystinimas (kai įrenginių pajėgumas – 500 ir daugiau tonų per parą);
+3.6. vėjo elektrinių statyba:
+3.6.1. Lietuvos Respublikos teritorinėje jūroje ir (ar) Lietuvos Respublikos išskirtinėje ekonominėje zonoje Baltijos jūroje;
+3.6.2. sausumoje, kai planuojama statyti 7 ar daugiau vėjo elektrinių ir atstumas nuo planuojamų statyti vėjo elektrinių iki pastatytų, statomų ar planuojamų statyti yra 5 km ar mažesnis (matuojant tarp stiebų centrų) arba kai šie skaičiaus ir atstumo dydžiai pasiekiami, įskaitant jau pastatytas, statomas ar planuojamas statyti vėjo elektrines.
 4. Metalų gamybos ir perdirbimo pramonė:
 4.1. plieno ir ketaus pirminis lydymas;
 4.2. spalvotųjų metalų gamyba iš rūdų, koncentratų ar antrinių žaliavų cheminiais, metalurgijos ar elektrolizės būdais.
