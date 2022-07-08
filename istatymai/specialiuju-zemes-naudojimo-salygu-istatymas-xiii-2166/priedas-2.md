@@ -279,10 +279,10 @@ Niekur kitur nepriskirtų transporto priemonių gamyba, kai gamybinių patalpų 
 Baldų gamyba, čiužinių gamyba
 31.0, 31.03
 100
-48. 48.1. 48.2. 48.3. 48.4.
-Elektros gamyba, garo tiekimas ir oro kondicionavimas: katilinių, šiluminių elektrinių, kogeneracinių elektrinių, kurių suminė vardinė (nominali) įrenginių šiluminė galia yra 50 MW ir didesnė; vėjo elektrinės, kurių įrengtoji galia nuo 30 kW iki 300 kW; vėjo elektrinės, kurių įrengtoji galia nuo 300 kW iki 2 MW; vėjo elektrinės, kurių įrengtoji galia 2 MW ir didesnė
+48.
+Elektros gamyba, garo tiekimas ir oro kondicionavimas: katilinių, šiluminių elektrinių, kogeneracinių elektrinių, kurių suminė vardinė (nominali) įrenginių šiluminė galia yra 50 MW ir didesnė
 35.11, 35.3
-100 200 315 440
+100
 49.
 Dujų gamyba:
 35.21
