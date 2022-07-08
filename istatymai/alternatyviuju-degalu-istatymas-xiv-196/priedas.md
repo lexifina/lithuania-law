@@ -7,4 +7,3 @@ priedas
 2. 2018 m. gruodžio 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/2001 dėl skatinimo naudoti atsinaujinančiųjų išteklių energiją.
 3. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/1020 dėl rinkos priežiūros ir gaminių atitikties, kuriuo iš dalies keičiama Direktyva 2004/42/EB ir reglamentai (EB) Nr. 765/2008 ir (ES) Nr. 305/2011.
 4. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/1161, kuria iš dalies keičiama Direktyva 2009/33/EB dėl skatinimo naudoti netaršias ir efektyviai energiją vartojančias kelių transporto priemones.
-part_e2b2910a8b464393932050ca5fe08d23_end
