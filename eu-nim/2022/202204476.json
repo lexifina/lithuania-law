@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos teisingumo ministro ir Lietuvos Respublikos generalinio prokuroro 2022 m. liepos 13 d. įsakymas Nr. 1R-259/I-238 „Dėl Lietuvos Respublikos teisingumo ministro ir Lietuvos Respublikos generalinio prokuroro 2004 m. rugpjūčio 26 d. įsakymo Nr. 1R-195/I-114 „Dėl Europos arešto orderio išdavimo ir asmens perėmimo pagal Europos arešto orderį taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2022-15413",
+  "official_journal_page": null,
+  "official_journal_date": "2022-07-14",
+  "entry_into_force": "2022-07-15",
+  "notification_date": "2022-07-15",
+  "commission_reference": "MNE(2022)04476",
+  "nim_celex": "72002F0584LTU_202204476",
+  "nim_id": "202204476",
+  "transposes_celex": [
+    "32002F0584"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6b0afcde-0ca6-11ed-b11c-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
