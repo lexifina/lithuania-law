@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo ir atstovavimo valstybei ir Lietuvos Respublikos Vyriausybei įstatymo Nr. IX-895 2, 3, 4 ir 5-1 straipsnių pakeitimo įstatymas Nr. XIV-1377",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2022-15469",
+  "official_journal_page": null,
+  "official_journal_date": "2022-07-14",
+  "entry_into_force": "2022-07-15",
+  "notification_date": "2025-09-18",
+  "commission_reference": "MNE(2025)05082",
+  "nim_celex": "72016L0343LTU_202505082",
+  "nim_id": "202505082",
+  "transposes_celex": [
+    "32016L0343"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6f6df901-ba90-4c77-bcbd-9fa532d79bfd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
