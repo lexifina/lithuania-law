@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2022 m. liepos 14 d. nutarimas Nr. 03-109 „Dėl Lietuvos banko valdybos 2013 m. spalio 8 d. nutarimo Nr. 03-168 „Dėl Laikinojo ir nemokumo administratoriaus atrankos gairių patvirtinimo ir atrankos grupės sudarymo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2022-15660",
+  "official_journal_page": null,
+  "official_journal_date": "2022-07-15",
+  "entry_into_force": "2022-07-16",
+  "notification_date": "2022-08-04",
+  "commission_reference": "MNE(2022)05062",
+  "nim_celex": "72019L2162LTU_202205062",
+  "nim_id": "202205062",
+  "transposes_celex": [
+    "32019L2162"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/79fdf2a5-d714-4a60-9bdb-ea00182057ce",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
