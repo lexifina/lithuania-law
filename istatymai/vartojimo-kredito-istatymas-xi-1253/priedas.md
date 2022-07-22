@@ -68,5 +68,5 @@ Informacija ir sutarties sąlygos bus pateiktos [konkrečia kalba]. Vartojimo kr
 2.5.3. su žalos atlyginimu susijusi informacija
 Ginčų sprendimo ne teisme tvarka ir žalos atlyginimo tvarka
 [Ar vartojimo kredito gavėjui, kuris yra nuotolinio ryšio priemonėmis sudaromos sutarties šalis, yra numatyta ginčų sprendimo ne teisme tvarka, žalos atlyginimo tvarka ir, jei taip, naudojimosi ja būdai]
-part_816218f8c0c549ec8f9fd0b06edef0f9_end
+part_7ce532a74d1243218a0603a6474d6e58_end
 Lietuvos Respublikos vartojimo kredito įstatymo
