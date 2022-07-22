@@ -131,3 +131,27 @@ Nacionalinės plėtros įstaigos
 2 000 Eur
 31.
 Mišrios veiklos finansų kontroliuojančiosios įmonės, įsteigtos Lietuvos Respublikoje, finansų kontroliuojančiosios bendrovės, įsteigtos Lietuvos Respublikoje
+–
+5 000 Eur
+32.
+Padengtųjų obligacijų bendrovės
+-
+1 000 Eur
+33.
+Pakeitimo vertybiniais popieriais bendrovės
+-
+1 000 Eur
+34.
+Pakeitimo vertybiniais popieriais iniciatoriai
+-
+1 000 Eur
+35.
+Pakeitimo vertybiniais popieriais rėmėjai
+-
+1 000 Eur
+36.
+Pirminiai skolintojai
+-
+1 000 Eur
+37.
+Trečiosios šalys, tikrinančios pakeitimo vertybiniais popieriais atitiktį paprastiems, skaidriems ir standartizuotiems kriterijams

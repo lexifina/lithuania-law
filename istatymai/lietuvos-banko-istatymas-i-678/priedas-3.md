@@ -1,7 +1,7 @@
 # Valiutos keityklos operatoriai
 –
 109 Eur
-part_031d3bfedc85439e94321dee662b313c_end
+part_1036706cce1f45538785f7006b7f7bdc_end
 Lietuvos Respublikos
 Lietuvos banko įstatymo
 3 priedas
@@ -23,6 +23,7 @@ Lietuvos banko įstatymo
 15. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/1129 dėl prospekto, kuris turi būti skelbiamas, kai vertybiniai popieriai siūlomi viešai arba įtraukiami į prekybos reguliuojamoje rinkoje sąrašą, ir kuriuo panaikinama Direktyva 2003/71/EB, su paskutiniais pakeitimais, padarytais 2021 m. vasario 16 d. Europos Parlamento ir Tarybos reglamentu (ES) 2021/337.
 16. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/1131 dėl pinigų rinkos fondų.
 17. 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/2394 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymo užtikrinimą, bendradarbiavimo, kuriuo panaikinamas Reglamentas (EB) Nr. 2006/2004, su paskutiniais pakeitimais, padarytais 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/771.
-18. 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/843, kuria iš dalies keičiama Direktyva (ES) 2015/849 dėl finansų sistemos naudojimo pinigų plovimui ar teroristų finansavimui prevencijos ir iš dalies keičiamos direktyvos 2009/138/EB ir 2013/36/ES.
-19. 2020 m. spalio 7 d. Europos Parlamento ir Tarybos reglamentas (ES) 2020/1503 dėl Europos sutelktinio finansavimo paslaugų verslui teikėjų, kuriuo iš dalies keičiamas Reglamentas (ES) 2017/1129 ir Direktyva (ES) 2019/1937.
+18. 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/2402, kuriuo nustatoma bendroji pakeitimo vertybiniais popieriais sistema ir sukuriama specialioji paprasto, skaidraus ir standartizuoto pakeitimo vertybiniais popieriais sistema ir iš dalies keičiamos direktyvos 2009/65/EB, 2009/138/EB ir 2011/61/ES bei reglamentai (EB) Nr. 1060/2009 ir (ES) Nr. 648/2012, su paskutiniais pakeitimais, padarytais 2021 m. kovo 21 d. Europos Parlamento ir Tarybos reglamentu (ES) 2021/557.
+19. 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/843, kuria iš dalies keičiama Direktyva (ES) 2015/849 dėl finansų sistemos naudojimo pinigų plovimui ar teroristų finansavimui prevencijos ir iš dalies keičiamos direktyvos 2009/138/EB ir 2013/36/ES.
+20. 2020 m. spalio 7 d. Europos Parlamento ir Tarybos reglamentas (ES) 2020/1503 dėl Europos sutelktinio finansavimo paslaugų verslui teikėjų, kuriuo iš dalies keičiamas Reglamentas (ES) 2017/1129 ir Direktyva (ES) 2019/1937.
 part_55fc40a85bc3467f821af67c3027e100_end
