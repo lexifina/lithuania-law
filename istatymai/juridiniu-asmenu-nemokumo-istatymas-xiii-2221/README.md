@@ -10,3 +10,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | --- | --- | --- | --- |
 | 2020-01-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/119488f824c823420014f24ac28a600f0bedcd40/istatymai/TAR.68F2CAD098B7.md) |
 | 2021-07-15 | 2022-07-21 | Įstatymas Nr. XIV-450 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/4806cf3845576d0afaff83be4d1654ec363f1f42/istatymai/TAR.68F2CAD098B7.md) |
+| 2022-07-22 | 2022-11-30 | Įstatymas Nr. XIV-1344 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/6e843be49cc7c7a6f34f615ae366b1d8326f9de4/istatymai/TAR.68F2CAD098B7.md) |
