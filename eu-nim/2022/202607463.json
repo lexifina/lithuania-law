@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2022 m. liepos 25 d. įsakymas Nr. D1-239 „Dėl 2022–2030 metų plėtros programos valdytojos Lietuvos Respublikos aplinkos ministerijos aplinkos apsaugos ir klimato kaitos valdymo plėtros programos pažangos priemonės Nr. 02-001-06-04-01 „Skatinti pastatų renovaciją“ įgyvendinimo“ (suvestinė redakcija nuo 2026-07-24)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2022-16116",
+  "official_journal_page": null,
+  "official_journal_date": "2022-07-25",
+  "entry_into_force": "2022-07-26",
+  "notification_date": "2026-09-23",
+  "commission_reference": "MNE(2026)07463",
+  "nim_celex": "72024L1275LTU_202607463",
+  "nim_id": "202607463",
+  "transposes_celex": [
+    "32024L1275"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cb013b8e-9414-4069-8a8f-188c5f057901",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
