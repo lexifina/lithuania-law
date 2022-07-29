@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2022 m. liepos 28 d. įsakymas Nr. D1-244 „Dėl Lietuvos Respublikos aplinkos ministro 2005 m. birželio 9 d. įsakymo Nr. D1-289 „Dėl statybos techninio reglamento STR 2.09.02:2005 Šildymas, vėdinimas ir oro kondicionavimas“ patvirtinimo pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2022-16273",
+  "official_journal_page": null,
+  "official_journal_date": "2022-07-28",
+  "entry_into_force": "2022-07-29",
+  "notification_date": "2022-09-08",
+  "commission_reference": "MNE(2022)05955",
+  "nim_celex": "72018L0844LTU_202205955",
+  "nim_id": "202205955",
+  "transposes_celex": [
+    "32018L0844"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e06fb66e-627d-4448-a49a-db515230261b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
