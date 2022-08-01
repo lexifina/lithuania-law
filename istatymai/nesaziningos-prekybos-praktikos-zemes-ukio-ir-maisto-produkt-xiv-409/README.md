@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2021-11-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/82fd14d655d8f69d856dd1439b36b3ec7cd573be/istatymai/TAR.B367A420DB07.md) |
+| 2022-08-01 | 2023-05-04 | Įstatymas Nr. XIV-1183 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/6e87e4123c450f74bbf7453663c1ff71756c639b/istatymai/TAR.B367A420DB07.md) |

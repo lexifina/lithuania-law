@@ -1,6 +1,6 @@
 # Respublikos Prezidentas Gitanas Nausėda
 part_9819f34d9b494d98bfc776be8ce35dde_end
-part_6b6903b7516a48b3b432431f56563dc4_end
+part_afd6956235a64ab498923f35035b247a_end
 Lietuvos Respublikos
 nesąžiningos prekybos praktikos
 žemės ūkio ir maisto produktų
