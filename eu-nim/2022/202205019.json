@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos transporto veiklos pagrindų įstatymo Nr. I-1863 12 straipsnio pakeitimo įstatymas",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2022-15162",
+  "official_journal_page": null,
+  "official_journal_date": "2022-07-11",
+  "entry_into_force": "2022-08-01",
+  "notification_date": "2022-08-10",
+  "commission_reference": "MNE(2022)05019",
+  "nim_celex": "72020L1057LTU_202205019",
+  "nim_id": "202205019",
+  "transposes_celex": [
+    "32020L1057"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/feadf7c8-1a16-11ed-8fa0-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
