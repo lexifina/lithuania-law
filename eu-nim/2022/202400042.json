@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos kelių transporto kodekso 1, 7, 8, 8-1, 8-2, 8-3, 9, 10, 11, 12, 13, 14, 17, 23, 24, 26, 30, 32, 38, 41 straipsnių, trečiojo skirsnio pavadinimo ir priedo pakeitimo, Kodekso papildymo 8-4, 8-5, 8-6, 9-1, 10-1, 39-1 ir 39-2 straipsniais ir 39 straipsnio pripažinimo netekusiu galios įstatymas Nr. XIV-1167",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2022-15210",
+  "official_journal_page": null,
+  "official_journal_date": "2022-07-11",
+  "entry_into_force": "2022-08-01",
+  "notification_date": "2024-02-20",
+  "commission_reference": "MNE(2024)00042",
+  "nim_celex": "72015L0719LTU_202400042",
+  "nim_id": "202400042",
+  "transposes_celex": [
+    "32015L0719"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d36b28fb-275a-46a6-8778-93d81d0e3626",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
