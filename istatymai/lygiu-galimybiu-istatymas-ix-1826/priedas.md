@@ -8,3 +8,4 @@ priedas
 3. 2006 m. liepos 5 d. Europos Parlamento ir Tarybos direktyva 2006/54/EB dėl moterų ir vyrų lygių galimybių ir vienodo požiūrio į moteris ir vyrus užimtumo bei profesinės veiklos srityje principo įgyvendinimo (nauja redakcija).
 4. 2010 m. liepos 7 d. Europos Parlamento ir Tarybos direktyva 2010/41/ES dėl vienodo požiūrio į savarankiškai dirbančius vyrus ir moteris principo taikymo, kuria panaikinama Tarybos direktyva 86/613/EEB.
 5. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/54/ES dėl priemonių, kad darbuotojai galėtų lengviau naudotis laisvo darbuotojų judėjimo teisėmis.
+6. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/1158 dėl tėvų ir prižiūrinčiųjų asmenų profesinio ir asmeninio gyvenimo pusiausvyros, kuria panaikinama Tarybos direktyva 2010/18/ES.
