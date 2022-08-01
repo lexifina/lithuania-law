@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 58 straipsnio pakeitimo įstatymas Nr. XIV-1193",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2022-15184",
+  "official_journal_page": null,
+  "official_journal_date": "2022-07-11",
+  "entry_into_force": "2022-08-01",
+  "notification_date": "2022-08-01",
+  "commission_reference": "MNE(2022)04884",
+  "nim_celex": "72019L1152LTU_202204884",
+  "nim_id": "202204884",
+  "transposes_celex": [
+    "32019L1152"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fca13600-f83a-4a30-9602-8dc09359cc53",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
