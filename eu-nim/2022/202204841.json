@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos lygių galimybių įstatymo Nr. IX-1826 2, 7 straipsnių ir priedo pakeitimo įstatymas Nr. XIV-1192",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2022-15183",
+  "official_journal_page": null,
+  "official_journal_date": "2022-07-11",
+  "entry_into_force": "2022-08-01",
+  "notification_date": "2022-08-01",
+  "commission_reference": "MNE(2022)04841",
+  "nim_celex": "72019L1158LTU_202204841",
+  "nim_id": "202204841",
+  "transposes_celex": [
+    "32019L1158"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/123f72cc-9630-4b56-b034-55f8bc1ec3dd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
