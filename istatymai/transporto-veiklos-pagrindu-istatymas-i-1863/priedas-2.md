@@ -1,4 +1,4 @@
-# part_30053e31fbd245c58a2e81958887a142_end
+# part_fa6878261d474129bce4509fea5cbadd_end
 Lietuvos Respublikos
 transporto veiklos pagrindų įstatymo
 2 priedas
