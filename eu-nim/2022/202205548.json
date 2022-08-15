@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2022 m. rugpjūčio 3 d. nutarimo Nr. 805 „Dėl Lietuvos Respublikos Vyriausybės 2019 m. balandžio 17 d. nutarimo Nr. 371 „Dėl Nacionalinio oro taršos mažinimo plano patvirtinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2022-16719",
+  "official_journal_page": null,
+  "official_journal_date": "2022-08-04",
+  "entry_into_force": "2022-08-15",
+  "notification_date": "2024-06-04",
+  "commission_reference": "MNE(2022)05548",
+  "nim_celex": "72016L2284LTU_202205548",
+  "nim_id": "202205548",
+  "transposes_celex": [
+    "32016L2284"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7ffb9075-4cec-4512-a1cc-6229716c3243",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
