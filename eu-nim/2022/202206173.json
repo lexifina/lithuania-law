@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Informatikos ir ryšių departamento prie Lietuvos Respublikos vidaus reikalų ministerijos direktoriaus 2022 m. rugpjūčio 24 d. įsakymas Nr. 5V-71 \"Dėl Informatikos ir ryšių departamento prie Lietuvos Respublikos vidaus reikalų ministerijos direktoriaus 2021 m. liepos 21 d. įsakymo Nr. 5V-68 „Dėl Įtariamųjų, kaltinamųjų ir nuteistųjų registro objektų registravimo ir duomenų teikimo taisyklių patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2022-17474",
+  "official_journal_page": null,
+  "official_journal_date": "2022-08-24",
+  "entry_into_force": "2022-08-25",
+  "notification_date": "2022-09-16",
+  "commission_reference": "MNE(2022)06173",
+  "nim_celex": "72019L0884LTU_202206173",
+  "nim_id": "202206173",
+  "transposes_celex": [
+    "32019L0884"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7129cb3c-3b20-11ed-9c68-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
