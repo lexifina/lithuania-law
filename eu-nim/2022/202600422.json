@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2022 m. rugpjūčio 25 d. įsakymas Nr. D1-281 „Dėl Lietuvos Respublikos aplinkos ministro 2016 m. lapkričio 11 d. įsakymo Nr. D1-754 „Dėl statybos techninio reglamento STR 2.01.02:2016 „Pastatų energinio naudingumo projektavimas ir sertifikavimas“ patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2022-17541",
+  "official_journal_page": null,
+  "official_journal_date": "2022-08-25",
+  "entry_into_force": "2022-08-26",
+  "notification_date": "2026-01-21",
+  "commission_reference": "MNE(2026)00422",
+  "nim_celex": "72024L1275LTU_202600422",
+  "nim_id": "202600422",
+  "transposes_celex": [
+    "32024L1275"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/10ac13aa-64a8-4fec-b71d-89082a06c598",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
