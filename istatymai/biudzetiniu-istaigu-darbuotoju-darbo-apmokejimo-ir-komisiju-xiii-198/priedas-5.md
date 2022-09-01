@@ -11,13 +11,14 @@ C lygis
 4,8–6,3
 4,9–6,5
 5–7,8
+part_99201cc7dc014cd8aca112a29f8e6d95_end
 Lietuvos Respublikos
 valstybės ir savivaldybių įstaigų
 darbuotojų darbo apmokėjimo ir
 komisijų narių atlygio už darbą
 įstatymo
 5 priedas
-MOKYTOJŲ (IŠSKYRUS TRENERIUS), PAGALBOS MOKINIUI SPECIALISTŲ, MOKYKLŲ VADOVŲ, JŲ PAVADUOTOJŲ UGDYMUI, UGDYMĄ ORGANIZUOJANČIŲ SKYRIŲ VEDĖJŲ, ŠVIETIMO PAGALBOS ĮSTAIGŲ VADOVŲ, JŲ PAVADUOTOJŲ IR SKYRIŲ VEDĖJŲ, KURIŲ DARBAS LAIKOMAS PEDAGOGINIU, PAREIGINĖS ALGOS PASTOVIOSIOS DALIES KOEFICIENTAI IR MOKYTOJŲ (IŠSKYRUS TRENERIUS), PAGALBOS MOKINIUI SPECIALISTŲ (SPECIALIŲJŲ PEDAGOGŲ, LOGOPEDŲ, SURDOPEDAGOGŲ, TIFLOPEDAGOGŲ, JUDESIO KOREKCIJOS SPECIALISTŲ, PSICHOLOGŲ ASISTENTŲ, PSICHOLOGŲ, SOCIALINIŲ PEDAGOGŲ, AUKLĖTOJŲ, KONCERTMEISTERIŲ, AKOMPANIATORIŲ) DARBO KRŪVIO SANDARA
+MOKYTOJŲ (IŠSKYRUS TRENERIUS), PAGALBOS MOKINIUI SPECIALISTŲ, MOKYKLŲ VADOVŲ, JŲ PAVADUOTOJŲ UGDYMUI, UGDYMĄ ORGANIZUOJANČIŲ SKYRIŲ VEDĖJŲ, ŠVIETIMO PAGALBOS ĮSTAIGŲ VADOVŲ, JŲ PAVADUOTOJŲ IR SKYRIŲ VEDĖJŲ, KURIŲ DARBAS LAIKOMAS PEDAGOGINIU, PAREIGINĖS ALGOS PASTOVIOSIOS DALIES KOEFICIENTAI IR MOKYTOJŲ (IŠSKYRUS TRENERIUS), PAGALBOS MOKINIUI SPECIALISTŲ (SPECIALIŲJŲ PEDAGOGŲ, LOGOPEDŲ, SURDOPEDAGOGŲ, TIFLOPEDAGOGŲ, JUDESIO KOREKCIJOS SPECIALISTŲ, KARJEROS SPECIALISTŲ, PSICHOLOGŲ ASISTENTŲ, PSICHOLOGŲ, SOCIALINIŲ PEDAGOGŲ, AUKLĖTOJŲ, KONCERTMEISTERIŲ, AKOMPANIATORIŲ) DARBO KRŪVIO SANDARA
 I SKYRIUS
 MOKYTOJŲ, DIRBANČIŲ PAGAL BENDROJO UGDYMO, PROFESINIO MOKYMO IR NEFORMALIOJO ŠVIETIMO PROGRAMAS (IŠSKYRUS IKIMOKYKLINIO IR PRIEŠMOKYKLINIO UGDYMO PROGRAMAS), PAREIGINĖS ALGOS PASTOVIOSIOS DALIES KOEFICIENTAI IR DARBO KRŪVIO SANDARA
 1. Šiame skyriuje nurodytų darbuotojų pareiginės algos pastoviosios dalies koeficientai:
@@ -169,7 +170,7 @@ Mokytojas ekspertas
 13.3.5. socialinės globos įstaigose, skirtose vaikams;
 13.4. gali būti didinami iki 20 procentų mokytojams, dirbantiems pagal ikimokyklinio ugdymo programą, ir meninio ugdymo mokytojams, dirbantiems pagal ikimokyklinio ir (arba) priešmokyklinio ugdymo programas, pagal kitus biudžetinės įstaigos darbo apmokėjimo sistemoje nustatytus kriterijus.
 14. Jeigu mokytojo, dirbančio pagal ikimokyklinio ugdymo programą, ir meninio ugdymo mokytojų, dirbančių pagal ikimokyklinio ir (arba) priešmokyklinio ugdymo programas, veikla atitinka du ir daugiau šio priedo 13 punkte nustatytų kriterijų, jų pareiginės algos pastoviosios dalies koeficientas didinamas ne daugiau kaip 25 procentais. Pareiginės algos pastoviosios dalies koeficientų didinimo dėl veiklos sudėtingumo kriterijai, nurodyti šio priedo 13 punkte, atsižvelgiant į veiklos sudėtingumo mastą, detalizuojami biudžetinės įstaigos darbo apmokėjimo sistemoje.
-15. Mokytojų, dirbančių pagal ikimokyklinio ugdymo programą, išskyrus nurodytus šio priedo 16 punkte, darbo laikas per savaitę yra 36 valandos, iš jų 33 valandos per savaitę skiriamos tiesioginiam darbui su mokiniais, 3 valandos – netiesioginiam darbui su mokiniais (darbams planuoti, dokumentams, susijusiems su ugdymu, rengti, bendradarbiauti su mokytojais, tėvais (globėjais) ugdymo klausimais ir kt.).
+15. Mokytojų, dirbančių pagal ikimokyklinio ugdymo programą, išskyrus nurodytus šio priedo 16 punkte, darbo laikas per savaitę yra 36 valandos, iš jų 32 valandos per savaitę skiriamos tiesioginiam darbui su mokiniais, 4 valandos – netiesioginiam darbui su mokiniais (darbams planuoti, dokumentams, susijusiems su ugdymu, rengti, bendradarbiauti su mokytojais, tėvais (globėjais) ugdymo klausimais ir kt.).
 16. Mokytojų, dirbančių pagal ikimokyklinio ugdymo programą mokyklose (ikimokyklinio ugdymo grupėse), skirtose mokiniams, dėl įgimtų ar įgytų sutrikimų turintiems didelių ar labai didelių specialiųjų ugdymosi poreikių, sanatorijų mokyklose (ikimokyklinio ugdymo grupėse), sutrikusio vystymosi kūdikių namuose, darbo laikas per savaitę yra 28 valandos, iš jų 24 valandos skiriamos tiesioginiam darbui su mokiniais, 4 valandos – netiesioginiam darbui su mokiniais (darbams planuoti, dokumentams, susijusiems su ugdymu, rengti, bendradarbiauti su mokytojais, tėvais (globėjais) ugdymo klausimais ir kt.).
 17. Meninio ugdymo mokytojų, dirbančių pagal ikimokyklinio ir (arba) priešmokyklinio ugdymo programas, darbo laikas per savaitę yra 28 valandos, iš jų 24 valandos skiriamos tiesioginiam darbui su mokiniais, 4 valandos – netiesioginiam darbui su mokiniais (darbams planuoti, dokumentams, susijusiems su ugdymu, rengti, bendradarbiauti su mokytojais, tėvais (globėjais) ugdymo klausimais ir kt.).
 III SKYRIUS
@@ -236,10 +237,10 @@ Mokytojas ekspertas
 19.2.6. kurių grupėje ugdomi 4 ir daugiau mokinių, dėl įgimtų ar įgytų sutrikimų turinčių didelių ar labai didelių specialiųjų ugdymosi poreikių;
 19.3. gali būti didinami iki 20 procentų pagal kitus biudžetinės įstaigos darbo apmokėjimo sistemoje nustatytus kriterijus.
 20. Jeigu mokytojo, dirbančio pagal priešmokyklinio ugdymo programą, veikla atitinka du ir daugiau šio priedo 19 punkte nustatytų kriterijų, jo pareiginės algos pastoviosios dalies koeficientas didinamas ne daugiau kaip 25 procentais. Pareiginės algos pastoviosios dalies koeficientų didinimo dėl veiklos sudėtingumo kriterijai, nurodyti šio priedo 19 punkte, atsižvelgiant į veiklos sudėtingumo apimtį, detalizuojami biudžetinės įstaigos darbo apmokėjimo sistemoje.
-21. Mokytojų, dirbančių pagal priešmokyklinio ugdymo programą, išskyrus nurodytus šio priedo 22 punkte, darbo laikas per savaitę yra 36 valandos, iš jų 33 valandos skiriamos tiesioginiam darbui su mokiniais, 3 valandos – netiesioginiam darbui su mokiniais (darbams planuoti, dokumentams, susijusiems su ugdymu, rengti, bendradarbiauti su mokytojais, tėvais (globėjais) ugdymo klausimais ir kt.).
+21. Mokytojų, dirbančių pagal priešmokyklinio ugdymo programą, išskyrus nurodytus šio priedo 22 punkte, darbo laikas per savaitę yra 36 valandos, iš jų 32 valandos skiriamos tiesioginiam darbui su mokiniais, 4 valandos – netiesioginiam darbui su mokiniais (darbams planuoti, dokumentams, susijusiems su ugdymu, rengti, bendradarbiauti su mokytojais, tėvais (globėjais) ugdymo klausimais ir kt.).
 22. Mokytojų, dirbančių pagal priešmokyklinio ugdymo programą mokyklose (priešmokyklinio ugdymo grupėse), skirtose mokiniams, dėl įgimtų ar įgytų sutrikimų turintiems didelių ar labai didelių specialiųjų ugdymosi poreikių, sanatorijų mokyklose (priešmokyklinio ugdymo grupėse), sutrikusio vystymosi kūdikių namuose, darbo laikas per savaitę yra 28 valandos, iš jų 24 valandos skiriamos tiesioginiam darbui su mokiniais, 4 valandos – netiesioginiam darbui su mokiniais (darbams planuoti, dokumentams, susijusiems su ugdymu, rengti, bendradarbiauti su mokytojais, tėvais (globėjais, rūpintojais) ugdymo klausimais ir kt.).
 IV SKYRIUS
-SPECIALIŲJŲ PEDAGOGŲ, LOGOPEDŲ, SURDOPEDAGOGŲ, TIFLOPEDAGOGŲ, IŠSKYRUS DIRBANČIUS ŠVIETIMO PAGALBOS ĮSTAIGOSE, JUDESIO KOREKCIJOS SPECIALISTŲ PAREIGINIŲ ALGŲ PASTOVIOSIOS DALIES KOEFICIENTAI IR DARBO KRŪVIO SANDARA
+SPECIALIŲJŲ PEDAGOGŲ, LOGOPEDŲ, SURDOPEDAGOGŲ, TIFLOPEDAGOGŲ, IŠSKYRUS DIRBANČIUS ŠVIETIMO PAGALBOS ĮSTAIGOSE, JUDESIO KOREKCIJOS SPECIALISTŲ, KARJEROS SPECIALISTŲ PAREIGINIŲ ALGŲ PASTOVIOSIOS DALIES KOEFICIENTAI IR DARBO KRŪVIO SANDARA
 23. Šiame skyriuje nurodytų darbuotojų pareiginės algos pastoviosios dalies koeficientai:
 (Baziniais dydžiais)
 Kvalifikacinė kategorija
@@ -253,7 +254,7 @@ nuo daugiau kaip 15 iki 20
 nuo daugiau kaip 20 iki 25
 daugiau kaip 25
 Nesuteiktos kvalifikacinės kategorijos
-Specialusis pedagogas, logopedas, surdopedagogas, tiflopedagogas, judesio korekcijos specialistas
+Specialusis pedagogas, logopedas, surdopedagogas, tiflopedagogas, judesio korekcijos specialistas, karjeros specialistas
 7,44
 7,47
 7,53
@@ -288,9 +289,9 @@ Specialusis pedagogas ekspertas, logopedas ekspertas, surdopedagogas ekspertas, 
 10,1
 10,36
 10,4
-10,45
-24. Judesio korekcijos specialistams, kuriems įskaitytos kvalifikacinės kategorijos švietimo, mokslo ir sporto ministro nustatyta tvarka, pareiginės algos pastoviosios dalies koeficientai nustatomi taikant pareiginės algos pastoviosios dalies koeficientus, nurodytus šio priedo 23 punkte nustatytą atitinkamą kvalifikacinę kategoriją įgijusiems darbuotojams.
-25. Pareiginės algos pastoviosios dalies koeficientai dėl veiklos sudėtingumo specialiesiems pedagogams, logopedams, surdopedagogams, tiflopedagogams ir judesio korekcijos specialistams:
+10,45“
+24. Judesio korekcijos specialistams, karjeros specialistams, kuriems įskaitytos kvalifikacinės kategorijos švietimo, mokslo ir sporto ministro nustatyta tvarka, pareiginės algos pastoviosios dalies koeficientai nustatomi taikant pareiginės algos pastoviosios dalies koeficientus, nurodytus šio priedo 23 punkte nustatytą atitinkamą kvalifikacinę kategoriją įgijusiems darbuotojams.
+25. Pareiginės algos pastoviosios dalies koeficientai dėl veiklos sudėtingumo specialiesiems pedagogams, logopedams, surdopedagogams, tiflopedagogams, judesio korekcijos specialistams ir karjeros specialistams:
 25.1. didinami 1–15 procentų dirbantiems bendrojo ugdymo mokyklose ir įstaigose, vykdančiose profesinio mokymo, neformaliojo švietimo programas, išskyrus nurodytas šio priedo 25.2.1 ir 25.2.2 papunkčiuose, su vienu ir daugiau mokinių, dėl įgimtų ar įgytų sutrikimų turinčių didelių ar labai didelių specialiųjų ugdymosi poreikių;
 25.2. didinami 5–20 procentų:
 25.2.1. dirbantiems mokyklose, skirtose mokiniams, dėl įgimtų ar įgytų sutrikimų turintiems didelių ar labai didelių specialiųjų ugdymosi poreikių;
@@ -300,11 +301,12 @@ Specialusis pedagogas ekspertas, logopedas ekspertas, surdopedagogas ekspertas, 
 25.2.5. teikiantiems specialiąją pedagoginę pagalbą mokiniams, kuriems dėl ligos ar patologinės būklės skirtas mokymas namuose;
 25.3. didinami 15–25 procentais, kai jie teikia specialiąją pedagoginę pagalbą ikimokyklinio amžiaus vaikams, mokyklinio amžiaus vaikams, apakusiems suaugusiesiems jų namuose ar (ir) ikimokyklinio ugdymo mokyklose, bendrojo ugdymo mokyklose, esančiose kitose gyvenamosiose vietovėse negu jų darbovietė;
 25.4. gali būti didinami iki 20 procentų pagal kitus biudžetinės įstaigos darbo apmokėjimo sistemoje nustatytus kriterijus.
-26. Jeigu specialiojo pedagogo, logopedo, surdopedagogo, tiflopedagogo, judesio korekcijos specialisto veikla atitinka du ir daugiau šio priedo 25 punkte nustatytų kriterijų, jų pareiginės algos pastoviosios dalies koeficientas didinamas ne daugiau kaip 25 procentais. Pareiginės algos pastoviosios dalies koeficientų didinimo dėl veiklos sudėtingumo kriterijai, nurodyti šio priedo 25 punkte, atsižvelgiant į veiklos sudėtingumo mastą, detalizuojami biudžetinės įstaigos darbo apmokėjimo sistemoje.
+26. Jeigu specialiojo pedagogo, logopedo, surdopedagogo, tiflopedagogo, judesio korekcijos specialisto, karjeros specialisto veikla atitinka du ir daugiau šio priedo 25 punkte nustatytų kriterijų, jų pareiginės algos pastoviosios dalies koeficientas didinamas ne daugiau kaip 25 procentais. Pareiginės algos pastoviosios dalies koeficientų didinimo dėl veiklos sudėtingumo kriterijai, nurodyti šio priedo 25 punkte, atsižvelgiant į veiklos sudėtingumo mastą, detalizuojami biudžetinės įstaigos darbo apmokėjimo sistemoje.
 27. Darbo laikas per savaitę:
 27.1. specialiųjų pedagogų, logopedų, surdopedagogų ir tiflopedagogų, dirbančių mokyklose, socialinės globos įstaigose, skirtose vaikams, sutrikusio vystymosi kūdikių namuose su ikimokyklinio ir priešmokyklinio amžiaus vaikais, – 34 valandos, iš jų 22 valandos skiriamos tiesioginiam darbui su vaikais, mokiniais (vaikų, mokinių specialiesiems ugdymosi poreikiams įvertinti, specialiosioms pratyboms vesti), 12 valandų – netiesioginiam darbui su vaikais, mokiniais (veikloms planuoti ir joms pasirengti, dokumentams rengti, bendradarbiauti su mokytojais, kitais ugdymo procese dalyvaujančiais asmenimis, vaikų, mokinių tėvais (globėjais, rūpintojais) ugdymo ir (ar) švietimo pagalbos klausimais ir kita);
 27.2. specialiųjų pedagogų, logopedų, surdopedagogų ir tiflopedagogų, dirbančių mokyklose, socialinės globos įstaigose, skirtose vaikams, su mokyklinio amžiaus vaikais, – 30 valandų, iš jų 18 valandų skiriama tiesioginiam darbui su vaikais, mokiniais (vaikų, mokinių specialiesiems ugdymosi poreikiams įvertinti, specialiosioms pratyboms vesti), 12 valandų – netiesioginiam darbui su vaikais, mokiniais (veikloms planuoti ir joms pasirengti, dokumentams rengti, bendradarbiauti su mokytojais, kitais ugdymo procese dalyvaujančiais asmenimis, vaikų, mokinių tėvais (globėjais, rūpintojais) ugdymo ir (ar) švietimo pagalbos klausimais ir kita);
 27.3. judesio korekcijos specialistų, dirbančių mokyklose, – 36 valandos, iš jų 24 valandos skiriamos tiesioginiam darbui su mokiniais (judesio ir padėties korekcijos užsiėmimams vesti), 12 valandų – netiesioginiam darbui su mokiniais (veikloms planuoti ir joms pasirengti, dokumentams rengti, bendradarbiauti su mokytojais, kitais ugdymo procese dalyvaujančiais asmenimis, mokinių tėvais (globėjais, rūpintojais) ugdymo ir (ar) švietimo pagalbos klausimais ir kita).
+27.4. karjeros specialistų, dirbančių švietimo įstaigose, – 36 valandos. Ne daugiau kaip 60 procentų šių darbuotojų darbo laiko skiriama tiesioginiam darbui su mokiniais teikiant ugdymo karjerai, profesinio informavimo ir profesinio konsultavimo paslaugas, o kita darbo laiko dalis skiriama netiesioginiam darbui su mokiniais (veikloms planuoti ir joms pasirengti, dokumentams rengti, bendradarbiauti su mokytojais, mokinių tėvais (globėjais, rūpintojais), kitais asmenimis ugdymo karjerai, profesinio informavimo ir profesinio konsultavimo klausimais ir kita).
 V SKYRIUS
 PSICHOLOGŲ ASISTENTŲ, PSICHOLOGŲ, SOCIALINIŲ PEDAGOGŲ IR ŠVIETIMO PAGALBOS ĮSTAIGOSE DIRBANČIŲ SPECIALIŲJŲ PEDAGOGŲ, LOGOPEDŲ, SURDOPEDAGOGŲ IR TIFLOPEDAGOGŲ PAREIGINIŲ ALGŲ PASTOVIOSIOS DALIES KOEFICIENTAI IR DARBO KRŪVIO SANDARA
 28. Šiame skyriuje nurodytų darbuotojų pareiginės algos pastoviosios dalies koeficientai:
