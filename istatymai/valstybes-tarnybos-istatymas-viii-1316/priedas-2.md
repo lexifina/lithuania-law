@@ -1,7 +1,7 @@
 # 6,1–11
 5,8–10,5
 5,5–9,5
-part_636b9ce3283e4fb09ece8eff3a14574a_end
+part_7f28de126a0f44239e5b9ef1af7fa867_end
 Lietuvos Respublikos
 valstybės tarnybos įstatymo
 2 priedas
