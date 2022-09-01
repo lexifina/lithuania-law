@@ -45,3 +45,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2022-01-14 | 2022-04-30 | Įstatymas Nr. XIV-863 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/bba94b1b08c95d1c2db4a212b961d3b29cc1510d/istatymai/TAR.D3ED3792F52B.md) |
 | 2022-05-01 | 2022-05-27 | Įstatymas Nr. XIII-1370 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/64c7096d626994477d49eaa388447366fdbe59db/istatymai/TAR.D3ED3792F52B.md) |
 | 2022-05-28 | 2022-08-31 | Įstatymas Nr. XIII-1370 / Įstatymas Nr. XIV-1111 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/bcd5dc4ca0e1b22480cb90c8c043e589e63f2111/istatymai/TAR.D3ED3792F52B.md) |
+| 2022-09-01 | 2022-12-31 | Įstatymas Nr. XIII-1370 / Įstatymas Nr. XIV-1125 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/2f017757636a6b64bc3a86b3886e4e28fd18eeab/istatymai/TAR.D3ED3792F52B.md) |
