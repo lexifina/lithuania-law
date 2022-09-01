@@ -32,6 +32,7 @@ daugiau kaip 10
 6,4–9,3
 6,5–9,5
 6,7–9,6
+part_8597c8a326b147b683dead3ac00610d6_end
 Lietuvos Respublikos
 valstybės ir savivaldybių įstaigų darbuotojų
 darbo apmokėjimo ir komisijų narių atlygio

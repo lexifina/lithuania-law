@@ -30,6 +30,7 @@ nuo daugiau kaip 5 iki 10
 daugiau kaip 10
 8,7–13,7
 8,2–12,3
+part_4210a6ebfae3468680f3841405975d69_end
 Lietuvos Respublikos
 valstybės ir savivaldybių įstaigų darbuotojų
 darbo apmokėjimo ir komisijų narių
