@@ -9,3 +9,4 @@ Editions are the Register's consolidated editions as Lithuania notified them to 
 | In force from | Edition until (as stated) | Credited to | File |
 | --- | --- | --- | --- |
 | 2022-07-01 | 2022-07-25 | Teisės aktų registras (Seimo kanceliarija) | [3b8c29a3](https://publications.europa.eu/resource/cellar/3b8c29a3-43b8-406f-bf8b-a70c6100cb3d.0001.01/DOC_1) |
+| 2022-09-01 | 2022-10-31 | Įstatymas Nr. XIV-1358 / Įstatymas Nr. XIV-1382 / Įstatymas Nr. XIV-1399 | [9e25dd11](https://publications.europa.eu/resource/cellar/9e25dd11-3514-477e-8dfb-74d138ebe67e.0001.01/DOC_1) |
