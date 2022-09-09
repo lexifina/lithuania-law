@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2022 m. rugsėjo 7 d. įsakymas Nr. 1-265 „Dėl 2021–2030 m. plėtros programos valdytojos Lietuvos Respublikos energetikos ministerijos energetikos plėtros programos pažangos priemonės Nr. 03-001-06-03-02 „Didinti atsinaujinančių energijos išteklių dalį, užtikrinant atsinaujinančių išteklių integraciją į elektros tinklus“ aprašo patvirtinimo“ (suvestinė redakcija nuo 2023-10-27 iki 2023-12-22)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2022-18493",
+  "official_journal_page": null,
+  "official_journal_date": "2022-09-08",
+  "entry_into_force": "2022-09-09",
+  "notification_date": "2025-12-05",
+  "commission_reference": "MNE(2025)06730",
+  "nim_celex": "72023L2413LTU_202506730",
+  "nim_id": "202506730",
+  "transposes_celex": [
+    "32023L2413"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/68a60612-90a8-46b8-a4d1-05c2778e243a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
