@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos tarybos 2022 m. rugsėjo 20 d. nutarimas Nr. TN-35 „Dėl Lietuvos Respublikos ryšių reguliavimo tarnybos darbo reglamento patvirtinimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2022-19244",
+  "official_journal_page": null,
+  "official_journal_date": "2022-09-21",
+  "entry_into_force": "2022-09-22",
+  "notification_date": "2023-01-05",
+  "commission_reference": "MNE(2022)06300",
+  "nim_celex": "72018L1972LTU_202206300",
+  "nim_id": "202206300",
+  "transposes_celex": [
+    "32018L1972"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4fb63ead-8da4-11ed-999b-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
