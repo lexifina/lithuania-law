@@ -1,4 +1,4 @@
-# part_b892bcf9cc934f8f8ced545418bfd78b_end
+# part_23821eff571d4570a0dde179497c779f_end
 Lietuvos Respublikos
 saugaus eismo automobilių keliais įstatymo
 2 priedas
