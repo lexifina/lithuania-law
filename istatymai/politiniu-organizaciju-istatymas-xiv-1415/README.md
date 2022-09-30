@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2022-09-17 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/dcdf6f5a024bee226fe440da5bc22155474868d6/istatymai/TAR.E58CADD035B8.md) |
+| 2022-09-30 | 2024-11-22 | Įstatymas Nr. XIV-1429 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/204e4f98a0e27df648f4a2a3a84348043d3c35bb/istatymai/TAR.E58CADD035B8.md) |
