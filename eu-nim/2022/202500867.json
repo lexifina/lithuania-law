@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo proceso kodekso 140 straipsnio pakeitimo įstatymas Nr. XIV-1359",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2022-15453",
+  "official_journal_page": null,
+  "official_journal_date": "2022-07-14",
+  "entry_into_force": "2022-10-01",
+  "notification_date": "2025-02-05",
+  "commission_reference": "MNE(2025)00867",
+  "nim_celex": "72016L0343LTU_202500867",
+  "nim_id": "202500867",
+  "transposes_celex": [
+    "32016L0343"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ca6ea555-4915-4a86-a8be-ab113470111b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
