@@ -1,38 +1,10 @@
-# 9,3
-9,5
-9,7
-9,7
-9,7
-Seržantas, seržantas specialistas
-8,3
-8,5
-8,5
-8,5
-8,5
-Grandinis
-7,8
-8
-8
-8
-8
-Vyresnysis eilinis, vyresnysis jūreivis
-7,2
-7,2
-7,2
-7,2
-7,2
-Eilinis, jūreivis
-6,6
-6,6
-6,6
-6,6
-6,6
-Jaunesnysis eilinis, jaunesnysis jūreivis
-6,4
-6,4
-6,4
-6,4
-6,4
+# Jaunesnysis eilinis, jaunesnysis jūreivis
+6,9
+6,9
+6,9
+6,9
+6,9“
+part_124c6f4d1ce14aa1b10ef66aa2f03cf9_end
 Lietuvos Respublikos
 krašto apsaugos sistemos organizavimo
 ir karo tarnybos įstatymo
