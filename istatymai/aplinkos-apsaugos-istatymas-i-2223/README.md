@@ -30,3 +30,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2022-01-01 | 2022-04-30 | Įstatymas Nr. XIII-3194 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22mByQFzAmSd%22) |
 | 2022-05-01 | 2022-07-14 | Įstatymas Nr. XIV-489 / Teisės aktų registras (Seimo kanceliarija) | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22mQeTOdfEvx%22) |
 | 2022-07-15 | 2022-10-04 | Įstatymas Nr. XIV-1369 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22DngMQgSYOQ%22) |
+| 2022-10-05 | 2022-12-31 | Įstatymas Nr. XIV-1433 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22XNoTWCqrfw%22) |
