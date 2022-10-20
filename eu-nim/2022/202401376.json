@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro 2022 m. spalio 19 d. įsakymas Nr. 1V-649 “Dėl Lietuvos Respublikos vidaus reikalų ministro 2005 m. birželio 28 d. įsakymo Nr. 1V-204 „Dėl Motorinių transporto priemonių ir jų priekabų registracijos liudijimo blanko aprašymo ir privalomosios formos patvirtinimo“ pakeitimo”",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2022-21158",
+  "official_journal_page": null,
+  "official_journal_date": "2022-10-19",
+  "entry_into_force": "2022-10-20",
+  "notification_date": "2024-04-16",
+  "commission_reference": "MNE(2024)01376",
+  "nim_celex": "72022L0362LTU_202401376",
+  "nim_id": "202401376",
+  "transposes_celex": [
+    "32022L0362"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ab2e1a62-f407-40c9-a5e7-298654b28207",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
