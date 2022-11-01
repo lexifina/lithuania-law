@@ -1,5 +1,4 @@
-# part_fa6878261d474129bce4509fea5cbadd_end
-Lietuvos Respublikos
+# Lietuvos Respublikos
 transporto veiklos pagrindų įstatymo
 2 priedas
 KOMPETENTINGŲ VALDŽIOS INSTITUCIJŲ SĄRAŠAS
