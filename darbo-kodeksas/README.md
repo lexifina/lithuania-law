@@ -1,11 +1,11 @@
 # Darbo kodeksas
 
-Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas Nr. XII-2603
+Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas
 
-Redakcijos – Teisės aktų registro suvestinės redakcijos, kaip jas Lietuva pranešė Europos Komisijai (nacionalinės perkėlimo priemonės, ES leidinių biuras, Cellar). Įrašytos tik praneštos redakcijos; tarp jų esančių redakcijų čia nėra.
+Redakcijos – Teisės aktų registro (TAR) tekstai: suvestinės redakcijos ir priimtas tekstas. Šaltiniai: Lietuvos ES pranešti failai (ES leidinių biuras, Cellar) ir trečiųjų šalių TAR atvirų duomenų (data.gov.lt, rinkinys 2613) kopijos github.com/Yiin/lt-teises-aktai ir atviri-teises-aktai.lt; kur redakcija yra keliuose šaltiniuose, jos tekstas sutikrintas raidė po raidės.
 
-Editions are the Register's consolidated editions as Lithuania notified them to the European Commission (national transposition measures, EU Publications Office, Cellar), as sent. Only notified editions are on record; editions between them are not.
+Editions are TAR texts (consolidated editions and the text as adopted), from Lithuania's notifications to the EU (Cellar) and from third-party copies of TAR open data (data.gov.lt dataset 2613): github.com/Yiin/lt-teises-aktai and atviri-teises-aktai.lt. Where an edition is in more than one source, the copies were compared letter for letter. Each commit names its source.
 
-| In force from | Edition until (as stated) | Credited to | File |
+| In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
-| 2022-10-01 | 2022-10-31 | Teisės aktų registras (Seimo kanceliarija) | [d5801a50](https://publications.europa.eu/resource/cellar/d5801a50-90b5-4878-9194-492801302726.0001.01/DOC_1) |
+| 2022-11-01 | 2022-12-31 | Įstatymas Nr. XIV-1187 / Įstatymas Nr. XIV-1189 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/ad4696cb9aa7e8ae28761ce5c6e28f4b5958bb19/istatymai/TAR.F6D686707E70.md) |

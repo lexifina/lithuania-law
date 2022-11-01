@@ -1,4 +1,5 @@
-# Lietuvos Respublikos
+# part_d1af8b3b2b1a4e1fbf7defdbcc8143b8_end
+Lietuvos Respublikos
 darbo kodekso
 priedas
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
