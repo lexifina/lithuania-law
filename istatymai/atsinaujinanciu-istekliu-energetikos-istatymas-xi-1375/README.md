@@ -35,3 +35,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2022-04-08 | 2022-06-30 | Įstatymas Nr. XIV-1001 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/68861fdd096e3c92ff01e3b31dabdc742dfe4672/istatymai/TAR.FC7AB69BE291.md) |
 | 2022-07-01 | 2022-07-07 | Įstatymas Nr. XIV-1001 / Įstatymas Nr. XIV-1171 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/413337f7bf0bbafda1e842ccac6f23a017a1d673/istatymai/TAR.FC7AB69BE291.md) |
 | 2022-07-08 | 2022-10-31 | Įstatymas Nr. XIV-1169 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/7426c59b721c38d966665e13e81cd9c964fa9260/istatymai/TAR.FC7AB69BE291.md) |
+| 2022-11-01 | 2022-12-29 | Įstatymas Nr. XIV-1169 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/75a5e10c0b4a8f26b319ae629f5d1dc8b000d4b5/istatymai/TAR.FC7AB69BE291.md) |
