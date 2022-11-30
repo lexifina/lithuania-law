@@ -7,5 +7,5 @@ priedas
 2. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/102/EB bendrovių teisės srityje dėl vienanarių privačių ribotos atsakomybės bendrovių.
 3. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/34/ES dėl tam tikrų rūšių įmonių metinių finansinių ataskaitų, konsoliduotųjų finansinių ataskaitų ir susijusių pranešimų, kuria iš dalies keičiama Europos Parlamento ir Tarybos direktyva 2006/43/EB ir panaikinamos Tarybos direktyvos 78/660/EEB ir 83/349/EEB, su paskutiniais pakeitimais, padarytais 2014 m. spalio 22 d. Europos Parlamento ir Tarybos direktyva 2014/95/ES.
 4. 2017 m. gegužės 17 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/828, kuria iš dalies keičiamos Direktyvos 2007/36/EB nuostatos, susijusios su akcininkų ilgalaikio dalyvavimo skatinimu.
-5. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/1132 dėl tam tikrų bendrovių teisės aspektų.
-part_af5475a7bfbb42ebb5002455ab0c9852_end
+5. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/1132 dėl tam tikrų bendrovių teisės aspektų su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/1151.
+part_cf424c21dffa4b4981a80507c65f43c2_end
