@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2022 m. lapkričio 30 d. įsakymas Nr. D1-369 „Dėl Lietuvos Respublikos aplinkos ministro 2018 m. balandžio 19 d. įsakymo Nr. D1-317 „Dėl Buveinių apsaugai svarbių teritorijų nustatymo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2022-24232",
+  "official_journal_page": null,
+  "official_journal_date": "2022-11-30",
+  "entry_into_force": "2022-12-01",
+  "notification_date": "2023-02-08",
+  "commission_reference": "MNE(2023)00026",
+  "nim_celex": "71992L0043LTU_202300026",
+  "nim_id": "202300026",
+  "transposes_celex": [
+    "31992L0043"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f925fd89-a55d-4ba9-9794-994edd7900fd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
