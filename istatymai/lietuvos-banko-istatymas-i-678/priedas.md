@@ -51,6 +51,10 @@ Metinės pajamos
 Kitose Europos ekonominės erdvės valstybėse licencijuotų finansų maklerio įmonių filialai, įsteigti Lietuvos Respublikoje
 Metinės pajamos
 0,15 proc.
+11¹..
+Pagrindinės sandorio šalys
+–
+25 000 Eur
 12.
 Valdymo įmonės, investicinės bendrovės, kurių valdymas neperduotas valdymo įmonėms, ir šių subjektų filialai, įsteigti Lietuvos Respublikoje
 Valdomų neprofesionaliesiems investuotojams skirtų suderintųjų kolektyvinio investavimo subjektų, specialiųjų kolektyvinio investavimo subjektų ir papildomo savanoriško pensijų kaupimo fondų grynųjų aktyvų vertė
@@ -155,3 +159,7 @@ Pirminiai skolintojai
 1 000 Eur
 37.
 Trečiosios šalys, tikrinančios pakeitimo vertybiniais popieriais atitiktį paprastiems, skaidriems ir standartizuotiems kriterijams
+-
+1 000 Eur
+38.
+Kiti Europos asmeninės pensijos produkto teikėjai ir Europos asmeninės pensijos produkto platintojai, kai jie išleidžia ir (ar) platina tokius produktus, kurie nepatenka į šiame priede nurodytą įmokų bazę
