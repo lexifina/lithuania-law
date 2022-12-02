@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos generalinio prokuroro 2022 m. gruodžio 1 d. įsakymas Nr. I-344 „Dėl Lietuvos Respublikos generalinio prokuroro 2014 m. birželio 3 d. įsakymo „Dėl Rekomendacijų dėl tarptautinių bendrų (jungtinių) tyrimo grupių sudarymo ir veiklos patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2022-24468",
+  "official_journal_page": null,
+  "official_journal_date": "2022-12-01",
+  "entry_into_force": "2022-12-02",
+  "notification_date": "2023-03-10",
+  "commission_reference": "MNE(2023)01598",
+  "nim_celex": "72022L0211LTU_202301598",
+  "nim_id": "202301598",
+  "transposes_celex": [
+    "32022L0211"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/303d36cc-c4a1-11ed-a05c-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
