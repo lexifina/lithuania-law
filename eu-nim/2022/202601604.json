@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2022 m. gruodžio 14 d.  įsakymas Nr. D1-405 „Dėl Klimato kaitos programos priemonės „Juridinių asmenų negyvenamosios paskirties pastatų atnaujinimas (modernizavimas)“ tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2022-25475",
+  "official_journal_page": null,
+  "official_journal_date": "2022-12-14",
+  "entry_into_force": "2022-12-15",
+  "notification_date": "2026-03-12",
+  "commission_reference": "MNE(2026)01604",
+  "nim_celex": "72023L1791LTU_202601604",
+  "nim_id": "202601604",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d560de30-f695-46d6-a1c4-544f57726f93",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
