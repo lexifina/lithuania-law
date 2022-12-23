@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2022 m. gruodžio 21 d. nutarimas Nr. 1282 \"Dėl Lietuvos Respublikos Vyriausybės 2003 m. lapkričio 12 d. nutarimo Nr. 1407 „Dėl Juridinių asmenų registro nuostatų patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2022-26404",
+  "official_journal_page": null,
+  "official_journal_date": "2022-12-22",
+  "entry_into_force": "2022-12-23",
+  "notification_date": "2023-09-26",
+  "commission_reference": "MNE(2023)05134",
+  "nim_celex": "72019L2121LTU_202305134",
+  "nim_id": "202305134",
+  "transposes_celex": [
+    "32019L2121"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cc7be5f6-63be-465e-bdb6-3783498e6cbe",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
