@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyrausybės 2022 m. gruodžio 21 d. nutarimas Nr. 1292 „Dėl Nacionalinio vandenų srities 2022–2027 metų plano patvirtinimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2022-26464",
+  "official_journal_page": null,
+  "official_journal_date": "2022-12-22",
+  "entry_into_force": "2022-12-23",
+  "notification_date": "2023-01-09",
+  "commission_reference": "MNE(2022)08249",
+  "nim_celex": "72007L0060LTU_202208249",
+  "nim_id": "202208249",
+  "transposes_celex": [
+    "32007L0060"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f150c380-931d-11ed-b508-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
