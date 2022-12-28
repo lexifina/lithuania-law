@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2022 m. gruodžio 27 d. įsakymas Nr. 3-586 „Dėl Darnaus judumo planų rengimo rekomendacijų patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2022-26988",
+  "official_journal_page": null,
+  "official_journal_date": "2022-12-27",
+  "entry_into_force": "2022-12-28",
+  "notification_date": "2026-09-23",
+  "commission_reference": "MNE(2026)07378",
+  "nim_celex": "72024L1275LTU_202607378",
+  "nim_id": "202607378",
+  "transposes_celex": [
+    "32024L1275"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9863a53c-c9af-4981-942d-d020ad207294",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
