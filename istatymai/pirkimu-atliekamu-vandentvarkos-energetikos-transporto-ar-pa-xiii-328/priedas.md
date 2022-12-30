@@ -1,5 +1,5 @@
 # Respublikos Prezidentė Dalia Grybauskaitė
-part_552f8eab929646aabc9175b710e91076_end
+part_af1968f5b8e04974967849b1d1a302bd_end
 part_df4f6b6f3c384d668ef6f0b1bd9193d0_end
 Lietuvos Respublikos
 pirkimų, atliekamų vandentvarkos,
