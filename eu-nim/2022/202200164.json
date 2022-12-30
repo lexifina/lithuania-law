@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2021 m. gruodžio 29 d. nutarimas Nr. 1143 „Dėl Lietuvos Respublikos Vyriausybės 2021 m. birželio 10 d. nutarimo Nr. 594„Dėl Lietuvos Respublikos Vyriausybės 2002 m. birželio 13 d. nutarimo Nr. 899 „Dėl pridėtinės vertės mokesčio grąžinimo užsienio asmenims“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-27513",
+  "official_journal_page": null,
+  "official_journal_date": "2021-12-29",
+  "entry_into_force": "2022-12-30",
+  "notification_date": "2022-02-14",
+  "commission_reference": "MNE(2022)00164",
+  "nim_celex": "72006L0112LTU_202200164",
+  "nim_id": "202200164",
+  "transposes_celex": [
+    "32006L0112"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4600418d-90a8-11ec-b4e4-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
