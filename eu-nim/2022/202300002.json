@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 1, 2, 3, 5, 11, 13, 14, 16, 18, 20, 20-1, 21, 22, 23, 26, 29, 49, 50, 55, 56, 57, 63 straipsnių, dvyliktojo skirsnio pavadinimo pakeitimo, 54 straipsnio pripažinimo netekusiu galios ir Įstatymo papildymo 15-1 straipsniu įstatymo Nr. XIV-1001 10, 15 ir 27 straipsnių pakeitimo įstatymas Nr. XIV-1697",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2022-27270",
+  "official_journal_page": null,
+  "official_journal_date": "2022-12-29",
+  "entry_into_force": "2022-12-30",
+  "notification_date": "2023-08-08",
+  "commission_reference": "MNE(2023)00002",
+  "nim_celex": "72018L2001LTU_202300002",
+  "nim_id": "202300002",
+  "transposes_celex": [
+    "32018L2001"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b9d8cfce-5625-4105-8914-2a33d9b1d4c2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
