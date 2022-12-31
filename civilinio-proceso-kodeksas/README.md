@@ -9,3 +9,4 @@ Editions are the Register's consolidated editions as Lithuania notified them to 
 | In force from | Edition until (as stated) | Credited to | File |
 | --- | --- | --- | --- |
 | 2022-08-01 | 2022-12-31 | Teisės aktų registras (Seimo kanceliarija) | [b56146ad](https://publications.europa.eu/resource/cellar/b56146ad-d8e8-423e-b561-aefde1138a6b.0001.01/DOC_1) |
+| 2022-12-31 | 2022-12-31 | Įstatymas Nr. XIV-1748 / Teisės aktų registras (Seimo kanceliarija) | [a0f2b84d](https://publications.europa.eu/resource/cellar/a0f2b84d-1a44-49a8-9e1f-83c2469f9a0f.0001.01/DOC_1) |
