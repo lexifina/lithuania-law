@@ -1,14 +1,6 @@
-# part_71382f36900543e19f75d94c4c8ada4a_end
+# part_8e95f6bf6df04c3e84b3aab7f3a44e5d_end
 Lietuvos Respublikos
 bausmių vykdymo kodekso
-2 priedas
-laisvės atėmimo bausmę atliekantiems nuteistiesiems draudžiamŲ DIRBTI Darbų ir DRAUDŽIAMŲ EITI pareigų
-sąrašas
-Laisvės atėmimo bausmę atliekantiems nuteistiesiems draudžiama dirbti:
-1) dauginimo aparatais, radijo ir elektros ryšių perdavimo įrengimais (išskyrus elektros ryšių linijų montuotoju, dalyvaujant administracijos atstovui);
-2) pardavėjais, buhalteriais, kasininkais, sandėlių vedėjais;
-3) medicinos srityje (išskyrus sanitarais);
-4) fotografais, televizijos ir kino operatoriais;
-5) lengvųjų automobilių ir motociklų vairuotojais;
-6) eiti pareigas, pagal kurias nuteistiesiems būtų pavaldūs pataisos įstaigų darbuotojai;
-7) pataisos įstaigos administracijos patalpose, kai jose nėra administracijos atstovo.
+priedas
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+1. 2012 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2012/29/ES, kuria nustatomi būtiniausi nusikaltimų aukų teisių, paramos joms ir jų apsaugos standartai ir kuria pakeičiamas Tarybos pamatinis sprendimas 2001/220/TVR.
