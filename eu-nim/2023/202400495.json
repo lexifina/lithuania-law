@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 5, 6, 8, 10, 11 ir 18 straipsnių pakeitimo įstatymas Nr. XIV-1532",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2022-24176",
+  "official_journal_page": null,
+  "official_journal_date": "2022-11-29",
+  "entry_into_force": "2023-01-01",
+  "notification_date": "2024-01-29",
+  "commission_reference": "MNE(2024)00495",
+  "nim_celex": "72021L1883LTU_202400495",
+  "nim_id": "202400495",
+  "transposes_celex": [
+    "32021L1883"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0d59da70-138d-4b92-b227-beac6866c9e8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
