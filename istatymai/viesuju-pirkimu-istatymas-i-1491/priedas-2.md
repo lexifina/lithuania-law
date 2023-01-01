@@ -1,5 +1,5 @@
 # 45500000
-part_8a5087be424d400b8cc104a2792d82d2_end
+part_732652a4a4104aeba7394a00c8571d93_end
 Lietuvos Respublikos
 viešųjų pirkimų įstatymo
 2 priedas
@@ -39,7 +39,7 @@ Kitos administracinės ir valdžios paslaugos
 Paslaugų teikimas bendruomenei
 11.
 75231210-9–75231230-5; 75240000-0–75252000-7; 794300000-7; 98113100-9
-Kalėjimų paslaugos, visuomenės saugumo ir gelbėjimo paslaugos, išskyrus paslaugas, nenurodytas Lietuvos Respublikos viešųjų pirkimų įstatymo 6 straipsnio 9 punkte
+Kalėjimų paslaugos, visuomenės saugumo ir gelbėjimo paslaugos, išskyrus paslaugas, kurios nepatenka į Lietuvos Respublikos viešųjų pirkimų įstatymo taikymo sritį pagal šio įstatymo 6 straipsnio 9 punktą
 12.
 79700000-1–79721000-4 [Tyrimo ir apsaugos paslaugos, apsaugos paslaugos, signalizacijos sistemų stebėsenos paslaugos, apsaugos paslaugos, stebėjimo paslaugos, suradimo sistemų paslaugos, pasislėpusių asmenų radimo paslaugos, patrulių paslaugos, tapatybės kortelių išleidimo paslaugos, tyrimo paslaugos ir detektyvų agentūrų paslaugos] 79722000-1 [Grafologijos paslaugos], 79723000-8 [Atliekų analizės paslaugos]
 Tyrimo ir apsaugos paslaugos
