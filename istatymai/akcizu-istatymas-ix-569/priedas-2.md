@@ -1,4 +1,4 @@
-# part_e914d3b663e3410aa111876cbdb2b19f_end
+# part_9c85dc721b52479ab3420f8a3054cf1a_end
 Lietuvos Respublikos
 akcizų įstatymo
 2 priedas
