@@ -1,9 +1,10 @@
-# Lietuvos Respublikos
+# part_64b20b42a3994d8296e6df2ae3420698_end
+Lietuvos Respublikos
 mokesčio už aplinkos teršimą įstatymo
 2 priedas
 MOKESČIO UŽ APLINKOS TERŠIMĄ IŠ STACIONARIŲJŲ TARŠOS ŠALTINIŲ NORMATYVUS VIRŠIJANČIOS TARŠOS TARIFAI
 I SKYRIUS
-TERŠALAI, IŠMETAMI Į ATMOSFERĄ
+TERŠALAI, IŠMETAMI Į APLINKOS ORĄ
 Teršalai
 Tarifas, Eur/t
 2021 m.

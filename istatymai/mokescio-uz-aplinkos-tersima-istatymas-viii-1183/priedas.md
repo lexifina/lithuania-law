@@ -4,7 +4,7 @@ mokesčio už aplinkos teršimą įstatymo
 1 priedas
 MOKESČIO UŽ APLINKOS TERŠIMĄ IŠ STACIONARIŲJŲ TARŠOS ŠALTINIŲ LEIDŽIAMOS TARŠOS TARIFAI
 I SKYRIUS
-TERŠALAI, IŠMETAMI Į ATMOSFERĄ
+TERŠALAI, IŠMETAMI Į APLINKOS ORĄ
 Teršalai
 Tarifas, Eur/t
 2021 m.
