@@ -21,4 +21,3 @@ Iš valstybės biudžeto už pensijų fondo dalyvį mokamos pensijų įmokos dyd
 2023 ir vėlesni
 3
 1,5
-part_d8c49221dd5f42459fefab5670edb273_end
