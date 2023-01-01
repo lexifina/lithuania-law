@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2015-01-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/885ddd315161133e26ebc86d68bfef397fcb67a0/konstituciniai-istatymai/TAR.34CC90406EF2.md) |
+| 2023-01-01 | 2024-12-12 | Įstatymas Nr. XIV-1760 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/f078e0c5ce112dcfba4be0a73ba215c8a7c32493/konstituciniai-istatymai/TAR.34CC90406EF2.md) |
