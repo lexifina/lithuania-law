@@ -1,4 +1,4 @@
-PATAISOS PAREIGŪNŲ VEIKLOS
+bausmių vykdymo sistemos
 ĮSTATYMAS
 2018 m. birželio 29 d. Nr. XIII-1387
 Vilnius
