@@ -1,4 +1,4 @@
-# part_8172711e7be54fd19ac28f3dcade05df_end
+# part_093aa78aab5f4ea094af70de088e3fe7_end
 Lietuvos Respublikos
 indėlių ir įsipareigojimų
 investuotojams draudimo įstatymo
