@@ -1,0 +1,6 @@
+# RESPUBLIKOS PREZIDENTAS ALGIRDAS BRAZAUSKAS
+Lietuvos Respublikos
+odontologijos praktikos ir
+burnos priežiūros praktikos įstatymo
+1 priedas
+ODONTOLOGIJOS REZIDENTŪROS STUDIJŲ METŲ BAZINIO (TARIFINIO) DARBO UŽMOKESČIO KOEFICIENTAI
