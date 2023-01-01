@@ -1,4 +1,5 @@
-# Lietuvos Respublikos
+# part_ac7f283fff1f4e42b425b8fc2202b60f_end
+Lietuvos Respublikos
 mokesčio už aplinkos teršimą įstatymo
 3 priedas
 GAMINIŲ SĄRAŠAS IR MOKESČIO UŽ APLINKOS TERŠIMĄ TARIFAI

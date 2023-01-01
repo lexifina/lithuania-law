@@ -30,6 +30,7 @@ Kita pakuotė
 299
 299
 423
+part_5eef261172b3472c88060da358d7d974_end
 Lietuvos Respublikos
 mokesčio už aplinkos teršimą įstatymo
 5 priedas
