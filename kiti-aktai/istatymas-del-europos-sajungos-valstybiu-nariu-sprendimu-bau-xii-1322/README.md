@@ -16,3 +16,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2020-12-19 | 2021-06-30 | Aktas Nr. XIV-34 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/b2381c17f52e11bc6159762067a45b841dabfc04/istatymai/TAR.10FB29307152.md) |
 | 2021-07-01 | 2022-06-30 | Aktas Nr. XIII-3349 / Aktas Nr. XIV-475 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/12e56659b1c2f09beb9916996bc84c122ecdc4ea/istatymai/TAR.10FB29307152.md) |
 | 2022-07-01 | 2022-12-31 | Aktas Nr. XIV-884 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/d4fc3d9b3d31cd7b67a42b92c3b7150b383bbc18/istatymai/TAR.10FB29307152.md) |
+| 2023-01-01 | 2024-11-12 | Aktas Nr. XIV-1237 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/54e9009d109f27fd787e555f51211f9d41c37aad/istatymai/TAR.10FB29307152.md) |
