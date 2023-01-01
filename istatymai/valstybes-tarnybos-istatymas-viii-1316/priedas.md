@@ -29,6 +29,7 @@ Vyriausybės kanclerio pavaduotojas, direktorius (taikoma įstaigos vadovui, kai
 17,9–20
 16,2–19
 3.1.
+Nacionalinio krizių valdymo centro vadovas
 Respublikos Prezidento patarėjas, Seimo Pirmininko patarėjas, Ministro Pirmininko patarėjas
 18,7–20
 4.
@@ -37,9 +38,13 @@ Vyriausybės įgaliotinis, savivaldybės administracijos direktorius
 17,8–19
 16,2–18,5
 14,5–17,5
+4.1.
+vicemeras
+16,2
+15,6
 5.
 departamento direktorius, valdybos viršininkas, grupės vadovas, komisijos administracijos direktorius, tarybos administracijos direktorius, įstaigos prie ministerijos kancleris, Seimo komiteto biuro vedėjas (Seimo kanceliarijoje), sekretoriato vedėjas (Seimo kanceliarijoje), skyriaus, kuris nėra kitame struktūriniame padalinyje, vedėjas (Seimo kanceliarijoje), savivaldybės kontrolieriaus pavaduotojas
-savivaldybės administracijos direktoriaus pavaduotojas, Vyriausybės įgaliotinio pavaduotojas
+Vyriausybės įgaliotinio pavaduotojas
 11,5–18,5
 10,5–18
 9,5–17
@@ -73,7 +78,7 @@ Respublikos Prezidento atstovas spaudai, Seimo Pirmininko atstovas spaudai, Mini
 7,4–13,5
 8.
 vyriausiasis specialistas, specialiojo atašė pavaduotojas, prokuroro padėjėjas, teisėjo padėjėjas, teismo konsultantas, padėjėjas (Seimo kanceliarijoje), vyresnysis specialistas (Seimo kanceliarijoje)
-savivaldybės tarybos sekretorius, mero patarėjas, Respublikos Prezidento referentas, Seimo Pirmininko padėjėjas, Ministro Pirmininko padėjėjas, Seimo frakcijos referentas
+savivaldybės tarybos posėdžių sekretorius, mero patarėjas, Respublikos Prezidento referentas, Seimo Pirmininko padėjėjas, Ministro Pirmininko padėjėjas, Seimo frakcijos referentas
 7,7–13,5
 7,1–13
 6,4–12
@@ -85,3 +90,7 @@ Seimo nario patarėjas, Seimo nario padėjėjas, ministro padėjėjas, mero pad�
 5,8–10,5
 10.
 specialistas, teismo administracijos sekretorius, teismo posėdžių sekretorius
+6,1–11
+5,8–10,5
+5,5–9,5
+Pastaba. Jeigu savivaldybės teritorijoje yra kurortinė teritorija, vicemerui šio įstatymo 1 priedo 4.1 papunktyje nustatytas pareiginės algos koeficientas didinamas 4 procentais, o jeigu savivaldybės teritorijoje yra kurortas, – 5 procentais.
