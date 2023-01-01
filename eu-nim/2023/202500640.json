@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2022 m. gruodžio 29 d. nutarimas Nr. 1317  „Dėl Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymo įgyvendinimo“ (suvestinė redakcija nuo 2024-06-15)",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2022-27281",
+  "official_journal_page": null,
+  "official_journal_date": "2022-12-29",
+  "entry_into_force": "2023-01-01",
+  "notification_date": "2025-01-23",
+  "commission_reference": "MNE(2025)00640",
+  "nim_celex": "72022L2557LTU_202500640",
+  "nim_id": "202500640",
+  "transposes_celex": [
+    "32022L2557"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b41bf20b-335f-40e8-a528-faa3fcffbc8c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
