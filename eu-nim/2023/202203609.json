@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 18, 31, 164, 171 straipsnių ir priedo pakeitimo ir įstatymo papildymo 30-1 straipsniu įstatymas Nr. XIV-1034",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2022-08779",
+  "official_journal_page": null,
+  "official_journal_date": "2022-04-28",
+  "entry_into_force": "2023-01-01",
+  "notification_date": "2022-06-07",
+  "commission_reference": "MNE(2022)03609",
+  "nim_celex": "72021L2261LTU_202203609",
+  "nim_id": "202203609",
+  "transposes_celex": [
+    "32021L2261"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1c4174ef-95c2-4971-89a5-f82ea0146e51",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
