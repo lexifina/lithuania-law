@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 1, 5, 11-1, 16, 19, 20, 22, 23, 24 straipsnių pakeitimo ir Įstatymo papildymo priedu įstatymas Nr. XIV-1190",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2022-15179",
+  "official_journal_page": null,
+  "official_journal_date": "2022-07-11",
+  "entry_into_force": "2023-01-01",
+  "notification_date": "2022-08-01",
+  "commission_reference": "MNE(2022)04842",
+  "nim_celex": "72019L1158LTU_202204842",
+  "nim_id": "202204842",
+  "transposes_celex": [
+    "32019L1158"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/70264a6e-9a05-4186-adf8-686fa2eaab75",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
