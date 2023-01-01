@@ -1,0 +1,8 @@
+# Respublikos Prezidentas Gitanas Nausėda
+part_7b49ec847b5140e6bc3a91dd9f97b9c7_end
+part_7b4fe145bd354aa2b259b7bffbce630a_end
+Lietuvos Respublikos
+Šiaulių miesto ir Šiaulių rajono
+savivaldybių teritorijų ribų
+keitimo įstatymo
+priedas
