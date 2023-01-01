@@ -11,3 +11,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2021-07-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/d326e5ee2571e205057ec399ca6dd0e5f05a6665/istatymai/TAR.81473890C8E0.md) |
 | 2021-11-27 | 2021-12-31 | Įstatymas Nr. XIV-679 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/f384322e9f407f797f8c5de35cbfe057ad19fd2a/istatymai/TAR.81473890C8E0.md) |
 | 2022-01-01 | 2022-12-31 | Įstatymas Nr. XIV-352 / Įstatymas Nr. XIV-679 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/28abf5d2ee06990b76af313f37e96e8026a695de/istatymai/TAR.81473890C8E0.md) |
+| 2023-01-01 |  | Įstatymas Nr. XIV-679 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/88900ce787edc816c19339519f7141da59d70f96/istatymai/TAR.81473890C8E0.md) |
