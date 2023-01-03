@@ -1,5 +1,4 @@
 # 1,2
-part_06ab14dfcbfc48c78ecab97b3d1c6c02_end
 Lietuvos Respublikos
 mokesčio už aplinkos teršimą įstatymo
 8 priedas

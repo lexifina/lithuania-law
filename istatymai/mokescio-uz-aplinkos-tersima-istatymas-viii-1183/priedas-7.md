@@ -48,7 +48,6 @@ iki
 560
 351 ir daugiau
 600
-part_810028c8174140a383b0c91a34069789_end
 Lietuvos Respublikos
 mokesčio už aplinkos teršimą įstatymo
 7 priedas

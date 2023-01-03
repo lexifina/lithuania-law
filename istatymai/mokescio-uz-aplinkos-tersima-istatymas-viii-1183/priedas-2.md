@@ -1,5 +1,4 @@
-# part_64b20b42a3994d8296e6df2ae3420698_end
-Lietuvos Respublikos
+# Lietuvos Respublikos
 mokesčio už aplinkos teršimą įstatymo
 2 priedas
 MOKESČIO UŽ APLINKOS TERŠIMĄ IŠ STACIONARIŲJŲ TARŠOS ŠALTINIŲ NORMATYVUS VIRŠIJANČIOS TARŠOS TARIFAI

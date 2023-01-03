@@ -1,5 +1,4 @@
-# part_500a7312b06547b68fb428b62bd39226_end
-Lietuvos Respublikos
+# Lietuvos Respublikos
 mokesčio už aplinkos teršimą įstatymo
 4 priedas
 PAKUOČIŲ SĄRAŠAS IR MOKESČIO UŽ APLINKOS TERŠIMĄ TARIFAI
