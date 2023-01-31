@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos notariato įstatymo Nr. I-2882 3, 4, 6, 6-2, 8, 10-1, 10-3, 10-4, 19, 20, 22, 22-1, 24, 27-1, 28, 34, 46, 60, 62 straipsnių pakeitimo, Įstatymo papildymo 28-2 straipsniu ir VII skyriumi ir 9, 10, 10-2 straipsnių pripažinimo netekusiais galios įstatymas Nr. XIV-1714",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2022-27559",
+  "official_journal_page": null,
+  "official_journal_date": "2022-12-30",
+  "entry_into_force": "2023-01-31",
+  "notification_date": "2023-01-04",
+  "commission_reference": "MNE(2023)00094",
+  "nim_celex": "72000L0078LTU_202300094",
+  "nim_id": "202300094",
+  "transposes_celex": [
+    "32000L0078"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/935c78fd-2f5a-4bad-89f4-0655277a4ae4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
