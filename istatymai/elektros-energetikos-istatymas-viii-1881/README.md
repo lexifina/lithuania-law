@@ -64,3 +64,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2022-12-22 | 2022-12-31 | Įstatymas Nr. XIV-1667 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22iUHHSpZjYq%22) |
 | 2023-01-01 | 2023-01-02 | Įstatymas Nr. XIV-627 / Įstatymas Nr. XIV-1247 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22YMzyzOuPFL%22) |
 | 2023-01-03 | 2023-01-31 | Įstatymas Nr. XIV-1297 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22MFCaCDyRBf%22) |
+| 2023-02-01 | 2023-02-28 | Įstatymas Nr. XIV-1700 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22tdCjLKOlDC%22) |
