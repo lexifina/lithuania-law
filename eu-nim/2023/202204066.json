@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos akcizų įstatymo Nr. IX-569 1, 2, 3, 4, 6, 7, 8, 9, 10, 12, 14, 15, 16, 17, 18, 19, 21, 22, 28, 33, 44, 46, 61, 64, 66, 72 straipsnių ir 3 priedo pakeitimo ir įstatymo papildymo 8-1 ir 29-1 straipsniais įstatymas Nr. XIV-777",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2021-27358",
+  "official_journal_page": null,
+  "official_journal_date": "2021-12-28",
+  "entry_into_force": "2023-02-13",
+  "notification_date": "2022-06-29",
+  "commission_reference": "MNE(2022)04066",
+  "nim_celex": "72019L2235LTU_202204066",
+  "nim_id": "202204066",
+  "transposes_celex": [
+    "32019L2235"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8b1cbb06-5fef-4baa-87c0-ec4a12b45af1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
