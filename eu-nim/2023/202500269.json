@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės energetikos reguliavimo tarybos 2023 m. kovo 2 d. nutarimas Nr. O3E-239 „Dėl Valstybinės energetikos reguliavimo tarybos 2009 m. sausio 29 d. nutarimo Nr. O3-6 „Dėl ūkio subjektų technologinio, finansinio ir vadybinio pajėgumo įvertinimo tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2023-03886",
+  "official_journal_page": null,
+  "official_journal_date": "2023-03-02",
+  "entry_into_force": "2023-03-03",
+  "notification_date": "2025-01-15",
+  "commission_reference": "MNE(2025)00269",
+  "nim_celex": "72024L1711LTU_202500269",
+  "nim_id": "202500269",
+  "transposes_celex": [
+    "32024L1711"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ef826380-f737-44e4-b012-0ae61a3bbe3b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
