@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro ir Lietuvos Respublikos sveikatos apsaugos ministro 2023 m. kovo 13 d. įsakymas Nr.D1-75/V-330 ,,Dėl Geriamojo vandens ruošimo cheminių medžiagų ir filtravimo priemonių reikalavimų aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2023-04471",
+  "official_journal_page": null,
+  "official_journal_date": "2023-03-14",
+  "entry_into_force": "2023-03-15",
+  "notification_date": "2023-05-17",
+  "commission_reference": "MNE(2023)01742",
+  "nim_celex": "72020L2184LTU_202301742",
+  "nim_id": "202301742",
+  "transposes_celex": [
+    "32020L2184"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f4982305-f870-11ed-a05c-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
