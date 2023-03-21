@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2023 m. kovo 15 d. nutarimas Nr. 172 „Dėl Lietuvos Respublikos Vyriausybės 2022 m. spalio 19 d. nutarimo Nr. 1049 „Dėl reikalavimų asmenims, siekiantiems įgyti bei įgijusiems teisę plėtoti ir eksploatuoti atsinaujinančius energijos išteklius naudojančias elektrines jūrinėje teritorijoje, ir jūrinės teritorijos tyrimų bei kitų veiksmų atlikimo išlaidų kompensavimo aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2023-04862",
+  "official_journal_page": null,
+  "official_journal_date": "2023-03-20",
+  "entry_into_force": "2023-03-21",
+  "notification_date": "2025-05-23",
+  "commission_reference": "MNE(2025)02966",
+  "nim_celex": "72023L2413LTU_202502966",
+  "nim_id": "202502966",
+  "transposes_celex": [
+    "32023L2413"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/10640eb9-0eb8-4a07-a1ad-3389605f5ceb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
