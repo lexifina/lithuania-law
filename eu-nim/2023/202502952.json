@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės energetikos reguliavimo tarybos 2023 m. kovo 29 d. nutarimas Nr. O3E-332 „Dėl jūrinės teritorijos naudojimo atsinaujinančius energijos išteklius naudojančių elektrinių plėtrai ir eksploatacijai konkursų organizavimo ir leidimų naudoti jūrinės teritorijos dalis atsinaujinančius energijos išteklius naudojančių elektrinių plėtrai ir eksploatacijai išdavimo tvarkos aprašo patvirtinimo“ (suvestinė redakcija nuo 2023-12-05 iki 2024-01-12)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2023-05586",
+  "official_journal_page": null,
+  "official_journal_date": "2023-03-29",
+  "entry_into_force": "2023-03-30",
+  "notification_date": "2025-05-27",
+  "commission_reference": "MNE(2025)02952",
+  "nim_celex": "72023L2413LTU_202502952",
+  "nim_id": "202502952",
+  "transposes_celex": [
+    "32023L2413"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d767dc20-8e3c-4363-b174-4dce399d6a6b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
