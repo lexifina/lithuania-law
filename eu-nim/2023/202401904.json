@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos alternatyviųjų degalų įstatymo Nr. XIV-196 6, 23 ir 35 straipsnių pakeitimo įstatymas Nr. XIV-1825",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2023-05496",
+  "official_journal_page": null,
+  "official_journal_date": "2023-03-29",
+  "entry_into_force": "2023-03-30",
+  "notification_date": "2024-04-24",
+  "commission_reference": "MNE(2024)01904",
+  "nim_celex": "72018L2001LTU_202401904",
+  "nim_id": "202401904",
+  "transposes_celex": [
+    "32018L2001"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/24e38db3-c173-41ee-a8f7-bf4597377ec3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
