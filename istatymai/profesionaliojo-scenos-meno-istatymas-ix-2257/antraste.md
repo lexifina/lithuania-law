@@ -1,5 +1,11 @@
+PROFESIONALIOJO SCENOS MENO
+ĮSTATYMAS
 2004 m. birželio 1 d. Nr. IX-2257
 Vilnius
-Profesionaliojo scenos meno misija – skatinti žmogaus dvasinį tobulėjimą, ugdyti kūrybingą, atvirą, pilietinę visuomenę ir kurti modernią valstybę, puoselėjančią nacionalinį tapatumą, valstybinę kalbą, Lietuvos ir kitų tautų kultūros tradicijas ir vertybes. Valstybės profesionaliojo scenos meno politika laiduoja aukšto meistriškumo ir meninio lygio profesionaliojo scenos meno kūrybą, kultūros ir meno atvirumą bei integraciją į tarptautinę profesionaliojo scenos meno erdvę, sudaro sąlygas kūrybinei veiklai ir profesiniam tobulėjimui, aukštos meninės vertės scenos meno kūrinių sklaidai ir prieinamumui visoms šalies visuomenės grupėms.
+Lietuvos Respublikos Seimas,
+atsižvelgdamas į profesionaliojo scenos meno misiją – skatinti žmogaus dvasinį tobulėjimą, ugdyti kūrybingą, atvirą, pilietinę visuomenę ir kurti modernią valstybę, puoselėjančią nacionalinį tapatumą, valstybinę kalbą, Lietuvos ir kitų tautų kultūros tradicijas ir vertybes;
+atkreipdamas dėmesį į tai, kad profesionaliojo scenos meno politika turi būti skirta aukšto meistriškumo ir meninio lygio profesionaliojo scenos meno kūrybai, kultūros ir meno atvirumui bei integracijai į tarptautinę profesionaliojo scenos meno erdvę užtikrinti;
+pabrėždamas svarbą sudaryti sąlygas kūrybinei veiklai ir profesiniam tobulėjimui, aukštos meninės vertės scenos meno kūrinių sklaidai ir prieinamumui visoms šalies visuomenės grupėms,
+priima šį įstatymą.
 I SKYRIUS
 BENDROSIOS NUOSTATOS
