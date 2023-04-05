@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro 2023 m. balandžio 4 d. įsakymas Nr. 1V-190 „Dėl Lietuvos Respublikos vidaus reikalų ministro 2005 m. gruodžio 21 d. įsakymo Nr. 1V-445 „Dėl Lietuvos Respublikos ilgalaikio gyventojo leidimo gyventi Europos Sąjungoje išdavimo tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2023-06411",
+  "official_journal_page": null,
+  "official_journal_date": "2023-04-04",
+  "entry_into_force": "2023-04-05",
+  "notification_date": "2024-01-31",
+  "commission_reference": "MNE(2024)00539",
+  "nim_celex": "72021L1883LTU_202400539",
+  "nim_id": "202400539",
+  "transposes_celex": [
+    "32021L1883"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7cda3da4-c9d1-4825-b828-c777267fec89",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
