@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2023 m. balandžio 21 d. nutarimas Nr. 03-80 „Dėl Lietuvos banko valdybos 2018 m. birželio 12 d. nutarimo Nr. 03-98 „Dėl draudimo tarpininkų, perdraudimo tarpininkų ir papildomos draudimo veiklos tarpininkų registracijos“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2023-07913",
+  "official_journal_page": null,
+  "official_journal_date": "2023-04-25",
+  "entry_into_force": "2023-04-26",
+  "notification_date": "2023-06-20",
+  "commission_reference": "MNE(2023)03021",
+  "nim_celex": "72016L0097LTU_202303021",
+  "nim_id": "202303021",
+  "transposes_celex": [
+    "32016L0097"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6880e642-13f4-11ee-806b-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
