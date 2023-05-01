@@ -6,4 +6,3 @@ priedas
 2. 2011 m. vasario 15 d. Tarybos direktyva 2011/16/ES dėl administracinio bendradarbiavimo apmokestinimo srityje ir panaikinanti Direktyvą 77/799/EEB su paskutiniais pakeitimais, padarytais 2021 m. kovo 22 d. Tarybos direktyva (ES) 2021/514.
 3. 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/849 dėl finansų sistemos naudojimo pinigų plovimui ar teroristų finansavimui prevencijos, kuria iš dalies keičiamas Europos Parlamento ir Tarybos reglamentas (ES) Nr. 648/2012 ir panaikinama Europos Parlamento ir Tarybos direktyva 2005/60/EB bei Komisijos direktyva 2006/70/EB (OL 2015 L 141, p. 73), su paskutiniais pakeitimais, padarytais 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/843 (OL 2018 L 156, p. 43).
 4. 2017 m. spalio 10 d. Tarybos direktyva (ES) 2017/1852 dėl mokestinių ginčų sprendimo mechanizmų Europos Sąjungoje (OL 2017 L 265, p. 1).
-part_1c787425feec44f5981a0de484456464_end
