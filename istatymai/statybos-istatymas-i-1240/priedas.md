@@ -5,17 +5,21 @@ statybos įstatymo
 ĮMOKOS UŽ SAVAVALIŠKOS STATYBOS ĮTEISINIMĄ
 MOKĖJIMO PRINCIPAI
 1. Įmoką už savavališkos statybos įteisinimą (toliau – įmoka) moka statytojai (užsakovai), statinių (jų dalių) savininkai, valdytojai, naudotojai, žemės sklypų (jų dalių) savininkai, valdytojai, naudotojai, įgyvendinantys šiame įstatyme numatytą galimybę gauti statybą leidžiantį dokumentą savavališkos statybos atveju.
-2. Įmokos dydis kinta atsižvelgiant į savavališkai atliktų statybos darbų, įskaitant panaudotus statybos produktus, sąnaudų vertę. Įmoka negali būti mažesnė kaip 86 eurai ir negali viršyti 300 000 eurų ir 70 procentų savavališkai atliktų statybos darbų sąnaudų vertės (V). Įmokos dydis apskaičiuojamas pagal formulę Į = V2/144 810 Eur, čia:
-1) Į – įmokos dydis;
-2) V – sąnaudų vertė.
-3. Tais atvejais, kai savavališkos statybos darbai, dėl kurių nebuvo surašytas savavališkos statybos aktas, buvo įteisinti išduodant statybą leidžiantį dokumentą ir šią aplinkybę Valstybinė teritorijų planavimo ir statybos inspekcija prie Aplinkos ministerijos nustato išdavus statybą leidžiantį dokumentą, mokėtinos įmokos dydis apskaičiuojamas pagal formulę Į= V2/144 810 Eur * a/b, čia:
+2. Įmokos dydis kinta atsižvelgiant į savavališkai atliktų statybos darbų, įskaitant panaudotus statybos produktus, sąnaudų vertę. Įmoka negali viršyti 300 000 eurų ir 70 procentų savavališkai atliktų statybos darbų sąnaudų vertės (V). Įmokos dydis apskaičiuojamas pagal formulę Į = x+y+V²/200 000 Eur, čia:
 1) Į – įmokos dydis;
 2) V – sąnaudų vertė;
-3) a – laikotarpis nuo savavališkos statybos darbų pradžios iki statybą leidžiančio dokumento išdavimo;
-4) b – laikotarpis nuo savavališkos statybos darbų pradžios iki statybos užbaigimo, o jeigu statybos užbaigimo procedūros nebuvo atliktos, – iki fakto, kad nebuvo sumokėta įmoka, nustatymo momento.
-Šiame punkte nurodyti laikotarpiai a ir b skaičiuojami naudojant tuos pačius laiko matavimo vienetus (pvz., dienas, mėnesius ir kt.). Apskaičiuojant įmokos vertę, taikomos šio priedo 2 punkte nustatytos minimalios ir maksimalios įmokų vertės.
-4. Sąnaudų vertė nustatoma atliekant statinio ar statinio projekto ekspertizę pagal statybos darbų įkainius ir statybos produktų kainas savavališkos statybos akto surašymo metu arba, kai savavališkos statybos aktas nėra surašytas, pagal statybos darbų įkainius ir statybos produktų kainas, fakto, kad savavališki statybos darbai buvo įteisinti išduodant statybą leidžiantį dokumentą, nustatymo metu. Kai savavališkos statybos aktas nėra surašytas, sąnaudų vertės apskaičiavimas atliekamas įvertinant Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos dokumento, kuriame konstatuojamas įmokos už savavališkos statybos įteisinimą nesumokėjimo faktas, surašymo metu esančią statinio būklę.
-5. Statinio ar statinio projekto ekspertizė atliekama asmens, kuris siekia įteisinti savavališką statybą, iniciatyva ir lėšomis.
+3) x – 100 eurų nesudėtingojo statinio atveju, 500 eurų neypatingojo statinio atveju, 5 000 eurų ypatingojo statinio atveju;
+4) y – 100 eurų paprastojo remonto atveju, 500 eurų kapitalinio remonto atveju, 1 000 eurų rekonstravimo atveju, 2 000 eurų naujo statinio statybos atveju.
+3. Kai savavališkos statybos darbai, dėl kurių nebuvo surašytas savavališkos statybos aktas, įteisinti išduodant statybą leidžiantį dokumentą ir šią aplinkybę Valstybinė teritorijų planavimo ir statybos inspekcija prie Aplinkos ministerijos nustato, mokėtinos įmokos dydis apskaičiuojamas pagal formulę Į = x+y+V²/200 000 Eur * a / b, čia:
+1) Į – įmokos dydis;
+2) V – sąnaudų vertė;
+3) x – 100 eurų nesudėtingojo statinio atveju, 500 eurų neypatingojo statinio atveju, 5 000 eurų ypatingojo statinio atveju;
+4) y – 100 eurų paprastojo remonto atveju, 500 eurų kapitalinio remonto atveju, 1 000 eurų rekonstravimo atveju, 2 000 eurų naujo statinio statybos atveju;
+5) a – laikotarpis nuo savavališkos statybos darbų pradžios iki statybą leidžiančio dokumento išdavimo;
+6) b – laikotarpis nuo savavališkos statybos darbų pradžios iki statybos užbaigimo, jeigu statybos užbaigimo procedūros neatliktos, – iki fakto, kad nebuvo sumokėta įmoka nustatymo momento.
+Šiame punkte nurodyti laikotarpiai a ir b skaičiuojami naudojant tuos pačius laiko matavimo vienetus (pavyzdžiui, dienas, mėnesius ir kt.). Apskaičiuojant įmokos vertę, taikomos šio priedo 2 punkte nustatytos minimalios ir maksimalios įmokų vertės.
+4. Sąnaudų vertė nustatoma atliekant statinio (jo dalies) ar statinio projekto (jo dalies) ekspertizę pagal statybos darbų įkainius ir statybos produktų kainas savavališkos statybos akto surašymo metu arba, kai savavališkos statybos aktas nėra surašytas, pagal statybos darbų įkainius ir statybos produktų kainas, fakto, kad savavališki statybos darbai buvo įteisinti išduodant statybą leidžiantį dokumentą, nustatymo metu. Kai savavališkos statybos aktas nėra surašytas, sąnaudų vertės apskaičiavimas atliekamas įvertinant Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos dokumento, kuriame konstatuojamas įmokos už savavališkos statybos įteisinimą nesumokėjimo faktas, surašymo metu esančią statinio būklę.
+5. Statinio (jo dalies) ar statinio projekto (jo dalies) ekspertizė atliekama asmens, kuris siekia įteisinti savavališką statybą, iniciatyva ir lėšomis.
 6. Priklausančią mokėti įmoką apskaičiuoja statybą leidžiantį dokumentą išduodanti institucija pagal asmens, kuris siekia įteisinti savavališką statybą, pateiktą statinio ar statinio projekto ekspertizės aktą.
 7. Įmoka sumokama prieš išduodant statybą leidžiantį dokumentą.
 8. Įmokos mokėjimo tvarką nustato aplinkos ministras kartu su finansų ministru.
