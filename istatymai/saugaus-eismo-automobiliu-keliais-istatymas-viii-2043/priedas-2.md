@@ -1,5 +1,4 @@
-# part_23821eff571d4570a0dde179497c779f_end
-Lietuvos Respublikos
+# Lietuvos Respublikos
 saugaus eismo automobilių keliais įstatymo
 2 priedas
 MINIMALUS AMŽIUS, NUO KURIO ASMENIMS, ĮGIJUSIEMS KVALIFIKACIJĄ VEŽTI KROVINIUS AR KELEIVIUS KOMERCINIAIS TIKSLAIS, LEIDŽIAMA ĮGYTI TEISĘ VAIRUOTI C1, C1E, C, CE, D1, D1E, D, DE KATEGORIJŲ MOTORINES TRANSPORTO PRIEMONES, JŲ JUNGINIUS SU PRIEKABOMIS IR GALIMA IŠDUOTI VAIRUOTOJO PAŽYMĖJIMĄ
@@ -37,4 +36,3 @@ D
 20; 18 (vairuojant D ar DE kategorijų motorines transporto priemones, jų junginius su priekabomis, kuriose nėra keleivių)
 –
 DE
-part_59362a37ed3d44d5b4abb17c72a05387_end
