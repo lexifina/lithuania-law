@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 4, 67, 140(8), 140(12) straipsnių pakeitimo ir 140(11), 140(17) straipsnių pripažinimo netekusiais galios įstatymas Nr. XIV-1889",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2023-08041",
+  "official_journal_page": null,
+  "official_journal_date": "2023-04-26",
+  "entry_into_force": "2023-05-03",
+  "notification_date": "2024-01-17",
+  "commission_reference": "MNE(2023)02596",
+  "nim_celex": "72013L0033LTU_202302596",
+  "nim_id": "202302596",
+  "transposes_celex": [
+    "32013L0033"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1011b443-8f28-4cd4-92b5-34f680366dcd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
