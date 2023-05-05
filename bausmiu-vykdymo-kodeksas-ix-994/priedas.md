@@ -1,5 +1,4 @@
-# part_8e95f6bf6df04c3e84b3aab7f3a44e5d_end
-Lietuvos Respublikos
+# Lietuvos Respublikos
 bausmių vykdymo kodekso
 priedas
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
