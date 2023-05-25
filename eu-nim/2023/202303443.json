@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2023 m. gegužės 24 d. įsakymas Nr. 3D-341 \"Dėl žemės ūkio ministro 1999 m. spalio 7 d. įsakymo Nr. 383 „Dėl Privalomųjų rinkai tiekiamos sodo augalų dauginamosios medžiagos ir sodo augalų kokybės reikalavimų aprašo patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2023-09785",
+  "official_journal_page": null,
+  "official_journal_date": "2023-05-24",
+  "entry_into_force": "2023-05-25",
+  "notification_date": "2023-06-22",
+  "commission_reference": "MNE(2023)03443",
+  "nim_celex": "72022L2438LTU_202303443",
+  "nim_id": "202303443",
+  "transposes_celex": [
+    "32022L2438"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d1860dc6-13f6-11ee-806b-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
