@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos draudimo įstatymo Nr. IX-1737 2, 22, 52, 79, 90, 90-1, 93, 116, 158, 158-2, 161, 174 straipsnių ir priedo pakeitimo įstatymas Nr. XIV-1974",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2023-10367",
+  "official_journal_page": null,
+  "official_journal_date": "2023-05-30",
+  "entry_into_force": "2023-05-31",
+  "notification_date": "2023-12-22",
+  "commission_reference": "MNE(2023)06739",
+  "nim_celex": "72021L2118LTU_202306739",
+  "nim_id": "202306739",
+  "transposes_celex": [
+    "32021L2118"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f8e24430-fd60-49a6-935d-2754641ebff8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
