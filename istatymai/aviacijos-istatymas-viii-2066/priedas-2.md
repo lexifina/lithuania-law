@@ -1,5 +1,4 @@
-# part_d483426308b84a51b6059bf0bcb812cc_end
-Lietuvos Respublikos
+# Lietuvos Respublikos
 aviacijos įstatymo
 2 priedas
 ANTRASIS ANTŽEMINIŲ PASLAUGŲ SĄRAŠAS
@@ -14,4 +13,5 @@ ANTRASIS ANTŽEMINIŲ PASLAUGŲ SĄRAŠAS
 3.6. orlaivio traukimas atskridus ir išskrendant, taip pat reikiamos įrangos suteikimas ir eksploatavimas;
 3.7. maisto produktų ir gėrimų vežimas, jų pakrovimas į orlaivį ar iškrovimas iš jo.
 4. Aprūpinimas degalais ir tepalais:
-4.1. degalų įpylimo ir išpylimo organizavimas ir vykdymas, įskaitant degalų laikymą ir atvežamų degalų kiekybės ir kokybės kontrolę;
+4.1. degalų į orlaivius įpylimo ir (arba) degalų išpylimo organizavimas ir vykdymas, įskaitant degalų laikymą ir atvežamų degalų kiekybės ir kokybės kontrolę;
+4.2. tepalų ir kitų skysčių įpylimas į orlaivius.

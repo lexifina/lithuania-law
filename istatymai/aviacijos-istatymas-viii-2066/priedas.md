@@ -4,7 +4,7 @@ aviacijos įstatymo
 1 priedas
 PIRMASIS ANTŽEMINIŲ PASLAUGŲ SĄRAŠAS
 1. Antžeminis administravimas ir priežiūra:
-1.1. atstovavimas vežėjui ir ryšių su vietos valdžia ar kitomis institucijomis palaikymas, apmokėjimas vežėjo vardu ir biuro patalpų suteikimas jo atstovams;
+1.1. atstovavimas vežėjui ir ryšių su vietos valdžios ar kitomis institucijomis palaikymas, apmokėjimas vežėjo vardu ir biuro patalpų suteikimas jo atstovams;
 1.2. pakrovimo kontrolė, pranešimai ir telekomunikacijos;
 1.3. pakrovimo įrenginių suteikimas, sandėliavimas ir administravimas;
 1.4. kitos priežiūros paslaugos prieš skrydį, po jo ar skrydžio metu ir visos kitos administracinės paslaugos, kurių reikalauja vežėjas.
