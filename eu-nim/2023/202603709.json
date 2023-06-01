@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių nusižengimų kodekso 12, 21-1, 373, 374, 375, 376, 377, 378, 380, 381, 382, 421, 484, 576, 577, 579, 581, 584, 587, 588, 589, 594, 608, 609, 616, 617, 619, 620, 621, 627, 644, 666, 671, 673, 675, 676, 678 straipsnių ir priedo pakeitimo, Kodekso papildymo 422-1, 565-1, 574-1 straipsniais ir 591, 677 straipsnių pripažinimo netekusiais galios įstatymas Nr. XIV-1947",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2023-09688",
+  "official_journal_page": null,
+  "official_journal_date": "2023-05-23",
+  "entry_into_force": "2023-06-01",
+  "notification_date": "2026-06-09",
+  "commission_reference": "MNE(2026)03709",
+  "nim_celex": "72023L0970LTU_202603709",
+  "nim_id": "202603709",
+  "transposes_celex": [
+    "32023L0970"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b36a38e9-cab9-4e6b-ac0f-55665183cc50",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
