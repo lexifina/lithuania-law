@@ -14,4 +14,4 @@ priedas
 8. 2018 m. lapkričio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/1808, kuria, atsižvelgiant į kintančias rinkos realijas, iš dalies keičiama Direktyva 2010/13/ES dėl valstybių narių įstatymuose ir kituose teisės aktuose išdėstytų tam tikrų nuostatų, susijusių su audiovizualinės žiniasklaidos paslaugų teikimu, derinimo (Audiovizualinės žiniasklaidos paslaugų direktyva) (OL 2018 L 303, p. 69).
 9. 2021 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentas (ES) 2021/784 dėl teroristinio turinio sklaidos internete klausimo sprendimo.
 10. 2022 m. balandžio 27 d. Europos Komisijos rekomendacija (ES) 2022/758 dėl žurnalistų ir žmogaus teisių gynėjų, užsiimančių visuomenine veikla, apsaugos nuo akivaizdžiai nepagrįstų ar piktnaudžiaujamojo pobūdžio teismo procesų (strateginių ieškinių dėl visuomenės dalyvavimo).
-part_4837436509184492bf535514e53367cc_end
+part_b86c6af2e7204f2faedc5bedab94bed7_end
