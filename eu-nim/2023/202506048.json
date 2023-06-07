@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2023 m. birželio 6 d. įsakymas Nr. D1-180 „Dėl Lietuvos Respublikos aplinkos ministro 2006 m. spalio 10 d. įsakymo Nr. D1-452 „Dėl genetiškai modifikuotų organizmų išleidimo į aplinką ir genetiškai modifikuotų mikroorganizmų arba organizmų riboto naudojimo kontrolės tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2023-11186",
+  "official_journal_page": null,
+  "official_journal_date": "2023-06-06",
+  "entry_into_force": "2023-06-07",
+  "notification_date": "2026-03-03",
+  "commission_reference": "MNE(2025)06048",
+  "nim_celex": "72009L0041LTU_202506048",
+  "nim_id": "202506048",
+  "transposes_celex": [
+    "32009L0041"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/eb1beba5-92c8-4069-a7b9-430e20c89df2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
