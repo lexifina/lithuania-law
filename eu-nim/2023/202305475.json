@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2023 m. birželio 7 d. nutarimas Nr. 440 „Dėl Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo 5 straipsnio įgyvendinimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2023-11466",
+  "official_journal_page": null,
+  "official_journal_date": "2023-06-08",
+  "entry_into_force": "2023-06-09",
+  "notification_date": "2023-10-25",
+  "commission_reference": "MNE(2023)05475",
+  "nim_celex": "72020L2184LTU_202305475",
+  "nim_id": "202305475",
+  "transposes_celex": [
+    "32020L2184"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e7f8595d-a6b4-4599-a143-3baddad1ecc9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
