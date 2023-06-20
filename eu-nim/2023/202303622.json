@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2023 m. birželio 14 d. nutarimas Nr. 459 \"Dėl Lietuvos Respublikos Vyriausybės 2008 m. birželio 18 d. nutarimo Nr. 637 „Dėl Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo įgyvendinimo“ pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2023-12131",
+  "official_journal_page": null,
+  "official_journal_date": "2023-06-19",
+  "entry_into_force": "2023-06-20",
+  "notification_date": "2023-06-22",
+  "commission_reference": "MNE(2023)03622",
+  "nim_celex": "72018L0958LTU_202303622",
+  "nim_id": "202303622",
+  "transposes_celex": [
+    "32018L0958"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/228b336d-13f4-11ee-806b-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
