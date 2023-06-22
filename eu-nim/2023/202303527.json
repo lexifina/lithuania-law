@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių nusižengimų kodekso 223 ir 589 straipsnių pakeitimo įstatymas XIV-2021",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2023-11835",
+  "official_journal_page": null,
+  "official_journal_date": "2023-06-14",
+  "entry_into_force": "2023-06-22",
+  "notification_date": "2023-06-19",
+  "commission_reference": "MNE(2023)03527",
+  "nim_celex": "72021L2101LTU_202303527",
+  "nim_id": "202303527",
+  "transposes_celex": [
+    "32021L2101",
+    "32022L2381"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e041b5fb-13f2-11ee-806b-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
