@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymo Nr. IX-378 šeštojo skirsnio ir priedo pakeitimo įstatymas Nr. XIV-1973",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2023-10366",
+  "official_journal_page": null,
+  "official_journal_date": "2023-05-30",
+  "entry_into_force": "2023-06-23",
+  "notification_date": "2023-12-22",
+  "commission_reference": "MNE(2023)06734",
+  "nim_celex": "72021L2118LTU_202306734",
+  "nim_id": "202306734",
+  "transposes_celex": [
+    "32021L2118"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/986580bc-1f5e-4aa4-b008-d67723973dd6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
