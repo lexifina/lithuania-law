@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos civilinį procesą reglamentuojančių Europos Sąjungos ir tarptautinės teisės aktų įgyvendinimo įstatymo Nr. X-1809 priedo pakeitimo ir Įstatymo papildymo devintuoju-6 skirsniu įstatymas Nr. XIV-1473",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2022-23020",
+  "official_journal_page": null,
+  "official_journal_date": "2022-11-16",
+  "entry_into_force": "2023-06-25",
+  "notification_date": "2022-12-02",
+  "commission_reference": "MNE(2022)07462",
+  "nim_celex": "72020L1828LTU_202207462",
+  "nim_id": "202207462",
+  "transposes_celex": [
+    "32020L1828"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d1a44da7-779d-11ed-9887-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
