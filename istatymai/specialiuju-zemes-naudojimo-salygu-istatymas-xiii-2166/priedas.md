@@ -1,6 +1,4 @@
 # Respublikos Prezidentė Dalia Grybauskaitė
-part_e93c4da641ca43b89fe8d3f43d97b490_end
-part_1f58dedaf4fc46b7b2cd42537b54ea02_end
 Lietuvos Respublikos specialiųjų žemės
 naudojimo sąlygų įstatymo
 1 priedas

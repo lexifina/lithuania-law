@@ -1,6 +1,5 @@
 # 38.31, 38.32
 100
-part_06b2b85e6f84416d9942193e30bd5b7d_end
 Lietuvos Respublikos specialiųjų
 žemės naudojimo sąlygų įstatymo
 3 priedas
