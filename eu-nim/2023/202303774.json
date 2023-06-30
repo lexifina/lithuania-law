@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2023 m. birželio 7 d. nutarimas Nr. 443 “Dėl Lietuvos Respublikos Vyriausybės 2017 m. gegužės 17 d. nutarimo Nr. 367 „Dėl pavojingųjų krovinių vežimo automobilių ir geležinkelių keliais Lietuvos Respublikoje“ pakeitimo”",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2023-11520",
+  "official_journal_page": null,
+  "official_journal_date": "2023-06-09",
+  "entry_into_force": "2023-06-30",
+  "notification_date": "2023-06-30",
+  "commission_reference": "MNE(2023)03774",
+  "nim_celex": "72022L2407LTU_202303774",
+  "nim_id": "202303774",
+  "transposes_celex": [
+    "32022L2407"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/05fd011a-f610-4b21-8539-d86477abb209",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
