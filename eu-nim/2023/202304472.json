@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 3, 93 straipsnių ir priedo pakeitimo įstatymas Nr. XIV-1893",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2023-08612",
+  "official_journal_page": null,
+  "official_journal_date": "2023-05-05",
+  "entry_into_force": "2023-06-30",
+  "notification_date": "2023-09-14",
+  "commission_reference": "MNE(2023)04472",
+  "nim_celex": "72022R0858LTU_202304472",
+  "nim_id": "202304472",
+  "transposes_celex": [
+    "32022R0858"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c4d64d78-45d7-4632-8db2-d471cfc6035f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
