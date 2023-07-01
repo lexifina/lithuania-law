@@ -1,0 +1,4 @@
+TEISĖJŲ ATLYGINIMŲ
+ĮSTATYMAS
+2008 m. lapkričio 6 d. Nr. X-1771
+Vilnius
