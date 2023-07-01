@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2016-01-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/b7760c5d2a9cc7623e90421edc035c656a703f5b/istatymai/TAR.52858400FAF9.md) |
+| 2023-07-01 |  | Įstatymas Nr. XIV-1984 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/5233a7ece1d6a5b59edac8eb4848126e9baeb28a/istatymai/TAR.52858400FAF9.md) |
