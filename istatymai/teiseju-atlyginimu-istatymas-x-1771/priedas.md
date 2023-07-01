@@ -1,61 +1,59 @@
-# RESPUBLIKOS PREZIDENTAS VALDAS ADAMKUS
-Lietuvos Respublikos
-teisėjų darbo apmokėjimo įstatymo
-priedas
-LIETUVOS RESPUBLIKOS KONSTITUCINIO TEISMO TEISĖJŲ ATLYGINIMO IR BENDROSIOS KOMPETENCIJOS IR SPECIALIZUOTŲ TEISMŲ TEISĖJŲ PAREIGINĖS ALGOS KOEFICIENTAI
+# Lietuvos Respublikos teisėjų atlyginimų įstatymo priedas
+LIETUVOS RESPUBLIKOS KONSTITUCINIO TEISMO IR BENDROSIOS KOMPETENCIJOS IR SPECIALIZUOTŲ TEISMŲ TEISĖJŲ PAREIGINĖS ALGOS KOEFICIENTAI
 I SKYRIUS
-LIETUVOS RESPUBLIKOS KONSTITUCINIO TEISMO TEISĖJŲ ATLYGINIMO KOEFICIENTAI
+LIETUVOS RESPUBLIKOS KONSTITUCINIO TEISMO TEISĖJŲ PAREIGINĖS ALGOS KOEFICIENTAI
 Eil. Nr.
 Pareigybė
-Atlyginimo koeficientas
+Pareiginės algos koeficientas (baziniais dydžiais)
 1.
 Konstitucinio Teismo pirmininkas (ar pirmininką pavaduojantis Konstitucinio Teismo teisėjas)
-32,3
+4,9
 2.
 Konstitucinio Teismo teisėjas
-29,35
+4,4
 II SKYRIUS
 BENDROSIOS KOMPETENCIJOS IR SPECIALIZUOTŲ TEISMŲ TEISĖJŲ PAREIGINĖS ALGOS KOEFICIENTAI
 Eil. Nr.
 Teismo pavadinimas
-Pareiginės algos koeficientas
+Pareiginės algos koeficientas (baziniais dydžiais)
 pirmininko ar pirmininką pavaduojančio teisėjo (kai nėra pirmininko pavaduotojo pareigybės)
 pirmininko pavaduotojo ar jį pavaduojančio teisėjo
 skyriaus pirmininko ar jį pavaduojančio teisėjo
 teisėjo
 1.
 Lietuvos Aukščiausiasis Teismas
-21,7
+4,9
 –
-20,2
-19,2
+4,4
+4,1
 2.
 Lietuvos vyriausiasis administracinis teismas
-20,9
-19,7
+4,7
+4,2
 –
-18,7
+4,0
 3.
 Lietuvos apeliacinis teismas
-20,2
+4,5
 –
-19,2
-18,2
+4,1
+3,8
 4.
 Apygardos teismas
-19,2
+4,2
 –
-18,2
-17,2
+3,8
+3,6
 5.
 Apygardos administracinis teismas
-19,2
-18,2
+4,2
+3,8
 –
-17,2
+3,6
 6.
 Apylinkės teismas
-18,2
-17,2
+4,1
+3,6
 –
-16,2
+3,5
+_____________________“.

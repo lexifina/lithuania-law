@@ -20,3 +20,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2019-01-01 | 2021-07-31 | Įstatymas Nr. XIII-1689 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/bff1d0370a5176d6402ae3d65fe36bccbef243b0/istatymai/TAR.AB0DC76B69A0.md) |
 | 2021-08-01 | 2021-12-31 | Įstatymas Nr. XIV-509 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/f0a300f96ac71a9a2e447e4cf06a2c046d319c14/istatymai/TAR.AB0DC76B69A0.md) |
 | 2022-01-01 | 2023-06-30 | Įstatymas Nr. XIV-708 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/c10dbbd92cb775fde00855482064c59bd4df75ce/istatymai/TAR.AB0DC76B69A0.md) |
+| 2023-07-01 |  | Teisės aktų registras (Seimo kanceliarija) | [atviri-teises-aktai.lt](https://atviri-teises-aktai.lt/ta/1081010ISTA00X-1771/data.json) |
