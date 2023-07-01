@@ -10,3 +10,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | --- | --- | --- | --- |
 | 2008-06-07 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/6469afc2c1b6c544cc4ab0bbca59658cab683805/istatymai/TAR.D64349B259B7.md) |
 | 2010-07-01 | 2023-06-30 | Įstatymas Nr. XI-750 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/6ed957be5e346c17648aa94a67a15fa872de4f32/istatymai/TAR.D64349B259B7.md) |
+| 2023-07-01 |  | Įstatymas Nr. XIV-1513 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/3c035941c672ccf412f166740df49de7564f1a68/istatymai/TAR.D64349B259B7.md) |
