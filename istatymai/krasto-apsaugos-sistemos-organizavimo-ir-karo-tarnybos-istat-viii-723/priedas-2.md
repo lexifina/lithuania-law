@@ -3,8 +3,9 @@
 6,9
 6,9
 6,9
-6,9“
-part_83a75f5c39c54408a8abbf461780079a_end
+6,9
+_______________
+part_81ecee97689b42299ab64cc1ff841874_end
 Lietuvos Respublikos
 krašto apsaugos sistemos organizavimo
 ir karo tarnybos įstatymo
