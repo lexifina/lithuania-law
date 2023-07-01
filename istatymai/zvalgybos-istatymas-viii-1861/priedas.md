@@ -1,7 +1,7 @@
 # RESPUBLIKOS PREZIDENTAS VALDAS ADAMKUS
 Lietuvos Respublikos
 žvalgybos įstatymo
-priedas
+1 priedas
 ŽVALGYBOS PAREIGŪNO TARNYBOS SUTARTIS Nr. ______
 ____________________
 (data)
@@ -34,7 +34,7 @@ ___________________________________________________________________________
 _________________ (vardas, pavardė, pareigos) _________________ (parašas)
 _________________ (vardas, pavardė) _________________ (parašas)
 A. V.
-Žvalgybos pareigūnas paskirtas į pareigas _____________ įsakymu Nr. _____________ .
+Žvalgybos pareigūnas paskirtas į pareigas _____________ įsakymu Nr. ____________ .
 (data)
 Sutartis nutraukta ________________________________________________________
 ___________________________________________________________________________
