@@ -1,1 +1,1 @@
-# part_60e975074bfa40459b0eef7193ef59a6_end
+# Lietuvos Respublikos

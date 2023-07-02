@@ -17,7 +17,6 @@
 65
 15 metų
 35 metai
-part_8e924ab8d8a34ad3bc0deeb409f8024a_end
 Lietuvos Respublikos socialinio
 draudimo pensijų įstatymo
 7 priedas
@@ -122,4 +121,3 @@ Gimimo data
 2026
 65 metai
 1961 m. gegužės 1 d. ir vėliau“
-part_09acc3616be745e98d53ac8cdb417649_end
