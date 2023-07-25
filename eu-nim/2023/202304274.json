@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2023 m. liepos 24 d. įsakymas Nr. D1-249 „Dėl Lietuvos Respublikos aplinkos ministro 2003 m. liepos 21 d. įsakymo Nr. 390 „Dėl statybos techninio reglamento STR 2.07.01:2003 „Vandentiekis ir nuotekų šalintuvas. Pastato inžinerinės sistemos. Lauko inžineriniai tinklai“ patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2023-15055",
+  "official_journal_page": null,
+  "official_journal_date": "2023-07-24",
+  "entry_into_force": "2023-07-25",
+  "notification_date": "2023-10-25",
+  "commission_reference": "MNE(2023)04274",
+  "nim_celex": "72020L2184LTU_202304274",
+  "nim_id": "202304274",
+  "transposes_celex": [
+    "32020L2184"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b5387791-6add-4e79-b264-d6413708b52f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
