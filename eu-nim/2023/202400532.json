@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2023 m. liepos 26 d. nutarimas Nr. 597 „Dėl Lietuvos Respublikos Vyriausybės 2000 m. gruodžio 15 d. nutarimo Nr. 1458 „Dėl Konkrečių valstybės rinkliavos dydžių sąrašo ir Valstybės rinkliavos mokėjimo ir grąžinimo taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2023-15281",
+  "official_journal_page": null,
+  "official_journal_date": "2023-07-27",
+  "entry_into_force": "2023-07-28",
+  "notification_date": "2024-01-31",
+  "commission_reference": "MNE(2024)00532",
+  "nim_celex": "72021L1883LTU_202400532",
+  "nim_id": "202400532",
+  "transposes_celex": [
+    "32021L1883"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ee3b0b91-000c-473e-882d-f80d1bae18ca",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
