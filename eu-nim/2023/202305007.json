@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos viršininko 2023 m. rugpjūčio 10 d. įsakymas Nr. VA-56 „Dėl Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos viršininko 2022 m. gruodžio 23 d. įsakymo Nr. VA-95 „Dėl Informacijos apie platformose vykdomas veiklas teikimo Valstybinei mokesčių inspekcijai taisyklių patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2023-16088",
+  "official_journal_page": null,
+  "official_journal_date": "2023-08-10",
+  "entry_into_force": "2023-08-11",
+  "notification_date": "2023-09-14",
+  "commission_reference": "MNE(2023)05007",
+  "nim_celex": "72021L0514LTU_202305007",
+  "nim_id": "202305007",
+  "transposes_celex": [
+    "32021L0514"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ed0b82c0-86a4-4f67-8003-18f7493af9be",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
