@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2023 m. rugpjūčio 11 d. įsakymas Nr. 3-363 “Dėl Lietuvos Respublikos susisiekimo ministro 2008 m. spalio 24 d. įsakymo Nr. 3-406 „Dėl Privalomosios transporto priemonių techninės apžiūros atlikimo tvarkos aprašo patvirtinimo“ pakeitimo”",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2023-16157",
+  "official_journal_page": null,
+  "official_journal_date": "2023-08-11",
+  "entry_into_force": "2023-08-12",
+  "notification_date": "2023-09-29",
+  "commission_reference": "MNE(2023)04652",
+  "nim_celex": "72021L1717LTU_202304652",
+  "nim_id": "202304652",
+  "transposes_celex": [
+    "32021L1717"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3cc0f31f-2f4c-4315-b63b-d8c722b0eddb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
