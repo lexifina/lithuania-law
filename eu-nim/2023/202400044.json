@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2023 m. rugpjūčio 23 d. įsakymas Nr. 3-366 „Dėl Lietuvos Respublikos susisiekimo ministro 2002 m. vasario 18 d. įsakymo Nr. 3-66 „Dėl Didžiausiųjų leidžiamų naudojantis keliais transporto priemonių ar jų junginių techninių parametrų aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2023-16514",
+  "official_journal_page": null,
+  "official_journal_date": "2023-08-23",
+  "entry_into_force": "2023-08-24",
+  "notification_date": "2024-02-20",
+  "commission_reference": "MNE(2024)00044",
+  "nim_celex": "72015L0719LTU_202400044",
+  "nim_id": "202400044",
+  "transposes_celex": [
+    "32015L0719"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/817d90a9-b157-4971-b073-795e1be0054e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
