@@ -1,9 +1,10 @@
 # RESPUBLIKOS PREZIDENTAS VALDAS ADAMKUS
 Lietuvos Respublikos
-įstatymo „Dėl darbuotojų dalyvavimo
-bendrovėje po vienos valstybės ribas
-peržengiančio ribotos atsakomybės
-bendrovių jungimosi“
+darbuotojų dalyvavimo bendrovėje
+po vienos valstybės ribas peržengiančio
+ribotos atsakomybės bendrovių pertvarkymo,
+jungimosi ar skaidymo įstatymo
 priedas
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
-1. 2005 m. spalio 26 d. Europos Parlamento ir Tarybos direktyva 2005/56/EB dėl ribotos atsakomybės bendrovių jungimųsi, peržengiančių vienos valstybės ribas (OL 2005 L 310, p. 1), su paskutiniais pakeitimais, padarytais 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES (OL 2014 L 173, p. 190).
+1. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/1132 dėl tam tikrų bendrovių teisės aspektų su paskutiniais pakeitimais, padarytais 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/2121.
+_______________
