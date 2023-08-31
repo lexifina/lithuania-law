@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ekonomikos ir inovacijų ministro 2023 m. rugpjūčio 30 d. įsakymas Nr. 4-466 \"Dėl Norminių teisės aktų nuostatų, ribojančių galimybę užsiimti reglamentuojama profesija ar ja verstis, atitikties proporcingumo principui stebėsenos tvarkos aprašo patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2023-17087",
+  "official_journal_page": null,
+  "official_journal_date": "2023-08-30",
+  "entry_into_force": "2023-08-31",
+  "notification_date": "2023-09-04",
+  "commission_reference": "MNE(2023)04793",
+  "nim_celex": "72018L0958LTU_202304793",
+  "nim_id": "202304793",
+  "transposes_celex": [
+    "32018L0958"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8b1fa286-3f42-4417-8c54-c7b9399f9cb3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
