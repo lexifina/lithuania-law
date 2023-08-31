@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2023 m. liepos 12 d. nutarimas Nr. 559 \"Dėl Lietuvos Respublikos Vyriausybės 2003 m. sausio 28 d. nutarimo Nr. 99 „Dėl Komandiruočių sąnaudų atskaitymo iš pajamų taisyklių patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2023-14690",
+  "official_journal_page": null,
+  "official_journal_date": "2023-07-17",
+  "entry_into_force": "2023-08-31",
+  "notification_date": "2023-09-26",
+  "commission_reference": "MNE(2023)04411",
+  "nim_celex": "72019L2121LTU_202304411",
+  "nim_id": "202304411",
+  "transposes_celex": [
+    "32019L2121"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b2961133-12fa-4d74-8a3f-f1649318bcb2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
