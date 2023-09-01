@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2022-07-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/10788d10c74e3cbab0534e3c9fdc152fd52574bc/istatymai/TAR.0457BA8067E6.md) |
+| 2023-09-01 |  | Įstatymas Nr. XIV-2071 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/f07a28004d3a9d26f02e55689bb19225e13eca36/istatymai/TAR.0457BA8067E6.md) |
