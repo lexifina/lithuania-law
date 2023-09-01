@@ -17,7 +17,6 @@ B lygis
 5,8–9,5
 5,9–10,0
 _______________
-part_27a3b4f3cae14de09f1e7132b37e55d0_end
 Lietuvos Respublikos
 valstybės ir savivaldybių įstaigų darbuotojų
 darbo apmokėjimo ir komisijų narių atlygio
