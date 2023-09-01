@@ -19,3 +19,4 @@ priedas
 11. 2020 m. lapkričio 25 d. Europos Parlamento ir Tarybos reglamentas (ES) 2020/1783 dėl valstybių narių teismų bendradarbiavimo renkant įrodymus civilinėse ar komercinėse bylose (įrodymų rinkimas) (nauja redakcija).
 12. 2020 m. lapkričio 25 d. Europos Parlamento ir Tarybos reglamentas (ES) 2020/1784 dėl teisminių ir neteisminių dokumentų civilinėse arba komercinėse bylose įteikimo valstybėse narėse (dokumentų įteikimas) (nauja redakcija).
 13. 2020 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2020/1828 dėl atstovaujamųjų ieškinių siekiant apsaugoti vartotojų kolektyvinius interesus, kuria panaikinama Direktyva 2009/22/EB.
+14. 2022 m. liepos 12 d. Tarybos sprendimas (ES) 2022/1206 dėl Europos Sąjungos prisijungimo prie Konvencijos dėl užsienio teismų sprendimų civiliniais arba komerciniais klausimais pripažinimo ir vykdymo.
