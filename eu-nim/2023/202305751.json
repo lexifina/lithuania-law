@@ -1,0 +1,25 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2023 m. rugpjūčio 30 d. nutarimas Nr. 701 „Dėl Lietuvos Respublikos Vyriausybės 2004 m. rugpjūčio 18 d. nutarimo Nr. 967 „Dėl Planų ir programų strateginio pasekmių aplinkai vertinimo tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2023-17405",
+  "official_journal_page": null,
+  "official_journal_date": "2023-09-04",
+  "entry_into_force": "2023-09-05",
+  "notification_date": "2023-11-07",
+  "commission_reference": "MNE(2023)05751",
+  "nim_celex": "71992L0043LTU_202305751",
+  "nim_id": "202305751",
+  "transposes_celex": [
+    "31992L0043",
+    "32001L0042",
+    "32002L0049",
+    "32006L0021"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3c7dac86-60fb-48ad-8c31-091c8fd26182",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
