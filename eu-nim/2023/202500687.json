@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2023 m. rugsėjo 20 d. nutarimas Nr. 746 „Dėl 2023–2030 metų plėtros programos valdytojos Lietuvos Respublikos krašto apsaugos ministerijos nacionalinės kibernetinio saugumo plėtros programos patvirtinimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2023-18546",
+  "official_journal_page": null,
+  "official_journal_date": "2023-09-22",
+  "entry_into_force": "2023-09-23",
+  "notification_date": "2025-01-27",
+  "commission_reference": "MNE(2025)00687",
+  "nim_celex": "72022L2555LTU_202500687",
+  "nim_id": "202500687",
+  "transposes_celex": [
+    "32022L2555"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/66ea9d48-d9da-4f03-b308-e81a94c6fe18",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
