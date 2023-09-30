@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos tarybos 2023 m. rugsėjo 28 d. nutarimas Nr. TN-466 „Dėl Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2016 m. birželio 14 d. įsakymo Nr. 1V-670 „Dėl Radijo ryšio įrenginių techninio reglamento patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2023-19113",
+  "official_journal_page": null,
+  "official_journal_date": "2023-09-29",
+  "entry_into_force": "2023-09-30",
+  "notification_date": "2023-11-06",
+  "commission_reference": "MNE(2023)05736",
+  "nim_celex": "72022L2380LTU_202305736",
+  "nim_id": "202305736",
+  "transposes_celex": [
+    "32022L2380"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c0fbdccc-0ba2-4523-ac7e-dba49c8b23a7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
