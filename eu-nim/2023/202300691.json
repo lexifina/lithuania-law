@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2022 m. gruodžio 14 d. nutarimas Nr. 1257 „Dėl Lietuvos Respublikos Vyriausybės 2002 m. birželio 4 d. nutarimo Nr. 821 „Dėl Akcizų įstatymo nuostatų įgyvendinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2022-25610",
+  "official_journal_page": null,
+  "official_journal_date": "2022-12-15",
+  "entry_into_force": "2023-10-01",
+  "notification_date": "2023-01-30",
+  "commission_reference": "MNE(2023)00691",
+  "nim_celex": "72020L1151LTU_202300691",
+  "nim_id": "202300691",
+  "transposes_celex": [
+    "32020L1151"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1214ac1c-a3a1-11ed-b508-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
