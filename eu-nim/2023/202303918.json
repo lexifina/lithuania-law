@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 2, 41, 84, 85, 911 straipsnių ir 2 priedo pakeitimo įstatymas",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2023-13985",
+  "official_journal_page": null,
+  "official_journal_date": "2023-07-05",
+  "entry_into_force": "2023-10-23",
+  "notification_date": "2023-07-20",
+  "commission_reference": "MNE(2023)03918",
+  "nim_celex": "72022L2100LTU_202303918",
+  "nim_id": "202303918",
+  "transposes_celex": [
+    "32022L2100"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/81ac2d19-a74f-401c-ab4a-ef00ffef1234",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
