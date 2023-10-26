@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2022-07-21 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/8cfc5cc90056af539a6f9fe2959136e4fbd2aea8/konstituciniai-istatymai/TAR.418F26F0082B.md) |
+| 2023-10-26 | 2023-11-10 | Įstatymas Nr. XIV-2185 / Įstatymas Nr. XIV-2186 / Įstatymas Nr. XIV-2189 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/7659b50b32135fd1b95d6567a11ab2d196548a3b/konstituciniai-istatymai/TAR.418F26F0082B.md) |
