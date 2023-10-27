@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2023 m. spalio 26 d. įsakymas Nr. 1-331 “Dėl energetikos ministro 2012 m. vasario 3 d. įsakymo Nr. 1-22 „Dėl elektros įrenginių įrengimo bendrųjų taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "20887",
+  "official_journal_page": null,
+  "official_journal_date": "2023-10-26",
+  "entry_into_force": "2023-10-27",
+  "notification_date": "2023-10-31",
+  "commission_reference": "MNE(2023)05627",
+  "nim_celex": "72019L0944LTU_202305627",
+  "nim_id": "202305627",
+  "transposes_celex": [
+    "32019L0944"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/49e51f6f-6d2d-4b5d-b9d5-1b3f0db6e7cd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
