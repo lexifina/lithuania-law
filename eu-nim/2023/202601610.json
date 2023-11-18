@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės energetikos reguliavimo tarybos 2023 m. lapkričio 17 d. nutarimas Nr. O3E-1686 „Dėl Valstybinės energetikos reguliavimo tarybos 2020 m. gruodžio 18 d. nutarimo Nr. O3E-1458 „Dėl Bendrosios energetikos darbuotojų atestavimo schemos patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2023-22225",
+  "official_journal_page": null,
+  "official_journal_date": "2023-11-17",
+  "entry_into_force": "2023-11-18",
+  "notification_date": "2026-03-06",
+  "commission_reference": "MNE(2026)01610",
+  "nim_celex": "72023L1791LTU_202601610",
+  "nim_id": "202601610",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/023038f1-59e6-4ae6-9aeb-28a2aa274f12",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
