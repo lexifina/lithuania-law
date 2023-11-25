@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos krašto apsaugos ministro 2023 m lapkričio 23 d. įsakymas Nr. V-945 „Dėl Lietuvos Respublikos krašto apsaugos ministro 2013 m. gruodžio 31 d. įsakymo Nr. V-1200 „Dėl Nacionalinio kibernetinio saugumo centro prie Krašto apsaugos ministerijos nuostatų ir struktūros patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2023-22624",
+  "official_journal_page": null,
+  "official_journal_date": "2023-11-24",
+  "entry_into_force": "2023-11-25",
+  "notification_date": "2025-01-24",
+  "commission_reference": "MNE(2025)00675",
+  "nim_celex": "72022L2555LTU_202500675",
+  "nim_id": "202500675",
+  "transposes_celex": [
+    "32022L2555"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/573544f4-af83-4c97-b68e-8f80576d211d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
