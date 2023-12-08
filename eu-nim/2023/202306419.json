@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ekonomikos ir inovacijų ministro 2023 m. gruodžio 7 d. įsakymas Nr. 4-687 „Dėl ūkio ministro 2015 m. lapkričio 19 d. įsakymo Nr. 4-730 „Dėl Neautomatinių svarstyklių techninio reglamento patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2023-23746",
+  "official_journal_page": null,
+  "official_journal_date": "2023-12-07",
+  "entry_into_force": "2023-12-08",
+  "notification_date": "2023-12-11",
+  "commission_reference": "MNE(2023)06419",
+  "nim_celex": "72014L0031LTU_202306419",
+  "nim_id": "202306419",
+  "transposes_celex": [
+    "32014L0031"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f48af846-24aa-440a-91b3-4b5666fe1833",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
