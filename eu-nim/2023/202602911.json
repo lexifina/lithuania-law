@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro, Lietuvos Respublikos aplinkos ministro ir Lietuvos Respublikos žemės ūkio ministro 2023 m. gruodžio 20 d. įsakymas Nr. 1-382/D1-418/3D-879 “Dėl biodegalų ir pažangiųjų biodegalų gamybai tinkamų naudoti žaliavų vertinimo metodikos patvirtinimo“ (suvestinė redakcija nuo 2026-03-26)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2023-24697",
+  "official_journal_page": null,
+  "official_journal_date": "2023-12-20",
+  "entry_into_force": "2023-12-21",
+  "notification_date": "2026-05-15",
+  "commission_reference": "MNE(2026)02911",
+  "nim_celex": "72023L2413LTU_202602911",
+  "nim_id": "202602911",
+  "transposes_celex": [
+    "32023L2413"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f92fe14f-8359-43f6-87c9-27021d90ce3d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
