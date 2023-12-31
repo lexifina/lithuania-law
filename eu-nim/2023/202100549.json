@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės energetikos reguliavimo tarybos 2020 m. gruodžio 18 d. nutarimas Nr. O3E-1458 \"Dėl Bendrosios energetikos darbuotojų atestavimo schemos patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2020-27881",
+  "official_journal_page": null,
+  "official_journal_date": "2020-12-17",
+  "entry_into_force": "2023-12-31",
+  "notification_date": "2021-02-04",
+  "commission_reference": "MNE(2021)00549",
+  "nim_celex": "72018L2001LTU_202100549",
+  "nim_id": "202100549",
+  "transposes_celex": [
+    "32018L2001"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b46954da-5244-4553-943b-75426e4f36f9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
