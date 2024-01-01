@@ -14,3 +14,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2019-07-01 | 2021-12-31 | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/25671728ae945dc63c6297858aebcb9740ebf9e9/istatymai/TAR.0258F89BCE57.md) |
 | 2022-01-01 | 2022-12-31 | Įstatymas Nr. XIV-369 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/c8bb41deea9d2c04f865d19b8aed6ff39ed672c9/istatymai/TAR.0258F89BCE57.md) |
 | 2023-01-01 | 2023-12-31 | Įstatymas Nr. XIV-1713 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/dd5fa364350f52489114f359672943e5c9dbf701/istatymai/TAR.0258F89BCE57.md) |
+| 2024-01-01 | 2025-12-31 | Įstatymas Nr. XIII-1928 / Įstatymas Nr. XIV-1606 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/4c1c676d298d6ff081d1339b70d3c7b5779c1a3d/istatymai/TAR.0258F89BCE57.md) |
