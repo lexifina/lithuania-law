@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 1, 2, 5, 11, 13, 14, 201, 202, 22, 221, 26, 49, 64  straipsnių pakeitimo ir įstatymo papildymo 141 ir 204 straipsniais įstatymas Nr. XIV-2389",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2023-25900",
+  "official_journal_page": null,
+  "official_journal_date": "2023-12-29",
+  "entry_into_force": "2024-01-01",
+  "notification_date": "2024-07-12",
+  "commission_reference": "MNE(2024)03107",
+  "nim_celex": "72023L2413LTU_202403107",
+  "nim_id": "202403107",
+  "transposes_celex": [
+    "32023L2413"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9f14f76f-5fec-4853-b670-31d56b51d3d6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
