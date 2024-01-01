@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Valstybinės augalininkystės tarnybos prie Žemės ūkio ministerijos direktoriaus 2023 m. spalio 27 d. įsakymas Nr. A1-635 ,,Dėl Valstybinės augalininkystės tarnybos prie Žemės ūkio ministerijos direktoriaus 2010 m. spalio 22 d. įsakymo Nr. A1-113 ,,Dėl augalų rūšių veislių tikrinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2023-21031",
+  "official_journal_page": null,
+  "official_journal_date": "2023-10-27",
+  "entry_into_force": "2024-01-01",
+  "notification_date": "2023-11-14",
+  "commission_reference": "MNE(2023)05867",
+  "nim_celex": "72023L1438LTU_202305867",
+  "nim_id": "202305867",
+  "transposes_celex": [
+    "32023L1438"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/10986d2f-9763-41cf-ae72-29084fb26a80",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
