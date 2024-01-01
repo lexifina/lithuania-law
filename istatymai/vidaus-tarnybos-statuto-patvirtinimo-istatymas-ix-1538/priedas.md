@@ -1,69 +1,50 @@
-# Lietuvos Respublikos
-vidaus tarnybos statuto
+# _______________________
+Lietuvos Respublikos vidaus
+tarnybos statuto
 priedas
-VIDAUS TARNYBOS SISTEMOS PAREIGŪNŲ PAREIGINIŲ ALGŲ KOEFICIENTAI
+VIDAUS TARNYBOS SISTEMOS PAREIGŪNŲ PAREIGINIŲ ALGŲ KOEFICIENTAI IR NEKARINIAI PAREIGŪNŲ LAIPSNIAI
 Pareigybių grupė
 Pareigybės pavadinimas
-Įstaigų grupė
-II
-III
-Koeficientas
-Koeficientas
+Pareiginių algų koeficientai
+Nekariniai pareigūnų laipsniai
 1
-Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos vadas, Viešojo saugumo tarnybos prie Vidaus reikalų ministerijos vadas, Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos direktorius, Finansinių nusikaltimų tyrimo tarnybos prie Vidaus reikalų ministerijos direktorius, policijos generalinis komisaras, Muitinės departamento prie Finansų ministerijos generalinis direktorius, Lietuvos probacijos tarnybos direktorius, Lietuvos kalėjimų tarnybos direktorius
-15,2–19
+Centrinės statutinės įstaigos vadovas
+2,35–4,00
+Vidaus tarnybos generolas, generalinis komisaras
 2
-Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos vado pavaduotojas, Viešojo saugumo tarnybos prie Vidaus reikalų ministerijos vado pavaduotojas, Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos direktoriaus pavaduotojas, Finansinių nusikaltimų tyrimo tarnybos prie Vidaus reikalų ministerijos direktoriaus pavaduotojas, policijos generalinio komisaro pavaduotojas, Muitinės departamento prie Finansų ministerijos generalinio direktoriaus pavaduotojas, Lietuvos probacijos tarnybos direktoriaus pavaduotojas, Lietuvos kalėjimų tarnybos direktoriaus pavaduotojas
-13,2–18
+Centrinės statutinės įstaigos vadovo pavaduotojas
+Nuo 1,71
+Vidaus tarnybos pulkininkas, vyriausiasis komisaras
 3
-Viršininkas (statutinės įstaigos vadovas), direktorius (statutinės įstaigos vadovas), Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos pasienio rinktinės vadas, mokyklos viršininkas, vyriausiojo policijos komisariato viršininkas (taikoma struktūriniam padaliniui, kuris nėra kitame struktūriniame padalinyje), biuro viršininkas, rinktinės vadas (statutinės įstaigos vadovas), Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos Priešgaisrinės gelbėjimo valdybos viršininkas
-13,2–17,5
-13,2–17,5
+Statutinės įstaigos vadovas, pasienio rinktinės vadas, mokyklos viršininkas, centrinės statutinės įstaigos valdybos viršininkas, centrinės statutinės įstaigos štabo viršininkas, biuro viršininkas, vyriausiojo policijos komisariato viršininkas
+Nuo 1,55
+Vidaus tarnybos pulkininkas, vyriausiasis komisaras
 4
-Dalinio vadas, štabo viršininkas, viršininko pavaduotojas (statutinės įstaigos vadovo pavaduotojas), direktoriaus pavaduotojas (statutinės įstaigos vadovo pavaduotojas), Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos Pasienio rinktinės vado pavaduotojas, mokyklos viršininko pavaduotojas, patarėjas (statutinės įstaigos patarėjas), biuro viršininko pavaduotojas, vyriausiojo policijos komisariato viršininko pavaduotojas (taikoma struktūriniam padaliniui, kuris nėra kitame struktūriniame padalinyje), rinktinės vado pavaduotojas (statutinės įstaigos vadovo pavaduotojas), Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos Priešgaisrinės gelbėjimo valdybos viršininko pavaduotojas
-12,2–16,5
-11,2–16
+Statutinės įstaigos vadovo pavaduotojas, pasienio rinktinės vado pavaduotojas, mokyklos viršininko pavaduotojas, centrinės statutinės įstaigos valdybos viršininko pavaduotojas, biuro viršininko pavaduotojas, vyriausiojo policijos komisariato viršininko pavaduotojas, dalinio vadas, valdybos viršininkas, rinktinės vadas, komisariato viršininkas, kalėjimo viršininkas, posto viršininkas, pasienio užkardos vadas, specialusis atašė, statutinės įstaigos patarėjas
+Nuo 1,39
+Vidaus tarnybos pulkininkas leitenantas, vyresnysis komisaras
 5
-Dalinio vado pavaduotojas, kalėjimo viršininkas, valdybos viršininkas, patarėjas, specialusis atašė
-11,2–15,5
-10,2–15
+Dalinio vado pavaduotojas, valdybos viršininko pavaduotojas, tarnybos viršininkas, skyriaus viršininkas, posto viršininko pavaduotojas, pasienio užkardos vado pavaduotojas, centro viršininkas, posto pamainos viršininkas, eskadrilės vadas, orlaivio vadas, patarėjas
+Nuo 1,22
+Vidaus tarnybos majoras, komisaras
 6
-Komisariato viršininkas, užkardos vadas, tarnybos viršininkas, skyriaus viršininkas (taikoma struktūriniam padaliniui, kuris nėra kitame struktūriniame padalinyje), valdybos viršininko pavaduotojas, posto viršininkas, eskadrilės vadas, orlaivio vadas
-9,4–15
-8,4–14,5
+Komandos viršininkas, kuopos vadas, skyriaus viršininko pavaduotojas, tarnybos viršininko pavaduotojas, poskyrio viršininkas, laivo vadas, vyriausiasis tyrėjas, vyriausiasis specialistas, vyriausiasis inspektorius, vyriausiasis lakūnas, vyresnysis lakūnas
+Nuo 1,10
+Vidaus tarnybos kapitonas, komisaras inspektorius
 7
-Skyriaus viršininkas (taikoma struktūriniam padaliniui, kuris yra kitame struktūriniame padalinyje), centro viršininkas, rinktinės vadas, posto viršininko pavaduotojas, vyriausiasis lakūnas
-8,9–14,5
-7,9–14
+Vyriausiasis laivavedys, vyresnysis laivavedys, vyresnysis tyrėjas, vyresnysis specialistas, vyresnysis inspektorius, lakūnas
+Nuo 0,99
+Vidaus tarnybos vyresnysis leitenantas, vyresnysis inspektorius
 8
-Skyriaus viršininko pavaduotojas (taikoma struktūriniam padaliniui, kuris nėra kitame struktūriniame padalinyje), poskyrio viršininkas, vyriausiasis tyrėjas, vyriausiasis detektyvas, vyriausiasis agentas, laivo vadas, tarnybos viršininko pavaduotojas, centro viršininko pavaduotojas, komandos viršininkas, užkardos vado pavaduotojas, vyresnysis lakūnas
-8,6–14
-7,6–13,5
+Pamainos vadas, būrio vadas, tyrėjas, specialistas, inspektorius, vyriausiasis kovotojas, laivavedys
+Nuo 0,88
+Vidaus tarnybos leitenantas, inspektorius
 9
-Skyriaus viršininko pavaduotojas (taikoma struktūriniam padaliniui, kuris yra kitame struktūriniame padalinyje), nuovados viršininkas, kuopos vadas, vyriausiasis inspektorius, vyriausiasis budėtojas, vyriausiasis specialistas, komandos viršininko pavaduotojas, poskyrio viršininko pavaduotojas, posto pamainos viršininkas, vyriausiasis laivavedys, lakūnas
-7,6–13,5
-6,6–13
+Skyrininkas, kovotojas, jaunesnysis specialistas, jaunesnysis tyrėjas, vyriausiasis ugniagesys gelbėtojas, vyriausiasis patrulis, vyriausiasis postinis
+Nuo 0,76
+Vidaus tarnybos vyresnysis puskarininkis, jaunesnysis inspektorius
 10
-Vyresnysis laivavedys, vyresnysis tyrėjas, vyresnysis detektyvas, vyresnysis agentas, kuopos vado pavaduotojas, vyresnysis specialistas
-7,3–13
-6,5–12,5
-11
-Būrio vadas, vyresnysis inspektorius, laivavedys, tyrėjas, detektyvas, agentas
-7–12,5
-6–12
-12
-Inspektorius, sargybos viršininkas, būrininkas, pamainos vadas, specialistas, vyriausiasis kovotojas
-6,7–12
-5,7–11,5
-13
-Vyriausiasis patrulis, vyriausiasis postinis, skyrininkas, jaunesnysis specialistas, vyriausiasis ugniagesys gelbėtojas, viršila, jaunesnysis budėtojas, vyresnysis kovotojas
-5,4–11,5
-5,2–11
-14
-Vyresnysis postinis, vyresnysis patrulis, dispečeris, vyresnysis ugniagesys gelbėtojas, vyresnysis pasienietis, kovotojas
-5,1–11
-5,0–10,5
-15
-Postinis, patrulis, pasienietis, ugniagesys gelbėtojas
-4,9–10,5
-4,9–10
+Vyresnysis ugniagesys gelbėtojas, ugniagesys gelbėtojas, vyresnysis pasienietis, pasienietis
+Nuo 0,65
+Vidaus tarnybos puskarininkis
+–––––––––––––––––––
