@@ -1,5 +1,4 @@
-# part_e0e079efed30447f95509d42db560b82_end
-Lietuvos Respublikos
+# Lietuvos Respublikos
 nacionaliniam saugumui užtikrinti
 svarbių objektų apsaugos įstatymo
 4 priedas

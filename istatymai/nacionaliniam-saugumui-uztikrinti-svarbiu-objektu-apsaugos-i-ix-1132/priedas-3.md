@@ -1,5 +1,4 @@
-# part_3a335abf39554411a98521e454bed5f8_end
-Lietuvos Respublikos
+# Lietuvos Respublikos
 nacionaliniam saugumui užtikrinti
 svarbių objektų apsaugos įstatymo
 3 priedas
