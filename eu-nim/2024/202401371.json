@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 6, 8, 9 straipsnių ir 2, 5 priedų pakeitimo įstatymas Nr. XIV-2037",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2023-12399",
+  "official_journal_page": null,
+  "official_journal_date": "2023-06-22",
+  "entry_into_force": "2024-01-01",
+  "notification_date": "2024-04-16",
+  "commission_reference": "MNE(2024)01371",
+  "nim_celex": "72022L0362LTU_202401371",
+  "nim_id": "202401371",
+  "transposes_celex": [
+    "32022L0362"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4373cca3-fe52-4d63-9fbb-8cc022e02db8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
