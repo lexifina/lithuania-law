@@ -12,7 +12,7 @@ Arklių, avių, ožkų, žvėrelių, paukščių, išskyrus broilerius ir višta
 Kiaulių (nuo 300 iki 499)
 500
 Kiaulių (nuo 500)
-1 500
+1 000
 Broilerių, vištų (nuo 300)
 1 000
 Galvijų:
