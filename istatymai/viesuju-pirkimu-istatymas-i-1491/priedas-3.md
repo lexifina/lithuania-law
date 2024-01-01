@@ -1,5 +1,4 @@
 # Įvairios paslaugos
-part_becdcc0b3dee450aa1af4ae42aed746c_end
 Lietuvos Respublikos
 viešųjų pirkimų įstatymo
 3 priedas

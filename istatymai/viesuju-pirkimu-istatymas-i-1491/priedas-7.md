@@ -1,5 +1,4 @@
 # Įvairūs kiti dirbiniai
-part_c6aba8096a204fe0af9261f02436ca74_end
 Lietuvos Respublikos
 viešųjų pirkimų įstatymo
 7 priedas
@@ -11,4 +10,3 @@ viešųjų pirkimų įstatymo
 5. 2012 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2012/27/ES dėl energijos vartojimo efektyvumo, kuria iš dalies keičiamos direktyvos 2009/125/EB ir 2010/30/ES bei kuria panaikinamos direktyvos 2004/8/EB ir 2006/32/EB (OL 2012 L 315, p. 1), su paskutiniais pakeitimais, padarytais 2013 m. gegužės 13 d. Tarybos direktyva 2013/12/ES (OL 2013 L 141, p. 28).
 6. 2014 m. vasario 26 d. Europos Parlamento ir Tarybos direktyva 2014/24/ES dėl viešųjų pirkimų, kuria panaikinama Direktyva 2004/18/EB (OL 2014 L 94, p. 65), su paskutiniais pakeitimais, padarytais 2017 m. gruodžio 18 d. Komisijos deleguotuoju reglamentu (ES) 2017/2365 (OL 2017 L 337, p. 19).
 7. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/55/ES dėl elektroninių sąskaitų faktūrų naudojimo viešuosiuose pirkimuose (OL 2014 L 133, p. 1).
-part_327026af453e46c48d521f775f9228dc_end

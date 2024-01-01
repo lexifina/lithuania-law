@@ -1,5 +1,4 @@
-# part_2b02daa354ea423d99b27bf9a7b2e963_end
-Lietuvos Respublikos
+# Lietuvos Respublikos
 viešųjų pirkimų įstatymo
 4 priedas
 PASIŪLYMŲ, PARAIŠKŲ, PROJEKTO KONKURSŲ PLANŲ IR PROJEKTŲ ELEKTRONINĖMS GAVIMO PRIEMONĖMS IR PRIETAISAMS KELIAMI REIKALAVIMAI

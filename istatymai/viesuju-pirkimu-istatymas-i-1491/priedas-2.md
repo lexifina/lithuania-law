@@ -1,5 +1,4 @@
 # 45500000
-part_732652a4a4104aeba7394a00c8571d93_end
 Lietuvos Respublikos
 viešųjų pirkimų įstatymo
 2 priedas
