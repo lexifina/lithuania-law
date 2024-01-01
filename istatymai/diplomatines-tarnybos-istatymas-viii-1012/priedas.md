@@ -1,24 +1,42 @@
 # RESPUBLIKOS PREZIDENTAS VALDAS ADAMKUS
 Lietuvos Respublikos
 diplomatinės tarnybos įstatymo
-1 priedas
-LIETUVOS RESPUBLIKOS DIPLOMATŲ PAREIGYBIŲ GRUPĖS IR PAREIGINIŲ ALGŲ KOEFICIENTAI
-Diplomatų pareigybių grupė
-Diplomatų pareigybės Užsienio reikalų ministerijoje
-Diplomatų pareigybės diplomatinėse atstovybėse, konsulinėse įstaigose ir specialiosiose misijose
-Pareiginės algos koeficientai
-1
-Politikos direktorius
+priedas
+LIETUVOS RESPUBLIKOS DIPLOMATŲ PAREIGYBIŲ GRUPĖS IR MINIMALŪS PAREIGINIŲ ALGŲ KOEFICIENTAI
+Eil. Nr.
+Diplomatų pareigybių grupės arba pareigybės Lietuvos Respublikos užsienio reikalų ministerijoje
+Diplomatų pareigybių grupės arba pareigybės Lietuvos Respublikos diplomatinėse atstovybėse, konsulinėse įstaigose ir specialiosiose misijose
+Minimalus pareiginės algos koeficientas (pareiginės algos (atlyginimo) baziniais dydžiais)
+1.
+politikos direktorius
 –
-14,8–19,5
-2
-Departamento direktorius, Grupės vadovas, Ambasadorius, reziduojantis Lietuvos Respublikoje, Generalinis inspektorius
-Ambasadorius
-13,4–18,0
-3
-Ambasadorius ypatingiems pavedimams (struktūrinio padalinio sudėtyje), Departamento direktoriaus pavaduotojas, Departamento patarėjas, Grupės patarėjas
-Ambasadorius ypatingiems pavedimams, Laikinasis reikalų patikėtinis, Generalinis konsulas, Įgaliotasis ministras
-11,0–16,5
-4
-Skyriaus vedėjas
-Konsulas – konsulinės įstaigos vadovas, Ministras patarėjas
+1,96
+2.
+departamento direktorius, grupės vadovas, ambasadorius, reziduojantis Lietuvos Respublikoje, generalinis inspektorius
+ambasadorius
+1,74
+3.
+ambasadorius ypatingiems pavedimams (struktūrinio padalinio sudėtyje), departamento direktoriaus pavaduotojas, departamento patarėjas, grupės patarėjas
+ambasadorius ypatingiems pavedimams, laikinasis reikalų patikėtinis, generalinis konsulas, įgaliotasis ministras
+1,44
+4.
+skyriaus vedėjas
+konsulas – konsulinės įstaigos vadovas, ministras patarėjas
+1,32
+5.
+patarėjas
+patarėjas
+1,18
+6.
+pirmasis sekretorius
+pirmasis sekretorius, konsulas
+1,13
+7.
+antrasis sekretorius
+antrasis sekretorius, vicekonsulas
+1,08
+8.
+trečiasis sekretorius
+trečiasis sekretorius
+1,03
+9.
