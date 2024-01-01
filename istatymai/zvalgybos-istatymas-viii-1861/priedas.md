@@ -1,6 +1,5 @@
 # RESPUBLIKOS PREZIDENTAS VALDAS ADAMKUS
-Lietuvos Respublikos
-žvalgybos įstatymo
+Lietuvos Respublikos žvalgybos įstatymo
 1 priedas
 ŽVALGYBOS PAREIGŪNO TARNYBOS SUTARTIS Nr. ______
 ____________________
@@ -21,15 +20,14 @@ ___________________________________________________________________________
 (nurodomas terminas iki 12 mėnesių arba įrašoma, kad nenustatomas)
 bandomasis laikotarpis.
 3. Žvalgybos pareigūnas į pareigas žvalgybos institucijoje skiriamas, perkeliamas į kitas pareigas, atleidžiamas iš pareigų Žvalgybos įstatymo ir kitų teisės aktų nustatytomis sąlygomis ir tvarka.
-4. Žvalgybos pareigūnas įsipareigoja tarnauti žvalgybos institucijoje įstatymų ir kitų teisės aktų nustatytomis sąlygomis ir tvarka ne mažiau kaip 5 metus nuo šios sutarties pasirašymo momento.
-5. Ši sutartis įsigalioja ir asmuo tampa žvalgybos pareigūnu, kai paskiriamas į konkrečias pareigas žvalgybos institucijoje ir prisiekia Lietuvos valstybei.
-6. Ši sutartis gali būti nutraukta Žvalgybos įstatymo nustatytais pagrindais ir sąlygomis.
-7. Papildomos sutarties sąlygos:
+4. Ši sutartis įsigalioja ir asmuo tampa žvalgybos pareigūnu, kai paskiriamas į konkrečias pareigas žvalgybos institucijoje ir prisiekia Lietuvos valstybei.
+5. Ši sutartis gali būti nutraukta Žvalgybos įstatymo nustatytais pagrindais ir sąlygomis.
+6. Papildomos sutarties sąlygos:
 ___________________________________________________________________________
 ___________________________________________________________________________
 ___________________________________________________________________________
-8. Ginčai dėl sutarties nagrinėjami Lietuvos Respublikos įstatymų nustatyta tvarka.
-9. Ši sutartis sudaryta dviem egzemplioriais – vienas saugomas žvalgybos institucijoje, antras atiduodamas žvalgybos pareigūnui.
+7. Ginčai dėl sutarties nagrinėjami Lietuvos Respublikos įstatymų nustatyta tvarka.
+8. Ši sutartis sudaryta dviem egzemplioriais – vienas saugomas žvalgybos institucijoje, antras atiduodamas žvalgybos pareigūnui.
 Žvalgybos institucijos vardu Žvalgybos pareigūnas
 _________________ (vardas, pavardė, pareigos) _________________ (parašas)
 _________________ (vardas, pavardė) _________________ (parašas)
