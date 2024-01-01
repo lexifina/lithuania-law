@@ -68,3 +68,5 @@ Visiškas kelio uždarymas, eismo nukreipimas apylanka kitais keliais (1 parai 1
 5. Mokestis didinamas 4 kartus, kai eismas ribojamas:
 5.1. gyvenamosiose vietovėse valstybinės reikšmės kelio važiuojamojoje dalyje ir kai tie darbai susiję su kelio dangos ardymu nuo lapkričio 1 d. iki gegužės 1 d.;
 5.2. važiuojamojoje kelio dalyje, kai asfalto danga paklota mažiau kaip prieš 5 metus.
+Lietuvos Respublikos
+kelių priežiūros ir plėtros programos finansavimo įstatymo
