@@ -1,6 +1,5 @@
-# 3 priedas
-NETEKTO DARBINGUMO LYGIO DAUGIKLIŲ DYDŽIAI
-Netektas darbingumas, procentais
+# NETEKTO DALYVUMO LYGIO DAUGIKLIŲ DYDŽIAI
+Netekto dalyvumo lygis, procentais
 Daugiklis
 45
 0,500
@@ -26,6 +25,7 @@ Daugiklis
 1,429
 100
 1,500
+_____________________
 Lietuvos Respublikos
 socialinio draudimo
 pensijų įstatymo
@@ -183,7 +183,7 @@ Lietuvos Respublikos
 socialinio draudimo
 pensijų įstatymo
 6 priedas
-MINIMALUSIS IR BŪTINASIS STAŽAS NETEKTO DARBINGUMO PENSIJAI
+MINIMALUSIS IR BŪTINASIS STAŽAS SOCIALINIO DRAUDIMO NEGALIOS PENSIJAI
 Amžius
 Minimalusis stažas
 Būtinasis stažas
