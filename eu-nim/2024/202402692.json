@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo kodekso 270, 271-1, 277-1 straipsnių pakeitimo ir Kodekso papildymo 270-4 straipsniu įstatymas Nr. XIV-2152",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2023-14338",
+  "official_journal_page": null,
+  "official_journal_date": "2023-07-11",
+  "entry_into_force": "2024-01-01",
+  "notification_date": "2024-07-08",
+  "commission_reference": "MNE(2024)02692",
+  "nim_celex": "72008L0099LTU_202402692",
+  "nim_id": "202402692",
+  "transposes_celex": [
+    "32008L0099"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/27e04a0a-885f-459d-aeeb-0dab2effa63b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
