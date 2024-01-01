@@ -16,3 +16,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2019-01-13 | 2021-12-28 | Įstatymas Nr. XIII-1852 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/c5038d63ed71994a6c829876294630e4f141adfe/istatymai/TAR.103565D95E60.md) |
 | 2021-12-29 | 2021-12-31 | Įstatymas Nr. XIV-805 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/dcce8c87602187ba447ae3c61531ead1f554f0ae/istatymai/TAR.103565D95E60.md) |
 | 2022-01-01 | 2023-12-31 | Įstatymas Nr. XIII-1852 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/f96661da5092a0ac9c0cf9e607ec7cccc32770a0/istatymai/TAR.103565D95E60.md) |
+| 2024-01-01 |  | Įstatymas Nr. XIII-1852 / Įstatymas Nr. XIV-1604 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/da502c7319b191c1ddee10a12c5f9813b7d281bc/istatymai/TAR.103565D95E60.md) |
