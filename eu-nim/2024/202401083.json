@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos akcizų įstatymo Nr. IX-569 1, 2, 3, 27, 35, 36, 37, 38, 39, 41, 43, 53, 58-1, 59 straipsnių, II skyriaus penktojo skirsnio pakeitimo, Įstatymo papildymo nauju 3 priedu ir 40 straipsnio pripažinimo netekusiu galios įstatymas Nr. XIV-1933",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2023-09520",
+  "official_journal_page": null,
+  "official_journal_date": "2023-05-19",
+  "entry_into_force": "2024-01-01",
+  "notification_date": "2024-03-04",
+  "commission_reference": "MNE(2024)01083",
+  "nim_celex": "72003L0096LTU_202401083",
+  "nim_id": "202401083",
+  "transposes_celex": [
+    "32003L0096"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/50b25532-eb0d-458c-b39e-43e22d96cf08",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
