@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos kelių transporto kodekso 8, 8-1, 8-3 straipsnių ir priedo pakeitimo įstatymas Nr. XIV-2200",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2023-21640",
+  "official_journal_page": null,
+  "official_journal_date": "2023-11-07",
+  "entry_into_force": "2024-01-01",
+  "notification_date": "2024-02-20",
+  "commission_reference": "MNE(2024)00937",
+  "nim_celex": "72015L0719LTU_202400937",
+  "nim_id": "202400937",
+  "transposes_celex": [
+    "32015L0719"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cce5a540-ffe4-462f-91c1-4291872f888d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
