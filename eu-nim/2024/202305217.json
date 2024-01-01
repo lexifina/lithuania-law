@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos viršininko 2023 m gegužės 31 d. įsakymas Nr. VA-42 „Dėl duomenų apie tarptautines mokėjimo operacijas kaupimo, saugojimo ir teikimo taisyklių patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2023-10596",
+  "official_journal_page": null,
+  "official_journal_date": "2023-05-31",
+  "entry_into_force": "2024-01-01",
+  "notification_date": "2023-09-28",
+  "commission_reference": "MNE(2023)05217",
+  "nim_celex": "72020L0284LTU_202305217",
+  "nim_id": "202305217",
+  "transposes_celex": [
+    "32020L0284"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6dc6a0d1-0716-4d12-9e88-eb046085340a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
