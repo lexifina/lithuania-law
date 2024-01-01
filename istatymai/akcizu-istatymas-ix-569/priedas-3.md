@@ -1,5 +1,4 @@
-# part_78cbbd9eea5d45e09b848b90d21793af_end
-Lietuvos Respublikos
+# Lietuvos Respublikos
 akcizų įstatymo
 3 priedas
 ĮGYVENDINAMI Europos Sąjungos teisės aktai
@@ -18,4 +17,3 @@ akcizų įstatymo
 3 priedo pakeitimai:
 Nr. XI-1185, 2010-11-30, Žin., 2010, Nr. 148-7560 (2010-12-18)
 Nr. XI-1740, 2011-11-29, Žin., 2011, Nr. 150-7047 (2011-12-08)
-part_7212fd00d2894c1bb98a9e653382ec07_end
