@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 pakeitimo įstatymas Nr. XIV-1722",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2023-00135",
+  "official_journal_page": null,
+  "official_journal_date": "2023-01-04",
+  "entry_into_force": "2024-01-01",
+  "notification_date": "2026-03-10",
+  "commission_reference": "MNE(2026)01580",
+  "nim_celex": "72023L1791LTU_202601580",
+  "nim_id": "202601580",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f8a56aac-c585-438f-bfe3-f40dd1d006e3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
