@@ -3,14 +3,19 @@ Lietuvos Respublikos
 regioninės plėtros įstatymo
 priedas
 REGIONŲ PLĖTROS TARYBŲ ADMINISTRACIJŲ DIREKTORIŲ IR ADMINISTRACIJŲ DARBUOTOJŲ PAREIGYBIŲ PAREIGINIŲ ALGŲ KOEFICIENTAI
+Eil. Nr.
 Pareigybės pavadinimas
 Pareiginės algos koeficientai (baziniais dydžiais)
+1.
 Administracijos direktorius
-13,3–16,3
+1,39–1,70
+2.
 Ekspertas
-11,4–14,4
+1,19–1,50
+3.
 Vyriausiasis specialistas
-8,2–12
+0,86–1,25
+4.
 Vyresnysis specialistas
-7,7–10,5
-part_09c5d5f32de14ec4a863fc589c4bef58_end
+0,81–1,10
+________________
