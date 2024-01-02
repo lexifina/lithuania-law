@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos įstatymo Nr. IX-884 pakeitimo įstatymas Nr. XIV-2401",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2023-25633",
+  "official_journal_page": null,
+  "official_journal_date": "2023-12-28",
+  "entry_into_force": "2024-01-02",
+  "notification_date": "2026-03-12",
+  "commission_reference": "MNE(2026)01590",
+  "nim_celex": "72023L1791LTU_202601590",
+  "nim_id": "202601590",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0bf991cd-7719-4845-98fc-8d1645ea72fd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
