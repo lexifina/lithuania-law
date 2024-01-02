@@ -1,6 +1,4 @@
 # Respublikos Prezidentė Dalia Grybauskaitė
-part_11b631ab05064479a1dc9b5342eb815c_end
-part_a0a54157fab54237bd7e30e3cd69e88f_end
 Lietuvos Respublikos
 elektroninės atpažinties ir
 elektroninių operacijų patikimumo

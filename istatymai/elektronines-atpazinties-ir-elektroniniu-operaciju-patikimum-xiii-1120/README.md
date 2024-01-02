@@ -10,3 +10,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | --- | --- | --- | --- |
 | 2018-05-09 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/19da0581f0d536d439f5a82323e71f48b23506ac/istatymai/TAR.88AD61B052C1.md) |
 | 2024-01-01 | 2024-01-01 | Įstatymas Nr. XIV-1952 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/b28094dcd9c96b63b8306a9e6cf1dae3cf37c5d2/istatymai/TAR.88AD61B052C1.md) |
+| 2024-01-02 | 2024-10-17 | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/31ae8d504f69327821149e0f78931663fdf53a8d/istatymai/TAR.88AD61B052C1.md) |
