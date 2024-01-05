@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2024 m. sausio 3 d. nutarimas Nr. 12 \"Dėl Lietuvos Respublikos Vyriausybės 2023 m. lapkričio 8 d. nutarimo Nr. 857 „Dėl Darbo apmokėjimo sistemos nustatymo rekomendacijų patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-00162",
+  "official_journal_page": null,
+  "official_journal_date": "2024-01-04",
+  "entry_into_force": "2024-01-05",
+  "notification_date": "2026-06-08",
+  "commission_reference": "MNE(2026)03693",
+  "nim_celex": "72023L0970LTU_202603693",
+  "nim_id": "202603693",
+  "transposes_celex": [
+    "32023L0970"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/20c3faef-1e62-4eef-85d4-0d65bd7ff744",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
