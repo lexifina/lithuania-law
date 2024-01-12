@@ -8,3 +8,4 @@ priedas
 4. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/1132 dėl tam tikrų bendrovių teisės aspektų su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/1151.
 5. 2018 m. gruodžio 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/1, kuria siekiama įgalinti valstybių narių konkurencijos institucijas, kad jos būtų veiksmingesnės vykdymo užtikrintojos, ir kuria užtikrinamas tinkamas vidaus rinkos veikimas.
 6. 2022 m. rugsėjo 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2022/1925 dėl atvirų konkurencijai ir sąžiningų skaitmeninio sektoriaus rinkų, kuriuo iš dalies keičiamos direktyvos (ES) 2019/1937 ir (ES) 2020/1828 (Skaitmeninių rinkų aktas).
+7. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2022/2560 dėl vidaus rinką iškraipančių užsienio subsidijų.
