@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2024 m. sausio 24 d. nutarimas Nr. 77„Dėl Lietuvos Respublikos Vyriausybės 2010 m. liepos 21 d. nutarimo Nr. 1133 „Dėl Žaliųjų pirkimų tikslų nustatymo ir įgyvendinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-01432",
+  "official_journal_page": null,
+  "official_journal_date": "2024-01-26",
+  "entry_into_force": "2024-01-27",
+  "notification_date": "2026-03-06",
+  "commission_reference": "MNE(2026)01619",
+  "nim_celex": "72023L1791LTU_202601619",
+  "nim_id": "202601619",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ef286490-ce8d-4f2d-9acb-7967cfbe78f3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
