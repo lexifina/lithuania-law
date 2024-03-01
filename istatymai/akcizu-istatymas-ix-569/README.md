@@ -33,3 +33,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2023-02-13 | 2023-12-31 | Įstatymas Nr. XI-722 / Įstatymas Nr. XIV-777 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/b64cc6d028a09ea731f62830030ca3c26fa8b98f/istatymai/TAR.B9E1D301256F.md) |
 | 2024-01-01 | 2024-02-20 | Įstatymas Nr. XI-722 / Įstatymas Nr. XIV-1933 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/29b11af05365805cc6ab163c291f7c01cbe74461/istatymai/TAR.B9E1D301256F.md) |
 | 2024-02-21 | 2024-02-29 | Įstatymas Nr. XIV-2473 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/bd9e420ad4772823283f151c5349b7ceb1cd680f/istatymai/TAR.B9E1D301256F.md) |
+| 2024-03-01 | 2024-12-23 | Įstatymas Nr. XI-722 / Įstatymas Nr. XIV-2473 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/fc5f84d3e0208cc537ccc201af24b9f700b72929/istatymai/TAR.B9E1D301256F.md) |
