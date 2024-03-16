@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2024 m. kovo 13 d. nutarimas Nr. 186 „Dėl Lietuvos Respublikos Vyriausybės 2020 m. rugsėjo 30 d. nutarimo Nr. 1059 „Dėl Modernizavimo fondo projektų atrankos komisijos sudarymo ir Modernizavimo fondo projektų atrankos ir finansavimo tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-04746",
+  "official_journal_page": null,
+  "official_journal_date": "2024-03-15",
+  "entry_into_force": "2024-03-16",
+  "notification_date": "2024-06-07",
+  "commission_reference": "MNE(2024)01574",
+  "nim_celex": "72023L0959LTU_202401574",
+  "nim_id": "202401574",
+  "transposes_celex": [
+    "32023L0959"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/52ad1116-32ee-4325-8d39-29f068b2ec50",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
