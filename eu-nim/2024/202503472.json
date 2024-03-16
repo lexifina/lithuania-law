@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo kodekso 24, 25, 32, 39-1, 249-1, 250-2, 250-4, 250-6 ir 252-1 straipsnių pakeitimo įstatymas Nr. XIV-2488",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-04809",
+  "official_journal_page": null,
+  "official_journal_date": "2024-03-15",
+  "entry_into_force": "2024-03-16",
+  "notification_date": "2025-06-18",
+  "commission_reference": "MNE(2025)03472",
+  "nim_celex": "72023L2123LTU_202503472",
+  "nim_id": "202503472",
+  "transposes_celex": [
+    "32023L2123"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b3311bce-91af-42a8-abb2-544c29c6e7cc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
