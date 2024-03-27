@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo kodekso priedo pakeitimo įstatymas Nr. XIV-2500",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-05374",
+  "official_journal_page": null,
+  "official_journal_date": "2024-03-26",
+  "entry_into_force": "2024-03-27",
+  "notification_date": "2024-03-28",
+  "commission_reference": "MNE(2024)01516",
+  "nim_celex": "72016L0800LTU_202401516",
+  "nim_id": "202401516",
+  "transposes_celex": [
+    "32016L0800"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d5afa054-0a72-483d-8a16-f7cc9452927b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
