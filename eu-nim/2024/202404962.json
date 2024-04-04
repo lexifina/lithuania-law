@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos generalinio prokuroro 2024 m. balandžio 3 d. įsakymas Nr. I-71 \"Dėl Lietuvos Respublikos generalinio prokuroro 2019 m. liepos 19 d. įsakymo Nr. I-219 „Dėl Baudžiamojo proceso dokumento formos patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-06215",
+  "official_journal_page": null,
+  "official_journal_date": "2024-04-03",
+  "entry_into_force": "2024-04-04",
+  "notification_date": "2026-06-18",
+  "commission_reference": "MNE(2024)04962",
+  "nim_celex": "72016L0800LTU_202404962",
+  "nim_id": "202404962",
+  "transposes_celex": [
+    "32016L0800"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/16fc7a8e-28e0-4cb1-be61-61f4ee84fc1a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
