@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro ir Lietuvos Respublikos sveikatos apsaugos ministro 2024 m. sausio 15 d. įsakymas Nr. A1-34/V-47 \"Dėl Lietuvos Respublikos socialinės apsaugos ir darbo ministro ir Lietuvos Respublikos sveikatos apsaugos ministro 2001 m. liepos 24 d. įsakymo Nr. 97/406 „Dėl Darbuotojų apsaugos nuo cheminių veiksnių darbe nuostatų bei Darbuotojų apsaugos nuo kancerogenų ir mutagenų poveikio darbe nuostatų patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-00561",
+  "official_journal_page": null,
+  "official_journal_date": "2024-01-15",
+  "entry_into_force": "2024-04-05",
+  "notification_date": "2024-03-29",
+  "commission_reference": "MNE(2024)01556",
+  "nim_celex": "72004L0037LTU_202401556",
+  "nim_id": "202401556",
+  "transposes_celex": [
+    "32004L0037"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4a0a051f-4707-48fa-bbe6-296be5f40b79",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
