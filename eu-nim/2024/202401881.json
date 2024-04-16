@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2024 m.  balandžio 15 d. įsakymas Nr. A1-283 „Dėl Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2019 m. rugsėjo 9 d. įsakymo Nr. A1-509 „Dėl nepilnamečio individualaus vertinimo tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-06954",
+  "official_journal_page": null,
+  "official_journal_date": "2024-04-15",
+  "entry_into_force": "2024-04-16",
+  "notification_date": "2024-04-23",
+  "commission_reference": "MNE(2024)01881",
+  "nim_celex": "72016L0800LTU_202401881",
+  "nim_id": "202401881",
+  "transposes_celex": [
+    "32016L0800"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9b709b65-f948-4279-bd93-18654bc35a31",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
