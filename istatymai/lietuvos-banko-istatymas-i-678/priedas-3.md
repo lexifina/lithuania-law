@@ -1,7 +1,6 @@
 # Valiutos keityklos operatoriai
 –
 109 Eur
-part_1036706cce1f45538785f7006b7f7bdc_end
 Lietuvos Respublikos
 Lietuvos banko įstatymo
 2¹ priedas

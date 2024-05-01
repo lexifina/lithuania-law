@@ -1,5 +1,4 @@
 # 1 000 Eur
-part_68defafc5aed4dba84a3cc907d88df65_end
 Lietuvos Respublikos
 Lietuvos banko įstatymo
 2 priedas

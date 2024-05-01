@@ -1,6 +1,5 @@
 # 25 000 Eur
 –––––––––––––––––––––––––––––––
-part_1a122d5476dd4bee9533197b09ed7407_end
 Lietuvos Respublikos
 Lietuvos banko įstatymo
 3 priedas
@@ -27,4 +26,3 @@ Lietuvos banko įstatymo
 20. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/1238 dėl visos Europos asmeninės pensijos produkto (PEPP).
 21. 2020 m. spalio 7 d. Europos Parlamento ir Tarybos reglamentas (ES) 2020/1503 dėl Europos sutelktinio finansavimo paslaugų verslui teikėjų, kuriuo iš dalies keičiamas Reglamentas (ES) 2017/1129 ir Direktyva (ES) 2019/1937, su paskutiniais pakeitimais, padarytais 2022 m. liepos 12 d. Komisijos deleguotuoju reglamentu (ES) 2022/1988.
 22. 2020 m. gruodžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) 2021/23 dėl pagrindinių sandorio šalių gaivinimo ir pertvarkymo sistemos, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1095/2010, (ES) Nr. 648/2012, (ES) Nr. 600/2014, (ES) Nr. 806/2014 ir (ES) 2015/2365 ir direktyvos 2002/47/EB, 2004/25/EB, 2007/36/EB, 2014/59/ES ir (ES) 2017/1132.
-part_55fc40a85bc3467f821af67c3027e100_end
