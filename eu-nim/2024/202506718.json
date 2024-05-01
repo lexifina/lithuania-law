@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos statybos įstatymo Nr. I-1240 1, 2, 3, 4, 5, 6, 11-1, 12, 14, 15, 17, 18, 22, 24, 26, 27, 27-1, 28, 34, 37, 39, 47, 49, 51, 52-1, 53, 55, 56, 57, 59 straipsnių, šeštojo skirsnio pavadinimo, 1 priedo pakeitimo ir Įstatymo papildymo 11-2, 27-2, 68 straipsniais įstatymo Nr. XIV-2413 3, 4, 9, 15, 18, 20, 21, 22, 27, 30, 34 ir 37 straipsnių pakeitimo įstatymas Nr. XIV-2522",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-06309",
+  "official_journal_page": null,
+  "official_journal_date": "2024-04-03",
+  "entry_into_force": "2024-05-01",
+  "notification_date": "2025-12-04",
+  "commission_reference": "MNE(2025)06718",
+  "nim_celex": "72023L2413LTU_202506718",
+  "nim_id": "202506718",
+  "transposes_celex": [
+    "32023L2413"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cfbd4192-267d-47e6-b4cb-857bc34feca5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
