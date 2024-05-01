@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos teisingumo ministro 2024 m. balandžio 30 d. įsakymas Nr. 1R-142 \"Dėl Lietuvos Respublikos teisingumo ministro 2022 m. vasario 15 d. įsakymo Nr. 1R-53 „Dėl Europos Sąjungos teisės aktų ir juos įgyvendinančių Lietuvos Respublikos teisės aktų, dėl kurių informaciją apie pažeidimą pateikusiam asmeniui užtikrinama apsauga, sąrašo patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-08116",
+  "official_journal_page": null,
+  "official_journal_date": "2024-04-30",
+  "entry_into_force": "2024-05-01",
+  "notification_date": "2025-04-01",
+  "commission_reference": "MNE(2025)01723",
+  "nim_celex": "72023R1114LTU_202501723",
+  "nim_id": "202501723",
+  "transposes_celex": [
+    "32023R1114"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/248c433f-cdf6-41c3-bd54-2f1322974115",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
