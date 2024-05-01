@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 8, 15, 19, 191, 192 ir 193 straipsnių pakeitimo įstatymas Nr. XIV-2219",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2023-22365",
+  "official_journal_page": null,
+  "official_journal_date": "2023-11-21",
+  "entry_into_force": "2024-05-01",
+  "notification_date": "2024-07-12",
+  "commission_reference": "MNE(2024)03115",
+  "nim_celex": "72023L2413LTU_202403115",
+  "nim_id": "202403115",
+  "transposes_celex": [
+    "32023L2413"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/375a729e-066f-46c8-97ec-5e9fe3800e90",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
