@@ -11,3 +11,4 @@ Editions are the Register's consolidated editions as Lithuania notified them to 
 | 2022-11-01 | 2022-12-31 | Teisės aktų registras (Seimo kanceliarija) | [18192f04](https://publications.europa.eu/resource/cellar/18192f04-ffca-4f98-8c7b-fc098d0b427f.0001.01/DOC_1) |
 | 2023-04-01 | 2023-04-30 | Įstatymas Nr. XIII-3217 / Įstatymas Nr. XIV-1201 / Įstatymas Nr. XIV-1346 / Įstatymas Nr. XIV-1351 / Įstatymas Nr. XIV-1356 / Įstatymas Nr. XIV-1838 | [44d2c672](https://publications.europa.eu/resource/cellar/44d2c672-fbc2-469a-adbe-1e1f855df1be.0001.01/DOC_1) |
 | 2023-05-01 |  | Įstatymas Nr. XIV-1465 | [01beb483](https://publications.europa.eu/resource/cellar/01beb483-13f3-11ee-806b-01aa75ed71a1.0001.01/DOC_1) |
+| 2024-05-16 | 2024-05-19 | Įstatymas Nr. XIV-2256 / Įstatymas Nr. XIV-2623 | [9a96a28a](https://publications.europa.eu/resource/cellar/9a96a28a-f8da-4608-9848-33bfca7db2d9.0001.01/DOC_1) |
