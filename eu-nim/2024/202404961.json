@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos policijos generalinio komisaro 2024 m. gegužės 17 d. įsakymas Nr. 5-V-520 \"Dėl Lietuvos policijos generalinio komisaro 2015 m. vasario 10 d. įsakymo Nr. 5-V-139 „Dėl Policijos areštinių apsaugos ir priežiūros instrukcijos patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-09068",
+  "official_journal_page": null,
+  "official_journal_date": "2024-05-20",
+  "entry_into_force": "2024-05-21",
+  "notification_date": "2024-11-19",
+  "commission_reference": "MNE(2024)04961",
+  "nim_celex": "72016L0800LTU_202404961",
+  "nim_id": "202404961",
+  "transposes_celex": [
+    "32016L0800"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f87209b7-11a5-495a-9f00-aab6c35fc88b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
