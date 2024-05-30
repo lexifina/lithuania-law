@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2024 m. gegužės 29 d. įsakymas Nr. 1-110 „ Dėl energetikos ministro 2012 m. lapkričio 7 d. įsakymo Nr. 1-220 „Dėl energetikos darbuotojų atestavimo tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-09627",
+  "official_journal_page": null,
+  "official_journal_date": "2024-05-29",
+  "entry_into_force": "2024-05-30",
+  "notification_date": "2025-12-04",
+  "commission_reference": "MNE(2025)06714",
+  "nim_celex": "72023L2413LTU_202506714",
+  "nim_id": "202506714",
+  "transposes_celex": [
+    "32023L2413"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6b5fabe3-2ad2-4711-89a6-26c76ef7a68d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
