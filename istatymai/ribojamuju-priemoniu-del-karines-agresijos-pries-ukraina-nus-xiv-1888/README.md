@@ -10,3 +10,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | --- | --- | --- | --- |
 | 2023-05-03 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/138a0ca8842a04563c3dd30770160ae812d1bf8d/istatymai/TAR.9DA27FA0E03E.md) |
 | 2024-05-03 | 2024-06-02 | Įstatymas Nr. XIV-2581 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/fddd7150c00e53f1dea904fb0661f8c595a7b944/istatymai/TAR.9DA27FA0E03E.md) |
+| 2024-06-03 | 2025-05-02 | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/419539cd2c6e57bf6cf68580658fac3d83b31f49/istatymai/TAR.9DA27FA0E03E.md) |
