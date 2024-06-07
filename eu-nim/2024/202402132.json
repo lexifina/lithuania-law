@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos krašto apsaugos ministro 2024 m. balandžio 17 d. įsakymas Nr.V-334 „Dėl krašto apsaugos ministro 2009 m. gruodžio 29 d. įsakymo Nr. V-1216 „Dėl Bendrojo karinės įrangos sąrašo patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-07150",
+  "official_journal_page": null,
+  "official_journal_date": "2024-04-18",
+  "entry_into_force": "2024-06-07",
+  "notification_date": "2024-06-21",
+  "commission_reference": "MNE(2024)02132",
+  "nim_celex": "72024L0242LTU_202402132",
+  "nim_id": "202402132",
+  "transposes_celex": [
+    "32024L0242"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/62806711-4428-44b1-aeef-da91540e982d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
