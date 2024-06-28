@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Seimo 2024 m. birželio 27 d. nutarimas Nr. XIV-2856 „Dėl Lietuvos Respublikos Seimo 2012 m. birželio 26 d. nutarimo Nr. XI-2133 „Dėl nacionalinės energetinės nepriklausomybės strategijos patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-12051",
+  "official_journal_page": null,
+  "official_journal_date": "2024-06-28",
+  "entry_into_force": "2024-06-28",
+  "notification_date": "2026-06-30",
+  "commission_reference": "MNE(2026)04623",
+  "nim_celex": "72023L1791LTU_202604623",
+  "nim_id": "202604623",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a592530c-6938-42ff-abb3-a5fabb4b9be5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
