@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos savanoriškos veiklos įstatymo Nr. XI-1500 pakeitimo įstatymas Nr. XIV-2301",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2023-24168",
+  "official_journal_page": null,
+  "official_journal_date": "2023-12-14",
+  "entry_into_force": "2024-07-01",
+  "notification_date": "2024-02-12",
+  "commission_reference": "MNE(2024)00762",
+  "nim_celex": "72016L0801LTU_202400762",
+  "nim_id": "202400762",
+  "transposes_celex": [
+    "32016L0801"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/99fcdee7-4fd6-4c40-82f6-0a3bf02f5bde",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
