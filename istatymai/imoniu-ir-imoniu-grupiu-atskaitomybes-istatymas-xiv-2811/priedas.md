@@ -1,0 +1,12 @@
+# Respublikos Prezidentas Gitanas Nausėda
+Lietuvos Respublikos
+įmonių ir įmonių grupių
+atskaitomybės įstatymo
+priedas
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+1. 2002 m. liepos 19 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1606/2002 dėl tarptautinių apskaitos standartų taikymo.
+2. 2023 m. rugpjūčio 13 d. Komisijos reglamentas (EB) 2023/1803, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 1606/2002 priimami tam tikri tarptautiniai apskaitos standartai.
+3. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/34/ES dėl tam tikrų rūšių įmonių metinių finansinių ataskaitų, konsoliduotųjų finansinių ataskaitų ir susijusių pranešimų, kuria iš dalies keičiama Europos Parlamento ir Tarybos direktyva 2006/43/EB ir panaikinamos Tarybos direktyvos 78/660/EEB ir 83/349/EEB, su paskutiniais pakeitimais, padarytais 2021 m. lapkričio 24 d. Europos Parlamento ir Tarybos direktyva (ES) 2021/2101 ir 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2022/2464, kuria iš dalies keičiamas Reglamentas (ES) Nr. 537/2014, Direktyva 2004/109/EB, Direktyva 2006/43/EB ir Direktyva 2013/34/ES dėl įmonių informacijos apie tvarumą teikimo.
+4. 2017 m. gegužės 17 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/828, kuria iš dalies keičiamos Direktyvos 2007/36/EB nuostatos, susijusios su akcininkų ilgalaikio dalyvavimo skatinimu.
+5. 2023 m. spalio 17 d. Komisijos deleguotoji direktyva (ES) 2023/2775, kuria dėl labai mažų, mažųjų, vidutinių ir didžiųjų įmonių ar grupių dydžio kriterijų koregavimo iš dalies keičiama Europos Parlamento ir Tarybos direktyva 2013/34/ES.
+_____________________
