@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2019-11-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/579d99ed132a85e2234a46c31fc03bc4aec6e425/istatymai/TAR.94BEF5D04BB4.md) |
+| 2024-07-01 |  | Įstatymas Nr. XIV-2687 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/be478e233d3d551862960465c1b79596d119c946/istatymai/TAR.94BEF5D04BB4.md) |
