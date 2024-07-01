@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatymas Nr. XIV-2811",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-12134",
+  "official_journal_page": null,
+  "official_journal_date": "2024-06-30",
+  "entry_into_force": "2024-07-01",
+  "notification_date": "2024-11-29",
+  "commission_reference": "MNE(2024)05216",
+  "nim_celex": "72022L2381LTU_202405216",
+  "nim_id": "202405216",
+  "transposes_celex": [
+    "32022L2381"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/82216aae-e2e7-4eb3-892f-948ba44af4b3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
