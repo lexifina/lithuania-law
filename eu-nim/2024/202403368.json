@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ūkinių bendrijų įstatymo Nr. IX-1804 11 ir 12 straipsnių pakeitimo įstatymas Nr. XIV-2824",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-12146",
+  "official_journal_page": null,
+  "official_journal_date": "2024-06-30",
+  "entry_into_force": "2024-07-01",
+  "notification_date": "2024-08-28",
+  "commission_reference": "MNE(2024)03368",
+  "nim_celex": "72022L2464LTU_202403368",
+  "nim_id": "202403368",
+  "transposes_celex": [
+    "32022L2464"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8ce71300-b53e-4fd4-b683-1545ac9b431f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
