@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 5, 21-1, 26, 28, 33, 35, 36, 40, 44, 44-1, 49-5, 50, 53, 57, 57-1, 58, 59, 61, 62, 62-1, 63, 94, 95, 100, 103, 105-2, 128, 133, 137, 138, 139, 140-1, 140-5, 140-25, 140-26, 140-27 straipsnių pakeitimo ir 61-1 straipsnio pripažinimo netekusiu galios įstatymas Nr. XIV-2784",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-11777",
+  "official_journal_page": null,
+  "official_journal_date": "2024-06-27",
+  "entry_into_force": "2024-07-01",
+  "notification_date": "2025-10-23",
+  "commission_reference": "MNE(2025)05511",
+  "nim_celex": "72021L1883LTU_202505511",
+  "nim_id": "202505511",
+  "transposes_celex": [
+    "32021L1883"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/74cda417-4083-478a-baf1-3e806dadd586",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
