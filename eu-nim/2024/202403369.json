@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 18, 20, 21, 24, 25, 30, 31, 32, 33, 34, 37, 37-2, 37-3, 55, 58, 60-1, 65, 74, 76 straipsnių ir priedo pakeitimo įstatymas Nr. XIV-2820",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-12157",
+  "official_journal_page": null,
+  "official_journal_date": "2024-06-30",
+  "entry_into_force": "2024-07-01",
+  "notification_date": "2024-08-28",
+  "commission_reference": "MNE(2024)03369",
+  "nim_celex": "72022L2464LTU_202403369",
+  "nim_id": "202403369",
+  "transposes_celex": [
+    "32022L2464"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/122db335-4dc4-4f80-9133-208d131e46af",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
