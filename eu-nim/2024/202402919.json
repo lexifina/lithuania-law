@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos viršininko 2024 m. birželio 21 d. įsakymas Nr. VA-50 „Dėl informacinių pranešimų, būtinų minimaliam subjektų grupių apmokestinimo lygiui Europos Sąjungoje užtikrinti, pateikimo tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-11391",
+  "official_journal_page": null,
+  "official_journal_date": "2024-06-21",
+  "entry_into_force": "2024-07-01",
+  "notification_date": "2024-07-01",
+  "commission_reference": "MNE(2024)02919",
+  "nim_celex": "72022L2523LTU_202402919",
+  "nim_id": "202402919",
+  "transposes_celex": [
+    "32022L2523"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6ea5f5e9-70b4-4185-8d5f-f6f37e543b8f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
