@@ -51,3 +51,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2023-12-30 | 2023-12-31 | Aktas Nr. XIV-2427 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22uNqeCNUeci%22) |
 | 2024-01-01 | 2024-06-07 | Aktas Nr. XIV-1593 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22DokonckEON%22) |
 | 2024-06-08 | 2024-06-30 | Aktas Nr. XIV-2673 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22WilLbwTXqI%22) |
+| 2024-07-01 | 2024-11-14 | Aktas Nr. XIV-2784 / Teisės aktų registras (Seimo kanceliarija) | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22jrBwPcHTLK%22) |
