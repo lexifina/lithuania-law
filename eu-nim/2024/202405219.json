@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių nusižengimų kodekso 12, 29, 235, 236, 239, 242, 247, 260, 262, 271, 276, 281, 284, 285, 291, 293, 295, 296, 303, 304-2, 309, 356, 440, 505, 589 straipsnių ir priedo pakeitimo, Kodekso papildymo 255-1 straipsniu ir 304 straipsnio pripažinimo netekusiu galios įstatymas Nr. XIV-2786",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-11783",
+  "official_journal_page": null,
+  "official_journal_date": "2024-06-27",
+  "entry_into_force": "2024-07-02",
+  "notification_date": "2024-11-29",
+  "commission_reference": "MNE(2024)05219",
+  "nim_celex": "72022L2381LTU_202405219",
+  "nim_id": "202405219",
+  "transposes_celex": [
+    "32022L2381"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f0c0b7e2-2467-4431-8706-2218a22d57d6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
