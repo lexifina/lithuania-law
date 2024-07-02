@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 1, 2, 37, 47, 51, 57, 72, 73, 78, 79, 90, 91, 114, 116, 117, 118 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 40-1, 53-1, 53-2, 53-3, 95-2, 110-1, 118-1, 122-1, 122-2, 122-3, 122-4, 122-5, 122-6, 122-7 straipsniais įstatymas Nr. XIV-2788",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-11787",
+  "official_journal_page": null,
+  "official_journal_date": "2024-06-27",
+  "entry_into_force": "2024-07-02",
+  "notification_date": "2026-03-03",
+  "commission_reference": "MNE(2025)06050",
+  "nim_celex": "72001L0018LTU_202506050",
+  "nim_id": "202506050",
+  "transposes_celex": [
+    "32001L0018",
+    "32009L0041"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/709b916c-3385-406c-b766-b994b38ec7ca",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
