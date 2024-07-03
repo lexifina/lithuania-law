@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo proceso kodekso 151 ir 152 straipsnių pakeitimo įstatymas Nr. XIV-2801",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-12132",
+  "official_journal_page": null,
+  "official_journal_date": "2024-06-30",
+  "entry_into_force": "2024-07-03",
+  "notification_date": "2025-05-19",
+  "commission_reference": "MNE(2025)02729",
+  "nim_celex": "72024L1226LTU_202502729",
+  "nim_id": "202502729",
+  "transposes_celex": [
+    "32024L1226"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0ecb7d7f-6941-4a60-a1d3-28a15652c5b5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
