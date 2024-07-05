@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2024 m. liepos 3 d. nutarimas Nr. 556 „Dėl Lietuvos Respublikos Vyriausybės 2008 m. rugsėjo 10 d. nutarimo Nr. 911 „Dėl atsakingų institucijų paskyrimo siekiant užtikrinti 2007 m. kovo 14 d. Europos Parlamento ir Tarybos direktyvos 2007/2/EB įgyvendinimą“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-12533",
+  "official_journal_page": null,
+  "official_journal_date": "2024-07-04",
+  "entry_into_force": "2024-07-05",
+  "notification_date": "2025-01-20",
+  "commission_reference": "MNE(2024)03990",
+  "nim_celex": "72007L0002LTU_202403990",
+  "nim_id": "202403990",
+  "transposes_celex": [
+    "32007L0002"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/551716e4-c82b-49ed-adc2-59d048deb610",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
