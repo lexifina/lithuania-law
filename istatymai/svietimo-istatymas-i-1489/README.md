@@ -46,3 +46,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2024-02-01 | 2024-05-31 | Įstatymas Nr. XIV-2462 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22sRYsCiBZBm%22) |
 | 2024-06-01 | 2024-06-30 | Įstatymas Nr. XIV-2555 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22YIPcjYnHem%22) |
 | 2024-07-01 | 2024-07-08 | Įstatymas Nr. XIV-2678 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22uherEwkxfg%22) |
+| 2024-07-09 | 2024-07-24 | Įstatymas Nr. XIV-2846 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22XiBMGTceye%22) |
