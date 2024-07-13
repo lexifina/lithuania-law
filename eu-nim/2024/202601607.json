@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2024 m. liepos 12 d. įsakymas Nr. D1-238 „Dėl Lietuvos Respublikos aplinkos ministro 2019 m. lapkričio 18 d. įsakymo Nr. D1-680 „Dėl Klimato kaitos programos priemonės „Daugiabučių namų vidaus šildymo ir karšto vandens sistemų modernizavimas („Mažoji renovacija“)“ tvarkos aprašo patvirtinimo“ pakeitimo",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-13003",
+  "official_journal_page": null,
+  "official_journal_date": "2024-07-12",
+  "entry_into_force": "2024-07-13",
+  "notification_date": "2026-03-06",
+  "commission_reference": "MNE(2026)01607",
+  "nim_celex": "72023L1791LTU_202601607",
+  "nim_id": "202601607",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c58e979a-b232-48f4-bdc2-a9008ee94306",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
