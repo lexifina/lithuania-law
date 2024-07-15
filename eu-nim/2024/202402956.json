@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos klimato kaitos valdymo įstatymo Nr. XI-329 pakeitimo įstatymas Nr. XIV-2783",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-12129",
+  "official_journal_page": null,
+  "official_journal_date": "2024-06-30",
+  "entry_into_force": "2024-07-15",
+  "notification_date": "2024-07-23",
+  "commission_reference": "MNE(2024)02956",
+  "nim_celex": "72023L0958LTU_202402956",
+  "nim_id": "202402956",
+  "transposes_celex": [
+    "32023L0958",
+    "32023L0959"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/32738b92-4f19-43bb-a2cb-df8f6520b9fb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
