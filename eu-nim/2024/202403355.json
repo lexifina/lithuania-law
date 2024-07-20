@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2024 m. liepos 19 d. įsakymas Nr. A1-485 \"Dėl Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2015 m. kovo 19 d. įsakymo Nr. A1-139 „Dėl Sprendimo dėl užsieniečio darbo atitikties Lietuvos Respublikos darbo rinkos poreikiams priėmimo tvarkos aprašo patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-13296",
+  "official_journal_page": null,
+  "official_journal_date": "2024-07-19",
+  "entry_into_force": "2024-07-20",
+  "notification_date": "2024-07-26",
+  "commission_reference": "MNE(2024)03355",
+  "nim_celex": "72011L0098LTU_202403355",
+  "nim_id": "202403355",
+  "transposes_celex": [
+    "32011L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/95712f3a-54a7-4517-9810-9c928b4d115e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
