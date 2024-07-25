@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos kriptoturto rinkų įstatymas Nr. XIV-2879",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-13487",
+  "official_journal_page": null,
+  "official_journal_date": "2024-07-24",
+  "entry_into_force": "2024-07-25",
+  "notification_date": "2025-04-01",
+  "commission_reference": "MNE(2025)01721",
+  "nim_celex": "72023R1114LTU_202501721",
+  "nim_id": "202501721",
+  "transposes_celex": [
+    "32023R1114"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0962dccd-4943-4ce5-a42e-b020a2480f3e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
