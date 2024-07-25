@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymo Nr. XII-1467 4, 41 ir 41-1 straipsnių pakeitimo įstatymas Nr. XIV-2890",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-13499",
+  "official_journal_page": null,
+  "official_journal_date": "2024-07-24",
+  "entry_into_force": "2024-07-25",
+  "notification_date": "2024-07-25",
+  "commission_reference": "MNE(2024)03337",
+  "nim_celex": "72019L1160LTU_202403337",
+  "nim_id": "202403337",
+  "transposes_celex": [
+    "32019L1160"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5fc34a53-0c4f-4f87-8b49-6b3232dbc303",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
