@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Audito, apskaitos, turto vertinimo ir nemokumo valdymo tarnybos prie Lietuvos Respublikos finansų ministerijos direktoriaus 2024 m. liepos 25 d. įsakymas Nr. V3-15 „Dėl Audito įmonių ir nepriklausomų tvarumo atskaitomybės užtikrinimo paslaugos teikėjų, atliekančių tvarumo atskaitomybės užtikrinimą, darbo organizavimo ir vidaus organizacinės struktūros reikalavimų tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-13662",
+  "official_journal_page": null,
+  "official_journal_date": "2024-07-25",
+  "entry_into_force": "2024-07-26",
+  "notification_date": "2024-08-28",
+  "commission_reference": "MNE(2024)03366",
+  "nim_celex": "72022L2464LTU_202403366",
+  "nim_id": "202403366",
+  "transposes_celex": [
+    "32022L2464"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0b736810-67cd-4a4f-aeea-d2c52d1b24c4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
