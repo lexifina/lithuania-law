@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 2, 19, 22-1 straipsnių, 3 priedo pakeitimo ir įstatymo papildymo 12-1 straipsniu įstatymas Nr. XIV-2896",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-13505",
+  "official_journal_page": null,
+  "official_journal_date": "2024-07-24",
+  "entry_into_force": "2024-08-01",
+  "notification_date": "2024-08-19",
+  "commission_reference": "MNE(2024)03450",
+  "nim_celex": "72021L2167LTU_202403450",
+  "nim_id": "202403450",
+  "transposes_celex": [
+    "32021L2167"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/eb36818b-b29d-40c2-8195-3818f04169ae",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
