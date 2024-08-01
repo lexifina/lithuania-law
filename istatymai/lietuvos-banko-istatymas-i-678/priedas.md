@@ -168,3 +168,4 @@ Kiti Europos asmeninės pensijos produkto teikėjai ir Europos asmeninės pensij
 Su turtu susietų žetonų emitentai, gavę su turtu susietų žetonų emitento licenciją pagal Lietuvos Respublikos kriptoturto rinkų įstatymą
 Metinės pajamos
 0,7 procento (minimali įmokos suma 3 000 Eur)
+40.
