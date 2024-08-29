@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro, Lietuvos Respublikos susisiekimo ministro ir Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2024 m. rugpjūčio 28 d. įsakymas Nr. V-852/3-297/A1-574 \"Dėl Lietuvos Respublikos sveikatos apsaugos ministro, Lietuvos Respublikos susisiekimo ministro ir Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2005 m. rugpjūčio 16 d. įsakymo Nr. V-656/3-358/A1-226 „Dėl Minimalių medicinos pagalbos teikimo laivuose reikalavimų patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-14945",
+  "official_journal_page": null,
+  "official_journal_date": "2024-08-28",
+  "entry_into_force": "2024-08-29",
+  "notification_date": "2024-09-23",
+  "commission_reference": "MNE(2024)04036",
+  "nim_celex": "71992L0029LTU_202404036",
+  "nim_id": "202404036",
+  "transposes_celex": [
+    "31992L0029",
+    "32009L0013",
+    "32017L0159"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2d90d92a-7177-4a1f-be5a-07eee0d12270",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
