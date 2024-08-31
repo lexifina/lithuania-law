@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2024 m. rugpjūčio 28 d. nutarimas Nr. 714   „Dėl Lietuvos Respublikos Vyriausybės 2005 m. balandžio 21 d. nutarimo Nr. 447 „Dėl Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo įgyvendinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-15171",
+  "official_journal_page": null,
+  "official_journal_date": "2024-08-30",
+  "entry_into_force": "2024-08-31",
+  "notification_date": "2025-04-02",
+  "commission_reference": "MNE(2025)01601",
+  "nim_celex": "72022L0362LTU_202501601",
+  "nim_id": "202501601",
+  "transposes_celex": [
+    "32022L0362"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/188e3765-9159-4b98-b933-e72765aa1082",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
