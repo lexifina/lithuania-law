@@ -13,3 +13,4 @@ Editions are the Register's consolidated editions as Lithuania notified them to 
 | 2023-05-01 |  | Įstatymas Nr. XIV-1465 | [01beb483](https://publications.europa.eu/resource/cellar/01beb483-13f3-11ee-806b-01aa75ed71a1.0001.01/DOC_1) |
 | 2024-05-16 | 2024-05-19 | Įstatymas Nr. XIV-2256 / Įstatymas Nr. XIV-2623 | [9a96a28a](https://publications.europa.eu/resource/cellar/9a96a28a-f8da-4608-9848-33bfca7db2d9.0001.01/DOC_1) |
 | 2024-07-01 | 2024-08-31 | Įstatymas Nr. XIV-2825 | [095cd03f](https://publications.europa.eu/resource/cellar/095cd03f-e810-4d84-91f0-6657633590c0.0001.01/DOC_1) |
+| 2024-09-01 | 2024-10-23 | Įstatymas Nr. XIV-2630 / Įstatymas Nr. XIV-2912 | [40096cf7](https://publications.europa.eu/resource/cellar/40096cf7-de44-4571-a9d9-c6fc8105030b.0001.01/DOC_1) |
