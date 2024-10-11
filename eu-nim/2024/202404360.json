@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo Nr. X-1478 29, 31 straipsnių ir 6 priedo pakeitimo įstatymas Nr. XIV-3013",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-17778",
+  "official_journal_page": null,
+  "official_journal_date": "2024-10-10",
+  "entry_into_force": "2024-10-11",
+  "notification_date": "2024-10-17",
+  "commission_reference": "MNE(2024)04360",
+  "nim_celex": "72024L0505LTU_202404360",
+  "nim_id": "202404360",
+  "transposes_celex": [
+    "32024L0505"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/285a7cfa-bdd1-4ded-a5d7-8211a1914bde",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
