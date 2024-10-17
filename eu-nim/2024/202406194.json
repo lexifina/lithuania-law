@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2024 m. spalio 16 d. įsakymas Nr. D1-339 „Dėl Valstybės paramos daugiabučiams namams atnaujinti (modernizuoti) teikimo ir daugiabučių namų atnaujinimo (modernizavimo) projektų įgyvendinimo priežiūros taisyklių patvirtinimo ir daugiabučio namo atnaujinimo (modernizavimo) projektui įgyvendinti skirto kaupiamojo įnašo ir (ar) kitų įmokų didžiausios mėnesinės įmokos nustatymo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-18004",
+  "official_journal_page": null,
+  "official_journal_date": "2024-10-16",
+  "entry_into_force": "2024-10-17",
+  "notification_date": "2024-12-31",
+  "commission_reference": "MNE(2024)06194",
+  "nim_celex": "72024L1275LTU_202406194",
+  "nim_id": "202406194",
+  "transposes_celex": [
+    "32024L1275"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c6414016-4bc3-429e-a718-16de30ced9ae",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
