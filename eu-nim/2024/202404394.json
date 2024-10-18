@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos elektroninės atpažinties ir elektroninių operacijų patikimumo užtikrinimo paslaugų įstatymo Nr. XIII-1120 4 straipsnio pakeitimo įstatymas Nr. XIV-2907",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-13542",
+  "official_journal_page": null,
+  "official_journal_date": "2024-07-24",
+  "entry_into_force": "2024-10-18",
+  "notification_date": "2024-10-17",
+  "commission_reference": "MNE(2024)04394",
+  "nim_celex": "72022L2555LTU_202404394",
+  "nim_id": "202404394",
+  "transposes_celex": [
+    "32022L2555"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8d20ce6f-4a1f-4da0-8c71-57ede25fa9dc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
