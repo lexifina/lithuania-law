@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 3, 8, 23, 36, 44, 45, 51, 74, 82, 98 straipsnių ir priedo pakeitimo įstatymas Nr. XIV-2905",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-13540",
+  "official_journal_page": null,
+  "official_journal_date": "2024-07-24",
+  "entry_into_force": "2024-10-18",
+  "notification_date": "2024-10-17",
+  "commission_reference": "MNE(2024)04395",
+  "nim_celex": "72022L2555LTU_202404395",
+  "nim_id": "202404395",
+  "transposes_celex": [
+    "32022L2555"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/82b9f4cb-7eda-4a37-b79f-d2fcdbcbad74",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
