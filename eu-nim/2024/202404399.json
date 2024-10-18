@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių nusižengimų kodekso 479, 480, 589 straipsnių ir priedo pakeitimo įstatymas Nr. XIV-2904",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-13539",
+  "official_journal_page": null,
+  "official_journal_date": "2024-07-24",
+  "entry_into_force": "2024-10-18",
+  "notification_date": "2024-10-17",
+  "commission_reference": "MNE(2024)04399",
+  "nim_celex": "72022L2555LTU_202404399",
+  "nim_id": "202404399",
+  "transposes_celex": [
+    "32022L2555"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/45a611b5-a040-4eed-9f48-82b73e33bc3b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
