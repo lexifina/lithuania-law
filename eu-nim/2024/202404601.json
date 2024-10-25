@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių nusižengimų kodekso 96 straipsnio ir priedo pakeitimo įstatymas Nr. XIV-3035",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-18432",
+  "official_journal_page": null,
+  "official_journal_date": "2024-10-24",
+  "entry_into_force": "2024-10-25",
+  "notification_date": "2024-11-05",
+  "commission_reference": "MNE(2024)04601",
+  "nim_celex": "72022L2041LTU_202404601",
+  "nim_id": "202404601",
+  "transposes_celex": [
+    "32022L2041"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/914f4b72-5439-4630-86cb-87e47d8b952b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
