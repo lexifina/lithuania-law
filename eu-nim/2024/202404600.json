@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos darbo kodekso 14, 30, 35, 36, 41, 42, 56, 57, 59, 62, 72-1, 112, 119, 134, 140, 141, 144, 171, 179, 181, 182, 185, 193, 194, 222, 223, 225, 226, 228, 237, 240, 241 straipsnių ir priedo pakeitimo įstatymas Nr. XIV-3034",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-18430",
+  "official_journal_page": null,
+  "official_journal_date": "2024-10-24",
+  "entry_into_force": "2024-10-25",
+  "notification_date": "2024-11-05",
+  "commission_reference": "MNE(2024)04600",
+  "nim_celex": "72022L2041LTU_202404600",
+  "nim_id": "202404600",
+  "transposes_celex": [
+    "32022L2041"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e4aff1c1-85db-4e8d-a537-244dd06c8886",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
