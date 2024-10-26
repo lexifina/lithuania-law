@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2024 m. spalio 25 d. įsakymas Nr. A1-709 „Dėl socialinio dialogo ir kolektyvinių derybų skatinimo 2024–2028 metų veiksmų plano patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-18591",
+  "official_journal_page": null,
+  "official_journal_date": "2024-10-25",
+  "entry_into_force": "2024-10-26",
+  "notification_date": "2024-11-11",
+  "commission_reference": "MNE(2024)04788",
+  "nim_celex": "72022L2041LTU_202404788",
+  "nim_id": "202404788",
+  "transposes_celex": [
+    "32022L2041",
+    "32023L0970"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6a47bfb5-1048-4015-bb09-bd69efab5e25",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
