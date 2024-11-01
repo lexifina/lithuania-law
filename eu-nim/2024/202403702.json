@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 1, 2, 4, 10, 13, 15, 18, 21, 23, 28, 33, 44, 46 straipsnių, V skyriaus pavadinimo pakeitimo ir 38 straipsnio pripažinimo netekusiu galios įstatymas Nr. XIV-2703",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "11223",
+  "official_journal_page": null,
+  "official_journal_date": "2024-06-20",
+  "entry_into_force": "2024-11-01",
+  "notification_date": "2025-01-09",
+  "commission_reference": "MNE(2024)03702",
+  "nim_celex": "71992L0057LTU_202403702",
+  "nim_id": "202403702",
+  "transposes_celex": [
+    "31992L0057"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2be17ed0-9294-46a2-a11b-d5eace3bfff7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
