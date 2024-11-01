@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 16, 31, 39, 69, 73, 75 straipsnių pakeitimo ir Įstatymo papildymo 57-1 straipsniu įstatymas Nr. XIV-2839",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-12634",
+  "official_journal_page": null,
+  "official_journal_date": "2024-07-05",
+  "entry_into_force": "2024-11-01",
+  "notification_date": "2025-05-27",
+  "commission_reference": "MNE(2025)02945",
+  "nim_celex": "72023L2413LTU_202502945",
+  "nim_id": "202502945",
+  "transposes_celex": [
+    "32023L2413"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0e539005-9156-4914-a6ce-9dc7f8e70bdc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
