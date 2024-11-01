@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo proceso kodekso 53, 217, 307, 338, 357, 389, 392, 405 straipsnių pakeitimo ir Kodekso papildymo 357-1 straipsniu įstatymas Nr. XIV-2574",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-08215",
+  "official_journal_page": null,
+  "official_journal_date": "2024-05-02",
+  "entry_into_force": "2024-11-01",
+  "notification_date": "2025-02-05",
+  "commission_reference": "MNE(2025)00862",
+  "nim_celex": "72016L0343LTU_202500862",
+  "nim_id": "202500862",
+  "transposes_celex": [
+    "32016L0343"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6e66339b-cd64-446b-8329-1c5509f4bbfb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
