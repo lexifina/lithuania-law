@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos bankų įstatymo Nr. IX-2085 16, 52, 58 ir 67 straipsnių pakeitimo įstatymas Nr. XIV-2712",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-11235",
+  "official_journal_page": null,
+  "official_journal_date": "2024-06-20",
+  "entry_into_force": "2024-11-01",
+  "notification_date": "2026-05-17",
+  "commission_reference": "MNE(2026)02371",
+  "nim_celex": "72024L1619LTU_202602371",
+  "nim_id": "202602371",
+  "transposes_celex": [
+    "32024L1619"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c9287279-54e2-467d-a3e7-d715cd52c162",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
