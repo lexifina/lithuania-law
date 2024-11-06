@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2024 m. lapkričio 5 d. įsakymas Nr. A1-737 „Dėl Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2017 m. birželio 29 d. įsakymo Nr. A1-334 „Dėl Kolektyvinių sutarčių registravimo ir viešo skelbimo tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-19188",
+  "official_journal_page": null,
+  "official_journal_date": "2024-11-05",
+  "entry_into_force": "2024-11-06",
+  "notification_date": "2024-11-11",
+  "commission_reference": "MNE(2024)04787",
+  "nim_celex": "72022L2041LTU_202404787",
+  "nim_id": "202404787",
+  "transposes_celex": [
+    "32022L2041"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/452e3187-d46e-41ad-ae60-97d072e2f6a7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
