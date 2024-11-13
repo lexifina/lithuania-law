@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo kodekso 9-1 straipsnio pakeitimo įstatymas Nr. XIV-3063",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-19689",
+  "official_journal_page": null,
+  "official_journal_date": "2024-11-12",
+  "entry_into_force": "2024-11-13",
+  "notification_date": "2024-11-15",
+  "commission_reference": "MNE(2024)04945",
+  "nim_celex": "72002F0584LTU_202404945",
+  "nim_id": "202404945",
+  "transposes_celex": [
+    "32002F0584"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/281ed3b2-f76d-4266-8ea1-277d7e5649d1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
