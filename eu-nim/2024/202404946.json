@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos įstatymo „Dėl Europos Sąjungos valstybių narių sprendimų baudžiamosiose bylose tarpusavio pripažinimo ir vykdymo“ Nr. XII-1322 3 ir 17 straipsnių, priedo pakeitimo įstatymas Nr. XIV-3064",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-19690",
+  "official_journal_page": null,
+  "official_journal_date": "2024-11-12",
+  "entry_into_force": "2024-11-13",
+  "notification_date": "2024-11-15",
+  "commission_reference": "MNE(2024)04946",
+  "nim_celex": "72008F0909LTU_202404946",
+  "nim_id": "202404946",
+  "transposes_celex": [
+    "32008F0909",
+    "32022L0228"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2c0a9248-eafc-4e96-8051-e29255ab4277",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
