@@ -11,6 +11,6 @@ priedas
 4. 2008 m. lapkričio 27 d. Tarybos pamatinis sprendimas 2008/947/TVR dėl teismo sprendimų ir sprendimų dėl lygtinio nuteisimo tarpusavio pripažinimo principo taikymo siekiant užtikrinti lygtinio atleidimo priemonių ir alternatyvių sankcijų priežiūrą su pakeitimais, padarytais 2009 m. vasario 26 d. Tarybos pamatiniu sprendimu 2009/299/TVR.
 5. 2009 m. spalio 23 d. Tarybos pamatinis sprendimas 2009/829/TVR dėl tarpusavio pripažinimo principo taikymo sprendimams dėl kardomųjų priemonių Europos Sąjungos valstybėse narėse kaip alternatyvos kardomajam kalinimui.
 6. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/99/ES dėl Europos apsaugos orderio.
-7. 2014 m. balandžio 3 d. Europos Parlamento ir Tarybos direktyva 2014/41/ES dėl Europos tyrimo orderio baudžiamosiose bylose.
+7. 2014 m. balandžio 3 d. Europos Parlamento ir Tarybos direktyva 2014/41/ES dėl Europos tyrimo orderio baudžiamosiose bylose su paskutiniais pakeitimais, padarytais 2022 m. vasario 16 d. Europos Parlamento ir Tarybos direktyva (ES) 2022/228.
 8. 2017 m. spalio 12 d. Europos Tarybos reglamentas (ES) 2017/1939, kuriuo įgyvendinamas tvirtesnis bendradarbiavimas Europos prokuratūros įsteigimo srityje.
 9. 2018 m. lapkričio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/1805 dėl nutarimų įšaldyti ir nutarimų konfiskuoti turtą tarpusavio pripažinimo.
