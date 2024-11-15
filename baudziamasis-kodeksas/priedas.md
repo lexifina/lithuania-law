@@ -40,3 +40,4 @@ priedas
 36. 2017 m. liepos 5 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/1371 dėl kovos su Sąjungos finansiniams interesams kenkiančiu sukčiavimu baudžiamosios teisės priemonėmis (OL 2017 L 198, p. 29).
 37. 2018 m. spalio 23 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/1673 dėl kovos su pinigų plovimu baudžiamosios teisės priemonėmis (OL 2018 L 284, p. 22).
 38. 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/713 dėl kovos su sukčiavimu negrynosiomis mokėjimo priemonėmis ir jų klastojimu, kuria pakeičiamas Tarybos pamatinis sprendimas 2001/413/TVR (OL 2019 L 123, p. 18).
+39. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2022/2557 dėl ypatingos svarbos subjektų atsparumo, kuria panaikinama Tarybos direktyva 2008/114/EB.
