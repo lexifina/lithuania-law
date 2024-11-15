@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos baudžiamojo kodekso 285 straipsnio ir priedo pakeitimo įstatymas Nr. XIV-3050",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-19821",
+  "official_journal_page": null,
+  "official_journal_date": "2024-11-14",
+  "entry_into_force": "2024-11-15",
+  "notification_date": "2024-11-22",
+  "commission_reference": "MNE(2024)05010",
+  "nim_celex": "72022L2557LTU_202405010",
+  "nim_id": "202405010",
+  "transposes_celex": [
+    "32022L2557"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/83c6826c-0c05-4759-bb14-701825986a55",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
