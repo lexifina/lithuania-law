@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių nusižengimų kodekso 223 straipsnio pakeitimo įstatymas Nr. XIV-3147",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-20390",
+  "official_journal_page": null,
+  "official_journal_date": "2024-11-22",
+  "entry_into_force": "2024-11-23",
+  "notification_date": "2025-08-28",
+  "commission_reference": "MNE(2025)04600",
+  "nim_celex": "72021L2101LTU_202504600",
+  "nim_id": "202504600",
+  "transposes_celex": [
+    "32021L2101"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c654036a-35f6-4b18-8d91-1bb34d10e9a6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
