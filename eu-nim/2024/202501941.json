@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro 2024 m. lapkričio 22 d. įsakymas Nr. 1V-687 „Dėl Europos Sąjungos laikinojo kelionės dokumento blanko ir Europos Sąjungos laikinojo kelionės dokumento įklijos blanko privalomųjų formų patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-20341",
+  "official_journal_page": null,
+  "official_journal_date": "2024-11-22",
+  "entry_into_force": "2024-11-23",
+  "notification_date": "2025-04-09",
+  "commission_reference": "MNE(2025)01941",
+  "nim_celex": "72019L0997LTU_202501941",
+  "nim_id": "202501941",
+  "transposes_celex": [
+    "32019L0997"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/be405bfe-16ac-11f0-b1a3-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
