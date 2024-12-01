@@ -2,7 +2,7 @@
 Lietuvos Respublikos
 koncesijų įstatymo
 5 priedas
-LIETUVOS RESPUBLIKOS KONCESIJŲ ĮSTATYMO 14 STRAIPSNIO 5 DALYJE NURODYTŲ TARPTAUTINIŲ SOCIALINIŲ IR APLINKOS APSAUGOS KONVENCIJŲ SĄRAŠAS
+LIETUVOS RESPUBLIKOS KONCESIJŲ ĮSTATYMO 14 STRAIPSNIO 7 DALYJE NURODYTŲ TARPTAUTINIŲ SOCIALINIŲ IR APLINKOS APSAUGOS KONVENCIJŲ SĄRAŠAS
 1. Tarptautinės darbo organizacijos 1930 m. birželio 10 d. konvencija Nr. 29 dėl priverstinio ar privalomojo darbo.
 2. Tarptautinės darbo organizacijos 1948 m. birželio 17 d. konvencija Nr. 87 dėl asociacijų laisvės ir teisės jungtis į organizacijas gynimo.
 3. Tarptautinės darbo organizacijos 1949 m. liepos 1 d. konvencija Nr. 98 dėl teisės jungtis į organizacijas ir vesti kolektyvines derybas principų taikymo.
