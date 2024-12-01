@@ -10,3 +10,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | --- | --- | --- | --- |
 | 2024-07-01 | 2024-07-02 | Įstatymas Nr. X-1810 / Įstatymas Nr. XI-1480 / Įstatymas Nr. XII-2113 / Įstatymas Nr. XIV-2138 / Įstatymas Nr. XIV-2652 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/a56b588c0c1e868b8a76baff8c5d795fb68e48ad/istatymai/TAR.2E7C18F61454.md) |
 | 2024-07-03 | 2024-11-30 | Įstatymas Nr. XIV-2802 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/6be8a2f22495a2baad1c23a4cb770c85c04fa938/istatymai/TAR.2E7C18F61454.md) |
+| 2024-12-01 | 2024-12-31 | Įstatymas Nr. XIV-2652 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/4ee95497806b622cd981b58526c74a64f35259e5/istatymai/TAR.2E7C18F61454.md) |
