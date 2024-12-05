@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2024 m. lapkričio 28 d. įsakymas Nr Nr. 3-420 „Dėl Lietuvos Respublikos susisiekimo ministro 2005 m. gegužės 10 d. įsakymo Nr. 3-197 „Dėl Specialiųjų stovumo reikalavimų ro-ro keleiviniams laivams taikymo taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-20725",
+  "official_journal_page": null,
+  "official_journal_date": "2024-11-28",
+  "entry_into_force": "2024-12-05",
+  "notification_date": "2024-12-05",
+  "commission_reference": "MNE(2024)05391",
+  "nim_celex": "72023L0946LTU_202405391",
+  "nim_id": "202405391",
+  "transposes_celex": [
+    "32023L0946"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c66e5f09-177f-4510-a486-9b92ce4c04cd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
