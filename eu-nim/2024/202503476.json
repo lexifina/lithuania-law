@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2024 m. lapkričio 27 d. nutarimas Nr. 1025 „Dėl Lietuvos Respublikos Vyriausybės 2009 m. birželio 17 d. nutarimo Nr. 633 „Dėl Lietuvos Respublikos teisėsaugos institucijų keitimosi informacija su kitų Europos Sąjungos valstybių narių teisėsaugos institucijomis taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-21026",
+  "official_journal_page": null,
+  "official_journal_date": "2024-11-29",
+  "entry_into_force": "2024-12-12",
+  "notification_date": "2025-06-18",
+  "commission_reference": "MNE(2025)03476",
+  "nim_celex": "72023L2123LTU_202503476",
+  "nim_id": "202503476",
+  "transposes_celex": [
+    "32023L2123"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/236d9cda-0fef-42b9-b35e-254f14b4782c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
