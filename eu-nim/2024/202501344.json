@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2024 m. gruodžio 12 d. įsakymas Nr. D1-463 \"Dėl Lietuvos Respublikos aplinkos ministro 2015 m. vasario 26 d. įsakymo Nr. D1-168 „Dėl Veiklos vykdytojų, dalyvaujančių Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemoje, ir jūrų transporto išmetamo šiltnamio efektą sukeliančių dujų kiekio stebėsenos, apskaitos, ataskaitų teikimo ir tikrinimo tvarkos aprašo patvirtinimo“ pakeitimo",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-22069",
+  "official_journal_page": null,
+  "official_journal_date": "2024-12-12",
+  "entry_into_force": "2024-12-13",
+  "notification_date": "2025-03-06",
+  "commission_reference": "MNE(2025)01344",
+  "nim_celex": "72023L0959LTU_202501344",
+  "nim_id": "202501344",
+  "transposes_celex": [
+    "32023L0959"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/81c64c4e-a5a7-4b85-be1c-e7a8399895a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
