@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos maisto įstatymo Nr. VIII-1608 6 straipsnio pakeitimo įstatymas Nr. XIV-3112",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-20360",
+  "official_journal_page": null,
+  "official_journal_date": "2024-11-22",
+  "entry_into_force": "2024-12-13",
+  "notification_date": "2024-12-10",
+  "commission_reference": "MNE(2024)05580",
+  "nim_celex": "72023R0988LTU_202405580",
+  "nim_id": "202405580",
+  "transposes_celex": [
+    "32023R0988"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/932853a9-4602-4815-ba85-73d7e0fb8cb5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
