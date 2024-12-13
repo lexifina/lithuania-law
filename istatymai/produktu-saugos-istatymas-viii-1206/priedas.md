@@ -2,5 +2,6 @@
 Lietuvos Respublikos
 produktų saugos įstatymo
 priedas
-ĮGYVENDINAMAS EUROPOS SĄJUNGOS TEISĖS AKTAS
-2001 m. gruodžio 3 d. Europos Parlamento ir Tarybos direktyva Nr. 2001/95/EB dėl bendros gaminių saugos (OL 2004 m. specialusis leidimas, 15 skyrius, 6 tomas, p. 447) su paskutiniais pakeitimais, padarytais 2008 m. liepos 9 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 765/2008 (OL 2008 L 218, p. 30).
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+2023 m. gegužės 10 d. Europos Parlamento ir Tarybos reglamentas (ES) 2023/988 dėl bendros gaminių saugos, kuriuo iš dalies keičiami Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1025/2012 bei Europos Parlamento ir Tarybos direktyva (ES) 2020/1828 ir panaikinamos Europos Parlamento ir Tarybos direktyva 2001/95/EB bei Tarybos direktyva 87/357/EEB.
+_________________
