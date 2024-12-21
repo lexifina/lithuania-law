@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vertybinių popierių įstatymo Nr. X-1023 2, 36, 37, 40, 41 straipsnių ir priedo pakeitimo įstatymas Nr. XIV-3078",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-19833",
+  "official_journal_page": null,
+  "official_journal_date": "2024-11-14",
+  "entry_into_force": "2024-12-21",
+  "notification_date": "2026-03-10",
+  "commission_reference": "MNE(2026)01581",
+  "nim_celex": "72023L1791LTU_202601581",
+  "nim_id": "202601581",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c614fe8e-47e5-402e-8a8f-58bd1421d835",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
