@@ -8,4 +8,5 @@ priedas
 3. 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentas (ES) 2015/751 dėl tarpbankinių mokesčių už kortele grindžiamas mokėjimo operacijas.
 4. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2366 dėl mokėjimo paslaugų vidaus rinkoje, kuria iš dalies keičiamos direktyvos 2002/65/EB, 2009/110/EB ir 2013/36/ES bei Reglamentas (ES) Nr. 1093/2010 ir panaikinama Direktyva 2007/64/EB.
 5. 2021 m. liepos 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2021/1230 dėl tarptautinių mokėjimų Sąjungoje (kodifikuota redakcija).
+6. 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamentas (ES) 2023/1113 dėl informacijos, teikiamos pervedant lėšas ir tam tikrą kriptoturtą, kuriuo iš dalies keičiama Direktyva (ES) 2015/849.
 ___________________
