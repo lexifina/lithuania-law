@@ -1,7 +1,4 @@
-# Kredito administratoriai
--
-3 000 Eur
-Lietuvos Respublikos
+# Lietuvos Respublikos
 Lietuvos banko įstatymo
 2 priedas
 FINANSŲ RINKOS DALYVIAI, MOKANTYS ĮMOKAS FINANSŲ SEKTORIAUS SUBJEKTŲ PERTVARKYMO INSTITUCIJOS IŠLAIDOMS PADENGTI, ĮMOKŲ BAZĖ IR MAKSIMALŪS ĮMOKŲ DYDŽIAI

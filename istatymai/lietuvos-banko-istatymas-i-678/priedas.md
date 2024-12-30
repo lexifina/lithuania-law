@@ -169,3 +169,14 @@ Su turtu susietų žetonų emitentai, gavę su turtu susietų žetonų emitento 
 Metinės pajamos
 0,7 procento (minimali įmokos suma 3 000 Eur)
 40.
+Kredito administratoriai
+-
+3 000 Eur
+41.
+Asmenys, viešai siūlantys ir prašantys įtraukti į prekybą kriptoturtą, kuris nėra su turtu susieti žetonai arba elektroninių pinigų žetonai
+-
+3 000 Eur
+42.
+Kriptoturto paslaugų teikėjai, gavę kriptoturto paslaugų teikėjo licenciją pagal Kriptoturto rinkų įstatymą
+Metinės pajamos
+0,7 procento (minimali įmokos suma 3 000 Eur)
