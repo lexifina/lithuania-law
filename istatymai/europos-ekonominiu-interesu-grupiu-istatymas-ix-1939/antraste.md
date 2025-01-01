@@ -1,5 +1,3 @@
-LIETUVOS RESPUBLIKOS
 EUROPOS EKONOMINIŲ INTERESŲ GRUPIŲ
-Į S T A T Y M A S
-2003 m. gruodžio 22 d. Nr. IX-1939
-Vilnius
+ĮSTATYMAS
+2003 m. gruodžio 22 d. Nr. IX-1939 Vilnius
