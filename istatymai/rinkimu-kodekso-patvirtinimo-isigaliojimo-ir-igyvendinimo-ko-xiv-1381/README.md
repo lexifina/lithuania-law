@@ -14,3 +14,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2024-01-01 | 2024-02-16 | Įstatymas Nr. XIV-2216 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/8f98dc91d503819c320ebd4b51de9c1804a734c6/konstituciniai-istatymai/TAR.418F26F0082B.md) |
 | 2024-02-17 | 2024-05-13 | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/25d87a6b106ab108ba6cb0fd9d96d37d65d2ef40/konstituciniai-istatymai/TAR.418F26F0082B.md) |
 | 2024-05-14 | 2024-12-31 | Įstatymas Nr. XIV-2588 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/e69ad75018b7a1abe9d5c398e8a04f9661beb62d/konstituciniai-istatymai/TAR.418F26F0082B.md) |
+| 2025-01-01 |  | Įstatymas Nr. XIV-2185 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/3f38b008cafee9310e13ed549a05ebed6f043e61/konstituciniai-istatymai/TAR.418F26F0082B.md) |
