@@ -1,35 +1,9 @@
-# Stiklinė pakuotė
-225
-279
-395
-Plastikinė pakuotė
-618
-618
-875
-PET (polietileno tereftalatas) pakuotė
-618
-618
-875
-Kombinuota pakuotė
-900
-900
-1 200
-Metalinė (įskaitant aliumininę) pakuotė
-186
-186
-263
-Popierinė ir kartoninė pakuotė
-125
-133
-188
-Medinė pakuotė
-159
-189
-225
-Kita pakuotė
+# Kita pakuotė
+299
 299
 299
 423
+_________________
 Lietuvos Respublikos
 mokesčio už aplinkos teršimą įstatymo
 5 priedas
