@@ -27,13 +27,13 @@ B
 5.
 Specialistas
 A
-0,67
+0,7
 B
-0,62
+0,67
 6.
 Kvalifikuotas darbuotojas
 C
-0,57
+0,64
 ____________________
 Lietuvos Respublikos
 biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo
