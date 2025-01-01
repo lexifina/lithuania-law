@@ -1,5 +1,3 @@
-LIETUVOS RESPUBLIKOS
 EUROPOS BENDROVIŲ
-Į S T A T Y M A S
-2004 m. balandžio 29 d. Nr. IX-2199
-Vilnius
+ĮSTATYMAS
+2004 m. balandžio 29 d. Nr. IX-2199 Vilnius
