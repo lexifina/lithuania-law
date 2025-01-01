@@ -1,5 +1,3 @@
-LIETUVOS RESPUBLIKOS
 EUROPOS KOOPERATINIŲ BENDROVIŲ
-Į S T A T Y M A S
-2006 m. birželio 15 d. Nr. X-696
-Vilnius
+ĮSTATYMAS
+2006 m. birželio 15 d. Nr. X-696 Vilnius
