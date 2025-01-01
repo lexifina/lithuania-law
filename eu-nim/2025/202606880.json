@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro ir Lietuvos Respublikos vidaus reikalų ministro 2024 m. gruodžio 27 d. įsakymas Nr. A1-935/1V-783 „Dėl Priėmimo sąlygų, kurias sulaikytiems užsieniečiams užtikrina Priėmimo ir integracijos agentūra, tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-23352",
+  "official_journal_page": null,
+  "official_journal_date": "2024-12-27",
+  "entry_into_force": "2025-01-01",
+  "notification_date": "2026-09-02",
+  "commission_reference": "MNE(2026)06880",
+  "nim_celex": "72024L1346LTU_202606880",
+  "nim_id": "202606880",
+  "transposes_celex": [
+    "32024L1346"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3e086665-1766-49a8-8ff6-f9070875f9ce",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
