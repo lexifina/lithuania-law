@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2023-05-16 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/32ea2f04218815ff667f2afc897782db4fdb4f36/istatymai/TAR.E463DC90F326.md) |
+| 2025-01-01 |  | Įstatymas Nr. XIV-2761 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/a92be9a1a76bd1fbdc1887ecb29152fd5509bdb1/istatymai/TAR.E463DC90F326.md) |
