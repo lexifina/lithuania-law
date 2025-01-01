@@ -34,12 +34,12 @@ Respublikos Prezidento atstovas spaudai, Seimo Pirmininko atstovas spaudai, Mini
 7.
 vyriausiasis specialistas, specialiojo atašė pavaduotojas, prokuroro padėjėjas, teisėjo padėjėjas, teismo konsultantas, padėjėjas (Seimo kanceliarijoje)
 savivaldybės tarybos posėdžių sekretorius, savivaldybės mero patarėjas, Respublikos Prezidento referentas, Seimo Pirmininko padėjėjas, Ministro Pirmininko padėjėjas, Seimo frakcijos referentas
-0,66
+0,7
 8.
 vyresnysis specialistas
 Seimo nario patarėjas, Seimo nario padėjėjas, ministro padėjėjas, savivaldybės mero padėjėjas
-0,60
+0,67
 9.
 specialistas, teismo administracijos sekretorius, teismo posėdžių sekretorius
-0,57
+0,64
 Pastaba. Jeigu savivaldybės teritorijoje yra kurortinė teritorija, vicemerui šio įstatymo 1 priedo 3 punkte nustatytas minimalus pareiginės algos koeficientas didinamas 4 procentais, o jeigu savivaldybės teritorijoje yra kurortas, – 5 procentais.
