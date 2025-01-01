@@ -107,6 +107,8 @@ Lietuvos radijo ir televizijos komisijos narys
 Lietuvos mokslo tarybos pirmininkas
 2.34.
 Lietuvos kultūros tarybos pirmininkas
+2.341.
+Lietuvos gyventojų genocido ir rezistencijos tyrimo centro generalinis direktorius
 2.35.
 Lietuvos Respublikos specialiųjų tyrimų tarnybos direktorius, direktoriaus pavaduotojas
 2.36.
