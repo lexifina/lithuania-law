@@ -10,3 +10,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | --- | --- | --- | --- |
 | 2006-08-18 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/f120dba615368d9132f67c8f780ad2e8dc0faeb2/istatymai/TAR.8C419218A5C0.md) |
 | 2010-10-01 | 2024-12-31 | Įstatymas Nr. XI-566 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/aba1da50dc973392c1ced9b77ff7a4a0af3b9e13/istatymai/TAR.8C419218A5C0.md) |
+| 2025-01-01 |  | Įstatymas Nr. XIV-3010 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/5974c48aecaaa62a7155a12fccaf08f802734610/istatymai/TAR.8C419218A5C0.md) |
