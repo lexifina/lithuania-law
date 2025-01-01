@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos 2024 m. gruodžio 19 d. nutarimas Nr. TN-850 \"Dėl Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2005 m. gruodžio 23 d. įsakymo Nr. 1V-1160 „Dėl Elektroninių ryšių paslaugų teikimo taisyklių patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Valstybės žinios",
+  "official_journal_reference": "2024-22806",
+  "official_journal_page": null,
+  "official_journal_date": "2024-12-20",
+  "entry_into_force": "2025-01-01",
+  "notification_date": "2025-09-30",
+  "commission_reference": "MNE(2025)00105",
+  "nim_celex": "72018L1972LTU_202500105",
+  "nim_id": "202500105",
+  "transposes_celex": [
+    "32018L1972"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1d023cbc-10f3-4284-bd16-ff410a660824",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
