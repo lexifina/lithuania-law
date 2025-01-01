@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2004-05-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/e523c21f9a3a20dff82dd1ee4cdac558593d3cd8/istatymai/TAR.070CF2437939.md) |
+| 2025-01-01 |  | Įstatymas Nr. XIV-3009 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/0e511f5bf19a60b721024050f048eada4d7030bb/istatymai/TAR.070CF2437939.md) |
