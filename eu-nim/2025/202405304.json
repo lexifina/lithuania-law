@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos pašto įstatymo Nr. VIII-1141 pakeitimo įstatymas Nr. XIV-3077",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-20021",
+  "official_journal_page": null,
+  "official_journal_date": "2024-11-18",
+  "entry_into_force": "2025-01-01",
+  "notification_date": "2024-12-04",
+  "commission_reference": "MNE(2024)05304",
+  "nim_celex": "71997L0067LTU_202405304",
+  "nim_id": "202405304",
+  "transposes_celex": [
+    "31997L0067",
+    "32024L2853"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c8808278-879f-4ed5-b768-3d56a78da079",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
