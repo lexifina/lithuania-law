@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2024 m. gruodžio 27 d. įsakymas Nr. A1-939 \"Dėl Valstybės garantuojamos teisinės pagalbos teikimo užsieniečiams tvarkos aprašo patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-23364",
+  "official_journal_page": null,
+  "official_journal_date": "2024-12-27",
+  "entry_into_force": "2025-01-01",
+  "notification_date": "2025-01-15",
+  "commission_reference": "MNE(2025)00293",
+  "nim_celex": "72013L0032LTU_202500293",
+  "nim_id": "202500293",
+  "transposes_celex": [
+    "32013L0032",
+    "32013L0033"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a303aa4f-e505-472e-a4da-db5cf4c82222",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
