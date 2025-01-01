@@ -1,9 +1,9 @@
 # Jaunesnysis eilinis, jaunesnysis jūreivis
-0,77
-0,77
-0,77
-0,77
-0,77
+0,81
+0,81
+0,81
+0,81
+0,81
 _______________________
 Lietuvos Respublikos
 krašto apsaugos sistemos organizavimo
