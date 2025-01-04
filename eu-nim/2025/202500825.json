@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2025 m. sausio 3 d. įsakymas Nr. A1-2 „Dėl Lietuvos Respublikos įstatymo „Dėl užsieniečių tesinės padėties“ įgyvendinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-00073",
+  "official_journal_page": null,
+  "official_journal_date": "2025-01-03",
+  "entry_into_force": "2025-01-04",
+  "notification_date": "2025-10-24",
+  "commission_reference": "MNE(2025)00825",
+  "nim_celex": "72013L0033LTU_202500825",
+  "nim_id": "202500825",
+  "transposes_celex": [
+    "32013L0033"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5ab367ae-52f4-422f-98b3-e8a18b8f1223",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
