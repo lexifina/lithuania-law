@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos finansų ministro 2024 m. gruodžio 20 d. įsakymas Nr. 1K-412 „Dėl Oficialiosios statistikos 2025 metų programos I dalies patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-00189",
+  "official_journal_page": null,
+  "official_journal_date": "2025-01-08",
+  "entry_into_force": "2025-01-09",
+  "notification_date": "2025-12-31",
+  "commission_reference": "MNE(2025)07477",
+  "nim_celex": "72024L1265LTU_202507477",
+  "nim_id": "202507477",
+  "transposes_celex": [
+    "32024L1265"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/377c694c-7454-4de4-8fb9-5296c8502054",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
