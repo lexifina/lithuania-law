@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vidaus reikalų ministro 2025 m. sausio 13 d. įsakymas Nr. 1V-31 \"Lietuvos Respublikos vidaus reikalų ministro 2017 m. kovo 31 d. įsakymo Nr. 1V-245 „Dėl Lietuvos Respublikos nacionalinio pranešėjo kovos su prekyba žmonėmis klausimais paskyrimo ir Statistinių duomenų ir kitos informacijos apie prekybos žmonėmis situaciją ir kovos su prekyba žmonėmis priemones bei veiksmus rinkimo ir skelbimo tvarkos aprašo patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-00305",
+  "official_journal_page": null,
+  "official_journal_date": "2025-01-13",
+  "entry_into_force": "2025-01-14",
+  "notification_date": "2026-07-13",
+  "commission_reference": "MNE(2026)05385",
+  "nim_celex": "72024L1712LTU_202605385",
+  "nim_id": "202605385",
+  "transposes_celex": [
+    "32024L1712"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f7bb7216-9232-4426-80cf-447750b45d62",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
