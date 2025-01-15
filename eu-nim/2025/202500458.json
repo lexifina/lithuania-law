@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos tarybos 2025 m. sausio 14 d. nutarimas Nr. TN-8 \"Dėl Interneto prieigos paslaugų ir viešųjų asmenų tarpusavio ryšio paslaugų kokybės parametrų nustatymo taisyklių patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-00381",
+  "official_journal_page": null,
+  "official_journal_date": "2025-01-14",
+  "entry_into_force": "2025-01-15",
+  "notification_date": "2025-09-30",
+  "commission_reference": "MNE(2025)00458",
+  "nim_celex": "72018L1972LTU_202500458",
+  "nim_id": "202500458",
+  "transposes_celex": [
+    "32018L1972"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c13b98c6-d50b-4e1c-8d2f-983979aa041d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
