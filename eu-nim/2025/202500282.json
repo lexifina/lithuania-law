@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2025 m. sausio 9 d. nutarimas Nr. 03-3 „Dėl Lietuvos banko valdybos 2015 m. gruodžio 29 d. nutarimo Nr. 03-212 „Dėl kriterijų, į kuriuos Lietuvos bankas atsižvelgia vertindamas sėkmingo įstaigos ar finansinės grupės pertvarkymo galimybę, aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-00318",
+  "official_journal_page": null,
+  "official_journal_date": "2025-01-13",
+  "entry_into_force": "2025-01-17",
+  "notification_date": "2025-01-20",
+  "commission_reference": "MNE(2025)00282",
+  "nim_celex": "72022L2556LTU_202500282",
+  "nim_id": "202500282",
+  "transposes_celex": [
+    "32022L2556"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a99393e3-1d10-4f53-9999-99a57b719126",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
