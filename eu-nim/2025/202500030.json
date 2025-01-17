@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos elektros energetikos sistemos sujungimo su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu įstatymo Nr. XI-2052 preambulės, 2, 3, 6-1 ir 12 straipsnių pakeitimo įstatymas Nr. XV-94",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-23087",
+  "official_journal_page": null,
+  "official_journal_date": "2024-12-23",
+  "entry_into_force": "2025-01-17",
+  "notification_date": "2025-01-15",
+  "commission_reference": "MNE(2025)00030",
+  "nim_celex": "72024L1711LTU_202500030",
+  "nim_id": "202500030",
+  "transposes_celex": [
+    "32024L1711"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/94c7630d-3d30-45da-b1e4-c1794e77e2c5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
