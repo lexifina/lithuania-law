@@ -23,4 +23,4 @@ priedas
 18. 2019 m. birželio 5 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/941 dėl pasirengimo valdyti riziką elektros energijos sektoriuje, kuriuo panaikinama Direktyva 2005/89/EB.
 19. 2019 m. birželio 5 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/942, kuriuo įsteigiama Europos Sąjungos energetikos reguliavimo institucijų bendradarbiavimo agentūra.
 20. 2019 m. birželio 5 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/943 dėl elektros energijos vidaus rinkos.
-21. 2019 m. birželio 5 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/944 dėl elektros energijos vidaus rinkos bendrųjų taisyklių, kuria iš dalies keičiama Direktyva 2012/27/ES.
+21. 2019 m. birželio 5 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/944 dėl elektros energijos vidaus rinkos bendrųjų taisyklių, kuria iš dalies keičiama Direktyva 2012/27/ES su paskutiniais pakeitimais, padarytais 2024 m. birželio 13 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/1711.
