@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos viršininko 2025 m. sausio 17 d. įsakymas Nr. VA-5 „Dėl Lietuvos Respublikos apmokestinamųjų asmenų, kurie registruojasi smulkiojo verslo schemų kitose valstybėse narėse taikymo tikslais, įregistravimo / išregistravimo, identifikacinio pridėtinės vertės mokesčio numerio suteikimo bei ataskaitų teikimo taisyklių patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-00568",
+  "official_journal_page": null,
+  "official_journal_date": "2025-01-17",
+  "entry_into_force": "2025-01-18",
+  "notification_date": "2025-04-02",
+  "commission_reference": "MNE(2025)01522",
+  "nim_celex": "72020L0285LTU_202501522",
+  "nim_id": "202501522",
+  "transposes_celex": [
+    "32020L0285"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/70610618-7837-4173-9a89-065f6c903c39",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
