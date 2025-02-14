@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos transporto saugos administracijos direktoriaus 2024 m. spalio 2 d. įsakymas Nr. 2BE-176 „Dėl Lietuvos transporto saugos administracijos direktoriaus 2021 m. rugsėjo 30 d. įsakymo Nr. 2BE-262 „Dėl Reglamentų (EB) Nr. 561/2006 ir (ES) Nr. 165/2014 pažeidimų, suskirstytų į kategorijas pagal sunkumą, sąrašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-17334",
+  "official_journal_page": null,
+  "official_journal_date": "2024-10-02",
+  "entry_into_force": "2025-02-14",
+  "notification_date": "2025-01-06",
+  "commission_reference": "MNE(2025)00083",
+  "nim_celex": "72024L0846LTU_202500083",
+  "nim_id": "202500083",
+  "transposes_celex": [
+    "32024L0846"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d13a4cbd-c05f-4468-aa5b-99e615548f32",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
