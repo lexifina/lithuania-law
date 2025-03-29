@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2025 m. kovo 26 d. nutarimas Nr. 158 „Dėl Lietuvos Respublikos Vyriausybės 2011 m. rugpjūčio 17 d. nutarimo Nr. 943 „Dėl Europos ypatingos svarbos infrastruktūros objektų nustatymo, priskyrimo šiems objektams ir jų saugumui užtikrinti būtinų priemonių parengimo tvarkos aprašo patvirtinimo“ pripažinimo netekusiu galios“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-05219",
+  "official_journal_page": null,
+  "official_journal_date": "2025-03-28",
+  "entry_into_force": "2025-03-29",
+  "notification_date": "2025-07-21",
+  "commission_reference": "MNE(2025)01928",
+  "nim_celex": "72022L2557LTU_202501928",
+  "nim_id": "202501928",
+  "transposes_celex": [
+    "32022L2557"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bee0bd5d-558f-4adb-a3c8-c52290c65c89",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
