@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2025 m. kovo 26 d. nutarimas Nr. 156 „Dėl Lietuvos Respublikos Vyriausybės 2018 m. gegužės 9 d. nutarimo Nr. 447 „Dėl Asmenų, pretenduojančių eiti ar einančių pareigas nacionaliniam saugumui užtikrinti svarbiose įmonėse, tikrinimo tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-05217",
+  "official_journal_page": null,
+  "official_journal_date": "2025-03-28",
+  "entry_into_force": "2025-03-29",
+  "notification_date": "2025-07-21",
+  "commission_reference": "MNE(2025)01911",
+  "nim_celex": "72022L2557LTU_202501911",
+  "nim_id": "202501911",
+  "transposes_celex": [
+    "32022L2557"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9af82263-b2d2-4a80-b03e-b1fe0c0f1a28",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
