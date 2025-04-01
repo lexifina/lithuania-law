@@ -15,7 +15,7 @@ Bilietų užsakymo ir išvykimo kontrolės, KELEIVIŲ skrydžio DUOMENYS
 2. Bilietų duomenys (kiekvieno bilieto):
 2.1. bilieto numeris;
 2.2. bilieto rezervavimo arba patvirtinimo data, bilieto klasė;
-2.3. skrydį vykdantis faktinis oro vežėjas (pavadinimas, kodas);
+2.3. skrydį vykdantis faktinis vežėjas, kuris verčiasi keleivių vežimu oro keliais, (pavadinimas, kodas);
 2.4. skrydžio duomenys (numeris, išvykimo data, atvykimo data, informacija, iš kur arba į kur vykdomas skrydis (galutinis tikslas), iš kur arba į kur vykdomas skrydis (tarpinis tikslas), atvykimo ir išvykimo neatitikimas);
 2.5. registruoto bagažo duomenys (numeris, vienetai, svoris, specialusis bagažas, papildomas bagažas);
 2.6. sėdimoji vieta (bilieto pirkimo arba rezervavimo metu ir skrydžio metu);
