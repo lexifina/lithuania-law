@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos finansinio tvarumo įstatymo Nr. XI-393 2, 25, 25-4, 26-2 straipsnių ir priedo pakeitimo įstatymas Nr. XV-172",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-07434",
+  "official_journal_page": null,
+  "official_journal_date": "2025-04-25",
+  "entry_into_force": "2025-04-26",
+  "notification_date": "2025-05-14",
+  "commission_reference": "MNE(2025)02398",
+  "nim_celex": "72024L1174LTU_202502398",
+  "nim_id": "202502398",
+  "transposes_celex": [
+    "32024L1174"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/09c6300e-1761-41e1-b28d-6dfdfc15fcb3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
