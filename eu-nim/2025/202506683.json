@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos alternatyviųjų degalų įstatymo Nr. XIV-196 2, 17 ir 18 straipsnių pakeitimo įstatymo Nr. XIV-2755 pakeitimo įstatymas Nr. XV-123",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-04417",
+  "official_journal_page": null,
+  "official_journal_date": "2025-03-18",
+  "entry_into_force": "2025-05-01",
+  "notification_date": "2025-12-05",
+  "commission_reference": "MNE(2025)06683",
+  "nim_celex": "72023L2413LTU_202506683",
+  "nim_id": "202506683",
+  "transposes_celex": [
+    "32023L2413"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e40562c8-9d03-4d15-a323-09072e01b06a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
