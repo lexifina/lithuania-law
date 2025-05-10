@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2025 m. gegužės 9 d. įsakymas Nr. D1-59 “Dėl Lietuvos Respublikos aplinkos ministro 2003 m. birželio 30 d. įsakymo Nr. 325 „Dėl STR 2.01.08:2003 „Lauko sąlygomis naudojamos įrangos į aplinką skleidžiamo triukšmo valdymas“ patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-08365",
+  "official_journal_page": null,
+  "official_journal_date": "2025-05-09",
+  "entry_into_force": "2025-05-10",
+  "notification_date": "2025-09-22",
+  "commission_reference": "MNE(2025)05192",
+  "nim_celex": "72024L2839LTU_202505192",
+  "nim_id": "202505192",
+  "transposes_celex": [
+    "32024L2839"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/890c73a8-1cd0-4d41-bf85-29fccba8f666",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
