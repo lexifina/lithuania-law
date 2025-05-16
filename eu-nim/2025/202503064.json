@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 2, 4, 7, 9, 14, 19, 20, 22, 25, 29, 36, 49, 51 straipsnių, priedo pakeitimo, Įstatymo papildymo 36-1 straipsniu ir 25-1, 25-3 straipsnių pripažinimo netekusiais galios įstatymo Nr. XIV-2883 18 straipsnio pakeitimo įstatymas Nr. XV-186",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-08682",
+  "official_journal_page": null,
+  "official_journal_date": "2025-05-15",
+  "entry_into_force": "2025-05-16",
+  "notification_date": "2025-05-28",
+  "commission_reference": "MNE(2025)03064",
+  "nim_celex": "72023R1113LTU_202503064",
+  "nim_id": "202503064",
+  "transposes_celex": [
+    "32023R1113"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3f150752-7147-4064-a429-9a7a45d1e199",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
