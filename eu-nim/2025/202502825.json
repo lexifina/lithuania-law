@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos kriminalinės žvalgybos įstatymo Nr. XI-2234 8 straipsnio pakeitimo ir Įstatymo papildymo priedu įstatymas Nr. XV-206",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-08908",
+  "official_journal_page": null,
+  "official_journal_date": "2025-05-20",
+  "entry_into_force": "2025-05-21",
+  "notification_date": "2025-05-21",
+  "commission_reference": "MNE(2025)02825",
+  "nim_celex": "72024L1226LTU_202502825",
+  "nim_id": "202502825",
+  "transposes_celex": [
+    "32024L1226"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/39e30485-8f30-4bf9-af7e-6074dd54ba04",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
