@@ -10,3 +10,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | --- | --- | --- | --- |
 | 2019-01-01 | 2022-02-14 | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/1bd0895830c4a15db080a7489b3cae62b7061928/istatymai/TAR.2986B360DB36.md) |
 | 2022-02-15 | 2024-11-11 | Įstatymas Nr. XIV-783 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/b01c5a098093827e78bb4984769bc88cb9bce3b6/istatymai/TAR.2986B360DB36.md) |
+| 2025-05-21 |  | Teisės aktų registras (Seimo kanceliarija) | [atviri-teises-aktai.lt](https://atviri-teises-aktai.lt/ta/2017-19743/data.json) |
