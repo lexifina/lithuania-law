@@ -1,6 +1,4 @@
-# Lietuvos Respublikos
-tarptautinių sankcijų įstatymo
-priedas
+# Lietuvos Respublikos tarptautinių sankcijų įstatymo priedas
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 1. 2001 m. gruodžio 27 d. Tarybos reglamentas (EB) Nr. 2580/2001 dėl specialių ribojančių priemonių, taikomų tam tikriems asmenims ir subjektams siekiant kovoti su terorizmu, su paskutiniais pakeitimais, padarytais 2017 m. lapkričio 13 d. Tarybos reglamentu (ES) 2017/2061.
 2. 2002 m. gegužės 27 d. Tarybos reglamentas (EB) Nr. 881/2002, kuriuo nustatomos tam tikros specialios ribojamosios priemonės, taikomos tam tikriems asmenims ir subjektams, susijusiems su ISIL („Da'esh“) ir Al-Qaida organizacijomis, su paskutiniais pakeitimais, padarytais 2016 m. kovo 15 d. Tarybos reglamentu (ES) 2016/363.
@@ -33,4 +31,5 @@ priedas
 29. 2020 m. gruodžio 7 d. Tarybos reglamentas (ES) 2020/1998 dėl ribojamųjų kovos su šiurkščiais žmogaus teisių pažeidimais priemonių.
 30. 2021 m. liepos 30 d. Tarybos reglamentas (ES) 2021/1275 dėl ribojamųjų priemonių atsižvelgiant į padėtį Libane.
 31. 2022 m. vasario 23 d. Tarybos reglamentas (ES) 2022/263 dėl ribojamųjų priemonių, taikytinų reaguojant į Rusijos Federacijos sprendimą neteisėtai pripažinti, okupuoti ar aneksuoti tam tikras vyriausybės nekontroliuojamas Ukrainos teritorijas, su paskutiniais pakeitimais, padarytais 2022 m. spalio 6 d. Tarybos reglamentu (ES) 2022/1903.
-_____________________
+32. 2024 m. balandžio 24 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/1226 dėl nusikalstamų veikų apibrėžties ir sankcijų už Sąjungos ribojamųjų priemonių pažeidimą, kuria iš dalies keičiama Direktyva (ES) 2018/1673.
+_________________________
