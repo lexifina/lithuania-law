@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos tarptautinių sankcijų įstatymo Nr. IX-2160 2 ir 13 straipsnių bei priedo pakeitimo ir Įstatymo papildymo 13-1 straipsniu įstatymas Nr. XV-203",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-08905",
+  "official_journal_page": null,
+  "official_journal_date": "2025-05-20",
+  "entry_into_force": "2025-05-21",
+  "notification_date": "2025-05-21",
+  "commission_reference": "MNE(2025)02827",
+  "nim_celex": "72024L1226LTU_202502827",
+  "nim_id": "202502827",
+  "transposes_celex": [
+    "32024L1226"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bd746b0c-f940-4be2-920a-830051d95809",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
