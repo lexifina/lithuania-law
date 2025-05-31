@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2025 m. gegužės 30 d. įsakymas Nr. D1-70 ,,Dėl Lietuvos Respublikos aplinkos ministro 2024 m. kovo 26 d. įsakymo Nr. D1-98 „Dėl Lietuvos erdvinės informacijos portalo pertvarkymo ir jo nuostatų patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-09676",
+  "official_journal_page": null,
+  "official_journal_date": "2025-05-30",
+  "entry_into_force": "2025-05-31",
+  "notification_date": "2025-12-22",
+  "commission_reference": "MNE(2025)06973",
+  "nim_celex": "72007L0002LTU_202506973",
+  "nim_id": "202506973",
+  "transposes_celex": [
+    "32007L0002"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8b0b365b-db55-4646-98bc-11efed4fdbaf",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
