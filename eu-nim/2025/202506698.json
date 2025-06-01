@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 3, 22 ir 22-1 straipsnių pakeitimo įstatymas Nr. XV-198",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-09083",
+  "official_journal_page": null,
+  "official_journal_date": "2025-05-22",
+  "entry_into_force": "2025-06-01",
+  "notification_date": "2025-12-04",
+  "commission_reference": "MNE(2025)06698",
+  "nim_celex": "72023L2413LTU_202506698",
+  "nim_id": "202506698",
+  "transposes_celex": [
+    "32023L2413"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2b59017d-93e4-497f-b2b9-2bb4430e02ab",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
