@@ -2,10 +2,11 @@
 
 Lietuvos Respublikos administracinių bylų teisenos įstatymas Nr. VIII-1029
 
-Redakcijos – Teisės aktų registro suvestinės redakcijos, kaip jas Lietuva pranešė Europos Komisijai (nacionalinės perkėlimo priemonės, ES leidinių biuras, Cellar). Įrašytos tik praneštos redakcijos; tarp jų esančių redakcijų čia nėra.
+Redakcijos – Teisės aktų registro (TAR) tekstai: suvestinės redakcijos ir priimtas tekstas. Šaltiniai: Lietuvos ES pranešti failai (ES leidinių biuras, Cellar) ir trečiųjų šalių TAR atvirų duomenų (data.gov.lt, rinkinys 2613) kopijos github.com/Yiin/lt-teises-aktai ir atviri-teises-aktai.lt; kur redakcija yra keliuose šaltiniuose, jos tekstas sutikrintas raidė po raidės.
 
-Editions are the Register's consolidated editions as Lithuania notified them to the European Commission (national transposition measures, EU Publications Office, Cellar), as sent. Only notified editions are on record; editions between them are not.
+Editions are TAR texts (consolidated editions and the text as adopted), from Lithuania's notifications to the EU (Cellar) and from third-party copies of TAR open data (data.gov.lt dataset 2613): github.com/Yiin/lt-teises-aktai and atviri-teises-aktai.lt. Where an edition is in more than one source, the copies were compared letter for letter. Each commit names its source.
 
-| In force from | Edition until (as stated) | Credited to | File |
+| In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2024-01-01 | 2024-11-06 | Teisės aktų registras (Seimo kanceliarija) | [1439227b](https://publications.europa.eu/resource/cellar/1439227b-6eca-4898-b07b-51ed126eb4b4.0001.01/DOC_1) |
+| 2025-06-21 | 2026-06-29 | Įstatymas Nr. XV-292 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22GPqopoAOEt%22) |
