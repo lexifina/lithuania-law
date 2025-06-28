@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ekonomikos ir inovacijų ministro 2025 m. birželio 26 d. įsakymas Nr. 4-308 „Dėl Lietuvos Respublikos ekonomikos ir inovacijų ministro 2022 m. liepos 11 d. įsakymas Nr. 4-861 “Dėl 2022–2030 metų plėtros programos valdytojos Lietuvos Respublikos ekonomikos ir inovacijų ministerijos ekonomikos transformacijos ir konkurencingumo plėtros programos pažangos priemonės Nr. 05-001-01-04-02 „Skatinti įmones pereiti link neutralios klimatui ekonomikos“ aprašo patvirtinimo”",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-11660",
+  "official_journal_page": null,
+  "official_journal_date": "2025-06-27",
+  "entry_into_force": "2025-06-28",
+  "notification_date": "2025-12-04",
+  "commission_reference": "MNE(2025)06719",
+  "nim_celex": "72023L2413LTU_202506719",
+  "nim_id": "202506719",
+  "transposes_celex": [
+    "32023L2413"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/08708691-9290-4437-b6d3-28cc7aadd879",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
