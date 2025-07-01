@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 2, 3, 56, 57, 76, 80 straipsnių ir priedo pakeitimo įstatymas Nr. XV-302",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-11971",
+  "official_journal_page": null,
+  "official_journal_date": "2025-06-30",
+  "entry_into_force": "2025-07-01",
+  "notification_date": "2025-07-18",
+  "commission_reference": "MNE(2025)04122",
+  "nim_celex": "72022L2556LTU_202504122",
+  "nim_id": "202504122",
+  "transposes_celex": [
+    "32022L2556"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6474d1ff-672c-4c63-83bd-91c7907aead8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
