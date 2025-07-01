@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vertybinių popierių įstatymo Nr. X-1023 2, 12, 13, 14, 22, 27, 37 straipsnių, priedo pakeitimo ir Įstatymo papildymo 15-1 straipsniu įstatymo Nr. XIV-2813 10 straipsnio pakeitimo įstatymas Nr. XV-337",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-11997",
+  "official_journal_page": null,
+  "official_journal_date": "2025-06-30",
+  "entry_into_force": "2025-07-01",
+  "notification_date": "2025-07-25",
+  "commission_reference": "MNE(2025)04188",
+  "nim_celex": "72025L0794LTU_202504188",
+  "nim_id": "202504188",
+  "transposes_celex": [
+    "32025L0794"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e184d9f5-ae5e-4a1e-b296-1cb92662bc9e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
