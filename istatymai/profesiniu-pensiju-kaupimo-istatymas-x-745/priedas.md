@@ -11,4 +11,5 @@ priedas
 6. 2016 m. gruodžio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/2341 dėl profesinių pensijų įstaigų (PPĮ) veiklos ir priežiūros.
 7. 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/2088 dėl su tvarumu susijusios informacijos atskleidimo finansinių paslaugų sektoriuje su paskutiniais pakeitimais, padarytais 2020 m. birželio 18 d. Europos Parlamento ir Tarybos reglamentu (ES) 2020/852.
 8. 2020 m. birželio 18 d. Europos Parlamento ir Tarybos reglamentas (ES) 2020/852 dėl sistemos tvariam investavimui palengvinti sukūrimo, kuriuo iš dalies keičiamas Reglamentas (ES) 2019/2088.
-part_b0c1f57e44e04b30bf2b6b748e01b5ee_end
+9. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2022/2556, kuria iš dalies keičiamos direktyvos 2009/65/EB, 2009/138/EB, 2011/61/ES, 2013/36/ES, 2014/59/ES, 2014/65/ES, (ES) 2015/2366 ir (ES) 2016/2341 dėl finansų sektoriaus skaitmeninės veiklos atsparumo.
+10. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2022/2554 dėl skaitmeninės veiklos atsparumo finansų sektoriuje, kuriuo iš dalies keičiami reglamentai (EB) Nr. 1060/2009, (ES) Nr. 648/2012, (ES) Nr. 600/2014, (ES) Nr. 909/2014 ir (ES) 2016/1011.
