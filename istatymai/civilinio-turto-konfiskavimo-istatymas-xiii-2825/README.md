@@ -9,3 +9,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | In force from | Edition until (as stated) | Credited to | Source |
 | --- | --- | --- | --- |
 | 2020-07-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/c1920d7ba66107562864868c75c0ca68366f4c3f/istatymai/TAR.A49670C07569.md) |
+| 2025-07-01 |  | Įstatymas Nr. XV-176 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/37110381e769f12a9b65759d29fc2716abb24a65/istatymai/TAR.A49670C07569.md) |
