@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos tarybos 2025 m. birželio 3 d. nutarimas Nr. TN-340 \"Dėl Nacionalinio ryšio numeracijos plano patvirtinimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-10022",
+  "official_journal_page": null,
+  "official_journal_date": "2025-06-03",
+  "entry_into_force": "2025-07-01",
+  "notification_date": "2025-09-30",
+  "commission_reference": "MNE(2025)03234",
+  "nim_celex": "72018L1972LTU_202503234",
+  "nim_id": "202503234",
+  "transposes_celex": [
+    "32018L1972"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ef106daf-36b4-4e92-a483-35fef42d656e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
