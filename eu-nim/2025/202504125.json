@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos centrinių kredito unijų įstatymo Nr. VIII-1682 2, 19, 21, 41, 44, 51, 55 straipsnių ir priedo pakeitimo įstatymas  Nr. XV-296",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-11965",
+  "official_journal_page": null,
+  "official_journal_date": "2025-06-30",
+  "entry_into_force": "2025-07-01",
+  "notification_date": "2025-07-18",
+  "commission_reference": "MNE(2025)04125",
+  "nim_celex": "72022L2556LTU_202504125",
+  "nim_id": "202504125",
+  "transposes_celex": [
+    "32022L2556"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/39306ca1-d30a-4abd-bb2c-b2a2bc566016",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
