@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatymo Nr. XIV-2811 1, 2, 3, 4, 16, 17, 19, 20, 23, 31, 32, 35, 36, 37, 40, 41 straipsnių ir priedo pakeitimo įstatymas Nr. XV-335",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-11995",
+  "official_journal_page": null,
+  "official_journal_date": "2025-06-30",
+  "entry_into_force": "2025-07-01",
+  "notification_date": "2025-08-20",
+  "commission_reference": "MNE(2025)04599",
+  "nim_celex": "72021L2101LTU_202504599",
+  "nim_id": "202504599",
+  "transposes_celex": [
+    "32021L2101"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1204b741-0ee2-4789-9f0e-7e6da537b7a4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
