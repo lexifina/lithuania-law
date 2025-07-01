@@ -1,2 +1,4 @@
+2009 m. liepos 22 d. Nr. XI-393
+Vilnius
 I SKYRIUS
 BENDROSIOS NUOSTATOS
