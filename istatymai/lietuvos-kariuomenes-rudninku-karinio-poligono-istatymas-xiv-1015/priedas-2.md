@@ -1,4 +1,8 @@
-# POLIGONO TERITORIJOS RIBŲ SCHEMA
+# Lietuvos Respublikos
+Lietuvos kariuomenės
+Rūdninkų karinio poligono įstatymo
+1 priedas
+POLIGONO TERITORIJOS RIBŲ SCHEMA
 __________________
 Lietuvos Respublikos
 Lietuvos kariuomenės

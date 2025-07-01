@@ -1,1 +1,1 @@
-# 1 priedas
+# Respublikos Prezidentas Gitanas Nausėda
