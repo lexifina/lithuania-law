@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos finansinio tvarumo įstatymo Nr. XI-393 2, 13, 99 straipsnių ir priedo pakeitimo įstatymas Nr. XV-299",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-11968",
+  "official_journal_page": null,
+  "official_journal_date": "2025-06-30",
+  "entry_into_force": "2025-07-01",
+  "notification_date": "2025-07-18",
+  "commission_reference": "MNE(2025)04124",
+  "nim_celex": "72022L2556LTU_202504124",
+  "nim_id": "202504124",
+  "transposes_celex": [
+    "32022L2556"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1eeedd4b-f2ac-4576-8a29-28bf8bc7c37b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
