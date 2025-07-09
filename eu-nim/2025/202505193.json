@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos tarybos 2025 m. liepos 8 d. nutarimas Nr. TN-392 \"Dėl Lietuvos Respublikos ryšių reguliavimo tarnybos tarybos 2016 m. birželio 14 d. nutarimo Nr. 1V-670 „Dėl Radijo ryšio įrenginių techninio reglamento patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-12461",
+  "official_journal_page": null,
+  "official_journal_date": "2025-07-08",
+  "entry_into_force": "2025-07-09",
+  "notification_date": "2025-09-22",
+  "commission_reference": "MNE(2025)05193",
+  "nim_celex": "72024L2839LTU_202505193",
+  "nim_id": "202505193",
+  "transposes_celex": [
+    "32024L2839"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f2b80357-a225-42c8-9e67-c8e88bb85aeb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
