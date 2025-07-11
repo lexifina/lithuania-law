@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2025 m. liepos 9 d. nutarimas Nr. 03-98 „Dėl Lietuvos banko valdybos 2009 m. gruodžio 24 d. nutarimo Nr. 238 „Dėl Lietuvos banko išduodamų leidimų elektroninių pinigų ir mokėjimo įstaigoms“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-12628",
+  "official_journal_page": null,
+  "official_journal_date": "2025-07-10",
+  "entry_into_force": "2025-07-11",
+  "notification_date": "2025-07-18",
+  "commission_reference": "MNE(2025)04129",
+  "nim_celex": "72022L2556LTU_202504129",
+  "nim_id": "202504129",
+  "transposes_celex": [
+    "32022L2556"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8c302406-31d3-4b4c-80a2-b293d7be6b49",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
