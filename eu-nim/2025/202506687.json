@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos įstatymo Nr. IX-884 2, 5, 13, 13-1, 15, 33 ir 37 straipsnių ir priedo pakeitimo įstatymas Nr. XV-332",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-11992",
+  "official_journal_page": null,
+  "official_journal_date": "2025-06-30",
+  "entry_into_force": "2025-07-14",
+  "notification_date": "2025-12-04",
+  "commission_reference": "MNE(2025)06687",
+  "nim_celex": "72023L2413LTU_202506687",
+  "nim_id": "202506687",
+  "transposes_celex": [
+    "32023L2413"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ba0567de-a70f-47c8-998e-125828c75160",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
