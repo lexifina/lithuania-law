@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos alternatyviųjų degalų įstatymo Nr. XIV-196 1, 2, 5, 11, 13, 16, 17, 18, 19, 20, 21, 23, 31, 32, 33 straipsnių pakeitimo ir Įstatymo papildymo 20-1 straipsniu įstatymas Nr. XV-333",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-11993",
+  "official_journal_page": null,
+  "official_journal_date": "2025-06-30",
+  "entry_into_force": "2025-07-14",
+  "notification_date": "2025-12-04",
+  "commission_reference": "MNE(2025)06685",
+  "nim_celex": "72023L2413LTU_202506685",
+  "nim_id": "202506685",
+  "transposes_celex": [
+    "32023L2413"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7cb1106c-5cf7-4b83-9e4c-ef524f819b14",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
