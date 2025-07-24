@@ -17,3 +17,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2023-12-23 | 2023-12-31 | Įstatymas Nr. XIV-2388 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/5c353cc59280f4d74f46d18b3b3ae218ef5f869c/istatymai/TAR.4961DA7FA79F.md) |
 | 2024-01-01 | 2024-07-09 | Įstatymas Nr. XIV-2388 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/eee57bb715d0c720792bde6cdb643f3908045c0f/istatymai/TAR.4961DA7FA79F.md) |
 | 2024-07-10 | 2025-07-23 | Įstatymas Nr. XIV-2388 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/42e0b101e4bd3d43ea85d426a3d37b4e25b9bd5f/istatymai/TAR.4961DA7FA79F.md) |
+| 2025-07-24 |  | Įstatymas Nr. XIV-2388 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/a2dec07b5230f8b4b521f587ed6e45e26814894f/istatymai/TAR.4961DA7FA79F.md) |
