@@ -1,2 +1,4 @@
+1998 m. gruodžio 3 d. Nr. VIII-950
+Vilnius
 I SKIRSNIS
 BENDROSIOS NUOSTATOS
