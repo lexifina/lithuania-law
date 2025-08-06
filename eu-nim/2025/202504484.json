@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės energetikos reguliavimo tarybos 2025 m. rugpjūčio 5 d. nutarimas Nr. O3E-1156 “Dėl veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklių patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-13720",
+  "official_journal_page": null,
+  "official_journal_date": "2025-08-05",
+  "entry_into_force": "2025-08-06",
+  "notification_date": "2025-08-06",
+  "commission_reference": "MNE(2025)04484",
+  "nim_celex": "72023L2413LTU_202504484",
+  "nim_id": "202504484",
+  "transposes_celex": [
+    "32023L2413"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2980c6a9-b620-42cb-ac8a-a0633e6ca341",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
