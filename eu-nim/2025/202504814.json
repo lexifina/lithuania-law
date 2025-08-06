@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos tarybos 2025 m. rugpjūčio 6 d. nutarimas Nr. TN-419 „Dėl Universaliosios pašto paslaugos nuostolių apskaičiavimo taisyklių patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-13790",
+  "official_journal_page": null,
+  "official_journal_date": "2025-08-06",
+  "entry_into_force": "2027-01-01",
+  "notification_date": "2025-09-30",
+  "commission_reference": "MNE(2025)04814",
+  "nim_celex": "71997L0067LTU_202504814",
+  "nim_id": "202504814",
+  "transposes_celex": [
+    "31997L0067"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/15fb7d8f-3946-4ea4-bba4-1f5397aaca4e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
