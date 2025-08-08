@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Akcinės bendrovės „Via Lietuva“ generalinio direktoriaus 2025 m. liepos 30  įsakymas Nr. VE-25-117 „Dėl valstybinės reikšmės kelių eismo informacinės sistemos pertvarkymo ir valstybinės reikšmės kelių eismo informacinės sistemos nuostatų bei valstybinės reikšmės kelių eismo informacinės sistemos duomenų saugos nuostatų patvirtinimo“ (suvestinė redakcija nuo 2026-02-10)",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-13829",
+  "official_journal_page": null,
+  "official_journal_date": "2025-08-07",
+  "entry_into_force": "2025-08-08",
+  "notification_date": "2026-04-03",
+  "commission_reference": "MNE(2026)02028",
+  "nim_celex": "72023L2661LTU_202602028",
+  "nim_id": "202602028",
+  "transposes_celex": [
+    "32023L2661"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/82f4a0dd-bcd4-429e-9694-3ca306e91dd3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
