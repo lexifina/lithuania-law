@@ -17,3 +17,6 @@ LIETUVoS RESPUBLIKOS Pirkimų, atliekamų vandentvarkos, energetikos, transporto
 10. 1998 m. rugsėjo 10 d. Roterdamo konvencija dėl sutikimo, apie kurį pranešama iš anksto, procedūros, taikomos tam tikroms pavojingoms cheminėms medžiagoms ir pesticidams tarptautinėje prekyboje (UNEP/FAO) (IAPS, arba PIC konvencija), ir jos 3 regioniniai protokolai.
 11. Tarptautinės darbo organizacijos 1999 m. birželio 17 d. konvencija Nr. 182 dėl nepriimtino vaikų darbo uždraudimo ir neatidėliotinų veiksmų tokiam darbui panaikinti.
 12. 2001 m. gegužės 22 d. Stokholmo konvencija dėl patvariųjų organinių teršalų (Stokholmo POT konvencija).
+Lietuvos Respublikos
+pirkimų, atliekamų vandentvarkos,
+energetikos, transporto ar pašto paslaugų srities
