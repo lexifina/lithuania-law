@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos įstatymo Nr. IX-884 2, 8 straipsnių ir priedo pakeitimo įstatymas Nr. XV-238",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-11006",
+  "official_journal_page": null,
+  "official_journal_date": "2025-06-18",
+  "entry_into_force": "2025-10-01",
+  "notification_date": "2025-10-14",
+  "commission_reference": "MNE(2025)05652",
+  "nim_celex": "72023L1791LTU_202505652",
+  "nim_id": "202505652",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d2736934-a84d-4d39-a92c-537b6ad70828",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
