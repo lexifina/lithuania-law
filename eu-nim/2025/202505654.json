@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 2, 7, 8, 8(2), 10(2), 29 straipsnių, priedo pakeitimo ir įstatymo papildymo 8(3) straipsniu įstatymas Nr. XV-241",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-11010",
+  "official_journal_page": null,
+  "official_journal_date": "2025-06-18",
+  "entry_into_force": "2025-10-01",
+  "notification_date": "2025-10-14",
+  "commission_reference": "MNE(2025)05654",
+  "nim_celex": "72023L1791LTU_202505654",
+  "nim_id": "202505654",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7b4918c7-3ad7-4aa2-867a-7a15981f545c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
