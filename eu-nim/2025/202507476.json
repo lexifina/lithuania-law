@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2025 m. gegužės 14 d. nutarimas Nr. 300 „Dėl Lietuvos Respublikos Vyriausybės 2013 m. gruodžio 4 d. nutarimo Nr. 1129 „Dėl valdžios sektoriaus apskaitos duomenų teikimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-08997",
+  "official_journal_page": null,
+  "official_journal_date": "2025-05-21",
+  "entry_into_force": "2025-10-01",
+  "notification_date": "2025-12-31",
+  "commission_reference": "MNE(2025)07476",
+  "nim_celex": "72024L1265LTU_202507476",
+  "nim_id": "202507476",
+  "transposes_celex": [
+    "32024L1265"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cd9cb4ac-8600-4d84-b925-e9e52b67e067",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
