@@ -1,4 +1,7 @@
-# Lietuvos Respublikos koncesijų įstatymo 1 priedas
+# RESPUBLIKOS PREZIDENTAS ALGIRDAS BRAZAUSKAS
+Lietuvos Respublikos
+koncesijų įstatymo
+1 priedas
 LIETUVOS RESPUBLIKOS KONCESIJŲ ĮSTATYMO 3 STRAIPSNIO 4 DALYJE NURODYTŲ VEIKLOS RŪŠIŲ SĄRAŠAS
 Eil. Nr.
 Veiklos rūšys pagal Europos Bendrijos statistinį ekonominės veiklos rūšių klasifikatorių (NACE 1 red.)
