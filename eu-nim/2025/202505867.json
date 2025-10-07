@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 47, 84, 85, 94, 95, 98, 99, 100, 101, 102, 105 ir 107 straipsnių pakeitimo ir Įstatymo papildymo 102-2 ir 102-3 straipsniais įstatymas Nr.XV-447",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-16800",
+  "official_journal_page": null,
+  "official_journal_date": "2025-10-06",
+  "entry_into_force": "2025-10-07",
+  "notification_date": "2025-11-04",
+  "commission_reference": "MNE(2025)05867",
+  "nim_celex": "72012L0019LTU_202505867",
+  "nim_id": "202505867",
+  "transposes_celex": [
+    "32012L0019"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/caac16ae-f23b-4d06-9487-d0eb0cf2a656",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
