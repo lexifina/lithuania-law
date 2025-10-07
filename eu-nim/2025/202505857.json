@@ -1,0 +1,27 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 pakeitimo įstatymas Nr. XV-444",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-16796",
+  "official_journal_page": null,
+  "official_journal_date": "2025-10-06",
+  "entry_into_force": "2025-10-07",
+  "notification_date": "2025-11-04",
+  "commission_reference": "MNE(2025)05857",
+  "nim_celex": "71999L0031LTU_202505857",
+  "nim_id": "202505857",
+  "transposes_celex": [
+    "31999L0031",
+    "32000L0053",
+    "32008L0098",
+    "32010L0075",
+    "32012L0019",
+    "32018L0851"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/92b8de04-54c2-4ec0-b9db-38023e316ba3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
