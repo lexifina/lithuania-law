@@ -1,4 +1,4 @@
-# 50,00
+# 0,50
 Lietuvos Respublikos
 mokesčio už aplinkos teršimą įstatymo
 9 priedas
