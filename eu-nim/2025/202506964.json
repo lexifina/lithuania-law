@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX-517 2, 6, 7, 7-1, 7-2, 10, 11-2 straipsnių pakeitimo ir Įstatymo papildymo 10-1 straipsniu įstatymas Nr. XV-445",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-16797",
+  "official_journal_page": null,
+  "official_journal_date": "2025-10-06",
+  "entry_into_force": "2025-10-07",
+  "notification_date": "2025-12-15",
+  "commission_reference": "MNE(2025)06964",
+  "nim_celex": "71994L0062LTU_202506964",
+  "nim_id": "202506964",
+  "transposes_celex": [
+    "31994L0062",
+    "32008L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a45716bf-cad9-4ba5-addf-dc1f5b3adfce",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
