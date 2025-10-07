@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių nusižengimų kodekso 241, 247, 248, 248-1, 248-2, 248-3, 249, 250, 252, 255, 255-1, 589, 608 straipsnių ir priedo pakeitimo įstatymas Nr.XV-448",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-16801",
+  "official_journal_page": null,
+  "official_journal_date": "2025-10-06",
+  "entry_into_force": "2025-10-07",
+  "notification_date": "2025-11-04",
+  "commission_reference": "MNE(2025)05866",
+  "nim_celex": "72012L0019LTU_202505866",
+  "nim_id": "202505866",
+  "transposes_celex": [
+    "32012L0019"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4cf37374-4edc-4f3f-8c75-e9b7fdb59fcf",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
