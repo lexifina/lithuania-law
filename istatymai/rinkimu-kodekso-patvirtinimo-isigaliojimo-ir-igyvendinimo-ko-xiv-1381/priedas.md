@@ -8,4 +8,5 @@ priedas
 4. 2014 m. spalio 22 d. Europos Parlamento ir Tarybos reglamentas (ES, Euratomas) Nr. 1141/2014 dėl Europos politinių partijų ir Europos politinių fondų statuto ir finansavimo.
 5. 2018 m. liepos 13 d. Tarybos sprendimas (ES, Euratomas) 2018/994, kuriuo iš dalies keičiamas prie 1976 m. rugsėjo 20 d. Tarybos sprendimo 76/787/EAPB, EEB, Euratomas pridėtas Aktas dėl Europos Parlamento narių rinkimų remiantis tiesiogine visuotine rinkimų teise.
 6. 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/788 dėl Europos piliečių iniciatyvos.
+7. 2024 m. kovo 13 d. Europos Parlamento ir Tarybos reglamentas (ES) 2024/900 dėl politinės reklamos skaidrumo ir atrankiojo adresavimo.
 ______________
