@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2025 m. spalio 10 d. įsakymas Nr. 1-235 „Dėl Lietuvos Respublikos energetikos ministro 2017 m. liepos 14 d. įsakymo Nr. 1-187 „Dėl energijos sutaupymo susitarimų sudarymo tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-17025",
+  "official_journal_page": null,
+  "official_journal_date": "2025-10-10",
+  "entry_into_force": "2025-10-11",
+  "notification_date": "2026-03-12",
+  "commission_reference": "MNE(2026)01595",
+  "nim_celex": "72023L1791LTU_202601595",
+  "nim_id": "202601595",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9a49db80-b8fd-4d28-8026-abc68dc00ad8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
