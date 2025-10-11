@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2025 m. spalio 10 d. įsakymas Nr. 1-236 „Dėl Lietuvos Respublikos energetikos ministro 2016 m. lapkričio 14 d. įsakymo Nr. 1-298 „Dėl elektros energijos, pagamintos iš atsinaujinančių energijos išteklių, kilmės garantijų išdavimo, perdavimo ir jų galiojimo panaikinimo bei kilmės garantijų naudojimo priežiūros ir kontrolės, taip pat kitų valstybių narių išduotų kilmės garantijų pripažinimo Lietuvos Respublikoje taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-17026",
+  "official_journal_page": null,
+  "official_journal_date": "2025-10-10",
+  "entry_into_force": "2025-10-11",
+  "notification_date": "2025-11-26",
+  "commission_reference": "MNE(2025)05649",
+  "nim_celex": "72023L2413LTU_202505649",
+  "nim_id": "202505649",
+  "transposes_celex": [
+    "32023L2413"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ac5c36dd-d81f-4b3f-a340-2cdc536eb985",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
