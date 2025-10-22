@@ -12,3 +12,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2006-06-28 | 2013-05-31 | Įstatymas Nr. X-652 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/d05cd7606c302cb7242c8795ef771055edfdd6b7/istatymai/TAR.AF66A99A0A20.md) |
 | 2013-06-01 | 2017-06-30 | Įstatymas Nr. XI-2398 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/60d5476b9d0234538b7acaa539634fce51bdaa3f/istatymai/TAR.AF66A99A0A20.md) |
 | 2017-07-01 |  | Įstatymas Nr. XIII-266 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/1a4376134d2437c49df150cdba0c5b3f15c317f2/istatymai/TAR.AF66A99A0A20.md) |
+| 2025-10-22 |  | Teisės aktų registras (Seimo kanceliarija) | [atviri-teises-aktai.lt](https://atviri-teises-aktai.lt/ta/0981010ISTAVIII-791/data.json) |
