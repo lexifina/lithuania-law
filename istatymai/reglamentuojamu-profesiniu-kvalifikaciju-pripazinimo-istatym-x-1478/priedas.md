@@ -1,7 +1,9 @@
 # RESPUBLIKOS PREZIDENTAS VALDAS ADAMKUS
 Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo
 1 priedas
-LIETUVOS RESPUBLIKOS reglamentuojamų profesinių kvalifikacijų pripažinimo ĮSTATYMO 4 STRAIPSNIO 5 DALIES SĄLYGAS ATITINKANČIŲ PROFESINIŲ ASOCIACIJŲ ARBA ORGANIZACIJŲ SĄRAŠAS
+LIETUVOS RESPUBLIKOS REGLAMENTUOJAMŲ PROFESINIŲ KVALIFIKACIJŲ
+PRIPAŽINIMO ĮSTATYMO 4 STRAIPSNIO 5 DALIES SĄLYGAS ATITINKANČIŲ
+PROFESINIŲ ASOCIACIJŲ ARBA ORGANIZACIJŲ SĄRAŠAS
 AIRIJA
 1. Airijos privilegijuotų apskaitininkų institutas (taikoma tik sąskaitų audito veiklai).
 2. Airijos atestuotų valstybės apskaitininkų institutas (taikoma tik sąskaitų audito veiklai).
@@ -56,5 +58,4 @@ JUNGTINĖ KARALYSTĖ
 35. Metalų institutas.
 36. Privilegijuotoji pastatų tinklų inžinierių institucija.
 37. Matavimų ir kontrolės institutas.
-38. Britų kompiuterių draugija.
-1 priedo redakcija, įsigaliojanti Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dieną:
+38. Britų kompiuterių draugija. 1 priedo redakcija, įsigaliojanti Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dieną:

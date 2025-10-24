@@ -1,4 +1,5 @@
-# Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo
+# registracijos akto 2 straipsnį (architektas)
+Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo
 5 priedas
 DOKUMENTAI IR PAŽYMĖJIMAI, KURIE GALI BŪTI REIKALINGI LAIKANTIS LIETUVOS RESPUBLIKOS REGLAMENTUOJAMŲ PROFESINIŲ KVALIFIKACIJŲ PRIPAŽINIMO ĮSTATYMO 50 STRAIPSNIO 1, 2 IR 3 DALIŲ
 1. Dokumentai
