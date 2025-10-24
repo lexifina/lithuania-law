@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo Nr. X-1478 11, 29, 32, 42, 61 straipsnių, 3 ir 6 priedų pakeitimo įstatymas Nr. XV-496",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-17650",
+  "official_journal_page": null,
+  "official_journal_date": "2025-10-23",
+  "entry_into_force": "2025-10-24",
+  "notification_date": "2025-11-05",
+  "commission_reference": "MNE(2025)06008",
+  "nim_celex": "72024L0782LTU_202506008",
+  "nim_id": "202506008",
+  "transposes_celex": [
+    "32024L0782"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d3b3a8e3-8f1d-4dcb-a335-6e6688e65510",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
