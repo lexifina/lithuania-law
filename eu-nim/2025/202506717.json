@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2023 m. liepos 24 d. įsakymas Nr. 1-244 “Dėl Lietuvos Respublikos energetikos ministro 2022 m. rugpjūčio 12 d. įsakymo Nr. 1-250 „Dėl 2021–2030 metų plėtros programos valdytojos Lietuvos Respublikos energetikos ministerijos energetikos plėtros programos pažangos priemonės Nr. 03-001-06-05-01 „Įgyvendinti energijos vartojimo efektyvumą didinančias priemones viešuosiuose centrinės valdžios pastatuose, individualiuose gyvenamuosiuose namuose ir įmonėse“ aprašo patvirtinimo” pakeitimo”",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-17841",
+  "official_journal_page": null,
+  "official_journal_date": "2025-10-27",
+  "entry_into_force": "2025-10-28",
+  "notification_date": "2025-12-04",
+  "commission_reference": "MNE(2025)06717",
+  "nim_celex": "72023L2413LTU_202506717",
+  "nim_id": "202506717",
+  "transposes_celex": [
+    "32023L2413"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/eb16cefe-8da1-4523-9652-f14bb6e64e7f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
