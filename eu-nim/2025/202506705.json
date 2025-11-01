@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo Nr. I-1495 2, 3, 7, 8, 11 straipsnių ir 1, 2 priedų pakeitimo įstatymas Nr. XV-258",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-11025",
+  "official_journal_page": null,
+  "official_journal_date": "2025-06-18",
+  "entry_into_force": "2025-11-01",
+  "notification_date": "2025-12-04",
+  "commission_reference": "MNE(2025)06705",
+  "nim_celex": "72023L2413LTU_202506705",
+  "nim_id": "202506705",
+  "transposes_celex": [
+    "32023L2413"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2f3dfb25-a938-48b5-a5bc-5f1f5b33c641",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
