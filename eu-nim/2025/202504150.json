@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 15, 19, 19-1, 19-2, 55, 56 straipsnių pakeitimo ir Įstatymo papildymo 15-1 straipsniu įstatymas Nr. XV-257",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-11024",
+  "official_journal_page": null,
+  "official_journal_date": "2025-06-18",
+  "entry_into_force": "2025-11-01",
+  "notification_date": "2025-07-18",
+  "commission_reference": "MNE(2025)04150",
+  "nim_celex": "72011L0092LTU_202504150",
+  "nim_id": "202504150",
+  "transposes_celex": [
+    "32011L0092",
+    "32014L0052"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a32d9fe0-d8cf-4b07-adb9-b2100f308a97",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
