@@ -10,3 +10,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | --- | --- | --- | --- |
 | 2009-12-28 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/f508454cb25378ba5746988e564fc73148b14448/istatymai/TAR.28F4561D519F.md) |
 | 2017-07-01 |  | Įstatymas Nr. XIII-332 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/aa1787280f4712a75f4e366ed1b7b4107834d1dc/istatymai/TAR.28F4561D519F.md) |
+| 2025-11-01 | 2027-10-31 | Teisės aktų registras (Seimo kanceliarija) | [atviri-teises-aktai.lt](https://atviri-teises-aktai.lt/ta/1091010ISTA00XI-570/data.json) |
