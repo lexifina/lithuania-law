@@ -1,4 +1,6 @@
-# Lietuvos Respublikos paslaugų įstatymo 1 priedas
+# RESPUBLIKOS PREZIDENTĖ DALIA GRYBAUSKAITĖ
+Lietuvos Respublikos paslaugų įstatymo
+1 priedas
 FINANSINĖS PASLAUGOS, KURIOMS NETAIKOMAS LIETUVOS RESPUBLIKOS PASLAUGŲ ĮSTATYMAS
 1. Indėlių ir kitų grąžintinų lėšų priėmimas.
 2. Skolinimas, be kita ko, įskaitant vartojimo kreditą, hipotekos kreditą, faktoringo operacijas (su atgręžtinio reikalavimo teise arba be jos), komercinių sandorių finansavimą (įskaitant teisės į turtą perėmimą).
