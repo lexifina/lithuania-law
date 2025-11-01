@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2025 m. spalio 17 d. įsakymas Nr. A1-575 \"Dėl Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2007 m. lapkričio 26 d. įsakymo Nr. A1-331 „Dėl Darbuotojų aprūpinimo asmeninėmis apsaugos priemonėmis nuostatų patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-17377",
+  "official_journal_page": null,
+  "official_journal_date": "2025-10-17",
+  "entry_into_force": "2025-11-01",
+  "notification_date": "2025-11-04",
+  "commission_reference": "MNE(2025)06085",
+  "nim_celex": "71989L0656LTU_202506085",
+  "nim_id": "202506085",
+  "transposes_celex": [
+    "31989L0656",
+    "32019L1832"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d6e87e68-449f-4565-8aec-83fd3c002949",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
