@@ -1,7 +1,7 @@
 # Lietuvos Respublikos
 elektroninių ryšių įstatymo
 2 priedas
-įgyvendinami Europos Sąjungos teisės aktai
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 1. 1998 m. lapkričio 20 d. Europos Parlamento ir Tarybos direktyva 98/84/EB dėl sąlygine prieiga grindžiamų paslaugų ir sąlyginės prieigos paslaugų teisinės apsaugos.
 2. 2002 m. kovo 7 d. Europos Parlamento ir Tarybos sprendimas Nr. 676/2002/EB dėl radijo spektro politikos teisinio reguliavimo pagrindų Europos bendrijoje (Sprendimas dėl radijo spektro).
 3. 2002 m. liepos 12 d. Europos Parlamento ir Tarybos direktyva 2002/58/EB dėl asmens duomenų tvarkymo ir privatumo apsaugos elektroninių ryšių sektoriuje (Direktyva dėl privatumo ir elektroninių ryšių) su paskutiniais pakeitimais, padarytais 2009 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva 2009/136/EB.
