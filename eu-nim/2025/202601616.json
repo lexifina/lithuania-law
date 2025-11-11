@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2025 m. lapkričio 10 d. įsakymas Nr. 1-252 „Dėl energetikos ministro 2014 m. sausio 23 d. įsakymo Nr. 1-7 „Dėl valstybei nuosavybės teise priklausančių šildomų ir (arba) vėsinamų valstybės institucijų ir įstaigų – valstybinio administravimo subjektų naudojamų pastatų, kurių bendras plotas yra 250 kv. metrų ar didesnis, sąrašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-18806",
+  "official_journal_page": null,
+  "official_journal_date": "2025-11-10",
+  "entry_into_force": "2025-11-11",
+  "notification_date": "2026-03-06",
+  "commission_reference": "MNE(2026)01616",
+  "nim_celex": "72023L1791LTU_202601616",
+  "nim_id": "202601616",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/96706dd9-0df5-4997-84f3-f61843bbc06f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
