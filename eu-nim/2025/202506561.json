@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės energetikos reguliavimo tarybos 2025 m. lapkričio 21 d. nutarimas Nr. O3E-1721 „Dėl Pasinaudojimo elektros perdavimo tinklais tvarkos aprašo tvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-19500",
+  "official_journal_page": null,
+  "official_journal_date": "2025-11-21",
+  "entry_into_force": "2025-11-24",
+  "notification_date": "2025-12-03",
+  "commission_reference": "MNE(2025)06561",
+  "nim_celex": "72024L1711LTU_202506561",
+  "nim_id": "202506561",
+  "transposes_celex": [
+    "32024L1711"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a24d5020-c0b4-48d0-b405-dbbde30717d2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
