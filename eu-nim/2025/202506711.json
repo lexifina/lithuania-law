@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2025 m. lapkričio 28 d. įsakymas Nr. 1-265 „Dėl Lietuvos Respublikos energetikos ministro 2014 m. gruodžio 30 d. įsakymo Nr. 1-329 \"Dėl atsinaujinančių išteklių energijos gamybos įrenginius montuojančių specialistų rengimo atestacijai\" pakeitimo”",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-20212",
+  "official_journal_page": null,
+  "official_journal_date": "2025-11-28",
+  "entry_into_force": "2025-11-29",
+  "notification_date": "2025-12-04",
+  "commission_reference": "MNE(2025)06711",
+  "nim_celex": "72023L2413LTU_202506711",
+  "nim_id": "202506711",
+  "transposes_celex": [
+    "32023L2413"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3abc58ba-8b0a-46b5-992c-a2a1679dab37",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
