@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos užsienio reikalų ministro 2025 m. balandžio 11 d.  įsakymas Nr. V-101 „Dėl Europos Sąjungos laikinojo kelionės dokumento išdavimo tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-06359",
+  "official_journal_page": null,
+  "official_journal_date": "2025-04-11",
+  "entry_into_force": "2025-12-01",
+  "notification_date": "2025-04-16",
+  "commission_reference": "MNE(2025)02109",
+  "nim_celex": "72024L1986LTU_202502109",
+  "nim_id": "202502109",
+  "transposes_celex": [
+    "32024L1986"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/27d2921d-7372-4d45-9c0b-8cacf8a46a54",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
