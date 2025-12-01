@@ -29,3 +29,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2021-08-02 | 2022-12-31 | Aktas Nr. XIV-226 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/2803070f76f441d01cba69115f03e1baedf9eae1/istatymai/TAR.F617B8D97E05.md) |
 | 2023-01-01 | 2023-06-30 | Aktas Nr. XIV-1290 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/a8c0f9a581bf23a80fb10900c3146254e27b81c7/istatymai/TAR.F617B8D97E05.md) |
 | 2023-07-01 | 2025-11-30 | Aktas Nr. XIV-1290 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/274c710c1539f98ec2bfe7652e473edfba59cb3a/istatymai/TAR.F617B8D97E05.md) |
+| 2025-12-01 |  | Aktas Nr. XIV-2930 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/1ace5ad7b06fe8cfd41a103a7e510a186d3a5a16/istatymai/TAR.F617B8D97E05.md) |
