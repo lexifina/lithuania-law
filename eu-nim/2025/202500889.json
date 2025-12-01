@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos konsulinio mokesčio įstatymo Nr. I-509 3, 6 straipsnių ir priedo pakeitimo įstatymas Nr. XIV-2931",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-13518",
+  "official_journal_page": null,
+  "official_journal_date": "2024-07-24",
+  "entry_into_force": "2025-12-01",
+  "notification_date": "2025-02-12",
+  "commission_reference": "MNE(2025)00889",
+  "nim_celex": "72019L0997LTU_202500889",
+  "nim_id": "202500889",
+  "transposes_celex": [
+    "32019L0997"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/961d6af9-e4be-4acd-8c08-3aded066a6b0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
