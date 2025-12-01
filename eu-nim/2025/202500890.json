@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2024 m. lapkričio 6 d. nutarimas Nr. 941 „Dėl Lietuvos Respublikos Vyriausybės 1994 m. lapkričio 16 d. nutarimo Nr. 1135 „Dėl Konkrečių konsulinio mokesčio dydžių sąrašo ir Konsulinio mokesčio mokėjimo ir konsulinio mokesčio permokos grąžinimo tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2024-19534",
+  "official_journal_page": null,
+  "official_journal_date": "2024-11-08",
+  "entry_into_force": "2025-12-01",
+  "notification_date": "2025-02-27",
+  "commission_reference": "MNE(2025)00890",
+  "nim_celex": "72019L0997LTU_202500890",
+  "nim_id": "202500890",
+  "transposes_celex": [
+    "32019L0997"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/380f394a-9024-4316-9277-b87f8e484cc7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
