@@ -41,3 +41,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2025-06-01 |  | Įstatymas Nr. XV-200 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/cd49a0f2c3f25e17084b95d6a271189d9a836cc1/istatymai/TAR.6EA8AC8A483B.md) |
 | 2025-08-01 | 2025-10-31 | Įstatymas Nr. XV-389 / Įstatymas Nr. XV-390 / Teisės aktų registras (Seimo kanceliarija) | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22hjmiEonuwi%22) |
 | 2025-11-01 | 2025-12-12 | Įstatymas Nr. XV-390 / Teisės aktų registras (Seimo kanceliarija) | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22jUbuWkukML%22) |
+| 2025-12-13 | 2025-12-31 | Įstatymas Nr. XV-390 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22xrdaBRvGXh%22) |
