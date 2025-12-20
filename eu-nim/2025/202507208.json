@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2025 m. gruodžio 19 d. įsakymas Nr. D1-206 „Dėl Lietuvos Respublikos aplinkos ministro 2004 m. rugsėjo 10 d. įsakymo Nr. D1-481 „Dėl Elektros ir elektroninės įrangos bei jos atliekų tvarkymo taisyklių patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-22001",
+  "official_journal_page": null,
+  "official_journal_date": "2025-12-19",
+  "entry_into_force": "2025-12-20",
+  "notification_date": "2026-01-12",
+  "commission_reference": "MNE(2025)07208",
+  "nim_celex": "72024L0884LTU_202507208",
+  "nim_id": "202507208",
+  "transposes_celex": [
+    "32024L0884"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cb71dff9-f3a0-4813-a4f7-417112578e03",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
