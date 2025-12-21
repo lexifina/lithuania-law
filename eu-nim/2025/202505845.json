@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos sveikatos apsaugos ministro ir Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2025 m. spalio 7 d. įsakymas Nr. V-879/A1-554 „Dėl Lietuvos Respublikos sveikatos apsaugos ministro ir Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2011 m. rugsėjo 1 d. įsakymo Nr. V-824/A1-389 ,,Dėl Lietuvos higienos normos HN 23:2011 „Cheminių medžiagų profesinio poveikio ribiniai dydžiai. Matavimo ir poveikio vertinimo bendrieji reikalavimai“ patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-16858",
+  "official_journal_page": null,
+  "official_journal_date": "2025-10-07",
+  "entry_into_force": "2025-12-21",
+  "notification_date": "2025-10-23",
+  "commission_reference": "MNE(2025)05845",
+  "nim_celex": "72024L0869LTU_202505845",
+  "nim_id": "202505845",
+  "transposes_celex": [
+    "32024L0869"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4fde76dc-7a6e-48d5-a394-f02e0eb49ba1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
