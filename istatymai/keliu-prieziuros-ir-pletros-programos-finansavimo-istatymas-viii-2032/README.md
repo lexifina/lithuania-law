@@ -30,3 +30,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2025-02-01 |  | Įstatymas Nr. XV-111 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/88eb9d38a737a080036702489b4a5a651410337f/istatymai/TAR.A7D82E8EDC6B.md) |
 | 2025-07-01 | 2025-12-15 | Įstatymas Nr. XV-373 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22nxPbezDQiK%22) |
 | 2025-12-16 | 2025-12-23 | Įstatymas Nr. XV-636 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22xeauSlCcBL%22) |
+| 2025-12-24 | 2025-12-31 | Įstatymas Nr. XV-663 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22saEGDwCBJf%22) |
