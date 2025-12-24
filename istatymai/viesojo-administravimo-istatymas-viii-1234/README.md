@@ -28,3 +28,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2023-11-30 | 2023-12-31 | Įstatymas Nr. XIV-2243 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22ymKIPdESnC%22) |
 | 2024-01-01 | 2025-10-06 | Įstatymas Nr. XIV-2243 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22jhDoaqRkSq%22) |
 | 2025-10-07 | 2025-12-23 | Įstatymas Nr. XV-441 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22fWeDCHfaaV%22) |
+| 2025-12-24 | 2026-04-30 | Įstatymas Nr. XV-661 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22vOrgYHnXER%22) |
