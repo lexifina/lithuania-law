@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos viršininko 2025 m. gruodžio 23 d. įsakymas Nr. VA-131 „Dėl Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos viršininko 2025 m. gruodžio 22 d. įsakymo Nr. VA-128 „Dėl valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos viršininko 2019 m. gruodžio 20 d. įsakymo Nr. VA-109 „Dėl privalomų automatinių apmokestinimo srities informacijos, susijusios su praneštinais tarpvalstybiniais susitarimais, mainų įgyvendinimo ir praneštinus tarpvalstybinius susitarimus identifikuojančių požymių nustatymo taisyklių patvirtinimo“ pakeitimo“ pakeitimo",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-22559",
+  "official_journal_page": null,
+  "official_journal_date": "2025-12-23",
+  "entry_into_force": "2025-12-24",
+  "notification_date": "2025-12-31",
+  "commission_reference": "MNE(2025)07468",
+  "nim_celex": "72023L2226LTU_202507468",
+  "nim_id": "202507468",
+  "transposes_celex": [
+    "32023L2226"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2fabadb8-ac72-4a31-b669-72dabe3d0d92",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
