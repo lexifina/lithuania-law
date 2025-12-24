@@ -79,3 +79,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2025-08-01 | 2025-09-30 | Įstatymas Nr. XI-1919 / Įstatymas Nr. XV-331 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22RVmbPXLATb%22) |
 | 2025-10-01 | 2025-10-01 | Įstatymas Nr. XV-239 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22usANnKJRVg%22) |
 | 2025-11-29 | 2025-12-23 | Įstatymas Nr. XV-512 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22PJDHHCUmWS%22) |
+| 2025-12-24 | 2025-12-31 | Įstatymas Nr. XV-687 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22XklEJLqdyO%22) |
