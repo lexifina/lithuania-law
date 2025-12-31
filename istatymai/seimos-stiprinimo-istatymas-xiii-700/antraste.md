@@ -1,8 +1,3 @@
-LIETUVOS RESPUBLIKOS
-ŠEIMOS STIPRINIMO
-ĮSTATYMAS
-2017 m. spalio 19 d. Nr. XIII-700
-Vilnius
 PREAMBULĖ
 Lietuvos Respublikos Seimas,
 pripažindamas, kad šeimos pagrindas yra laisvas vyro ir moters apsisprendimas prisiimti šeimai būdingas moralinio ir teisinio pobūdžio pareigas, taip pat giminystės ryšys tarp artimųjų giminaičių;
@@ -13,5 +8,5 @@ pabrėždamas, kad vyro ir moters papildomumas yra šeimos, kaip pirminės ir pr
 vertindamas ir gerbdamas piliečių apsisprendimą kurti šeimą arba rinktis kitokį gyvenimo būdą;
 siekdamas įgyvendinti konstitucinę nuostatą dėl motinystės, tėvystės ir vaikystės visokeriopos apsaugos,
 priima šį įstatymą.
-PIRMASIS SKIRSNIS
+1 SKIRSNIS
 BENDROSIOS NUOSTATOS

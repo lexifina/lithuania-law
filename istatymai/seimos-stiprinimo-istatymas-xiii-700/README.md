@@ -10,3 +10,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | --- | --- | --- | --- |
 | 2018-03-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/0b13d7ad47f63a055ecfe55845572a2b8111cf53/istatymai/TAR.A92AA040C2BD.md) |
 | 2020-01-01 |  | Įstatymas Nr. XIII-2597 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/3449e34432923a85444b2c7966a7628745672fe6/istatymai/TAR.A92AA040C2BD.md) |
+| 2025-12-31 |  | Teisės aktų registras (Seimo kanceliarija) | [atviri-teises-aktai.lt](https://atviri-teises-aktai.lt/ta/2017-17495/data.json) |
