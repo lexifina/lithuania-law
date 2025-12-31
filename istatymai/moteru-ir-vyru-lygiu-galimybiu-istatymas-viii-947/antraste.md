@@ -1,2 +1,4 @@
+1998 m. gruodžio 1 d. Nr. VIII-947
+Vilnius
 I SKYRIUS
 BENDROSIOS NUOSTATOS

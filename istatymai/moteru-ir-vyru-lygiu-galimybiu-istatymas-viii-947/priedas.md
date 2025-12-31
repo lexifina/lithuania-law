@@ -1,4 +1,8 @@
-# Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo priedas
+# RESPUBLIKOS PREZIDENTAS VALDAS ADAMKUS
+Lietuvos Respublikos
+moterų ir vyrų
+lygių galimybių įstatymo
+priedas
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 1. 2004 m. gruodžio 13 d. Tarybos direktyva 2004/113/EB, įgyvendinanti vienodo požiūrio į moteris ir vyrus principą dėl galimybės naudotis prekėmis bei paslaugomis ir prekių tiekimo bei paslaugų teikimo.
 2. 2006 m. liepos 5 d. Europos Parlamento ir Tarybos direktyva 2006/54/EB dėl moterų ir vyrų lygių galimybių ir vienodo požiūrio į moteris ir vyrus užimtumo bei profesinės veiklos srityje principo įgyvendinimo (nauja redakcija).
