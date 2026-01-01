@@ -63,12 +63,6 @@ Iki kovo 15 d.
 Iki kovo 15 d.
 8.
 Nacionalinis metinių ataskaitų rinkinys
-Iki liepos 31 d.
-Iki spalio 1 d.
-Iki spalio 10 d.
-Priedo 8 punkto redakcija nuo 2026-01-01:
-8.
-Nacionalinis metinių ataskaitų rinkinys
 Iki gegužės 15 d.
 Iki gegužės 25 d.
 Iki birželio 5 d.
