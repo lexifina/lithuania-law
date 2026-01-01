@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos administracinių nusižengimų kodekso 207, 589, 673 straipsnių ir priedo pakeitimo ir kodekso papildymo 188-6 ir 188-7 straipsniais įstatymas Nr. XV-415",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-15495",
+  "official_journal_page": null,
+  "official_journal_date": "2025-09-16",
+  "entry_into_force": "2026-01-01",
+  "notification_date": "2025-12-31",
+  "commission_reference": "MNE(2025)07466",
+  "nim_celex": "72023L2226LTU_202507466",
+  "nim_id": "202507466",
+  "transposes_celex": [
+    "32023L2226"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/987aaf05-1fa9-45e4-a49c-0061532f15e5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
