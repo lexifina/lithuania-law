@@ -21,3 +21,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2024-01-01 | 2024-01-01 | Įstatymas Nr. XIII-1959 / Įstatymas Nr. XIII-2885 / Įstatymas Nr. XIV-810 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/2b462be91aeb1c095cb08cab77bdfe497850fd52/istatymai/TAR.E944EE006001.md) |
 | 2024-01-02 | 2024-06-30 | Įstatymas Nr. XIV-2454 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/14160804680345004aaa94a53e583ff2b622b782/istatymai/TAR.E944EE006001.md) |
 | 2024-07-01 | 2025-06-30 | Teisės aktų registras (Seimo kanceliarija) | [atviri-teises-aktai.lt](https://atviri-teises-aktai.lt/ta/2014-15180/data.json) |
+| 2026-01-01 |  | Įstatymas Nr. XIII-1959 / Įstatymas Nr. XIV-949 | [Cellar (notified to the EU)](https://publications.europa.eu/resource/cellar/1505f7c7-00e9-44e2-9544-a450ba63c313.0001.01/DOC_1) |
