@@ -1,6 +1,4 @@
-# Lietuvos Respublikos
-baudžiamojo kodekso
-priedas
+# Lietuvos Respublikos baudžiamojo kodekso priedas
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 1. 1996 m. gruodžio 9 d. Tarybos reglamentas (EB) Nr. 338/97 dėl laukinės faunos ir floros rūšių apsaugos kontroliuojant jų prekybą (OL 2004 m. specialusis leidimas, 15 skyrius, 3 tomas, p. 136).
 2. 2000 m. gegužės 29 d. Tarybos pagrindų sprendimas 2000/383/TVR dėl apsaugos nuo padirbinėjimo griežtinimo kriminalinėmis bausmėmis ir kitokiomis sankcijomis ryšium su euro įvedimu (OL 2004 m. specialusis leidimas, 19 skyrius, 1 tomas, p. 187).
@@ -41,3 +39,5 @@ priedas
 37. 2018 m. spalio 23 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/1673 dėl kovos su pinigų plovimu baudžiamosios teisės priemonėmis (OL 2018 L 284, p. 22).
 38. 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/713 dėl kovos su sukčiavimu negrynosiomis mokėjimo priemonėmis ir jų klastojimu, kuria pakeičiamas Tarybos pamatinis sprendimas 2001/413/TVR (OL 2019 L 123, p. 18).
 39. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2022/2557 dėl ypatingos svarbos subjektų atsparumo, kuria panaikinama Tarybos direktyva 2008/114/EB.
+39. 2023 m. spalio 4 d. Europos Parlamento ir Tarybos direktyva (ES) 2023/2123, kuria iš dalies keičiamas Tarybos sprendimas 2005/671/TVR dėl jo suderinimo su Sąjungos asmens duomenų apsaugos taisyklėmis.
+40. 2024 m. balandžio 24 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/1226 dėl nusikalstamų veikų apibrėžties ir sankcijų už Sąjungos ribojamųjų priemonių pažeidimą, kuria iš dalies keičiama Direktyva (ES) 2018/1673.
