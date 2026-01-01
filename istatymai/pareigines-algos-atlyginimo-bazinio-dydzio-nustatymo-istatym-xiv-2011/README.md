@@ -11,3 +11,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2024-01-01 | 2024-02-29 | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/504c62da7f09cfea8e792d4a086c7d540801c5b1/istatymai/TAR.8253C29006C7.md) |
 | 2024-03-01 | 2024-12-31 | Įstatymas Nr. XIV-2410 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/701609a38966d2e56c2516a7187001dacbbd4471/istatymai/TAR.8253C29006C7.md) |
 | 2025-01-01 |  | Įstatymas Nr. XIV-3039 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/45dab2ff8f22c9896afc1d0a317ebbabc0314f5a/istatymai/TAR.8253C29006C7.md) |
+| 2026-01-01 |  | Įstatymas Nr. XV-640 / Teisės aktų registras (Seimo kanceliarija) | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22xgjvczVGnV%22) |
