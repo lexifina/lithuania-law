@@ -1,3 +1,2 @@
-2002 m. sausio 15 d. Nr. IX-705 Vilnius
 I SKYRIUS
 BENDROSIOS NUOSTATOS
