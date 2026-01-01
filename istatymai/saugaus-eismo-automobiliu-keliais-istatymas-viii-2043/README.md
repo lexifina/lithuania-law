@@ -45,3 +45,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2025-01-01 | 2025-01-31 | Įstatymas Nr. X-1337 / Įstatymas Nr. XIV-3019 / Įstatymas Nr. XIV-3156 / Įstatymas Nr. XIV-3157 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/264e03f989e5259103dacdfc1f50d1e0af86bab0/istatymai/TAR.5DC1759E42CB.md) |
 | 2025-02-01 | 2025-07-31 | Įstatymas Nr. XIV-3154 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/c32d84538a52ed7db86ad7bb86eb124c904de46b/istatymai/TAR.5DC1759E42CB.md) |
 | 2025-08-01 | 2025-12-31 | Įstatymas Nr. XV-190 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/aebe0372d623dad0c5227b11c820fc333ab69340/istatymai/TAR.5DC1759E42CB.md) |
+| 2026-01-01 |  | Įstatymas Nr. XV-139 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/bf7dc89e3200a35ed9922abeff88e93068501a09/istatymai/TAR.5DC1759E42CB.md) |
