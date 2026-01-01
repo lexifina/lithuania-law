@@ -46,3 +46,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2025-06-19 | 2025-10-06 | Įstatymas Nr. XV-257 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22UdCWxiwByu%22) |
 | 2025-10-07 | 2025-10-31 | Įstatymas Nr. XV-447 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22eJPZGuQqpy%22) |
 | 2025-11-01 | 2025-12-31 | Įstatymas Nr. XV-257 / Teisės aktų registras (Seimo kanceliarija) | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22EFjpitAfXv%22) |
+| 2026-01-01 | 2026-01-12 | Įstatymas Nr. XV-447 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22vOMJenbUHk%22) |
