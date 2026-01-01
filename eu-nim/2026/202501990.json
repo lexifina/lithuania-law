@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos smurtiniais nusikaltimais padarytos žalos kompensavimo įstatymo Nr. X-296 V skyriaus pakeitimo įstatymas Nr. XV-138",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-05660",
+  "official_journal_page": null,
+  "official_journal_date": "2025-04-01",
+  "entry_into_force": "2026-01-01",
+  "notification_date": "2026-05-25",
+  "commission_reference": "MNE(2025)01990",
+  "nim_celex": "72004L0080LTU_202501990",
+  "nim_id": "202501990",
+  "transposes_celex": [
+    "32004L0080"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8873703a-1984-4a93-b5ba-9975bfcabb70",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
