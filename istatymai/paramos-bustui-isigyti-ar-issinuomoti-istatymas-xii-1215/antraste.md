@@ -1,2 +1,3 @@
+2014 m. spalio 9 d. Nr. XII-1215 Vilnius
 I SKYRIUS
 BENDROSIOS NUOSTATOS
