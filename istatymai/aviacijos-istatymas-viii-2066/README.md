@@ -50,3 +50,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2025-01-01 |  | Įstatymas Nr. XIII-2373 / Įstatymas Nr. XIV-3073 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/40aa8ec89000b03ba324974122a56721f2359010/istatymai/TAR.9D2F66B96EBC.md) |
 | 2025-10-02 | 2025-12-04 | Įstatymas Nr. XV-433 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22QtbHIdBSMm%22) |
 | 2025-12-05 | 2025-12-31 | Įstatymas Nr. XV-567 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22fZwpMYufvr%22) |
+| 2026-01-01 | 2026-05-31 | Įstatymas Nr. XIII-2373 / Įstatymas Nr. XV-567 / Įstatymas Nr. XV-692 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22odaEBHSnPt%22) |
