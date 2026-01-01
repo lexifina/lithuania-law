@@ -1,0 +1,3 @@
+FISKALINĖS VALDYSENOS
+ĮSTATYMAS
+2007 m. lapkričio 8 d. Nr. X-1316 Vilnius
