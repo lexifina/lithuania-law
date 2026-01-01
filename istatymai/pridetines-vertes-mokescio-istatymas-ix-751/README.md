@@ -38,3 +38,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2023-05-01 | 2025-04-30 | Įstatymas Nr. XIV-1661 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22PPjUIJTMJe%22) |
 | 2025-05-01 | 2025-06-27 | Įstatymas Nr. XV-155 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22KVbRYUuczq%22) |
 | 2025-06-28 | 2025-12-31 | Įstatymas Nr. XV-366 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22EsmKioQqPo%22) |
+| 2026-01-01 | 2026-06-30 | Įstatymas Nr. XV-324 / Įstatymas Nr. XV-366 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22cyyPvrxzKd%22) |
