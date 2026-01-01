@@ -21,3 +21,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2022-05-01 | 2024-06-30 | Įstatymas Nr. XIV-689 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/7e289f95f7141e75defe6195d31be04dc22c02d5/istatymai/TAR.A1FD809510BB.md) |
 | 2024-07-01 | 2024-08-31 | Įstatymas Nr. XIV-2823 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/3c4f69891d53c27d2610f9a1e8520c3ec90cbd11/istatymai/TAR.A1FD809510BB.md) |
 | 2024-09-01 | 2025-12-31 | Įstatymas Nr. XIV-2639 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/9730f6f341a0997439b3efaad0e7e1b49be8243f/istatymai/TAR.A1FD809510BB.md) |
+| 2026-01-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/c40b8c34f2ad96d8036ebb0fff04530dedbfa5a4/istatymai/TAR.A1FD809510BB.md) |
