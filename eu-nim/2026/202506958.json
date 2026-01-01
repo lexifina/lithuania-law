@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2025 m. gruodžio 3 d. nutarimas Nr. 876 „Dėl Kelių rinkliavos dydžių nustatymo metodikos patvirtinimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-21026",
+  "official_journal_page": null,
+  "official_journal_date": "2025-12-09",
+  "entry_into_force": "2026-01-01",
+  "notification_date": "2025-12-22",
+  "commission_reference": "MNE(2025)06958",
+  "nim_celex": "72022L0362LTU_202506958",
+  "nim_id": "202506958",
+  "transposes_celex": [
+    "32022L0362"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2e225f25-b436-4d78-8218-9ddb0a27bc0d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
