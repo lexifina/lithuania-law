@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 6, 7, 9, 16, 17, 21-1, 22, 22-1, 31, 35, 39, 39-1, 40-1, 41-1, 46, 46-2, 46-3, 47, 48, 48-2, 48-3, 48-4, 51, 52, 52-1, 61, 61-1, 61-2, 67, 69, 73-2, 76 straipsnių, priedo pakeitimo ir Įstatymo papildymo 61-2 straipsniu įstatymas Nr. XV-512",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-20133",
+  "official_journal_page": null,
+  "official_journal_date": "2025-11-28",
+  "entry_into_force": "2026-01-01",
+  "notification_date": "2025-12-04",
+  "commission_reference": "MNE(2025)06713",
+  "nim_celex": "72023L2413LTU_202506713",
+  "nim_id": "202506713",
+  "transposes_celex": [
+    "32023L2413"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/326fe6a2-1376-4b2c-a4d2-7292bfa22d2d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
