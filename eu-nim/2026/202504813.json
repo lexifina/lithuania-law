@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos tarybos 2025 m. balandžio 29 d. nutarimas Nr. TN-266 „Dėl Universaliosios pašto paslaugos teikėjo reguliavimo apskaitos ir reguliavimo apskaitos sistemos reikalavimų aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-07735",
+  "official_journal_page": null,
+  "official_journal_date": "2025-04-30",
+  "entry_into_force": "2026-01-01",
+  "notification_date": "2025-09-30",
+  "commission_reference": "MNE(2025)04813",
+  "nim_celex": "71997L0067LTU_202504813",
+  "nim_id": "202504813",
+  "transposes_celex": [
+    "31997L0067"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/05d6c062-6a3b-458f-b7bf-7712af68b669",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
