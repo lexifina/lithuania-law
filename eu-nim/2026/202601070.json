@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2025 m. gruodžio 29 d. nutarimas Nr. 940 „Dėl Lietuvos Respublikos Vyriausybės 2019 m. liepos 31 d. nutarimo Nr. 808 „Dėl Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo įgyvendinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-22833",
+  "official_journal_page": null,
+  "official_journal_date": "2025-12-29",
+  "entry_into_force": "2026-01-01",
+  "notification_date": "2026-02-11",
+  "commission_reference": "MNE(2026)01070",
+  "nim_celex": "72021L0555LTU_202601070",
+  "nim_id": "202601070",
+  "transposes_celex": [
+    "32021L0555"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b3e687f9-c09d-4fbb-bfda-120e37031dd8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
