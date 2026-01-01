@@ -1,4 +1,7 @@
-# Lietuvos Respublikos vadovybės apsaugos įstatymo priedas
+# RESPUBLIKOS PREZIDENTAS VALDAS ADAMKUS
+Lietuvos Respublikos
+vadovybės apsaugos įstatymo
+priedas
 LIETUVOS RESPUBLIKOS VADOVYBĖS APSAUGOS TARNYBOS PAREIGŪNŲ PAREIGINIŲ ALGŲ KOEFICIENTAI
 Eil. Nr.
 Tarnybinis rangas
