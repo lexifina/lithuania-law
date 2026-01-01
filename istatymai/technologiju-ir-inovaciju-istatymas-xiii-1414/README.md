@@ -16,3 +16,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2022-03-31 | 2025-03-31 | Įstatymas Nr. XIV-737 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/b033e75403ca4bf06f4abbed81fd7bef41ab353a/istatymai/TAR.303806A08694.md) |
 | 2025-04-01 | 2025-08-01 | Įstatymas Nr. XV-105 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/147e0bc4e2b90e994d46766786ccc08c6c2febe5/istatymai/TAR.303806A08694.md) |
 | 2025-08-02 | 2025-12-31 | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/b1f49f095f925781af924b40f3bfd6beab160926/istatymai/TAR.303806A08694.md) |
+| 2026-01-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/6732ea2ee4b23f820bf02da9e7ad607f75e73b5a/istatymai/TAR.303806A08694.md) |
