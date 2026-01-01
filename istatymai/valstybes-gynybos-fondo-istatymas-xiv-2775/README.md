@@ -10,3 +10,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | --- | --- | --- | --- |
 | 2024-10-01 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/3d3b4edf1c184549aa9cdc0a9dd043d595e41493/istatymai/TAR.3BE40B20353E.md) |
 | 2025-04-12 |  | Įstatymas Nr. XV-154 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/afaca470ca9f9bf85122c4081e2e98855720c21f/istatymai/TAR.3BE40B20353E.md) |
+| 2026-01-01 | 2026-01-01 | Teisės aktų registras (Seimo kanceliarija) | [atviri-teises-aktai.lt](https://atviri-teises-aktai.lt/ta/2024-12079/data.json) |
