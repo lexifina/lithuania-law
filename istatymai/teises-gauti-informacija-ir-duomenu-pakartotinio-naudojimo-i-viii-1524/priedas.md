@@ -1,6 +1,4 @@
-# LIETUVOS RESPUBLIKOS
-SEIMO PIRMININKAS VYTAUTAS LANDSBERGIS
-Lietuvos Respublikos
+# Lietuvos Respublikos
 teisės gauti informaciją ir duomenų
 pakartotinio naudojimo įstatymo
 priedas
