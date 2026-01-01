@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos viršininko 2025 m. gruodžio 10 d. įsakymas Nr. VA-119 „Dėl duomenų apie praneštinus kriptoturto naudotojus teikimo Valstybinei mokesčių inspekcijai tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-21129",
+  "official_journal_page": null,
+  "official_journal_date": "2025-12-10",
+  "entry_into_force": "2026-01-01",
+  "notification_date": "2025-12-31",
+  "commission_reference": "MNE(2025)07462",
+  "nim_celex": "72023L2226LTU_202507462",
+  "nim_id": "202507462",
+  "transposes_celex": [
+    "32023L2226",
+    "32025L0872"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0c35ab0a-6ded-4ea3-af4c-0a159d3aee9c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
