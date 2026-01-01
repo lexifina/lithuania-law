@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 2, 15, 19, 28, 50, 78, 92, 96 ir 121 straipsnių pakeitimo įstatymas Nr. XV-366",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-11774",
+  "official_journal_page": null,
+  "official_journal_date": "2025-07-27",
+  "entry_into_force": "2026-01-01",
+  "notification_date": "2025-10-22",
+  "commission_reference": "MNE(2025)05898",
+  "nim_celex": "72006L0112LTU_202505898",
+  "nim_id": "202505898",
+  "transposes_celex": [
+    "32006L0112",
+    "32010L0045",
+    "32022L0542"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c50eebac-a64c-4c98-a88c-432462ba01be",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
