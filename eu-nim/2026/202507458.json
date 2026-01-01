@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos viršininko 2025 m. gruodžio 10 d. įsakymas Nr. VA-120 „Dėl Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos viršininko 2012 m. gruodžio 18 d. įsakymo Nr. VA-114 „Dėl Abipusės pagalbos ir keitimosi mokestine informacija su Europos Sąjungos valstybių narių kompetentingomis institucijomis taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-21132",
+  "official_journal_page": null,
+  "official_journal_date": "2025-12-10",
+  "entry_into_force": "2026-01-01",
+  "notification_date": "2025-12-31",
+  "commission_reference": "MNE(2025)07458",
+  "nim_celex": "72023L2226LTU_202507458",
+  "nim_id": "202507458",
+  "transposes_celex": [
+    "32023L2226",
+    "32025L0872"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e0d0fb95-0432-4936-81ca-c64c48f041e1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
