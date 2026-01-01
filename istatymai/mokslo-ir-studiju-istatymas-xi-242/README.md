@@ -57,3 +57,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2024-10-04 | 2024-12-31 | Įstatymas Nr. XIV-2986 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/4858290ecd1f7149df54e94400040787b7378465/istatymai/TAR.C595FF45F869.md) |
 | 2025-01-01 | 2025-08-31 | Įstatymas Nr. XII-2534 / Įstatymas Nr. XIV-2585 / Įstatymas Nr. XV-86 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/16338d72c4a5a9f8fe18c5bc2c80c2f260378008/istatymai/TAR.C595FF45F869.md) |
 | 2025-09-01 | 2027-12-31 | Įstatymas Nr. XV-84 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/03e7a6f23c4f612735934907379dabe286eef43f/istatymai/TAR.C595FF45F869.md) |
+| 2026-01-01 | 2026-05-21 | Įstatymas Nr. XII-2534 / Įstatymas Nr. XV-608 / Įstatymas Nr. XV-610 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22JgZHdNszwS%22) |
