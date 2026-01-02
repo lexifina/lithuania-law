@@ -32,3 +32,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2025-12-16 | 2025-12-23 | Įstatymas Nr. XV-636 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22xeauSlCcBL%22) |
 | 2025-12-24 | 2025-12-31 | Įstatymas Nr. XV-663 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22saEGDwCBJf%22) |
 | 2026-01-01 | 2026-01-01 | 4 straipsnis įsigalioja 2015-01-01: Nr. XII-898 / Įstatymas Nr. XIV-1704 / Įstatymas Nr. XV-373 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22fwkjRzyNGV%22) |
+| 2026-01-02 | 2026-05-31 | Įstatymas Nr. XV-737 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22yJeDKcUhOZ%22) |
