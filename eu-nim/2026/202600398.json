@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos teisingumo ministro 2026 m. sausio 6 d. įsakymas Nr. 1R-4 \"Dėl teisingumo ministro 2024 m. gruodžio 12 d. įsakymo Nr. 1R-340 „Dėl saugos tyrimo atlikimo ir organizavimo, ataskaitų ir saugos rekomendacijų rengimo ir teikimo tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2026-00140",
+  "official_journal_page": null,
+  "official_journal_date": "2026-01-07",
+  "entry_into_force": "2026-01-08",
+  "notification_date": "2026-03-16",
+  "commission_reference": "MNE(2026)00398",
+  "nim_celex": "72009L0018LTU_202600398",
+  "nim_id": "202600398",
+  "transposes_celex": [
+    "32009L0018"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c21c7a8f-cdaf-4c8f-8282-2a6690bae644",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
