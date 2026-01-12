@@ -1,0 +1,25 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-1005 pakeitimo įstatymas Nr. XV-490",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-17893",
+  "official_journal_page": null,
+  "official_journal_date": "2025-10-28",
+  "entry_into_force": "2026-01-12",
+  "notification_date": "2025-12-15",
+  "commission_reference": "MNE(2025)06252",
+  "nim_celex": "72001L0018LTU_202506252",
+  "nim_id": "202506252",
+  "transposes_celex": [
+    "32001L0018",
+    "32004L0035",
+    "32005L0035",
+    "32010L0075"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/25e836dc-19f4-41e1-a32d-2c81aeb0e8ab",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
