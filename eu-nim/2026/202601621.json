@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2026 m. sausio 26 d. įsakymas Nr. 1-10 „Dėl energetikos ministro 2012 m. rugpjūčio 2 d. įsakymo Nr. 1-148 „Dėl energijos vartojimo pastatuose, įrenginiuose ir technologiniams procesams audito atlikimo tvarkos ir sąlygų ir energijos vartojimo pastatuose, įrenginiuose ir technologiniams procesams auditą atliekančių specialistų rengimo ir atestavimo tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2026-01033",
+  "official_journal_page": null,
+  "official_journal_date": "2026-01-26",
+  "entry_into_force": "2026-01-27",
+  "notification_date": "2026-03-12",
+  "commission_reference": "MNE(2026)01621",
+  "nim_celex": "72023L1791LTU_202601621",
+  "nim_id": "202601621",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d0c691a1-56ba-4f92-93e2-7584e7158d18",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
