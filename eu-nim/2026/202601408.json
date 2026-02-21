@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos tarybos 2026 m. vasario 20 d. nutarimas Nr. TN-53 „Dėl Prieigos, įskaitant viešųjų elektroninių ryšių tinklų sujungimą, suteikimo ir teikimo tvarkos aprašo patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2026-02877",
+  "official_journal_page": null,
+  "official_journal_date": "2026-02-20",
+  "entry_into_force": "2026-02-21",
+  "notification_date": "2026-03-16",
+  "commission_reference": "MNE(2026)01408",
+  "nim_celex": "72018L1972LTU_202601408",
+  "nim_id": "202601408",
+  "transposes_celex": [
+    "32018L1972"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d81020ab-5b41-4b9d-be7d-b4a6f11b2cad",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
