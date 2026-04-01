@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos gaminių ir paslaugų prieinamumo reikalavimų įstatymo Nr. XIV-1633 1, 2, 3, 6, 7, 14, 16, 17, 18, 19, 20, 26, 29 straipsnių ir 1 priedo pakeitimo įstatymas Nr. XV-760",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2026-04023",
+  "official_journal_page": null,
+  "official_journal_date": "2026-03-13",
+  "entry_into_force": "2026-04-01",
+  "notification_date": "2026-03-18",
+  "commission_reference": "MNE(2026)01778",
+  "nim_celex": "72019L0882LTU_202601778",
+  "nim_id": "202601778",
+  "transposes_celex": [
+    "32019L0882"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/89c65e12-10fe-4b97-9e56-1c2114579f59",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
