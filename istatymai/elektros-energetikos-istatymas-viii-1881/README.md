@@ -82,3 +82,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2025-12-24 | 2025-12-31 | Įstatymas Nr. XV-687 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22XklEJLqdyO%22) |
 | 2026-01-01 | 2026-02-28 | Įstatymas Nr. XI-1919 / Įstatymas Nr. XIV-1668 / Įstatymas Nr. XV-512 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22HfKtjxlNDG%22) |
 | 2026-03-01 | 2026-03-31 | Įstatymas Nr. XI-1919 / Įstatymas Nr. XV-512 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22cljxTbsUHA%22) |
+| 2026-04-01 | 2026-04-30 | Įstatymas Nr. XI-1919 / Įstatymas Nr. XV-512 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22NqFYJEIDSv%22) |
