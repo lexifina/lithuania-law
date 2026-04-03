@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2026 m. kovo 25 d. nutarimas Nr. 194 „Dėl Lietuvos Respublikos Vyriausybės 2014 m. lapkričio 26 d. nutarimo Nr. 1328 „Dėl Viešųjų pastatų energinio efektyvumo didinimo programos patvirtinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2026-05438",
+  "official_journal_page": null,
+  "official_journal_date": "2026-04-02",
+  "entry_into_force": "2026-04-03",
+  "notification_date": "2026-06-30",
+  "commission_reference": "MNE(2026)02828",
+  "nim_celex": "72023L1791LTU_202602828",
+  "nim_id": "202602828",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/907e6156-a9b6-44ee-ad9e-ddc07f52582b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
