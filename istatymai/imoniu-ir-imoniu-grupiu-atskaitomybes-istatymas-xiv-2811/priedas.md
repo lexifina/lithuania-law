@@ -1,4 +1,5 @@
-# Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatymo priedas
+# Respublikos Prezidentas Gitanas Nausėda
+Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatymo priedas
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 1. 2002 m. liepos 19 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1606/2002 dėl tarptautinių apskaitos standartų taikymo.
 2. 2023 m. rugpjūčio 13 d. Komisijos reglamentas (EB) 2023/1803, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 1606/2002 priimami tam tikri tarptautiniai apskaitos standartai.
