@@ -3,7 +3,6 @@
 50
 50
 50
-50
 _________________
 Lietuvos Respublikos
 akcizų įstatymo
