@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2026 m. balandžio 17 d. įsakymas Nr. D1-62 „Dėl Lietuvos Respublikos aplinkos ministro 2001 m. gruodžio 12 d. įsakymo Nr. 592 „Dėl Europos Bendrijos svarbos gyvūnų ir augalų rūšių, kurioms reikalinga griežta apsauga, ir Europos Bendrijos svarbos gyvūnų ir augalų rūšių, kurių ėmimui iš gamtos ir naudojimui gali būti taikomos tvarkymo priemonės, sąrašų patvirtinimo, apsaugos priemonių nustatymo ir duomenų kaupimo apie šias rūšis“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2026-06278",
+  "official_journal_page": null,
+  "official_journal_date": "2026-04-17",
+  "entry_into_force": "2026-04-18",
+  "notification_date": "2026-05-22",
+  "commission_reference": "MNE(2026)02455",
+  "nim_celex": "71992L0043LTU_202602455",
+  "nim_id": "202602455",
+  "transposes_celex": [
+    "31992L0043",
+    "32025L1237"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/07186324-bc10-4c78-8696-f1ff0b5f5dea",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
