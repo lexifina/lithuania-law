@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2026 m. balandžio 24 d. įsakymas Nr. 3-194 „Dėl Lietuvos Respublikos susisiekimo ministro 2025 m. birželio 19 d. įsakymo Nr. 3-226 „Dėl Direktyvos (ES) 2010/40 su paskutiniais pakeitimais, padarytais 2023 m. lapkričio 22 d. Europos Parlamento ir Tarybos direktyva (ES) 2023/2661, įgyvendinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2026-06705",
+  "official_journal_page": null,
+  "official_journal_date": "2026-04-24",
+  "entry_into_force": "2026-04-25",
+  "notification_date": "2026-05-13",
+  "commission_reference": "MNE(2026)02632",
+  "nim_celex": "72023L2661LTU_202602632",
+  "nim_id": "202602632",
+  "transposes_celex": [
+    "32023L2661"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e3ec8e5d-9e44-4fd9-9346-4cfe009d8940",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
