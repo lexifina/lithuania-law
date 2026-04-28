@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2026 m. balandžio 27 d. įsakymas Nr. 3-198 „Dėl Lietuvos Respublikos susisiekimo ministro 2012 m. kovo 19 d. įsakymo Nr. 3-193 „Dėl intelektinių transporto sistemų diegimo ir naudojimo tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2026-06811",
+  "official_journal_page": null,
+  "official_journal_date": "2026-04-27",
+  "entry_into_force": "2026-04-28",
+  "notification_date": "2026-05-13",
+  "commission_reference": "MNE(2026)02631",
+  "nim_celex": "72023L2661LTU_202602631",
+  "nim_id": "202602631",
+  "transposes_celex": [
+    "32023L2661"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/aa7e6bae-df48-4216-b4aa-395f641eb15f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
