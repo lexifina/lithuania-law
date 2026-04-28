@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos finansinio tvarumo įstatymo Nr. XI-393 2, 25-4, 37, 43, 98 straipsnių ir priedo pakeitimo įstatymas Nr. XV-850",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2026-06959",
+  "official_journal_page": null,
+  "official_journal_date": "2026-04-28",
+  "entry_into_force": "2030-01-10",
+  "notification_date": "2026-05-29",
+  "commission_reference": "MNE(2026)03328",
+  "nim_celex": "72023L2864LTU_202603328",
+  "nim_id": "202603328",
+  "transposes_celex": [
+    "32023L2864"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/daf85a4b-53ff-4ff9-98b6-cde1e49173fb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
