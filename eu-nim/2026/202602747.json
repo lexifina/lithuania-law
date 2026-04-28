@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 pakeitimo įstatymas Nr. XV-822",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2026-06936",
+  "official_journal_page": null,
+  "official_journal_date": "2026-04-28",
+  "entry_into_force": "2026-11-20",
+  "notification_date": "2026-05-13",
+  "commission_reference": "MNE(2026)02747",
+  "nim_celex": "72023L2225LTU_202602747",
+  "nim_id": "202602747",
+  "transposes_celex": [
+    "32023L2225"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8e49cb74-c72c-4d17-82af-f9d2dd0cd0bd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
