@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 31, 174 straipsnių ir priedo pakeitimo įstatymas Nr. XV-847",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2026-06956",
+  "official_journal_page": null,
+  "official_journal_date": "2026-04-28",
+  "entry_into_force": "2028-01-10",
+  "notification_date": "2026-05-29",
+  "commission_reference": "MNE(2026)03320",
+  "nim_celex": "72023L2864LTU_202603320",
+  "nim_id": "202603320",
+  "transposes_celex": [
+    "32023L2864"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/182f6d27-4f7b-405d-a2c4-5c90d530de31",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
