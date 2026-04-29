@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos kredito administratorių ir kredito pirkėjų įstatymo Nr. XIV-2895 2, 3, 8, 13, 19 ir 23 straipsnių pakeitimo įstatymas Nr. XV-823",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2026-06937",
+  "official_journal_page": null,
+  "official_journal_date": "2026-04-28",
+  "entry_into_force": "2026-04-29",
+  "notification_date": "2026-05-13",
+  "commission_reference": "MNE(2026)02748",
+  "nim_celex": "72021L2167LTU_202602748",
+  "nim_id": "202602748",
+  "transposes_celex": [
+    "32021L2167"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5a86e82d-5518-4b15-92be-f165c92f040d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
