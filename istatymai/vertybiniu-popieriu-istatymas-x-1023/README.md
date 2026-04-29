@@ -23,3 +23,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2024-12-21 |  | Įstatymas Nr. XIV-3078 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/148a5641af4eb69bc295fa4a83efb53c7e05331e/istatymai/TAR.3DF892F52616.md) |
 | 2025-07-01 | 2026-04-15 | Įstatymas Nr. XV-336 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22ZbgHBAOXVg%22) |
 | 2026-04-16 | 2026-04-28 | Įstatymas Nr. XV-793 / Įstatymas Nr. XV-794 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22diYPcaihbQ%22) |
+| 2026-04-29 | 2026-06-04 | Įstatymas Nr. XV-844 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22jwwwPUiRwU%22) |
