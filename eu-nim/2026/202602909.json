@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės energetikos reguliavimo tarybos 2026 m. balandžio 30 d. nutarimas Nr. O3-470 „Dėl AB „Energijos skirstymo operatorius“ pasinaudojimo elektros skirstomaisiais tinklais tvarkos aprašo patvirtinimo”",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2026-07219",
+  "official_journal_page": null,
+  "official_journal_date": "2026-04-30",
+  "entry_into_force": "2026-05-01",
+  "notification_date": "2026-05-15",
+  "commission_reference": "MNE(2026)02909",
+  "nim_celex": "72023L2413LTU_202602909",
+  "nim_id": "202602909",
+  "transposes_celex": [
+    "32023L2413"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c7639d0a-1f2a-4fe9-890e-ddc87386aa22",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
