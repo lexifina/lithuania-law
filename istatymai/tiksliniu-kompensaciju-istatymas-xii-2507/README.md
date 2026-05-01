@@ -22,3 +22,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2023-04-01 | 2023-12-31 | Įstatymas Nr. XIV-1851 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/630f8bd8a101a6253fd206be37905c4592b7e257/istatymai/TAR.398A02704A6F.md) |
 | 2024-01-01 | 2024-11-20 | Įstatymas Nr. XIV-1723 / Įstatymas Nr. XIV-1855 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/eb3324e0b32d6eb599ce67fd17458f9c96074f45/istatymai/TAR.398A02704A6F.md) |
 | 2024-11-21 |  | Įstatymas Nr. XIV-3161 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/18f5f2cd10b587acef4eb0db03d1babc9448b9f1/istatymai/TAR.398A02704A6F.md) |
+| 2026-05-01 | 2026-05-21 | Teisės aktų registras (Seimo kanceliarija) | [atviri-teises-aktai.lt](https://atviri-teises-aktai.lt/ta/2016-20644/data.json) |
