@@ -1,4 +1,2 @@
-2010 m. vasario 11 d. Nr. XI-681
-Vilnius
 I SKYRIUS
 BENDROSIOS NUOSTATOS
