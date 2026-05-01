@@ -1,7 +1,7 @@
 # Lietuvos Respublikos specialiųjų žemės
 naudojimo sąlygų įstatymo
 2 priedas
-Gamybinių objektų sanitarinės apsaugos zonų dydIS
+GAMYBINIŲ OBJEKTŲ SANITARINĖS APSAUGOS ZONŲ DYDIS
 Eil. Nr.
 Gamybinio objekto arba jame vykdomos veiklos pavadinimas
 Kodas pagal Ekonominės veiklos rūšių klasifikatorių
@@ -119,6 +119,7 @@ Augalų apsaugos produktų ir kitų agrocheminių medžiagų gamyba
 19.
 Dažų, lakų ir panašių dangų medžiagų, spaustuvinių dažų ir mastikų gamyba
 20.3
+300
 20.
 Muilo ir ploviklių, valiklių ir blizgiklių gamyba, kai gamybos pajėgumas – 10 ir daugiau tonų per parą
 20.41
