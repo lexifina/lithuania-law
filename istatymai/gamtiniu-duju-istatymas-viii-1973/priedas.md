@@ -1,4 +1,5 @@
-# Lietuvos Respublikos gamtinių dujų įstatymo priedas
+# RESPUBLIKOS PREZIDENTĖ DALIA GRYBAUSKAITĖ
+Lietuvos Respublikos gamtinių dujų įstatymo priedas
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 1. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyva 2009/73/EB dėl gamtinių dujų vidaus rinkos bendrųjų taisyklių, panaikinanti Direktyvą 2003/55/EB, su paskutiniais pakeitimais, padarytais 2022 m. gegužės 30 d. Europos Parlamento ir Tarybos reglamentu (ES) 2022/869.
 2. 2017 m. kovo 16 d. Komisijos reglamentas (ES) 2017/460, kuriuo nustatomas suderintos gamtinių dujų perdavimo tarifų struktūros tinklo kodeksas.

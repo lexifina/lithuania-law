@@ -37,3 +37,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2025-04-26 | 2025-05-31 | Įstatymas Nr. XV-166 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/e2077dbce39dc49260273c08c104914a66061988/istatymai/TAR.0C5C33AA865C.md) |
 | 2025-06-01 | 2026-04-30 | Įstatymas Nr. XV-166 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/76490121c8c9839432ec2ff44187abba9e06e061/istatymai/TAR.0C5C33AA865C.md) |
 | 2025-10-01 | 2026-04-30 | Teisės aktų registras (Seimo kanceliarija) | [atviri-teises-aktai.lt](https://atviri-teises-aktai.lt/ta/1001010ISTAIII-1973/data.json) |
+| 2026-05-01 |  | Įstatymas Nr. XI-1564 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22SLGKADbfCh%22) |
