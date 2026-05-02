@@ -1,0 +1,3 @@
+ŽEMĖS ŪKIO PASKIRTIES ŽEMĖS ĮSIGIJIMO ĮSTATYMAS
+2003 m. sausio 28 d. Nr. IX-1314
+Vilnius

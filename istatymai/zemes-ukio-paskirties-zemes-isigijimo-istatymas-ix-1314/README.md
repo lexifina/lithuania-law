@@ -29,3 +29,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2025-02-01 | 2025-06-30 | Įstatymas Nr. XV-95 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/aa46a527a07d53bac0b1e7f24073aaa0aa994fb1/istatymai/TAR.7A932101FADA.md) |
 | 2025-07-01 |  | Įstatymas Nr. XIV-3117 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/3c1498b9bdc36c3a3b9c2ff7a8cdf8230d7bda03/istatymai/TAR.7A932101FADA.md) |
 | 2026-05-01 | 2026-05-01 | Teisės aktų registras (Seimo kanceliarija) | [atviri-teises-aktai.lt](https://atviri-teises-aktai.lt/ta/1031010ISTA0IX-1314/data.json) |
+| 2026-05-02 |  | Įstatymas Nr. XIV-2123 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22OORmDsBGPW%22) |
