@@ -13,3 +13,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2024-06-03 | 2025-05-02 | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/419539cd2c6e57bf6cf68580658fac3d83b31f49/istatymai/TAR.9DA27FA0E03E.md) |
 | 2025-05-03 |  | Įstatymas Nr. XV-170 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/493322abf61b4ee89b4a4b05b95e04fef17ef0a7/istatymai/TAR.9DA27FA0E03E.md) |
 | 2025-07-01 | 2026-05-02 | Teisės aktų registras (Seimo kanceliarija) | [atviri-teises-aktai.lt](https://atviri-teises-aktai.lt/ta/2023-07804/data.json) |
+| 2026-05-03 |  | Įstatymas Nr. XV-840 / Teisės aktų registras (Seimo kanceliarija) | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22unkIIRFuht%22) |
