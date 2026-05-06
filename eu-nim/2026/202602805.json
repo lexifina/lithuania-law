@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2026 m. gegužės 5 d. įsakymas Nr. D1-76 „Dėl Lietuvos Respublikos aplinkos ministro 2012 m. liepos 4 d. įsakymo Nr. D1-576 „Dėl Gamintojų ir importuotojų organizacijoms išduodamų dokumentų, įrodančių, kad elektros ir elektroninės įrangos, alyvos, baterijų ir akumuliatorių atliekų ar eksploatuoti netinkamų transporto priemonių tvarkymas bus finansuojamas, sudarymo ir vykdymo, lėšų, gautų pagal šias sutartis, kaupimo, naudojimo ir grąžinimo taisyklių patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2026-07598",
+  "official_journal_page": null,
+  "official_journal_date": "2026-05-05",
+  "entry_into_force": "2026-05-06",
+  "notification_date": "2026-06-01",
+  "commission_reference": "MNE(2026)02805",
+  "nim_celex": "72012L0019LTU_202602805",
+  "nim_id": "202602805",
+  "transposes_celex": [
+    "32012L0019",
+    "32024L0884"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f6cb57b6-ba99-48b2-97f3-ed55bdcced05",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
