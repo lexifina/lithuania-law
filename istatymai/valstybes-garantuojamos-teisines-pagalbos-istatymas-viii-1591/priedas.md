@@ -1,4 +1,5 @@
-# Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo priedas
+# RESPUBLIKOS PREZIDENTAS VALDAS ADAMKUS
+Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo priedas
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 1. 2003 m. sausio 27 d. Tarybos direktyva 2003/8/EB, numatanti teisės kreiptis į teismą įgyvendinimo tarptautiniuose ginčuose pagerinimą nustatant minimalias bendras teisinės pagalbos tokiems ginčams taisykles.
 2. 2003 m. lapkričio 25 d. Tarybos direktyva 2003/109/EB dėl trečiųjų valstybių piliečių, kurie yra ilgalaikiai gyventojai, statuso.
