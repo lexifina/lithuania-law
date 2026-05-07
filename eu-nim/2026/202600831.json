@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos civilinio proceso kodekso 95, 95-1, 142 straipsnių pakeitimo ir Kodekso papildymo priedu įstatymas Nr. XV-700",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-22993",
+  "official_journal_page": null,
+  "official_journal_date": "2025-12-30",
+  "entry_into_force": "2026-05-07",
+  "notification_date": "2026-01-29",
+  "commission_reference": "MNE(2026)00831",
+  "nim_celex": "72024L1069LTU_202600831",
+  "nim_id": "202600831",
+  "transposes_celex": [
+    "32024L1069"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0c39dfb0-0496-40bf-ac55-afc76fa4a663",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
