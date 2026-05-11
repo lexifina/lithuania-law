@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2026 m. balandžio 8 d. nutarimas Nr. 244 „Dėl Lietuvos Respublikos Vyriausybės 2015 m. birželio 17 d. nutarimo Nr. 621 „Dėl perkančiosioms organizacijoms taikomų energijos vartojimo efektyvumo reikalavimų prekėms, paslaugoms ir pastatams“ pripažinimo netekusiu galios“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2026-05827",
+  "official_journal_page": null,
+  "official_journal_date": "2026-04-09",
+  "entry_into_force": "2026-05-11",
+  "notification_date": "2026-06-30",
+  "commission_reference": "MNE(2026)02826",
+  "nim_celex": "72023L1791LTU_202602826",
+  "nim_id": "202602826",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7214e834-2ae2-46ae-a2cf-536b2f71b230",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
