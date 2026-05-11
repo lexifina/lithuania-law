@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2026 m. gegužės 8 d. įsakymas Nr. 1-117 ”Dėl energetikos ministro 2015 m. birželio 18 d. įsakymo Nr. 1-154 „Dėl Prekių, išskyrus kelių transporto priemones, kurioms viešųjų pirkimų ir perkančiųjų subjektų atliekamų pirkimų metu taikomi energijos vartojimo efektyvumo reikalavimai, sąrašo patvirtinimo“ pakeitimo”",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2026-07822",
+  "official_journal_page": null,
+  "official_journal_date": "2026-05-08",
+  "entry_into_force": "2026-05-11",
+  "notification_date": "2026-06-30",
+  "commission_reference": "MNE(2026)02921",
+  "nim_celex": "72023L1791LTU_202602921",
+  "nim_id": "202602921",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/492ce866-fd30-4864-ab38-741a9d5d81bd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
