@@ -26,3 +26,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2023-11-30 | 2023-12-31 | Įstatymas Nr. XIV-2244 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/a5bb710f7bc80fd6506ce2e1f3b2fc4823e0ea03/istatymai/TAR.96A68BFC9E82.md) |
 | 2024-01-01 | 2024-01-01 | Įstatymas Nr. XIV-2003 / Įstatymas Nr. XIV-2244 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/29c59ce1baebe0ff79ff5be09b13b89f2dd01130/istatymai/TAR.96A68BFC9E82.md) |
 | 2024-01-02 |  | Įstatymas Nr. XIV-2244 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/862699ee1a599a06c35469a541d723ec1969f4df/istatymai/TAR.96A68BFC9E82.md) |
+| 2026-05-13 |  | Teisės aktų registras (Seimo kanceliarija) | [atviri-teises-aktai.lt](https://atviri-teises-aktai.lt/ta/0941010ISTA000I-464/data.json) |
