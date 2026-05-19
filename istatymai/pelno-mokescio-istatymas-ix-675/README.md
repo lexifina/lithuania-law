@@ -34,3 +34,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2025-12-12 | 2025-12-31 | Teisės aktų registras (Seimo kanceliarija) | [atviri-teises-aktai.lt](https://atviri-teises-aktai.lt/ta/1011010ISTA00IX-675/data.json) |
 | 2026-01-01 | 2026-04-30 | Įstatymas Nr. XV-285 / Įstatymas Nr. XV-383 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22dSffDgOJiF%22) |
 | 2026-05-01 | 2026-05-18 | Įstatymas Nr. XV-839 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22LJZwGNfGPP%22) |
+| 2026-05-19 | 2026-12-31 | Teisės aktų registras (Seimo kanceliarija) | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22hCLyLeiKmp%22) |
