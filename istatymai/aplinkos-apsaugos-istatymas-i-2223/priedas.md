@@ -27,4 +27,6 @@ priedas
 164. 2023 m. rugsėjo 13 d. Europos Parlamento ir Tarybos reglamentas (ES) 2023/1805 dėl atsinaujinančiųjų energijos išteklių ir mažo anglies dioksido pėdsako kuro naudojimo jūrų transporto sektoriuje, kuriuo iš dalies keičiama Direktyva 2009/16/EB.
 17. 2024 m. vasario 7 d. Europos Parlamento ir Tarybos reglamentas (ES) 2024/573 dėl fluorintų šiltnamio efektą sukeliančių dujų, kuriuo iš dalies keičiama Direktyva (ES) 2019/1937 ir panaikinamas Reglamentas (ES) Nr. 517/2014.
 18. 2024 m. vasario 7 d. Europos Parlamento ir Tarybos reglamentas (ES) 2024/590 dėl ozono sluoksnį ardančių medžiagų, kuriuo panaikinamas Reglamentas (EB) Nr. 1005/2009.
+181. 2024 m. balandžio 11 d. Europos Parlamento ir Tarybos reglamentas (ES) 2024/1157 dėl atliekų vežimo, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1257/2013 ir (ES) 2020/1056 ir panaikinamas Reglamentas (EB) Nr. 1013/2006.
+182. 2024 m. balandžio 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/1203 dėl aplinkos apsaugos baudžiamosios teisės priemonėmis, kuria pakeičiamos direktyvos 2008/99/EB ir 2009/123/EB.
 19. 2024 m. gruodžio 19 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 2024/3234, kuriuo iš dalies keičiamas Reglamentas (ES) 2023/1115, kiek tai susiję su nuostatomis dėl taikymo pradžios datos.
