@@ -54,3 +54,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2025-07-01 |  | Įstatymas Nr. IX-1219 / Įstatymas Nr. XIV-2789 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/574970423f603bf28c4b52901207f357fecc7669/istatymai/TAR.94F6B680E8B8.md) |
 | 2026-01-01 | 2026-04-30 | Įstatymas Nr. IX-1219 / Įstatymas Nr. XV-354 / Įstatymas Nr. XV-653 | [Cellar (notified to the EU)](https://publications.europa.eu/resource/cellar/1fec859d-8fb0-44e8-a63c-ea65c5b6466a.0001.01/DOC_1) |
 | 2026-05-01 | 2026-05-21 | Įstatymas Nr. XV-584 / Teisės aktų registras (Seimo kanceliarija) | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22tiRWMfVHWq%22) |
+| 2026-05-22 | 2026-06-30 | Įstatymas Nr. XV-956 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22hMLzjYQlyA%22) |
