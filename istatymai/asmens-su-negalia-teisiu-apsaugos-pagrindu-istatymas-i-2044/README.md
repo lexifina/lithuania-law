@@ -45,3 +45,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2026-01-01 | 2026-03-13 | Įstatymas Nr. XV-695 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22pXkmjGqlpg%22) |
 | 2026-03-14 | 2026-04-30 | Įstatymas Nr. XV-761 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22ahrJMOMzhP%22) |
 | 2026-05-01 | 2026-05-21 | Įstatymas Nr. XV-587 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22CRsGDqqLtu%22) |
+| 2026-05-22 | 2026-06-30 | Įstatymas Nr. XV-947 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22sFuDfWLluF%22) |
