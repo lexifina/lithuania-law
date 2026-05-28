@@ -47,3 +47,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2025-07-01 |  | Įstatymas Nr. XIV-2790 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/56e620322047b0f0ff361cec0dfa928da028af11/istatymai/TAR.E2B2957B9182.md) |
 | 2026-05-01 | 2026-05-21 | Įstatymas Nr. XV-583 / Įstatymas Nr. XV-698 / Teisės aktų registras (Seimo kanceliarija) | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22wTbxuHkckX%22) |
 | 2026-05-22 | 2026-05-27 | Įstatymas Nr. XV-957 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22rGcjZeHYGj%22) |
+| 2026-05-28 | 2026-12-31 | Teisės aktų registras (Seimo kanceliarija) | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22ttuecfsElg%22) |
