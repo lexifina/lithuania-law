@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2026 m. gegužės 28 d. įsakymas Nr. 1-134 „Dėl energetikos ministro 2017 m. vasario 22 d. įsakymo Nr. 1-46 „Dėl įmonių, kurios nėra smulkiojo ir vidutinio verslo subjektai, energijos vartojimo audito atlikimo ir ataskaitų teikimo priežiūros tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2026-09182",
+  "official_journal_page": null,
+  "official_journal_date": "2026-05-28",
+  "entry_into_force": "2026-05-29",
+  "notification_date": "2026-06-30",
+  "commission_reference": "MNE(2026)03612",
+  "nim_celex": "72023L1791LTU_202603612",
+  "nim_id": "202603612",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/33fb2504-c5fd-4b74-8dac-2d6ce1754978",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
