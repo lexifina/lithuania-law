@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2026 m. balandžio 10 d. įsakymas Nr. A1-220 \"Dėl Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2000 m. kovo 6 d. įsakymo Nr. 28 „Dėl Techninio reglamento „Mašinų sauga“ patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2026-05902",
+  "official_journal_page": null,
+  "official_journal_date": "2026-04-10",
+  "entry_into_force": "2026-05-30",
+  "notification_date": "2026-05-29",
+  "commission_reference": "MNE(2026)03199",
+  "nim_celex": "72024L2749LTU_202603199",
+  "nim_id": "202603199",
+  "transposes_celex": [
+    "32024L2749"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a89a3dc4-2024-4229-9daa-4b22dd3a11a0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
