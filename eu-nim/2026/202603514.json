@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos tarybos 2026 m. balandžio 2 d. nutarimas Nr. TN-127 „Dėl Lietuvos Respublikos ryšių reguliavimo tarnybos direktoriaus 2006 m. gruodžio 15 d. įsakymo Nr. 1V-1328 „Dėl Elektromagnetinio suderinamumo techninio reglamento patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2026-05484",
+  "official_journal_page": null,
+  "official_journal_date": "2026-04-02",
+  "entry_into_force": "2026-05-30",
+  "notification_date": "2026-06-01",
+  "commission_reference": "MNE(2026)03514",
+  "nim_celex": "72024L2749LTU_202603514",
+  "nim_id": "202603514",
+  "transposes_celex": [
+    "32024L2749"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ceb44eb7-abfe-4521-b0c3-9de6e1f4b326",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
