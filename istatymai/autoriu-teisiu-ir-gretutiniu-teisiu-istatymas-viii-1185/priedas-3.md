@@ -1,7 +1,4 @@
-# part_38ae0bec3f8d4e2bb38cbf9e447fe492_end
-Lietuvos Respublikos
-autorių teisių ir gretutinių teisių įstatymo
-3 priedas
+# Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo 3 priedas
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 1. 1993 m. rugsėjo 27 d. Tarybos direktyva 93/83/EEB dėl tam tikrų autorių teisių ir gretutinių teisių taisyklių, taikomų palydoviniam transliavimui ir kabeliniam perdavimui, koordinavimo.
 2. 1996 m. kovo 11 d. Europos Parlamento ir Tarybos direktyva 96/9/EB dėl duomenų bazių teisinės apsaugos.
@@ -18,4 +15,3 @@ autorių teisių ir gretutinių teisių įstatymo
 13. 2017 m. rugsėjo 13 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/1563 dėl Sąjungos ir trečiųjų šalių tarpvalstybinio keitimosi autorių ir gretutinių teisių saugomų tam tikrų kūrinių ir kitų objektų prieinamos formos kopijomis aklų, regos sutrikimų ar kitą spausdinto teksto skaitymo negalią turinčių asmenų labui.
 14. 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/789, kuria nustatomos naudojimosi autorių teisėmis ir gretutinėmis teisėmis, taikytinomis tam tikroms transliuojančiųjų organizacijų internetu transliuojamoms programoms bei retransliuojamoms televizijos ir radijo programoms, taisyklės ir kuria iš dalies keičiama Tarybos direktyva 93/83/EEB.
 15. 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/790 dėl autorių teisių ir gretutinių teisių bendrojoje skaitmeninėje rinkoje, kuria iš dalies keičiamos direktyvos 96/9/EB ir 2001/29/EB.
-part_8c96b05ff48543d1a0d2b7c6dc28518e_end

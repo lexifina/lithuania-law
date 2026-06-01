@@ -1,9 +1,2 @@
-Nauja įstatymo redakcija nuo 2003-03-21:
-(20 straipsnio 3, 4, 5, 6 dalys įsigalioja nuo 2004-01-01)
-Nr. IX-1355, 2003-03-05, Žin., 2003, Nr. 28-1125 (2003-03-21)
-LIETUVOS RESPUBLIKOS
-AUTORIŲ TEISIŲ IR GRETUTINIŲ TEISIŲ
-ĮSTATYMAS
-1999 m. gegužės 18 d. Nr. VIII-1185 Vilnius
 I SKYRIUS
 BENDROSIOS NUOSTATOS

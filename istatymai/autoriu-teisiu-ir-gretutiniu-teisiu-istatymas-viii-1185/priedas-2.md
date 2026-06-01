@@ -1,7 +1,5 @@
 # 4,34 Eur
-part_db3ace27ca3949fbb0d943c65675fb71_end
-Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo
-2 priedas
+Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo 2 priedas
 REPROGRAFIJOS ĮRENGINIAI, UŽ KURIUOS MOKAMAS KOMPENSACINIS ATLYGINIMAS, KOMPENSACINIO ATLYGINIMO UŽ REPROGRAFIJOS ĮRENGINIUS IR UŽ ATGAMINIMO REPROGRAFIJOS BŪDU PASLAUGAS TARIFAI
 I. Reprografijos įrenginiai, už kuriuos mokamas kompensacinis atlyginimas, ir kompensacinio atlyginimo už reprografijos įrenginius tarifai
 Įrenginiai
