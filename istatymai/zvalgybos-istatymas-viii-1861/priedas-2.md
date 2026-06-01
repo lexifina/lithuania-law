@@ -1,6 +1,5 @@
-# ___________________
-Lietuvos Respublikos žvalgybos įstatymo
-2 priedas
+# __________________________
+Lietuvos Respublikos žvalgybos įstatymo 2 priedas
 ŽVALGYBOS PAREIGŪNŲ PAREIGINĖS ALGOS KOEFICIENTAI
 Eil. Nr.
 Pareigų pavadinimas
@@ -39,6 +38,3 @@ nuo 1,37
 Specialistas
 nuo 1,22
 12.
-Jaunesnysis specialistas
-nuo 1,11
-___________________

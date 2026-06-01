@@ -1,6 +1,4 @@
-# RESPUBLIKOS PREZIDENTAS VALDAS ADAMKUS
-Lietuvos Respublikos žvalgybos įstatymo
-1 priedas
+# Lietuvos Respublikos žvalgybos įstatymo 1 priedas
 ŽVALGYBOS PAREIGŪNO TARNYBOS SUTARTIS Nr. ______
 ____________________
 (data)
