@@ -1,4 +1,8 @@
-# Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo 1 priedas
+# RESPUBLIKOS PREZIDENTAS VALDAS ADAMKUS
+Lietuvos Respublikos
+autorių teisių ir gretutinių
+teisių įstatymo
+1 priedas
 TUŠČIOS ANALOGINĖS AR SKAITMENINĖS LAIKMENOS IR ĮRENGINIAI, UŽ KURIUOS MOKAMAS KOMPENSACINIS ATLYGINIMAS UŽ KŪRINIŲ IR GRETUTINIŲ TEISIŲ OBJEKTŲ ATGAMINIMĄ ASMENINIAIS TIKSLAIS, IR KOMPENSACINIO ATLYGINIMO TARIFAI
 I. Tuščios laikmenos
 Kompensacinio atlyginimo tarifas (eurais)
