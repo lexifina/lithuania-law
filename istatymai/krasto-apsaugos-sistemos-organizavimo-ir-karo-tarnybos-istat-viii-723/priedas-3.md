@@ -1,7 +1,5 @@
-# 0,27
-2.4. Budėjimas greitojo reagavimo pajėgose
-0,11
-_____________________
+# 0,11
+_______________________
 Lietuvos Respublikos
 krašto apsaugos sistemos organizavimo
 ir karo tarnybos įstatymo
