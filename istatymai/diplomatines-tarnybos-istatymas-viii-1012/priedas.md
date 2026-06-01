@@ -1,7 +1,4 @@
-# RESPUBLIKOS PREZIDENTAS VALDAS ADAMKUS
-Lietuvos Respublikos
-diplomatinės tarnybos įstatymo
-priedas
+# Lietuvos Respublikos diplomatinės tarnybos įstatymo priedas
 LIETUVOS RESPUBLIKOS DIPLOMATŲ PAREIGYBIŲ GRUPĖS IR MINIMALŪS PAREIGINIŲ ALGŲ KOEFICIENTAI
 Eil. Nr.
 Diplomatų pareigybių grupės arba pareigybės Lietuvos Respublikos užsienio reikalų ministerijoje
@@ -16,11 +13,11 @@ departamento direktorius, grupės vadovas, ambasadorius, reziduojantis Lietuvos 
 ambasadorius
 1,74
 3.
-ambasadorius ypatingiems pavedimams (struktūrinio padalinio sudėtyje), departamento direktoriaus pavaduotojas, departamento patarėjas, grupės patarėjas
+ambasadorius ypatingiems pavedimams (struktūrinio padalinio sudėtyje), departamento direktoriaus pavaduotojas, vyriausiasis patarėjas
 ambasadorius ypatingiems pavedimams, laikinasis reikalų patikėtinis, generalinis konsulas, įgaliotasis ministras
 1,44
 4.
-skyriaus vedėjas
+skyriaus vedėjas vyresnysis patarėjas
 konsulas – konsulinės įstaigos vadovas, ministras patarėjas
 1,32
 5.

@@ -1,3 +1,2 @@
-1998 m. gruodžio 29 d. Nr. VIII-1012 Vilnius
 I SKYRIUS
 BENDROSIOS NUOSTATOS
