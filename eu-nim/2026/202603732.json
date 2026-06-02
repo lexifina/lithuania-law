@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2026 m. birželio 1 d. įsakymas Nr. D1-97 „Dėl Lietuvos Respublikos aplinkos ministro 2011 m. gruodžio 2 d. įsakymo Nr. D1-933 „Dėl statybos techninio reglamento STR 2.06.04:2014 „Gatvės ir vietinės reikšmės keliai. bendrieji reikalavimai“ patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2026-09584",
+  "official_journal_page": null,
+  "official_journal_date": "2026-06-01",
+  "entry_into_force": "2026-06-02",
+  "notification_date": "2026-09-08",
+  "commission_reference": "MNE(2026)03732",
+  "nim_celex": "72024L1275LTU_202603732",
+  "nim_id": "202603732",
+  "transposes_celex": [
+    "32024L1275"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ef90c916-7a6f-452c-a2ec-56e4ecd6e6cc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
