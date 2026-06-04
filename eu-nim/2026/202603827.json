@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ryšių reguliavimo tarnybos tarybos 2026 m. birželio 3 d. nutarimas Nr. TN-245 „Dėl Lietuvos Respublikos ryšių reguliavimo tarnybos tarybos 2005 m. balandžio 8 d. nutarimo Nr. 1V-340 „Dėl Bendrųjų vertimosi elektroninių ryšių veikla sąlygų aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2026-09805",
+  "official_journal_page": null,
+  "official_journal_date": "2026-06-03",
+  "entry_into_force": "2026-06-04",
+  "notification_date": "2026-06-12",
+  "commission_reference": "MNE(2026)03827",
+  "nim_celex": "72026L0500LTU_202603827",
+  "nim_id": "202603827",
+  "transposes_celex": [
+    "32026L0500"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c056d56f-8e9b-4fe0-bb45-ed04ff4d511c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
