@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos viešųjų įstaigų, kurių savininkė ar dalininkė, turinti daugiau negu pusę balsų visuotiniame dalininkų susirinkime, yra valstybė ar savivaldybė, vadovų ir darbuotojų darbo apmokėjimo įstatymo Nr. XIV-2349 1, 2, 3 straipsnių ir priedo pakeitimo bei įstatymo papildymo 2 priedu įstatymas Nr. XV-971",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2026-08789",
+  "official_journal_page": null,
+  "official_journal_date": "2026-05-25",
+  "entry_into_force": "2026-06-07",
+  "notification_date": "2026-06-09",
+  "commission_reference": "MNE(2026)03659",
+  "nim_celex": "72023L0970LTU_202603659",
+  "nim_id": "202603659",
+  "transposes_celex": [
+    "32023L0970"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/44586814-4684-49e0-8c56-f32a5a1b8bf0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
