@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos darbo kodekso 23, 26, 39, 40, 41, 42, 48, 51, 52, 65, 71, 79, 140, 147, 148, 196, 217, 219, 226 straipsnių ir priedo pakeitimo įstatymas Nr. XV-969",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2026-08785",
+  "official_journal_page": null,
+  "official_journal_date": "2026-05-25",
+  "entry_into_force": "2026-06-07",
+  "notification_date": "2026-06-08",
+  "commission_reference": "MNE(2026)03656",
+  "nim_celex": "72023L0970LTU_202603656",
+  "nim_id": "202603656",
+  "transposes_celex": [
+    "32023L0970"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cc2126a1-476c-414e-86fa-6262cdfd3c94",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
