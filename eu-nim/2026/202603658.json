@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo Nr. XIII-198 1, 5 straipsnių pakeitimo ir įstatymo papildymo 3 priedu įstatymas Nr. XV-972",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2026-08790",
+  "official_journal_page": null,
+  "official_journal_date": "2026-05-25",
+  "entry_into_force": "2026-06-07",
+  "notification_date": "2026-06-09",
+  "commission_reference": "MNE(2026)03658",
+  "nim_celex": "72023L0970LTU_202603658",
+  "nim_id": "202603658",
+  "transposes_celex": [
+    "32023L0970"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e2e50fc7-9993-494c-b56c-efa29821995d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
