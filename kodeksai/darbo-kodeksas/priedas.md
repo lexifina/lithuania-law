@@ -20,3 +20,4 @@ priedas
 16. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/1158 dėl tėvų ir prižiūrinčiųjų asmenų profesinio ir asmeninio gyvenimo pusiausvyros, kuria panaikinama Tarybos direktyva 2010/18/ES.
 17. 2020 m. liepos 15 d. Europos Parlamento ir Tarybos direktyva (ES) 2020/1057, kuria nustatomos konkrečios su Direktyva 96/71/EB ir Direktyva 2014/67/ES susijusios kelių transporto vairuotojų komandiravimo taisyklės ir iš dalies keičiami Direktyva 2006/22/EB, kiek tai susiję su vykdymo užtikrinimo reikalavimais, ir Reglamentas (ES) Nr. 1024/2012.
 18. 2022 m. spalio 19 d. Europos Parlamento ir Tarybos direktyva (ES) 2022/2041 dėl deramo minimaliojo darbo užmokesčio Europos Sąjungoje.
+19. 2023 m. gegužės 10 d. Europos Parlamento ir Tarybos direktyva (ES) 2023/970, kuria, nustatant darbo užmokesčio skaidrumo ir vykdymo užtikrinimo mechanizmus, griežčiau taikomas vienodo vyrų ir moterų darbo užmokesčio už vienodą arba vienodos vertės darbą principas.
