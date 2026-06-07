@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 1, 19, 20 straipsnių pakeitimo ir Įstatymo papildymo 3 priedu įstatymas Nr. XV-980",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2026-09720",
+  "official_journal_page": null,
+  "official_journal_date": "2026-06-02",
+  "entry_into_force": "2026-06-07",
+  "notification_date": "2026-06-09",
+  "commission_reference": "MNE(2026)03702",
+  "nim_celex": "72023L0970LTU_202603702",
+  "nim_id": "202603702",
+  "transposes_celex": [
+    "32023L0970"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2088980a-c2da-4b48-9f42-f943f907f58e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
