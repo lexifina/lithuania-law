@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos žemės ūkio ministro 2025 m. vasario 27 d. įsakymas Nr. 3D-94 „Dėl žemės ūkio ministro 2000 m. vasario 29 d. įsakymo Nr. 60 „Dėl Džemų ir panašių produktų techninio reglamento patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-03259",
+  "official_journal_page": null,
+  "official_journal_date": "2025-02-27",
+  "entry_into_force": "2026-06-14",
+  "notification_date": "2025-05-14",
+  "commission_reference": "MNE(2025)02051",
+  "nim_celex": "72024L1438LTU_202502051",
+  "nim_id": "202502051",
+  "transposes_celex": [
+    "32024L1438"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fa66ea52-caa6-41ec-a550-da7667af2a01",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
