@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ekonomikos ir inovacijų ministro 2026 m. birželio 17 d. įsakymas Nr. 4-269 „Dėl ūkio ministro 2011 m. liepos 7 d. įsakymo Nr. 4-472 „Dėl Gabenamųjų slėginių įrenginių techninio reglamento patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2026-10452",
+  "official_journal_page": null,
+  "official_journal_date": "2026-06-17",
+  "entry_into_force": "2026-06-18",
+  "notification_date": "2026-06-22",
+  "commission_reference": "MNE(2026)04343",
+  "nim_celex": "72024L2749LTU_202604343",
+  "nim_id": "202604343",
+  "transposes_celex": [
+    "32024L2749"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/796b1f78-4913-4b8a-97c9-ed8decbababf",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
