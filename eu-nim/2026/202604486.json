@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2026 m. birželio 18 d. nutarimas Nr. 2026/03-71 „Dėl Licencijų užsienio bankų filialams ir leidimų užsienio bankų atstovybių veiklai išdavimo taisyklių patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2026-10655",
+  "official_journal_page": null,
+  "official_journal_date": "2026-06-19",
+  "entry_into_force": "2027-01-11",
+  "notification_date": "2026-07-17",
+  "commission_reference": "MNE(2026)04486",
+  "nim_celex": "72024L1619LTU_202604486",
+  "nim_id": "202604486",
+  "transposes_celex": [
+    "32024L1619"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9c8f0682-0fcf-4e50-b809-f76695dd5a15",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
