@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos energetikos ministro 2026 m. birželio 19 d. įsakymas Nr. 1-149 „Dėl energetikos ministro 2016 m. gruodžio 5 d. įsakymo Nr. 1-320 „Dėl Energijos vartojimo efektyvumo didinimo priemonių sutaupytos energijos apskaičiavimo ir priežiūros tvarkos aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2026-10605",
+  "official_journal_page": null,
+  "official_journal_date": "2026-06-19",
+  "entry_into_force": "2026-06-20",
+  "notification_date": "2026-06-30",
+  "commission_reference": "MNE(2026)04427",
+  "nim_celex": "72023L1791LTU_202604427",
+  "nim_id": "202604427",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/574a1d07-f969-433f-9eaf-877f682c85ee",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
