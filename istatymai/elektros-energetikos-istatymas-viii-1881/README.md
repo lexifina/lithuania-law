@@ -84,3 +84,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2026-03-01 | 2026-03-31 | Įstatymas Nr. XI-1919 / Įstatymas Nr. XV-512 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22cljxTbsUHA%22) |
 | 2026-04-01 | 2026-04-30 | Įstatymas Nr. XI-1919 / Įstatymas Nr. XV-512 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22NqFYJEIDSv%22) |
 | 2026-05-01 | 2026-06-26 | Įstatymas Nr. XI-1919 / Įstatymas Nr. XV-687 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22nhRbAWNUQX%22) |
+| 2026-06-27 | 2026-06-30 | Įstatymas Nr. XV-1035 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22LqEVinAnxs%22) |
