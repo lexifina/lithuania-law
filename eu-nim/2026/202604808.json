@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos statybos įstatymo Nr. I-1240 2, 11-1, 11-2, 27, 51, 53 straipsnių, 2 priedo pakeitimo ir Įstatymo papildymo 51-1 straipsniu įstatymas Nr. XV-1034",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2026-11111",
+  "official_journal_page": null,
+  "official_journal_date": "2026-06-26",
+  "entry_into_force": "2026-06-27",
+  "notification_date": "2026-09-08",
+  "commission_reference": "MNE(2026)04808",
+  "nim_celex": "72024L1275LTU_202604808",
+  "nim_id": "202604808",
+  "transposes_celex": [
+    "32024L1275"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1edd1b60-41d1-401e-bf23-1b4158fcc691",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
