@@ -1,4 +1,5 @@
-# Lietuvos Respublikos konkurencijos įstatymo priedas
+# RESPUBLIKOS PREZIDENTAS VALDAS ADAMKUS
+Lietuvos Respublikos konkurencijos įstatymo priedas
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 1. 2002 m. gruodžio 16 d. Tarybos reglamentas (EB) Nr. 1/2003 dėl konkurencijos taisyklių, nustatytų Sutarties 81 ir 82 straipsniuose, įgyvendinimo.
 2. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos direktyva 2014/104/ES dėl tam tikrų taisyklių, kuriomis reglamentuojami pagal nacionalinę teisę nagrinėjami ieškiniai dėl žalos, patirtos dėl valstybių narių ir Europos Sąjungos konkurencijos teisės nuostatų pažeidimo, atlyginimo.
