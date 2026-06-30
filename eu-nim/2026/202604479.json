@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2026 m. birželio 18 d. nutarimas Nr. 2026/03-65 „Dėl Lietuvos banko valdybos 2008 m. rugsėjo 25 d. nutarimo Nr. 149 „Dėl Vidaus kontrolės ir rizikos vertinimo (valdymo) organizavimo nuostatų“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2026-10658",
+  "official_journal_page": null,
+  "official_journal_date": "2026-06-19",
+  "entry_into_force": "2026-06-30",
+  "notification_date": "2026-08-18",
+  "commission_reference": "MNE(2026)04479",
+  "nim_celex": "72024L1619LTU_202604479",
+  "nim_id": "202604479",
+  "transposes_celex": [
+    "32024L1619",
+    "32024L2994"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6188f2bd-c495-4bec-b488-00e97dd2272e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
