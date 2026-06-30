@@ -1,4 +1,7 @@
-# Lietuvos Respublikos transporto veiklos pagrindų įstatymo 1 priedas
+# Nr. I-1863
+Lietuvos Respublikos
+transporto veiklos pagrindų įstatymo
+1 priedas
 Bilietų užsakymo ir išvykimo kontrolės, KELEIVIŲ skrydžio DUOMENYS
 1. Keleivių duomenys (kiekvieno keleivio):
 1.1. keleivio duomenų įrašo (PNR) unikalus kodas;
