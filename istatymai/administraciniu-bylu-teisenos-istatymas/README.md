@@ -10,3 +10,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | --- | --- | --- | --- |
 | 2024-01-01 | 2024-11-06 | Teisės aktų registras (Seimo kanceliarija) | [1439227b](https://publications.europa.eu/resource/cellar/1439227b-6eca-4898-b07b-51ed126eb4b4.0001.01/DOC_1) |
 | 2025-06-21 | 2026-06-29 | Įstatymas Nr. XV-292 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22GPqopoAOEt%22) |
+| 2026-06-30 |  | Įstatymas Nr. XV-923 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22ICVAgbiLFb%22) |
