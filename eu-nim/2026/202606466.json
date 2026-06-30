@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 10, 12, 16, 18, 42-1, 51 straipsnių, 3 priedo pakeitimo ir Įstatymo papildymo 18-2, 18-3, 18-4 straipsniais įstatymas Nr. XV-936",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2026-08784",
+  "official_journal_page": null,
+  "official_journal_date": "2026-05-25",
+  "entry_into_force": "2026-06-30",
+  "notification_date": "2026-08-18",
+  "commission_reference": "MNE(2026)06466",
+  "nim_celex": "72024L1619LTU_202606466",
+  "nim_id": "202606466",
+  "transposes_celex": [
+    "32024L1619"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c2a89942-abe2-4190-bb4c-4e2da689d89b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
