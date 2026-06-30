@@ -16,3 +16,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2022-05-17 | 2023-04-14 | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/43b7d919e84f1a9bf4c9eeda1c9e5b99dd3266ed/istatymai/TAR.F707D11C62FE.md) |
 | 2023-04-15 | 2024-08-31 | Įstatymas Nr. XIV-1020 / Įstatymas Nr. XIV-1865 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/a3b55ca1768ce6e4d3c3cd72bff81e06070a3d7e/istatymai/TAR.F707D11C62FE.md) |
 | 2025-05-21 | 2026-06-29 | Teisės aktų registras (Seimo kanceliarija) | [atviri-teises-aktai.lt](https://atviri-teises-aktai.lt/ta/1041010ISTA0IX-2160/data.json) |
+| 2026-06-30 |  | Įstatymas Nr. XIV-1020 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22GCqDMKoikE%22) |
