@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2026 m. birželio 18 d. nutarimas Nr. 2026/03-69 „Dėl Lietuvos banko valdybos 2015 m. rugpjūčio 13 d. nutarimo Nr. 03-131 „Dėl Priežiūrinio tikrinimo ir vertinimo proceso reikalavimų aprašo patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2026-10708",
+  "official_journal_page": null,
+  "official_journal_date": "2026-06-22",
+  "entry_into_force": "2026-06-30",
+  "notification_date": "2026-08-18",
+  "commission_reference": "MNE(2026)04528",
+  "nim_celex": "72024L1619LTU_202604528",
+  "nim_id": "202604528",
+  "transposes_celex": [
+    "32024L1619",
+    "32024L2994"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f0181853-7f1e-49e5-8d90-b8e47cc0524d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
