@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 10, 20, 43, 57 straipsnių ir priedo pakeitimo įstatymas Nr. XV-940",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2026-08787",
+  "official_journal_page": null,
+  "official_journal_date": "2026-05-25",
+  "entry_into_force": "2026-06-30",
+  "notification_date": "2026-08-18",
+  "commission_reference": "MNE(2026)06465",
+  "nim_celex": "72024L1619LTU_202606465",
+  "nim_id": "202606465",
+  "transposes_celex": [
+    "32024L1619"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/20b739e6-dc97-40ed-a2fb-d487515e65d4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
