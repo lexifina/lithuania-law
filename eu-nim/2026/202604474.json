@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2026 m. birželio 18 d. nutarimas Nr. 2026/03-64 „Dėl Lietuvos banko valdybos 2006 m. gruodžio 7 d. nutarimo Nr. 153 „Dėl Finansinės grupės jungtinės (konsoliduotos) priežiūros taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2026-10657",
+  "official_journal_page": null,
+  "official_journal_date": "2026-06-19",
+  "entry_into_force": "2026-06-30",
+  "notification_date": "2026-07-17",
+  "commission_reference": "MNE(2026)04474",
+  "nim_celex": "72024L1619LTU_202604474",
+  "nim_id": "202604474",
+  "transposes_celex": [
+    "32024L1619"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d00ac416-9a8d-4549-985e-93a1ac747278",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
