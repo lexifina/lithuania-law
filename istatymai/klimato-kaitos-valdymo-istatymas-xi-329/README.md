@@ -21,3 +21,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2024-07-15 |  | Įstatymas Nr. XIV-2783 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/694aa1624ec2497cff2bc38141d8039cd7644248/istatymai/TAR.B77E00EAEBEB.md) |
 | 2025-12-05 | 2025-12-31 | Įstatymas Nr. XV-625 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22PEVYSwgssP%22) |
 | 2026-01-01 | 2026-06-29 | Įstatymas Nr. XV-625 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22hItmqSHnYu%22) |
+| 2026-06-30 | 2026-12-31 | Įstatymas Nr. XV-919 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22JNbLouDNfe%22) |
