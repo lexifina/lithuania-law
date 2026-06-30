@@ -36,3 +36,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2024-07-25 | 2024-07-31 | Įstatymas Nr. XIII-568 / Įstatymas Nr. XIV-2883 / Įstatymas Nr. XIV-2884 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/0b9665053d9753212f82d285da3b16a84f686eb9/istatymai/TAR.C44837068B55.md) |
 | 2024-08-01 | 2024-10-31 | Įstatymas Nr. XIII-568 / Įstatymas Nr. XIV-2543 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/f162cd60f2471c80b7311dd74310e0b8507ffd4f/istatymai/TAR.C44837068B55.md) |
 | 2024-11-01 | 2024-12-29 | Įstatymas Nr. XIII-568 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/183a34b93bd4bdc2cac429101920ae2a08c6ddf6/istatymai/TAR.C44837068B55.md) |
+| 2026-06-30 | 2026-12-31 | Teisės aktų registras (Seimo kanceliarija) | [atviri-teises-aktai.lt](https://atviri-teises-aktai.lt/ta/0971010ISTAVIII-275/data.json) |
