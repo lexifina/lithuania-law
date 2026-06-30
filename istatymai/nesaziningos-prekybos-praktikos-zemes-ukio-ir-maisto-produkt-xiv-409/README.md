@@ -13,3 +13,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2023-05-05 | 2023-12-31 | Įstatymas Nr. XIV-1898 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/7f45630762cfa7dd8f275175c71257c5f4d3f90a/istatymai/TAR.B367A420DB07.md) |
 | 2024-01-01 | 2024-07-31 | Įstatymas Nr. XIV-2064 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/060333ffa3aff6b7cf6b99fa881e914002ebb9ac/istatymai/TAR.B367A420DB07.md) |
 | 2024-08-01 |  | Įstatymas Nr. XIV-2919 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/a5937a64970e7895177b328dc8623aab6a50ac80/istatymai/TAR.B367A420DB07.md) |
+| 2026-06-30 |  | Įstatymas Nr. XV-889 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22SnfuIuBael%22) |
