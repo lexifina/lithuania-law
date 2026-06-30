@@ -1,7 +1,4 @@
-# RESPUBLIKOS PREZIDENTAS ALGIRDAS BRAZAUSKAS
-Lietuvos Respublikos
-alkoholio kontrolės įstatymo
-priedas
+# Lietuvos Respublikos alkoholio kontrolės įstatymo priedas
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 1. 2001 m. birželio 5 d. Tarybos rekomendacija 2001/458/EB dėl jaunimo, visų pirma vaikų ir paauglių, alkoholio vartojimo.
 2. 2008 m. birželio 27 d. Komisijos reglamentas (EB) Nr. 555/2008, kuriuo nustatomos išsamios Tarybos reglamento (EB) Nr. 479/2008 dėl bendro vyno rinkos organizavimo įgyvendinimo taisyklės, taikomos vyno sektoriaus paramos programoms, prekybai su trečiosiomis šalimis, gamybos potencialui ir kontrolei, su paskutiniais pakeitimais, padarytais 2017 m. gruodžio 11 d. Komisijos deleguotuoju reglamentu (ES) 2018/273.
