@@ -1,3 +1,8 @@
+LIETUVOS RESPUBLIKOS
+VALSTYBINIO KELIŲ FONDO
+ĮSTATYMAS
+2025 m. birželio 30 d. Nr. XV-372
+Vilnius
 Lietuvos Respublikos Seimas,
 konstatuodamas, kad dėl ilgamečio nepakankamo valstybinės reikšmės kelių tinklo finansavimo didesnė dalis valstybinės reikšmės kelių neatitinka nustatytų techninių reikalavimų, šių kelių būklei toliau blogėjant neužtikrinamas saugumas juose, o tinkamai valstybinės reikšmės kelių būklei atkurti, šių kelių priežiūrai ir plėtrai lėšų reikia daugiau, negu skiriama per biudžetinius metus;
 pabrėždamas, kad nepakankamas valstybinės reikšmės kelių tinklo finansavimas kelia grėsmę ne tik eismo saugumui, bet ir šalies nacionaliniam saugumui, ekonomikos konkurencingumui, susisiekimo patogumui ir regionų pasiekiamumui, o valstybinės reikšmės keliai susiję su gyvybiškai svarbių valstybės funkcijų įgyvendinimu;
