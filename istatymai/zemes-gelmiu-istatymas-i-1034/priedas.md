@@ -1,7 +1,4 @@
-# RESPUBLIKOS PREZIDENTAS ALGIRDAS BRAZAUSKAS
-Lietuvos Respublikos
-žemės gelmių įstatymo
-1 priedas
+# Lietuvos Respublikos žemės gelmių įstatymo 1 priedas
 MINIMALAUS KONKURSO NAUDOTI ANGLIAVANDENILIŲ IŠTEKLIUS ĮMOKOS DYDŽIO APSKAIČIAVIMO PRINCIPAI
 1. Įmokos dydis kinta nuo suteikiamo angliavandenilių išteklių naudojimo ploto. Į minimalų įmokos dydį įskaitomos telkinio ar jo dalies ir (arba) kaupavietės, ir (arba) sankaupos žemės gelmių tyrimo darbų ir konkurso parengiamųjų darbų bei organizavimo išlaidos.
 2. Minimalus įmokos dydis apskaičiuojamas pagal formulę:
