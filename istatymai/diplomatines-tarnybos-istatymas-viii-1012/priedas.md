@@ -1,4 +1,5 @@
-# Lietuvos Respublikos diplomatinės tarnybos įstatymo priedas
+# RESPUBLIKOS PREZIDENTAS VALDAS ADAMKUS
+Lietuvos Respublikos diplomatinės tarnybos įstatymo priedas
 LIETUVOS RESPUBLIKOS DIPLOMATŲ PAREIGYBIŲ GRUPĖS IR MINIMALŪS PAREIGINIŲ ALGŲ KOEFICIENTAI
 Eil. Nr.
 Diplomatų pareigybių grupės arba pareigybės Lietuvos Respublikos užsienio reikalų ministerijoje
