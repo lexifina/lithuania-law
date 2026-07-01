@@ -13,3 +13,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2018-01-01 | 2019-11-07 | Įstatymas Nr. XIII-650 / Įstatymas Nr. XIII-928 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/53d49f5f793672c67ceeffcf7e5b4ccd1a0427fe/istatymai/TAR.991FE146EBE7.md) |
 | 2022-06-29 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/1b5382e6d3f161a0f9073c1f3291d0be207d6e5e/istatymai/TAR.991FE146EBE7.md) |
 | 2026-01-01 | 2026-06-30 | Teisės aktų registras (Seimo kanceliarija) | [atviri-teises-aktai.lt](https://atviri-teises-aktai.lt/ta/1061010ISTA000X-987/data.json) |
+| 2026-07-01 |  | Įstatymas Nr. XIV-1147 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22TpsJSCYAqE%22) |
