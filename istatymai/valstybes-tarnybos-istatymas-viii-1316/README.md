@@ -50,3 +50,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2023-04-01 | 2023-12-31 | Įstatymas Nr. XIV-1270 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/423b9bdfd7009e13b2c852f3e5edc14b1b21ce24/istatymai/TAR.D3ED3792F52B.md) |
 | 2024-01-01 | 2024-12-31 | Įstatymas Nr. XIV-1985 / Įstatymas Nr. XIV-2258 / Įstatymas Nr. XIV-2450 / Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/affaaaa5fb720d2b3d7817b4846af5392eb82d50/istatymai/TAR.D3ED3792F52B.md) |
 | 2025-01-01 |  | Įstatymas Nr. XIV-1985 / Įstatymas Nr. XV-35 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/5c0091220519f343c6c9ee7d3573e0b5356a8647/istatymai/TAR.D3ED3792F52B.md) |
+| 2026-07-01 |  | Teisės aktų registras (Seimo kanceliarija) | [atviri-teises-aktai.lt](https://atviri-teises-aktai.lt/ta/0991010ISTAIII-1316/data.json) |
