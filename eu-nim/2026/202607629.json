@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Aplinkos apsaugos agentūros direktoriaus ir Aplinkos apsaugos departamento prie Aplinkos ministerijos direktoriaus 2026 m. birželio 25 d. įsakymas Nr. AV-120/AD1-203 „Dėl Atliekų susidarymo ir tvarkymo apskaitos ir ataskaitų teikimo per Vieningą gaminių, pakuočių ir atliekų apskaitos informacinę sistemą taisyklių patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2026-10885",
+  "official_journal_page": null,
+  "official_journal_date": "2026-06-25",
+  "entry_into_force": "2026-07-01",
+  "notification_date": "2026-10-08",
+  "commission_reference": "MNE(2026)07629",
+  "nim_celex": "72018L0851LTU_202607629",
+  "nim_id": "202607629",
+  "transposes_celex": [
+    "32018L0851"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/80d0f4b5-3de1-45d8-8a4c-2184d3323b7b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
