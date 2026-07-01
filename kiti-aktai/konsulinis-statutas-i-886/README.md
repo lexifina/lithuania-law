@@ -30,3 +30,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2023-01-01 | 2023-06-30 | Aktas Nr. XIV-1290 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/a8c0f9a581bf23a80fb10900c3146254e27b81c7/istatymai/TAR.F617B8D97E05.md) |
 | 2023-07-01 | 2025-11-30 | Aktas Nr. XIV-1290 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/274c710c1539f98ec2bfe7652e473edfba59cb3a/istatymai/TAR.F617B8D97E05.md) |
 | 2025-12-01 |  | Aktas Nr. XIV-2930 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/1ace5ad7b06fe8cfd41a103a7e510a186d3a5a16/istatymai/TAR.F617B8D97E05.md) |
+| 2026-07-01 |  | Aktas Nr. XV-830 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22yxaOStwHZi%22) |
