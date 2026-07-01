@@ -1,4 +1,5 @@
-# Lietuvos Respublikos kelių įstatymo 1 priedas
+# RESPUBLIKOS PREZIDENTAS ALGIRDAS BRAZAUSKAS
+Lietuvos Respublikos kelių įstatymo 1 priedas
 MOKESČIO UŽ LIETUVOS RESPUBLIKOJE ĮREGISTRUOTAS KROVININES TRANSPORTO PRIEMONES RIBINIAI TARIFAI
 Transporto priemonių valdytojų kasmetinio mokesčio už Lietuvos Respublikoje įregistruotas krovinines transporto priemones ribiniai tarifai:
 Eil. Nr.
