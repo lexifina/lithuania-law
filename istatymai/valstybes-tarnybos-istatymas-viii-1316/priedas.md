@@ -1,5 +1,7 @@
-# 2. Neteko galios nuo 2026-07-01
-Lietuvos Respublikos valstybės tarnybos įstatymo 1 priedas
+# RESPUBLIKOS PREZIDENTAS VALDAS ADAMKUS
+Lietuvos Respublikos
+valstybės tarnybos įstatymo
+1 priedas
 LIETUVOS RESPUBLIKOS VALSTYBĖS TARNAUTOJŲ PAREIGYBIŲ GRUPĖS IR minimalūs PAREIGINIŲ ALGŲ KOEFICIENTAI
 Eil. Nr.
 Karjeros valstybės tarnautojų pareigybių grupė arba pareigybės
