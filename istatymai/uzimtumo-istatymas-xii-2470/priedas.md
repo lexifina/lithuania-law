@@ -1,4 +1,7 @@
-# Lietuvos Respublikos užimtumo įstatymo priedas
+# Respublikos Prezidentė Dalia Grybauskaitė
+Lietuvos Respublikos
+užimtumo įstatymo
+priedas
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 1. 2006 m. gruodžio 12 d. Europos Parlamento ir Tarybos direktyva 2006/123/EB dėl paslaugų vidaus rinkoje.
 2. 2009 m. gegužės 25 d. Tarybos direktyva 2009/50/EB dėl trečiųjų šalių piliečių atvykimo ir apsigyvenimo sąlygų siekiant dirbti aukštos kvalifikacijos darbą.
