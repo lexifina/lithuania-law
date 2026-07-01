@@ -21,3 +21,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2024-01-01 | 2024-05-30 | Įstatymas Nr. IX-1911 / Įstatymas Nr. XIV-1991 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/deebdd42a95de83486a18291f8c1157c04a0ac7b/istatymai/TAR.D4A66ACB9F97.md) |
 | 2024-05-31 | 2024-12-31 | Įstatymas Nr. XIV-2664 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/68507dd4c20fe4c916fda06495d0065ade6cd94a/istatymai/TAR.D4A66ACB9F97.md) |
 | 2025-01-01 |  | Įstatymas Nr. IX-1911 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/8243fe7031c3fc54e6b09bd417ae9cdcc62c582c/istatymai/TAR.D4A66ACB9F97.md) |
+| 2026-07-01 |  | Teisės aktų registras (Seimo kanceliarija) | [atviri-teises-aktai.lt](https://atviri-teises-aktai.lt/ta/0961010ISTA00I-1338/data.json) |
