@@ -1,2 +1,4 @@
+1995 m. liepos 5 d. Nr. I-1034
+Vilnius
 I SKYRIUS
 BENDROSIOS NUOSTATOS
