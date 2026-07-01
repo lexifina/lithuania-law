@@ -12,3 +12,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2003-05-01 | 2015-09-30 | Įstatymas Nr. IX-1435 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/92badffef23acdf8fb72d0b5c58d1a88a20d6a68/istatymai/TAR.17D427E4AAD3.md) |
 | 2015-10-01 | 2016-12-31 | Įstatymas Nr. XII-1766 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/28fe513232a595187b10bd4bb04e75a289648a66/istatymai/TAR.17D427E4AAD3.md) |
 | 2017-01-01 |  | Įstatymas Nr. XII-1766 / Įstatymas Nr. XII-2368 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/11559778c73b0b2c24349bff5dfdd95be477074a/istatymai/TAR.17D427E4AAD3.md) |
+| 2026-07-01 |  | Teisės aktų registras (Seimo kanceliarija) | [atviri-teises-aktai.lt](https://atviri-teises-aktai.lt/ta/0981010ISTAVIII-800/data.json) |
