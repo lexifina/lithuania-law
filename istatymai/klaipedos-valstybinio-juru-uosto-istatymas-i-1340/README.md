@@ -18,3 +18,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2018-05-01 | 2019-12-31 | Įstatymas Nr. XIII-1082 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/1df7c5707d704b182cf774798366591aad171d8e/istatymai/TAR.D66F6A760DE7.md) |
 | 2020-01-01 | 2023-01-01 | Įstatymas Nr. XIII-2180 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/ce77a5891c8309b547727feffb73b1ff0c560c1c/istatymai/TAR.D66F6A760DE7.md) |
 | 2023-01-02 |  | Įstatymas Nr. XIV-527 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/4e639174b4b2bbdb8af6e1c2a089e428d7ae8816/istatymai/TAR.D66F6A760DE7.md) |
+| 2026-07-01 |  | Teisės aktų registras (Seimo kanceliarija) | [atviri-teises-aktai.lt](https://atviri-teises-aktai.lt/ta/0961010ISTA00I-1340/data.json) |
