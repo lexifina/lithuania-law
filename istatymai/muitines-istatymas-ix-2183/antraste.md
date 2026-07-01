@@ -1,2 +1,4 @@
+2004 m. balandžio 27 d. Nr. IX-2183
+Vilnius
 I SKYRIUS
 BENDROSIOS NUOSTATOS
