@@ -1,7 +1,4 @@
-# RESPUBLIKOS PREZIDENTAS ALGIRDAS BRAZAUSKAS
-Lietuvos Respublikos
-prokuratūros įstatymo
-1 priedas
+# Lietuvos Respublikos prokuratūros įstatymo 1 priedas
 PROKURORŲ PAREIGINĖS ALGOS
 (Baziniais dydžiais)
 Eil. Nr.
