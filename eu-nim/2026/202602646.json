@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Valstybinės augalininkystės tarnybos prie Žemės ūkio ministerijos direktoriaus 2026 m. balandžio 8 d. įsakymas Nr. A6-8 \"Dėl Valstybinės augalininkystės tarnybos prie Žemės ūkio ministerijos direktoriaus 2010 m. spalio 22 d. įsakymo Nr. A1-113 „Dėl augalų rūšių veislių tikrinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2026-05713",
+  "official_journal_page": null,
+  "official_journal_date": "2026-04-08",
+  "entry_into_force": "2026-07-01",
+  "notification_date": "2026-05-05",
+  "commission_reference": "MNE(2026)02646",
+  "nim_celex": "72025L2449LTU_202602646",
+  "nim_id": "202602646",
+  "transposes_celex": [
+    "32025L2449"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6cd7411e-9bfb-486b-8df3-c91c58dae02e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
