@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos aplinkos ministro 2026 m. gegužės 26 d. įsakymas Nr. D1-87 „Dėl Lietuvos Respublikos aplinkos ministro 2003 m. gruodžio 19 d. įsakymo Nr. 663 „Dėl Specialiųjų reikalavimų titano dioksido gamybos įrenginiams patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2026-08904",
+  "official_journal_page": null,
+  "official_journal_date": "2026-05-26",
+  "entry_into_force": "2026-07-01",
+  "notification_date": "2026-06-16",
+  "commission_reference": "MNE(2026)03282",
+  "nim_celex": "72010L0075LTU_202603282",
+  "nim_id": "202603282",
+  "transposes_celex": [
+    "32010L0075",
+    "32024L1785"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bd454213-fe18-4942-861b-6feb76debdd9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
