@@ -1,2 +1,4 @@
+2003 m. gruodžio 16 d. Nr. IX-1904
+Vilnius
 I SKYRIUS
 BENDROSIOS NUOSTATOS
