@@ -46,3 +46,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2025-07-01 | 2025-12-31 | Įstatymas Nr. XIV-2791 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22BJIUSOuJwO%22) |
 | 2026-01-01 | 2026-05-31 | Įstatymas Nr. XV-273 / Teisės aktų registras (Seimo kanceliarija) | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22qHeJhKqnrW%22) |
 | 2026-06-01 | 2026-06-30 | Įstatymas Nr. XV-536 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22nZYlTgjDZW%22) |
+| 2026-07-01 | 2026-12-31 | Įstatymas Nr. XV-568 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22OBnhIzDGsI%22) |
