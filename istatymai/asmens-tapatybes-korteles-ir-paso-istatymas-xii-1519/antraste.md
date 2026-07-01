@@ -1,4 +1,0 @@
-ASMENS TAPATYBĖS KORTELĖS IR PASO
-ĮSTATYMAS
-2014 m. gruodžio 23 d. Nr. XII-1519
-Vilnius
