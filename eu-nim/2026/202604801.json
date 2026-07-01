@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 2, 15, 17, 19, 20, 24, 26, 26-1, 26-2, 28, 31, 32, 33, 34, 38, 39, 42, 45-1, 45-2, 46-1, 49, 51, 52, 53-1, 54, 55, 56, 57, 58, 59, 60, 60-1, 74, 76, 77 ir 78 straipsnių pakeitimo ir Įstatymo papildymo 42-1 straipsniu įstatymas Nr. XV-386",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-12139",
+  "official_journal_page": null,
+  "official_journal_date": "2025-07-02",
+  "entry_into_force": "2026-07-01",
+  "notification_date": "2026-07-21",
+  "commission_reference": "MNE(2026)04801",
+  "nim_celex": "72024L2810LTU_202604801",
+  "nim_id": "202604801",
+  "transposes_celex": [
+    "32024L2810"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/62292203-a113-472e-b0bc-42e6f686d9d8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
