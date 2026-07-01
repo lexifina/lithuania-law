@@ -22,3 +22,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2025-07-01 |  | Įstatymas Nr. XIV-3118 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/7fa748327719096509b629d4a91a50f3494ed6af/istatymai/TAR.FFF9AE9162EE.md) |
 | 2025-10-07 | 2025-12-31 | Įstatymas Nr. XIII-3158 / Įstatymas Nr. XV-446 / Įstatymas Nr. XV-449 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22cNOwDGmiaJ%22) |
 | 2026-01-01 | 2026-06-30 | Įstatymas Nr. XV-446 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22XqaQmKKhHB%22) |
+| 2026-07-01 | 2026-09-30 | Įstatymas Nr. XV-446 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22recENzLUJM%22) |
