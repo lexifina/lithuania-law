@@ -1,4 +1,7 @@
-# Lietuvos Respublikos pluoštinių kanapių įstatymo priedas
+# RESPUBLIKOS PREZIDENTĖ DALIA GRYBAUSKAITĖ
+Lietuvos Respublikos
+pluoštinių kanapių įstatymo
+priedas
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 1. 2002 m. sausio 28 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 178/2002, nustatantis maistui skirtų teisės aktų bendruosius principus ir reikalavimus, įsteigiantis Europos maisto saugos tarnybą ir nustatantis su maisto saugos klausimais susijusias procedūras.
 2. 2013 m. gruodžio 17 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 1308/2013, kuriuo nustatomas bendras žemės ūkio produktų rinkų organizavimas ir panaikinami Tarybos reglamentai (EEB) Nr. 922/72, (EEB) Nr. 234/79, (EB) Nr. 1037/2001 ir (EB) Nr. 1234/2007.
