@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos civilinio kodekso šeštosios knygos III dalies XXII skyriaus ketvirtojo skirsnio ir priedo pakeitimo įstatymas Nr. XV-1080",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2026-11472",
+  "official_journal_page": null,
+  "official_journal_date": "2026-07-02",
+  "entry_into_force": "2026-12-09",
+  "notification_date": "2026-10-23",
+  "commission_reference": "MNE(2026)07430",
+  "nim_celex": "72024L2853LTU_202607430",
+  "nim_id": "202607430",
+  "transposes_celex": [
+    "32024L2853"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3eb78fd7-db11-4841-97bf-9a75f04c01e4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
