@@ -1,4 +1,4 @@
-socialinių paslaugų
+SOCIALINIŲ PASLAUGŲ
 ĮSTATYMAS
 2006 m. sausio 19 d. Nr. X-493
 Vilnius
