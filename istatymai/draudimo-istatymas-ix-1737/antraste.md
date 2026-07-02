@@ -1,3 +1,2 @@
-2003 m. rugsėjo 18 d. Nr. IX-1737 Vilnius
 I SKYRIUS
 BENDROSIOS NUOSTATOS

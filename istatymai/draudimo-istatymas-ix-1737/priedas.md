@@ -1,7 +1,4 @@
-# RESPUBLIKOS PREZIDENTAS ROLANDAS PAKSAS
-Lietuvos Respublikos
-draudimo įstatymo
-priedas
+# Lietuvos Respublikos draudimo įstatymo priedas
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 1. 1995 m. birželio 29 d. Europos Parlamento ir Tarybos direktyva 95/26/EB, iš dalies keičianti Direktyvas 77/780/EEB ir 89/646/EEB dėl kredito įstaigų, Direktyvas 73/239/EEB ir 92/49/EEB dėl ne gyvybės draudimo, Direktyvas 79/267/EEB ir 92/96/EEB dėl gyvybės draudimo, Direktyvą 93/22/EEB dėl investicinių įmonių, Direktyvą 85/611/EEB dėl kolektyvinio investavimo į perleidžiamus vertybinius popierius subjektų (KIPVPS), kad būtų gerinama riziką ribojanti priežiūra, su paskutiniais pakeitimais, padarytais 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyva 2009/65/EB.
 2. 2001 m. spalio 8 d. Tarybos reglamentas (EB) Nr. 2157/2001 dėl Europos bendrovės (SE) statuto su paskutiniais pakeitimais, padarytais 2013 m. gegužės 13 d. Tarybos reglamentu (ES) Nr. 517/2013.
@@ -18,4 +15,6 @@ priedas
 13. 2016 m. sausio 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/97 dėl draudimo produktų platinimo su paskutiniais pakeitimais, padarytais 2019 m. gegužės 13 d. Komisijos deleguotuoju reglamentu (ES) 2019/1935.
 14. 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/2088 dėl su tvarumu susijusios informacijos atskleidimo finansinių paslaugų sektoriuje su paskutiniais pakeitimais, padarytais 2020 m. birželio 18 d. Europos Parlamento ir Tarybos reglamentu (ES) 2020/852.
 15. 2020 m. birželio 18 d. Europos Parlamento ir Tarybos reglamentas (ES) 2020/852 dėl sistemos tvariam investavimui palengvinti sukūrimo, kuriuo iš dalies keičiamas Reglamentas (ES) 2019/2088.
-part_4e4e1e84adc24802af9add48cd4205f0_end
+16. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2022/2556, kuria iš dalies keičiamos direktyvos 2009/65/EB, 2009/138/EB, 2011/61/ES, 2013/36/ES, 2014/59/ES, 2014/65/ES, (ES) 2015/2366 ir (ES) 2016/2341 dėl finansų sektoriaus skaitmeninės veiklos atsparumo.
+17. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2022/2554 dėl skaitmeninės veiklos atsparumo finansų sektoriuje, kuriuo iš dalies keičiami reglamentai (EB) Nr. 1060/2009, (ES) Nr. 648/2012, (ES) Nr. 600/2014, (ES) Nr. 909/2014 ir (ES) 2016/1011.
+18. 2024 m. lapkričio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2024/3005 dėl reitingavimo pagal aplinkos, socialinius ir valdymo (ASV) kriterijus veiklos skaidrumo ir sąžiningumo, kuriuo iš dalies keičiami reglamentai (ES) 2019/2088 ir (ES) 2023/2859.
