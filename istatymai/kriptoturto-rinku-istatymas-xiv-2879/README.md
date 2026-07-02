@@ -11,3 +11,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2024-07-25 |  | Teisės aktų registras (Seimo kanceliarija) | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/d11f24f41e57ae479e60223f0265cbe840e58dcd/istatymai/TAR.D7542830499B.md) |
 | 2025-05-16 |  | Įstatymas Nr. XV-185 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/88fc28d600532c90d5c4f368c33fb8db40e77930/istatymai/TAR.D7542830499B.md) |
 | 2026-04-29 | 2026-07-01 | Teisės aktų registras (Seimo kanceliarija) | [atviri-teises-aktai.lt](https://atviri-teises-aktai.lt/ta/2024-13487/data.json) |
+| 2026-07-02 | 2030-01-09 | Teisės aktų registras (Seimo kanceliarija) | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22vViKHrHmua%22) |
