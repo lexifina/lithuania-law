@@ -1,4 +1,7 @@
-# Lietuvos Respublikos draudimo įstatymo priedas
+# RESPUBLIKOS PREZIDENTAS ROLANDAS PAKSAS
+Lietuvos Respublikos
+draudimo įstatymo
+priedas
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 1. 1995 m. birželio 29 d. Europos Parlamento ir Tarybos direktyva 95/26/EB, iš dalies keičianti Direktyvas 77/780/EEB ir 89/646/EEB dėl kredito įstaigų, Direktyvas 73/239/EEB ir 92/49/EEB dėl ne gyvybės draudimo, Direktyvas 79/267/EEB ir 92/96/EEB dėl gyvybės draudimo, Direktyvą 93/22/EEB dėl investicinių įmonių, Direktyvą 85/611/EEB dėl kolektyvinio investavimo į perleidžiamus vertybinius popierius subjektų (KIPVPS), kad būtų gerinama riziką ribojanti priežiūra, su paskutiniais pakeitimais, padarytais 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyva 2009/65/EB.
 2. 2001 m. spalio 8 d. Tarybos reglamentas (EB) Nr. 2157/2001 dėl Europos bendrovės (SE) statuto su paskutiniais pakeitimais, padarytais 2013 m. gegužės 13 d. Tarybos reglamentu (ES) Nr. 517/2013.
