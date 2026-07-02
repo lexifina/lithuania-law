@@ -1,4 +1,7 @@
-# Lietuvos Respublikos finansų įstaigų įstatymo priedas
+# RESPUBLIKOS PREZIDENTAS VALDAS ADAMKUS
+Lietuvos Respublikos
+finansų įstaigų įstatymo
+priedas
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 1. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/110/EB dėl elektroninių pinigų įstaigų steigimosi, veiklos ir riziką ribojančios priežiūros, iš dalies keičianti Direktyvas 2005/60/EB ir 2006/48/EB ir panaikinanti Direktyvą 2000/46/EB, su paskutiniais pakeitimais, padarytais 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2366.
 2. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/36/ES dėl galimybės verstis kredito įstaigų veikla ir dėl riziką ribojančios kredito įstaigų priežiūros, kuria iš dalies keičiama Direktyva 2002/87/EB ir panaikinamos direktyvos 2006/48/EB bei 2006/49/EB, su paskutiniais pakeitimais, padarytais 2024 m. gegužės 31 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/1619.
