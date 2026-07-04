@@ -1,4 +1,7 @@
-# Lietuvos Respublikos kibernetinio saugumo įstatymo 1 priedas
+# Respublikos Prezidentė Dalia Grybauskaitė
+Lietuvos Respublikos
+kibernetinio saugumo įstatymo
+1 priedas
 YPATINGOS SVARBOS SEKTORIAI
 Sektorius
 Subsektorius
