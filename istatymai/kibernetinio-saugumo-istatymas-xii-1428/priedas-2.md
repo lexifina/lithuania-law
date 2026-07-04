@@ -1,8 +1,6 @@
 # Ekonomikos ir inovacijų ministerija
 ––––––––––––––––
-Lietuvos Respublikos
-kibernetinio saugumo įstatymo
-2 priedas
+Lietuvos Respublikos kibernetinio saugumo įstatymo 2 priedas
 KITI ITIN SVARBŪS SEKTORIAI
 Sektorius
 Subsektorius
@@ -37,7 +35,7 @@ Ministerijos
 5.5.1. Subjektai, vykdantys bet kurią ekonominę veiklą, nurodytą Ekonominės veiklos rūšių klasifikatoriaus 2 redakcijos C skirsnio 29 skyriuje.
 Susisiekimo ministerija
 5.6. Kitos transporto įrangos gamyba
-5.6.1. Subjektai, vykdantys bet kurią ekonominę veiklą, nurodytą Ekonominės veiklos rūšių klasifikatoriaus 2 redakcijos C skirsnio 29 skyriuje.
+5.6.1. Subjektai, vykdantys bet kurią ekonominę veiklą, nurodytą Ekonominės veiklos rūšių klasifikatoriaus 2 redakcijos C skirsnio 30 skyriuje.
 Susisiekimo ministerija
 6. Informacinės visuomenės paslaugos
 6.1.1. Elektroninių prekyviečių paslaugų teikėjai.
