@@ -25,3 +25,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2026-04-16 | 2026-04-28 | Įstatymas Nr. XV-793 / Įstatymas Nr. XV-794 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22diYPcaihbQ%22) |
 | 2026-04-29 | 2026-06-04 | Įstatymas Nr. XV-844 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22jwwwPUiRwU%22) |
 | 2026-06-05 | 2026-07-09 | Įstatymas Nr. XV-844 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22vEZEPvZCit%22) |
+| 2026-07-10 | 2028-01-09 | Įstatymas Nr. XV-844 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22nmdWCIOEVE%22) |
