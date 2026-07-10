@@ -1,4 +1,7 @@
-# 1 priedas
+# RESPUBLIKOS PREZIDENTAS ALGIRDAS BRAZAUSKAS
+Lietuvos Respublikos
+Lietuvos banko įstatymo
+1 priedas
 FINANSŲ RINKOS DALYVIAI, MOKANTYS ĮMOKAS FINANSŲ RINKOS PRIEŽIŪROS IŠLAIDOMS PADENGTI, ĮMOKŲ BAZĖ IR MAKSIMALŪS ĮMOKŲ DYDŽIAI
 Eil. Nr.
 Rinkos dalyviai Įmokų bazė
@@ -87,14 +90,16 @@ Valiutos keityklų operatoriai
 434 Eur
 20.
 Sutelktinio finansavimo paslaugų teikėjai
-– 3 000 Eur
+–
+3 000 Eur
 21.
 Kredito davėjai, išskyrus kredito įstaigas ir jų filialus Lietuvos Respublikoje
 Vidutinė metinė likusi grąžinti išmokėtų kreditų suma
 0,0125 proc.
 22.
 Tarpusavio skolinimo platformos operatoriai
-– 3 000 Eur
+–
+3 000 Eur
 23.
 Nepriklausomi kredito tarpininkai
 –
@@ -164,10 +169,12 @@ Metinės pajamos
 0,7 procento (minimali įmokos suma 3 000 Eur)
 40.
 Kredito administratoriai
-- 3 000 Eur
+-
+3 000 Eur
 41.
 Asmenys, viešai siūlantys ir prašantys įtraukti į prekybą kriptoturtą, kuris nėra su turtu susieti žetonai arba elektroninių pinigų žetonai
-- 3 000 Eur
+-
+3 000 Eur
 42.
 Kriptoturto paslaugų teikėjai, gavę kriptoturto paslaugų teikėjo licenciją pagal Kriptoturto rinkų įstatymą
 Metinės pajamos

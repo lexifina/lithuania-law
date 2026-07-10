@@ -47,3 +47,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2025-04-12 |  | Įstatymas Nr. XV-153 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/0945dcfe9216cae1f500b73cc64e892e9e3f4eb8/istatymai/TAR.1B4D7B687895.md) |
 | 2025-07-01 | 2026-04-28 | Įstatymas Nr. XV-327 / Teisės aktų registras (Seimo kanceliarija) | [Cellar (notified to the EU)](https://publications.europa.eu/resource/cellar/18f8171f-6e9c-4350-8efe-e993d99b3fcc.0001.01/DOC_1) |
 | 2026-07-02 | 2026-07-09 | Teisės aktų registras (Seimo kanceliarija) | [atviri-teises-aktai.lt](https://atviri-teises-aktai.lt/ta/0941010ISTA000I-678/data.json) |
+| 2026-07-10 | 2026-12-31 | Teisės aktų registras (Seimo kanceliarija) | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22RwuOTlYGja%22) |
