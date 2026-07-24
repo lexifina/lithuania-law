@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos susisiekimo ministro 2026 m. birželio 19 d. įsakymas Nr. 3-293 „Dėl Lietuvos Respublikos susisiekimo ministro 2002 m. gruodžio 2 d. įsakymo Nr. 3-564 „Dėl pavojingų krovinių vežimo automobilių, geležinkelių ir vidaus vandenų transportu kontrolės protokolų pavyzdžių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2026-10643",
+  "official_journal_page": null,
+  "official_journal_date": "2026-06-19",
+  "entry_into_force": "2026-07-24",
+  "notification_date": "2026-07-13",
+  "commission_reference": "MNE(2026)05221",
+  "nim_celex": "72025L1801LTU_202605221",
+  "nim_id": "202605221",
+  "transposes_celex": [
+    "32025L1801"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6bc9dfb2-d99c-4c77-b6a5-ce0a2881545c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
