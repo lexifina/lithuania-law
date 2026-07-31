@@ -10,4 +10,5 @@ priedas
 6. 2016 m. birželio 8 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/943 dėl neatskleistos praktinės patirties ir verslo informacijos (komercinių paslapčių) apsaugos nuo neteisėto jų gavimo, naudojimo ir atskleidimo.
 7. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/1132 dėl tam tikrų bendrovių teisės aspektų.
 8. 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/770 dėl tam tikrų skaitmeninio turinio ir skaitmeninių paslaugų teikimo sutarčių aspektų.
-9. 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/771 dėl tam tikrų prekių pirkimo–pardavimo sutarčių aspektų, kuria iš dalies keičiami Reglamentas (ES) 2017/2394 ir Direktyva 2009/22/EB bei panaikinama Direktyva 1999/44/EB.
+9. 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/771 dėl tam tikrų prekių pirkimo–pardavimo sutarčių aspektų, kuria iš dalies keičiami Reglamentas (ES) 2017/2394 ir Direktyva 2009/22/EB bei panaikinama Direktyva 1999/44/EB.)
+10. 2024 m. birželio 13 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/1799 dėl bendrųjų taisyklių, kuriomis skatinamas prekių taisymas, kuria iš dalies keičiami Reglamentas (ES) 2017/2394 bei direktyvos (ES) 2019/771 ir (ES) 2020/1828.
