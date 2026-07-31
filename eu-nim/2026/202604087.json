@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 2, 12, 22 ir 40 straipsnių, priedo pakeitimo ir Įstatymo papildymo aštuntuoju-1 skirsniu įstatymas Nr. XV-780",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2026-05182",
+  "official_journal_page": null,
+  "official_journal_date": "2026-03-30",
+  "entry_into_force": "2026-07-31",
+  "notification_date": "2026-06-10",
+  "commission_reference": "MNE(2026)04087",
+  "nim_celex": "72026L0074LTU_202604087",
+  "nim_id": "202604087",
+  "transposes_celex": [
+    "32026L0074"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9f878ae3-33c4-4c27-9c71-c8d6bbe3bdb4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
