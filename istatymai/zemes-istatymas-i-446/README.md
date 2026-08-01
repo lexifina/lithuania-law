@@ -50,3 +50,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2026-01-01 | 2026-04-30 | Įstatymas Nr. XV-675 / Įstatymas Nr. XV-704 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22rVQNtcMqmb%22) |
 | 2026-05-01 | 2026-05-31 | Įstatymas Nr. XIV-1311 / Įstatymas Nr. XV-704 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22LLwgcCvEBB%22) |
 | 2026-06-01 | 2026-07-31 | Įstatymas Nr. XV-535 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22TBasIvnZmK%22) |
+| 2026-08-01 | 2026-12-31 | Įstatymas Nr. XV-1067 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22sIaWKLmarg%22) |
