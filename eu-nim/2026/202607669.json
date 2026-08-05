@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2026 m. rugpjūčio 4 d. įsakymas Nr. A1-463 \"Dėl Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2025 m. balandžio 22 d. įsakymo Nr. A1-215 „Dėl Nacionalinės savanoriškos tarnybos programos patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2026-12513",
+  "official_journal_page": null,
+  "official_journal_date": "2026-08-04",
+  "entry_into_force": "2026-08-05",
+  "notification_date": "2026-10-08",
+  "commission_reference": "MNE(2026)07669",
+  "nim_celex": "72016L0801LTU_202607669",
+  "nim_id": "202607669",
+  "transposes_celex": [
+    "32016L0801"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8254544f-6c7a-4f75-86e1-2fa75775f485",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
