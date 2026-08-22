@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2026 m. rugpjūčio 19 d. nutarimas Nr. 608 „Dėl Reglamento (ES) 2024/2747, Reglamento (ES) 2024/2748 ir Direktyvos (ES) 2024/2749 įgyvendinimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2026-12919",
+  "official_journal_page": null,
+  "official_journal_date": "2026-08-21",
+  "entry_into_force": "2026-08-22",
+  "notification_date": "2026-08-26",
+  "commission_reference": "MNE(2026)06565",
+  "nim_celex": "72024L2749LTU_202606565",
+  "nim_id": "202606565",
+  "transposes_celex": [
+    "32024L2749"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d2ae33ff-04cc-4f23-8df9-3765a4252446",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
