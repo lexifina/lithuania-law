@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2026 m. rugpjūčio 27 d. įsakymas Nr. A1-512 „Dėl techninės klaidos ištaisymo Lietuvos Respublikos socialinės apsaugos ir darbo ministro 1999 m. gruodžio 28 d. įsakyme Nr. 106 „Dėl techninio reglamento „Liftai ir liftų saugos įtaisai“ patvirtinimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2026-13234",
+  "official_journal_page": null,
+  "official_journal_date": "2026-08-27",
+  "entry_into_force": "2026-08-28",
+  "notification_date": "2026-08-31",
+  "commission_reference": "MNE(2026)06831",
+  "nim_celex": "72024L2749LTU_202606831",
+  "nim_id": "202606831",
+  "transposes_celex": [
+    "32024L2749"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d9279242-45b4-422f-88e8-b48d58373d73",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
