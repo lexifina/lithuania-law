@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos ekonomikos ir inovacijų ministro 2026 m. birželio 1 d. įsakymas Nr. 4-239 “Dėl ekonomikos ir inovacijų ministro 2011 m. balandžio 1 d. įsakymo Nr. 4-174 „Dėl Žaislų saugos techninio reglamento patvirtinimo“ pakeitimo\"",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2026-09583",
+  "official_journal_page": null,
+  "official_journal_date": "2026-06-01",
+  "entry_into_force": "2026-08-29",
+  "notification_date": "2026-06-03",
+  "commission_reference": "MNE(2026)03638",
+  "nim_celex": "72026L0192LTU_202603638",
+  "nim_id": "202603638",
+  "transposes_celex": [
+    "32026L0192"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e661dee7-db27-4fe7-ac3a-3279c13caae1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
