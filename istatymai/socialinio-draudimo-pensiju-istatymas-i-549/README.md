@@ -25,3 +25,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2024-01-01 | 2024-05-31 | Įstatymas Nr. XII-2512 / Įstatymas Nr. XIV-2361 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/e82e11b7ce26e888f75f393aa20baa920fc88d09/istatymai/TAR.A7F77DF94F5D.md) |
 | 2024-06-01 |  | Įstatymas Nr. XIV-2627 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/8cca503a2bcc09ed29a4ae761b390045bf372fe5/istatymai/TAR.A7F77DF94F5D.md) |
 | 2026-01-01 | 2026-08-31 | Įstatymas Nr. XII-2512 / Įstatymas Nr. XV-349 | [Cellar (notified to the EU)](https://publications.europa.eu/resource/cellar/4124d178-5c69-43ef-a528-119ea6fc2b0b.0001.01/DOC_1) |
+| 2026-09-01 |  | Įstatymas Nr. XII-2512 / Įstatymas Nr. XV-802 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22JxeOQoongj%22) |
