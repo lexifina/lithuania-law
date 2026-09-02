@@ -18,3 +18,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2025-10-09 | 2026-06-29 | Įstatymas Nr. XV-453 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22XNklQlinUS%22) |
 | 2026-06-30 | 2026-08-31 | Teisės aktų registras (Seimo kanceliarija) | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22fiGORnHBdj%22) |
 | 2026-09-01 | 2026-09-01 | Įstatymas Nr. XV-1128 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22JxoJQyKROd%22) |
+| 2026-09-02 | 2027-08-31 | Įstatymas Nr. XV-1100 / Įstatymas Nr. XV-1101 | [Teisės aktų registras (atvirieji duomenys)](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Suvestine?suvestines_id=%22vPhaGWkPzI%22) |
