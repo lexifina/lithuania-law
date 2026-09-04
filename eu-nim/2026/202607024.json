@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos banko valdybos 2026 m. rugpjūčio 28 d. nutarimas Nr. 2026/03-99 „Dėl Lietuvos banko valdybos 2017 m. rugpjūčio 22 d. nutarimo Nr. 03-127 „Dėl informacijos atskleidimo taisyklių patvirtinimo“ pakeitimo“",
+  "type_of_act": "Įsakymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2026-13723",
+  "official_journal_page": null,
+  "official_journal_date": "2026-09-03",
+  "entry_into_force": "2026-09-04",
+  "notification_date": "2026-09-08",
+  "commission_reference": "MNE(2026)07024",
+  "nim_celex": "72023L2864LTU_202607024",
+  "nim_id": "202607024",
+  "transposes_celex": [
+    "32023L2864"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d6185f6a-167b-4b76-b318-168fc7619772",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
