@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos Vyriausybės 2026 m. rugsėjo 2 d. nutarimas Nr. 638 „Dėl Lietuvos Respublikos Vyriausybės 2019 m. balandžio 17 d. nutarimo Nr. 371 „Dėl Nacionalinio oro taršos mažinimo plano patvirtinimo“ pakeitimo“",
+  "type_of_act": "Nutarimas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2026-13647",
+  "official_journal_page": null,
+  "official_journal_date": "2026-09-03",
+  "entry_into_force": "2026-09-04",
+  "notification_date": "2026-09-23",
+  "commission_reference": "MNE(2026)07018",
+  "nim_celex": "72016L2284LTU_202607018",
+  "nim_id": "202607018",
+  "transposes_celex": [
+    "32016L2284"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d54b1dc0-42e5-43b3-bf03-858c42ce625f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
