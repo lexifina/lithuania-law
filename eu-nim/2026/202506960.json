@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos civilinio kodekso 6.228-1, 6.228-6, 6.228-7, 6.228-8 ir 6.228-14 straipsnių ir priedo pakeitimo įstatymas Nr. XV-576",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-20385",
+  "official_journal_page": null,
+  "official_journal_date": "2025-12-01",
+  "entry_into_force": "2026-09-27",
+  "notification_date": "2025-12-15",
+  "commission_reference": "MNE(2025)06960",
+  "nim_celex": "72024L0825LTU_202506960",
+  "nim_id": "202506960",
+  "transposes_celex": [
+    "32024L0825"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cfb0604b-05b1-4cbc-83ff-a94df0d64da7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
