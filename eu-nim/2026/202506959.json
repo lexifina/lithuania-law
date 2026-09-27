@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymo Nr. X-1409 2, 5, 6 ir 7 straipsnių ir priedo pakeitimo įstatymas Nr. XV-577",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2025-20386",
+  "official_journal_page": null,
+  "official_journal_date": "2025-12-01",
+  "entry_into_force": "2026-09-27",
+  "notification_date": "2025-12-15",
+  "commission_reference": "MNE(2025)06959",
+  "nim_celex": "72024L0825LTU_202506959",
+  "nim_id": "202506959",
+  "transposes_celex": [
+    "32024L0825"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c451c92f-efb6-4429-9f3d-6764b87ad051",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
