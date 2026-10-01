@@ -1,4 +1,4 @@
-# „Lietuvos Respublikos
+# Lietuvos Respublikos
 mokesčio už aplinkos teršimą įstatymo
 3 priedas
 GAMINIŲ SĄRAŠAS IR MOKESČIO UŽ APLINKOS TERŠIMĄ TARIFAI
@@ -19,12 +19,8 @@ ex 4012 12 00, ex 4012 13 00, ex 4012 19 00
 ex 4012 20 00
 536
 4012 90 20
-3. Akumuliatoriai
-8507
-222
-4. Baterijos (galvaniniai elementai)
-8506
-4 469
+3. Neteko galios 2026-10-01
+4. Neteko galios 2026-10-01
 5. Vidaus degimo variklių degalų arba tepalų filtrai, jų dalys ir komponentai
 8421 23 00, ex 8421 99 90
 714
@@ -35,4 +31,3 @@ ex 4012 20 00
 ex 8708 80
 535
 Pastaba. Prekių kodai pateikti pagal Kombinuotąją nomenklatūrą, patvirtintą 1987 m. liepos 23 d. Tarybos reglamentu (EEB) Nr. 2658/87 dėl tarifų ir statistinės nomenklatūros bei dėl Bendrojo muitų tarifo su visais pakeitimais. Prie kodo nurodomas raidžių junginys ex reiškia, kad apmokestinami tik atitinkamam Kombinuotosios nomenklatūros kodui priskiriami gaminiai, atitinkantys lentelės pirmoje skiltyje pateiktų atitinkamų gaminių aprašymą.
-––––––––––––––––––“.
