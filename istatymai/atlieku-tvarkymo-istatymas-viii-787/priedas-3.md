@@ -1,1 +1,2 @@
-# atliekų tvarkymo įstatymo
+# Neteko galios nuo 2011-05-03
+Lietuvos Respublikos atliekų tvarkymo įstatymo 3 priedas
