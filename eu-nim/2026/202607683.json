@@ -1,0 +1,23 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos lygių galimybių įstatymo Nr. IX-1826 pakeitimo įstatymas Nr. XV-1202",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2026-15064",
+  "official_journal_page": null,
+  "official_journal_date": "2026-10-01",
+  "entry_into_force": "2027-01-01",
+  "notification_date": "2026-10-08",
+  "commission_reference": "MNE(2026)07683",
+  "nim_celex": "72024L1499LTU_202607683",
+  "nim_id": "202607683",
+  "transposes_celex": [
+    "32024L1499",
+    "32024L1500"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4f02d810-5161-40a0-b551-54f3ac862350",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
