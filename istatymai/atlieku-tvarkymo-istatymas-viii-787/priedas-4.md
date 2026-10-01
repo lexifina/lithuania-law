@@ -1,6 +1,17 @@
-# Neteko galios nuo 2011-05-03
+# 1 priedas
+Neteko galios nuo 2011-05-03
+Lietuvos Respublikos
+atliekų tvarkymo įstatymo
+2 priedas
+Neteko galios nuo 2011-05-03
+Lietuvos Respublikos
+atliekų tvarkymo įstatymo
+3 priedas
+Neteko galios nuo 2011-05-03
 4 priedas. Neteko galios nuo 2015-06-01
-Lietuvos Respublikos atliekų tvarkymo įstatymo 5 priedas
+Lietuvos Respublikos
+atliekų tvarkymo įstatymo
+5 priedas
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 1. 1994 m. gruodžio 20 d. Europos Parlamento ir Tarybos direktyva 94/62/EB dėl pakuočių ir pakuočių atliekų su paskutiniais pakeitimais, padarytais 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/852.
 2. 1996 m. rugsėjo 24 d. Tarybos direktyva 96/61/EB dėl taršos integruotos prevencijos ir kontrolės su paskutiniais pakeitimais, padarytais 2006 m. sausio 18 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 166/2006.
