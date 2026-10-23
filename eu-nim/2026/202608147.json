@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos įstatymo „Dėl Europos Sąjungos valstybių narių sprendimų baudžiamosiose bylose tarpusavio pripažinimo ir vykdymo“ Nr. XII-1322 1, 2, 53, 87 straipsnių, priedo pakeitimo ir Įstatymo papildymo 89 straipsniu ir XVIII-1, XVIII-2 skyriais įstatymas Nr. XV-1222",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2026-16797",
+  "official_journal_page": null,
+  "official_journal_date": "2026-10-23",
+  "entry_into_force": "2026-12-01",
+  "notification_date": "2026-10-30",
+  "commission_reference": "MNE(2026)08147",
+  "nim_celex": "72023L1544LTU_202608147",
+  "nim_id": "202608147",
+  "transposes_celex": [
+    "32023L1544"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/78a6c84d-1e9d-42e7-82d9-40c6aeba0437",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
