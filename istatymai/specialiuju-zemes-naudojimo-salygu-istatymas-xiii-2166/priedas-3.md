@@ -1,14 +1,12 @@
 # 38.22
 500
 ______________________
-Lietuvos Respublikos specialiųjų
-žemės naudojimo sąlygų įstatymo
-3 priedas
-KOMUNALINIŲ OBJEKTŲ SANITARINĖS APSAUGOS ZONŲ DYDIS
+Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo 3 priedas
+Komunalinių objektų sanitarinės apsaugos zonų dydIS
 1 lentelė. Komunalinių objektų, kuriuose tvarkomos nuotekos, sanitarinės apsaugos zonų dydis
 Eil. Nr.
 Komunalinio objekto (įrenginio) pavadinimas
-Sanitarinės apsaugos zonos dydis, m, kai įrenginių našumas per parą, tūkst. m³
+Sanitarinės apsaugos zonos dydis, m, kai įrenginių našumas per parą, tūkst. m3
 nuo 0,005 iki 0,05
 nuo 0,05 iki 0,2
 nuo 0,2 iki 5

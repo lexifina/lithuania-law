@@ -1,7 +1,5 @@
-# Lietuvos Respublikos specialiųjų žemės
-naudojimo sąlygų įstatymo
-2 priedas
-GAMYBINIŲ OBJEKTŲ SANITARINĖS APSAUGOS ZONŲ DYDIS
+# Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo 2 priedas
+Gamybinių objektų sanitarinės apsaugos zonų dydIS
 Eil. Nr.
 Gamybinio objekto arba jame vykdomos veiklos pavadinimas
 Kodas pagal Ekonominės veiklos rūšių klasifikatorių
@@ -70,11 +68,11 @@ paruoštų pašarų gyvuliams gamyba, išskyrus šios lentelės 9.2 papunktyje n
 skerdyklų atliekų perdirbimas gyvūnų pašarui gaminti
 500
 10.
-Odų rauginimas ir išdirbimas, kailių išdirbimas ir dažymas, kai gamybos pajėgumas – 500 m² ir daugiau per parą
+Odų rauginimas ir išdirbimas, kailių išdirbimas ir dažymas, kai gamybos pajėgumas – 500 m2 ir daugiau per parą
 15.11
 300
 11.
-Medienos pjaustymas ir obliavimas, kai gamybos pajėgumas – 5 000 m² (ar 50 m³) ir daugiau per parą
+Medienos pjaustymas ir obliavimas, kai gamybos pajėgumas – 5 000 m2 (ar 50 m3) ir daugiau per parą
 16.1
 100
 12.
@@ -84,13 +82,13 @@ Faneravimo dangos ir medienos plokščių gamyba:
 faneravimo dangos ir medienos plokščių gamyba, išskyrus medienos plaušo plokščių, medienos drožlių plokščių, faneros gamybą;
 200
 12.2.
-medienos plaušo plokščių gamyba, kai gamybos pajėgumas 5 000 m² ir daugiau per parą;
+medienos plaušo plokščių gamyba, kai gamybos pajėgumas 5 000 m2 ir daugiau per parą;
 200
 12.3.
-medienos drožlių plokščių gamyba, kai gamybos pajėgumas 100 m³ ir daugiau per parą;
+medienos drožlių plokščių gamyba, kai gamybos pajėgumas 100 m3 ir daugiau per parą;
 200
 12.4.
-faneros gamyba, kai gamybos pajėgumas – 50 m³ ir daugiau per parą
+faneros gamyba, kai gamybos pajėgumas – 50 m3 ir daugiau per parą
 200
 13.
 Popieriaus ir popieriaus gaminių gamyba, kai gamybos pajėgumas – 20 ir daugiau tonų per parą
@@ -175,7 +173,7 @@ Cemento, kalkių ir gipso gamyba, kai gamybos pajėgumas – 10 ir daugiau tonų
 28.
 Betono, cemento ir gipso gaminių bei dirbinių gamyba:
 28.1.
-betono, cemento ir gipso gaminių bei dirbinių gamyba, kai gamybos pajėgumas – daugiau kaip 5 000 m³ per metus, išskyrus šios lentelės 28.2 papunktyje nurodytus objektus;
+betono, cemento ir gipso gaminių bei dirbinių gamyba, kai gamybos pajėgumas – daugiau kaip 5 000 m3 per metus, išskyrus šios lentelės 28.2 papunktyje nurodytus objektus;
 23.6
 100
 28.2.

@@ -1,7 +1,4 @@
-# Respublikos Prezidentė Dalia Grybauskaitė
-Lietuvos Respublikos specialiųjų žemės
-naudojimo sąlygų įstatymo
-1 priedas
+# Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo 1 priedas
 SUSKYSTINTŲ GAMTINIŲ DUJŲ IR SUSKYSTINTŲ NAFTOS DUJŲ ĮRENGINIŲ APSAUGOS ZONŲ DYDIS
 1 lentelė. Suskystintų gamtinių dujų įrenginių apsaugos zona
 Antžeminių rezervuarų talpa, m3
