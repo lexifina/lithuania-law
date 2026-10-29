@@ -71,6 +71,7 @@ No OCR was run, and no AI model wrote or changed legal text. Claude Opus 5.5 wro
 | [Register open data (data.gov.lt, dataset 2613)](https://data.gov.lt/datasets/2613/) | Official open data (acts, texts, consolidated versions) | yes | partly | yes (Spinta API) | Answered this build with a firewall block page; not used |
 | [Seimas: the Constitution (lrs.lt)](https://www.lrs.lt/home/Konstitucija/Konstitucija.htm) | The parliament's consolidated copy | current only (archived 2006-2026) | yes, per article | no | Used to check every version; robots.txt allows it |
 | [lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai) | Volunteer git history from e-TAR | yes | partly | n/a | Prior art only; nothing copied |
+| [legalize-lt](https://github.com/legalize-dev/legalize-lt) | Reconstructed history from e-TAR (data CC BY 4.0) | yes | partly | git | Checked, not used: at commit 76c1b579 its text of the personal data law (2025-01-01) is not e-TAR's edition (repealed articles kept, articles 7¹, 14¹, 19¹, 32¹ missing, superscripts lost) |
 
 Research guides: [GlobaLex](https://www.nyulawglobal.org/globalex/) and the [Law Library of Congress Guide to Law Online](https://www.loc.gov/research-centers/law-library-of-congress/researcher-resources/guide-to-law-online/).
 
