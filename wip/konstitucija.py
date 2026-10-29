@@ -6,7 +6,10 @@ ROMAN = {r: i for i, r in enumerate(
     'I II III IV V VI VII VIII IX X XI XII XIII XIV XV'.split(), 1)}
 ART = re.compile(r'^(\d{1,3}) straipsnis$')
 SKIRSNIS = re.compile(r'^([IVX]+) SKIRSNIS$')
-NOTE_HEAD = re.compile(r'^(Straipsnio|Straipsnio dalies|Straipsnio punkto|Preambulės)? ?(pakeitimai|pakeitimas|papildymas|papildymai):?$', re.I)
+NOTE_HEAD = re.compile(r'^((Straipsnio|Straipsnio dalies|Straipsnio punkto|Preambulės) (pakeitim|papildym)\w*'
+                       r'|(Papildyta|Pakeista|Išbraukta) straipsnio (dalimi|punktu|dalis|punktas)\w*)[^:]*:', re.I)
+NOTE_CONT = re.compile(r'^(Nr\. |\d{4}-\d{2}-\d{2}, (Žin|skelbtas|paskelbta)|Lietuvos Respublikos (Konstitucinis Teismas|Seimas), '
+                       r'(Nutarimas|Įstatymas)$|Lietuvos Respublikos Konstitucinio Teismo pirmininkas, Pranešimas$)')
 LAWNO = re.compile(r'Nr\. ([IVX]+-\d+)')
 TAR_NOTE = 'TAR pastaba.'
 
@@ -14,8 +17,9 @@ TAR_NOTE = 'TAR pastaba.'
 def split(paras: list[str], kind: str) -> tuple[dict, dict]:
     """Units {key: {'label','kind','text'}} and per-unit amendment notes {key: [law numbers]} (consolidated texts
     print them after each article; the original has none). `kind` is 'tar' or 'lrs'."""
-    # where the body starts: the title
-    start = next(i for i, p in enumerate(paras) if p in ('LIETUVOS RESPUBLIKOS', 'LIETUVOS RESPUBLIKOS KONSTITUCIJA'))
+    # the body starts at the referendum line above the preamble (the title lines are typeset differently by each
+    # publisher and are carried by the act's title instead)
+    start = next(i for i, p in enumerate(paras) if p.startswith('(Lietuvos Respublikos piliečių priimta'))
     units, notes, order = {}, {}, []
     cur = None
     buf: list[str] = []
@@ -39,10 +43,10 @@ def split(paras: list[str], kind: str) -> tuple[dict, dict]:
 
     i = start
     n = len(paras)
-    new('preambule', 'Preambulė', 'preamble', None)
+    new('preambule', 'Preambulė', 'preamble', '# Preambulė')
     while i < n:
         p = paras[i]
-        if p == 'LIETUVOS RESPUBLIKOS' and i + 2 < n and paras[i + 1] == 'AUKŠČIAUSIOSIOS TARYBOS':
+        if p == 'LIETUVOS RESPUBLIKOS' and i + 1 < n and paras[i + 1].startswith('AUKŠČIAUSIOSIOS TARYBOS'):
             break  # the 1992 signature block; the consolidated text's change list follows it
         if p.startswith('LIETUVOS RESPUBLIKOS AUKŠČIAUSIOSIOS TARYBOS PIRMININKAS'):
             break
@@ -63,7 +67,7 @@ def split(paras: list[str], kind: str) -> tuple[dict, dict]:
             new(f'art-{num:03d}', f'{num} straipsnis', 'art', f'# {p}')
             i += 1
             continue
-        if NOTE_HEAD.match(p) or p.startswith('Straipsnio pakeitim') or p.startswith('Straipsnio dalies pakeitim'):
+        if NOTE_HEAD.match(p):
             in_note = True
             rest = p.split(':', 1)[1] if ':' in p else ''
             notes[cur] += LAWNO.findall(rest)
@@ -74,7 +78,7 @@ def split(paras: list[str], kind: str) -> tuple[dict, dict]:
             i += 1
             continue
         if in_note:
-            if re.match(r'^(Nr\. |\d{4}-\d{2}-\d{2}, Žin)', p):
+            if NOTE_CONT.match(p):
                 notes[cur] += LAWNO.findall(p)
                 i += 1
                 continue
@@ -86,8 +90,14 @@ def split(paras: list[str], kind: str) -> tuple[dict, dict]:
     for k in order:
         u = units[k]
         lines = u['lines']
-        if k == 'preambule':
-            lines = [l for l in lines]
+        if k == 'preambule':  # TAR sets the closing word on its own line, lrs.lt on the line before
+            joined = []
+            for l in lines:
+                if l in ('KONSTITUCIJĄ', 'KONSTITUCIJA') and joined:
+                    joined[-1] += ' ' + l
+                else:
+                    joined.append(l)
+            lines = joined
         text = '\n'.join(([u['head']] if u['head'] else []) + lines) + '\n'
         out[k] = {'label': u['label'], 'kind': u['kind'], 'text': text}
     return out, notes
