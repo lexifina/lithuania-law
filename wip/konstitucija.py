@@ -7,11 +7,12 @@ ROMAN = {r: i for i, r in enumerate(
 ART = re.compile(r'^(\d{1,3}) straipsnis$')
 SKIRSNIS = re.compile(r'^([IVX]+) SKIRSNIS$')
 NOTE_HEAD = re.compile(r'^((Straipsnio|Straipsnio dalies|Straipsnio punkto|Preambulės) (pakeitim|papildym)\w*'
-                       r'|(Papildyta|Pakeista|Išbraukta) straipsnio (dalimi|punktu|dalis|punktas)\w*)[^:]*:', re.I)
+                       r'|(Papildyta|Pakeista|Išbraukta) straipsnio (dalimi|punktu|dalis|punktas)\w*)[^:]*:', re.I)
 NOTE_CONT = re.compile(r'^(Nr\. |\d{4}-\d{2}-\d{2}, (Žin|skelbtas|paskelbta)|Lietuvos Respublikos (Konstitucinis Teismas|Seimas), '
                        r'(Nutarimas|Įstatymas)$|Lietuvos Respublikos Konstitucinio Teismo pirmininkas, Pranešimas$)')
 LAWNO = re.compile(r'Nr\. ([IVX]+-\d+)')
 TAR_NOTE = 'TAR pastaba.'
+REFERENDUM_WORDS = 'Lietuvos Respublikos piliečių priimta 1992 m. spalio 25 d. referendume'
 
 
 def split(paras: list[str], kind: str) -> tuple[dict, dict]:
@@ -19,12 +20,15 @@ def split(paras: list[str], kind: str) -> tuple[dict, dict]:
     print them after each article; the original has none). `kind` is 'tar' or 'lrs'."""
     # the body starts at the referendum line above the preamble (the title lines are typeset differently by each
     # publisher and are carried by the act's title instead)
-    start = next(i for i, p in enumerate(paras) if p.startswith('(Lietuvos Respublikos piliečių priimta'))
+    # (the 2006 lrs.lt page prints it unbracketed, run on with its publication note, so it is matched by its words)
+    # (before 2008 it is split over two lines, so there the body is taken from the preamble's first words)
+    start = next((i for i, p in enumerate(paras) if REFERENDUM_WORDS in p), None)
+    if start is None:
+        start = paras.index('LIETUVIŲ TAUTA') - 1
     units, notes, order = {}, {}, []
     cur = None
     buf: list[str] = []
     in_note = False
-    pending_head = None
 
     def flush():
         nonlocal buf
@@ -41,9 +45,10 @@ def split(paras: list[str], kind: str) -> tuple[dict, dict]:
         order.append(key)
         notes.setdefault(key, [])
 
-    i = start
+    i = start + 1
     n = len(paras)
     new('preambule', 'Preambulė', 'preamble', '# Preambulė')
+    buf.append(f'({REFERENDUM_WORDS})')
     while i < n:
         p = paras[i]
         if p == 'LIETUVOS RESPUBLIKOS' and i + 1 < n and paras[i + 1].startswith('AUKŠČIAUSIOSIOS TARYBOS'):

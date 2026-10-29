@@ -3,37 +3,173 @@
   "acts": {
     "konstitucija": {
       "captures": [
-        {"role": "original", "ts": "20150405020457", "url": "https://www.e-tar.lt/rs/legalact/TAR.47BB952431DA/"},
-        {"role": "editions", "ts": "20250622024316", "url": "https://www.e-tar.lt/portal/lt/legalActEditions/TAR.47BB952431DA"},
-        {"role": "portal-latest", "ts": "20261023174812", "url": "https://www.e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA"},
-        {"role": "law:I-1390", "ts": "20240101223440", "url": "https://www.e-tar.lt/rs/legalact/TAR.651FF3A29BC8/"},
-        {"role": "law:VIII-32", "ts": "20240515002944", "url": "https://www.e-tar.lt/rs/legalact/TAR.A5C16B3B5A0F/"},
-        {"role": "law:IX-959", "ts": "20240101220323", "url": "https://www.e-tar.lt/rs/legalact/TAR.FE97B1581593/"},
-        {"role": "law:IX-1305", "ts": "20240515001412", "url": "https://www.e-tar.lt/rs/legalact/TAR.20536641E86D/"},
-        {"role": "law:IX-1378", "ts": "20240514235204", "url": "https://www.e-tar.lt/rs/legalact/TAR.314594719DFB/"},
-        {"role": "law:IX-1379", "ts": "20240514193015", "url": "https://www.e-tar.lt/rs/legalact/TAR.BA8A36926F52/"},
-        {"role": "law:IX-2343", "ts": "20240514222054", "url": "https://www.e-tar.lt/rs/legalact/TAR.7BBBC89D161E/"},
-        {"role": "law:IX-2344", "ts": "20240515020734", "url": "https://www.e-tar.lt/rs/legalact/TAR.52AEB2C9C6DF/"},
-        {"role": "law:X-572", "ts": "20211024024501", "url": "https://www.e-tar.lt/rs/legalact/TAR.25EC748CCEA6/"},
-        {"role": "law:KT2-N1/2014", "ts": "20200809223603", "url": "https://www.e-tar.lt/rs/legalact/e404190084f311e3aba3d2563f167b94/"},
-        {"role": "law:XIV-1029", "ts": "20230608153542", "url": "https://www.e-tar.lt/rs/legalact/3ce1bac0c17a11ec8d9390588bf2de65/"},
-        {"role": "edition:2014-01-24:a", "ts": "20160916065801", "url": "https://www.e-tar.lt/rs/actualedition/TAR.47BB952431DA/bHVIIlKgQy/"},
-        {"role": "edition:2014-01-24:b", "ts": "20181025085204", "url": "https://www.e-tar.lt/rs/actualedition/TAR.47BB952431DA/UwoGawiEom/"},
-        {"role": "edition:2014-01-24", "ts": "20190512205245", "url": "https://www.e-tar.lt/rs/actualedition/TAR.47BB952431DA/ZQmhQugYfg/"},
-        {"role": "edition:2019-09-01:a", "ts": "20210227025534", "url": "https://www.e-tar.lt/rs/actualedition/TAR.47BB952431DA/itvNOwWAhd/"},
-        {"role": "edition:2019-09-01", "ts": "20220527120659", "url": "https://www.e-tar.lt/rs/actualedition/TAR.47BB952431DA/LZjyKYDgoo/"},
-        {"role": "edition:2022-05-22", "ts": "20220628120940", "url": "https://www.e-tar.lt/rs/actualedition/TAR.47BB952431DA/vkzKUoOclO/"},
-        {"role": "lrs:2006-01", "ts": "20060103113325", "url": "http://www3.lrs.lt:80/home/Konstitucija/Konstitucija.htm"},
-        {"role": "lrs:2006-05a", "ts": "20060507172542", "url": "http://www3.lrs.lt/home/Konstitucija/Konstitucija.htm"},
-        {"role": "lrs:2006-05b", "ts": "20060513234016", "url": "http://www3.lrs.lt/home/Konstitucija/Konstitucija.htm"},
-        {"role": "lrs:2007-11", "ts": "20071115210902", "url": "http://www3.lrs.lt:80/home/Konstitucija/Konstitucija.htm"},
-        {"role": "lrs:2008-10", "ts": "20081031163054", "url": "http://www3.lrs.lt:80/home/Konstitucija/Konstitucija.htm"},
-        {"role": "lrs:2014-02", "ts": "20140208101040", "url": "http://www3.lrs.lt/home/Konstitucija/Konstitucija.htm"},
-        {"role": "lrs:2016-06", "ts": "20160610034218", "url": "http://www3.lrs.lt/home/Konstitucija/Konstitucija.htm"},
-        {"role": "lrs:2020-11", "ts": "20201113085724", "url": "https://www.lrs.lt/home/Konstitucija/Konstitucija.htm"},
-        {"role": "lrs:2022-06", "ts": "20220627033621", "url": "https://www.lrs.lt/home/Konstitucija/Konstitucija.htm"},
-        {"role": "lrs:2026-10", "ts": "20261020031657", "url": "https://www.lrs.lt/home/Konstitucija/Konstitucija.htm"}
+        {
+          "role": "original",
+          "ts": "20180626074019",
+          "url": "https://www.e-tar.lt/rs/legalact/TAR.47BB952431DA/"
+        },
+        {
+          "role": "original:2015",
+          "ts": "20150405020457",
+          "url": "https://www.e-tar.lt/rs/legalact/TAR.47BB952431DA/"
+        },
+        {
+          "role": "original:2017",
+          "ts": "20170610031037",
+          "url": "https://www.e-tar.lt/rs/legalact/TAR.47BB952431DA/"
+        },
+        {
+          "role": "editions",
+          "ts": "20250622024316",
+          "url": "https://www.e-tar.lt/portal/lt/legalActEditions/TAR.47BB952431DA"
+        },
+        {
+          "role": "portal-latest",
+          "ts": "20261023174812",
+          "url": "https://www.e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA"
+        },
+        {
+          "role": "law:I-1390",
+          "ts": "20240101223440",
+          "url": "https://www.e-tar.lt/rs/legalact/TAR.651FF3A29BC8/"
+        },
+        {
+          "role": "law:VIII-32",
+          "ts": "20240515002944",
+          "url": "https://www.e-tar.lt/rs/legalact/TAR.A5C16B3B5A0F/"
+        },
+        {
+          "role": "law:IX-959",
+          "ts": "20240101220323",
+          "url": "https://www.e-tar.lt/rs/legalact/TAR.FE97B1581593/"
+        },
+        {
+          "role": "law:IX-1305",
+          "ts": "20240515001412",
+          "url": "https://www.e-tar.lt/rs/legalact/TAR.20536641E86D/"
+        },
+        {
+          "role": "law:IX-1378",
+          "ts": "20240514235204",
+          "url": "https://www.e-tar.lt/rs/legalact/TAR.314594719DFB/"
+        },
+        {
+          "role": "law:IX-1379",
+          "ts": "20240514193015",
+          "url": "https://www.e-tar.lt/rs/legalact/TAR.BA8A36926F52/"
+        },
+        {
+          "role": "law:IX-2343",
+          "ts": "20240514222054",
+          "url": "https://www.e-tar.lt/rs/legalact/TAR.7BBBC89D161E/"
+        },
+        {
+          "role": "law:IX-2344",
+          "ts": "20240515020734",
+          "url": "https://www.e-tar.lt/rs/legalact/TAR.52AEB2C9C6DF/"
+        },
+        {
+          "role": "law:X-572",
+          "ts": "20211024024501",
+          "url": "https://www.e-tar.lt/rs/legalact/TAR.25EC748CCEA6/"
+        },
+        {
+          "role": "law:KT2-N1/2014",
+          "ts": "20200809223603",
+          "url": "https://www.e-tar.lt/rs/legalact/e404190084f311e3aba3d2563f167b94/"
+        },
+        {
+          "role": "law:XIV-1029",
+          "ts": "20230608153542",
+          "url": "https://www.e-tar.lt/rs/legalact/3ce1bac0c17a11ec8d9390588bf2de65/"
+        },
+        {
+          "role": "edition:2014-01-24:a",
+          "ts": "20160916065801",
+          "url": "https://www.e-tar.lt/rs/actualedition/TAR.47BB952431DA/bHVIIlKgQy/"
+        },
+        {
+          "role": "edition:2014-01-24:b",
+          "ts": "20181025085204",
+          "url": "https://www.e-tar.lt/rs/actualedition/TAR.47BB952431DA/UwoGawiEom/"
+        },
+        {
+          "role": "edition:2014-01-24",
+          "ts": "20190512205245",
+          "url": "https://www.e-tar.lt/rs/actualedition/TAR.47BB952431DA/ZQmhQugYfg/"
+        },
+        {
+          "role": "edition:2019-09-01:a",
+          "ts": "20210227025534",
+          "url": "https://www.e-tar.lt/rs/actualedition/TAR.47BB952431DA/itvNOwWAhd/"
+        },
+        {
+          "role": "edition:2019-09-01",
+          "ts": "20220527120659",
+          "url": "https://www.e-tar.lt/rs/actualedition/TAR.47BB952431DA/LZjyKYDgoo/"
+        },
+        {
+          "role": "edition:2022-05-22",
+          "ts": "20220628120940",
+          "url": "https://www.e-tar.lt/rs/actualedition/TAR.47BB952431DA/vkzKUoOclO/"
+        },
+        {
+          "role": "lrs:2006-01",
+          "ts": "20060103113325",
+          "url": "http://www3.lrs.lt:80/home/Konstitucija/Konstitucija.htm"
+        },
+        {
+          "role": "lrs:2006-05a",
+          "ts": "20060507172542",
+          "url": "http://www3.lrs.lt/home/Konstitucija/Konstitucija.htm"
+        },
+        {
+          "role": "lrs:2006-05b",
+          "ts": "20060513234016",
+          "url": "http://www3.lrs.lt/home/Konstitucija/Konstitucija.htm"
+        },
+        {
+          "role": "lrs:2007-11",
+          "ts": "20071115210902",
+          "url": "http://www3.lrs.lt:80/home/Konstitucija/Konstitucija.htm"
+        },
+        {
+          "role": "lrs:2008-10",
+          "ts": "20081031163054",
+          "url": "http://www3.lrs.lt:80/home/Konstitucija/Konstitucija.htm"
+        },
+        {
+          "role": "lrs:2014-02",
+          "ts": "20140208101040",
+          "url": "http://www3.lrs.lt/home/Konstitucija/Konstitucija.htm"
+        },
+        {
+          "role": "lrs:2016-06",
+          "ts": "20160610034218",
+          "url": "http://www3.lrs.lt/home/Konstitucija/Konstitucija.htm"
+        },
+        {
+          "role": "lrs:2020-11",
+          "ts": "20201113085724",
+          "url": "https://www.lrs.lt/home/Konstitucija/Konstitucija.htm"
+        },
+        {
+          "role": "lrs:2022-06",
+          "ts": "20220627033621",
+          "url": "https://www.lrs.lt/home/Konstitucija/Konstitucija.htm"
+        },
+        {
+          "role": "lrs:2026-10",
+          "ts": "20261020031657",
+          "url": "https://www.lrs.lt/home/Konstitucija/Konstitucija.htm"
+        }
       ]
     }
-  }
+  },
+  "direct": [
+    {
+      "role": "lrs:live",
+      "url": "https://www.lrs.lt/home/Konstitucija/Konstitucija.htm"
+    }
+  ]
 }
