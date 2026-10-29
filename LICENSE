@@ -1,0 +1,16 @@
+The legal texts are official texts of the Republic of Lithuania (the Constitution of 25 October 1992 as amended,
+the laws amending it, and Constitutional Court documents), as published by the Register of Legal Acts
+(Teisės aktų registras, www.e-tar.lt), read through Internet Archive captures, and checked against the Seimas's
+own copy of the Constitution (www.lrs.lt), retrieved 29 October 2026. Legal acts are not objects of copyright
+under art. 5 of the Law on Copyright and Related Rights of the Republic of Lithuania (Lietuvos Respublikos autorių
+teisių ir gretutinių teisių įstatymas).
+
+Changes made by Lexifina: each version was converted to one Markdown file per provision, one paragraph or point per
+line; typesetting was normalised (spaces, double quotes to „…“, a spaced hyphen to an en dash); the Register's notes
+under articles and its change lists were left out; for 1996-2006, each amending law's own words were applied to the
+text before it; and the versions were arranged as git commits credited to the acts that made each change. The
+wording of the law was not changed. Neither the Register of Legal Acts nor the Seimas endorses this repository.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
+dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/
