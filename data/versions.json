@@ -1,0 +1,85 @@
+{
+ "country": "LT",
+ "acts": [
+  {
+   "slug": "konstitucija",
+   "short": "Konstitucija",
+   "title": "Lietuvos Respublikos Konstitucija",
+   "url": "https://www.e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA",
+   "versions": [
+    {
+     "from": "1992-11-02",
+     "units": 170,
+     "source_url": "https://web.archive.org/web/20180626074019id_/https://www.e-tar.lt/rs/legalact/TAR.47BB952431DA/",
+     "sha256": "444bcbbd897ae9c1acd7a3f056aa37a60a5a5c36865ab9de930df27dc2efdf76"
+    },
+    {
+     "from": "1996-07-21",
+     "units": 170,
+     "source_url": "https://web.archive.org/web/20240101223440id_/https://www.e-tar.lt/rs/legalact/TAR.651FF3A29BC8/",
+     "sha256": "bded0832261e94240a2efbab78994df73875eb99c61ca539fb79023ba51913ac"
+    },
+    {
+     "from": "1997-01-13",
+     "units": 170,
+     "source_url": "https://web.archive.org/web/20240515002944id_/https://www.e-tar.lt/rs/legalact/TAR.A5C16B3B5A0F/",
+     "sha256": "ddaedacc9a9b9fac3d7dc5dfff86ae696ed7681cd2f97970e6af189b0f4e9a72"
+    },
+    {
+     "from": "2002-07-21",
+     "units": 170,
+     "source_url": "https://web.archive.org/web/20240101220323id_/https://www.e-tar.lt/rs/legalact/TAR.FE97B1581593/",
+     "sha256": "69bbb20bf8587b9bc300ec1daca66d5b866a9ad741a1617a2ade1fc5681f7f07"
+    },
+    {
+     "from": "2003-02-24",
+     "units": 170,
+     "source_url": "https://web.archive.org/web/20240515001412id_/https://www.e-tar.lt/rs/legalact/TAR.20536641E86D/",
+     "sha256": "8beab5a26d7c45453159fe4c29c5eddd752b48721545e39da1095818542f2664"
+    },
+    {
+     "from": "2003-04-21",
+     "units": 170,
+     "source_url": "https://web.archive.org/web/20240514235204id_/https://www.e-tar.lt/rs/legalact/TAR.314594719DFB/",
+     "sha256": "c23da97c0e2c620f741570e3d38dd4b06c3282db3c4fd6fcf12339d2d79a7c15"
+    },
+    {
+     "from": "2004-08-14",
+     "units": 171,
+     "source_url": "https://web.archive.org/web/20240514222054id_/https://www.e-tar.lt/rs/legalact/TAR.7BBBC89D161E/",
+     "sha256": "ca820f6ed805f7035f26cce011990d8123cb03967eaa71de4a27edff0bc24f8e"
+    },
+    {
+     "from": "2006-05-26",
+     "units": 171,
+     "source_url": "https://web.archive.org/web/20211024024501id_/https://www.e-tar.lt/rs/legalact/TAR.25EC748CCEA6/",
+     "sha256": "1fff29fce454233304a5509085586a5f97ec859ef01e3b9432cd48099d603347"
+    },
+    {
+     "from": "2013-11-16",
+     "units": 171,
+     "source_url": "https://web.archive.org/web/20250622024316id_/https://www.e-tar.lt/portal/lt/legalActEditions/TAR.47BB952431DA",
+     "sha256": "3ead5d17adfa8b79b9ab1997914d1fbd04c295d3cd2033aae0c0f47196015c5c"
+    },
+    {
+     "from": "2014-01-24",
+     "units": 171,
+     "source_url": "https://web.archive.org/web/20200809223603id_/https://www.e-tar.lt/rs/legalact/e404190084f311e3aba3d2563f167b94/",
+     "sha256": "4004980817f75cac5c416d675a9ba4c31cd8aedeb6d9a7f58d46cb6fd2179828"
+    },
+    {
+     "from": "2019-09-01",
+     "units": 171,
+     "source_url": "https://web.archive.org/web/20220527120659id_/https://www.e-tar.lt/rs/actualedition/TAR.47BB952431DA/LZjyKYDgoo/",
+     "sha256": "75b6a5036faa45aa87f4bd6ffb678964904d8415d512c665f651bc65b4139c48"
+    },
+    {
+     "from": "2022-05-22",
+     "units": 171,
+     "source_url": "https://web.archive.org/web/20220628120940id_/https://www.e-tar.lt/rs/actualedition/TAR.47BB952431DA/vkzKUoOclO/",
+     "sha256": "2e63f18c48b64928606fd0bb42f7559afedfb37754a5621f3ce0e646d30e9f46"
+    }
+   ]
+  }
+ ]
+}
