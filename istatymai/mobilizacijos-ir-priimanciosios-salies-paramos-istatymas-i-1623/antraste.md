@@ -1,3 +1,7 @@
+MOBILIZACIJOS IR PRIIMANČIOSIOS ŠALIES PARAMOS
+ĮSTATYMAS
+1996 m. lapkričio 19 d. Nr. I-1623
+Vilnius
 PREAMBULĖ
 Lietuvos Respublikos Seimas,
 vadovaudamasis Lietuvos Respublikos Konstitucijos 3 straipsnio antrąja dalimi, kurioje skelbiama, kad „Tauta ir kiekvienas pilietis turi teisę priešintis bet kam, kas prievarta kėsinasi į Lietuvos valstybės nepriklausomybę, teritorijos vientisumą, konstitucinę santvarką“, taip pat Konstitucijos 139 straipsnio pirmąja dalimi, kurioje nustatyta kiekvieno Lietuvos Respublikos piliečio teisė ir pareiga ginti Lietuvos valstybę nuo užsienio ginkluoto užpuolimo;
