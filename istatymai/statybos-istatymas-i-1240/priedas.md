@@ -1,4 +1,7 @@
-# Lietuvos Respublikos statybos įstatymo 1 priedas
+# RESPUBLIKOS PREZIDENTAS ALGIRDAS BRAZAUSKAS
+Lietuvos Respublikos
+statybos įstatymo
+1 priedas
 ĮMOKOS UŽ SAVAVALIŠKOS STATYBOS ĮTEISINIMĄ IR ĮMOKOS UŽ NEPRANEŠIMĄ APIE STATYBOS PRADŽIĄ MOKĖJIMO PRINCIPAI
 1. Šiame priede nustatyti įmokos už savavališkos statybos įteisinimą ir įmokos už nepranešimą apie statybos pradžią mokėjimo principai. Įmoką už savavališkos statybos įteisinimą moka statytojai (užsakovai), statinių (jų dalių) savininkai, valdytojai, naudotojai, žemės sklypų (jų dalių) savininkai, valdytojai, naudotojai, įgyvendinantys šiame įstatyme numatytą galimybę gauti statybą leidžiantį dokumentą savavališkos statybos atveju. Įmoką už nepranešimą apie statybos pradžią moka statytojai (užsakovai), statinių (jų dalių) savininkai, valdytojai, naudotojai, žemės sklypų (jų dalių) savininkai, valdytojai, naudotojai, kai Teritorijų planavimo, statybos ir žemės naudojimo valstybinės priežiūros įstatymo nustatyta tvarka statybos valstybinės priežiūros pareigūnas, nustatęs, kad statyba vykdoma nepranešus apie statybos pradžią arba nepateikus visų privalomų dokumentų ar informacijos (kai pranešti apie statybos pradžią privaloma), pateikia privalomąjį nurodymą sumokėti įmoką. Įmoka už nepranešimą apie statybos pradžią lygi pusei šiame priede nustatytos įmokos už savavališkos statybos įteisinimą.
 2. Įmokos už savavališkos statybos įteisinimą (toliau – įmoka) dydis kinta atsižvelgiant į savavališkai atliktų statybos darbų, įskaitant panaudotus statybos produktus, sąnaudų vertę. Įmoka negali viršyti 300 000 eurų ir 70 procentų savavališkai atliktų statybos darbų sąnaudų vertės (V). Įmokos dydis apskaičiuojamas pagal formulę Į = x+y+V2/200 000 Eur, čia:
