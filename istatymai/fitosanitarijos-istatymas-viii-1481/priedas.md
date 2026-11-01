@@ -1,4 +1,7 @@
-# Lietuvos Respublikos fitosanitarijos įstatymo priedas
+# RESPUBLIKOS PREZIDENTAS VALDAS ADAMKUS
+Lietuvos Respublikos
+fitosanitarijos įstatymo
+priedas
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 1. 1992 m. lapkričio 3 d. Komisijos direktyva 92/90/EEB, nustatanti įpareigojimus, kuriuos turi vykdyti augalų, augalinių produktų ar kitų objektų augintojai ir importuotojai, bei jų registracijos detales.
 2. 2016 m. spalio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) 2016/2031 dėl apsaugos priemonių nuo augalų kenkėjų, kuriuo iš dalies keičiami Europos Parlamento ir Tarybos reglamentai (ES) Nr. 228/2013, (ES) Nr. 652/2014 ir (ES) Nr. 1143/2014 ir panaikinamos Tarybos direktyvos 69/464/EEB, 74/647/EEB, 93/85/EEB, 98/57/EB, 2000/29/EB, 2006/91/EB ir 2007/33/EB, su paskutiniais pakeitimais, padarytais 2024 m. lapkričio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2024/3115.
