@@ -1,4 +1,7 @@
-# Lietuvos Respublikos viešųjų pirkimų įstatymo 1 priedas
+# RESPUBLIKOS PREZIDENTAS ALGIRDAS BRAZAUSKAS
+Lietuvos Respublikos
+viešųjų pirkimų įstatymo
+1 priedas
 LIETUVOS RESPUBLIKOS VIEŠŲJŲ PIRKIMŲ ĮSTATYMO 2 STRAIPSNIO 7 DALYJE NURODYTŲ VEIKLOS RŪŠIŲ SĄRAŠAS
 Eil. Nr.
 Veiklos rūšys pagal Europos Bendrijos statistiniame ekonominės veiklos rūšių klasifikatorių (NACE, 1 red.)
