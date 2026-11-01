@@ -1,4 +1,7 @@
-# Lietuvos Respublikos energetikos įstatymo priedas
+# RESPUBLIKOS PREZIDENTAS VALDAS ADAMKUS
+Lietuvos Respublikos
+energetikos įstatymo
+priedas
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 1. 1992 m. gegužės 21 d. Tarybos direktyva 92/42/EEB dėl naudingumo koeficiento reikalavimų naujiems karšto vandens katilams, deginantiems skystąjį arba dujinį kurą, su paskutiniais pakeitimais, padarytais 2013 m. rugpjūčio 2 d. Komisijos reglamentu (ES) Nr. 813/2013.
 2. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyva 2009/73/EB dėl gamtinių dujų vidaus rinkos bendrųjų taisyklių, panaikinanti Direktyvą 2003/55/EB, su paskutiniais pakeitimais, padarytais 2022 m. gegužės 30 d. Europos Parlamento ir Tarybos reglamentu (ES) 2022/869.
