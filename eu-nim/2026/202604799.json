@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LT",
+  "title": "Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 4, 7, 8, 9, 11, 12, 13, 17, 37, 38, 411, 42, 421, 43, 45, 451, 452, 46, 471, 49, 50, 51, 52, 53, 531, 54, 56, 57, 58, 62, 63, 64, 66, 68, 69, 70, 701, 72, 73, 74, 75, 76, 77, 78 straipsnių ir priedo pakeitimo įstatymas Nr. XV-1045",
+  "type_of_act": "Įstatymas",
+  "official_journal": "Teisės aktų registras",
+  "official_journal_reference": "2026-11117",
+  "official_journal_page": null,
+  "official_journal_date": "2026-06-26",
+  "entry_into_force": "2026-11-01",
+  "notification_date": "2026-07-21",
+  "commission_reference": "MNE(2026)04799",
+  "nim_celex": "72024L2810LTU_202604799",
+  "nim_id": "202604799",
+  "transposes_celex": [
+    "32024L2810"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ff3c8f6e-ec14-4436-a8dc-d2dc97292411",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
+}
