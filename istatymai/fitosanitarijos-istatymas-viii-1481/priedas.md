@@ -1,17 +1,10 @@
-# RESPUBLIKOS PREZIDENTAS VALDAS
-ADAMKUS
-Lietuvos
-Respublikos
-fitosanitarijos
-įstatymo
-priedas
-ĮGYVENDINAMI
-EUROPOS SĄJUNGOS TEISĖS AKTAI
-1. 1992 m. lapkričio 3 d. Komisijos direktyva 92/90/EEB, nustatanti įpareigojimus, kuriuos turi
-vykdyti augalų, augalinių produktų ar kitų objektų augintojai ir importuotojai,
-bei jų registracijos detales (OL 2004 m. specialusis leidimas, 3 skyrius, 13 tomas, p. 220).
-2. 2000 m. gegužės 8 d. Tarybos direktyva 2000/29/EB dėl apsaugos priemonių nuo augalams ir
-augaliniams produktams kenksmingų organizmų įvežimo į Bendriją ir išplitimo
-joje (OL 2004 m. specialusis leidimas, 3 skyrius, 29 tomas, p. 258) su
-paskutiniais pakeitimais, padarytais 2009 m. vasario 10 d. Komisijos direktyva 2009/7/EB (OL 2009 L 140, p. 12).
-_____________
+# Lietuvos Respublikos fitosanitarijos įstatymo priedas
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+1. 1992 m. lapkričio 3 d. Komisijos direktyva 92/90/EEB, nustatanti įpareigojimus, kuriuos turi vykdyti augalų, augalinių produktų ar kitų objektų augintojai ir importuotojai, bei jų registracijos detales.
+2. 2016 m. spalio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) 2016/2031 dėl apsaugos priemonių nuo augalų kenkėjų, kuriuo iš dalies keičiami Europos Parlamento ir Tarybos reglamentai (ES) Nr. 228/2013, (ES) Nr. 652/2014 ir (ES) Nr. 1143/2014 ir panaikinamos Tarybos direktyvos 69/464/EEB, 74/647/EEB, 93/85/EEB, 98/57/EB, 2000/29/EB, 2006/91/EB ir 2007/33/EB, su paskutiniais pakeitimais, padarytais 2024 m. lapkričio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2024/3115.
+3. 2017 m. kovo 15 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/625 dėl oficialios kontrolės ir kitos oficialios veiklos, kuri vykdoma siekiant užtikrinti maisto ir pašarų srities teisės aktų bei gyvūnų sveikatos ir gerovės, augalų sveikatos ir augalų apsaugos produktų taisyklių taikymą, kuriuo iš dalies keičiami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 999/2001, (EB) Nr. 396/2005, (EB) Nr. 1069/2009, (EB) Nr. 1107/2009, (ES) Nr. 1151/2012, (ES) Nr. 652/2014, (ES) 2016/429 ir (ES) 2016/2031, Tarybos reglamentai (EB) Nr. 1/2005 ir (EB) Nr. 1099/2009 bei Tarybos direktyvos 98/58/EB, 1999/74/EB, 2007/43/EB, 2008/119/EB ir 2008/120/EB, ir kuriuo panaikinami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 854/2004 ir (EB) Nr. 882/2004, Tarybos direktyvos 89/608/EEB, 89/662/EEB, 90/425/EEB, 91/496/EEB, 96/23/EB, 96/93/EB ir 97/78/EB bei Tarybos sprendimas 92/438/EEB (Oficialios kontrolės reglamentas), su paskutiniais pakeitimais, padarytais 2024 m. lapkričio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2024/3115.
+4. 2017 m. gruodžio 13 d. Komisijos įgyvendinimo reglamentas (ES) 2017/2313, kuriuo nustatomos augalų vežimo Sąjungos teritorijoje pasų ir augalų įvežimo į saugomą zoną ir vežimo joje pasų formos specifikacijos.
+5. 2018 m. gruodžio 18 d. Komisijos įgyvendinimo reglamentas (ES) 2018/2019, kuriuo nustatomas laikinasis didelės rizikos augalų, augalinių produktų arba kitų objektų, apibrėžtų Reglamento (ES) 2016/2031 42 straipsnyje, sąrašas ir augalų, kuriuos įvežant į Sąjungą nereikalaujama fitosanitarinių sertifikatų, kaip nustatyta to reglamento 73 straipsnyje, sąrašas, su paskutiniais pakeitimais, padarytais 2025 m. vasario 14 d. Komisijos įgyvendinimo reglamentu (ES) 2025/312.
+6. 2019 m. kovo 14 d. Komisijos deleguotasis reglamentas (ES) 2019/829, kuriuo papildomas Europos Parlamento ir Tarybos reglamentas (ES) 2016/2031 dėl apsaugos priemonių nuo augalų kenkėjų ir kuriuo valstybėms narėms leidžiama nustatyti laikinas nukrypti leidžiančias nuostatas oficialių tyrimų, mokslo arba švietimo tikslais, bandymams, veislių atrankai arba selekcijai.
+7. 2019 m. lapkričio 28 d. Europos Komisijos įgyvendinimo reglamentas (ES) 2019/2072, kuriuo nustatomos vienodos Europos Parlamento ir Tarybos reglamento (ES) 2016/2031 dėl apsaugos priemonių nuo augalų kenkėjų įgyvendinimo sąlygos, panaikinamas Komisijos reglamentas (EB) Nr. 690/2008 ir iš dalies keičiamas Komisijos įgyvendinimo reglamentas (ES) 2018/2019, su paskutiniais pakeitimais, padarytais 2025 m. balandžio 3 d. Komisijos įgyvendinimo reglamentu (ES) 2025/659.
+____________________
