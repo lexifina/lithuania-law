@@ -1,2 +1,4 @@
+2000 m. gruodžio 21 d. Nr. IX-110
+Vilnius
 I SKYRIUS
 BENDROSIOS NUOSTATOS
