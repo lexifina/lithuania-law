@@ -48,3 +48,4 @@ Editions are TAR texts (consolidated editions and the text as adopted), from Lit
 | 2025-07-01 | 2025-10-31 | Įstatymas Nr. XII-2573 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/51ac97e020ba3a680a7feb3091e00f6faf0c21dd/istatymai/TAR.F31E79DEC55D.md) |
 | 2025-11-01 |  | Įstatymas Nr. XIV-2994 | [Yiin/lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai/blob/1636eec6790c5db416b5aa9e867b3eebd0f53eb5/istatymai/TAR.F31E79DEC55D.md) |
 | 2026-01-08 | 2026-06-26 | Įstatymas Nr. XII-2573 / Įstatymas Nr. XV-264 / Įstatymas Nr. XV-479 / Įstatymas Nr. XV-489 | [Cellar (notified to the EU)](https://publications.europa.eu/resource/cellar/7d6d1220-dfef-4eda-bbef-65218eccd5c0.0001.01/DOC_1) |
+| 2026-11-01 | 2026-12-31 | Teisės aktų registras (Seimo kanceliarija) | [atviri-teises-aktai.lt](https://atviri-teises-aktai.lt/ta/0961010ISTA00I-1240/data.json) |
