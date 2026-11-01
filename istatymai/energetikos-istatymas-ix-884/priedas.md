@@ -1,5 +1,4 @@
-# RESPUBLIKOS PREZIDENTAS VALDAS ADAMKUS
-Lietuvos Respublikos energetikos įstatymo priedas
+# Lietuvos Respublikos energetikos įstatymo priedas
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 1. 1992 m. gegužės 21 d. Tarybos direktyva 92/42/EEB dėl naudingumo koeficiento reikalavimų naujiems karšto vandens katilams, deginantiems skystąjį arba dujinį kurą, su paskutiniais pakeitimais, padarytais 2013 m. rugpjūčio 2 d. Komisijos reglamentu (ES) Nr. 813/2013.
 2. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyva 2009/73/EB dėl gamtinių dujų vidaus rinkos bendrųjų taisyklių, panaikinanti Direktyvą 2003/55/EB, su paskutiniais pakeitimais, padarytais 2022 m. gegužės 30 d. Europos Parlamento ir Tarybos reglamentu (ES) 2022/869.
@@ -14,4 +13,6 @@ Lietuvos Respublikos energetikos įstatymo priedas
 11. 2023 m. rugsėjo 13 d. Europos Parlamento ir Tarybos direktyva (ES) 2023/1791 dėl energijos vartojimo efektyvumo, kuria iš dalies keičiamas Reglamentas (ES) 2023/955.
 12. 2024 m. birželio 13 d. Europos Parlamento ir Tarybos reglamentas (ES) 2024/1789 dėl dujų iš atsinaujinančiųjų išteklių, gamtinių dujų ir vandenilio vidaus rinkų, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1227/2011, (ES) 2017/1938, (ES) 2019/942 bei (ES) 2022/869 ir Sprendimas (ES) 2017/684 bei panaikinamas Reglamentas (EB) Nr. 715/2009.
 13. 2023 m. spalio 18 d. Europos Parlamento ir Tarybos direktyva (ES) 2023/2413, kuria iš dalies keičiami Direktyva (ES) 2018/2001, Reglamentas (ES) 2018/1999 ir Direktyva 98/70/EB, kiek tai susiję su skatinimu naudoti atsinaujinančiųjų išteklių energiją, ir panaikinama Tarybos direktyva (ES) 2015/652.
+14. 2024 m. birželio 13 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 2024/1787 dėl energetikos sektoriuje išmetamo metano kiekio mažinimo, kuriuo iš dalies keičiamas Reglamentas (ES) 2019/942
+15. 2026 m. sausio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) 2026/261 dėl laipsniško gamtinių dujų importo iš Rusijos nutraukimo ir pasirengimo laipsniškam Rusijos naftos importo nutraukimui bei galimos energetinės priklausomybės stebėsenos gerinimo, kuriuo iš dalies keičiamas Reglamentas (ES) 2017/1938.
 ____________________
