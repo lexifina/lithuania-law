@@ -1,5 +1,7 @@
 # Lithuania: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Lithuania's national law, which global-law reads at `lithuania/national/acts/`.
+
 The law of the Republic of Lithuania as a git history: one file per provision, one commit per change on the day it took effect, and the law or court document that made each change as the commit's author. `git blame` names the act behind a paragraph; `git log` lists every change to an article; picking a date gives the text in force that day.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `lt/`. The texts are in Lithuanian (lietuvių kalba), the official language, as the Register of Legal Acts (Teisės aktų registras, e-TAR) prints them.
