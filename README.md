@@ -1,97 +1,106 @@
-# Lithuania: law history in git
+# Lietuva: teisės istorija git sistemoje
+
+**Lietuvių** · [English](README.en.md)
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
-<img alt="Lithuanian law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+<source media="(prefers-color-scheme: dark)" srcset="data/lt/effort-dark.svg">
+<img alt="Lietuvos teisės aktai šioje repozitorijoje: kas joje yra, pakeitimai pagal įsigaliojimo metus, išsamumas, palyginti su oficialiais šaltiniais, ir turimų duomenų teisingumas" src="data/lt/effort-light.svg" width="880">
 </picture>
 
-Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Lithuania's national law, which global-law reads at `lithuania/national/acts/`.
+Dalis repozitorijos [lexifina/global-law](https://github.com/lexifina/global-law), kuri yra viena visų šalių teisės git istorija: tai Lietuvos nacionalinė teisė, kurią global-law skaito iš `lithuania/national/acts/`.
 
-The law of the Republic of Lithuania as a git history: one file per provision, one commit per change on the day it took effect, and the law or court document that made each change as the commit's author. `git blame` names the act behind a paragraph; `git log` lists every change to an article; picking a date gives the text in force that day.
+Lietuvos Respublikos teisė kaip git istorija: kiekvienai nuostatai skiriamas atskiras failas, kiekvienam pakeitimui – atskiras įrašas (commit) jo įsigaliojimo dieną, o įrašo autorius yra pakeitimą padaręs įstatymas ar teismo dokumentas. `git blame` nurodo aktą, iš kurio kilo pastraipa; `git log` išvardija visus straipsnio pakeitimus; pasirinkus datą gaunamas tą dieną galiojęs tekstas.
 
-It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `lt/`. The texts are in Lithuanian (lietuvių kalba), the official language, as the Register of Legal Acts (Teisės aktų registras, e-TAR) prints them.
+Ji laikosi bendros [lexifina/global-law](https://github.com/lexifina/global-law) struktūros, kurioje jai skirta vieta `lt/`. Tekstai pateikiami valstybine lietuvių kalba taip, kaip juos skelbia Teisės aktų registras (e-TAR).
 
-**What is in it now**
+**Kas joje yra dabar**
 
-| Folder | Act | Versions | History |
+| Aplankas | Aktas | Redakcijos | Istorija |
 | --- | --- | ---: | --- |
-| `konstitucija/` | Lietuvos Respublikos Konstitucija (the Constitution adopted by referendum on 25 October 1992) | 12 | Complete: the text as adopted (in force 2 November 1992) and every change since, from Law I-1390 (1996) to Laws XIV-1028, XIV-1029 and XIV-1030 (in force 22 May 2022) |
+| `konstitucija/` | Lietuvos Respublikos Konstitucija (1992 m. spalio 25 d. referendumu priimta Konstitucija) | 12 | Visa: priimtas tekstas (įsigaliojo 1992 m. lapkričio 2 d.) ir visi vėlesni pakeitimai – nuo 1996 m. įstatymo Nr. I-1390 iki įstatymų Nr. XIV-1028, XIV-1029 ir XIV-1030 (įsigaliojo 2022 m. gegužės 22 d.) |
 
-## A lawyer's questions as git commands
+## Teisininko klausimai kaip git komandos
 
-| Question | Command |
+| Klausimas | Komanda |
 | --- | --- |
-| What did Article 119 say on 1 January 2000? | `python tools/on.py 2000-01-01 konstitucija art-119` |
-| The same, with raw git (bash) | `git show $(git rev-list -1 --before="2000-01-01T23:59:59Z" main -- konstitucija/art-119.md):konstitucija/art-119.md` |
-| The same, in PowerShell | `$r = git rev-list -1 --before="2000-01-01T23:59:59Z" main -- konstitucija/art-119.md; git show "$($r):konstitucija/art-119.md"` |
-| Who wrote each paragraph of Article 47 (land ownership)? | `git blame konstitucija/art-047.md` |
-| Every change to Article 119 (local government), word by word | `git log -p --word-diff konstitucija/art-119.md` |
-| Every change in order | `git log --reverse --format="%ad %an" --date=short main` |
-| Everything Law XIV-1028 (direct election of mayors) changed | `git log --author="XIV-1028" --stat` |
-| The whole Constitution on a date | `python tools/on.py 2010-01-01 konstitucija` |
+| Ką nustatė 119 straipsnis 2000 m. sausio 1 d.? | `python tools/on.py 2000-01-01 konstitucija art-119` |
+| Tas pats, naudojant tik git (bash) | `git show $(git rev-list -1 --before="2000-01-01T23:59:59Z" main -- konstitucija/art-119.md):konstitucija/art-119.md` |
+| Tas pats, PowerShell aplinkoje | `$r = git rev-list -1 --before="2000-01-01T23:59:59Z" main -- konstitucija/art-119.md; git show "$($r):konstitucija/art-119.md"` |
+| Kas yra kiekvienos 47 straipsnio (žemės nuosavybė) dalies autorius? | `git blame konstitucija/art-047.md` |
+| Visi 119 straipsnio (vietos savivalda) pakeitimai, žodis po žodžio | `git log -p --word-diff konstitucija/art-119.md` |
+| Visi pakeitimai iš eilės | `git log --reverse --format="%ad %an" --date=short main` |
+| Viskas, ką pakeitė įstatymas Nr. XIV-1028 (tiesioginiai merų rinkimai) | `git log --author="XIV-1028" --stat` |
+| Visa Konstitucija tam tikrą dieną | `python tools/on.py 2010-01-01 konstitucija` |
 
-After a rebuild, refresh tags with `git fetch --force --tags`: a plain fetch keeps stale tags.
+Po pakartotinio sukūrimo žymas (tags) atnaujinkite komanda `git fetch --force --tags`: paprastas fetch palieka pasenusias žymas.
 
-## Dates
+## Datos
 
-- Each commit is dated at **noon, Europe/Vilnius, on the day the change took effect**. The adoption and publication dates are trailers; the in-force day is in `In-force:`, which `tools/on.py` reads.
-- **The in-force day of every version is the one the Register of Legal Acts gives its consolidated edition** ("Suvestinė redakcija nuo …"). A law amending the Constitution takes effect no earlier than one month after its adoption (Art. 149(3)); none of these laws names a day of its own.
-- **The Constitution** was adopted by referendum on 25 October 1992 and took effect on 2 November 1992.
-- **16 November 2013** and **24 January 2014** change no words (see below); their commits say "wording unchanged".
-- `--before="YYYY-MM-DD"` alone uses your clock's time of day; use `T23:59:59Z` as above, or the tool.
+- Kiekvienas įrašas datuojamas **pakeitimo įsigaliojimo dienos vidurdieniu Europe/Vilnius laiku**. Priėmimo ir paskelbimo datos pateikiamos priedėliuose (trailers); įsigaliojimo diena nurodoma priedėlyje `In-force:`, kurį skaito `tools/on.py`.
+- **Kiekvienos redakcijos įsigaliojimo diena yra ta, kurią Teisės aktų registras nurodo savo suvestinei redakcijai** („Suvestinė redakcija nuo …“). Konstitucijos keitimo įstatymas įsigalioja ne anksčiau kaip po vieno mėnesio nuo jo priėmimo (149 str. 3 d.); nė vienas iš šių įstatymų nenustato savo įsigaliojimo dienos.
+- **Konstitucija** priimta 1992 m. spalio 25 d. referendumu ir įsigaliojo 1992 m. lapkričio 2 d.
+- **2013 m. lapkričio 16 d.** ir **2014 m. sausio 24 d.** nekeičia nė vieno žodžio (žr. toliau); šių dienų įrašuose parašyta „wording unchanged“.
+- `--before="YYYY-MM-DD"` be laiko naudoja jūsų laikrodžio paros laiką; naudokite `T23:59:59Z`, kaip parodyta aukščiau, arba įrankį.
 
-## How it is checked
+## Kaip tikrinama
 
-- **1992 and 2014-2022 are the Register's own texts**: the Constitution as adopted (e-TAR `rs/legalact`) and its consolidated editions in force from 24 January 2014, 1 September 2019 and 22 May 2022 (e-TAR `rs/actualedition`), each read from a pinned Internet Archive capture.
-- **1996-2006 replay the amending laws.** The Register's consolidated editions for those years are in no archive, so each version applies the amending law's own words (its e-TAR text) to the version before it. Each rule checks the law's operative words ("Pakeisti 119 straipsnio 2 dalį ir ją išdėstyti taip: …") and stops the build if they differ.
-- **Every version is checked against the Seimas's own copy** of the Constitution (lrs.lt): the replayed text in force from 14 August 2004 equals the lrs.lt page archived in January 2006 in all 170 units, and the text in force from 26 May 2006 equals the Register's 2014 edition and the lrs.lt pages of 2007, 2008, 2014 and 2016. The 2019 text equals lrs.lt in 2020, and today's text equals lrs.lt as served on 29 October 2026 and as archived on 20 October 2026. The Register's act page (archived 23 October 2026) names the edition from 22 May 2022 as the one in force.
-- Every version is read back from git on the day it took effect and on the day before (`tools/check_repo.py`); both must match `corpus.json`. Results are in `REPRODUCE.md`.
-- Health checks: no merge commits on `main`, commit dates never go backwards, nothing is dated in the future, and every commit's trailers parse with `git interpret-trailers --parse`.
-- The repository is rebuilt a second time from the same data and must give identical hashes.
+- **1992 m. ir 2014–2022 m. tekstai yra paties Registro tekstai**: Konstitucija, kokia buvo priimta (e-TAR `rs/legalact`), ir jos suvestinės redakcijos, galiojusios nuo 2014 m. sausio 24 d., 2019 m. rugsėjo 1 d. ir 2022 m. gegužės 22 d. (e-TAR `rs/actualedition`), kiekviena nuskaityta iš fiksuotos Interneto archyvo kopijos.
+- **1996–2006 m. redakcijos atkuriamos taikant pakeitimo įstatymus.** Registro suvestinių redakcijų už tuos metus nėra jokiame archyve, todėl kiekviena redakcija gaunama ankstesnei redakcijai pritaikius paties pakeitimo įstatymo žodžius (jo e-TAR tekstą). Kiekviena taisyklė patikrina įstatymo pakeitimo nurodymo žodžius („Pakeisti 119 straipsnio 2 dalį ir ją išdėstyti taip: …“) ir sustabdo kūrimą, jei jie nesutampa.
+- **Kiekviena redakcija sutikrinama su paties Seimo skelbiamu** Konstitucijos tekstu (lrs.lt): atkurtas tekstas, galiojęs nuo 2004 m. rugpjūčio 14 d., visais 170 vienetų sutampa su 2006 m. sausį archyvuotu lrs.lt puslapiu, o tekstas, galiojęs nuo 2006 m. gegužės 26 d., sutampa su Registro 2014 m. redakcija ir 2007, 2008, 2014 bei 2016 m. lrs.lt puslapiais. 2019 m. tekstas sutampa su 2020 m. lrs.lt tekstu, o dabartinis tekstas – su lrs.lt tekstu, pateiktu 2026 m. spalio 29 d. ir archyvuotu 2026 m. spalio 20 d. Registro akto puslapyje (archyvuotame 2026 m. spalio 23 d.) galiojančia nurodyta redakcija nuo 2022 m. gegužės 22 d.
+- Kiekviena redakcija nuskaitoma iš git jos įsigaliojimo dieną ir dieną prieš ją (`tools/check_repo.py`); abi turi atitikti `corpus.json`. Rezultatai pateikti `REPRODUCE.md`.
+- Būklės patikros: `main` šakoje nėra sujungimo (merge) įrašų, įrašų datos niekada neina atgal, niekas nedatuota ateities data, o kiekvieno įrašo priedėliai sėkmingai išanalizuojami komanda `git interpret-trailers --parse`.
+- Repozitorija sukuriama antrą kartą iš tų pačių duomenų, ir maišos reikšmės (hashes) turi būti identiškos.
 
-## What "author" means
+## Ką reiškia „autorius“
 
-The author of a commit is the act that made the change, with an e-mail address that cannot exist (`xiv-1028@e-tar.invalid`), so `git blame` and `git log --author` name it. The committer is always Lexifina.
+Įrašo autorius yra pakeitimą padaręs aktas su el. pašto adresu, kuris negali egzistuoti (`xiv-1028@e-tar.invalid`), kad `git blame` ir `git log --author` jį nurodytų. Įrašo teikėjas (committer) visada yra Lexifina.
 
-- **The first commit** is the Constitution as adopted by the referendum of 25 October 1992.
-- **Credits come only from the sources.** Each version is credited to the laws the Register lists for that edition. Where several laws took effect on one day (21 April 2003, 14 August 2004, 22 May 2022), each article is credited to the law the Register's note under it names ("Straipsnio pakeitimas: Nr. …").
-- **The Article 125 story.** Law X-572 (2006) removed the Bank of Lithuania's exclusive right to issue money (Art. 125(2)). On 16 November 2013 the President of the Constitutional Court gave notice that the law was suspended while the Court examined it, and ruling KT2-N1/2014 of 24 January 2014 held that it had been adopted contrary to Art. 147(1). From then on the law, including the new Art. 125(2), may not be applied, but the earlier wording does not return. The Register keeps printing the 2006 words with a note, and so does this record: the notice and the ruling are commits that change no words.
-- Blame credits whole lines (one paragraph or point per line); use `git log -p --word-diff` for the words.
+- **Pirmasis įrašas** – Konstitucija, kokia ji buvo priimta 1992 m. spalio 25 d. referendumu.
+- **Autorystė nustatoma tik pagal šaltinius.** Kiekviena redakcija priskiriama įstatymams, kuriuos Registras nurodo tai redakcijai. Kai tą pačią dieną įsigaliojo keli įstatymai (2003 m. balandžio 21 d., 2004 m. rugpjūčio 14 d., 2022 m. gegužės 22 d.), kiekvienas straipsnis priskiriamas įstatymui, kurį nurodo Registro pastaba po juo („Straipsnio pakeitimas: Nr. …“).
+- **125 straipsnio istorija.** 2006 m. įstatymas Nr. X-572 panaikino Lietuvos banko išimtinę teisę leisti pinigus (125 str. 2 d.). 2013 m. lapkričio 16 d. Konstitucinio Teismo pirmininkas paskelbė, kad įstatymo galiojimas sustabdytas, kol Teismas jį nagrinėja, o 2014 m. sausio 24 d. nutarimu KT2-N1/2014 Teismas pripažino, kad įstatymas priimtas pažeidžiant 147 str. 1 d. Nuo tada įstatymas, įskaitant naująją 125 str. 2 d., negali būti taikomas, tačiau ankstesnė formuluotė neatgyja. Registras toliau skelbia 2006 m. žodžius su pastaba, taip daro ir ši istorija: pranešimas ir nutarimas yra įrašai, nekeičiantys nė vieno žodžio.
+- Blame autorystę priskiria ištisoms eilutėms (viena dalis ar punktas eilutėje); žodžiams naudokite `git log -p --word-diff`.
 
-## What it does not show
+## Ko joje nėra
 
-- **The Register's own consolidated editions for 1996-2013**: those versions are the amending laws applied by code, checked against the Seimas's 2006-2008 pages (see above). One adjustment follows the consolidated texts rather than the law: Law IX-1378 ends the restated Art. 84 point 11 with a full stop, where every consolidated text keeps the list's semicolon.
-- **The three component parts of 1991-1992** that Art. 150 lists (the Constitutional Law "Dėl Lietuvos valstybės", the Constitutional Act on non-alignment with post-Soviet eastern unions, and the Law on the procedure for the entry into force of the Constitution). They are separate acts. The fourth component part, the Constitutional Act on membership of the European Union (2004), is included (`konstitucija/sudedamoji-4-es.md`), from Law IX-2343 itself.
-- **Ordinary laws and codes.** The Civil Code, the Criminal Code and the Law on the Legal Protection of Personal Data are not built yet: the Register blocks automated readers, its open-data API (data.gov.lt) is closed to this build, and the archives hold only some of these acts' many editions.
-- **Rejected amendments.** Proposals that failed in the Seimas or at a referendum changed no words and are not recorded.
+- **Registro suvestinių redakcijų už 1996–2013 m.**: šios redakcijos yra kodu pritaikyti pakeitimo įstatymai, sutikrinti su 2006–2008 m. Seimo puslapiais (žr. aukščiau). Viena korekcija seka suvestiniais tekstais, o ne įstatymu: įstatymas Nr. IX-1378 naujai išdėstyto 84 straipsnio 11 punktą baigia tašku, o visuose suvestiniuose tekstuose paliktas sąrašo kabliataškis.
+- **Trijų 1991–1992 m. sudedamųjų dalių**, kurias išvardija 150 straipsnis (Konstitucinio įstatymo „Dėl Lietuvos valstybės“, Konstitucinio akto dėl nesijungimo į postsovietines Rytų sąjungas ir Konstitucijos įsigaliojimo tvarkos įstatymo). Tai atskiri aktai. Ketvirtoji sudedamoji dalis, 2004 m. Konstitucinis aktas dėl narystės Europos Sąjungoje, yra įtraukta (`konstitucija/sudedamoji-4-es.md`) tiesiai iš paties įstatymo Nr. IX-2343.
+- **Paprastųjų įstatymų ir kodeksų.** Civilinis kodeksas, Baudžiamasis kodeksas ir Asmens duomenų teisinės apsaugos įstatymas dar nesukurti: Registras blokuoja automatizuotą skaitymą, jo atvirųjų duomenų API (data.gov.lt) šiam kūrimui neprieinama, o archyvuose yra tik dalis daugybės šių aktų redakcijų.
+- **Atmestų pataisų.** Pasiūlymai, kurie Seime ar referendume nebuvo priimti, nepakeitė nė vieno žodžio ir nėra įrašyti.
 
-## How it is built
+## Kaip sukurta
 
-Lexifina reads the sources listed here and records each act's dated versions, and the laws that made each change, in one corpus file. `tools/build.py` writes this repository from that file, and the same corpus always gives the same commit hashes; `REPRODUCE.md` gives the details and the checks. A model (Claude) wrote Lexifina's code; it wrote no legal text, and no model runs when the history is built.
+Lexifina skaito čia išvardytus šaltinius ir viename korpuso faile įrašo kiekvieno akto datuotas redakcijas bei kiekvieną pakeitimą padariusius įstatymus. `tools/build.py` iš to failo sukuria šią repozitoriją, o tas pats korpusas visada duoda tas pačias įrašų maišos reikšmes; išsami informacija ir patikros pateiktos `REPRODUCE.md`. Lexifina kodą parašė modelis (Claude); jis neparašė jokio teisinio teksto, o kuriant istoriją nepaleidžiamas joks modelis.
 
-No OCR was run, and no AI model wrote or changed legal text. Claude Opus 5.5 wrote the scripts and chose the sources; see `REPRODUCE.md`.
+Optinis simbolių atpažinimas (OCR) nenaudotas, ir joks DI modelis nerašė ir nekeitė teisinio teksto. Scenarijus parašė ir šaltinius parinko Claude Opus 5.5; žr. `REPRODUCE.md`.
 
-## Sources
+## Šaltiniai
 
-| Source | Kind | Past versions by date | Names the amending act | API or bulk | Notes |
+| Šaltinis | Rūšis | Ankstesnės redakcijos pagal datą | Nurodo keičiantįjį aktą | API ar masinis atsisiuntimas | Pastabos |
 | --- | --- | --- | --- | --- | --- |
-| [Register of Legal Acts (e-TAR)](https://www.e-tar.lt) via the [Internet Archive](https://web.archive.org/) | Official publication | yes (consolidated editions with dates) | yes, per article | – | – |
-| [Register open data (data.gov.lt, dataset 2613)](https://data.gov.lt/datasets/2613/) | Official open data (acts, texts, consolidated versions) | yes | partly | yes (Spinta API) | – |
-| [Seimas: the Constitution (lrs.lt)](https://www.lrs.lt/home/Konstitucija/Konstitucija.htm) | The parliament's consolidated copy | current only (archived 2006-2026) | yes, per article | no | – |
-| [e-seimas.lrs.lt](https://e-seimas.lrs.lt) | Seimas legal database | yes | yes | no | – |
-| [lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai) | Volunteer git history from e-TAR | yes | partly | n/a | Prior art only; nothing copied |
-| [legalize-lt](https://github.com/legalize-dev/legalize-lt) | Reconstructed history from e-TAR (data CC BY 4.0) | yes | partly | git | Checked, not used: at commit 76c1b579 its text of the personal data law (2025-01-01) is not e-TAR's edition (repealed articles kept, articles 7¹, 14¹, 19¹, 32¹ missing, superscripts lost) |
+| [Teisės aktų registras (e-TAR)](https://www.e-tar.lt) per [Interneto archyvą](https://web.archive.org/) | Oficialus skelbimas | taip (suvestinės redakcijos su datomis) | taip, kiekvienam straipsniui | – | – |
+| [Registro atvirieji duomenys (data.gov.lt, duomenų rinkinys 2613)](https://data.gov.lt/datasets/2613/) | Oficialūs atvirieji duomenys (aktai, tekstai, suvestinės redakcijos) | taip | iš dalies | taip (Spinta API) | – |
+| [Seimas: Konstitucija (lrs.lt)](https://www.lrs.lt/home/Konstitucija/Konstitucija.htm) | Parlamento skelbiamas suvestinis tekstas | tik dabartinė (archyvuota 2006–2026 m.) | taip, kiekvienam straipsniui | ne | – |
+| [e-seimas.lrs.lt](https://e-seimas.lrs.lt) | Seimo teisės aktų duomenų bazė | taip | taip | ne | – |
+| [lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai) | Savanorių git istorija iš e-TAR | taip | iš dalies | netaikoma | Tik kaip ankstesnis darbas; nieko nenukopijuota |
+| [legalize-lt](https://github.com/legalize-dev/legalize-lt) | Atkurta istorija iš e-TAR (duomenys CC BY 4.0) | taip | iš dalies | git | Patikrinta, nenaudota: ties įrašu 76c1b579 jos asmens duomenų įstatymo tekstas (2025-01-01) nėra e-TAR redakcija (palikti panaikinti straipsniai, trūksta 7¹, 14¹, 19¹, 32¹ straipsnių, prarasti viršutiniai indeksai) |
 
-Research guides: [GlobaLex](https://www.nyulawglobal.org/globalex/) and the [Law Library of Congress Guide to Law Online](https://www.loc.gov/research-centers/law-library-of-congress/researcher-resources/guide-to-law-online/).
+Paieškos vadovai: [GlobaLex](https://www.nyulawglobal.org/globalex/) ir [Law Library of Congress Guide to Law Online](https://www.loc.gov/research-centers/law-library-of-congress/researcher-resources/guide-to-law-online/).
 
-## Licence
+## Licencija
 
-Legal acts are not objects of copyright in Lithuania (Law on Copyright and Related Rights, art. 5). The texts come from the Register of Legal Acts (www.e-tar.lt, read through the Internet Archive) and were checked against the Seimas's copy (www.lrs.lt). Lexifina's own contributions are dedicated to the public domain under CC0 1.0; see `LICENSE`.
+Teisės aktai Lietuvoje nėra autorių teisių objektai (Autorių teisių ir gretutinių teisių įstatymo 5 straipsnis). Tekstai paimti iš Teisės aktų registro (www.e-tar.lt, skaityta per Interneto archyvą) ir sutikrinti su Seimo skelbiamu tekstu (www.lrs.lt). Lexifina savo indėlį pagal CC0 1.0 perduoda visuomenės nuosavybėn (public domain); žr. `LICENSE`.
 
-This repository is not legal advice and is not an official publication.
+Ši repozitorija nėra teisinė konsultacija ir nėra oficialus leidinys.
 
----
+Tai angliškos versijos ([README.en.md](README.en.md)) vertimas; jei jos skiriasi, galioja angliška versija.
 
-## Lietuviškai
+## Daugiau
 
-Lietuvos Respublikos Konstitucija kaip istorija git sistemoje: kiekvienam straipsniui atskiras failas ir kiekvienam pakeitimui atskiras įrašas (commit), datuotas jo įsigaliojimo diena, o autorius yra pakeitimą padaręs teisės aktas. Istorija prasideda 1992 m. spalio 25 d. referendumu priimtu tekstu (įsigaliojo 1992 m. lapkričio 2 d.) ir apima visus pakeitimus iki 2022 m. gegužės 22 d. įsigaliojusių įstatymų Nr. XIV-1028, XIV-1029 ir XIV-1030. Tekstai paimti iš Teisės aktų registro (per Interneto archyvą) ir sutikrinti su Seimo svetainėje skelbiamu Konstitucijos tekstu. Tai nėra oficiali suvestinė redakcija ir ne teisinė konsultacija.
+Iš repozitorijos [lexifina/global-law](https://github.com/lexifina/global-law) (anglų kalba):
+
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): visos funkcijos ir ką turi palaikyti kiekvienas korpusas (`git blame`, `law.py`, MCP įrankiai)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): klausimai ir atsakymai · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): kaip pasiūlyti pakeitimų · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): MCP serveris · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): kaip tai sukurta · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): koks aktualus kiekvienas korpusas · [Stebėsena](https://github.com/lexifina/global-law/tree/main/monitoring): ar veikia atnaujinimai · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): kaip kiekvienas oficialus šaltinis stebimas dėl pakeitimų
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): kaip greitai veikia įrankiai, išmatuota
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): diagramos ir ryšiai viso pasaulio teisėje
+- [Pažeidžiamumai](https://github.com/lexifina/global-law/tree/main/vulnerabilities): klaidos teisės aktuose tokiuose, kokie jie paskelbti
