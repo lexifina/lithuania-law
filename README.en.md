@@ -1,96 +1,85 @@
 # Lithuania: law history in git
 
-[Lietuvių](README.md) · **English**
+**English** · **[Arba skaitykite lietuviškai](README.md)**
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
 <img alt="Lithuanian law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
 </picture>
 
+The law of Lithuania as a git history: one file per provision, one commit per change on the day it took effect, and the act that made each change as the commit's author. `git blame` names the act behind every paragraph; `git log` lists every change to an article; picking a date gives the text in force that day.
+
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Lithuania's national law, which global-law reads at `lithuania/national/acts/`.
 
-The law of the Republic of Lithuania as a git history: one file per provision, one commit per change on the day it took effect, and the law or court document that made each change as the commit's author. `git blame` names the act behind a paragraph; `git log` lists every change to an article; picking a date gives the text in force that day.
+**What is in it now:** the Constitution adopted by referendum on 25 October 1992 and every change since: 12 versions, from the text in force on 2 November 1992 to the one in force from 22 May 2022, made by 13 amending laws, with 2 Constitutional Court documents that change no words (16 commits). No other act is here yet. [`konstitucija/README.md`](konstitucija/README.md) lists every provision and how often it changed.
 
-It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `lt/`. The texts are in Lithuanian (lietuvių kalba), the official language, as the Register of Legal Acts (Teisės aktų registras, e-TAR) prints them.
+Each provision is one file in `konstitucija/`: the preamble (`preambule.md`), the 15 chapter headings (`skirsnis-01.md` to `skirsnis-15.md`), the 154 articles (`art-001.md` to `art-154.md`; `art-119.md` is Article 119, local government) and, from 2004, the Constitutional Act on membership of the European Union (`sudedamoji-4-es.md`).
 
-**What is in it now**
+The text is in Lithuanian, as the Register of Legal Acts (Teisės aktų registras, e-TAR) prints it. An English translation is not part of this record.
 
-| Folder | Act | Versions | History |
-| --- | --- | ---: | --- |
-| `konstitucija/` | Lietuvos Respublikos Konstitucija (the Constitution adopted by referendum on 25 October 1992) | 12 | Complete: the text as adopted (in force 2 November 1992) and every change since, from Law I-1390 (1996) to Laws XIV-1028, XIV-1029 and XIV-1030 (in force 22 May 2022) |
-
-## A lawyer's questions as git commands
+## Questions as git commands
 
 | Question | Command |
 | --- | --- |
-| What did Article 119 say on 1 January 2000? | `python tools/on.py 2000-01-01 konstitucija art-119` |
-| The same, with raw git (bash) | `git show $(git rev-list -1 --before="2000-01-01T23:59:59Z" main -- konstitucija/art-119.md):konstitucija/art-119.md` |
-| The same, in PowerShell | `$r = git rev-list -1 --before="2000-01-01T23:59:59Z" main -- konstitucija/art-119.md; git show "$($r):konstitucija/art-119.md"` |
-| Who wrote each paragraph of Article 47 (land ownership)? | `git blame konstitucija/art-047.md` |
-| Every change to Article 119 (local government), word by word | `git log -p --word-diff konstitucija/art-119.md` |
-| Every change in order | `git log --reverse --format="%ad %an" --date=short main` |
-| Everything Law XIV-1028 (direct election of mayors) changed | `git log --author="XIV-1028" --stat` |
-| The whole Constitution on a date | `python tools/on.py 2010-01-01 konstitucija` |
+| Every change to Article 119 of the Constitution | `git log -p --word-diff -- konstitucija/art-119.md` |
+| Which act wrote each line of Article 119? | `git blame konstitucija/art-119.md` |
+| Every change to the Constitution, with the day each took effect | `git log --grep="^In-force:" --format="%h %(trailers:key=In-force,valueonly,separator=) %an"` |
+| Article 119 as in force on 1 January 2000 | `python tools/on.py 2000-01-01 konstitucija art-119` |
 
-After a rebuild, refresh tags with `git fetch --force --tags`: a plain fetch keeps stale tags.
+**Outside git**, we also host this record publicly, for free:
+
+- **[Ask Claude about Lithuanian law](https://global-law.lexifina.com/v1/try_claude?country=lithuania)**: opens Claude with a first question ready.
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=lithuania)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=atostogas&jurisdictions=lithuania)**: a search of Lithuanian law for "atostogas", returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
+
+Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in Lithuanian or in English.
+
+**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
+
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add lithuania/national/acts
+python3 tools/law.py show 2026-01-01 lithuania/national/acts/konstitucija/art-119.md
+```
+
+Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
 ## Dates
 
-- Each commit is dated at **noon, Europe/Vilnius, on the day the change took effect**. The adoption and publication dates are trailers; the in-force day is in `In-force:`, which `tools/on.py` reads.
-- **The in-force day of every version is the one the Register of Legal Acts gives its consolidated edition** ("Suvestinė redakcija nuo …"). A law amending the Constitution takes effect no earlier than one month after its adoption (Art. 149(3)); none of these laws names a day of its own.
-- **The Constitution** was adopted by referendum on 25 October 1992 and took effect on 2 November 1992.
-- **16 November 2013** and **24 January 2014** change no words (see below); their commits say "wording unchanged".
-- `--before="YYYY-MM-DD"` alone uses your clock's time of day; use `T23:59:59Z` as above, or the tool.
+Each commit is dated at noon, Europe/Vilnius, on the day the change took effect, and carries it in its `In-force:` trailer:
+
+- for every version, the day the Register gives its consolidated edition ("Suvestinė redakcija nuo …"). A law amending the Constitution takes effect no earlier than one month after its adoption (Art. 149(3)); none of these laws names a day of its own;
+- for the Constitution as adopted, 2 November 1992;
+- 16 November 2013 and 24 January 2014 are the Constitutional Court's notice suspending Law X-572 (Article 125, 2006) and its ruling KT2-N1/2014 that the law was adopted contrary to Art. 147(1). The Register keeps printing the 2006 words with a note, and so does this record: both commits say "wording unchanged".
+
+Each change is credited to the act the Register lists for that edition (`Įstatymas Nr. XIV-1028`); where several laws took effect on one day (21 April 2003, 14 August 2004, 22 May 2022), each article is credited to the law the Register's note under it names ("Straipsnio pakeitimas: Nr. …"). The first commit is credited to the referendum of 25 October 1992.
 
 ## How it is checked
 
-- **1992 and 2014-2022 are the Register's own texts**: the Constitution as adopted (e-TAR `rs/legalact`) and its consolidated editions in force from 24 January 2014, 1 September 2019 and 22 May 2022 (e-TAR `rs/actualedition`), each read from a pinned Internet Archive capture.
-- **1996-2006 replay the amending laws.** The Register's consolidated editions for those years are in no archive, so each version applies the amending law's own words (its e-TAR text) to the version before it. Each rule checks the law's operative words ("Pakeisti 119 straipsnio 2 dalį ir ją išdėstyti taip: …") and stops the build if they differ.
-- **Every version is checked against the Seimas's own copy** of the Constitution (lrs.lt): the replayed text in force from 14 August 2004 equals the lrs.lt page archived in January 2006 in all 170 units, and the text in force from 26 May 2006 equals the Register's 2014 edition and the lrs.lt pages of 2007, 2008, 2014 and 2016. The 2019 text equals lrs.lt in 2020, and today's text equals lrs.lt as served on 29 October 2026 and as archived on 20 October 2026. The Register's act page (archived 23 October 2026) names the edition from 22 May 2022 as the one in force.
-- Every version is read back from git on the day it took effect and on the day before (`tools/check_repo.py`); both must match `corpus.json`. Results are in `REPRODUCE.md`.
-- Health checks: no merge commits on `main`, commit dates never go backwards, nothing is dated in the future, and every commit's trailers parse with `git interpret-trailers --parse`.
-- The repository is rebuilt a second time from the same data and must give identical hashes.
-
-## What "author" means
-
-The author of a commit is the act that made the change, with an e-mail address that cannot exist (`xiv-1028@e-tar.invalid`), so `git blame` and `git log --author` name it. The committer is always Lexifina.
-
-- **The first commit** is the Constitution as adopted by the referendum of 25 October 1992.
-- **Credits come only from the sources.** Each version is credited to the laws the Register lists for that edition. Where several laws took effect on one day (21 April 2003, 14 August 2004, 22 May 2022), each article is credited to the law the Register's note under it names ("Straipsnio pakeitimas: Nr. …").
-- **The Article 125 story.** Law X-572 (2006) removed the Bank of Lithuania's exclusive right to issue money (Art. 125(2)). On 16 November 2013 the President of the Constitutional Court gave notice that the law was suspended while the Court examined it, and ruling KT2-N1/2014 of 24 January 2014 held that it had been adopted contrary to Art. 147(1). From then on the law, including the new Art. 125(2), may not be applied, but the earlier wording does not return. The Register keeps printing the 2006 words with a note, and so does this record: the notice and the ruling are commits that change no words.
-- Blame credits whole lines (one paragraph or point per line); use `git log -p --word-diff` for the words.
+- The Constitution as adopted and the editions in force from 2014 are the Register's own texts, each read from a pinned Internet Archive capture. No archive holds the Register's editions of 1996-2013, so those versions apply each amending law's own words to the version before; the build stops if the law's operative words differ.
+- The texts in force from 2004 on equal the Seimas's own copy of the Constitution (lrs.lt) in all 170 units, as archived from 2006 to 2026 and as served on 29 October 2026; the replayed text of 2006 also equals the Register's 2014 edition.
+- Every version is read back from git on the day it took effect and on the day before (`tools/check_repo.py`), and must match the corpus. Results are in [`REPRODUCE.md`](REPRODUCE.md).
+- History is append-only: no merge commits, no commit dates that go backwards, no commit dated in the future, and every commit's trailers parse.
 
 ## What it does not show
 
-- **The Register's own consolidated editions for 1996-2013**: those versions are the amending laws applied by code, checked against the Seimas's 2006-2008 pages (see above). One adjustment follows the consolidated texts rather than the law: Law IX-1378 ends the restated Art. 84 point 11 with a full stop, where every consolidated text keeps the list's semicolon.
-- **The three component parts of 1991-1992** that Art. 150 lists (the Constitutional Law "Dėl Lietuvos valstybės", the Constitutional Act on non-alignment with post-Soviet eastern unions, and the Law on the procedure for the entry into force of the Constitution). They are separate acts. The fourth component part, the Constitutional Act on membership of the European Union (2004), is included (`konstitucija/sudedamoji-4-es.md`), from Law IX-2343 itself.
-- **Ordinary laws and codes.** The Civil Code, the Criminal Code and the Law on the Legal Protection of Personal Data are not built yet: the Register blocks automated readers, its open-data API (data.gov.lt) is closed to this build, and the archives hold only some of these acts' many editions.
-- **Rejected amendments.** Proposals that failed in the Seimas or at a referendum changed no words and are not recorded.
-
-## How it is built
-
-Lexifina reads the sources listed here and records each act's dated versions, and the laws that made each change, in one corpus file. `tools/build.py` writes this repository from that file, and the same corpus always gives the same commit hashes; `REPRODUCE.md` gives the details and the checks. A model (Claude) wrote Lexifina's code; it wrote no legal text, and no model runs when the history is built.
-
-No OCR was run, and no AI model wrote or changed legal text. Claude Opus 5.5 wrote the scripts and chose the sources; see `REPRODUCE.md`.
+- **Ordinary laws and codes.** Only the Constitution is built; the codes, the other laws and the rest of the Register are not here yet.
+- **Case law, local acts, treaties, EU law and bills.** None is here, apart from the Constitutional Court's 2013 notice and 2014 ruling on Article 125.
+- **The Register's own editions of 1996-2013.** Those versions are the amending laws applied by code and checked as above. One point follows the consolidated texts rather than the law: Law IX-1378 ends the restated Art. 84 point 11 with a full stop, where every consolidated text keeps the list's semicolon.
+- **Three component parts of the Constitution** that Art. 150 lists, of 1991-1992 (the Constitutional Law "Dėl Lietuvos valstybės", the Constitutional Act on non-alignment with post-Soviet eastern unions, and the Law on the procedure for the entry into force of the Constitution): they are separate acts. The fourth, on membership of the European Union, is here.
 
 ## Sources
 
-| Source | Kind | Past versions by date | Names the amending act | API or bulk | Notes |
-| --- | --- | --- | --- | --- | --- |
-| [Register of Legal Acts (e-TAR)](https://www.e-tar.lt) via the [Internet Archive](https://web.archive.org/) | Official publication | yes (consolidated editions with dates) | yes, per article | – | – |
-| [Register open data (data.gov.lt, dataset 2613)](https://data.gov.lt/datasets/2613/) | Official open data (acts, texts, consolidated versions) | yes | partly | yes (Spinta API) | – |
-| [Seimas: the Constitution (lrs.lt)](https://www.lrs.lt/home/Konstitucija/Konstitucija.htm) | The parliament's consolidated copy | current only (archived 2006-2026) | yes, per article | no | – |
-| [e-seimas.lrs.lt](https://e-seimas.lrs.lt) | Seimas legal database | yes | yes | no | – |
-| [lt-teises-aktai](https://github.com/Yiin/lt-teises-aktai) | Volunteer git history from e-TAR | yes | partly | n/a | Prior art only; nothing copied |
-| [legalize-lt](https://github.com/legalize-dev/legalize-lt) | Reconstructed history from e-TAR (data CC BY 4.0) | yes | partly | git | Checked, not used: at commit 76c1b579 its text of the personal data law (2025-01-01) is not e-TAR's edition (repealed articles kept, articles 7¹, 14¹, 19¹, 32¹ missing, superscripts lost) |
-
-Research guides: [GlobaLex](https://www.nyulawglobal.org/globalex/) and the [Law Library of Congress Guide to Law Online](https://www.loc.gov/research-centers/law-library-of-congress/researcher-resources/guide-to-law-online/).
+| Source | Kind | Past versions | Notes |
+| --- | --- | --- | --- |
+| [Teisės aktų registras (e-TAR)](https://www.e-tar.lt), read through the [Internet Archive](https://web.archive.org/) | Official register of legal acts | yes, consolidated editions with their dates (pinned captures) | The Constitution as adopted, every amending law and Court document, and the editions in force from 2014 |
+| [Seimas: the Constitution (lrs.lt)](https://www.lrs.lt/home/Konstitucija/Konstitucija.htm) | The parliament's consolidated copy | current only (archived 2006-2026) | Every version from 2004 is checked against it |
 
 ## Licence
 
-Legal acts are not objects of copyright in Lithuania (Law on Copyright and Related Rights, art. 5). The texts come from the Register of Legal Acts (www.e-tar.lt, read through the Internet Archive) and were checked against the Seimas's copy (www.lrs.lt). Lexifina's own contributions are dedicated to the public domain under CC0 1.0; see `LICENSE`.
+See [`LICENSE`](LICENSE). Legal acts are not objects of copyright in Lithuania (Law on Copyright and Related Rights, art. 5); Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are dedicated to the public domain under CC0 1.0.
 
-This repository is not legal advice and is not an official publication.
+No AI model wrote, translated or corrected legal text; the scripts were written by an AI model, which also wrote the English summaries in the commit messages of the 2013 notice and the 2014 ruling (see [`REPRODUCE.md`](REPRODUCE.md)).
 
 ## More
 
