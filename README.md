@@ -30,7 +30,8 @@ Tekstas pateikiamas lietuvių kalba taip, kaip jį skelbia Teisės aktų registr
 
 - **[Klauskite Claude apie Lietuvos teisę](https://global-law.lexifina.com/v1/try_claude?country=lithuania)**: atidaro Claude su paruoštu pirmuoju klausimu.
 - **[Klauskite ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=lithuania)**: tas pats klausimas ChatGPT.
-- **[Iškvieskite API naršyklėje](https://global-law.lexifina.com/v1/search_law?query=atostogas&jurisdictions=lithuania)**: žodžio „atostogas“ paieška Lietuvos teisėje, atsakymas JSON formatu. Dokumentacija pateikta [čia](https://lexifina.com/api/global-law).
+- **[Ieškokite Lietuvos teisėje mūsų svetainėje](https://lexifina.com/law?country=lithuania&q=atostogas)**: „atostogas“ paieška su kiekvienos nuostatos tekstu ir jos redakcijomis, be paskyros.
+- **[REST API kūrėjams](https://global-law.lexifina.com/v1/search_law?query=atostogas&jurisdiction=lithuania)**: ta pati paieška JSON formatu, be rakto. Dokumentacija pateikta [čia](https://lexifina.com/api/global-law).
 
 Abu asistentai įrašą skaito per nemokamą Global law jungtį (MCP, `https://global-law.lexifina.com/mcp`); pirmą kartą pokalbis pateikia nuorodą, kuria jungtis pridedama. Klauskite lietuviškai arba angliškai.
 
