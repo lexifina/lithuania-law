@@ -61,6 +61,7 @@ Each change is credited to the act the Register lists for that edition (`Įstaty
 - The texts in force from 2004 on equal the Seimas's own copy of the Constitution (lrs.lt) in all 170 units, as archived from 2006 to 2026 and as served on 29 October 2026; the replayed text of 2006 also equals the Register's 2014 edition.
 - Every version is read back from git on the day it took effect and on the day before (`tools/check_repo.py`), and must match the corpus. Results are in [`REPRODUCE.md`](REPRODUCE.md).
 - History is append-only: no merge commits, no commit dates that go backwards, no commit dated in the future, and every commit's trailers parse.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -81,6 +82,10 @@ Each change is credited to the act the Register lists for that edition (`Įstaty
 See [`LICENSE`](LICENSE). Legal acts are not objects of copyright in Lithuania (Law on Copyright and Related Rights, art. 5); Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are dedicated to the public domain under CC0 1.0.
 
 No AI model wrote, translated or corrected legal text; the scripts were written by an AI model, which also wrote the English summaries in the commit messages of the 2013 notice and the 2014 ruling (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
 
 ## More
 

@@ -61,6 +61,7 @@ Kiekvienas pakeitimas priskiriamas aktui, kurį Registras nurodo tai redakcijai 
 - Tekstai, galiojantys nuo 2004 m., visais 170 vienetų sutampa su paties Seimo skelbiamu Konstitucijos tekstu (lrs.lt), archyvuotu 2006–2026 m. ir pateiktu 2026 m. spalio 29 d.; atkurtas 2006 m. tekstas taip pat sutampa su Registro 2014 m. redakcija.
 - Kiekviena redakcija nuskaitoma iš git jos įsigaliojimo dieną ir dieną prieš ją (`tools/check_repo.py`) ir turi atitikti korpusą. Rezultatai pateikti [`REPRODUCE.md`](REPRODUCE.md).
 - Istorija tik papildoma: nėra sujungimo (merge) įrašų, įrašų datos neina atgal, nėra įrašų, datuotų ateities data, o kiekvieno įrašo priedėliai sėkmingai išanalizuojami.
+- [vulnerabilities/](vulnerabilities/): galimos redakcinės klaidos šioje teisėje, kurias randa global-law detektoriai ir tikrina žmogus. Dar nepaleista.
 
 ## Ko joje nėra
 
@@ -83,6 +84,10 @@ Kiekvienas pakeitimas priskiriamas aktui, kurį Registras nurodo tai redakcijai 
 Joks DI modelis nerašė, nevertė ir netaisė teisinio teksto; scenarijus parašė DI modelis, kuris taip pat parašė angliškas 2013 m. pranešimo ir 2014 m. nutarimo santraukas įrašų pranešimuose (žr. [`REPRODUCE.md`](REPRODUCE.md)).
 
 Tai angliškos versijos ([README.en.md](README.en.md)) vertimas; jei jos skiriasi, galioja angliška versija.
+
+## Vizualizacijos
+
+- [visualisations/](visualisations/): diagramos, nubraižytos iš šios saugyklos. Dar nenubraižytos.
 
 ## Daugiau
 
