@@ -11,7 +11,7 @@ The law of Lithuania as a git history: one file per provision, one commit per ch
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Lithuania's national law, which global-law reads at `lithuania/national/acts/`.
 
-**What is in it now:** the Constitution adopted by referendum on 25 October 1992 and every change since: 12 versions, from the text in force on 2 November 1992 to the one in force from 22 May 2022, made by 13 amending laws, with 2 Constitutional Court documents that change no words (16 commits). No other act is here yet. Alongside it: 10,095 records of the national measures Lithuania has notified to the EU as transposing 2,215 EU directives and other EU acts, dated by their entry into force from 1990 to 2026 (`eu-nim/`, metadata from the EU Publications Office, no text). [`konstitucija/README.md`](konstitucija/README.md) lists every provision and how often it changed.
+**What is in it now:** the Constitution adopted by referendum on 25 October 1992 and every change since (12 versions, 13 amending laws, 2 Constitutional Court documents; 16 commits); Lithuania's 10,095 notified transpositions of EU directives as the EU Publications Office records them (`eu-nim/`, metadata, 1990–2026); and 1,984 resolutions of the Competition Council (`konkurencijos-taryba/nutarimai/`, date, number and summary, 1999–2026).
 
 Each provision is one file in `konstitucija/`: the preamble (`preambule.md`), the 15 chapter headings (`skirsnis-01.md` to `skirsnis-15.md`), the 154 articles (`art-001.md` to `art-154.md`; `art-119.md` is Article 119, local government) and, from 2004, the Constitutional Act on membership of the European Union (`sudedamoji-4-es.md`).
 
