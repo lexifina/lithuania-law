@@ -11,7 +11,7 @@ Lietuvos teisė kaip git istorija: kiekvienai nuostatai skiriamas atskiras faila
 
 Dalis repozitorijos [lexifina/global-law](https://github.com/lexifina/global-law), kuri yra viena visų šalių teisės git istorija: tai Lietuvos nacionalinė teisė, kurią global-law skaito iš `lithuania/national/acts/`.
 
-**Kas joje yra dabar:** Konstitucija su visais pakeitimais nuo 1992 m. (12 redakcijų); Civilinis, Baudžiamasis, Civilinio proceso, Baudžiamojo proceso, Administracinių nusižengimų ir Darbo kodeksai bei Administracinių bylų teisenos įstatymas – Lietuvos ES praneštos redakcijos (2022–2026, su spragomis, dar ne šiandienos tekstas); 10 095 ES perkėlimo priemonių ir 1 984 Konkurencijos tarybos nutarimų įrašai (metaduomenys). [`konstitucija/README.md`](konstitucija/README.md) išvardija visas nuostatas ir kiek kartų kiekviena buvo pakeista.
+**Kas joje yra dabar:** Konstitucija su visais pakeitimais nuo 1992 m. (`konstitucija/`); kodeksai (`kodeksai/`), kiti įstatymai (`istatymai/`) ir kiti aktai (`kiti-aktai/`) – su spragomis, ne visi iki šiandienos teksto; ES perkėlimo priemonių (`eu-nim/`) ir Konkurencijos tarybos nutarimų (`konkurencijos-taryba/`) įrašai (metaduomenys). [`konstitucija/README.md`](konstitucija/README.md) išvardija visas nuostatas ir kiek kartų kiekviena buvo pakeista.
 
 Kiekviena nuostata yra atskiras failas aplanke `konstitucija/`: preambulė (`preambule.md`), 15 skirsnių pavadinimų (nuo `skirsnis-01.md` iki `skirsnis-15.md`), 154 straipsniai (nuo `art-001.md` iki `art-154.md`; `art-119.md` yra 119 straipsnis, vietos savivalda) ir nuo 2004 m. Konstitucinis aktas „Dėl Lietuvos Respublikos narystės Europos Sąjungoje“ (`sudedamoji-4-es.md`).
 
@@ -65,7 +65,7 @@ Kiekvienas pakeitimas priskiriamas aktui, kurį Registras nurodo tai redakcijai 
 
 ## Ko joje nėra
 
-- **Paprastųjų įstatymų ir kodeksų.** Sukurta tik Konstitucija; kodeksų, kitų įstatymų ir likusios Registro dalies čia dar nėra.
+- **Paprastųjų įstatymų ir kodeksų iki šiandienos teksto.** Išsami tik Konstitucija; kodeksai ir kiti įstatymai turi spragų, likusios Registro dalies čia dar nėra.
 - **Teismų praktikos, vietos aktų, tarptautinių sutarčių, ES teisės ir įstatymų projektų.** Jų čia nėra, išskyrus 2013 m. Konstitucinio Teismo pranešimą ir 2014 m. nutarimą dėl 125 straipsnio.
 - **Paties Registro 1996–2013 m. redakcijų.** Šios redakcijos yra kodu pritaikyti pakeitimo įstatymai, patikrinti, kaip aprašyta aukščiau. Vienoje vietoje laikomasi suvestinių tekstų, o ne įstatymo: įstatymas Nr. IX-1378 naujai išdėstyto 84 straipsnio 11 punktą baigia tašku, o visuose suvestiniuose tekstuose paliktas sąrašo kabliataškis.
 - **Trijų 1991–1992 m. Konstitucijos sudedamųjų dalių**, kurias išvardija 150 straipsnis (Konstitucinio įstatymo „Dėl Lietuvos valstybės“, Konstitucinio akto dėl nesijungimo į postsovietines Rytų sąjungas ir Konstitucijos įsigaliojimo tvarkos įstatymo): tai atskiri aktai. Ketvirtoji, dėl narystės Europos Sąjungoje, čia yra.

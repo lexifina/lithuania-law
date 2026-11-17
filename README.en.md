@@ -11,7 +11,7 @@ The law of Lithuania as a git history: one file per provision, one commit per ch
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Lithuania's national law, which global-law reads at `lithuania/national/acts/`.
 
-**What is in it now:** the Constitution with every change since 1992 (12 versions); the Civil, Criminal, Civil Procedure, Criminal Procedure, Administrative Offences and Labour codes and the Law on Administrative Proceedings, as the editions Lithuania notified to the EU (2022–2026, with gaps, not yet today's text); and 10,095 EU transposition records and 1,984 Competition Council resolutions (metadata). [`konstitucija/README.md`](konstitucija/README.md) lists every provision and how often it changed.
+**What is in it now:** the Constitution with every change since 1992 (`konstitucija/`); the codes (`kodeksai/`), other laws (`istatymai/`) and other acts (`kiti-aktai/`), with gaps and not all at today's text; and EU transposition records (`eu-nim/`) and Competition Council resolutions (`konkurencijos-taryba/`), as metadata. [`konstitucija/README.md`](konstitucija/README.md) lists every provision and how often it changed.
 
 Each provision is one file in `konstitucija/`: the preamble (`preambule.md`), the 15 chapter headings (`skirsnis-01.md` to `skirsnis-15.md`), the 154 articles (`art-001.md` to `art-154.md`; `art-119.md` is Article 119, local government) and, from 2004, the Constitutional Act on membership of the European Union (`sudedamoji-4-es.md`).
 
@@ -65,7 +65,7 @@ Each change is credited to the act the Register lists for that edition (`Įstaty
 
 ## What it does not show
 
-- **Ordinary laws and codes.** Only the Constitution is built; the codes, the other laws and the rest of the Register are not here yet.
+- **Ordinary laws and codes at today's text.** Only the Constitution is complete; the codes and other laws have gaps, and the rest of the Register is not here yet.
 - **Case law, local acts, treaties, EU law and bills.** None is here, apart from the Constitutional Court's 2013 notice and 2014 ruling on Article 125.
 - **The Register's own editions of 1996-2013.** Those versions are the amending laws applied by code and checked as above. One point follows the consolidated texts rather than the law: Law IX-1378 ends the restated Art. 84 point 11 with a full stop, where every consolidated text keeps the list's semicolon.
 - **Three component parts of the Constitution** that Art. 150 lists, of 1991-1992 (the Constitutional Law "Dėl Lietuvos valstybės", the Constitutional Act on non-alignment with post-Soviet eastern unions, and the Law on the procedure for the entry into force of the Constitution): they are separate acts. The fourth, on membership of the European Union, is here.

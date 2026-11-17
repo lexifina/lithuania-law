@@ -1,0 +1,20 @@
+{
+"layout": "kodeksai/<code>; istatymai/<law>; kiti-aktai/<act>; konstitucija",
+"since": "2026-11-17",
+"note": "Before the layout move the codes were folders at the top of the repository; paths maps each old folder to its folder now. konstitucija/, istatymai/ and kiti-aktai/ folders did not move.",
+"paths": {
+"administraciniu-nusizengimu-kodeksas": "kodeksai/administraciniu-nusizengimu-kodeksas",
+"baudziamasis-kodeksas": "kodeksai/baudziamasis-kodeksas",
+"baudziamojo-proceso-kodeksas": "kodeksai/baudziamojo-proceso-kodeksas",
+"bausmiu-vykdymo-kodeksas-ix-994": "kodeksai/bausmiu-vykdymo-kodeksas",
+"civilinio-proceso-kodeksas": "kodeksai/civilinio-proceso-kodeksas",
+"civilinis-kodeksas": "kodeksai/civilinis-kodeksas",
+"darbo-kodeksas": "kodeksai/darbo-kodeksas",
+"gelezinkeliu-transporto-kodeksas-ix-2152": "kodeksai/gelezinkeliu-transporto-kodeksas",
+"keliu-transporto-kodeksas": "kodeksai/keliu-transporto-kodeksas",
+"lietuvos-visuomenes-informavimo-etikos-kodeksas-tar.0d1f57409907": "kiti-aktai/lietuvos-visuomenes-informavimo-etikos-kodeksas",
+"tarptautinis-laivu-ir-uosto-irenginiu-terminalu-apsaugos-kod-tar.7e0cbe846565": "kiti-aktai/tarptautinis-laivu-ir-uosto-irenginiu-terminalu-apsaugos-kodeksas",
+"valstybes-politiku-elgesio-kodeksas-x-816": "istatymai/valstybes-politiku-elgesio-kodeksas-x-816",
+"vidaus-vandenu-transporto-kodeksas-i-1534": "kodeksai/vidaus-vandenu-transporto-kodeksas"
+}
+}
