@@ -11,7 +11,7 @@ Lietuvos teisė kaip git istorija: kiekvienai nuostatai skiriamas atskiras faila
 
 Dalis repozitorijos [lexifina/global-law](https://github.com/lexifina/global-law), kuri yra viena visų šalių teisės git istorija: tai Lietuvos nacionalinė teisė, kurią global-law skaito iš `lithuania/national/acts/`.
 
-**Kas joje yra dabar:** Konstitucija su visais pakeitimais nuo 1992 m. (`konstitucija/`); kodeksai (`kodeksai/`), kiti įstatymai (`istatymai/`) ir kiti aktai (`kiti-aktai/`) – su spragomis, ne visi iki šiandienos teksto; ES perkėlimo priemonių (`eu-nim/`) ir Konkurencijos tarybos nutarimų (`konkurencijos-taryba/`) įrašai (metaduomenys). [`konstitucija/README.md`](konstitucija/README.md) išvardija visas nuostatas ir kiek kartų kiekviena buvo pakeista.
+**Kas joje yra dabar:** 899 iš 922 galiojančių aktų su jų istorija: Konstitucija su visais pakeitimais nuo 1992 m. (`konstitucija/`), kodeksai (`kodeksai/`), kiti įstatymai (`istatymai/`) ir kiti aktai (`kiti-aktai/`), kai kurie su spragomis, o bent 52 – ne iki šiandienos teksto; ES perkėlimo priemonių (`eu-nim/`) ir Konkurencijos tarybos nutarimų (`konkurencijos-taryba/`) įrašai (metaduomenys). [`konstitucija/README.md`](konstitucija/README.md) išvardija visas nuostatas ir kiek kartų kiekviena buvo pakeista.
 
 Kiekviena nuostata yra atskiras failas aplanke `konstitucija/`: preambulė (`preambule.md`), 15 skirsnių pavadinimų (nuo `skirsnis-01.md` iki `skirsnis-15.md`), 154 straipsniai (nuo `art-001.md` iki `art-154.md`; `art-119.md` yra 119 straipsnis, vietos savivalda) ir nuo 2004 m. Konstitucinis aktas „Dėl Lietuvos Respublikos narystės Europos Sąjungoje“ (`sudedamoji-4-es.md`).
 

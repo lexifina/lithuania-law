@@ -11,7 +11,7 @@ The law of Lithuania as a git history: one file per provision, one commit per ch
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Lithuania's national law, which global-law reads at `lithuania/national/acts/`.
 
-**What is in it now:** the Constitution with every change since 1992 (`konstitucija/`); the codes (`kodeksai/`), other laws (`istatymai/`) and other acts (`kiti-aktai/`), with gaps and not all at today's text; and EU transposition records (`eu-nim/`) and Competition Council resolutions (`konkurencijos-taryba/`), as metadata. [`konstitucija/README.md`](konstitucija/README.md) lists every provision and how often it changed.
+**What is in it now:** 899 of the 922 acts in force, with their history: the Constitution with every change since 1992 (`konstitucija/`), the codes (`kodeksai/`), other laws (`istatymai/`) and other acts (`kiti-aktai/`), some with gaps and at least 52 not at today's text; and EU transposition records (`eu-nim/`) and Competition Council resolutions (`konkurencijos-taryba/`), as metadata. [`konstitucija/README.md`](konstitucija/README.md) lists every provision and how often it changed.
 
 Each provision is one file in `konstitucija/`: the preamble (`preambule.md`), the 15 chapter headings (`skirsnis-01.md` to `skirsnis-15.md`), the 154 articles (`art-001.md` to `art-154.md`; `art-119.md` is Article 119, local government) and, from 2004, the Constitutional Act on membership of the European Union (`sudedamoji-4-es.md`).
 
