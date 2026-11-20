@@ -1,8 +1,8 @@
-# Lietuvos Respublikos
+# _______________
+Lietuvos Respublikos
 vartojimo kredito įstatymo
 3 priedas
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
-1. 2008 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2008/48/EB dėl vartojimo kredito sutarčių ir panaikinanti Tarybos direktyvą 87/102/EEB, su paskutiniais pakeitimais, padarytais Europos Parlamento ir Tarybos direktyva (ES) 2021/2167.
-2. 2014 m. vasario 4 d. Europos Parlamento ir Tarybos direktyva 2014/17/ES dėl vartojimo kredito sutarčių dėl gyvenamosios paskirties nekilnojamojo turto, kuria iš dalies keičiamos direktyvos 2008/48/EB ir 2013/36/ES bei Reglamentas (ES) Nr. 1093/2010, su paskutiniais pakeitimais, padarytais Europos Parlamento ir Tarybos direktyva (ES) 2021/2167.
-3. 2016 m. birželio 8 d. Europos Parlamento ir Tarybos reglamentas (ES) 2016/1011 dėl indeksų, kurie kaip lyginamieji indeksai naudojami finansinėse priemonėse ir finansinėse sutartyse arba siekiant įvertinti investicinių fondų veiklos rezultatus, kuriuo iš dalies keičiami direktyvos 2008/48/EB ir 2014/17/ES bei Reglamentas (ES) Nr. 596/2014, su paskutiniais pakeitimais, padarytais Europos Parlamento ir Tarybos reglamentu (ES) 2021/168.
-4. 2021 m. lapkričio 24 d. Europos Parlamento ir Tarybos direktyva (ES) 2021/2167 dėl kredito administratorių ir kredito pirkėjų, kuria iš dalies keičiamos direktyvos 2008/48/EB ir 2014/17/ES.
+1. 2014 m. vasario 4 d. Europos Parlamento ir Tarybos direktyva 2014/17/ES dėl vartojimo kredito sutarčių dėl gyvenamosios paskirties nekilnojamojo turto, kuria iš dalies keičiamos direktyvos 2008/48/EB ir 2013/36/ES bei Reglamentas (ES) Nr. 1093/2010, su paskutiniais pakeitimais, padarytais 2021 m. lapkričio 24 d. Europos Parlamento ir Tarybos direktyva (ES) 2021/2167.
+2. 2023 m. spalio 18 d. Europos Parlamento ir Tarybos direktyva (ES) 2023/2225 dėl vartojimo kredito sutarčių, kuria panaikinama Direktyva 2008/48/EB.
+_________________
