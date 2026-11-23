@@ -6,22 +6,27 @@
 
 Kaip global-law stebi visas šalis: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Šis puslapis – tas pats, tik apie šalį: Lietuva. Kiekvienas kartas, kai skaitomas oficialus šaltinis, kada tai įvyko ir kas paaiškėjo (pridėti, pakeisti ir panaikinti aktai). Mašininio skaitymo forma – [data/checks/](../data/checks/) (JSON Lines, schema `lexifina-check/1`), `git log` – kaip `Kind: check` įrašai (commit), o pagal mėnesius – aplanke [checks/](checks/).
 
-**Paskutinė patikra:** 2026-11-23 23:21 UTC, Konkurencijos taryba: nutarimai (kt.gov.lt): perskaityta adresų: 35; pridėta 0, pakeista 0, panaikinta 0; pakeitimų nėra; neskelbta čia: 7, iš jų be priežasties: 0.
+**Paskutinė patikra:** 2026-11-23 23:27 UTC, Konkurencijos taryba: nutarimai (kt.gov.lt): perskaityta adresų: 46; pridėta 0, pakeista 0, panaikinta 0; pakeitimų nėra; neskelbta čia: 9, iš jų be priežasties: 0.
 
 ## Šaltiniai
 
 | Šaltinis | Aplankai | Kaip dažnai | Paskutinė sėkminga patikra | Paskutinis rezultatas | Būsena |
 | --- | --- | --- | --- | --- | --- |
-| [Teisės aktų registras: atvirieji duomenys](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai) | `konstitucija/`, `kodeksai/`, `istatymai/`, `kiti-aktai/` | kasdien | 2026-11-23 23:19 UTC | rasta pakeitimų | stebimas: skaitoma per ES adresą: data.gov.lt pagal geografinę taisyklę atmeta paties stebėtojo adresą. www.e-tar.lt ir e-seimas.lrs.lt į automatines užklausas atsako Cloudflare patikros puslapiu ir neskaitomi |
-| [Seimas: Lietuvos Respublikos Konstitucija (lrs.lt)](https://www.lrs.lt/home/Konstitucija/Konstitucija.htm) | `konstitucija/` | kasdien | 2026-11-23 23:19 UTC | pakeitimų nėra | stebimas: antra Konstitucijos patikra: parlamento kopija, tik dabartinis tekstas; robots.txt prašo 20 s tarp užklausų |
-| [ES leidinių biuras (Lietuvos priemonės ES direktyvoms perkelti)](https://publications.europa.eu/webapi/rdf/sparql) | `eu-nim/` | kasdien | 2026-11-23 23:20 UTC | pakeitimų nėra | stebimas: tik priemonių įrašai; jų tekstai yra Teisės aktų registre |
-| [ES leidinių biuras: Lietuvos praneštieji įstatymai (pakeitimo įstatymai, suvestinės redakcijos)](https://publications.europa.eu/webapi/rdf/sparql) | `kodeksai/`, `istatymai/`, `kiti-aktai/` | kasdien | 2026-11-23 23:20 UTC | pakeitimų nėra | stebimas: antra patikra greta Registro: lyginami tik aktai, kuriuos nurodo pranešimai (ES direktyvas perkeliantys įstatymai), ir jie dar kartą neskaičiuojami aktualumo sumose |
-| [Konkurencijos taryba: nutarimai (kt.gov.lt)](https://kt.gov.lt/lt/teisine-informacija/nutarimai) | `konkurencijos-taryba/` | kasdien | 2026-11-23 23:21 UTC | pakeitimų nėra | stebimas: sprendimų įrašai (tik metaduomenys); sąrašas neturi srauto ar API, todėl kiekvieni metai perskaitomi maždaug kartą per mėnesį |
+| [Teisės aktų registras: atvirieji duomenys](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai) | `konstitucija/`, `kodeksai/`, `istatymai/`, `kiti-aktai/` | kasdien | 2026-11-23 23:25 UTC | pakeitimų nėra | stebimas: skaitoma per ES adresą: data.gov.lt pagal geografinę taisyklę atmeta paties stebėtojo adresą. www.e-tar.lt ir e-seimas.lrs.lt į automatines užklausas atsako Cloudflare patikros puslapiu ir neskaitomi |
+| [Seimas: Lietuvos Respublikos Konstitucija (lrs.lt)](https://www.lrs.lt/home/Konstitucija/Konstitucija.htm) | `konstitucija/` | kasdien | 2026-11-23 23:25 UTC | pakeitimų nėra | stebimas: antra Konstitucijos patikra: parlamento kopija, tik dabartinis tekstas; robots.txt prašo 20 s tarp užklausų |
+| [ES leidinių biuras (Lietuvos priemonės ES direktyvoms perkelti)](https://publications.europa.eu/webapi/rdf/sparql) | `eu-nim/` | kasdien | 2026-11-23 23:26 UTC | pakeitimų nėra | stebimas: tik priemonių įrašai; jų tekstai yra Teisės aktų registre |
+| [ES leidinių biuras: Lietuvos praneštieji įstatymai (pakeitimo įstatymai, suvestinės redakcijos)](https://publications.europa.eu/webapi/rdf/sparql) | `kodeksai/`, `istatymai/`, `kiti-aktai/` | kasdien | 2026-11-23 23:26 UTC | pakeitimų nėra | stebimas: antra patikra greta Registro: lyginami tik aktai, kuriuos nurodo pranešimai (ES direktyvas perkeliantys įstatymai), ir jie dar kartą neskaičiuojami aktualumo sumose |
+| [Konkurencijos taryba: nutarimai (kt.gov.lt)](https://kt.gov.lt/lt/teisine-informacija/nutarimai) | `konkurencijos-taryba/` | kasdien | 2026-11-23 23:27 UTC | pakeitimų nėra | stebimas: sprendimų įrašai (tik metaduomenys); sąrašas neturi srauto ar API, todėl kiekvieni metai perskaitomi maždaug kartą per mėnesį |
 
 ## Paskutinės 30 dienų
 
 | Pradžia (UTC) | Šaltinis | Perskaityta | Pridėta | Pakeista | Panaikinta | Neskelbta čia (be priežasties) | Rezultatas | Įrašai (commit) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-23 23:26](checks/2026-11.md#lt-kt-nutarimai-20261123t232634z) | kt-nutarimai | 46 | 0 | 0 | 0 | 9 (0) | pakeitimų nėra | — |
+| [2026-11-23 23:26](checks/2026-11.md#lt-eu-nim-laws-20261123t232632z) | eu-nim-laws | 1 | 0 | 0 | 0 | 0 (0) | pakeitimų nėra | — |
+| [2026-11-23 23:25](checks/2026-11.md#lt-eu-nim-20261123t232543z) | eu-nim | 17 | 0 | 0 | 0 | 3 (0) | pakeitimų nėra | — |
+| [2026-11-23 23:25](checks/2026-11.md#lt-lrs-konstitucija-20261123t232541z) | lrs-konstitucija | 1 | 0 | 0 | 0 | 0 (0) | pakeitimų nėra | — |
+| [2026-11-23 23:23](checks/2026-11.md#lt-tar-20261123t232342z) | tar | 23 | 0 | 0 | 0 | 16 (0) | pakeitimų nėra | — |
 | [2026-11-23 23:20](checks/2026-11.md#lt-kt-nutarimai-20261123t232043z) | kt-nutarimai | 35 | 0 | 0 | 0 | 7 (0) | pakeitimų nėra | — |
 | [2026-11-23 23:20](checks/2026-11.md#lt-eu-nim-laws-20261123t232041z) | eu-nim-laws | 1 | 0 | 0 | 0 | 0 (0) | pakeitimų nėra | — |
 | [2026-11-23 23:19](checks/2026-11.md#lt-eu-nim-20261123t231953z) | eu-nim | 17 | 0 | 0 | 0 | 3 (0) | pakeitimų nėra | — |
