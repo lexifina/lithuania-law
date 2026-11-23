@@ -8,31 +8,33 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Register of Legal Acts (Teisės aktų registras): open data · `lithuania/national/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-23 02:36 UTC**.
-- Acts held here: 899; current at the source: 685; changed at the source since the version held here: 214; no longer at the source: 0.
-- Not published: 253 (changed at the source since the version held here: 214, ?: 34, in force later: 5); with no reason: 34.
+- The official source last read and every act held here checked against it: **2026-11-23 23:09 UTC**.
+- Acts held here: 931; current at the source: 845; changed at the source since the version held here: 86; no longer at the source: 0.
+- Compared with the source in this read: 928 of the 931 acts held here; the others were not compared in this read (see the check's note).
+- Not published: 92 (held by a check: 86, in force later: 6); with no reason: 0.
 
 ### Seimas: the Constitution (lrs.lt) · `lithuania/national/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-23 02:36 UTC**.
+- The official source last read and every act held here checked against it: **2026-11-23 23:09 UTC**.
 - Not published: 0 (—); with no reason: 0.
 
 ### EU Publications Office (Lithuania's measures transposing EU directives) · `lithuania/national/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-23 02:36 UTC**.
-- Acts held here: 10 095; current at the source: 10 094; changed at the source since the version held here: 0; no longer at the source: 1.
-- Not published: 11 (held here, no longer at the source: 1, ?: 2, new at the source, not published here yet: 8); with no reason: 2.
+- The official source last read and every act held here checked against it: **2026-11-23 23:10 UTC**.
+- Acts held here: 10 103; current at the source: 10 102; changed at the source since the version held here: 0; no longer at the source: 1.
+- Compared with the source in this read: 10 102 of the 10 103 acts held here; the others were not compared in this read (see the check's note).
+- Not published: 3 (held here, no longer at the source: 1, held by a check: 2); with no reason: 0.
 
 ### EU Publications Office: the laws Lithuania notified (amending laws, consolidated texts) · `lithuania/national/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-23 02:36 UTC**.
-- Not published: 25 (changed at the source since the version held here: 25); with no reason: 0.
+- The official source last read and every act held here checked against it: **2026-11-23 23:10 UTC**.
+- Not published: 0 (—); with no reason: 0.
 
 ### Competition Council: resolutions (kt.gov.lt) · `lithuania/national/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-23 02:36 UTC**.
-- Acts held here: 1 984; current at the source: 1 984; changed at the source since the version held here: 0; no longer at the source: 0.
-- Compared with the source in this read: 48 of the 1 984 acts held here; the others were not compared in this read (see the check's note).
-- Not published: 5 (?: 3, new at the source, not published here yet: 2); with no reason: 3.
+- The official source last read and every act held here checked against it: **2026-11-23 23:11 UTC**.
+- Acts held here: 1 986; current at the source: 1 986; changed at the source since the version held here: 0; no longer at the source: 0.
+- Compared with the source in this read: 275 of the 1 986 acts held here; the others were not compared in this read (see the check's note).
+- Not published: 4 (held by a check: 4); with no reason: 0.
 
 In detail: [monitoring/](monitoring/README.en.md). For programs: [data/checks/latest.json](data/checks/latest.json).
