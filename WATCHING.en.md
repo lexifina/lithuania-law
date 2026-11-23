@@ -1,0 +1,17 @@
+<!-- lawwatch: written from data/checks by the check trail; edit the records, not this page -->
+
+# Watching the sources: what is watched for Lithuania
+
+[Lietuvių kalba](WATCHING.md)
+
+How global-law watches every country's sources: [global-law WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md). This page is the same for Lithuania only: every official source this repository takes text from, what is read on it, how often and when it was last read. Every read and what came of it: [monitoring/](monitoring/README.en.md).
+
+| Source | What is read | Folders | How often | Last read | State |
+| --- | --- | --- | --- | --- | --- |
+| [Register of Legal Acts (Teisės aktų registras, e-TAR) and its open data](https://www.e-tar.lt) | — | `konstitucija/`, `kodeksai/`, `istatymai/`, `kiti-aktai/` | — | — | not watched yet: not read: www.e-tar.lt and the Seimas's legal acts database (e-seimas.lrs.lt) answer automated requests with a Cloudflare challenge; the Register's open data on data.gov.lt (dataset 2613) refuse this watcher's address by a geographic rule, and the Seimas's open-data services (apps.lrs.lt) do not accept its connections (2026-11-23). The third-party copy of the open data this repository's texts came from (github.com/Yiin/lt-teises-aktai) has not been updated since 2026-08-08. The Constitution is compared with the Seimas's copy, and the laws Lithuania notified to the EU with the acts here (below) |
+| [Seimas: the Constitution (lrs.lt)](https://www.lrs.lt/home/Konstitucija/Konstitucija.htm) | the Seimas's consolidated text of the Constitution (one page): the amending laws its notes name, the day the page last changed and a fingerprint of its text | `konstitucija/` | daily | 2026-11-23 02:17 UTC | watched: the parliament's copy, today's text only; robots.txt asks for 20 s between requests |
+| [EU Publications Office (Lithuania's measures transposing EU directives)](https://publications.europa.eu/webapi/rdf/sparql) | every national implementing measure Lithuania notified, with its notification day, entry-into-force day and the day the record last changed (one SPARQL query a run) | `eu-nim/` | daily | 2026-11-23 02:17 UTC | watched: records of the measures only; their texts are in the Register of Legal Acts |
+| [EU Publications Office: the laws Lithuania notified (amending laws, consolidated texts)](https://publications.europa.eu/webapi/rdf/sparql) | the same list (read once a run): each notified law and code with its number, title and entry-into-force day; the amending laws, repeals and consolidated texts it names are compared with the laws, codes and other acts held here | `kodeksai/`, `istatymai/`, `kiti-aktai/` | daily | 2026-11-23 02:17 UTC | watched: a partial check: only the acts a notification names are compared (laws transposing EU directives); the Register itself is not read (above) |
+| [Competition Council: resolutions (kt.gov.lt)](https://kt.gov.lt/lt/teisine-informacija/nutarimai) | the Council's list of resolutions (12 a page): its newest page with the list's total, and every page of one year per check, a year after another: day, number, day published and document | `konkurencijos-taryba/` | daily | 2026-11-23 02:17 UTC | watched: decision records (metadata only); the list has no feed or API, so each year is re-read about once a month |
+
+Sources are read within their robots.txt and terms, with pauses between requests.

@@ -1,0 +1,46 @@
+{
+ "schema": "lexifina-trail-freshness/1",
+ "as_of": "2026-11-23",
+ "note": "How current this repository is, from its check trail (data/checks/): the day each official source was last read with every act held here checked against it. tools/checktrail.py reads the trail.",
+ "checked_against_official_source": "2026-11-23",
+ "totals": {
+  "acts": 12978,
+  "by_status": {
+   "current": 12953,
+   "pending-change": 25,
+   "stale": 0,
+   "unverified": 0,
+   "source-unavailable": 0
+  }
+ },
+ "sources": [
+  {
+   "source": "lrs-konstitucija",
+   "name": "Seimas: the Constitution (lrs.lt)",
+   "state": "available",
+   "last_successful_check": "2026-11-23",
+   "last_successful_contact": "2026-11-23"
+  },
+  {
+   "source": "eu-nim",
+   "name": "EU Publications Office (Lithuania's measures transposing EU directives)",
+   "state": "available",
+   "last_successful_check": "2026-11-23",
+   "last_successful_contact": "2026-11-23"
+  },
+  {
+   "source": "eu-nim-laws",
+   "name": "EU Publications Office: the laws Lithuania notified (amending laws, consolidated texts)",
+   "state": "available",
+   "last_successful_check": "2026-11-23",
+   "last_successful_contact": "2026-11-23"
+  },
+  {
+   "source": "kt-nutarimai",
+   "name": "Competition Council: resolutions (kt.gov.lt)",
+   "state": "available",
+   "last_successful_check": "2026-11-23",
+   "last_successful_contact": "2026-11-23"
+  }
+ ]
+}

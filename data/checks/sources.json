@@ -1,0 +1,138 @@
+{
+ "sources": [
+  {
+   "id": "e-tar",
+   "kind": "legislation",
+   "name": {
+    "en": "Register of Legal Acts (Teisės aktų registras, e-TAR) and its open data",
+    "lt": "Teisės aktų registras (e-TAR) ir jo atvirieji duomenys"
+   },
+   "url": "https://www.e-tar.lt",
+   "reads": {
+    "en": "—",
+    "lt": "—"
+   },
+   "folders": [
+    "konstitucija/",
+    "kodeksai/",
+    "istatymai/",
+    "kiti-aktai/"
+   ],
+   "schedule": "none",
+   "state": "not-yet-watched",
+   "corpora": [
+    "lithuania/national/acts"
+   ],
+   "note": {
+    "en": "not read: www.e-tar.lt and the Seimas's legal acts database (e-seimas.lrs.lt) answer automated requests with a Cloudflare challenge; the Register's open data on data.gov.lt (dataset 2613) refuse this watcher's address by a geographic rule, and the Seimas's open-data services (apps.lrs.lt) do not accept its connections (2026-11-23). The third-party copy of the open data this repository's texts came from (github.com/Yiin/lt-teises-aktai) has not been updated since 2026-08-08. The Constitution is compared with the Seimas's copy, and the laws Lithuania notified to the EU with the acts here (below)",
+    "lt": "neskaitomas: www.e-tar.lt ir Seimo teisės aktų duomenų bazė (e-seimas.lrs.lt) į automatines užklausas atsako Cloudflare patikros puslapiu; Registro atvirieji duomenys data.gov.lt (rinkinys 2613) šio stebėtojo adresą atmeta pagal geografinę taisyklę, o Seimo atvirųjų duomenų paslaugos (apps.lrs.lt) jo jungčių nepriima (2026-11-23). Trečiosios šalies atvirųjų duomenų kopija, iš kurios paimti šios repozitorijos tekstai (github.com/Yiin/lt-teises-aktai), neatnaujinta nuo 2026-08-08. Konstitucija lyginama su Seimo kopija, o Lietuvos ES praneštieji įstatymai – su čia esančiais aktais (žr. toliau)"
+   }
+  },
+  {
+   "id": "lrs-konstitucija",
+   "kind": "legislation",
+   "name": {
+    "en": "Seimas: the Constitution (lrs.lt)",
+    "lt": "Seimas: Lietuvos Respublikos Konstitucija (lrs.lt)"
+   },
+   "url": "https://www.lrs.lt/home/Konstitucija/Konstitucija.htm",
+   "reads": {
+    "en": "the Seimas's consolidated text of the Constitution (one page): the amending laws its notes name, the day the page last changed and a fingerprint of its text",
+    "lt": "Seimo skelbiamas suvestinis Konstitucijos tekstas (vienas puslapis): jo pastabose nurodyti pakeitimo įstatymai, paskutinio puslapio pakeitimo diena ir teksto kontrolinė suma"
+   },
+   "folders": [
+    "konstitucija/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "lithuania/national/acts"
+   ],
+   "interval": 20.0,
+   "note": {
+    "en": "the parliament's copy, today's text only; robots.txt asks for 20 s between requests",
+    "lt": "parlamento kopija, tik dabartinis tekstas; robots.txt prašo 20 s tarp užklausų"
+   }
+  },
+  {
+   "id": "eu-nim",
+   "kind": "legislation",
+   "name": {
+    "en": "EU Publications Office (Lithuania's measures transposing EU directives)",
+    "lt": "ES leidinių biuras (Lietuvos priemonės ES direktyvoms perkelti)"
+   },
+   "url": "https://publications.europa.eu/webapi/rdf/sparql",
+   "reads": {
+    "en": "every national implementing measure Lithuania notified, with its notification day, entry-into-force day and the day the record last changed (one SPARQL query a run)",
+    "lt": "visos Lietuvos praneštos nacionalinės perkėlimo priemonės su pranešimo, įsigaliojimo ir paskutinio įrašo pakeitimo dienomis (viena SPARQL užklausa per paleidimą)"
+   },
+   "folders": [
+    "eu-nim/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "lithuania/national/acts"
+   ],
+   "interval": 1.0,
+   "note": {
+    "en": "records of the measures only; their texts are in the Register of Legal Acts",
+    "lt": "tik priemonių įrašai; jų tekstai yra Teisės aktų registre"
+   }
+  },
+  {
+   "id": "eu-nim-laws",
+   "kind": "legislation",
+   "name": {
+    "en": "EU Publications Office: the laws Lithuania notified (amending laws, consolidated texts)",
+    "lt": "ES leidinių biuras: Lietuvos praneštieji įstatymai (pakeitimo įstatymai, suvestinės redakcijos)"
+   },
+   "url": "https://publications.europa.eu/webapi/rdf/sparql",
+   "reads": {
+    "en": "the same list (read once a run): each notified law and code with its number, title and entry-into-force day; the amending laws, repeals and consolidated texts it names are compared with the laws, codes and other acts held here",
+    "lt": "tas pats sąrašas (skaitomas kartą per paleidimą): kiekvienas praneštas įstatymas ir kodeksas su numeriu, pavadinimu ir įsigaliojimo diena; jame nurodyti pakeitimo, pripažinimo netekusiais galios įstatymai ir suvestinės redakcijos lyginami su čia esančiais įstatymais, kodeksais ir kitais aktais"
+   },
+   "folders": [
+    "kodeksai/",
+    "istatymai/",
+    "kiti-aktai/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "lithuania/national/acts"
+   ],
+   "interval": 1.0,
+   "note": {
+    "en": "a partial check: only the acts a notification names are compared (laws transposing EU directives); the Register itself is not read (above)",
+    "lt": "dalinė patikra: lyginami tik aktai, kuriuos nurodo pranešimai (ES direktyvas perkeliantys įstatymai); pats Registras neskaitomas (žr. aukščiau)"
+   }
+  },
+  {
+   "id": "kt-nutarimai",
+   "kind": "legislation",
+   "name": {
+    "en": "Competition Council: resolutions (kt.gov.lt)",
+    "lt": "Konkurencijos taryba: nutarimai (kt.gov.lt)"
+   },
+   "url": "https://kt.gov.lt/lt/teisine-informacija/nutarimai",
+   "reads": {
+    "en": "the Council's list of resolutions (12 a page): its newest page with the list's total, and every page of one year per check, a year after another: day, number, day published and document",
+    "lt": "Tarybos nutarimų sąrašas (12 puslapyje): naujausias puslapis su bendru skaičiumi ir per vieną patikrą visi vienų metų puslapiai, metai po metų: data, numeris, paskelbimo data ir dokumentas"
+   },
+   "folders": [
+    "konkurencijos-taryba/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "lithuania/national/acts"
+   ],
+   "interval": 1.0,
+   "note": {
+    "en": "decision records (metadata only); the list has no feed or API, so each year is re-read about once a month",
+    "lt": "sprendimų įrašai (tik metaduomenys); sąrašas neturi srauto ar API, todėl kiekvieni metai perskaitomi maždaug kartą per mėnesį"
+   }
+  }
+ ]
+}
