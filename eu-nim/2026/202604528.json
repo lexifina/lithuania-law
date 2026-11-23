@@ -13,11 +13,12 @@
   "nim_celex": "72024L1619LTU_202604528",
   "nim_id": "202604528",
   "transposes_celex": [
+    "32019L0878",
     "32024L1619",
     "32024L2994"
   ],
   "cellar": "http://publications.europa.eu/resource/cellar/f0181853-7f1e-49e5-8d90-b8e47cc0524d",
   "source": "https://publications.europa.eu/webapi/rdf/sparql",
-  "retrieved": "2026-11-17",
+  "retrieved": "2026-11-24",
   "text_status": "metadata only (the EU record of the measure); the official text is in the Register of Legal Acts (e-TAR)"
 }
