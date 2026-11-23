@@ -6,14 +6,21 @@
  "totals": {
   "acts": 12978,
   "by_status": {
-   "current": 12953,
-   "pending-change": 25,
+   "current": 10828,
+   "pending-change": 214,
    "stale": 0,
-   "unverified": 0,
+   "unverified": 1936,
    "source-unavailable": 0
   }
  },
  "sources": [
+  {
+   "source": "tar",
+   "name": "Register of Legal Acts (Teisės aktų registras): open data",
+   "state": "available",
+   "last_successful_check": "2026-11-23",
+   "last_successful_contact": "2026-11-23"
+  },
   {
    "source": "lrs-konstitucija",
    "name": "Seimas: the Constitution (lrs.lt)",

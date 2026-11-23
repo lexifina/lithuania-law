@@ -1,27 +1,30 @@
 {
- "generated": "2026-11-23T02:17:32Z",
+ "generated": "2026-11-23T02:36:36Z",
  "latest": {
   "eu-nim-laws|lithuania/national/acts": {
-   "attempt": 1,
+   "attempt": 2,
    "audit": null,
    "census": {
-    "checked": 262,
-    "current": 873,
-    "gone": 0,
-    "held": 898,
+    "acts_here": 898,
+    "behind": 25,
+    "compared": 262,
+    "current": null,
+    "gone": null,
+    "held": null,
     "newest_at_source": "XI-1807",
     "newest_in_repo": "XIII-198",
+    "not_behind": 873,
     "notified_laws_read": 4153,
-    "pending": 25,
+    "pending": null,
     "repo": 262,
     "repo_read": "2026-11-01",
     "source_in_scope": 387
    },
-   "check_id": "lt-eu-nim-laws-20261123T021722Z",
+   "check_id": "lt-eu-nim-laws-20261123T023628Z",
    "commits": null,
    "corpus": "lithuania/national/acts",
    "error": null,
-   "finished": "2026-11-23T02:17:25Z",
+   "finished": "2026-11-23T02:36:30Z",
    "flags": [
     {
      "detail": "24 items new or changed at the source over 7 days ago are not here yet",
@@ -29,7 +32,7 @@
     }
    ],
    "gap": 25,
-   "note": "898 laws, codes and other acts held here (894 matched to their number); the notifications name 262 of them, which were compared (the others are named by no notification and count as current); 4153 notified laws and codes read: amending laws, consolidated texts and the laws themselves; 123 other laws the notifications name are not held here; the notifications do not say whether a law is still in force (README: 899 of the 922 acts in force are held), so they are not counted as gaps; 7 changes notified for acts held here come into force later; the newest version held here is from 2026-11-01, taken as the day this repository last read its sources; first check: the list of notified changes to the acts held here was recorded as the baseline for the next check",
+   "note": "a second check beside the Register: 898 laws, codes and other acts held here (894 matched to their number); the notifications name 262 of them, which were compared: 25 behind a notified change, 237 not; 4153 notified laws and codes read: amending laws, consolidated texts and the laws themselves; 123 other laws the notifications name are not held here; the notifications do not say whether a law is still in force (README: 899 of the 922 acts in force are held), so they are not counted as gaps; 7 changes notified for acts held here come into force later; the newest version held here is from 2026-11-01, taken as the day this repository last read its sources",
    "outcome": "no-change",
    "published": {
     "added": [],
@@ -37,7 +40,7 @@
     "removed": []
    },
    "requests": 1,
-   "runner": "lawwatch lithuania (f1aa9b6379)",
+   "runner": "lawwatch lithuania (150ad23efb)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [],
@@ -46,12 +49,12 @@
    },
    "snapshot": "2026-11-10",
    "source": "eu-nim-laws",
-   "started": "2026-11-23T02:17:22Z",
+   "started": "2026-11-23T02:36:28Z",
    "unexplained": 0,
    "verify": null
   },
   "eu-nim|lithuania/national/acts": {
-   "attempt": 1,
+   "attempt": 2,
    "audit": null,
    "census": {
     "current": 10094,
@@ -64,11 +67,11 @@
     "repo": 10094,
     "source_in_scope": 10104
    },
-   "check_id": "lt-eu-nim-20261123T021720Z",
+   "check_id": "lt-eu-nim-20261123T023626Z",
    "commits": null,
    "corpus": "lithuania/national/acts",
    "error": null,
-   "finished": "2026-11-23T02:17:22Z",
+   "finished": "2026-11-23T02:36:28Z",
    "flags": [
     {
      "detail": "2 items at the source are not here with no reason",
@@ -76,7 +79,7 @@
     }
    ],
    "gap": 11,
-   "note": "records here as of 2026-11-17 (the EU's record of each measure; its text is in the Register of Legal Acts); first check: the list of measures was recorded as the baseline for the next check",
+   "note": "records here as of 2026-11-17 (the EU's record of each measure; its text is in the Register of Legal Acts)",
    "outcome": "anomaly",
    "published": {
     "added": [],
@@ -84,7 +87,7 @@
     "removed": []
    },
    "requests": 1,
-   "runner": "lawwatch lithuania (f1aa9b6379)",
+   "runner": "lawwatch lithuania (150ad23efb)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [],
@@ -93,15 +96,15 @@
    },
    "snapshot": "2026-11-18",
    "source": "eu-nim",
-   "started": "2026-11-23T02:17:20Z",
+   "started": "2026-11-23T02:36:26Z",
    "unexplained": 2,
    "verify": null
   },
   "kt-nutarimai|lithuania/national/acts": {
-   "attempt": 1,
+   "attempt": 2,
    "audit": null,
    "census": {
-    "checked": 62,
+    "checked": 48,
     "current": 1984,
     "gone": 0,
     "held": 1984,
@@ -110,26 +113,31 @@
     "pending": 0,
     "repo": null,
     "source_in_scope": 2109,
-    "year_read": 2026,
+    "year_read": 2025,
     "years_listed": 28,
-    "years_read": 1
+    "years_read": 2
    },
-   "check_id": "lt-kt-nutarimai-20261123T021725Z",
+   "check_id": "lt-kt-nutarimai-20261123T023630Z",
    "commits": null,
    "corpus": "lithuania/national/acts",
    "error": null,
-   "finished": "2026-11-23T02:17:32Z",
-   "flags": [],
-   "gap": 2,
-   "note": "the list counts 2109 resolutions; this check read its newest 1 page(s) and the 6 page(s) of 2026 (64 entries; 62 held here); years read so far: 1 of 28 (entries of the other years are compared when their year is read); records here taken 2026-11-17; entries are compared by day and number, not by summary or document; first check: the list's newest entries and the year read were recorded as the baseline",
-   "outcome": "no-change",
+   "finished": "2026-11-23T02:36:35Z",
+   "flags": [
+    {
+     "detail": "3 items at the source are not here with no reason",
+     "flag": "unexplained-gap"
+    }
+   ],
+   "gap": 5,
+   "note": "the list counts 2109 resolutions; this check read its newest 1 page(s) and the 4 page(s) of 2025 (41 entries; 38 held here); years read so far: 2 of 28 (entries of the other years are compared when their year is read); records here taken 2026-11-17; entries are compared by day and number, not by summary or document",
+   "outcome": "anomaly",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 7,
-   "runner": "lawwatch lithuania (f1aa9b6379)",
+   "requests": 5,
+   "runner": "lawwatch lithuania (150ad23efb)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [],
@@ -138,33 +146,35 @@
    },
    "snapshot": "2026-11-20",
    "source": "kt-nutarimai",
-   "started": "2026-11-23T02:17:25Z",
-   "unexplained": 0,
+   "started": "2026-11-23T02:36:30Z",
+   "unexplained": 3,
    "verify": null
   },
   "lrs-konstitucija|lithuania/national/acts": {
-   "attempt": 1,
+   "attempt": 2,
    "audit": null,
    "census": {
     "amending_laws_credited": 13,
     "amending_laws_named": 13,
-    "current": 1,
-    "gone": 0,
-    "held": 1,
+    "behind": 0,
+    "compared": 1,
+    "current": null,
+    "gone": null,
+    "held": null,
     "newest_at_source": "Nr. XIV-1030",
     "newest_in_repo": "Nr. XIV-1030",
-    "pending": 0,
+    "pending": null,
     "repo": 1,
     "source_in_scope": 1
    },
-   "check_id": "lt-lrs-konstitucija-20261123T021718Z",
+   "check_id": "lt-lrs-konstitucija-20261123T023625Z",
    "commits": null,
    "corpus": "lithuania/national/acts",
    "error": null,
-   "finished": "2026-11-23T02:17:20Z",
+   "finished": "2026-11-23T02:36:26Z",
    "flags": [],
    "gap": 0,
-   "note": "the page's notes name 13 amending laws (I-1390, VIII-32, IX-959, IX-1305, IX-1378, IX-1379, IX-2343, IX-2344, X-572, XIII-2004, XIV-1028, XIV-1029, XIV-1030); every one is credited here (Law: trailers of konstitucija/); page last changed 2022-05-20 (Last-Modified); text fingerprint f5ba1abab46d24fa; the newest version here is in force from 2022-05-22; the wording is compared through the amendment notes only; first check: the Seimas's page was recorded as the baseline for the next check",
+   "note": "the page's notes name 13 amending laws (I-1390, VIII-32, IX-959, IX-1305, IX-1378, IX-1379, IX-2343, IX-2344, X-572, XIII-2004, XIV-1028, XIV-1029, XIV-1030); every one is credited here (Law: trailers of konstitucija/); page last changed 2022-05-20 (Last-Modified); text fingerprint f5ba1abab46d24fa; the newest version here is in force from 2022-05-22; the wording is compared through the amendment notes only",
    "outcome": "no-change",
    "published": {
     "added": [],
@@ -172,7 +182,7 @@
     "removed": []
    },
    "requests": 1,
-   "runner": "lawwatch lithuania (f1aa9b6379)",
+   "runner": "lawwatch lithuania (150ad23efb)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [],
@@ -181,8 +191,62 @@
    },
    "snapshot": "2022-05-20",
    "source": "lrs-konstitucija",
-   "started": "2026-11-23T02:17:18Z",
+   "started": "2026-11-23T02:36:25Z",
    "unexplained": 0,
+   "verify": null
+  },
+  "tar|lithuania/national/acts": {
+   "attempt": 1,
+   "audit": null,
+   "census": {
+    "current": 685,
+    "editions_in_force_later": 155,
+    "editions_read": 9588,
+    "gone": 0,
+    "held": 899,
+    "newest_at_source": "XV-1250",
+    "newest_in_repo": "XIII-198",
+    "out_of_scope": 11608,
+    "pending": 214,
+    "repo": 899,
+    "repo_read": "2026-11-01",
+    "source_in_scope": 938
+   },
+   "check_id": "lt-tar-20261123T023445Z",
+   "commits": null,
+   "corpus": "lithuania/national/acts",
+   "error": null,
+   "finished": "2026-11-23T02:36:25Z",
+   "flags": [
+    {
+     "detail": "212 items new or changed at the source over 7 days ago are not here yet",
+     "flag": "publish-lag"
+    },
+    {
+     "detail": "34 items at the source are not here with no reason",
+     "flag": "unexplained-gap"
+    }
+   ],
+   "gap": 253,
+   "note": "the Register lists 15294 laws, codes and constitutional acts (12544 not repealed); 899 acts held here, 899 found in it (895 by the id their commits name, 2 by their number, 2 by title); their 9588 consolidated editions read; 155 editions of acts held here come into force later; in scope at the Register and not held: 39 acts in force or not yet in force that are not amending laws (0 published after the newest version here, 5 in force later, 34 older); not counted as gaps: 10741 amending laws (their changes belong to the acts they amend), 864 laws ratifying, denouncing or acceding to treaties (README: treaties are not here), 3 acts of international bodies (codes, constitutions), 2748 acts no longer in force; the Register's data of 2026-11-22 (list), 2026-11-19 (editions); the newest version held here is from 2026-11-01, taken as the day this repository last read its sources; first check: the Register's list of laws, codes and constitutional acts was recorded as the baseline for the next check",
+   "outcome": "anomaly",
+   "published": {
+    "added": [],
+    "changed": [],
+    "removed": []
+   },
+   "requests": 20,
+   "runner": "lawwatch lithuania (150ad23efb)",
+   "schema": "lexifina-check/1",
+   "seen": {
+    "added": [],
+    "changed": [],
+    "removed": []
+   },
+   "snapshot": "2026-11-22",
+   "source": "tar",
+   "started": "2026-11-23T02:34:45Z",
+   "unexplained": 34,
    "verify": null
   }
  },

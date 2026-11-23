@@ -1,16 +1,16 @@
 {
  "sources": [
   {
-   "id": "e-tar",
+   "id": "tar",
    "kind": "legislation",
    "name": {
-    "en": "Register of Legal Acts (Teisės aktų registras, e-TAR) and its open data",
-    "lt": "Teisės aktų registras (e-TAR) ir jo atvirieji duomenys"
+    "en": "Register of Legal Acts (Teisės aktų registras): open data",
+    "lt": "Teisės aktų registras: atvirieji duomenys"
    },
-   "url": "https://www.e-tar.lt",
+   "url": "https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai",
    "reads": {
-    "en": "—",
-    "lt": "—"
+    "en": "the Register's open data (data.gov.lt dataset 2613, its API): the list of every law, code and constitutional act with its number, status and days (one request, only the fields needed), and the consolidated editions of every act held here (50 acts a request), 5 s between requests",
+    "lt": "Registro atvirieji duomenys (data.gov.lt rinkinys 2613, jo API): visų įstatymų, kodeksų ir konstitucinių aktų sąrašas su numeriu, būsena ir datomis (viena užklausa, tik reikalingi laukai) ir kiekvieno čia esančio akto suvestinės redakcijos (50 aktų per užklausą), 5 s tarp užklausų"
    },
    "folders": [
     "konstitucija/",
@@ -18,14 +18,16 @@
     "istatymai/",
     "kiti-aktai/"
    ],
-   "schedule": "none",
-   "state": "not-yet-watched",
+   "schedule": "daily",
+   "state": "watched",
    "corpora": [
     "lithuania/national/acts"
    ],
+   "interval": 5.0,
+   "proxy": "eu",
    "note": {
-    "en": "not read: www.e-tar.lt and the Seimas's legal acts database (e-seimas.lrs.lt) answer automated requests with a Cloudflare challenge; the Register's open data on data.gov.lt (dataset 2613) refuse this watcher's address by a geographic rule, and the Seimas's open-data services (apps.lrs.lt) do not accept its connections (2026-11-23). The third-party copy of the open data this repository's texts came from (github.com/Yiin/lt-teises-aktai) has not been updated since 2026-08-08. The Constitution is compared with the Seimas's copy, and the laws Lithuania notified to the EU with the acts here (below)",
-    "lt": "neskaitomas: www.e-tar.lt ir Seimo teisės aktų duomenų bazė (e-seimas.lrs.lt) į automatines užklausas atsako Cloudflare patikros puslapiu; Registro atvirieji duomenys data.gov.lt (rinkinys 2613) šio stebėtojo adresą atmeta pagal geografinę taisyklę, o Seimo atvirųjų duomenų paslaugos (apps.lrs.lt) jo jungčių nepriima (2026-11-23). Trečiosios šalies atvirųjų duomenų kopija, iš kurios paimti šios repozitorijos tekstai (github.com/Yiin/lt-teises-aktai), neatnaujinta nuo 2026-08-08. Konstitucija lyginama su Seimo kopija, o Lietuvos ES praneštieji įstatymai – su čia esančiais aktais (žr. toliau)"
+    "en": "read through an EU address: data.gov.lt refuses this watcher's own by a geographic rule. www.e-tar.lt and e-seimas.lrs.lt answer automated requests with a Cloudflare challenge and are not read",
+    "lt": "skaitoma per ES adresą: data.gov.lt pagal geografinę taisyklę atmeta paties stebėtojo adresą. www.e-tar.lt ir e-seimas.lrs.lt į automatines užklausas atsako Cloudflare patikros puslapiu ir neskaitomi"
    }
   },
   {
@@ -50,8 +52,8 @@
    ],
    "interval": 20.0,
    "note": {
-    "en": "the parliament's copy, today's text only; robots.txt asks for 20 s between requests",
-    "lt": "parlamento kopija, tik dabartinis tekstas; robots.txt prašo 20 s tarp užklausų"
+    "en": "a second check of the Constitution: the parliament's copy, today's text only; robots.txt asks for 20 s between requests",
+    "lt": "antra Konstitucijos patikra: parlamento kopija, tik dabartinis tekstas; robots.txt prašo 20 s tarp užklausų"
    }
   },
   {
@@ -104,8 +106,8 @@
    ],
    "interval": 1.0,
    "note": {
-    "en": "a partial check: only the acts a notification names are compared (laws transposing EU directives); the Register itself is not read (above)",
-    "lt": "dalinė patikra: lyginami tik aktai, kuriuos nurodo pranešimai (ES direktyvas perkeliantys įstatymai); pats Registras neskaitomas (žr. aukščiau)"
+    "en": "a second check beside the Register: only the acts a notification names are compared (laws transposing EU directives), and they are not counted again in the freshness totals",
+    "lt": "antra patikra greta Registro: lyginami tik aktai, kuriuos nurodo pranešimai (ES direktyvas perkeliantys įstatymai), ir jie dar kartą neskaičiuojami aktualumo sumose"
    }
   },
   {
