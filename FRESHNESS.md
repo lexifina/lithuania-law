@@ -8,7 +8,7 @@ Kaip global-law matuoja kiekvienos šalies aktualumą: [global-law FRESHNESS.md]
 
 ### Teisės aktų registras: atvirieji duomenys · `lithuania/national/acts`
 
-- Oficialus šaltinis paskutinį kartą perskaitytas ir kiekvienas čia esantis aktas su juo palygintas: **2026-11-23 23:25 UTC**.
+- Oficialus šaltinis paskutinį kartą perskaitytas ir kiekvienas čia esantis aktas su juo palygintas: **2026-11-24 05:15 UTC**.
 - Čia esančių aktų: 931; aktualių šaltinyje: 921; šaltinyje pakeistų po čia esančios redakcijos: 10; šaltinyje nebėra: 0.
 - Šio skaitymo metu su šaltiniu palyginta: 133 iš 931 čia esančių aktų; kiti skaitomi paeiliui ir iki tol laikomi aktualiais.
 - Neskelbta čia: 16 (sulaikyta patikros: 10, įsigalios vėliau: 6); be priežasties: 0.
@@ -20,21 +20,21 @@ Kaip global-law matuoja kiekvienos šalies aktualumą: [global-law FRESHNESS.md]
 
 ### ES leidinių biuras (Lietuvos priemonės ES direktyvoms perkelti) · `lithuania/national/acts`
 
-- Oficialus šaltinis paskutinį kartą perskaitytas ir kiekvienas čia esantis aktas su juo palygintas: **2026-11-23 23:26 UTC**.
+- Oficialus šaltinis paskutinį kartą perskaitytas ir kiekvienas čia esantis aktas su juo palygintas: **2026-11-24 05:17 UTC**.
 - Čia esančių aktų: 10 103; aktualių šaltinyje: 10 102; šaltinyje pakeistų po čia esančios redakcijos: 0; šaltinyje nebėra: 1.
 - Šio skaitymo metu su šaltiniu palyginta: 10 102 iš 10 103 čia esančių aktų; kiti skaitomi paeiliui ir iki tol laikomi aktualiais.
 - Neskelbta čia: 3 (yra čia, šaltinyje nebėra: 1, sulaikyta patikros: 2); be priežasties: 0.
 
 ### ES leidinių biuras: Lietuvos praneštieji įstatymai (pakeitimo įstatymai, suvestinės redakcijos) · `lithuania/national/acts`
 
-- Oficialus šaltinis paskutinį kartą perskaitytas ir kiekvienas čia esantis aktas su juo palygintas: **2026-11-23 23:26 UTC**.
+- Oficialus šaltinis paskutinį kartą perskaitytas ir kiekvienas čia esantis aktas su juo palygintas: **2026-11-24 05:17 UTC**.
 - Neskelbta čia: 0 (—); be priežasties: 0.
 
 ### Konkurencijos taryba: nutarimai (kt.gov.lt) · `lithuania/national/acts`
 
-- Oficialus šaltinis paskutinį kartą perskaitytas ir kiekvienas čia esantis aktas su juo palygintas: **2026-11-23 23:27 UTC**.
+- Oficialus šaltinis paskutinį kartą perskaitytas ir kiekvienas čia esantis aktas su juo palygintas: **2026-11-24 05:18 UTC**.
 - Čia esančių aktų: 1 986; aktualių šaltinyje: 1 986; šaltinyje pakeistų po čia esančios redakcijos: 0; šaltinyje nebėra: 0.
-- Šio skaitymo metu su šaltiniu palyginta: 417 iš 1 986 čia esančių aktų; kiti skaitomi paeiliui ir iki tol laikomi aktualiais.
-- Neskelbta čia: 9 (sulaikyta patikros: 9); be priežasties: 0.
+- Šio skaitymo metu su šaltiniu palyginta: 544 iš 1 986 čia esančių aktų; kiti skaitomi paeiliui ir iki tol laikomi aktualiais.
+- Neskelbta čia: 12 (sulaikyta patikros: 12); be priežasties: 0.
 
 Išsamiau: [monitoring/](monitoring/README.md). Programoms: [data/checks/latest.json](data/checks/latest.json).
