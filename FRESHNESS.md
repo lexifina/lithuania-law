@@ -15,7 +15,7 @@ Kaip global-law matuoja kiekvienos šalies aktualumą: [global-law FRESHNESS.md]
 
 ### Seimas: Lietuvos Respublikos Konstitucija (lrs.lt) · `lithuania/national/acts`
 
-- Oficialus šaltinis paskutinį kartą perskaitytas ir kiekvienas čia esantis aktas su juo palygintas: **2026-11-23 23:25 UTC**.
+- Oficialus šaltinis paskutinį kartą perskaitytas ir kiekvienas čia esantis aktas su juo palygintas: **2026-11-24 08:04 UTC**.
 - Neskelbta čia: 0 (—); be priežasties: 0.
 
 ### ES leidinių biuras (Lietuvos priemonės ES direktyvoms perkelti) · `lithuania/national/acts`

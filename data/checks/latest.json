@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T05:18:38Z",
+ "generated": "2026-11-24T08:04:08Z",
  "latest": {
   "eu-nim-laws|lithuania/national/acts": {
    "attempt": 1,
@@ -260,24 +260,37 @@
    }
   },
   "lrs-konstitucija|lithuania/national/acts": {
-   "attempt": 1,
+   "attempt": 2,
    "audit": null,
-   "census": {},
-   "check_id": "lt-lrs-konstitucija-20261124T051546Z",
+   "census": {
+    "amending_laws_credited": 13,
+    "amending_laws_named": 13,
+    "behind": 0,
+    "compared": 1,
+    "current": null,
+    "gone": null,
+    "held": null,
+    "newest_at_source": "Nr. XIV-1030",
+    "newest_in_repo": "Nr. XIV-1030",
+    "pending": null,
+    "repo": 1,
+    "source_in_scope": 1
+   },
+   "check_id": "lt-lrs-konstitucija-20261124T080402Z",
    "commits": null,
    "corpus": "lithuania/national/acts",
-   "error": "SourceError: HTTP 503 for https://www.lrs.lt/home/Konstitucija/Konstitucija.htm",
-   "finished": "2026-11-24T05:16:50Z",
+   "error": null,
+   "finished": "2026-11-24T08:04:07Z",
    "flags": [],
    "gap": 0,
-   "note": null,
-   "outcome": "source-error",
+   "note": "the page's notes name 13 amending laws (I-1390, VIII-32, IX-959, IX-1305, IX-1378, IX-1379, IX-2343, IX-2344, X-572, XIII-2004, XIV-1028, XIV-1029, XIV-1030); every one is credited here (Law: trailers of konstitucija/); page last changed 2022-05-20 (Last-Modified); text fingerprint f5ba1abab46d24fa; the newest version here is in force from 2022-05-22; the wording is compared through the amendment notes only",
+   "outcome": "no-change",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 4,
+   "requests": 1,
    "runner": "lawwatch lithuania (36da98faf0)",
    "schema": "lexifina-check/1",
    "seen": {
@@ -285,11 +298,19 @@
     "changed": [],
     "removed": []
    },
-   "snapshot": null,
+   "snapshot": "2022-05-20",
    "source": "lrs-konstitucija",
-   "started": "2026-11-24T05:15:46Z",
+   "started": "2026-11-24T08:04:02Z",
    "unexplained": 0,
-   "verify": null
+   "verify": {
+    "cycle_days": 1,
+    "examples": [],
+    "method": "the Constitution as the Seimas prints it today (www.lrs.lt, the page this check read), split into units by the Constitution's own builder (lt_common.paragraphs, konstitucija.split, unchanged), against konstitucija/ at the tip: each unit's file byte for byte (the build's own check), the EU membership Constitutional Act paragraph for paragraph (eu_act_in_lrs)",
+    "ok": true,
+    "units": 171,
+    "versions_checked": 171,
+    "versions_differ": 0
+   }
   },
   "tar|lithuania/national/acts": {
    "attempt": 1,

@@ -15,7 +15,7 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Seimas: the Constitution (lrs.lt) · `lithuania/national/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-23 23:25 UTC**.
+- The official source last read and every act held here checked against it: **2026-11-24 08:04 UTC**.
 - Not published: 0 (—); with no reason: 0.
 
 ### EU Publications Office (Lithuania's measures transposing EU directives) · `lithuania/national/acts`
