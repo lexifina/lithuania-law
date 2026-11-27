@@ -6,22 +6,27 @@
 
 How global-law monitors every country: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). This page is the same for Lithuania only: every time an official source is read, when, and what came of it (acts added, changed and removed). The machine-readable form is [data/checks/](../data/checks/) (JSON Lines, schema `lexifina-check/1`), in `git log` as `Kind: check` commits, and month by month in [checks/](checks/).
 
-**Last check:** 2026-11-26 05:10 UTC, Competition Council: resolutions (kt.gov.lt): 71 addresses read; 0 added, 0 changed, 0 removed; changes found; 15 not published, 0 of them with no reason.
+**Last check:** 2026-11-27 05:09 UTC, Competition Council: resolutions (kt.gov.lt): 65 addresses read; 0 added, 0 changed, 0 removed; changes found; 20 not published, 0 of them with no reason.
 
 ## Sources
 
 | Source | Folders | How often | Last successful check | Last result | State |
 | --- | --- | --- | --- | --- | --- |
-| [Register of Legal Acts (Teisės aktų registras): open data](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai) | `konstitucija/`, `kodeksai/`, `istatymai/`, `kiti-aktai/` | daily | 2026-11-26 05:08 UTC | no change | watched: read through an EU address: data.gov.lt refuses this watcher's own by a geographic rule. www.e-tar.lt and e-seimas.lrs.lt answer automated requests with a Cloudflare challenge and are not read |
-| [Seimas: the Constitution (lrs.lt)](https://www.lrs.lt/home/Konstitucija/Konstitucija.htm) | `konstitucija/` | daily | 2026-11-26 05:08 UTC | no change | watched: a second check of the Constitution: the parliament's copy, today's text only; robots.txt asks for 20 s between requests |
-| [EU Publications Office (Lithuania's measures transposing EU directives)](https://publications.europa.eu/webapi/rdf/sparql) | `eu-nim/` | daily | 2026-11-26 05:09 UTC | no change | watched: records of the measures only; their texts are in the Register of Legal Acts |
-| [EU Publications Office: the laws Lithuania notified (amending laws, consolidated texts)](https://publications.europa.eu/webapi/rdf/sparql) | `kodeksai/`, `istatymai/`, `kiti-aktai/` | daily | 2026-11-26 05:09 UTC | no change | watched: a second check beside the Register: only the acts a notification names are compared (laws transposing EU directives), and they are not counted again in the freshness totals |
-| [Competition Council: resolutions (kt.gov.lt)](https://kt.gov.lt/lt/teisine-informacija/nutarimai) | `konkurencijos-taryba/` | daily | 2026-11-26 05:10 UTC | changes found | watched: decision records (metadata only); the list has no feed or API, so each year is re-read about once a month |
+| [Register of Legal Acts (Teisės aktų registras): open data](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai) | `konstitucija/`, `kodeksai/`, `istatymai/`, `kiti-aktai/` | daily | 2026-11-27 05:07 UTC | no change | watched: read through an EU address: data.gov.lt refuses this watcher's own by a geographic rule. www.e-tar.lt and e-seimas.lrs.lt answer automated requests with a Cloudflare challenge and are not read |
+| [Seimas: the Constitution (lrs.lt)](https://www.lrs.lt/home/Konstitucija/Konstitucija.htm) | `konstitucija/` | daily | 2026-11-27 05:07 UTC | no change | watched: a second check of the Constitution: the parliament's copy, today's text only; robots.txt asks for 20 s between requests |
+| [EU Publications Office (Lithuania's measures transposing EU directives)](https://publications.europa.eu/webapi/rdf/sparql) | `eu-nim/` | daily | 2026-11-27 05:08 UTC | no change | watched: records of the measures only; their texts are in the Register of Legal Acts |
+| [EU Publications Office: the laws Lithuania notified (amending laws, consolidated texts)](https://publications.europa.eu/webapi/rdf/sparql) | `kodeksai/`, `istatymai/`, `kiti-aktai/` | daily | 2026-11-27 05:08 UTC | no change | watched: a second check beside the Register: only the acts a notification names are compared (laws transposing EU directives), and they are not counted again in the freshness totals |
+| [Competition Council: resolutions (kt.gov.lt)](https://kt.gov.lt/lt/teisine-informacija/nutarimai) | `konkurencijos-taryba/` | daily | 2026-11-27 05:09 UTC | changes found | watched: decision records (metadata only); the list has no feed or API, so each year is re-read about once a month |
 
 ## The last 30 days
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-27 05:08](checks/2026-11.md#lt-kt-nutarimai-20261127t050834z) | kt-nutarimai | 65 | 0 | 0 | 0 | 20 (0) | changes found | [51](https://github.com/lexifina/lithuania-law/compare/cfd91a6b92df...f5daf01f9ec7) |
+| [2026-11-27 05:08](checks/2026-11.md#lt-eu-nim-laws-20261127t050832z) | eu-nim-laws | 1 | 0 | 0 | 0 | 0 (0) | no change | — |
+| [2026-11-27 05:07](checks/2026-11.md#lt-eu-nim-20261127t050717z) | eu-nim | 17 | 0 | 0 | 0 | 3 (0) | no change | — |
+| [2026-11-27 05:07](checks/2026-11.md#lt-lrs-konstitucija-20261127t050716z) | lrs-konstitucija | 1 | 0 | 0 | 0 | 0 (0) | no change | — |
+| [2026-11-27 05:02](checks/2026-11.md#lt-tar-20261127t050205z) | tar | 60 | 0 | 0 | 0 | 16 (0) | no change `audit-disagrees` | — |
 | [2026-11-26 05:09](checks/2026-11.md#lt-kt-nutarimai-20261126t050906z) | kt-nutarimai | 71 | 0 | 0 | 0 | 15 (0) | changes found | [35](https://github.com/lexifina/lithuania-law/compare/01094a1c2f06...21951bf52e22) |
 | [2026-11-26 05:09](checks/2026-11.md#lt-eu-nim-laws-20261126t050903z) | eu-nim-laws | 1 | 0 | 0 | 0 | 0 (0) | no change | — |
 | [2026-11-26 05:08](checks/2026-11.md#lt-eu-nim-20261126t050821z) | eu-nim | 17 | 0 | 0 | 0 | 3 (0) | no change | — |

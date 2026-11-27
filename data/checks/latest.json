@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T05:11:00Z",
+ "generated": "2026-11-27T05:09:57Z",
  "latest": {
   "eu-nim-laws|lithuania/national/acts": {
    "attempt": 1,
@@ -20,11 +20,11 @@
     "repo_read": "2026-11-20",
     "source_in_scope": 387
    },
-   "check_id": "lt-eu-nim-laws-20261126T050903Z",
+   "check_id": "lt-eu-nim-laws-20261127T050832Z",
    "commits": null,
    "corpus": "lithuania/national/acts",
    "error": null,
-   "finished": "2026-11-26T05:09:06Z",
+   "finished": "2026-11-27T05:08:34Z",
    "flags": [],
    "gap": 0,
    "note": "a second check beside the Register: 930 laws, codes and other acts held here (923 matched to their number); the notifications name 285 of them, which were compared: 0 behind a notified change, 285 not; 4153 notified laws and codes read: amending laws, consolidated texts and the laws themselves; 100 other laws the notifications name are not held here; the notifications do not say whether a law is still in force (README: 899 of the 922 acts in force are held), so they are not counted as gaps; 8 changes notified for acts held here come into force later; the newest version held here is from 2026-11-20, taken as the day this repository last read its sources",
@@ -44,7 +44,7 @@
    },
    "snapshot": "2026-11-10",
    "source": "eu-nim-laws",
-   "started": "2026-11-26T05:09:03Z",
+   "started": "2026-11-27T05:08:32Z",
    "unexplained": 0,
    "verify": {
     "cycle_days": 7,
@@ -64,33 +64,33 @@
     "method": "each record published this check, then a seeded sample of held ones (5 a day, 20 on a mass change), read again from the Cellar's own notice of the measure (publications.europa.eu/resource/cellar/<id>, XML object notice; check, update and verify read the SPARQL endpoint): its CELEX number, entry-into-force and notification days and the directives it transposes are in the notice",
     "rows": [
      {
-      "id": "263023",
+      "id": "244817",
       "published": false,
-      "read": "http://publications.europa.eu/resource/cellar/b6a32748-3277-4d01-bc09-06a8217d5017",
+      "read": "http://publications.europa.eu/resource/cellar/37d45f3b-4c2d-495a-aba9-10d47e28b2bb",
       "verdict": "match_new"
      },
      {
-      "id": "252037",
+      "id": "202602853",
       "published": false,
-      "read": "http://publications.europa.eu/resource/cellar/53b49d66-3d98-47e7-ba11-7f6f94a6475c",
+      "read": "http://publications.europa.eu/resource/cellar/199d751b-b4b2-486a-87d7-3b5e07e0c0a3",
       "verdict": "match_new"
      },
      {
-      "id": "194051",
+      "id": "275622",
       "published": false,
-      "read": "http://publications.europa.eu/resource/cellar/87d4796a-2fa5-4dc7-974d-5149caf37e0f",
+      "read": "http://publications.europa.eu/resource/cellar/fcc21353-b502-11e9-9d01-01aa75ed71a1",
       "verdict": "match_new"
      },
      {
-      "id": "139241",
+      "id": "202100583",
       "published": false,
-      "read": "http://publications.europa.eu/resource/cellar/36d16f60-0617-4179-b847-667bf3ead718",
+      "read": "http://publications.europa.eu/resource/cellar/9b5e9ec7-fe22-4db5-bf4a-b2dd60ab1f7d",
       "verdict": "match_new"
      },
      {
-      "id": "119965",
+      "id": "164192",
       "published": false,
-      "read": "http://publications.europa.eu/resource/cellar/ed62f8e9-98db-4aee-8ebf-df3498ae1ae1",
+      "read": "http://publications.europa.eu/resource/cellar/10cd46f9-30a7-4ca4-b976-61905d29698c",
       "verdict": "match_new"
      }
     ],
@@ -109,11 +109,11 @@
     "repo": 10102,
     "source_in_scope": 10104
    },
-   "check_id": "lt-eu-nim-20261126T050821Z",
+   "check_id": "lt-eu-nim-20261127T050717Z",
    "commits": null,
    "corpus": "lithuania/national/acts",
    "error": null,
-   "finished": "2026-11-26T05:09:03Z",
+   "finished": "2026-11-27T05:08:32Z",
    "flags": [],
    "gap": 3,
    "note": "records here as of 2026-11-24 (the EU's record of each measure; its text is in the Register of Legal Acts)",
@@ -133,7 +133,7 @@
    },
    "snapshot": "2026-11-18",
    "source": "eu-nim",
-   "started": "2026-11-26T05:08:21Z",
+   "started": "2026-11-27T05:07:17Z",
    "unexplained": 0,
    "update": {
     "corrections": 0,
@@ -159,33 +159,33 @@
     "method": "each record published this check, then a seeded sample of held ones (5 a day, 20 on a mass change): the resolution's own document at the Council (the record's link, read once) must answer: its PDF, or its page naming the resolution's number (the list, which check, update and verify read, is the first route)",
     "rows": [
      {
-      "id": "20190129-2S-1-2019",
+      "id": "20180118-1S-2-2018",
       "published": true,
-      "read": "https://kt.gov.lt//kt.gov.lt/uploads/docs/docs/3759_ae816439e7583b11d22f49010c8429e9.pdf",
+      "read": "https://kt.gov.lt//kt.gov.lt/uploads/docs/docs/3294_21c63eab748841b6093753915f4a16c3.pdf",
       "verdict": "unread"
      },
      {
-      "id": "20190206-1S-10-2019",
+      "id": "20180118-1S-4-2018",
       "published": true,
-      "read": "https://kt.gov.lt//kt.gov.lt/uploads/docs/docs/3789_a1c08f6976f8d7c31afde260c7b12421.pdf",
+      "read": "https://kt.gov.lt//kt.gov.lt/uploads/docs/docs/3295_574e73f1e9451f908d125aadeccaabb5.pdf",
       "verdict": "unread"
      },
      {
-      "id": "20190207-1S-11-2019",
+      "id": "20180125-1S-5-21018",
       "published": true,
-      "read": "https://kt.gov.lt//kt.gov.lt/uploads/docs/docs/3790_41088b3f64968f87f14ac11745ffb566.pdf",
+      "read": "https://kt.gov.lt//kt.gov.lt/uploads/docs/docs/3297_ab7c38aedd997d91615888ba16ae20bb.pdf",
       "verdict": "unread"
      },
      {
-      "id": "20190208-1S-12-2019",
+      "id": "20180125-1S-6-2018",
       "published": true,
-      "read": "https://kt.gov.lt//kt.gov.lt/uploads/docs/docs/3792_dc912acd33867b45458ac7d344950271.pdf",
+      "read": "https://kt.gov.lt//kt.gov.lt/uploads/docs/docs/3298_3c21f670eb72f4467d5b548893aacce5.pdf",
       "verdict": "unread"
      },
      {
-      "id": "20190218-1S-17-2019",
+      "id": "20180213-1S-16-2018",
       "published": true,
-      "read": "https://kt.gov.lt//kt.gov.lt/uploads/docs/docs/3798_deeb8129c6112b88b0dde76be48d3104.pdf",
+      "read": "https://kt.gov.lt//kt.gov.lt/uploads/docs/docs/3303_f920c152b92bb933cb35dc59a05023cc.pdf",
       "verdict": "unread"
      }
     ],
@@ -193,7 +193,7 @@
     "unread": 5
    },
    "census": {
-    "checked": 696,
+    "checked": 617,
     "current": 1986,
     "gone": 0,
     "held": 1986,
@@ -202,65 +202,81 @@
     "pending": 0,
     "repo": null,
     "source_in_scope": 2109,
-    "year_read": 2019,
+    "year_read": 2018,
     "years_listed": 28,
-    "years_read": 8
+    "years_read": 9
    },
-   "check_id": "lt-kt-nutarimai-20261126T050906Z",
+   "check_id": "lt-kt-nutarimai-20261127T050834Z",
    "commits": {
-    "count": 35,
-    "from": "01094a1c2f06907aeeccceeabefb9342b3d82d01",
-    "to": "21951bf52e22d3b5ada79bd174f0cecfcf55e972"
+    "count": 51,
+    "from": "cfd91a6b92dfd486c4e606186c9f99c8f8ed119c",
+    "to": "f5daf01f9ec74c5718e14b4e20d58e84edbd2d20"
    },
    "corpus": "lithuania/national/acts",
    "error": null,
-   "finished": "2026-11-26T05:10:59Z",
+   "finished": "2026-11-27T05:09:56Z",
    "flags": [],
-   "gap": 15,
-   "note": "the list counts 2109 resolutions; this check read its newest 1 page(s) and the 4 page(s) of 2019 (45 entries; 43 held here); years read so far: 8 of 28 (entries of the other years are compared when their year is read); records here taken 2026-11-25; entries are compared by day and number, not by summary or document",
+   "gap": 20,
+   "note": "the list counts 2109 resolutions; this check read its newest 1 page(s) and the 6 page(s) of 2018 (63 entries; 58 held here); years read so far: 9 of 28 (entries of the other years are compared when their year is read); records here taken 2026-11-25; entries are compared by day and number, not by summary or document",
    "outcome": "changed",
    "published": {
     "added": [],
     "changed": [
-     "20190129-2S-1-2019",
-     "20190206-1S-10-2019",
-     "20190207-1S-11-2019",
-     "20190208-1S-12-2019",
-     "20190218-1S-17-2019",
-     "20190308-1S-27-2019",
-     "20190326-1S-35-2019",
-     "20190402-1S-39-2019",
-     "20190404-1S-40-2019",
-     "20190404-1S-41-2019",
-     "20190409-1S-44-20169",
-     "20190430-1S-51-2019",
-     "20190521-1S-62-2019",
-     "20190612-1S-71-2019",
-     "20190626-1S-82-2019",
-     "20190626-1S-83-2019",
-     "20190626-1S-84-2019",
-     "20190628-1S-88-2019",
-     "20190716-1S-90-2019",
-     "20190716-1S-91-2019",
-     "20190718-1S-96-2019",
-     "20190719-1S-97-2019",
-     "20190808-101-2019",
-     "20190808-1S-103-2019",
-     "20191004-1S-122-2019",
-     "20191011-1S-123-2019",
-     "20191015-1S-124-2019",
-     "20191029-1S-129-2019",
-     "20191031-1S-132-2019",
-     "20191031-1S-134-2019",
-     "20191031-1S-136-2019",
-     "20191112-1S-142-2019",
-     "20191219-1S-158-2019",
-     "20191220-1S-159-2019",
-     "20191220-1S-160-2019"
+     "20180118-1S-2-2018",
+     "20180118-1S-4-2018",
+     "20180125-1S-5-21018",
+     "20180125-1S-6-2018",
+     "20180213-1S-16-2018",
+     "20180222-1S-19-2018",
+     "20180227-1S-26-2018",
+     "20180301-1S-27-2018",
+     "20180323-1S-34-2018",
+     "20180405-1S-37-2018",
+     "20180416-1S-42-2018",
+     "20180417-1S-45-2018",
+     "20180419-1S-46-2018",
+     "20180510-1S-59-2018",
+     "20180515-2S-3-2018",
+     "20180517-1S-64-2018",
+     "20180517-1S-66-2018",
+     "20180531-1S-72-2018",
+     "20180612-1S-78-2018",
+     "20180612-1S-79-2018",
+     "20180621-1S-83-2018",
+     "20180621-1S-84-2018",
+     "20180627-1S-86-2018",
+     "20180703-1S-89-2018",
+     "20180703-1S-90-2018",
+     "20180710-1S-95-2018",
+     "20180713-1S-100-2018",
+     "20180724-1S-104-2018",
+     "20180731-1S-110-2018",
+     "20180731-1S-111-2018",
+     "20180803-1S-113-2018",
+     "20180803-1S-115-2018",
+     "20180809-1S-116-2018",
+     "20180814-1S-120-2018",
+     "20180814-1S-121-2018",
+     "20180828-1S-122-2018",
+     "20180830-1S-126-2018",
+     "20180905-2S-4-2018",
+     "20180919-1S-135-2018",
+     "20180926-1S-139-2018",
+     "20181010-1S-141-2018",
+     "20181016-1S-142-2018",
+     "20181106-1S-148-2018",
+     "20181106-1S-149-2018",
+     "20181129-1S-157-2018",
+     "20181206-1S-159-2018",
+     "20181220-1S-172-2018",
+     "20181220-1S-173-2018",
+     "20181221-1S-175-2018",
+     "20181221-1S-176-2018",
+     "20181221-1S-177-2018"
     ],
     "removed": []
    },
-   "requests": 71,
+   "requests": 65,
    "runner": "lawwatch lithuania (74dcec275f)",
    "schema": "lexifina-check/1",
    "seen": {
@@ -270,11 +286,11 @@
    },
    "snapshot": "2026-11-20",
    "source": "kt-nutarimai",
-   "started": "2026-11-26T05:09:06Z",
+   "started": "2026-11-27T05:08:34Z",
    "unexplained": 0,
    "update": {
-    "corrections": 35,
-    "held_by_runner": 15,
+    "corrections": 51,
+    "held_by_runner": 20,
     "new": 0
    },
    "verify": {
@@ -283,7 +299,7 @@
     "method": "a rotating sweep over the Council's list, a few years of it a check (every year within 7 days) and its newest pages: each record held here whose entry was read against the record the repository's runner (lt-kt-nutarimai-runner build(): its parser, second HTML reading, privacy screen) writes from that entry, as of the record's own day and list page, byte for byte",
     "ok": true,
     "records_held": 1986,
-    "versions_checked": 696,
+    "versions_checked": 617,
     "versions_differ": 0
    }
   },
@@ -304,11 +320,11 @@
     "repo": 1,
     "source_in_scope": 1
    },
-   "check_id": "lt-lrs-konstitucija-20261126T050818Z",
+   "check_id": "lt-lrs-konstitucija-20261127T050716Z",
    "commits": null,
    "corpus": "lithuania/national/acts",
    "error": null,
-   "finished": "2026-11-26T05:08:21Z",
+   "finished": "2026-11-27T05:07:17Z",
    "flags": [],
    "gap": 0,
    "note": "the page's notes name 13 amending laws (I-1390, VIII-32, IX-959, IX-1305, IX-1378, IX-1379, IX-2343, IX-2344, X-572, XIII-2004, XIV-1028, XIV-1029, XIV-1030); every one is credited here (Law: trailers of konstitucija/); page last changed 2022-05-20 (Last-Modified); text fingerprint f5ba1abab46d24fa; the newest version here is in force from 2022-05-22; the wording is compared through the amendment notes only",
@@ -328,7 +344,7 @@
    },
    "snapshot": "2022-05-20",
    "source": "lrs-konstitucija",
-   "started": "2026-11-26T05:08:18Z",
+   "started": "2026-11-27T05:07:16Z",
    "unexplained": 0,
    "verify": {
     "cycle_days": 1,
@@ -343,54 +359,55 @@
   "tar|lithuania/national/acts": {
    "attempt": 1,
    "audit": {
-    "match_neither": 0,
-    "match_new": 4,
+    "match_neither": 1,
+    "match_new": 3,
     "match_old": 0,
     "method": "a second record of the Register: each sampled act's own Dokumentas record (tekstas_lt, which the Register keeps at the act's newest consolidated edition; check, update and verify read the editions, Suvestine), read through the builder's parser, against the act's folder at the tip, the act's whole letters and digits; a record of an edition in force later cannot be compared (unread). Sample: the acts this check changed or added, then a seeded sample of held acts (5 a day, 20 on a mass change)",
     "rows": [
      {
-      "folder": "istatymai/valstybinio-keliu-fondo-istatymas-xv-372",
-      "held": "2026-07-01",
-      "id": "XV-372",
+      "folder": "istatymai/svietimo-istatymas-i-1489",
+      "id": "I-1489",
       "published": false,
-      "read": "https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Dokumentas?dokumento_id=%2232086e9055cf11f0b070ee7f1ceefc75%22",
-      "record_edition": "2026-07-01",
-      "verdict": "match_new"
-     },
-     {
-      "folder": "istatymai/lietuvos-respublikoje-isrinktu-europos-parlamento-nariu-stat-ix-2025",
-      "held": "2004-02-28",
-      "id": "IX-2025",
-      "published": false,
-      "read": "https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Dokumentas?dokumento_id=%22TAR.08A4E2305357%22",
-      "record_edition": null,
-      "verdict": "match_new"
-     },
-     {
-      "folder": "istatymai/odontologijos-praktikos-ir-burnos-prieziuros-praktikos-istat-i-1246",
-      "id": "I-1246",
-      "published": false,
-      "read": "https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Dokumentas?dokumento_id=%22TAR.B8F45E398856%22",
+      "read": "https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Dokumentas?dokumento_id=%22TAR.9A3AD08EA5D0%22",
       "verdict": "unread",
-      "why": "the record holds the edition in force from 2027-01-01 (later)"
+      "why": "the record holds the edition in force from 2027-09-01 (later)"
      },
      {
-      "folder": "istatymai/lietuvos-banko-1992-metais-padarytos-kredito-emisijos-dalies-viii-1299",
-      "held": "1999-07-30",
-      "id": "VIII-1299",
+      "folder": "istatymai/asmens-su-negalia-teisiu-apsaugos-pagrindu-istatymas-i-2044",
+      "held": "2026-07-01",
+      "id": "I-2044",
       "published": false,
-      "read": "https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Dokumentas?dokumento_id=%22TAR.D75AC4D4B34D%22",
+      "read": "https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Dokumentas?dokumento_id=%22TAR.199156E4E004%22",
+      "record_edition": "2026-07-11",
+      "verdict": "match_new"
+     },
+     {
+      "folder": "istatymai/patentiniu-patiketiniu-istatymas-xiii-546",
+      "held": "2018-05-01",
+      "id": "XIII-546",
+      "published": false,
+      "read": "https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Dokumentas?dokumento_id=%2257771670663d11e7b85cfdc787069b42%22",
       "record_edition": null,
       "verdict": "match_new"
      },
      {
-      "folder": "kiti-aktai/istatymas-del-lietuvos-respublikos-narystes-tarptautiniame-v-xiii-877",
-      "held": "2018-01-01",
-      "id": "XIII-877",
+      "folder": "kiti-aktai/istatymas-del-sutarties-del-baltijos-valstybiu-bendrosios-tr-ix-2208",
+      "held": "2004-05-11",
+      "id": "IX-2208",
       "published": false,
-      "read": "https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Dokumentas?dokumento_id=%2208711820e4c111e7acd7ea182930b17f%22",
+      "read": "https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Dokumentas?dokumento_id=%22TAR.9E0987D50888%22",
       "record_edition": null,
       "verdict": "match_new"
+     },
+     {
+      "folder": "istatymai/itariamuju-kaltinamuju-ir-nuteistuju-registro-istatymas-xi-1503",
+      "held": "2019-12-11",
+      "id": "XI-1503",
+      "published": false,
+      "read": "https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai/Dokumentas?dokumento_id=%22TAR.C511E34B145B%22",
+      "record_edition": null,
+      "verdict": "match_neither",
+      "why": "letters differ: antraste.md; letters differ: art-001.md; letters differ: art-006.md; letters differ: art-008.md"
      }
     ],
     "sampled": 5,
@@ -411,21 +428,26 @@
     "repo_read": "2026-11-20",
     "source_in_scope": 929
    },
-   "check_id": "lt-tar-20261126T050337Z",
+   "check_id": "lt-tar-20261127T050205Z",
    "commits": null,
    "corpus": "lithuania/national/acts",
    "error": null,
-   "finished": "2026-11-26T05:08:18Z",
-   "flags": [],
+   "finished": "2026-11-27T05:07:16Z",
+   "flags": [
+    {
+     "detail": "1 of 5 read again by a second route disagree",
+     "flag": "audit-disagrees"
+    }
+   ],
    "gap": 16,
-   "note": "the Register lists 15298 laws, codes and constitutional acts (12548 not repealed); 931 acts held here, 931 found in it (903 by the id their commits name, 26 by their number, 2 by title); their 10673 consolidated editions read; 175 editions of acts held here come into force later; scope: the repository builder's universe (laws, codes and constitutional laws in force, amending, ratifying, commencement and extending laws left out): 928 at the Register, and the Constitution; not held: 0 (0 published after the newest version here, 0 older: both pending-publish, 6 in force later); not counted as gaps: 11611 amending, repealing or commencement laws (their changes belong to the acts they amend), 0 laws on treaties, 2 acts of international bodies, 0 other acts outside the builder's universe, 2748 acts no longer in force; the Register's data of 2026-11-25 (list), 2026-11-19 (editions); the newest version held here is from 2026-11-20, taken as the day this repository last read its sources",
+   "note": "the Register lists 15298 laws, codes and constitutional acts (12548 not repealed); 931 acts held here, 931 found in it (903 by the id their commits name, 26 by their number, 2 by title); their 10673 consolidated editions read; 175 editions of acts held here come into force later; scope: the repository builder's universe (laws, codes and constitutional laws in force, amending, ratifying, commencement and extending laws left out): 928 at the Register, and the Constitution; not held: 0 (0 published after the newest version here, 0 older: both pending-publish, 6 in force later); not counted as gaps: 11611 amending, repealing or commencement laws (their changes belong to the acts they amend), 0 laws on treaties, 2 acts of international bodies, 0 other acts outside the builder's universe, 2748 acts no longer in force; the Register's data of 2026-11-26 (list), 2026-11-19 (editions); the newest version held here is from 2026-11-20, taken as the day this repository last read its sources",
    "outcome": "no-change",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 54,
+   "requests": 60,
    "runner": "lawwatch lithuania (74dcec275f)",
    "schema": "lexifina-check/1",
    "seen": {
@@ -433,9 +455,9 @@
     "changed": [],
     "removed": []
    },
-   "snapshot": "2026-11-25",
+   "snapshot": "2026-11-26",
    "source": "tar",
-   "started": "2026-11-26T05:03:37Z",
+   "started": "2026-11-27T05:02:05Z",
    "unexplained": 0,
    "update": {
     "acts_added": 0,
@@ -451,7 +473,7 @@
     "acts_held": 930,
     "cycle_days": 7,
     "examples": [],
-    "files_checked": 946,
+    "files_checked": 7558,
     "method": "a rotating sweep, a seventh of the held acts a check (and every act this check wrote): the Register's own text of the version held (its consolidated edition of the newest In-force day here, Suvestine.tekstas_lt; a text held as adopted: Dokumentas.tekstas_lt), read through the repository's builder (lt-unified-runner's paragraphs, cel.parse_edition), against the act's folder at the tip: case-folded letters and digits file by file (a text as adopted, which the copy's HTML conversion split otherwise: the act's whole text); differences are corrected by the next update()",
     "no_text_at_source": 0,
     "ok": true,
