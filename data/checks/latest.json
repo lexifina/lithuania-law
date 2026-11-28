@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T05:18:50Z",
+ "generated": "2026-11-28T09:03:26Z",
  "latest": {
   "eu-nim-laws|lithuania/national/acts": {
    "attempt": 1,
@@ -56,24 +56,74 @@
    }
   },
   "eu-nim|lithuania/national/acts": {
-   "attempt": 1,
-   "audit": null,
-   "census": {},
-   "check_id": "lt-eu-nim-20261128T050640Z",
+   "attempt": 4,
+   "audit": {
+    "match_neither": 0,
+    "match_new": 5,
+    "match_old": 0,
+    "method": "each record published this check, then a seeded sample of held ones (5 a day, 20 on a mass change), read again from the Cellar's own notice of the measure (publications.europa.eu/resource/cellar/<id>, XML object notice; check, update and verify read the SPARQL endpoint): its CELEX number, entry-into-force and notification days and the directives it transposes are in the notice",
+    "rows": [
+     {
+      "id": "188874",
+      "published": false,
+      "read": "http://publications.europa.eu/resource/cellar/432815df-9e73-4430-891d-b814fae50f60",
+      "verdict": "match_new"
+     },
+     {
+      "id": "237420",
+      "published": false,
+      "read": "http://publications.europa.eu/resource/cellar/6d0716a2-56a5-487d-bc6f-25f0ba7ba4e0",
+      "verdict": "match_new"
+     },
+     {
+      "id": "231176",
+      "published": false,
+      "read": "http://publications.europa.eu/resource/cellar/e33d3d20-8bb5-4534-a281-834ddc1c91a9",
+      "verdict": "match_new"
+     },
+     {
+      "id": "146470",
+      "published": false,
+      "read": "http://publications.europa.eu/resource/cellar/8957728d-8b4b-4f1c-a172-b4658b8de370",
+      "verdict": "match_new"
+     },
+     {
+      "id": "190866",
+      "published": false,
+      "read": "http://publications.europa.eu/resource/cellar/4b5e7ee5-a061-422a-b533-72318a9b7d01",
+      "verdict": "match_new"
+     }
+    ],
+    "sampled": 5,
+    "unread": 0
+   },
+   "census": {
+    "checked": 10102,
+    "current": 10102,
+    "gone": 1,
+    "held": 10103,
+    "newest_at_source": "202608122",
+    "newest_in_repo": "202608122",
+    "pending": 0,
+    "records_as_of": "2026-11-24",
+    "repo": 10102,
+    "source_in_scope": 10104
+   },
+   "check_id": "lt-eu-nim-20261128T090203Z",
    "commits": null,
    "corpus": "lithuania/national/acts",
-   "error": "SourceError: https://publications.europa.eu/webapi/rdf/sparql?query=PREFIX+cdm%3A+%3Chttp%3A%2F%2Fpublications.europa.eu%2Fontology%2Fcdm%23%3E%0APREFIX+cmr%3A+%3Chttp%3A%2F%2Fpublications.europa.eu%2Fontology%2Fcdm%2Fcmr%23%3E%0ASELECT+%3Fw+%3Fid+%3Fnotified+%3Fmodified+%3Fforce+%3Fdoc+%3Flocal+%3F",
-   "finished": "2026-11-28T05:13:18Z",
+   "error": null,
+   "finished": "2026-11-28T09:03:26Z",
    "flags": [],
-   "gap": 0,
-   "note": null,
-   "outcome": "source-error",
+   "gap": 3,
+   "note": "records here as of 2026-11-24 (the EU's record of each measure; its text is in the Register of Legal Acts)",
+   "outcome": "no-change",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 4,
+   "requests": 17,
    "runner": "lawwatch lithuania (74dcec275f)",
    "schema": "lexifina-check/1",
    "seen": {
@@ -81,11 +131,24 @@
     "changed": [],
     "removed": []
    },
-   "snapshot": null,
+   "snapshot": "2026-11-18",
    "source": "eu-nim",
-   "started": "2026-11-28T05:06:40Z",
+   "started": "2026-11-28T09:02:03Z",
    "unexplained": 0,
-   "verify": null
+   "update": {
+    "corrections": 0,
+    "held_by_runner": 2,
+    "new": 0
+   },
+   "verify": {
+    "cycle_days": 1,
+    "examples": [],
+    "method": "every measure record at the tip (eu-nim/) against the record the repository's runner (lt-eu-nim-runner build()) writes from the listing read this check (its own SPARQL query, keyset pages), as of the record's own day (retrieved), byte for byte",
+    "ok": true,
+    "records_held": 10103,
+    "versions_checked": 10102,
+    "versions_differ": 0
+   }
   },
   "kt-nutarimai|lithuania/national/acts": {
    "attempt": 1,

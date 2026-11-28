@@ -20,8 +20,10 @@ Kaip global-law matuoja kiekvienos šalies aktualumą: [global-law FRESHNESS.md]
 
 ### ES leidinių biuras (Lietuvos priemonės ES direktyvoms perkelti) · `lithuania/national/acts`
 
-- Oficialus šaltinis paskutinį kartą perskaitytas ir kiekvienas čia esantis aktas su juo palygintas: **2026-11-27 05:08 UTC**.
-- Neskelbta čia: 0 (—); be priežasties: 0.
+- Oficialus šaltinis paskutinį kartą perskaitytas ir kiekvienas čia esantis aktas su juo palygintas: **2026-11-28 09:03 UTC**.
+- Čia esančių aktų: 10 103; aktualių šaltinyje: 10 102; šaltinyje pakeistų po čia esančios redakcijos: 0; šaltinyje nebėra: 1.
+- Šio skaitymo metu su šaltiniu palyginta: 10 102 iš 10 103 čia esančių aktų; kiti skaitomi paeiliui ir iki tol laikomi aktualiais.
+- Neskelbta čia: 3 (yra čia, šaltinyje nebėra: 1, sulaikyta patikros: 2); be priežasties: 0.
 
 ### ES leidinių biuras: Lietuvos praneštieji įstatymai (pakeitimo įstatymai, suvestinės redakcijos) · `lithuania/national/acts`
 

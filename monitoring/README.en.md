@@ -6,7 +6,7 @@
 
 How global-law monitors every country: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). This page is the same for Lithuania only: every time an official source is read, when, and what came of it (acts added, changed and removed). The machine-readable form is [data/checks/](../data/checks/) (JSON Lines, schema `lexifina-check/1`), in `git log` as `Kind: check` commits, and month by month in [checks/](checks/).
 
-**Last check:** 2026-11-28 05:18 UTC, Competition Council: resolutions (kt.gov.lt): 72 addresses read; 1 added, 0 changed, 0 removed; changes found; 23 not published, 0 of them with no reason. Flags: `verify-differ`.
+**Last check:** 2026-11-28 09:03 UTC, EU Publications Office (Lithuania's measures transposing EU directives): 17 addresses read; 0 added, 0 changed, 0 removed; no change; 3 not published, 0 of them with no reason.
 
 ## Sources
 
@@ -14,7 +14,7 @@ How global-law monitors every country: [global-law monitoring/](https://github.c
 | --- | --- | --- | --- | --- | --- |
 | [Register of Legal Acts (Teisės aktų registras): open data](https://get.data.gov.lt/datasets/gov/lrsk/teises_aktai) | `konstitucija/`, `kodeksai/`, `istatymai/`, `kiti-aktai/` | daily | 2026-11-28 05:06 UTC | no change | watched: read through an EU address: data.gov.lt refuses this watcher's own by a geographic rule. www.e-tar.lt and e-seimas.lrs.lt answer automated requests with a Cloudflare challenge and are not read |
 | [Seimas: the Constitution (lrs.lt)](https://www.lrs.lt/home/Konstitucija/Konstitucija.htm) | `konstitucija/` | daily | 2026-11-28 05:06 UTC | no change | watched: a second check of the Constitution: the parliament's copy, today's text only; robots.txt asks for 20 s between requests |
-| [EU Publications Office (Lithuania's measures transposing EU directives)](https://publications.europa.eu/webapi/rdf/sparql) | `eu-nim/` | daily | 2026-11-27 05:08 UTC | the source did not answer | watched: records of the measures only; their texts are in the Register of Legal Acts |
+| [EU Publications Office (Lithuania's measures transposing EU directives)](https://publications.europa.eu/webapi/rdf/sparql) | `eu-nim/` | daily | 2026-11-28 09:03 UTC | no change | watched: records of the measures only; their texts are in the Register of Legal Acts |
 | [EU Publications Office: the laws Lithuania notified (amending laws, consolidated texts)](https://publications.europa.eu/webapi/rdf/sparql) | `kodeksai/`, `istatymai/`, `kiti-aktai/` | daily | 2026-11-28 05:17 UTC | no change | watched: a second check beside the Register: only the acts a notification names are compared (laws transposing EU directives), and they are not counted again in the freshness totals |
 | [Competition Council: resolutions (kt.gov.lt)](https://kt.gov.lt/lt/teisine-informacija/nutarimai) | `konkurencijos-taryba/` | daily | 2026-11-28 05:18 UTC | changes found | watched: decision records (metadata only); the list has no feed or API, so each year is re-read about once a month |
 
@@ -22,6 +22,9 @@ How global-law monitors every country: [global-law monitoring/](https://github.c
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-28 09:02](checks/2026-11.md#lt-eu-nim-20261128t090203z) | eu-nim | 17 | 0 | 0 | 0 | 3 (0) | no change | — |
+| [2026-11-28 08:02](checks/2026-11.md#lt-eu-nim-20261128t080204z) | eu-nim | 0 | 0 | 0 | 0 | 0 (0) | the check failed | — |
+| [2026-11-28 07:02](checks/2026-11.md#lt-eu-nim-20261128t070203z) | eu-nim | 0 | 0 | 0 | 0 | 0 (0) | the check failed | — |
 | [2026-11-28 05:17](checks/2026-11.md#lt-kt-nutarimai-20261128t051722z) | kt-nutarimai | 72 | 1 | 0 | 0 | 23 (0) | changes found `verify-differ` | [36](https://github.com/lexifina/lithuania-law/compare/a14fa4250861...84ccf3362792) |
 | [2026-11-28 05:13](checks/2026-11.md#lt-eu-nim-laws-20261128t051318z) | eu-nim-laws | 3 | 0 | 0 | 0 | 0 (0) | no change | — |
 | [2026-11-28 05:06](checks/2026-11.md#lt-eu-nim-20261128t050640z) | eu-nim | 4 | 0 | 0 | 0 | 0 (0) | the source did not answer | — |
